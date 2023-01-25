@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<!-- mutant -->
+	<string id="igi_task_text_gt_mutant_title">
+		<text>危険なミュータントを退治する</text>
+	</string>
+	<string id="igi_task_text_gt_mutant_descr">
+		<text>私の仕事は、この地域のミュータントを排除することだ。</text>
+	</string>
+	<string id="igi_task_text_gt_mutant_job_descr">
+		<text>最近、いくつかのミュータントが出現し、我々の活動を脅かしている。司令官は彼らを始末できる者を求めている。</text>
+	</string>
+	<string id="igi_task_text_gt_mutant_finish">
+		<text>よくやった！これで活動ができる</text>
+	</string>
+	<!-- supply -->
+	<string id="igi_task_text_gt_supply_title">
+		<text>サプライチェーン</text>
+	</string>
+	<string id="igi_task_text_gt_supply_descr">
+		<text>私の仕事は、見張りを無力化し、コンテナを届けることだ。</text>
+	</string>
+	<string id="igi_task_text_gt_supply_job_descr">
+		<text>我々のパトロール隊は、この座標に補給部隊のいることを報告している。何らかの理由でキャラバン隊はまだ到着していないようだ。ミュータントの活動、悪天候、排気ガス、あるいはその他の要因に妨げられているのかもしれない。彼らのキャラバン隊を捜索してくれ。彼らの物資は我々のグループにとって役に立つだろう。恩を仇で返すようなことはしない。</text>
+	</string>
+	<string id="igi_task_text_gt_supply_finish">
+		<text>誠実な仕事には誠実な報酬を。こういうのは、実にいい。</text>
+	</string>
+	<!-- heavy -->
+	<string id="igi_task_text_gt_heavy_title">
+		<text>無力化</text>
+	</string>
+	<string id="igi_task_text_gt_heavy_descr">
+		<text>この場所にいる敵のストーカーの集団を無力化する必要がある。</text>
+	</string>
+	<string id="igi_task_text_gt_heavy_job_descr">
+		<text>最近、我々のすぐ近くに敵の一団が現れた。この連中はお前にとってかなり手ごわいようだが、やりすぎは禁物だ。彼らは人手が多く、明らかにトラブルを起こそうとしている。グッドハンティング、ストーカー</text>
+	</string>
+	<string id="igi_task_text_gt_heavy_finish">
+		<text>問題ないだろうな？こいつらは明らかに戦闘態勢に入っていた。素晴らしい出来栄えだ</text>
+	</string>
+	
+	<!-- transaction -->
+	<string id="igi_task_text_gt_transaction_title">
+		<text>取引内容</text>
+	</string>
+	<string id="igi_task_text_gt_transaction_descr">
+		<text>この連中は仲間を裏切ったようだ。私の仕事は彼らを全員殺すことだ。指定された場所で取引をすることになる。</text>
+	</string>
+	<string id="igi_task_text_gt_transaction_job_descr">
+		<text>私の友人が、自分のグループでネズミ狩りを始めることにした。詳細は省くが......君の仕事は、集合場所に来て品物を受け取ることだ。力づくで。商品を持ってくれば、使い道が見つかる。</text>
+	</string>
+	<string id="igi_task_text_gt_transaction_finish">
+		<text>よくやった。これで奴らに一杯食わせたな。これがお前の分だ</text>
+	</string>
+	
+	<!-- artifact_world -->
+	<string id="igi_task_text_gt_artifact_world_title">
+		<text>すべての人に、無料でアーティファクトを</text>
+	</string>
+	<string id="igi_task_text_gt_artifact_world_descr">
+		<text>医者が言うには、ここでアーティファクトが見つかるかもしれないそうだ。ならば、運を試してみよう。</text>
+	</string>
+	<string id="igi_task_text_gt_artifact_world_job_descr">
+		<text>うちの連中が通りかかった時に、そのアーティファクトを見つけたんだ。彼らは負傷者を連れていたので、この情報を私に伝えてくれた。君はよく働いていることが分かったので、この情報を タダであげよう。我々の派閥のために働き続ければ もっとたくさん手に入るだろう。</text>
+	</string>
+	<string id="igi_task_text_gt_artifact_world_finish">
+		<text>何もない。このセリフはゲーム内では表示されません。</text>
+	</string>
+	
+	<!-- artifact_stalker -->
+	<string id="igi_task_text_gt_artifact_stalker_title">
+		<text>アーティファクト "ハンティング"</text>
+	</string>
+	<string id="igi_task_text_gt_artifact_stalker_descr">
+		<text>医者が言うには、この男はアーティファクトを持っているそうだ。しかし、彼はあまり友好的ではない...。</text>
+	</string>
+	<string id="igi_task_text_gt_artifact_stalker_job_descr">
+		<text>この男のグループは、うちの連中が通りかかった時に、遺物を探していたんだ。重い荷物を持ったこいつの手伝いをしたいと思わないか？</text>
+	</string>
+	<string id="igi_task_text_gt_artifact_stalker_finish">
+		<text>Nothing. This line will not be shown in the game.</text>
+	</string>
+	
+	<!-- weapon -->
+	<string id="igi_task_text_gt_weapon_title">
+		<text>装備</text>
+	</string>
+	<string id="igi_task_text_gt_weapon_descr">
+		<text>装備をアップグレードする機会がある。使ってみようかな...。</text>
+	</string>
+	<string id="igi_task_text_gt_weapon_job_descr">
+		<text>敵には優秀な部隊がいるらしく、装備もかなり良い。自分の力を試し、敵を弱体化させたいとは思わないか？その装備は君の報酬になるだろう。</text>
+	</string>
+	<string id="igi_task_text_gt_weapon_finish">
+		<text>Nothing. This line will not be shown in the game.</text>
+	</string>
+</string_table>

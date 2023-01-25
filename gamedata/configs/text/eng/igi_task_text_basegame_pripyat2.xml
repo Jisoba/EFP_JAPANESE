@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON PRIPYAT MAP
+<	CoC 1.4.08 - DoctorX Questlines 1.6
+<
+<	Modified by: DoctorX
+<	Last revised: October 07, 2016
+<
+<===========================================================-->
+
+<string_table>
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Eidolon (Elite Monolith Soldier) Purge the Infidels Task -->
+	<string id="igi_task_text_monolith_eidolon_task_bs_fetch_patches_title">
+		<text>異教徒を粛清せよ</text>
+	</string>
+	<string id="igi_task_text_monolith_eidolon_task_bs_fetch_patches_descr">
+		<text>エイドロンはいくつかのワッペンを集めたいと考えている。</text>
+	</string>
+	<string id="igi_task_text_monolith_eidolon_task_bs_fetch_patches_job_descr">
+		<text>我々は包囲されている。異教徒が全能のモノリスから搾取しようとしています。欲望に駆られ 無知に 卑しい欲望 モノリスに代わって 我々は守護者として行動する 異教徒を粛清し 彼らのワッペンを収集します。トロフィーとして 疑う余地のない優越の証として。 行け、兄弟 皆殺しにしろ</text>
+	</string>
+	<string id="igi_task_text_monolith_eidolon_task_bs_fetch_patches_finish">
+		<text>このような献身は 我々の栄光のために 献身は報われるであろう</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Eidolon (Elite Monolith Soldier) Hunt the Mutants Task -->
+	
+	<string id="igi_task_text_monolith_eidolon_task_2_title">
+		<text>偉大なる戦士</text>
+	</string>	
+	<string id="igi_task_text_monolith_eidolon_task_2_descr">
+		<text>エイドロンために戦利品を集めよう。</text>
+	</string>		
+	<string id="igi_task_text_monolith_eidolon_task_2_job_descr">
+		<text>凶悪で、致命的な獣。ゾーンがくれた贈り物です。私たちのために 守護者であり供給者であり 記念碑でもある 我々の力が試される 覚悟と戦闘力を試すのだ 行け、兄弟 強大なハンターを狩るのだ。</text>
+	</string>		
+	<string id="igi_task_text_monolith_eidolon_task_2_fetch_job_descr">
+		<text>凶悪で、致命的な獣。ゾーンがくれた贈り物です。私たちのために 守護者であり供給者であり 記念碑でもある 我々の力が試される 覚悟と戦闘力を試すのだ 行け、兄弟 強大なハンターを狩るのだ。戦利品を集めて、自分の価値を証明せよ。</text>
+	</string>	
+	<string id="igi_task_text_monolith_eidolon_task_2_fetch_finish">
+		<text>壮大なトロフィー。モノリスは誇りに思う 私もだ ご褒美をあげよう</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Eidolon (Elite Monolith Soldier) Harvest the Fruit Task -->
+
+	<string id="igi_task_text_monolith_eidolon_task_3_title">
+		<text>果実を収穫する</text>
+	</string>
+	<string id="igi_task_text_monolith_eidolon_task_3_descr">
+		<text>エイドロンはアーティファクトを集めたいと考えている。</text>
+	</string>
+	<string id="igi_task_text_monolith_eidolon_task_3_job_descr">
+		<text>私たちはモノリスをお守りしている。モノリスが我々を守ってくださる。私たちは奉仕し、ゾーンはそれを伝える。その比類なき輝きに満ちた 輝かしい果実が。強力なパワーがあります さあ 果実を収穫してください</text>
+	</string>
+	<string id="igi_task_text_monolith_eidolon_task_3_fetch_job_descr">
+		<text>私たちはモノリスをお守りしている。モノリスが我々を守ってくださる。私たちは奉仕し、ゾーンはそれを伝える。その比類なき輝きに満ちた 輝かしい果実が。強力なパワーがあります さあ 果実を収穫してください。私たちの力を高めるために。</text>
+	</string>
+	<string id="igi_task_text_monolith_eidolon_task_3_fetch_finish">
+		<text>素晴らしい。見事だ。 感謝するよ、忠実な兄弟</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Eidolon (Elite Monolith Soldier) Keeper of Secrets Task -->
+	<string id="igi_task_text_monolith_eidolon_task_4_title">
+		<text>キーパーオブシークレット</text>
+	</string>
+	<string id="igi_task_text_monolith_eidolon_task_4_descr">
+		<text>ゾーンの秘密が書かれた書類を回収し、エイドロンに持ち帰る。</text>
+	</string>
+	<string id="igi_task_text_monolith_eidolon_task_4_job_descr">
+		<text>ゾーンの素晴らしさが、ゾーンの不思議についてー 詳しく書かれています。秘密の知識です。異教徒に知られてはなりません その文書を回収して 持って来れば褒美を授けます。</text>
+	</string>
+	<string id="igi_task_text_monolith_eidolon_task_4_finish">
+		<text>ゾーンは安全です あなたのおかげです。</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Rabbit (Monolith Trader) Assault Territory Task -->
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_bs_assault_stalker_online_title">
+		<text>敵に勝利する</text>
+	</string>
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_bs_assault_stalker_online_descr">
+		<text>あなたは全能のモノリスのために、ある場所を一掃するよう命じられた。任務完了後、ラビットに報告せよ。</text>
+	</string>
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_bs_assault_stalker_online_job_descr">
+		<text>君に重要な任務を与える ゾーンに行き 我らが軍の邪魔立てを阻止せよ 準備はいいか？</text>
+	</string>
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_bs_assault_stalker_online_finish">
+		<text>タスクは完了した？よろしい。 モノリスを褒め称えよう。</text>
+	</string>
+
+
+
+	<!-- ASSASSINATION FOR MONOLITH TASK -->
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_bs_kill_stalker_nearby_title">
+		<text>企画者を殺す</text>
+	</string>
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_bs_kill_stalker_nearby_descr">
+		<text>ストーカーがブレイン・スコーチャーの機能を停止させようとしている。彼を殺してください。</text>
+	</string>
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_bs_kill_stalker_nearby_job_descr">
+		<text>ゾーンの偉大な業績を 脅かす者がいます ブレイン・スコーチャーの 機能停止を企む者がいます 彼を止めなければなりません 彼を見つけ出し 破壊するのだ</text>
+	</string>
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_bs_kill_stalker_nearby_finish">
+		<text>あなたはよくやった。皆が喜んでいる。</text>
+	</string>
+
+
+	<!-- FIND WEAPON FOR MONOLITH TASK -->
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_3_title">
+		<text>ラビットの武器を調達する</text>
+	</string>
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_3_descr">
+		<text>ラビットはモノリスの武器として、新しいライフルを要求してきた。</text>
+	</string>
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_3_job_descr">
+		<text>私たちは日々、力を増しています。目標を達成し続けるために、より多くの武器が必要です。私たちが武器を増やし続けられるよう、新しい武器を探してください。</text>
+	</string>
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_3_fetch_job_descr">
+		<text>新しい武器を見つけて持ってきてください。</text>
+	</string>
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_3_fetch_finish">
+		<text>これはうまくいくでしょう。</text>
+	</string>
+
+
+	<!-- FIND MUTANT MEAT FOR MONOLITH TASK -->
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_4_title">
+		<text>ラビットのために肉を得る</text>
+	</string>
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_4_descr">
+		<text>狩りをし、ラビットに肉を渡し、調理してもらう。</text>
+	</string>
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_4_job_descr">
+		<text>食料が不足しています ゾーンに出て行って モノリスの兄弟に肉を食べさせてやるんだ</text>
+	</string>
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_4_fetch_job_descr">
+		<text>狩って肉を持ってくるように。 これらの生き物は ゾーンからの贈り物です 素早く殺し、ゾーンに感謝を。成功したら 肉をこちらに。</text>
+	</string>
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_4_fetch_finish">
+		<text>あなたは課題を成功させました。よくやった。</text>
+	</string>
+
+
+	<!-- FIND SUPPLIES FOR MONOLITH TASK -->
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_5_title">
+		<text>ラビットのために必要な物資を集める</text>
+	</string>
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_5_descr">
+		<text>物資を調達し、ラビットへ返却する。</text>
+	</string>
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_5_job_descr">
+		<text>私たちが偉大な奉仕を続けられるように、もっと物資を調達してください。</text>
+	</string>
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_5_fetch_job_descr">
+		<text>物資を回収して持ってくる。</text>
+	</string>
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_5_fetch_finish">
+		<text>あなたはモノリスによく仕えてくれました。</text>
+	</string>
+
+
+	<!-- FIND ARTEFACT FOR MONOLITH TASK -->
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_6_title">
+		<text>ラビットのためにアーティファクトを探す</text>
+	</string>
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_6_descr">
+		<text>アーティファクトを見つける。ラビットのところに持っていくと、供え物として用意してくれるかもしれない。</text>
+	</string>
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_6_job_descr">
+		<text>供物として渡す別のアーティファクトを探さなければならない。モノリスのために力を貸してくれないか？</text>
+	</string>
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_6_fetch_job_descr">
+		<text>アーティファクトを探してください。成功したら私のところに持ってくるように。儀式を執り行うことができる。</text>
+	</string>
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_6_fetch_finish">
+		<text>あなたはモノリスによく仕えています。今夜の儀式の供養に参加してください。詠唱があります。</text>
+	</string>
+	
+	<string id="igi_task_text_lider_monolith_haron_task_1_title">
+		<text>敵を破壊する</text>
+	</string>
+	<string id="igi_task_text_lider_monolith_haron_task_1_descr">
+		<text>カロンはゾーンの要所を解放せよと 言っています</text>
+	</string>
+	<string id="igi_task_text_lider_monolith_haron_task_1_job_descr">
+		<text>My brother, your help is needed in the destruction of the infidels.</text>
+	</string>
+	<string id="igi_task_text_lider_monolith_haron_task_1_finish">
+		<text>モノリスの祝福を、兄弟！当然の報いだ。</text>
+	</string>
+
+	<string id="igi_task_text_lider_monolith_haron_task_bs_fetch_patches_title">
+		<text>ワッペンを集める</text>
+	</string>
+	<string id="igi_task_text_lider_monolith_haron_task_bs_fetch_patches_descr">
+		<text>カロンからワッペンを持ってくるようにと言った。</text>
+	</string>
+	<string id="igi_task_text_lider_monolith_haron_task_bs_fetch_patches_job_descr">
+		<text>偉大なるモノリスは、異教徒から我々の神聖な土地を浄化するのを助ける兄弟に報酬を与えるだろう。あなたの行動の証拠として この虫ケラたちの記章を私に見せてください</text>
+	</string>
+	<string id="igi_task_text_lider_monolith_haron_task_bs_fetch_patches_finish">
+		<text>素晴らしい、兄弟。モノリスから君への贈り物だ</text>
+	</string>
+	
+<!-- Griffith -->
+	<string id="igi_task_text_merc_pri_grifon_mlr_task_1_title">
+		<text>ワッペンを集める</text>
+	</string>
+	<string id="igi_task_text_merc_pri_grifon_mlr_task_1_descr">
+		<text>グリフィンからワッペンを集めるように言われた。</text>
+	</string>
+	<string id="igi_task_text_merc_pri_grifon_mlr_task_1_job_descr">
+		<text>狂信者が多く徘徊しているため、効果的な活動ができないのです。奴らを血祭りに上げて、少し身を引かせ、証拠にワッペンを引きちぎってきてほしい。この辺に札束を隠してるんだ。ワッペンを持ってきたら渡そう</text>
+	</string>
+	<string id="igi_task_text_merc_pri_grifon_mlr_task_1_fetch_job_descr">
+		<text>狂信者が多く徘徊しているため、効果的な活動ができないのです。奴らを血祭りに上げて、少し身を引かせ、証拠にワッペンを引きちぎってきてほしい。この辺に札束を隠してるんだ。ワッペンを持ってきたら渡そう</text>
+	</string>
+	<string id="igi_task_text_merc_pri_grifon_mlr_task_1_fetch_finish">
+		<text>ありがとう、ストーカー。約束のお金です。</text>
+	</string>
+	
+	<string id="igi_task_text_merc_pri_grifon_mlr_task_2_title">
+		<text>ソウルアーティファクトを探す</text>
+	</string>
+	<string id="igi_task_text_merc_pri_grifon_mlr_task_2_descr">
+		<text>グリフィンは私に魂のアーティファクトを見つけて返すよう依頼した。</text>
+	</string>
+	<string id="igi_task_text_merc_pri_grifon_mlr_task_2_fetch_job_descr">
+		<text>ここには医者もいないし、どうにかして生き延びなければならない。普通の医療器具では足りませんし、使い方を知っている人もあまりいません。みんなの面倒を見るのは大変なんだ。そこで、皆さんの力をお借りしたいのです。人の傷を癒す力があると言われる「魂」と呼ばれるアーティファクトについて聞いたことがあるんだ。それを探して持ってきてもらえないだろうか？</text>
+	</string>
+	<string id="igi_task_text_merc_pri_grifon_mlr_task_2_fetch_finish">
+		<text>本当に見つけたんですか？信じられない... ストーカーさん、ありがとうございます これは、他の人のためになります。ご褒美なしには帰らないでね</text>
+	</string>
+
+	<string id="igi_task_text_merc_pri_grifon_mlr_task_3_title">
+		<text>食料品店を一掃する</text>
+	</string>
+	<string id="igi_task_text_merc_pri_grifon_mlr_task_3_descr">
+		<text>Mercenaryは近くのスーパーの犬を始末することを望んでいる。</text>
+	</string>
+	<string id="igi_task_text_merc_pri_grifon_mlr_task_3_job_descr">
+		<text>こんにちわ。私たちは別の問題を抱えています。スーパーストアに定住した犬がいるのですが、それは私たちにとって良いことではありません。私たちに吠え続けるので、不要な注意を引いてしまうんです。その場所から犬を追い出してくれ。</text>
+	</string>
+	<string id="igi_task_text_merc_pri_grifon_mlr_task_3_finish">
+		<text>ありがとうございます、素晴らしい作品です。どうぞ、報酬です。</text>
+	</string>
+	
+	
+<!-- (Mercenary Mechanic) -->
+	<string id="igi_task_text_merc_pri_a18_mech_mlr_task_1_title">
+		<text>郊外のMercenaryのためにベーシックツールを探せ。</text>
+	</string>
+	<string id="igi_task_text_merc_pri_a18_mech_mlr_task_1_descr">
+		<text>郊外にいるMercenaryの技術屋から、ベーシックツールを探すように依頼された。</text>
+	</string>
+	<string id="igi_task_text_merc_pri_a18_mech_mlr_task_1_job_descr">
+		<text>長い間プリピャチの地で 鳴りを潜めていた... グリフィンから話を聞いているはずだ。道具を探しても、メンテナンスやカスタマイズに向かない低レベルのものしかない。これは言語道断だ。私は技術屋だ、最適な仕事をするために適切なツールが必要なんだ。何とかならないか？</text>
+	</string>
+	<string id="igi_task_text_merc_pri_a18_mech_mlr_task_1_fetch_job_descr">
+		<text>長い間プリピャチの地で 鳴りを潜めていた... グリフィンから話を聞いているはずだ。道具を探しても、メンテナンスやカスタマイズに向かない低レベルのものしかない。これは言語道断だ。私は技術屋だ、最適な仕事をするために適切なツールが必要なんだ。何とかならないか？</text>
+	</string>
+	<string id="igi_task_text_merc_pri_a18_mech_mlr_task_1_fetch_finish">
+		<text>ありがとうございます。もう、ここにいる人たちのストレスにはならないだろうね。値引きするよ。</text>
+	</string>
+
+	<string id="igi_task_text_merc_pri_a18_mech_mlr_task_2_title">
+		<text>郊外にいるMercenaryの技術屋のためにアドバンスドツールを探せ</text>
+	</string>
+	<string id="igi_task_text_merc_pri_a18_mech_mlr_task_2_descr">
+		<text>郊外にいるMercenaryの技術屋から、アドバンスドツールを探すように依頼された。</text>
+	</string>
+	<string id="igi_task_text_merc_pri_a18_mech_mlr_task_2_job_descr">
+		<text>さて、いくつかの問題を解決したが、まだやることがたくさん残っている。さらなるアップグレードのために、より良いツールが必要だ。また手伝ってくれるかい？</text>
+	</string>
+	<string id="igi_task_text_merc_pri_a18_mech_mlr_task_2_fetch_job_descr">
+		<text>さて、いくつかの問題を解決したが、まだやることがたくさん残っている。さらなるアップグレードのために、より良いツールが必要だ。また手伝ってくれるかい？</text>
+	</string>
+	<string id="igi_task_text_merc_pri_a18_mech_mlr_task_2_fetch_finish">
+		<text>よくやった。これでフルセットになったし、割引も受け放題だ。</text>
+	</string>
+</string_table>

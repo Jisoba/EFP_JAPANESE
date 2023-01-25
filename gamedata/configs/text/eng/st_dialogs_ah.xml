@@ -1,0 +1,961 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<string_table>
+
+ <string id = "test_dialog_0">
+ <text> Do I need a test case? </text>
+ </string>
+ <string id = "test_dialog_1">
+ <text> Here's a test case for beta. </text>
+ </string>
+ <string id = "test_dialog_2">
+ <text> I will find it. </text>
+ </string>
+ <string id = "test_dialog_3">
+ <text> Don't. </text>
+ </string>
+ <string id = "test_dialog_4">
+ <text> Good \n </text>
+ </string>
+ <string id = "test_dialog_end_0">
+ <text> I completed the quest </text>
+ </string>
+ <string id = "test_dialog_end_1">
+ <text> Excellent \n </text>
+ </string>
+ <string id = "test_dialog_end_2">
+ <text> Where is my reward </text>
+ </string>
+ <string id = "test_dialog_end_3">
+ <text> There she is </text>
+ </string>
+  <string id = "test_dialog_end_4">
+ <text> Thank you. </text>
+ </string>
+ <string id = "test_dialog_end_4">
+ <text> Thank you. </text>
+ </string>  
+    
+ <string id = "sarik_dialog_0">
+ <text>なにか仕事はあるか？</text>
+ </string>
+ <string id = "sarik_dialog_1">
+<text>ああ、今朝方な。新顔の研究者たちが、変なアーティファクトを集めているらしい。俺から言わせればアーティファクトってよりガラクタっぽいけどな。だが彼らは興味津々のようだ。手を貸してくれるか？</text>
+ </string>
+ <string id = "sarik_dialog_2">
+ <text>なるほどな。それでどこにいるんだ？</text>
+ </string>
+ <string id = "sarik_dialog_3">
+ <text>頭でっかち共と働くなんぞくそくらえだ、断る。 </text>
+ </string>
+ <string id = "sarik_dialog_4">
+<text>ゾーン中に散らばっているそうだ。最近だとグレートスワンプの古い教会を拠点にしているようだぞ。</text>
+ </string>
+    
+<!-- Meeting of Scientists -->  
+ <string id = "meet_ah_ti_kto_takoy">
+ <text>どうも、教授。研究の進捗は？</text>
+ </string>  
+ <string id = "meet_ah_1">
+<text>やあ、そこそこだな。君がその気なら、いくらか手伝ってほしいことがあるんだ。</text>
+ </string>
+ <string id = "meet_ah_2">
+ <text> もちろん、喜んで。何が必要だ？</text>
+ </string>
+ <string id = "meet_ah_no">
+ <text> 申し訳ないが、時間がないんだ。</text>
+ </string>  
+ <string id = "meet_ah_4">
+<text>次の実験では、アノマリーフィールドのサンプルが欲しい。アノマリーフィールドに入り、形成されかけたアーティファクトを見つけてほしい。君の探知機は、その捜索に使えるはずだ。</text>
+ </string>
+ <string id = "meet_ah_5">
+ <text> 簡単そうだ。それを持ってくるよ。</text>
+ </string>
+ <string id = "meet_ah_6">
+<text> 手伝いたいが、アーティファクト探知機を持ってないんだ。借りたいんだが、予備はあるか？</text>
+ </string>
+ <string id = "meet_ah_7">
+ <text>よろしい。PDAで捜索してほしいをアノマリーをマークしておこう。</text>
+ </string>
+ <string id = "meet_ah_8">
+ <text>なら、私の古い探知機を渡そう。古い型だが、これで十分だろう。この仕事を何度かこなせば、すぐにもっといいものが買えるはずだ。私が今興味を持っている場所をPDAでチェックしてみてくれ。</text>
+ </string>
+
+ <string id = "cancel_ah_0">
+ <text>ミッションについて...</text>
+ </string>  
+ <string id = "cancel_ah_1">
+ <text>捜索の進捗どうだ？全部見つかったか？</text>
+ </string>
+ <string id = "cancel_ah_2">
+ <text>いや、まだ探しているところだ。 </text>
+ </string>  
+ <string id = "cancel_ah_3">
+ <text>実は何も見つかっていない。</text>
+ </string>
+ <string id = "cancel_ah_4">
+ <text>本当か？私の計算では、少なくとも何か見つかるはずだ。これは非常にまずいことになったな。</text>
+ </string>
+ <string id = "cancel_ah_5">
+ <text> 申し訳ないが、見つからなかった。 </text>
+ </string>  
+ <string id = "cancel_ah_6">
+<text>わかった。続けるよ。</text>
+ </string>      
+ <string id = "cancel_ah_7">
+<text>くそっ、計算外だ。少なくとも2ヶ月分は研究が後退したな...。悪いが、ラボに行かなければ。さようなら、ストーカー。</text>
+ </string>
+ 
+
+ <string id = "kovalev_1_quest_0">
+ <text>どうも、教授、研究は順調か？</text>
+ </string>
+ <string id = "kovalev_1_quest_3">
+ <text> アーティファクトに近づくとピーッと音がするはずだから、渡した探知機を使うのを忘れるなよ。</text>
+ </string>  
+ <string id = "kovalev_1_quest_end_0">
+ <text>光る土を持ってきたが、次はどうするんだ？</text>
+ </string>
+ <string id = "kovalev_1_quest_end_1">
+ <text>あ、もちろん、報酬だ。ちょっとしたボーナスも付けたぞ。</text>
+ </string>
+    
+ <string id = "kovalev_2_quest_0">
+ <text>ほかに何か困ってることは？</text>
+ </string>
+ <string id = "kovalev_2_quest_3">
+<text>以前、アグロプロムのアノマリーを測定したところ、奇妙なアノマリーがいくつも見つかったのは知っているかな？これらのアノマリーで形成されるアーティファクトは、ヌースフィア上で特徴的な変調特性を持っている。だが、研究中に攻撃を受けたんだ。事態はかなり緊迫し、私たちは辛うじて生き残ったんだ。その際、スキャンデータの入ったノートパソコンをアノマリーが発生している地点のひとつに置き忘れてしまったんだ。もし可能なら、私のノートパソコンを見つけてほしい。私がスキャンしたアノマリーの座標が表示されているはずだ。それをもとに、アノマリーサンプルを見つけてきてほしい。</text>
+ </string> 
+    
+ <string id = "kovalev_2_quest_end_0">
+<text>教授のノートPCを見つけて、アーティファクトを手に入れたぞ。</text>
+ </string>
+ <string id = "kovalev_2_quest_end_1">
+ <text>感謝する！私の研究に大いに役立ってくれるだろう。この報酬で君の経費を賄えるといいのだが。 </text>
+ </string>  
+    
+    <string id = "markov_1_quest_0">
+ <text>聞いてるぞ</text>
+ </string>
+    <string id = "markov_1_quest_2">
+ <text>ヤンターにいる同僚に聞いたらどうだ？</text>
+ </string>
+ <string id = "markov_1_quest_3">
+<text>私はヤンターの科学グループとは別に働いているんだ。ここの凡百どもは、最も身近なアノマリーの研究にさえ着手していない。聞いてくれ、もしこのアーティファクトを見つけられたら、君に高い報酬を支払おう。早ければ早いほどいい。 </text>
+ </string> 
+
+ <string id = "markov_1_quest_end_0">
+ <text>例のサンプルだ。</text>
+ </string>
+ <string id = "markov_1_quest_end_1">
+ <text> よくやった、若造。さて、これをどこに置こうかな...。</text>
+ </string>      
+    
+    <string id = "markov_2_quest_0">
+ <text>他になにかお困りかな、教授？</text>
+ </string>  
+ <string id = "markov_2_quest_3">
+<text>おお、そうとも！現地調査に出かけた際、近隣のワイルドテリトリーと呼ばれる地域で、ヌースフィアに奇妙な揺らぎを発見したんだ。そこで形成されるアーティファクトに何らかの影響を及ぼしているため調査に行ってほしい。気になる場所の座標を教えよう。</text>
+ </string>
+
+ <string id = "markov_2_quest_end_0">
+ <text> 電気アノマリーのせいで、頭がボーっとするぞ...。とにかく、教授、これが例のアーティファクトだ。 </text>
+ </string>
+ <string id = "markov_2_quest_end_1">
+ <text>素晴らしい！ これが報酬だ。</text>
+ </string>      
+    
+    <string id = "markov_3_quest_0">
+ <text> 他に何かないか？もっとこう...刺激的なものを期待していたんだが</text>
+ </string>
+    <string id = "markov_3_quest_3">
+<text>ウーム、刺激的ねぇ...おっと、そうだ！もう一つ、まだやってない実地調査があるぞ！ここヤンターの北に古い研究所がある。そこでは危険なほど高いレベルの精神波が放出されているんだ。この放射がアーティファクトの形成に、影響を及ぼしていると思われる。君に任せるつもりはなかったんだが、早く結果が知りたくてね。精神波への対策が欲しいなら、サハロフ教授に相談した方がいい。</text>
+ </string>
+    
+ <string id = "markov_3_quest_end_0">
+ <text>なかなか刺激的だった。すべて見つけられたと思う。</text>
+ </string>
+ <string id = "markov_3_quest_end_1">
+ <text>驚いたな！ありがとう、君のおかげで、研究が捗る。</text>
+ </string>      
+    
+    <string id = "pirogov_1_quest_0">
+ <text>困っているようだな。</text>
+ </string>
+    <string id = "pirogov_1_quest_1">
+<text>ミュータントや盗賊がウジャウジャいるこの場所に、あのバカどもは俺を一人で送り込んだんだ！あいつらを俺一人で伸せるとでも思ったのか？おれは戦闘員じゃないんだぞ！クソッタレ！</text>
+ </string>
+ <string id = "pirogov_1_quest_2">
+ <text>おいおい、落ち着けよ。助けてやるから。何が欲しいんだ？</text>
+ </string> 
+ <string id = "pirogov_1_quest_5">
+<text>ああ、そうだな...聞いてくれ、この辺りにはかなり珍しいアノマリーがあるんだが、このバカなBanditどもからは手付かずなんだ。サンプルをもらえればありがたい。座標はここだ。</text>
+ </string>  
+
+ <string id = "pirogov_1_quest_end_0">
+ <text>大変な道のりだったが、なんとかサンプルを手に入れることができたぞ。</text>
+ </string>
+ <string id = "pirogov_1_quest_end_1">
+ <text> よかった、サハロフ教授にすぐ報告しよう。ストーカー、感謝する！今日は君のおかげでクソみたいな状況から抜け出せた。</text>
+ </string>  
+ 
+    <string id = "pirogov_2_quest_0">
+ <text>ほかに何かあるか？</text>
+ </string>
+ <string id = "pirogov_2_quest_3">
+<text> ああ、サハロフ教授から連絡があった。トラック墓地を調査して欲しいそうだ。トラック墓地はあまり探索されていない。多くの者が敬遠しているが、興味深いアノマリーがいくつもあるようだ。もし、そのサンプルを手に入れられたら、この仕事の報酬の50％を君に渡そう。場所はここのすぐ北側だが、Banditに気をつけろ。</text>
+ </string> 
+
+ <string id = "pirogov_2_quest_end_0">
+ <text>なんとも寂れた場所だった。とにかく、これが例のサンプルだ。</text>
+ </string>
+ <string id = "pirogov_2_quest_end_1">
+ <text> ありがとう、これで十分だ。約束通り、これが君の分だ。</text>
+ </string>  
+    
+    <string id = "pirogov_3_quest_0">
+ <text>それで、他に何かあるか？それともこれで終わりか？</text>
+ </string>
+ <string id = "pirogov_3_quest_3">
+<text>もう一つある。私は最後の助手をガベージに送り込み、いくつかのアノマリーにプロトタイプを設置させた。しかし、彼はここ2回、無線の連絡に応答しないんだ。彼に何か起こったのではと心配だ。</text>
+ </string> 
+    <string id = "pirogov_3_quest_4">
+ <text> この放射能に汚染された掃きだめじゃいつものことだろう。</text>
+ </string>
+        <string id = "pirogov_3_quest_5">
+<text>最後に連絡を受けたとき、彼はフリーマーケットで物資を仕入れたいと言っていたから、そこから探し始めるのがいいだろう。私の助手と彼のPDAを見つけてくれ。私が目星をつけている残りのアノマリーの位置が含まれているはずだ。サンプルを持ってきてくれ。そうすれば、この忌まわしい場所を離れられる。</text>
+ </string>
+
+ <string id = "pirogov_3_quest_end_0">
+ <text>あなたの助手を見つけた。Banditに襲われて、穴あきチーズみたいになってたが、なんとか彼のPDAを復元して、仕事を終わらせたぞ、教授。 </text>
+ </string>
+ <string id = "pirogov_3_quest_end_1">
+ <text> なんて残念なことだ。あいつはいい研究者になれただろうに。もったいない死に方をしたな...。とにかく、これが報酬だ。これでやっとバンカーに帰ってシャワーを浴びられる。</text>
+ </string>      
+    
+    <string id = "chernov_1_quest_0">
+ <text>どうも、教授の研究に人手が欲しいと聞いたが？</text>
+ </string>
+    <string id = "chernov_1_quest_1">
+ <text> 熱心な奴だな。私の研究を盗むつもりじゃないだろうな？</text>
+ </string>
+ <string id = "chernov_1_quest_2">
+ <text>とんでもない、教授。今のところ、興味があるのは金だけだ。</text>
+ </string> 
+ <string id = "chernov_1_quest_5">
+<text> なるほど。君の実力を見せてもらおうじゃないか。ゾーンの人間が陸軍倉庫と呼ぶこのエリアには、多くの興味深いアノマリーがあり、ほとんどのストーカーは特に気にせず避けている。 君のPDAにマークしたサンプルを集めてくれ。そうしたら、もっと話をしよう。</text>
+ </string>  
+
+ <string id = "chernov_1_quest_end_0">
+ <text> さあ、ピカピカの土のサンプルをどうぞ。</text>
+ </string>
+ <string id = "chernov_1_quest_end_1">
+ <text>素晴らしい。約束通り、これが報酬だ。さて、何か聞きたいことは？ </text>
+ </string>          
+ 
+    <string id = "chernov_3_quest_0">
+ <text>この奇妙なアーティファクトがどこに出てくるかまでわかるのか？</text>
+ </string>
+    <string id = "chernov_3_quest_1">
+<text>我々の研究グループは、実はSIRCAA（Scientific Insitue for Research of the Chernobyl Anomalous Area）という研究機関の一部なんだ。このゾーンを破壊する、あるいはコントロールするための研究を続けている。現地のストーカーからの情報提供や、我々自身の遠征によって、多くのことのことが分かった。一部のエリアでは、アノマリーのマップも作成した。その情報とスキャナーのデータから、アーティファクトが発生する可能性を推測することができるということだ。</text>
+ </string>      
+    <string id = "chernov_3_quest_2">
+ <text>面白いな。だから、いつもどこに送ればいいかわかるんだな。</text>
+ </string>
+        <string id = "chernov_3_quest_3">
+<text>その通りだ。しかし、君の次の仕事には注意が必要だ。今のところ君はミスをしてないから、殺されるようなことはないだろう。私はあるストーカーにレッドフォレストにあるアノマリーフィールドを調査するように命じた。残念なことに、彼は行方不明になってな。最後に応答した場所はリマンスクの橋の崩落したトンネルだ。彼に渡したスキャンデータが入ったPDAを探し出し、残りのサンプルを見つけてきてくれ。ただし、私はレッドフォレストで多くの仲間や同僚を失った。くれぐれも死ぬなよ。</text>
+ </string>
+    
+ <string id = "chernov_3_quest_end_0">
+ <text>なんて調査だ！今までで一番熾烈な撃ちあいだったぞ。なんとか全部のサンプルを入手できた。大ケガした分の価値はあるぞ、教授! </text>
+ </string>
+ <string id = "chernov_3_quest_end_1">
+ <text>素晴らしい！心配してたんだ。この金で治療費がまかなえるといいんだが。</text>
+ </string>  
+    
+    <string id = "chernov_4_quest_0">
+ <text>研究室でアーティファクトを作れるようになったのか？ゾーンの外で作れるなら、ゾーンにいる必要はないのでは？</text>
+ </string>
+    <string id = "chernov_4_quest_1">
+<text>アーティファクトの形成研究は、原発事故やゾーンができる以前から行われていた。私の上司は、かつてリマンスクに住み、仕事をしていた。彼の家に何度も泊まり込んで、アーティファクトの起源について議論した。研究室から栽培用ベッドを少々拝借して、君が持ってきたのと同じような疑似アーティファクトを作ることもできた。</text>
+ </string>      
+    <string id = "chernov_4_quest_2">
+ <text>興味深い話だな。上司はどうなったんだ？</text>
+ </string>
+        <string id = "chernov_4_quest_3">
+<text>震災時、リマンスクからの疎開はなかったというが、どうだろうな。住民はみんなどこに消えたのか謎だ。そういえば、彼の家の住所のメモがある。そこに行ってみて、そのアーティファクトがまだあるかどうか、見てきてくれるか？もしかしたら、それがすべてを理解する鍵になるかもしれない。</text>
+ </string>  
+
+ <string id = "chernov_4_quest_end_0">
+<text>リマンスクはひどい状態だった。Monolithの狂信者たち以外、生存者は見つからなかった。しかし、なんとかアーティファクトを見つけることができた。これだ。</text>
+ </string>
+ <string id = "chernov_4_quest_end_1">
+ <text>わかってはいたが、それでも、彼が死んで悲しいよ...。とにかく、彼の犠牲に敬意を表し、どうすればこんな大事故を二度と起こさないようにできるかを考えよう。</text>
+ </string>      
+    
+    <string id = "chernov_5_quest_0">
+ <text>調子はどうだ、教授？アーティファクトの起源について何か情報は？</text>
+ </string>
+    <string id = "chernov_5_quest_1">
+<text> はい、これを見てくれ。このアーティファクトは完全に独立したエミッションを持っている。我が友よ、これこそアーティファクトであることの証拠だ。</text>
+ </string>      
+    <string id = "chernov_5_quest_2">
+ <text> そんな馬鹿な！ゾーンより先にアーティファクトが生まれたという可能性は？</text>
+ </string>
+        <string id = "chernov_5_quest_3">
+<text>まあ、どうせそのうちわかることだから、教えよう。アーティファクトファームのことを聞いたことがあるか？この方面の研究は長い間行われていて、今は廃墟となっているX-19研究所はこの研究を主に行っていた。彼らは "ベッド "と呼ばれるポッドを作り、その中でアーティファクトを制御された条件下で形成することができた。現在、この地域はMonolithと名乗る狂信者たちが跋扈し、非常に危険な状態になっている。だが、君がそこに研究所に侵入し、残されたアーティファクトや資料を見つけることができたら、これほどありがたいことはないだろう。 </text>
+ </string>
+
+ <string id = "chernov_5_quest_end_0">
+<text>あの辺りはMonolithが大量にいたが、なんとか研究室に入ることができたぞ。半信半疑だったが、教授の言うとおりだったぞ。3つのアーティファクトと重要そうな書類を見つけた。ほら、これだ。 </text>
+ </string>
+ <string id = "chernov_5_quest_end_1">
+<text> 素晴らしい！モヤモヤするかもしれんが、なぜそこにあると分かったかなんて野暮なこと聞くなよ？我々の研究の本質を考慮して、答えるわけにはいかないんだ、理解してくれ。ここで起きたことはいずれ世間に公表するつもりだ。しかし、その前に、このアーティファクトに関する私の理論を完成させる必要がある。</text>
+ </string>  
+    
+    <string id = "chernov_6_quest_0">
+ <text> 了解だ。他に何か必要なものはあるか、教授？</text>
+ </string>
+    <string id = "chernov_6_quest_3">
+<text>はい、最新のスキャンで興味深いものを発見しました。Mercenaryの大規模なグループがデッドシティと呼ばれる地域を支配している。そのエリアから非常に安定した測定値を得た。基準値を作るベースとして使用するには最適だ。もし、その場所からサンプルを持ってきてくれるなら、そこから基準値を作ることができるだろう。</text>
+ </string>  
+
+ <string id = "chernov_6_quest_end_0">
+ <text> 街はそんなに「死んでいる」ようには見えなかったな。これがサンプルだ、教授。</text>
+ </string>
+ <string id = "chernov_6_quest_end_1">
+ <text> すばらしい仕事ぶりだ。君がどれだけ私を助けてくれたか、差し支えなければ私の論文の序文に君のことを書いてもいいかね？だが君は、そんなことを気にもとめていないように見えるな。もっと仕事が欲しいなら、ゾーンの私の同僚を探すといい。何かあるかもな。場所を送ろう。</text>
+ </string>  
+            
+
+    <string id = "juk_1_quest_0">
+ <text>こんにちは、教授の紹介で来た。仕事があるかもしれないってな。 </text>
+ </string>
+    <string id = "juk_1_quest_3">
+<text> その通り。いくつか研究したいアノマリーフィールドがあるのだが、私は今忙しくてな。ここから離れることができないんだ。私が目星をつけたアノマリーをあなたのPDAにマークしておこう。何も見つからなかったらサハロフにどやされるから何か見つかるといいんだが。</text>
+ </string>
+
+ <string id = "juk_1_quest_end_0">
+ <text> さあ、どうぞ。私が見つけたアーティファクトだ。</text>
+ </string>
+ <string id = "juk_1_quest_end_1">
+ <text>ハハハ、本当に何とかしてくれるとは思わなかったよ。よくやった、これが報酬だ。</text>
+ </string>
+    
+    <string id = "juk_2_quest_0">
+ <text>他に何か手伝える事は？</text>
+ </string>
+    <string id = "juk_2_quest_3">
+<text> 君が現場に赴いている間に スキャンデータが届いたんだ。知っての通り、ゾーンは謎が多い場所だ。多くのアノマリーが未解明のままだ。この暫定的なスキャンデータには、地図に載っていないアノマリーのおおよその位置が含まれている。今PDAに送る。このデータが正しいかどうか確認し、アーティファクトがないかどうか見てきてくれ。ただし、位置情報に間違いがある可能性あるから、注意してくれ。</text>
+ </string>  
+    
+ <string id = "juk_2_quest_end_0">
+ <text>ボルトを切らしかけたが、あんたのデータが正しいようだぞ、教授。アーティファクトも見つけたぞ、ほら。</text>
+ </string>
+ <string id = "juk_2_quest_end_1">
+ <text> よかった、少なくともスキャナは正常に動作していたようだな。報告ありがとう。すぐに報酬を渡す。</text>
+ </string>
+    
+    <string id = "juk_3_quest_0">
+ <text>何か思い悩んでいるようだな。</text>
+ </string>
+    <string id = "juk_3_quest_3">
+<text>ああ、そうだな。プリピャチには興味深いエミッションのパターンがあるんだ。だが、知ってると思うが、この街は興味深いだけでなく、危険でもある。生きて帰ってこれる望みは薄い。もし可能なら、これらの場所を探索して、何かアーティファクトを見つけたら、私のところに持ち帰ってきてくれ。弾薬や医療品代を十分賄える分は出すぞ。</text>
+ </string>      
+    
+ <string id = "juk_3_quest_end_0">
+ <text> まだ狂信者共に撃たれたスーツの穴が開いてると思うでも教授が言っていたアノマリーは調べられたぞ。サンプルもある。</text>
+ </string>
+ <string id = "juk_3_quest_end_1">
+ <text> 驚異的だ！これを受け取ってくれ、成し遂げた君に相応しい。今はこれだけだが、もっと稼ぎたいなら、ゾーンの同僚に声をかけるといい。伝えておくよ。</text>
+ </string>  
+    
+    <string id = "vorobushkin_1_quest_0">
+ <text>何か手伝えることはないか？</text>
+ </string>
+    <string id = "vorobushkin_1_quest_3">
+<text>あるぞ。この辺りはあまり調査されていないから、何が起こるかわからない。しかし、私の計算では、ここに研究に必要なアーティファクトがあるんだ。昨日、調査すべきアノマリーフィールドを特定するために、クルーグアンテナ複合施設の機器を修理した。しかし、スキャンにかなり時間がかかってしまい、周りが危険になったため急いでここに戻ってきたんだ。ステーションに入り、私が置いていったメモリーモジュールを使ってくれ。必要なデータはすべてそこに入っているはずだ。ところで、近くにいくつかのアノマリーがあり、おそらく必要なサンプルが含まれているのだろうが、スキャンデータを回収するまでは何とも言えないだろう。</text>
+ </string>      
+
+ <string id = "vorobushkin_1_quest_end_0">
+<text> 楽勝だったぞ、教授。装置もデータも残ってたし、サンプルも何とか手に入れた。</text>
+ </string>
+ <string id = "vorobushkin_1_quest_end_1">
+ <text> やっと良い知らせが来た。このスキャンデータは面白そうだが...。</text>
+ </string>
+    
+    <string id = "vorobushkin_2_quest_0">
+ <text>どうかしたか、教授？</text>
+ </string>
+    <string id = "vorobushkin_2_quest_3">
+<text>うーん、どうも腑に落ちない箇所があるんだ。調べてもらえるか？もし、何かアーティファクトを見つけて持ってきてくれたら、十分な報酬を支払おう。</text>
+ </string>  
+    
+ <string id = "vorobushkin_2_quest_end_0">
+ <text>例の場所を確認したところ、こんなアーティファクトがあった。これが欲しかったのか？</text>
+ </string>
+ <string id = "vorobushkin_2_quest_end_1">
+ <text> それだ、素晴らしい！これで大きく前進したな！これが報酬だ。 </text>
+ </string>
+
+    
+ <string id = "vorobushkin_redirect_dialog_0">
+ <text>ほかに何か手伝うことは？</text>
+ </string>
+ <string id = "vorobushkin_redirect_dialog_1">
+<text> 今のところはない。もし、さらに協力したいのであれば、私の同僚に君を紹介しよう。君の協力に感謝する。彼の居場所を送り、君が来ることを伝えよう。元気でな、ストーカー! </text>
+ </string>  
+ <string id = "vorobushkin_redirect_dialog_2">
+<text>協力に多大なる感謝を送る。やはり計算が必要だな。君はチェルノブイリ原子力発電所の北側に行くといい。我々のグループのリーダーであるスカビンスキー教授がそこにいる。彼がどうやってそこに行ったのか見当もつかないが、急いだほうがいい! 彼はおそらく君の助けを必要としている。</text>
+ </string>  
+ <string id = "vorobushkin_redirect_dialog_3">
+<text>十分な情報がないため、計算は穴だらけだが、以前は予測できなかったアノマリーの位置をおおよそ把握することができた。今、研究の責任者であるスカビンスキー教授がそれを調べに行っている。彼はおそらく君の助けを必要としているはずだから、急いで彼を見つけてくれ。危険な場所だから、一人での行動は困難なはずだ。 </text>
+ </string>      
+
+ <string id = "ah_start_dialog_0">
+ <text>こんにちは、ストーカー。</text>
+ </string>
+    <string id = "ah_start_dialog_1">
+ <text>どうも。</text>
+ </string>  
+ <string id = "ah_start_dialog_2">
+ <text>こんにちは、兄弟。</text>
+ </string>      
+
+    <string id = "skabinsky_1_quest_0">
+ <text> やっと見つけたぞ、教授！Monolithだらけの中、どうやってここまで来たんだ？</text>
+ </string>
+    <string id = "skabinsky_1_quest_1">
+<text> ああ、君がボロブシキンが言っていた役に立つストーカーかね？間一髪で助け船が来たな。状況を説明すると、Mercenaryに護衛してもらったが、殆どがやられてしまったんだ。だから、早くしないと。我々のすぐ近くに、今まで見たこともないような、危険なアノマリーがある。我々の計算によると、この瞬間に非常に稀で強力なアーティファクトが形成されるはずだ。君は我々の中で最も経験がある。だから君にはそこに行ってもらい 予想が正しいかどうか見てもらいたい。ただし、非常に危険であることは忘れるな。覚悟はいいか？</text>
+ </string>      
+    <string id = "skabinsky_1_quest_2">
+ <text>ハッ！ここまで来て降りるわけないだろ、やるぞ！</text>
+ </string>      
+    <string id = "skabinsky_1_quest_3">
+ <text>やめとこうかな...</text>
+ </string>      
+    <string id = "skabinsky_1_quest_4">
+<text> いいぞ、その心意気だ。しかし、そこに行くのは非常に難しいだろう。サンプルを見つけ、アノマリーを確認するための良い検出器を持っていることを願うよ、そこはかなり危険だ。さあ、行ってくれ！時間がないんだ。</text>
+ </string>      
+    <string id = "skabinsky_1_quest_5">
+ <text>わかった。また会おう、教授。 </text>
+ </string>      
+    <string id = "skabinsky_1_quest_6">
+<text> 待ってくれ、聞こえたか？ゾーンが我々を呼んでいるような...。行って、ゾーンの贈り物を受け取ってくるんだ。私はザトンで待っている。</text>
+ </string>      
+                        
+    <string id = "skabinsky_1_quest_5">
+ <text>ありがとう。</text>
+ </string>  
+
+ <string id = "skabinsky_1_quest_end_0">
+ <text> 教授... これを見てくれ。こんなアーティファクトは見たことがない。持っているだけでも、不思議な感じがする。</text>
+ </string>  
+ <string id = "skabinsky_1_quest_end_1">
+<text> じゃあ、幻聴ではなかったのか...。これは計算ミスだな....。ありがとう、ストーカー。我々のチームと科学者全体が君に貴重な借りができた。アーティファクトを渡してくれ、安全に保管しなければ。</text>
+ </string>
+    <string id = "skabinsky_1_quest_end_2">
+ <text>どういたしまして、教授。ゾーンの謎を解き明かすのに役立てば幸いです。さあどうぞ、これで良かったかな？</text>
+ </string>  
+ <string id = "skabinsky_1_quest_end_3">
+<text>おっと、気が変わってね、このアーティファクトは俺が有効に使わせてもらうよ。</text>
+ </string>  
+ <string id = "skabinsky_1_quest_end_4">
+<text>今更そんなことを、ストーカー！取引を忘れたのか！？破ったら許さないぞ！</text>
+ </string>
+    <string id = "skabinsky_1_quest_end_5">
+ <text>わかった、わかった、冗談のつもりだったんだ。ほら。</text>
+ </string>  
+ <string id = "skabinsky_1_quest_end_6">
+<text>どうだ、教授？このアーティファクトのおかげで、俺は無敵な気分だ。お前は俺に手も足も出ないだろう！さあ、どけ。</text>
+ </string>  
+ <string id = "skabinsky_1_quest_end_7">
+ <text>これは生涯をかけた研究だ！行かせてたまるか！たとえ死んでも！</text>
+ </string>  
+ <string id = "skabinsky_1_quest_end_8">
+<text>ありがとう。私の仕事は終わったので、戻って我々が発見したものを分析する必要がある。たとえここで道が分かれようとも我々のチームは永遠に君を忘れないだろう。金では君の科学への貢献に報いることはしきれないが、今はこれが精一杯だ。どうか受け取ってほしい。もし、私たちの研究に何か必要なことがあれば、必ず君に知らせる。また会える時を楽しみにしてるぞ、ストーカー。ありがとう、そしてさようなら。</text>
+ </string>      
+    
+ <string id = "skabinsky_fail_quest_0">
+ <text>どうも、研究の進捗はどうだ？</text>
+ </string>  
+ <string id = "skabinsky_fail_quest_1">
+<text> ええと......こんにちは。我々の研究に協力してくれたストーカーだな？君の助力もむなしく無駄に終わってしまった、計算が間違ってたんだ、このクソ地獄はゾーンの中心じゃないんだ。全ては無駄だったんだ。</text>
+ </string>      
+ <string id = "skabinsky_fail_quest_2">
+ <text>もう、どうしようもないのか？</text>
+ </string>      
+ <string id = "skabinsky_fail_quest_3">
+<text> できることはすべて、もうやった。さあ、出て行ってくれ。我々の任務の失敗は君の責任でもある</text>
+ </string>  
+ <string id="est_work_kuznecov_0">
+        <text>こんにちは、大佐。私に何か特別な任務が？</text>
+    </string>
+    <string id="est_work_kuznecov_1">
+        <text>本格的に仕事をする準備はできているか、兵士よ？上からの命令だ。統合参謀本部が調査したい優先的な標的のリストがあるんだ。</text>
+    </string>
+    <string id="est_work_kuznecov_2">
+        <text>アグロプロム内の研究所から資料を入手せよ。</text>
+    </string>
+    <string id="est_work_kuznecov_22">
+        <text>諜報部からの報告によると、研究所の地下にある複合施設には、以前ここで行われた実験に関する重要な情報が記載された極秘文書があるとのことだ。君の任務は単純だ。その文書を手に入れることだ。やり方は問わない。準備はいいか？</text>
+    </string>
+    <string id="est_work_kuznecov_221">
+        <text>了解です、大佐。任務を遂行します。</text>
+    </string>
+    <string id="est_work_kuznecov_222">
+        <text>まだ、任務を受ける準備ができていません</text>
+    </string>
+    <string id="est_work_kuznecov_3">
+        <text>X-18研究所から文書を入手せよ。</text>
+    </string>
+    <string id="est_work_kuznecov_33">
+        <text>この研究室にはケイマノフ実験装置の開発に関する重要な情報がある。君たちの目的は、この研究に関するあらゆる文書を回収し、ここにある本部に持ってくることだ。君には十分な報酬が与えられるだろう。</text>
+    </string>
+    <string id="est_work_kuznecov_331">
+        <text>本気ですか大佐？殺す気ですか？...世の中には厄介な障害もあるものだ...。分かりました、文書を持って戻ってきます。</text>
+    </string>
+    <string id="est_work_kuznecov_332">
+        <text>まさか。バーラーの昼飯になって終わるほど馬鹿じゃない。ノーです、大佐</text>
+    </string>
+    <string id="est_work_kuznecov_4">
+        <text>X-16研究所から文書を入手せよ</text>
+    </string>
+    <string id="est_work_kuznecov_44">
+        <text>研究所で行われた研究の詳細を記した研究文書が必要だ。正直言って、この任務困難を極めるだろう。この文書を見つけるためには、致命的な放射線と精神波を受け続けることになる。情報は少ないが、確実に言えることは、ゾンビやミュータントを相手に戦わなければならないということだ。ヤンターの移動研究室にいる科学チームと話すといい。彼らはミラクルマシンから発する精神波からを保護する装置を用意してくれるだろう。それで？やる気か？</text>
+    </string>
+    <string id="est_work_kuznecov_441">
+        <text>了解しました、大佐。終わったも同然です。</text>
+    </string>
+    <string id="est_work_kuznecov_442">
+        <text>申し訳ありません。私にはこのような作戦を行うための訓練も装備もありません。まだ、受けられません。</text>
+    </string>
+    <string id="est_work_kuznecov_5">
+        <text>X-10研究所から文書を入手せよ</text>
+    </string>
+    <string id="est_work_kuznecov_55">
+        <text>レーダーを突破し、ブレインスコーチャーがある施設を襲撃し、あらゆる文書を手に入れながら、ブレインスコーチャーを停止させるんだ。Monolithたちからの激しい抵抗にさらされることになるだろう。さて、北へ向かう準備はできたか？</text>
+    </string>
+    <string id="est_work_kuznecov_551">
+        <text>攻撃の準備はできています。任務を引き受けます。</text>
+    </string>
+    <string id="est_work_kuznecov_552">
+        <text>まだ、準備不足です。受けません。</text>
+    </string>
+    <string id="est_work_kuznecov_6">
+        <text>X-8研究所から文書を入手せよ</text>
+    </string>
+    <string id="est_work_kuznecov_66">
+        <text>プリピャチ郊外にコードネームX-8と呼ばれる極秘研究所がある。そこで行われた研究の資料をすべて回収することが君の任務だ。研究所はジュビリービルの地下にある。任務の準備はいいか？</text>
+    </string>
+    <string id="est_work_kuznecov_661">
+        <text>準備はできています。</text>
+    </string>
+    <string id="est_work_kuznecov_662">
+        <text>まだです。準備の時間が必要です。</text>
+    </string>
+    <string id="est_work_kuznecov_7">
+        <text>プリピャチ地下の文書を入手する。</text>
+    </string>
+    <string id="est_work_kuznecov_77">
+        <text>諜報部からの報告によると、プリピャチの地下には巨大な複合施設があり、いわば「街の中の街」である。その地下でどのような実験や研究が行われていたのか、そして秘密のプリピャチ1パイプラインを調査してほしいと本部は求めている。</text>
+    </string>
+    <string id="est_work_kuznecov_771">
+        <text>了解しました、大佐</text>
+    </string>
+    <string id="est_work_kuznecov_772">
+        <text>まだ準備できていません、大佐</text>
+    </string>
+    <string id="est_work_kuznecov_8">
+        <text>モノリス制御室を破壊し、文書を回収せよ。</text>
+    </string>
+    <string id="est_work_kuznecov_9">
+        <text>気が変わった。</text>
+    </string>
+    <string id="est_work_kuznecov_88">
+        <text>チェルノブイリ原発を襲撃し、制御室を奪取しようと何度も試みたが、いずれも失敗に終わっている。しかし、制御室が最重要ターゲットであることに変わりはない。君の任務は、制御室を破壊し、ありったけの情報を持って脱出することだ。その前に、エバーグレーズで隠れ家を見つけてくれ。そこにはスワンプドクターがいて、制御室に通じるドアを破るのに必要なデコーダーの情報を持っている。それと、気をつけろ。今まで誰もこんな任務は遂行できなかったんだ。無事に帰ってこい、わかったか？</text>
+    </string>
+    <string id="est_work_kuznecov_881">
+        <text>もちろんです。ここまで来て、死ぬつもりはない。</text>
+    </string>
+    <string id="est_work_kuznecov_882">
+        <text>私にはそんなことをする装備も経験もありません...。準備する必要があります。</text>
+    </string>
+    <string id="work_vip_kuznecov_agr_undr_0">
+        <text>任務完了です、同志大佐! 地下研究所の資料です。</text>
+    </string>
+    <string id="work_vip_kuznecov_agr_undr_1">
+        <text>よくやった。あなたは任務を完璧に遂行し、今もこうして無事でいる。ここに、君にふさわしい報酬を与えよう</text>
+    </string>
+    <string id="work_vip_kuznecov_x18_0">
+        <text>任務完了です！X-18研究所から必要な書類を手に入れました</text>
+    </string>
+    <string id="work_vip_kuznecov_x18_1">
+        <text>よくやった、兵士よ! 司令部はこの情報に非常に興味を持っている。そして、君の功績は注目されている。立派な仕事ぶりには、相応の報酬が必要だ。</text>
+    </string>
+    <string id="work_vip_kuznecov_x16_0">
+        <text>任務完了です、同志大佐！X-16の書類を手に入れ、ヤンターを囲む精神波を無効化しました。</text>
+    </string>
+    <string id="work_vip_kuznecov_x16_1">
+        <text>よくやった！素晴らしい仕事だ！精神波が無効化されたことで特別作戦チームを送ることができる。施設全体を確保し、科学者が比較的安全に研究できるようになった。ほら、報酬だ、勇敢な兵士よ</text>
+    </string>
+    <string id="work_vip_kuznecov_x10_0">
+        <text>作戦は成功しました。ブレインスコーチャーは無効化しました。そして、これがX-10で見つけた文書です。</text>
+    </string>
+    <string id="work_vip_kuznecov_x10_1">
+        <text>北への道が開かれた今、ゾーンを確保するチャンスが訪れた。君のおかげだ、君は最高の兵士だ。これを報酬に</text>
+    </string>
+    <string id="work_vip_kuznecov_x8_0">
+        <text>プリピャチから戻りました 元KBOの "ジュビリー "の下に 研究室がありました これが研究所の文書です。</text>
+    </string>
+    <string id="work_vip_kuznecov_x8_1">
+        <text>よくやった！この文書でゾーンの謎が解けるはずだ。上層部も喜ぶことだろう。報酬も忘れるなよ。</text>
+    </string>
+    <string id="work_vip_kuznecov_jupiter_ugr_0">
+        <text>任務完了です、大佐! プリピャチ1パイプラインから、回収した文書です。</text>
+    </string>
+    <string id="work_vip_kuznecov_jupiter_ugr_1">
+        <text>無事に任務を完了したんだな...信じられん、素晴らしい。ここにいる兵士たちは、君がゾーンで活躍している姿を見て、鼓舞されているんだ。私は、君には将軍の肩章が似合うと思うがね。これを受け取ってくれ。将軍への昇進ではないが、給料が上がるのは悪くないだろう？</text>
+    </string>
+    <string id="work_vip_kuznecov_control_bunker_0">
+        <text>チェルノブイリから戻りました。モノリスを制御していたシステムは破壊されました。「石棺」は制御室から投影された幻影であったことが判明しました。これがその文書です。すべて詳しく書かれています。</text>
+    </string>
+    <string id="work_vip_kuznecov_control_bunker_1">
+        <text>そんなはずは......。正直なところ、私は親友を死に追いやったと思い悩んでいたんだが、言葉が出ない...。ただ... ああ、すぐに司令部に無線連絡して、モノリスに大打撃を与えたことを知らせ、君が確保したすべての文書を報告する。上層部がいつ中央の制圧作戦を決行するかは...上次第だな。しかし 君のお陰で、初めてゾーンが手中に収まったんだ。ついにゾーンを掌握し ミュータントを一掃し、悪党どもを排除できる。君には心から感謝し祝福する。君はヒーローだ、わかるか？私だけではなく、最高司令部はこの任務を遂行する君の能力を信じて、君に報酬と付随する栄誉を用意したんだ。受け取ってくれ！すべて君のものだ！</text>
+    </string>
+    <string id="vasil_nevezuchi_1_0">
+        <text>やあ、助けに来たんだ。何かできることは？</text>
+    </string>
+    <string id="vasil_nevezuchi_1_2">
+        <text>原発での戦闘はうまくいったんだろうな？私はラッキー軍曹だが、バシルでいい。Monolithはこの森の真ん中にある・・・あー、光ってるやつの南東に拠点を構えている。彼らは進入路を地雷で塞ぎ、監視塔にスナイパーを配置している、だから注意してくれ。俺たちは動き出すと同時に、奴らに見つかる前に仕留めるんだ、わかったか？</text>
+    </string>
+    <string id="vasil_nevezuchi_1_3">
+        <text>了解、軍曹。援護する。</text>
+    </string>
+    <string id="kvartet_1_0">
+        <text>同志大尉、私は襲撃に参加する準備ができています。</text>
+    </string>
+    <string id="kvartet_1_2">
+        <text>よし、奴らは3つの道路を封鎖している。2つは石棺への進入路を。1つは第4班の正面だ。2つの分隊が両側から攻撃を開始する 君達の仕事は我々の部隊を火力支援し、できるだけ多くのMonolithを撃ち殺すことだ</text>
+    </string>
+    <string id="kvartet_1_3">
+        <text>了解、援護します。</text>
+    </string>
+    <string id="inform_ab_toolkits_0">
+        <text>この辺でツールが手に入るところはないか？</text>
+    </string>
+    <string id="inform_ab_toolkits_1">
+        <text>なんか聞いたことあるはずなんだが、2000ルーブルくらいで思い出せるかな？。</text>
+    </string>
+    <string id="inform_ab_toolkits_9">
+        <text>ほらよ</text>
+    </string>
+    <string id="inform_ab_toolkits_10">
+        <text>後でまた来るよ。</text>
+    </string>
+    <string id="inform_ab_toolkits_2">
+        <text>知ってるぜ、4,000で教えられる。</text>
+    </string>
+    <string id="inform_ab_toolkits_11">
+        <text>ほらよ</text>
+    </string>
+    <string id="inform_ab_toolkits_12">
+        <text>ありがとう、だがいらないよ</text>
+    </string>
+    <string id="inform_ab_toolkits_3">
+        <text>でも、1000ルーブルくらい払ってくれたら、教えないこともない。</text>
+    </string>
+    <string id="inform_ab_toolkits_13">
+        <text>ほら、金だ。</text>
+    </string>
+    <string id="inform_ab_toolkits_14">
+        <text>考えを変えたよ。</text>
+    </string>
+    <string id="inform_ab_toolkits_4">
+        <text>2,500ルーブル以下じゃだめだ。それから話をしよう。</text>
+    </string>
+    <string id="inform_ab_toolkits_15">
+        <text>ほら。</text>
+    </string>
+    <string id="inform_ab_toolkits_16">
+        <text>お金がない。</text>
+    </string>
+    <string id="inform_ab_toolkits_5">
+        <text>よく聞け、友よ。</text>
+    </string>
+    <string id="inform_ab_toolkits_24">
+        <text>[furthermore...]</text>
+    </string>
+    <string id="inform_ab_toolkits_6">
+        <text>分からない。</text>
+    </string>
+    <string id="inform_ab_toolkits_7">
+        <text>隠れ家を探そう。</text>
+    </string>
+    <string id="inform_ab_toolkits_8">
+        <text>ほっといてくれ、今は相手にしてられない。</text>
+    </string>
+    <string id="inform_ab_toolkits_17">
+        <text>ダークバレーのBanditの基地を調べるといい。彼らはあまり技術を持っていないから、セットが余ってるかもな。しかし、具体的にどこなのか......俺はわからない。</text>
+    </string>
+    <string id="inform_ab_toolkits_18">
+        <text>最近ゴミ捨て場の連中が、地元の格納庫に基地みたいなものがあると言っていた。そこにあるかもな。</text>
+    </string>
+    <string id="inform_ab_toolkits_19">
+        <text>コードン、ATPだ。ザバハット基地の大規模なギャングがツールセットを売っていたらしい。技術屋までもが買っていたらしいが、彼はどこかに姿を消したらしい。だが彼のものは残っていたと言う。</text>
+    </string>
+    <string id="inform_ab_toolkits_20">
+        <text>コードンの南封鎖所内を探せ。地図の使い方は知ってるか？そこは危険で、誰も行かないから、細かい作業のためのツールセットがあるかもしれないな。直接見れば信頼に足る情報である理由がたくさんあるぜ。</text>
+    </string>
+    <string id="inform_ab_toolkits_21">
+        <text>アグロプロムの複合施設の中心には、電気と精神波のアノマリーがあるんだ、知ってたか？その施設のどこかに、探し物があるかもな。あそこは激戦区なせいで、ガラクタ集めなんてそんなことしてる暇がないんだ、でも、見るといろんな技術的なガラクタを見た。</text>
+    </string>
+    <string id="inform_ab_toolkits_22">
+        <text>技術の墓地。今すぐバーを出て、"9941KIL "のナンバーの車を探せば、 貴重な箱が見つかるだろう。借金のかたに聞いたんだが、あそこは偵察に来たんだそうだ。まあ、彼らはその辺りを調べていた時、闇に紛れるスノークがいた。それで、"戦術的撤退 "をしたそうです。ここで一人が逃げ出し、重要な物を落としたらしい。</text>
+    </string>
+    <string id="inform_ab_toolkits_23">
+        <text>アグロプロムに行くといい、そこには主要な軍事基地がある。イカしてるよな？で、何があるかというと、彼らは国の支援を受けていて、技術的には「肥えて」いるから、我々とは違って、クソから戦車くらいは作れちまうのさ。そう簡単にツールが手に入るとは思わなかっただろ？</text>
+    </string>
+    <string id="inform_ab_toolkits_25">
+        <text>お金サンキュー、じゃあな、お前の道具がどうとか知ったことじゃねえ、この変人が。</text>
+    </string>
+    <string id="inform_ab_toolkits_26">
+        <text>いや、すまない、その場所を忘れていたよ。スタッシュを調べたり、売人に聞いたらどうだ？</text>
+    </string>
+    <string id="cs_task0_dialog_0">
+        <text>何か特別な仕事はあるか？</text>
+    </string>
+    <string id="cs_task0_dialog_1">
+        <text>まだ特別なものはなにも。でも、君にやってほしいことがある。西の監視塔の南側にあるアーキアノマリーにスキャン装置を設置したんだ。今ごろは、探していたアノマリー活動の測定値をすべて集めているはずだ。やってくれるか？</text>
+    </string>
+    <string id="cs_task0_dialog_3">
+        <text>また別の機会にでも。</text>
+    </string>
+    <string id="cs_task0_dialog_2">
+        <text>引き受けよう</text>
+    </string>
+    <string id="cs_task0_dialog1_0">
+        <text>戻ってきたぞ、端末もある。どうぞ。</text>
+    </string>
+    <string id="cs_task0_dialog1_2">
+        <text>ありがとう。ところで今夜、偵察部隊がキャンプに戻る予定だ。午後8時から11時の間だ。その辺にいろよ、彼に会うんだ。</text>
+    </string>
+    <string id="cs_task0_ambush_renegade_0">
+        <text>Clearskyのために何かできることはあるか？</text>
+    </string>
+    <string id="cs_task0_ambush_renegade_1">
+        <text>ああ、そうだな。我々Clearskyは沼地の一角を支配し直したが、それでも人手不足だ。アノマリーの活動は減少しているし、普通なら良いことだが代わりに沼地に、BanditやRenegadeがうようよしている 奴らのせいで領地を失い、次々と陣地を明け渡した。特にRenegadeは容赦がない。最後に聞いたのは、あいつらはポンプ場の前哨基地をまた襲う準備をしてるってことだ。あいつらを撃退するのを手伝ってくれないか？</text>
+    </string>
+    <string id="cs_task0_ambush_renegade_3">
+        <text>今すぐには力になれない、またの機会に。</text>
+    </string>
+    <string id="cs_task0_ambush_renegade_2">
+        <text>問題ない。任せてくれ。</text>
+    </string>
+    <string id="cs_task0_ambush_renegade_vip_0">
+        <text>Renegadeたちを倒したぞ。</text>
+    </string>
+    <string id="cs_task0_ambush_renegade_vip_2">
+        <text>よし！次は、コードンへの道を確保する必要がある。すでに南村に突撃隊を配置しているから、陣地に移動して彼らに協力してくれ。よかったら同行してくれ。ちょうど基地の外に出る準備をしているところだ。</text>
+    </string>
+    <string id="cs_task0_ambush_renegade_vip2_0">
+        <text>コードンへの道は確保された。</text>
+    </string>
+    <string id="cs_task0_ambush_renegade_vip2_2">
+        <text>素晴らしい仕事ぶりだ。おかげさまで沼地の要所を確保できた。これがその報酬だ。しかし、良いニュースばかりでは無い。今回はMilitaryが問題なのだ。以前は、Renegadeやその他の屑どもは、この地域の兵士に喧嘩を売るのが嫌で、あえて我々の領域に深く入ろうとしなかった。我々はMilitaryと仲が良かったわけではないが、逆に彼らの邪魔をしない限り、彼らは我々にちょっかいをかけないという暗黙の不可侵条約があったのだ。だが今は？Militaryは我々の縄張りにどんどんストーカー部隊を送り込んできて、我々は大損害を被っている。もうたくさんだ  沼地の北東にあるマシンヤードから追い出せ。そうすればここが有利になり、Clearskyがこの地域で強固で安全な足場を築くことができる 経験豊富なファイターで構成された突撃隊を送る。すでに基地から出発している。彼らと協力して、この戦いに勝つんだ。</text>
+    </string>
+    <string id="cs_task0_ambush_renegade_vip3_0">
+        <text>Militaryをマシンヤードからたたき出したぞ。厳しい戦いだった。</text>
+    </string>
+    <string id="cs_task0_ambush_renegade_vip3_2">
+        <text>信じられない！おかげさまで、失っていた重要な陣地をすべて奪還し、再び強大な地位を手に入れた。ああ、レベデフがここにいてくれれば......コホン、感傷はやめだ。危機的状況を脱した今、やるべきことは山ほどある。これがご褒美だ。そして改めて、協力に感謝する。君のおかげで、私たちは成し遂げることができた。</text>
+    </string>
+    <string id="cs_task2_dialog_0">
+        <text>スカウトは死んでいた。これが彼のPDAだ</text>
+    </string>
+    <string id="cs_task2_dialog_2">
+        <text>彼は私たちの最高の一人だった。ありがとう。</text>
+    </string>
+    <string id="cs_task3_cold_dialog_0">
+        <text>解読されたPDAの件で来た</text>
+    </string>
+    <string id="cs_task3_cold_dialog_1">
+        <text>座ってくれ。いい知らせがあるんだ。2011年に行方不明になった仲間の何人かが、実は生き残っていたことが判明したのだ！ PDAから得た情報によるとスカーと名乗る傭兵がまだ残っているようだ。2011年当時、彼はストレロクを捕らえるため、リマンスクと病院を経由してCNPPに突撃隊を率いていたようだ。スカウトによると、スカーに似た人物がまだ活動しており、レベデフのグループの生き残りと思われるストーカーと連絡を取っているのを目撃したそうだ。シドロビッチに会いに行って、何か知っているかどうか聞いてみるのが一番だと思う。</text>
+    </string>
+    <string id="cs_task3_cold_dialog_2">
+        <text>それは素晴らしいニュースだ。あんたの言うとおり、このことについて何か知っている人間がいるとするなら、それはシドロビッチだろう。彼のもとに行き、生き残っている仲間について何か知らないか聞いてみよう。</text>
+    </string>
+    <string id="holod_end_cs_story_0">
+        <text>Clearskyの生き残りのメンバーを一人見つけた。</text>
+    </string>
+    <string id="holod_end_cs_story_1">
+        <text>彼を見つけたのか？誰だ？どこにいるんだ？</text>
+    </string>
+    <string id="holod_end_cs_story_2">
+        <text>レベデフの昔の仲間、ガマジュンだ。今はOuntcasts of Monolithたちと一緒に戦っている。でも、一緒に沼地に戻るように説得できなかったんだ。兄弟を残していけないと。</text>
+    </string>
+    <string id="holod_end_cs_story_3">
+        <text>そうだな、彼の判断を信じよう。それに、彼が生き延びたのなら、もしかしたら他にも生存者がいるかもしれない。君の話は、いつか昔の仲間に再会できる希望を与えてくれるな。情報部にOutcastへの支援をさせよう。それと、君のことも忘れてはいけないな。君には報酬を渡さないと。</text>
+    </string>
+    <string id="holod_end_cs_story_4">
+        <text>ありがとう(苦笑)。</text>
+    </string>
+    <string id="cs_task4_dragun_dialog_0">
+        <text>おい、スカーか？話があるんだ</text>
+    </string>
+    <string id="cs_task4_dragun_dialog_1">
+        <text>ああ、俺だ。お前は誰だ？そして何を......クソッ、今はやめてくれ。まずはこのスードウドッグを撃退するのを手伝え！2キロメートルも追ってきたんだ</text>
+    </string>
+    <string id="cs_task4_dragun_dialog_2">
+        <text>わかった、倒そう。</text>
+    </string>
+    <string id="cs_task5_dragun_dialog_0">
+        <text>ふぅ、終わったな。で？レベデフのグループの生き残りについて...聞かせてくれないか？確かな筋から聞いたが...キミは何か知っているようだな？</text>
+    </string>
+    <string id="cs_task5_dragun_dialog_1">
+        <text>ああ、その通りだ、確かに俺は知っている。とはいえ、俺の知識のほとんどは噂に過ぎないから詳しい事は教えられない。ストライダーと呼ばれるストーカーとその仲間について聞いたことがあるか？彼らは元Monolithのメンバーだが、マスターに反抗し、最近は元仲間に対してゲリラ活動をしているらしい。噂によると、この "追放者 "には、Clearskyの元メンバーも含まれているとか。ストライダーと彼の部隊は、ジュピターの旧軍の検問所の近くにいる。そこは、バレーという男が率いるBanditのグループの拠点になっていたが、彼がドームに一発食らうまでは、とにかくその場所にいた。</text>
+    </string>
+    <string id="cs_task5_dragun_dialog_2">
+        <text>情報感謝する。</text>
+    </string>
+    <string id="brodyaga_cs_story_dialog2_0">
+        <text>ガマジュンの仲間を見つけ、この装置を持って行くように言われた。部隊は任務を果たしたんだ。</text>
+    </string>
+    <string id="brodyaga_cs_story_dialog2_1">
+        <text>この装置は我々に有利に働くだろう。彼を見つけられてよかった。一緒に来なくて残念だったが、彼は優秀な戦士だな。</text>
+    </string>
+    <string id="brodyaga_cs_story_dialog2_2">
+        <text>彼はOutcastに残ると決心した。</text>
+    </string>
+    <string id="brodyaga_cs_story_dialog2_3">
+        <text>わかった。君は私たちを助けてくれたから、お礼をしないとな。私たちは金持ちではないが、良い仕事には十分な報酬を払わないとな。さあ、どうぞ。</text>
+    </string>
+    <string id="brodyaga_cs_story_dialog2_4">
+        <text>ありがとう</text>
+    </string>
+    <string id="brodyaga_cs_story_dialog1_0">
+        <text>Clearskyのメンバーが何人かいるそうだが、彼らと話しても大丈夫か？俺はClearskyaのメンバーで、仲間を探しているんだ。</text>
+    </string>
+    <string id="brodyaga_cs_story_dialog1_1">
+        <text>ふむ。確かにClearskyのメンバーもいる。彼らは我々と同じMonolith兵だったが、C-コンシャスによる支配が緩んだ今、私たちは共にMonolithに立ち向かっているんだ。</text>
+    </string>
+    <string id="brodyaga_cs_story_dialog1_2">
+        <text>では、どこで出会えるのか？</text>
+    </string>
+    <string id="brodyaga_cs_story_dialog1_3">
+        <text>遅すぎたようだな。彼らの部隊はプリピャチ東部へ任務に出たままだ。残念ながら、まだ報告を受けていない。急げば追いつけるかもしれない 人手が足りず、救出作戦のために人を割けないんだ。</text>
+    </string>
+    <string id="brodyaga_cs_story_dialog1_4">
+        <text>情報に感謝する。必ず見つけて、危険な状況だったら必ず助けよう。</text>
+    </string>
+    <string id="gamajun_cs_story_dialog1_0">
+        <text>どうやら間に合ったようだ。</text>
+    </string>
+    <string id="gamajun_cs_story_dialog1_1">
+        <text>ああ、そうだな...あのMonolithたちは、君がいなかったら俺たちを殺していただろう。ストライダーの遣いか？</text>
+    </string>
+    <string id="gamajun_cs_story_dialog1_2">
+        <text>実は、君を探していたんだ。レベデフのグループメンバーだろ？Clearskyが探してるんだ</text>
+    </string>
+    <string id="gamajun_cs_story_dialog1_3">
+        <text>ああ...昔はな。でも今はOutcast of the Monolithだ。知っていることをすべて話して、次にどうするか決めよう。だが、今は君がここにいる間、俺の任務を手伝ってほしい。Monolithの戦力は想像以上に高い。河港に部隊を送り、Monolithたちの盗聴装置を奪おうとしたが、何の連絡もつかない。Monolithに捕まったようだ。領地を偵察して、この装置を手に入れるのを手伝ってほしい。</text>
+    </string>
+    <string id="gamajun_cs_story_dialog1_4">
+        <text>わかった、手伝うよ。</text>
+    </string>
+    <string id="gamajun_cs_story_dialog2_0">
+        <text>これが装置だ。</text>
+    </string>
+    <string id="gamajun_cs_story_dialog2_1">
+        <text>ありがとう。これはストライダーに渡した方がいい。俺はここに残る。部下と一緒に、前哨地を確保する。</text>
+    </string>
+    <string id="gamajun_cs_story_dialog2_2">
+        <text>じゃあ、Clearskyには戻らないんだな？</text>
+    </string>
+    <string id="gamajun_cs_story_dialog2_3">
+        <text>いや、申し訳ないが、俺はOutcastなんだ、兄弟を残していけないんだ。ああ、私の話をすると約束したな。聞いてくれ。2011年、私はレベデフと共に、リマンスク突破を任された。Mercenaryの力を借りて北上し、何とか市内に食い込めたが...あの強烈なガスで...その後は？ストライダーは、俺がエミッションに巻き込まれた他の人たちと同じようにMonolithに仕えたと言っている。次に覚えているのは、2012年のある時期、ジュピターで自分自身として目覚めたことだ。ストライダーのおかげで生き延び、それ以来、彼と行動を共にしている。</text>
+    </string>
+    <string id="gamajun_cs_story_dialog2_4">
+        <text>話してくれてありがとう。ストライダーに装置を渡すから、コールドによろしく言っておくよ。</text>
+    </string>
+    <string id="dolg_story_task_1_dialog_start_0">
+        <text>特別な仕事はあるか？</text>
+    </string>
+    <string id="dolg_story_task_1_dialog_start_1">
+        <text>いわれてみれば、あるな。FreedomとBanditの戦争に加え北方からMonolithが来ている。全軍が戦争状態だ。主な任務であるゾーン破壊のために、ハンターが必要なんだ。そこで君に魔法使いの職を与えよう。簡単な話だ、私が "魔女 "の契約を持ちかけ、それを実行すれば報酬が支払われる。どうだ？</text>
+    </string>
+    <string id="dolg_story_task_1_dialog_start_2">
+        <text>金次第だな。最初の契約は？</text>
+    </string>
+    <string id="dolg_story_task_1_dialog_start_3">
+        <text>報酬については心配しなくていい、実力を証明すれば金と装備で支払う。最初の仕事は南下してきたブラッドサッカーの巣を破壊することだ。厄介なことに、ブラッドサッカーは我々の拠点とパトロールを全て通過してしまった。破壊して報酬を受け取れ。隠れ家の捜索はブッチャーから始めることをお勧めする。彼は地元のハンターのリーダーだ。 </text>
+    </string>
+    <string id="dolg_story_task_1_dialog_start_4">
+        <text>その契約は私が受ける。このブラッドサッカーどもはもう死んだも同然だ</text>
+    </string>
+    <string id="dolg_story_task_1_dialog_end_0">
+        <text>任務完了、ブラッドサッカーは全滅だ。</text>
+    </string>
+    <string id="dolg_story_task_1_dialog_end_1">
+        <text>よくやった、報酬だ。</text>
+    </string>
+    <string id="prinesi_military_docs_start_0">
+        <text>なら、スカーの情報を得るにはどうすればいい？</text>
+    </string>
+    <string id="prinesi_military_docs_start_1">
+        <text>実はな...ある北方遠征隊の報告書が入ったケースが、ゾーンの奥から道路封鎖隊に渡されたんだ。日中はプルトニウムを積んでいるかのごとく警備しているが、夜はなぜか二人しか見張りがいない。そのケースを持ってこい。そのための費用は惜しまない...常識的な範囲で。やってくれるよな？</text>
+    </string>
+    <string id="prinesi_military_docs_start_21">
+        <text>やろう。</text>
+    </string>
+    <string id="prinesi_military_docs_start_22">
+        <text>やめておく。俺は自分の命が第一なんだ。</text>
+    </string>
+    <string id="prinesi_military_docs_start_31">
+        <text>金は用意してるが...騒ぎは起こすなよ、いいな？Militaryを怒らせると大変なことになるぞ。</text>
+    </string>
+    <string id="prinesi_military_docs_done_0">
+        <text>見つけたぞ、ほら。</text>
+    </string>
+    <string id="prinesi_military_docs_done_1">
+        <text>いいぞ、さすがだな、友よ。旅費と弾丸代として少額だが報酬だ。さて、お前が求めている情報のために、ビジネスの話に移ろうか。</text>
+    </string>
+    <string id="cs_task3_sidor_dialog_0">
+        <text>スカーという傭兵を探している。彼を知ってるのか？</text>
+    </string>
+    <string id="cs_task3_sidor_dialog_1">
+        <text>おそらくは。なぜこの情報が必要なんだ？</text>
+    </string>
+    <string id="cs_task3_sidor_dialog_3">
+        <text>彼は、Clearskyにとって重要な情報を知っている。</text>
+    </string>
+    <string id="cs_task3_sidor_dialog_2">
+        <text>へえ、なるほどな。情報を売ってやってもいいが、それには金がかかるぞ。そうだな...2万ルーブルだ。それと、俺に借りがあるだろ？信頼できることを証明するために仕事をしてくれ。スカーのことを教えてやろう。</text>
+    </string>
+    <string id="cs_task3_sidor_dialog_4">
+        <text>よし、用事を一つ済ませて、情報を買おう。</text>
+    </string>
+    <string id="cs_task3_sidor_dialog_5">
+        <text>こんなゲームに付き合ってる暇はないんだよ、この油ギトギトマンが。</text>
+    </string>
+    <string id="cs_task3_sidor_dialog_6">
+        <text>無一文で怠け者のバカに付き合う気はない。ビジネスをしに来たのでないなら、さっさと出て行け。</text>
+    </string>
+    <string id="cs_task3_sidor_dialog1_0">
+        <text>スカーの情報が欲しいんだ</text>
+    </string>
+    <string id="cs_task3_sidor_dialog1_1">
+        <text>金を持ってきたか？俺の仕事は終わったか？</text>
+    </string>
+    <string id="cs_task3_sidor_dialog1_3">
+        <text>まだだ、すぐに戻る。</text>
+    </string>
+    <string id="cs_task3_sidor_dialog1_2">
+        <text>ああ、金はここにある。仕事も終わった。</text>
+    </string>
+    <string id="cs_task3_sidor_dialog1_4">
+        <text>完璧だ。耳の穴かっぽじって...いや、メモしとけ。二度は言わんぞ、へっへっへ。その傭兵が俺に会いに来たんだ 北部に潜入するための装備が必要だってな。その男は懐があったかいみたいでな、最高級のギアを大量に買い込んでいったよ。彼はザトンで何かを探していたようだが、今はきっとそこにいる。変電所の作業場にこもって、ガラクタの中から何かを探しているとも聞いている。以上だ。</text>
+    </string>
+    <string id="cs_task3_sidor_dialog1_5">
+        <text>あんたと取引できてよかった。情報に感謝する。</text>
+    </string>   
+</string_table>

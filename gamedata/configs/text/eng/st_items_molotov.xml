@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+
+	<string id="st_molotov">
+		<text>火炎瓶</text>
+	</string>
+
+	<string id="st_molotov_descr">
+		<text>燃焼性のある紙にアルコールを染み込ませた火炎瓶。</text>
+	</string>
+
+</string_table>

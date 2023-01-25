@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<string id="ui_mcm_menu_fireModeCheck">
+		<text>射撃モード確認</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_title">
+		<text>射撃モード確認</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_userMode">
+		<text>発射モードの確認方法</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_userMode_desc">
+		<text>%c[d_green]・c[DEFAULT] ベーシック: 発射モード切替ボタンの動作に変更はありません。切り替え後、新しいモードが表示されます。
+\n\n%c[d_green]・c[DEFAULT] デュアルキー: Previous Firing Modeキーは、現在のモードを表示し、切り替えは行いません。Next Firing Modeキーは、発射モードの切り替えを行います。
+\n\n%c[d_green]・c[DEFAULT] シングルキー: どちらの操作も同じです。シングルタップで現在のモードが表示され、ダブルタップでモードが切り替わります。</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_displayMode">
+		<text>表示スタイル</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_displayMode_desc">
+		<text>射撃モードの確認インジケーターの表示形式</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_hideGui">
+		<text>バニラの発射モード表示を隠す</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_hideGui_desc">
+		<text>バニラHUDで表示される画面上の射撃モードインジケーターを非表示にします。</text>
+	</string>
+	<string id="ui_mcm_lst_disabled">
+		<text>%c[ui_gray]無効</text>
+	</string>
+	<string id="ui_mcm_lst_basic">
+		<text>ベーシック</text>
+	</string>
+	<string id="ui_mcm_lst_dual_key">
+		<text>デュアルキー</text>
+	</string>
+	<string id="ui_mcm_lst_single_key">
+		<text>シングルキー(推奨)</text>
+	</string>
+	<string id="ui_mcm_lst_full">
+		<text>フル</text>
+	</string>
+	<string id="ui_mcm_lst_text_only">
+		<text>テキストのみ</text>
+	</string>
+	<string id="ui_mcm_lst_image_only">
+		<text>イメージのみ</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_keybind_check_firemode_key">
+		<text>射撃モードキーの確認・切替</text>
+	</string>
+
+</string_table>

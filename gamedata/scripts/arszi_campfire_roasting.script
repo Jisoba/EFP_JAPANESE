@@ -1,0 +1,116 @@
+-------------------------------------------------------
+--Arszi's Campfire Roasting
+--By Arszi
+--Last update 2020.09.21.
+--[[
+    Edited by HarukaSai for EFP
+    - Refactoring
+    - Roast\Boil all
+    - Usage of custom functor autoinject
+    11-02-2022
+]]
+-------------------------------------------------------
+local foods = {
+    ["mutant_part_chimera_meat"]   = "meat_chimera",
+    ["mutant_part_psysucker_meat"] = "meat_psysucker",
+    ["mutant_part_krovosos_meat"]  = "meat_bloodsucker",
+    ["mutant_part_psevdodog_meat"] = "meat_pseudodog",
+    ["mutant_part_lurker_meat"]    = "meat_lurker",
+    ["mutant_part_boar_chop"]      = "meat_boar",
+    ["mutant_part_flesh_meat"]     = "meat_flesh",
+    ["mutant_part_dog_meat"]       = "meat_dog",
+    ["mutant_part_snork_hand"]     = "meat_snork",
+    ["mutant_part_tushkano_meat"]  = "meat_tushkano",
+    ["dirty_water"]                = "boiled_water"
+}
+local dist         =  10
+
+function use_roast(item)
+    if not (can_use_campfire()) then return end
+	local section = item:section()
+	if (foods[section]) then
+        if (IsItem("multiuse", nil, item)) then
+            manage_food(foods[section], item, item:get_remaining_uses())
+        else
+            manage_food(foods[section], item)
+        end
+	end
+    xr_effects.play_inv_cooking_stove()
+end
+
+function use_roast_all(item)
+    if not (can_use_campfire()) then return end
+    local actor = db.actor
+	local section = item:section()
+    actor:iterate_inventory(function(owner, obj)
+        local sec = obj and obj:section()
+        if (foods[sec] and sec == section) then
+            if (IsItem("multiuse", nil, obj)) then
+                manage_food(foods[section], obj, obj:get_remaining_uses())
+            else
+                manage_food(foods[section], obj)
+            end
+        end
+    end, actor)
+    actor_effects.play_item_fx("cooking_dummy")
+end
+
+function manage_food(food_to_create, mutant_part_to_remove, uses)
+    alife_create_item(food_to_create, db.actor, {["uses"] = uses})
+    alife_release(mutant_part_to_remove)
+end
+
+function can_use_campfire()
+	--Hide inventory
+	hide_hud_all()
+
+	--Check for lit campfire
+	if (not get_nearby_lit_campfire()) then
+		local str = strformat(game.translate_string("st_arszi_campfire_roast_campfire_off"),text)
+		actor_menu.set_msg(1, str,4)
+		return false
+	end
+
+	return true
+end
+
+function get_nearby_lit_campfire()
+	local pos = db.actor:position()
+	for id,binder in pairs(bind_campfire.campfires_all) do
+		if (binder and binder.campfire and binder.campfire:is_on()) then
+			if (pos:distance_to_sqr(binder.object:position()) <= dist) then
+				return true
+			end
+		end 
+	end 
+	return false
+end
+
+local function roast_condition_function(obj, bag, mode)
+	local campfire = bind_campfire.get_nearby_campfire(dist, result)
+	if (campfire) then
+        if foods[obj:section()] then
+		    return true
+        end
+	end
+end
+
+local function roast_name_function(obj, bag, mode)
+	if obj:section() == "dirty_water" then
+        return game.translate_string("煮沸する")
+    else
+        return game.translate_string("焼く")
+    end
+end
+
+local function roast_all_name_function(obj, bag, mode)
+	if obj:section() == "dirty_water" then
+        return game.translate_string("st_boil_all")
+    else
+        return game.translate_string("roast_all")
+    end
+end
+
+local add_functor = custom_functor_autoinject.add_functor
+add_functor("haruka_roast", roast_condition_function, roast_name_function, nil, use_roast)
+add_functor("haruka_roast_all", roast_condition_function, roast_all_name_function, nil, use_roast_all)

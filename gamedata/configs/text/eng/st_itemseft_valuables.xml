@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+	EFT
+-->
+
+<string_table>
+	<string id="eft_graphics_card_name">
+		<text>グラフィックカード(GPU)</text>
+	</string>
+	<string id="eft_graphics_card_desc">
+		<text>
+		グラフィックスカードは、ファン、GPU、ICなど、他の電子部品と同じように優れた供給源だ。
+		</text>
+	</string>
+	
+	<string id="eft_tetriz_game_name">
+		<text>Tetriz</text>
+	</string>
+	<string id="eft_tetriz_game_desc">
+		<text>
+		失われたいにしえの遺物。トレーダーに高額で売却できる。
+		</text>
+	</string>
+
+	<string id="eft_military_cboard_name">
+		<text>軍用回路版</text>
+	</string>
+	<string id="eft_military_cboard_desc">
+		<text>
+		軍用車両、軍用システムで使用される電子部品。
+		</text>
+	</string>
+	
+	<string id="eft_powerbank_battery_name">
+		<text>モバイルバッテリー</text>
+	</string>
+	<string id="eft_powerbank_battery_desc">
+		<text>
+		再充電可能な大容量モバイルバッテリー
+		</text>
+	</string>
+
+	<string id="eft_ledx_skintrans_name">
+		<text>LEDX スキントランスイルミネーター</text>
+	</string>
+	<string id="eft_ledx_skintrans_desc">
+		<text>
+		皮膚下の静脈の位置を正確に決定するように設計された装置。
+		</text>
+	</string>
+
+	<string id="eft_ram_card_name">
+		<text>メモリ</text>
+	</string>
+	<string id="eft_ram_card_desc">
+		<text>
+		PC用メモリ。
+		</text>
+	</string>
+	
+	<string id="eft_ssd_drive_name">
+		<text>SSD ドライブ</text>
+	</string>
+	<string id="eft_ssd_drive_desc">
+		<text>
+		ソリッドステートドライブ（SSD)。データの保存に使用され読み込み速度、書き込み速度ともに優れている。
+		</text>
+	</string>
+
+	<string id="eft_cpu_fan_name">
+		<text>CPU ファン</text>
+	</string>
+	<string id="eft_cpu_fan_desc">
+		<text>
+		物資や設備が全く足りない環境ではCPU冷却ファンは手先が器用なものに重宝される。無線機充電用の発電機や扇風機としてだけでなく、本来は重いブレードを持つ換気扇の代わりにも使える。
+
+		</text>
+	</string>
+
+	<string id="eft_military_cofdm_name">
+		<text>軍用COFDM無線信号送信機</text>
+	</string>
+	<string id="eft_military_cofdm_desc">
+		<text>
+		データ送信に使う軍用のデータ信号送信機。
+		</text>
+	</string>
+
+	<string id="eft_sas_drive_name">
+		<text>SAS ドライブ</text>
+	</string>
+	<string id="eft_sas_drive_desc">
+		<text>
+		補強ケースに入ったSAS　ハードディスク。軍事用のデータストレージに使用されていた。
+		</text>
+	</string>
+
+	<string id="eft_power_supply_name">
+		<text>電源ユニット</text>
+	</string>
+	<string id="eft_power_supply_desc">
+		<text>
+		PC用電源ユニット。簡単に低電圧の充電池や電子機器用の充電器に改良することができる。
+		</text>
+	</string>
+
+	<string id="eft_pc_cpu_name">
+		<text>PC CPU</text>
+	</string>
+	<string id="eft_pc_cpu_desc">
+		<text>
+		PCの中央処理装置は、まともに動くコンピュータがないため、その場しのぎのアンテナ反射板型パーツの構成材料として使用されている。
+		</text>
+	</string>
+
+	<string id="eft_dvd_drive_name">
+		<text>DVD ドライブ</text>
+	</string>
+	<string id="eft_dvd_drive_desc">
+		<text>
+		磁石、半導体レーザー、レンズといったパーツからなるPC用DVDドライブ。手先が器用な人の手にかかれば、導体探知機やデジグネーターといった手の込んだ品を作るための貴重な資源となる。
+		</text>
+	</string>
+
+	<string id="eft_golden_gphone_name">
+		<text>1GPhone ゴールド</text>
+	</string>
+	<string id="eft_golden_gphone_desc">
+		<text>
+		GPhone 1Gオレンジゴールド版。裏面には小さく1Gのロゴがある。
+		</text>
+	</string>
+
+	<string id="eft_skull_ring_name">
+		<text>金のドクロ型指輪</text>
+	</string>
+	<string id="eft_skull_ring_desc">
+		<text>
+		金色の頭蓋骨の形をした指輪。「成功者」の象徴
+		</text>
+	</string>
+
+	<string id="eft_silver_badge_name">
+		<text>シルバーバッジ</text>
+	</string>
+	<string id="eft_silver_badge_desc">
+		<text>
+		SheriffEliのバッジ。
+		</text>
+	</string>
+
+	<string id="eft_gold_wwatch_name">
+		<text>Roler submariner 金時計</text>
+	</string>
+	<string id="eft_gold_wwatch_desc">
+		<text>
+		有名ブランド「Roler」のゴールドウォッチ。ケースは18カラット・イエローゴールド製。
+		</text>
+	</string>
+
+	<string id="eft_bronze_lion_name">
+		<text>銅のライオン像</text>
+	</string>
+	<string id="eft_bronze_lion_desc">
+		<text>
+		コレクション性の高いブロンズ製ライオン。物は重く、一見美しい。一般に、芸術的な楽しみとして、あるいは販売用として。
+		</text>
+	</string>
+
+	<string id="eft_cat_figurine_name">
+		<text>猫の置物</text>
+	</string>
+	<string id="eft_cat_figurine_desc">
+		<text>
+		アンティークな猫の置物。珍しい種類の「マカッサル・エボニー（黒檀）」という木材で作られている。
+		</text>
+	</string>
+
+	<string id="eft_antique_teapot_name">
+		<text>アンティークのティーポット</text>
+	</string>
+	<string id="eft_antique_teapot_desc">
+		<text>
+		アンティークな銀のティーサービスセットの貴重なコレクションからの一品。
+		</text>
+	</string>
+
+	<string id="eft_horse_figurine_name">
+		<text>馬の置物</text>
+	</string>
+	<string id="eft_horse_figurine_desc">
+		<text>
+		恐ろしくキッチュな馬の置物は、ここでは役に立たない--どこの国でもそうだが--でも、どこかの国では、そんなものを喜んで買う売人がまだいる。これは何かおかしい。
+		</text>
+	</string>
+
+	<string id="eft_antique_vase_name">
+		<text>アンティークの花瓶</text>
+	</string>
+	<string id="eft_antique_vase_desc">
+		<text>
+		磁器製のアンティークな花瓶。主にビールピッチャーとして使われている。
+		</text>
+	</string>
+
+	<string id="eft_raven_figurine_name">
+		<text>カラスの置物</text>
+	</string>
+	<string id="eft_raven_figurine_desc">
+		<text>
+		貴重な素材で作られたカラスのフィギュア。台座に「Markstrom」と書かれている。
+		</text>
+	</string>
+
+	<string id="eft_wooden_clock_name">
+		<text>木製の置時計</text>
+	</string>
+	<string id="eft_wooden_clock_desc">
+		<text>
+		双頭の鷲を模した極めて芸術的な作りの木製時計。希少で高価なもの。
+		</text>
+	</string>
+
+	<string id="eft_golden_rooster_name">
+		<text>金のニワトリ像</text>
+	</string>
+	<string id="eft_golden_rooster_desc">
+		<text>
+		chickenprismのロゴが入ったアクリル製の台に、金色の雄鶏が乗っている。
+		</text>
+	</string>
+	
+	<string id="eft_prokill_chain_name">
+		<text>Prokill チェーンメダル</text>
+	</string>
+	<string id="eft_prokill_chain_desc">
+		<text>
+		プロキルメダリオンとチェーン。未来に起きる「契約戦争」（contract wars)の物。
+		</text>
+	</string>
+
+	<string id="eft_hard_drive_name">
+		<text>破損したハードディスク</text>
+	</string>
+	<string id="eft_hard_drive_desc">
+		<text>
+		磁気記録の原理を利用したランダムアクセス記憶装置（情報記憶装置）。ほとんどのコンピュータで、メインのデータドライブとして使用される。故障したディスクは、専門家がコントローラーや磁石を回収し、他の電子機器に再利用している。
+		</text>
+	</string>
+
+	<string id="eft_intel_folder_name">
+		<text>機密情報フォルダー</text>
+	</string>
+	<string id="eft_intel_folder_desc">
+		<text>
+		有用で価値の高い様々な機密情報が入ったフォルダー。
+		</text>
+	</string>
+	
+	<string id="eft_mino_tag_name">
+        <text>ドッグタグ 'Minotaur'</text>
+    </string>
+    <string id="eft_mino_tag_desc">
+        <text>
+        アメリカンスタイルの使い込まれたボロボロの軍用ドッグタグ。コードネームのみで、それ以外の識別マークはなく、傭兵グループか闇作戦部隊のものと思われる。このタグのコードネームは「Minotaur」である。タグには2本の銀色の棒があり、これは通常、大尉の階級を示す。
+        </text>
+    </string>
+    
+    <string id="eft_maid_tag_name">
+        <text>ドッグタグ 'Maiden'</text>
+    </string>
+    <string id="eft_maid_tag_desc">
+        <text>
+        アメリカンスタイルの使い込まれたボロボロの軍用ドッグタグ。コードネームのみで、それ以外の識別マークはなく、傭兵グループか闇作戦部隊のものと思われる。このタグのコードネームは 「Maiden 」である。タグには一本の銀色のバーが刻まれており、少尉の階級であることを示している。
+        </text>
+    </string>
+
+    <string id="eft_arti_tag_name">
+        <text>ドッグタグ 'Artificer'</text>
+    </string>
+    <string id="eft_arti_tag_desc">
+        <text>
+        アメリカンスタイルの使い込まれたボロボロの軍用ドッグタグ。コードネームのみで、それ以外の識別マークはなく、傭兵グループか闇作戦部隊のものと思われる。このタグのコードネームは「Artificer」である。歯車のマークが浮き彫りにされているが、これは通常の階級とは異なる。
+        </text>
+    </string>
+	
+	<string id="eft_khan_tag_name">
+        <text>ドッグタグ 'Khan'</text>
+    </string>
+    <string id="eft_khan_tag_desc">
+        <text>
+        アメリカンスタイルの使い込まれたボロボロの軍用ドッグタグ。コードネームのみで、それ以外の識別マークはなく、傭兵グループか闇作戦部隊のものと思われる。このタグのコードネームは 「Khan 」である。何度洗ってもタバコの煙と強い酒臭がする。
+        </text>
+    </string>
+	
+	<string id="eft_hawu_tag_name">
+        <text>ドッグタグ 'Haruka'</text>
+    </string>
+    <string id="eft_hawu_tag_desc">
+        <text>
+        アメリカンスタイルの使い込まれたボロボロの軍用ドッグタグ。コードネームのみで、それ以外の識別マークはなく、傭兵グループか闇作戦部隊のものと思われる。このタグのコードネームは「Haruka」である。奇妙なことに、タグの下には非常に複雑な細工が施されており、大きな目をした猫の顔のようなものが見える。
+        </text>
+	</string>
+	
+	<string id="eft_flash_tag_name">
+        <text>ドッグタグ 'Flashbang'</text>
+    </string>
+    <string id="eft_flash_tag_desc">
+        <text>
+        アメリカンスタイルの使い込まれたボロボロの軍用ドッグタグ。コードネームのみで、それ以外の識別マークはなく、傭兵グループか闇作戦部隊のものであると思われる。このタグのコードネームは 「フラッシュバン」である。名前の下には電球が刻まれている。
+        </text>
+    </string>
+	
+    <string id="eft_4k_tag_name">
+        <text>ドッグタグ '4000'</text>
+    </string>
+    <string id="eft_4k_tag_desc">
+        <text>
+        アメリカンスタイルの使い込まれたボロボロの軍用ドッグタグ。コードネームのみで、それ以外の識別マークはなく、傭兵グループか闇作戦部隊のものと思われる。このタグのコードネームは "4000 "である。名前の下にはスナイパーのレティクルが刻まれている。
+        </text>
+    </string>
+	
+	<string id="eft_ketchup_tag_name">
+		<text>ドッグタグ 'Ketchup'</text>
+    </string>
+    <string id="eft_ketchup_tag_desc">
+        <text>
+		アメリカンスタイルの使い込まれたボロボロの軍用ドッグタグ。コードネームのみで、それ以外の識別マークはなく、傭兵グループか闇作戦部隊のものと思われる。このタグのコードネームは 「Ketchup」である。下に小さな応急処置用の十字架が刻まれているが、これはグループの医療担当者だろうか。
+        </text>
+    </string>
+
+	<string id="eft_raven_tag_name">
+		<text>ドッグタグ 'Voron'</text>
+    </string>
+    <string id="eft_raven_tag_desc">
+        <text>
+		ロシア製の使い古されたボロボロの軍用ドッグタグ。コードネームのみで、それ以外の識別マークはなく、傭兵グループか闇作戦部隊のものと思われる。このタグのコードネームは 「Voron」である。裏面にはカラスの頭が繊細に刻まれている。
+        </text>
+    </string>
+
+	<string id="eft_beef_tag_name">
+        <text>ドッグタグ 'Beef'</text>
+    </string>
+    <string id="eft_beef_tag_desc">
+        <text>
+		アメリカンスタイルの使い込まれたボロボロの軍用ドッグタグ。コードネームのみで、それ以外の識別マークはなく、傭兵グループか闇作戦部隊のものと思われる。このタグのコードネームは 「Beef」である。ナイトビジョンゴーグルを装着したドクロのエンボス加工が施されている。
+        </text>
+    </string>
+
+	<string id="eft_gwub_tag_name">
+		<text>ドッグタグ 'Grub'</text>
+	</string>
+	<string id="eft_gwub_tag_desc">
+		<text>
+		ロシア製の使い古されたボロボロの軍用ドッグタグ。タグにはコードネームのみで、他の識別マークはなく、傭兵グループか闇作戦部隊のものと思われる。タグにはラテン語で "Grub"、裏面には複雑なアラビア語の文字が浮き彫りにされている。
+		</text>
+	</string>
+
+	<string id="eft_amer_tag_name">
+		<text>金属のドッグタグ</text>
+	</string>
+	<string id="eft_amer_tag_desc">
+		<text>
+		長方形のドッグタグには、兵士の名前、血液型、信仰などが書かれている。NATO軍、特にアメリカ軍の標準的なスタイルである。ただし、freedomも欧米式のタグを採用することが知られており、mercenaryはコード化された情報を記載したドッグタグを使用して誤魔化す傾向がある。
+		</text>
+	</string>
+	
+	<string id="eft_rus_tag_name">
+		<text>金属のドッグタグ</text>
+	</string>
+	<string id="eft_rus_tag_desc">
+		<text>
+		ロシアとウクライナの軍隊に特徴的な楕円形のドッグタグ。軍人によく見られるもので、他のストーカーにとっては軍隊出身であることを示すものである。mercenaryの中には、身元や活動の秘密を保持するために、このタグを付けない者もいる。
+		</text>
+	</string>
+
+</string_table>

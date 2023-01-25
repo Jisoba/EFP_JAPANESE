@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+	
+	<string id="ui_mcm_perk_based_artefacts_title">
+		<text>パークベースアーティファクト</text>
+	</string>
+	<string id="ui_mcm_menu_perk_based_artefacts">
+		<text>パークアーティファクト</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_debug_mode">
+		<text>デバッグモード</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_debug_mode_desc">
+		<text>コンソールでメッセージスパムを有効にする</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_allow_arty_containers">
+		<text>コンテナ内のアーティファクトを許可する</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_allow_arty_containers_desc">
+		<text>コンテナ内のアーティファクトのパークを利用できるようになります。コンテナのないアーティファクトでは、これまで通りPerkの説明が表示されるのみです。</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_treasure_chance">
+		<text>隠し場所におけるアーティファクトの規則性</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_treasure_chance_desc">
+		<text>数が少なければ少ないほど、より希少なパークアーティファクトが隠されていることになります。</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_timed_degradation">
+		<text>コンディション劣化</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_timed_degradation_desc">
+		<text>20秒経過するごとに、この割合で調子が悪くなる。</text>
+	</string>
+	
+</string_table>

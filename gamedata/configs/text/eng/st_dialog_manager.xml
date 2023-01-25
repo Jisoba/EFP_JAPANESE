@@ -1,0 +1,3596 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_drx_sl_meet_honcho">
+    <text>あんたに会いに来た。</text>
+  </string>
+  <string id="st_drx_sl_accept_task">
+    <text>いいだろう。</text>
+  </string>
+  <string id="st_drx_sl_task_accepted">
+    <text>幸運を祈る、ストーカー。</text>
+  </string>
+  <string id="st_drx_sl_actor_exit">
+    <text>ありがとう。</text>
+  </string>
+  <string id="drx_sl_default_endgame">
+    <text>願望機はお前を呼んでいる。終焉の時は近づいている。征け。そして望むものを手に入れるのだ。</text>
+  </string>
+  <string id="drx_sl_start_msg_stalker">
+    <text>ストーカー、お前さんが興味を持ちそうな面白い仕事をラインナップしておいた。冒険に興味があるのか？名声？現金？
+コードンのルーキー村にある俺のところへ来な。商談と行こうじゃないか。</text>
+  </string>
+  <string id="sidorovich_questlines_about_dialog_0">
+    <text>あんたが冒険、名声と現金を約束するって話を聞いた。
+願望機を見つけるのを手伝ってくれるのか？</text>
+  </string>
+  <string id="sidorovich_questlines_about_dialog_1">
+    <text>その通り。簡単な話だ。そいつはチェルノブイリの上にある。次のバスは、20分後に出るぜ。へっへっへ･･････。
+\n聞けよ。ストーカー。たくさんの奴らがお前さんより前に願望機を渇望してここへ来た。そいつらは皆、あるものを今日までに得た。知ってるか？ウジ虫だよ。全員それの餌食になったのさ･･････。多分ストレロック以外はな。いずれにしても、願望機は、ただの伝説だ。だが、俺が提供する現金は、本物だ。バリバリ働け。テキパキと手際よくやればすぐに金持ちになれるぜ。</text>
+  </string>
+  <string id="drx_sl_esc_m_trader_game_start_dialog_1_0">
+    <text>わかったよ。それで、金持ちになる方法とやらはどれだ？</text>
+  </string>
+  <string id="drx_sl_esc_m_trader_game_start_dialog_1_1">
+    <text>ほれ、お前さんのPDAをよこしな･･････。
+もし仕事が難航してたり、もしくはもっと仕事がほしいと思ったんなら、ここに行け。奴らは支払いはいいぞ。それに道中で良いコネも出来るだろう。何しろまっとうな仕事だ。少なくともゾーンの中ではな。失望させるなよ。</text>
+  </string>
+  <string id="drx_sl_esc_m_trader_start_game_1_endgame_1">
+    <text>この辺では有名になったな、ストーカー。ウルフが言うには、何人かの新人がキャンプファイヤーでお前さんの話をしているようだぞ。お前さんには世話になった、馬鹿なことで死ぬなよ。</text>
+  </string>
+  <string id="drx_sl_start_msg_dolg">
+    <text>重要な任務がある。ペトレンコ大佐に報告して命令を受ける勇敢な志願者が必要だ。</text>
+  </string>
+  <string id="petrenko_questlines_about_dialog_0">
+    <text>準備完了です。命令は何ですか？</text>
+  </string>
+  <string id="petrenko_questlines_about_dialog_1">
+    <text>Dutyの現在の優先事項は2つある。第一に、重要な任務を遂行し、支援を頼りにしている人々を支援する義務を果たすための有志が必要だ。第二に、有力なストーカーが戻ってきたと思われる根拠があり、将軍は彼を追跡するために勇敢な男を求めている。第一の優先事項については私に、第二の優先事項についてはヴォロニン将軍に詳細を聞いてくれ。</text>
+  </string>
+  <string id="drx_sl_bar_dolg_general_petrenko_stalker_game_start_dialog_1_0">
+    <text>俺はDutyの義務を果たすのを助ける準備ができています。誰が俺たちの助けを必要としているんですか？</text>
+  </string>
+  <string id="drx_sl_bar_dolg_general_petrenko_stalker_game_start_dialog_1_1">
+    <text>関連情報をPDAに転送する。君は我々の信頼を得ている、兵士よ。おまえは大きな責任を背負っている。よく耐えてくれ。</text>
+  </string>
+  <string id="drx_sl_bar_dolg_general_petrenko_stalker_start_game_1_endgame_1">
+    <text>おまえの頑張りには頭が下がる。しかし、ゾーンの惨状を食い止めることはできても、ゾーンを消滅させることはまだできない。今は、おまえが思うように、罪のない人々をゾーンから守ってくれ。そして、いざゾーンを消滅させる機会が訪れたときには、迷うことなく正しい選択をしろ。</text>
+  </string>
+  <string id="drx_sl_start_msg_freedom">
+    <text>忘れられない冒険のために、陸軍倉庫にある俺たちの本部で会おう。</text>
+  </string>
+  <string id="lukash_questlines_about_dialog_0">
+    <text>どうしたルーカッシュ？俺に何か用か？</text>
+  </string>
+  <string id="lukash_questlines_about_dialog_1">
+    <text>ああ。ストレロックが現れたことで、ここに嵐が吹き荒れている。信じられるか？ストレロックに何が起こっているのか、誰かに調べてもらいたい。おまえにその気がないなら、ゾーン中でFreedomの助けを必要としている奴らの連絡先のリストも持っている。どうだ？</text>
+  </string>
+  <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_game_start_dialog_1_0">
+    <text>リストを見せてくれ。こいつらにFreedomがどう動くか見せてやる。</text>
+  </string>
+  <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_game_start_dialog_1_1">
+    <text>その意気だ！ここで、そのリストをおまえのPDAにアップロードしている。ゾーンの自由を守るだけでなく、小遣い稼ぎにもなるだろうよ。</text>
+  </string>
+  <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_start_game_1_endgame_1">
+    <text>ゾーンの自由の維持に貢献してくれてありがとう。まだまだみんなが仲良く暮らせていないのは残念だが、仕方なかろう。だが、みんなが仲良くしてくれればいいというものでもない。とにかく、おまえは良いことをした。Freedomはおまえを誇りに思う。</text>
+  </string>
+  <string id="drx_sl_start_msg_csky">
+    <text>重要な任務があるんだが、進んで引き受けようという者がいれば私のオフィスに来てくれ。詳細を話そう。</text>
+  </string>
+  <string id="cold_questlines_about_dialog_0">
+    <text>あんたのメッセージを見た。現在の状況は？</text>
+  </string>
+  <string id="cold_questlines_about_dialog_1">
+    <text>志願か？我らはこの地域での作戦を拡大している。そして、ゾーンには毎日終わりなく驚かされてばかりだ。しかし、最大の思いもかけないことは、ストレロックが戻ったというニュースだ。彼がレベデフの失敗を生き残ったということを考えれば･･････そうだな、うちの古いメンバーたちはいくらかの答えを欲しがることは確実だろう。もっとも、君はそうは思わないだろうが。それにこっちには、誰かにやってもらわなきゃならん仕事の連絡先リストもある。Clear Skyは友好を常に維持することで利益を得られる。特にあの損失を受けた後じゃあ、ほかの方法では替えは利かないからな。</text>
+  </string>
+  <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_game_start_dialog_1_0">
+    <text>Clear Skyの友好を維持する手伝いの準備はできている。その連絡先について教えてくれないか？</text>
+  </string>
+  <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_game_start_dialog_1_1">
+    <text>君が出発したらPDAに彼らの詳細を解放しよう。君がすべきことは予定通り連絡先に接触することだ。残念ながら、これ以上教えることは出来ないが、すべては時が来れば意味が分かる。君は自分が何を成すべきかわかっていると、私は信じている。幸運を祈る。</text>
+  </string>
+  <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_start_game_1_endgame_1">
+    <text>いい仕事だ。本当によくやってくれた。君はチェルノブイリへの道を明らかにし、我らに余地を与えてくれた。その原子炉の中心に、Monolithがある。願望機だ。それを見つけるんだ。君は何をすべきか知っているはずだ。</text>
+  </string>
+  <string id="drx_sl_start_msg_ecolog">
+    <text>君に重要な任務がある、%s。ヤンターにある私の移動式研究所に報告するんだ。入手可能な詳細をそこで共有しよう。</text>
+  </string>
+  <string id="sakharov_questlines_about_dialog_0">
+    <text>教授、呼んだか？</text>
+  </string>
+  <string id="sakharov_questlines_about_dialog_1">
+    <text>ああ、そうだ、そうだ。いいね。君が来てくれて嬉しいよ。思いがけないことが起こった。ストレロックが再びゾーンで目撃されたのだ！彼を見つけることは、私にとっても上司にとっても、現在のところ最優先事項だ。ストレロックの捜索に参加したいということであれば、もっと詳しく話そう。そうでなければ･･････そうだな･･････私にはもうひとつ重要な任務がある。それは、ゾーンを旅して、新しい人に会って、できるだけ多くを学ぶことだ･･････。そこには、我々がまだ発見していないことがたくさんある。探索的な研究･･････とでも理解してくれたらいい。</text>
+  </string>
+  <string id="drx_sl_yan_stalker_sakharov_game_start_dialog_1_0">
+    <text>Ecologistたちのために調査研究を行うことに興味があるんだ、教授。どこから始めたらいいかな？</text>
+  </string>
+  <string id="drx_sl_yan_stalker_sakharov_game_start_dialog_1_1">
+    <text>ここには、旅の途中で君の面倒を見てくれる人たちのリストがある。彼らを訪ねれば、仕事や食料、避難所を提供してくれるだろう。探検して、好奇心を持つんだ。大胆に、そして冒険的になれ。すべての人、すべてのものに疑問を持て。君の経験が、ゾーンへの理解を深めてくれることを期待している。</text>
+  </string>
+  <string id="drx_sl_yan_stalker_sakharov_start_game_1_endgame_1">
+    <text>君は我々と外部との関係を改善するために多くのことをしてくれた。君がいなければ、状況はもっと悪くなっていたかもしれない。君のPDAを見せてくれるか？ああ、いいよ。君が持っていたデータをコピーさせてくれ。これはとても貴重だね。君は立派な助手になった。次は何を発見してくれるのだろうか？</text>
+  </string>
+  <string id="drx_sl_start_msg_killer">
+    <text>重要な雇用主と新たな契約ができる。今はそれだけを知っていれば十分だ。詳細は会ったときに話すから、本部まで来い。</text>
+  </string>
+  <string id="dushman_questlines_about_dialog_0">
+    <text>メッセージを受け取った。現在の状況について教えてくれないか？</text>
+  </string>
+  <string id="dushman_questlines_about_dialog_1">
+    <text>重要な雇い主から新しい契約がある。ストレロックという悪名高いストーカーが再登場したとの情報が入り、その追跡調査をしてくれる人が必要だ。どちらの仕事も、非常に高い報酬が得られる。</text>
+  </string>
+  <string id="drx_sl_cit_killers_merc_trader_stalker_game_start_dialog_1_0">
+    <text>では、我々の雇用主について教えてくれるか？</text>
+  </string>
+  <string id="drx_sl_cit_killers_merc_trader_stalker_game_start_dialog_1_1">
+    <text>彼らが誰なのか、何なのか、どこにいるのか、俺でさえ正確にはわからない。ただ、彼らは金を持っている、それも大金だ。いずれにせよ、この雇用主は我々に「利害関係者」のリストのために便宜を図るよう求めている。おまえのPDAには、関連する彼らの詳細情報がアップデートされる。冷静に、そして気をつけろ。ゾーンは儲かるかもしれないが、生き地獄でもある。</text>
+  </string>
+  <string id="drx_sl_cit_killers_merc_trader_stalker_start_game_1_endgame_1">
+    <text>ありがとう。聞け、おまえにメッセージがある。おまえの雇い主から直接だ。おまえは彼に大きな感銘を与えたようだぞ。彼はおまえだけに特別な使命を与えた。願望機を見つけろ。見つけたら次の言葉を送れ「プリンケプス マジス オピュラントス」。その通りにすれば、王子様がおまえに素敵なご褒美をくれるだろう。</text>
+  </string>
+  <string id="drx_sl_start_msg_army">
+    <text>兵士たちよ、SSU（ウクライナの情報機関）から重要な情報を受け取った。Militaryのストーカーは全員、すぐに本部に戻って任務を遂行するように。</text>
+  </string>
+  <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_game_start_dialog_1_0">
+    <text>任務を遂行する。</text>
+  </string>
+  <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_game_start_dialog_1_1">
+    <text>地獄へようこそ、兵士よ。私の言うことを聞けば、生き残れる。頭を回転させるんだ。誰も彼もが君を殺そうとしている。銃撃戦では身を低くして。隠れる場所を探せ。誰も信用するな。先に撃って後で考えろ。君の任務はゾーンの至る所で行われるが、ほとんどの場合、誰も君を助けてくれない。サバイバル訓練を思い出せ。PDAに登録されている連絡先に会いに行けば、彼らが君に任務を与えてくれる。任務を遂行し、生き延びることができれば、家に帰ることができるだろう。君を解任する。</text>
+  </string>
+  <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_start_game_1_endgame_1">
+    <text>兵士よ、ありがとう。君はよくやってくれた。今度は私が君に何かしてあげよう。君は聞きたくないかもしれないがな。君はもうすぐここから交代で出て行くんだろうね？しかし残念ながら、君たちの司令官には別の考えがあるようだ。ゾーンは閉鎖され、Militaryも含めて誰も出入りできなくなってしまう。君は死ぬためにここに残され、その死体さえも虫の餌にされるのだ。死体袋に入って逃げることもできない。しかし、君に勇気があれば、すべての希望が失われるわけではない。君に残された唯一の道は、チェルノブイリにある。チェルノブイリ原子力発電所の奥深くに願望機が存在するのだ。もし君が生き残り、見つけることができたら、それを使ってここから脱出することができる。それが唯一の希望だ。兵士よ。幸運を祈るよ</text>
+  </string>
+  <string id="drx_sl_start_msg_bandit">
+    <text>ここでは俺たちがビジネスを展開していることを忘れないでほしい。張り付きたいなら、俺のために働け。細かいことはこっちに来てネタバレしてくれ。</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_game_start_dialog_1_0">
+    <text>おまえのために働いてほしいだ？俺に何の得があるってんだ？</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_game_start_dialog_1_1">
+    <text>ゾーンには、自分のために何かをしてほしいと願う奴らがいる。その中には、通常の手段では対応できない場合もある。だから俺のところに来るのさ。俺はそいつらのために仕事を手配し、その見返りとして高額な報酬を支払ってもらう。そいつらのリストを渡してやろう。彼らのところに行って、彼らの頼みを聞いて、代金を回収するんだ。俺が求めるのは、お前が仕事を終えたとき、彼らが支払う金額の20％を俺に渡すことさ。その間に副業で稼いだ金は、おまえのものだ。いい話だろう？お前がスリや盗みをしたり、新人に張り付いたりするよりも稼げるはずだ。ただ、俺を裏切るようなことはするなよ？俺はここの住人全員を知っているし、俺から金をむしり取ろうとする奴を、見せしめにする気満々だからな。さあ、俺の前から消えてくれ。大事な仕事があるんだ。</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_start_game_1_endgame_1">
+    <text>何か用か？･･････ヒク･･････おまえを知っている。おい、ディジャは俺がおまえにして欲しかったことをしてくれたか？ああ、おまえは俺を失望させないと思っていたよ、相棒、おまえはいつも相棒だ･･････ヒク･･････ほら、一緒に飲もうよ･･････俺のボトルはどこだっけ？･･････ヒク･･････祝杯だ！しゅ、しゅしゅしゅ祝杯をあげよう！･･････ヒク･･････誰にも知られていないことを見つけたんだ、静かにしろよ、いいか？もしほかに知っている奴がいるなら、俺より先に知ったのかもしれない。見てろ、今、ブレイン スコーチャーは･･････ヒク･･････願望機への道が開かれたんだ。あとはMonolithにやられないように戦うだけで、俺にとっては甘い生活が待っている。いろんなものを手に入れたい。大金、酒、銃、酒、そしてパズズ･･････ヒク･･････意味はわかるよな、へへへ。･･････ヒク･･････だからリゼン、俺が今まで話したことを誰にも言うなよ、いいな？俺は先にそこへ行って、すごいモンになるからな！！</text>
+  </string>
+  <string id="drx_sl_start_msg_monolith">
+    <text>同志よ、Monolith様の願いを叶える時が来たのだ。プリピャチにある文化宮殿の地下室に戻って、使命を果たせ。</text>
+  </string>
+  <string id="drx_sl_pri_monolith_monolith_trader_stalker_game_start_dialog_1_0">
+    <text>全能のMonolith様に仕えるために何ができるか？</text>
+  </string>
+  <string id="drx_sl_pri_monolith_monolith_trader_stalker_game_start_dialog_1_1">
+    <text>我が同志よ、やるべきことはたくさんある。ゾーンから異教徒たちを一掃する必要がある。ミュータントの数もコントロールしなければならない。同志たちには食料と武器が必要だ。おまえはMonolithの長老に報告して、任務を与えられるだろう。おまえは自分の役割を果たさなければならない。Monolith様を讃え、Monolith様の祝福があることを願う。</text>
+  </string>
+  <string id="drx_sl_pri_monolith_monolith_trader_stalker_start_game_1_endgame_1">
+    <text>おまえはよくやった。おまえが行った多くの行為でおまえの信仰を証明した。全能のMonolith様に会う特権を得たのだ。神の目を見ることができるほど恵まれている者は多くない。お供え物を用意して、我々の主への献身を誓おう。石棺への旅は簡単ではない。そして、おまえはひとりで行かなければならない。しかし、聞くのだ、おまえの信仰が純粋であれば、Monolith様はおまえを呼び、おまえに道を示すだろう。</text>
+  </string>
+  <string id="drx_sl_start_msg_greh">
+    <text>チェルノボグの言葉だ。この世界を啓発する時が来たのだ。同志たちよ、我のもとに戻れ。おまえたちの使命について知らせよう。</text>
+  </string>
+  <string id="drx_sl_red_greh_trader_game_start_dialog_1_0">
+    <text>そのために何ができるのか？</text>
+  </string>
+  <string id="drx_sl_red_greh_trader_game_start_dialog_1_1">
+    <text>それはメッセージを広めること。ゾーンの真の姿をすべての人に知ってもらおう。それが奇跡であることを。ゾーンは我々を成長させ、人類を自滅的な性質から救うことができるということを。おまえはMonolithの長老たちに報告し、我々はおまえに任務を与える。おまえは自分の使命を果たさなければならない。我々は、世界が罪を自浄するのを助けるのだ。</text>
+  </string>
+  <string id="drx_sl_red_greh_trader_start_game_1_endgame_1">
+    <text>おまえはよくやった。おまえが行った多くの行為でおまえの信仰を証明した。全能のMonolith様に会う特権を得たのだ。神の目を見ることができるほど恵まれている者は多くない。お供え物を用意して、我々の主への献身を誓おう。石棺への旅は簡単ではない。そして、おまえはひとりで行かなければならない。しかし、聞くのだ、おまえの信仰が純粋であれば、Monolith様はおまえを呼び、おまえに道を示すだろう。</text>
+  </string>
+  <string id="st_drx_sl_change_factions_request">
+    <text>派閥に加入することを考えてるんだが</text>
+  </string>
+  <string id="st_drx_sl_accept_change_factions_task">
+    <text>手に入ったらまた来る。</text>
+  </string>
+  <string id="st_drx_sl_change_factions_task_accepted">
+    <text>いいぞ。幸運をな。またこのあたりで合うことになるだろう。</text>
+  </string>
+  <string id="st_drx_sl_change_factions_actor_exit">
+    <text>では、その時に。</text>
+  </string>
+  <string id="dm_universal_actor_start">
+    <text>聞きたいことがあるんだ。</text>
+  </string>
+  <string id="dm_universal_actor_exit">
+    <text>気にしないでくれ。</text>
+  </string>
+  <string id="dm_universal_actor_agree">
+    <text>いいだろう。</text>
+  </string>
+  <string id="dm_universal_actor_exit_thanks">
+    <text>ありがとう。</text>
+  </string>
+  <string id="dm_universal_npc_start_1">
+    <text>何についてだ？</text>
+  </string>
+  <string id="dm_universal_npc_start_2">
+    <text>もちろん。</text>
+  </string>
+  <string id="dm_universal_npc_start_3">
+    <text>続けて。</text>
+  </string>
+  <string id="dm_universal_npc_start_4">
+    <text>はい？</text>
+  </string>
+  <string id="dm_no_more_1">
+    <text>もうあんたに言っただろ。</text>
+  </string>
+  <string id="dm_no_more_2">
+    <text>それ以上は俺も知らないな。</text>
+  </string>
+  <string id="dm_no_more_3">
+    <text>俺が知ってるのはそれで全部だ。あとは他の奴に聞いてくれ。</text>
+  </string>
+  <string id="dm_no_more_4">
+    <text>畜生、ほっといてくれるか？他のやつに聞けよ。</text>
+  </string>
+  <string id="dm_no_more_5">
+    <text>俺が話せるのはそこまでだな。</text>
+  </string>
+  <string id="dm_no_more_6">
+    <text>てめえの糞みたいな質問はいくらでもしていいが他に話せることは無えよ。</text>
+  </string>
+  <string id="dm_no_more_7">
+    <text>ここまでだ、旦那。</text>
+  </string>
+  <string id="dm_no_more_8">
+    <text>またの機会にな。</text>
+  </string>
+  <string id="dm_no_more_9">
+    <text>また後で来てくれよ。そしたらもっと話せることがあるかもな。</text>
+  </string>
+  <string id="dm_no_more_10">
+    <text>あぁ、これ以上は掘り下げれないな。他に質問は？</text>
+  </string>
+  <string id="dm_do_not_know_1">
+    <text>ブラザー、俺が全て知ってたんなら、こんなクソ溜めにいるわけねえだろ？</text>
+  </string>
+  <string id="dm_do_not_know_2">
+    <text>良い質問だな。もし見つけたならば俺にも共有してくれ。いいな？</text>
+  </string>
+  <string id="dm_do_not_know_3">
+    <text>知らないよ。俺を放って置いてくれないか。</text>
+  </string>
+  <string id="dm_do_not_know_4">
+    <text>地獄なら知ってるぜ。</text>
+  </string>
+  <string id="dm_do_not_know_5">
+    <text>ゾーンでは常に何かが起きてるな。もっとも、アンタと共有したい情報は何も持っては居ないがね。</text>
+  </string>
+  <string id="dm_do_not_know_6">
+    <text>俺はお前には何も教えないし、お前もたわごとを俺に吹き込もうとするんじゃねえ。</text>
+  </string>
+  <string id="dm_do_not_know_7">
+    <text>アンタ聞く相手を間違ってるぜ。</text>
+  </string>
+  <string id="dm_do_not_know_8">
+    <text>俺だって知りたいよ。</text>
+  </string>
+  <string id="dm_do_not_know_9">
+    <text>すまん。出来ることはないな。</text>
+  </string>
+  <string id="dm_do_not_know_10">
+    <text>すまんね、何も持ってないんだ。</text>
+  </string>
+  <string id="dm_hello_general_1">
+    <text>調子どうだい？</text>
+  </string>
+  <string id="dm_hello_general_2">
+    <text>よう、どうした？</text>
+  </string>
+  <string id="dm_hello_general_3">
+    <text>こんにちは。調子はどうかね？</text>
+  </string>
+  <string id="dm_hello_1">
+    <text>やあ、兄弟。</text>
+  </string>
+  <string id="dm_hello_2">
+    <text>ごきげんよう、ストーカー。</text>
+  </string>
+  <string id="dm_hello_3">
+    <text>俺は元気だぜ。どうした？</text>
+  </string>
+  <string id="dm_hello_4">
+    <text>やあ。</text>
+  </string>
+  <string id="dm_hello_5">
+    <text>どうした？</text>
+  </string>
+  <string id="dm_hello_6">
+    <text>何が欲しい？</text>
+  </string>
+  <string id="dm_hello_7">
+    <text>今のところ、順調だな。アンタは？</text>
+  </string>
+  <string id="dm_hello_8">
+    <text>ここんとこ良い日が続いてるな。なにか入り用か？</text>
+  </string>
+  <string id="dm_hello_9">
+    <text>良い日だな！</text>
+  </string>
+  <string id="dm_hello_10">
+    <text>おう、何だ？</text>
+  </string>
+  <string id="dm_hello_11">
+    <text>失せろ、ストーカー。</text>
+  </string>
+  <string id="dm_hello_12">
+    <text>何が要るんだ？</text>
+  </string>
+  <string id="dm_hello_13">
+    <text>オーケー。さてクソな難問だな。うむ、全く解らん。</text>
+  </string>
+  <string id="dm_hello_14">
+    <text>何が要るんだ、ストーカー？</text>
+  </string>
+  <string id="dm_help_1">
+    <text>助けて、お願いだ･･････。死ぬ･･････。</text>
+  </string>
+  <string id="dm_help_2">
+    <text>助けてくれ、兄弟･･････。ああ、神さま、痛え！</text>
+  </string>
+  <string id="dm_help_3">
+    <text>友よ、医療キット･･････。医療キットをくれ･･････。</text>
+  </string>
+  <string id="dm_help_4">
+    <text>兄弟･･････。兄弟、助けてくれ！</text>
+  </string>
+  <string id="dm_help_5">
+    <text>友よ、医療キット･･････。キットだ！</text>
+  </string>
+  <string id="dm_help_6">
+    <text>ストーカー、 助けて･･････。医療キットをくれ･･････。</text>
+  </string>
+  <string id="dm_help_7">
+    <text>俺は怪我してる･･････。助けてくれ！</text>
+  </string>
+  <string id="dm_help_8">
+    <text>ここに刺さってる！</text>
+  </string>
+  <string id="dm_help_9">
+    <text>医療キット！</text>
+  </string>
+  <string id="dm_help_10">
+    <text>助けて、なあ！</text>
+  </string>
+  <string id="dm_help_11">
+    <text>医療キット！早く！</text>
+  </string>
+  <string id="dm_help_12">
+    <text>助けてくれ！死んじまう！</text>
+  </string>
+  <string id="dm_help_13">
+    <text>応急処置が必要だ。お前ら！早くしろ！</text>
+  </string>
+  <string id="dm_help_14">
+    <text>医療キットが必要だ！助けてくれ！</text>
+  </string>
+  <string id="dm_help_15">
+    <text>衛生兵！</text>
+  </string>
+  <string id="dm_help_16">
+    <text>よう、兄弟。医療キットをシェアしてくれねえか？</text>
+  </string>
+  <string id="dm_help_17">
+    <text>あのヤベえ医者のところに連れてってくれ。イテェ、医療キットを持ってねえか？頼む、そいつが必要なんだ。</text>
+  </string>
+  <string id="dm_anomalies_general_1">
+    <text>アノマリーやアーティファクトについて何か知ってるか？</text>
+  </string>
+  <string id="dm_anomalies_general_2">
+    <text>アンタは何かアノマリーやアーティファクトについて知ってるか？</text>
+  </string>
+  <string id="dm_anomalies_general_3">
+    <text>アノマリーやアーティファクトについて教えてくれないか。</text>
+  </string>
+  <string id="dm_anomalies_0">
+    <text>アンタに教えるのは楽しそうじゃないな。</text>
+  </string>
+  <string id="dm_anomalies_1">
+    <text>バーナー アノマリーを見たことがあるか？昼間でもかすかな靄がかかってる場所は気を付けろ。その中に足を踏み入れれば「ボルトを投げるべきだった」と言う前に、お前は黒焦げになるぞ。</text>
+  </string>
+  <string id="dm_anomalies_2">
+    <text>彗星アノマリーはいつも夜空にあるわけじゃない。この前、俺は熱的アノマリーの一種であろう巨大な火の玉が燃え盛っているのを見た。</text>
+  </string>
+  <string id="dm_anomalies_3">
+    <text>渦巻アノマリーを見たことがあるか? アレはほとんど目に見えないが、片足を近づけすぎるとお前を引き寄せてバラバラにしてしまうぞ。</text>
+  </string>
+  <string id="dm_anomalies_4">
+    <text>もし鼻歌のような音が聞こえたら、その場で立ち止まれ。踏み切り板アノマリーかもしれないからな。これは触れたら爆発する重力のボールだ。こいつは至る所にあるから、ボルトは常に握っておけ。</text>
+  </string>
+  <string id="dm_anomalies_5">
+    <text>砂埃や葉っぱが吹き上げている？風ではないかもしれないぞ。回転木馬アノマリーは厄介な重力的アノマリーだ。お前がそれに巻き込まれると、身体をぐるぐると回転させる･･････お前を引き裂くまでな。</text>
+  </string>
+  <string id="dm_anomalies_6">
+    <text>「フルーツ ポンチ アノマリー」は、名前ほど美味くはない。化学物質への耐性を持たずに近づきすぎると顔を溶かされる。</text>
+  </string>
+  <string id="dm_anomalies_7">
+    <text>この辺のコケや蔓は信用しない方がいい。ここらでは「バーント ファズ アノマリー」呼ばれている。触ると微細な胞子で穴だらけにされるぞ。</text>
+  </string>
+  <string id="dm_anomalies_8">
+    <text>緑色のガス アノマリーが地面に浮いているのを見たか？酸性で、その中を散歩していると足を食い荒らされる。</text>
+  </string>
+  <string id="dm_anomalies_9">
+    <text>ガス雲アノマリーに注意しろ。酸の球が飛び交っているのを見たら、その周りや下に回り込め。さもないとただの肉塊にされるからな。</text>
+  </string>
+  <string id="dm_anomalies_10">
+    <text>科学者によると、電気的アノマリーは発火後、電荷を再構築するのに時間がかかるという。もし時間が合えば、ボルトで起動後、短時間は安全に通過できることを意味する。</text>
+  </string>
+  <string id="dm_anomalies_11">
+    <text>数日前、俺は巨大な電気の玉を見た。ジュピターの教授は、これを古い発明家にちなんで「テスラ アノマリー」名付けた。それは一定のパターンで移動するから、タイミングを合わせればお前を傷つけることはないだろうな。</text>
+  </string>
+  <string id="dm_anomalies_12">
+    <text>空間アノマリーには近寄るなよ。有用な場所にテレポートするか、飢え死にするかのコイントスだ。そんなリスクを冒すのは気が狂っているとしか思えないだろ？</text>
+  </string>
+  <string id="dm_anomalies_13">
+    <text>Clear Skyは2011年にブードゥー教のような事をしていたはずだ。聞くところによると、空間アノマリーが現れて、追いかけていた男に近づいていった。妙な話だろ?</text>
+  </string>
+  <string id="dm_anomalies_14">
+    <text>レッド フォレストに行く勇気はあるか？あの地獄のような「共生生物」アノマリーの場所は、実質的にアーティファクトの金鉱だと聞いたよ。周りのギザギザした岩と歪んだ木が目印だ。</text>
+  </string>
+  <string id="dm_anomalies_15">
+    <text>この地域では地震は起きないんだよな。そして、「断層」アノマリーの余波･･････バーナー アノマリーや重力的アノマリーで満たされた巨大な地割れを見ることになる。恐ろしい。</text>
+  </string>
+  <string id="dm_anomalies_16">
+    <text>コネで見つけた物を自慢する馬鹿に同情するな。下劣な日和見主義者に追われずに済んで幸運だ。</text>
+  </string>
+  <string id="dm_anomalies_17">
+    <text>回転木馬アノマリーなどの重力的アノマリーは絶対的な地獄だが、お前の足が十分に軽やかならば時折脱出することができる。スプリントしながらジャンプすればおそらく何とかなる。</text>
+  </string>
+  <string id="dm_anomalies_18">
+    <text>「グラヴィ」アーティファクトって知ってるか？金属製の犬の糞のように見えるが、科学者は反重力効果のために鼻から金を払うだろうな。まあ、ほとんどのストーカーはこいつを手放すことはないだろう。</text>
+  </string>
+  <string id="dm_anomalies_19">
+    <text>いつでも、いつでも、いつでも、いつでも、放射線に対処できるものを持っていろよ。薬を忘れたり、医者と連絡が取れなくて死ぬルーキーを見るのはもううんざりだ･･････。</text>
+  </string>
+  <string id="dm_anomalies_20">
+    <text>どうやら新しいベルト装置は全て科学的なアーティファクトの研究に基づいているようだ。それでもアーティファクトのための金は尽きることなく、効果の善し悪しは気にせず、ただ強力であることだけを気にしている･･････。</text>
+  </string>
+  <string id="dm_anomalies_21">
+    <text>致命的な傷さえも治すことができる珍しいアーティファクトの話を聞いたことがあるぞ。目の前で傷口をかさぶたにすることもできる。もし見つけたらアーティファクト高レベル活用容器とかと一緒に持っておいた方がいいだろうな。</text>
+  </string>
+  <string id="dm_anomalies_22">
+    <text>「コンパス」と呼ばれる伝説のアーティファクトの話はよく耳にする。それを持っていれば誰にも傷付けられずアノマリーにも触れられないと言われているが、本当なんだろうか？</text>
+  </string>
+  <string id="dm_anomalies_23">
+    <text>キャンプファイヤーの周りに座っているベテランのストーカーに聞いてみろ。すぐに必要なことがわかるだろう。</text>
+  </string>
+  <string id="dm_anomalies_24">
+    <text>アドバイスが欲しいのか？アーティファクトには近づくな。ハエトリグサの甘い蜜のようなものだ。誘き寄せられて、気付いた頃には出口のないアノマリー領域で立ち往生するハメになるぞ。</text>
+  </string>
+  <string id="dm_anomalies_25">
+    <text>俺が言えることは、きちんと準備をすることに尽きるな。十分なLLCを持っていることを確認し、呼吸器が作動していることを確認し、正しい薬を持ってきたことを確認する。死んだらお宝は売れないだろ？</text>
+  </string>
+  <string id="dm_anomalies_26">
+    <text>アーティファクト狩りで一番難しいのは、始めることだ。十分な防護と薬があればいいわけじゃない。あとは忍耐と、きちんとした探知機と、たくさんの訓練だ。</text>
+  </string>
+  <string id="dm_anomalies_27">
+    <text>ゆっくり休んで体調管理をしっかりしろ。アノマリーを発見するのはそう簡単じゃあない。ウォッカを飲みまくった次の日、どうやって渦巻アノマリーの密集地を回避することができるんだ？自分が警戒心を保てるコンディションかどうかの確認を怠るな。</text>
+  </string>
+  <string id="dm_anomalies_28">
+    <text>囁き声が聞こえるか？あれはゾーンが話しかけてきてるんだ。センターに近い場所やエミッション中は声が大きくなる場所がある。「精神波の防護」がないとゾンビ化するぞ。</text>
+  </string>
+  <string id="dm_anomalies_29">
+    <text>誰もがアーティファクトを漁るのが好きなわけではないことを肝に銘じておいてくれ。ミュータントを狩る者もいれば･･････人間を狩る者もいる。戦利品を誰に見せるかは慎重にな。</text>
+  </string>
+  <string id="dm_anomalies_30">
+    <text>アーティファクトはほとんど壊れないって知ってたか？直接アーティファクトを追い回すんじゃなく、アーティファクトに向かって銃弾を撃ち込むと衝撃でアノマリーから引き離せることもあるぞ。</text>
+  </string>
+  <string id="dm_anomalies_31">
+    <text>古き良き時代にここにいたかった。あの頃はアーティファクトをバックパックに直接放り込んでも放射線を浴びることは無かったそうだ。今のゾーンは宝物を守るために努力してるんだろうな。</text>
+  </string>
+  <string id="dm_anomalies_32">
+    <text>アーティファクトビジネスは今でも十分に過酷な競争だ。本当にこのバカげたレースに参加したいならEcologistに会いに行けばいい。鍛えてくれるよ。</text>
+  </string>
+  <string id="dm_anomalies_33">
+    <text>多くの新参者は「金持ちになれるアーティファクト」を夢見ている。ゾーンは実りあるものではあるが、宝くじのように扱うのはよく無いな。努力して物事に取り組めば、必ずたどり着くことができるんだ。</text>
+  </string>
+  <string id="dm_anomalies_34">
+    <text>陸軍倉庫の北側でアーティファクトを狩るのは特に危険だが、儲かる。それができる奴は少数だが、手練れはうまくやっている。</text>
+  </string>
+  <string id="dm_anomalies_35">
+    <text>無事にアーティファクトを持ち帰ることができたことに感謝するんだな。ゾーンはとても複雑な迷路のような罠で、ここまで生き残れたのは幸運だったと思うよ。</text>
+  </string>
+  <string id="dm_anomalies_36">
+    <text>ザトンの西にはガス アノマリーと重力的アノマリーでいっぱいの沼地があるんだ。まあ、有毒ガスの解毒剤さえ手に入れれば準備完了だがな。簡単なもんだよ。</text>
+  </string>
+  <string id="dm_anomalies_37">
+    <text>ザトンの南西部にある「鉄の森」作業場は大いなる恩恵を受けているらしいぜ。古参がアーティファクトのクラスターの話をしていたんだ！まあ、幽霊が出るとかいう噂があるから、この地域のストーカーたちはあまり寄り付かないんだが。</text>
+  </string>
+  <string id="dm_anomalies_38">
+    <text>熱的アノマリーに耐えられる装備を持っているなら、ベテランはエミッション後のザトン北寄りにある焼けた農場が一番いいと言っていたな。</text>
+  </string>
+  <string id="dm_anomalies_39">
+    <text>もっとも大胆なストーカーはザトンの焼けた農場の下の洞窟を探索するらしい。入るのは簡単だが、出るのは命懸けだ。洞窟から出られた奴はいつもかなりのお宝を抱えてるそうだ。</text>
+  </string>
+  <string id="dm_anomalies_40">
+    <text>円形アノマリーを見たことがあるか？北部のベテランによると、ザトンの南にあるという。それは本当に目を見張るものだ。しかし、生きたまま焼かれたくなければ、遠くから見るのが一番だ。</text>
+  </string>
+  <string id="dm_anomalies_41">
+    <text>精神波アノマリーに遭遇したことは？人生で最高の経験だったとは言えないな。数分以内に脳が混乱して、呼吸法を忘れ始める。地獄から出ることを知るのは言うまでもない。</text>
+  </string>
+  <string id="dm_anomalies_42">
+    <text>通常、重力的アノマリーはほとんど目に見えないものだが、俺が今まで見た中で最も奇妙な岩や水の形のいくつかは、彼らが時々引っ張ってくるクソのようなものに、俺は驚きを禁じ得ない。</text>
+  </string>
+  <string id="dm_anomalies_43">
+    <text>経験豊富なストーカーは蒸気アノマリーについて話している。ザトンの北東部にある独特の熱的アノマリーで、やけどするような蒸気の噴出で人を生きたまま焼き殺すことができる。そこにある アーティファクトは普通の火を使ったものだが。</text>
+  </string>
+  <string id="dm_anomalies_44">
+    <text>ヤノフ駅の近くにある大規模な採石場をチェックすることができるなら、そうしてくれ。ガスは防護マスクをしていても目がチクチクするほどひどいものだが、その分アーティファクトの量は多くの場合、それを補って余りある。</text>
+  </string>
+  <string id="dm_anomalies_45">
+    <text>ジュピターのコパシー村の怪談はよく耳にするが、ゾンビを追い越すと墓地の近くにある熱的アノマリーは、価値ある懸賞金を守ってくれる傾向がある。</text>
+  </string>
+  <string id="dm_anomalies_46">
+    <text>ヴェッツが言うには、アーティファクト狩りに最適な電気アノマリーは、駐車場だと言っていた。ジュピターの四方停留所の西の方にある。北の危険を覚悟しているならね。</text>
+  </string>
+  <string id="dm_anomalies_47">
+    <text>ヤノフ駅の近くにあるEcologistの研究所（掩体壕）を知ってるか？彼らは数年前に「特異な果樹園」の研究をしていた。彼らが発見したのは、アーティファクトが取り除かれるたびに少しずつ成長していることだった。なんだか怖くないか？</text>
+  </string>
+  <string id="dm_anomalies_48">
+    <text>アーティファクトが欲しいなら酸性のものを探せ。ジュピターの南東にあるコンクリート風呂アノマリーがお勧めだな。大抵のストーカーは不気味がって近寄らないから、競争相手は多くない。</text>
+  </string>
+  <string id="dm_anomalies_49">
+    <text>ジュピター大規模工場からそう遠くないところで道路の一部が落ちていた。彼らは舗装が溶けた場所だからここを「ビチューメン」と呼んでいる。熱と重力のハイブリッドだ。中々の魔法だと思わないか？</text>
+  </string>
+  <string id="dm_anomalies_50">
+    <text>有毒ガス アノマリーは最悪だよ。刺すような痛みを起こす湿地帯を作り出す。時には水が水ではなく、酸に変わってしまうこともあるんだ。本当にひどい。</text>
+  </string>
+  <string id="dm_anomalies_51">
+    <text>アーティファクトを探すのに最適な場所は、誰も訪れないアノマリー領域を探すことだろう。アーティファクトを手に入れるのは難しいだろうが、少なくとも時間をかけてクリアできる。</text>
+  </string>
+  <string id="dm_anomalies_52">
+    <text>「オークパイン」を知っているか？名前の由来は遺伝的には、樹皮を樫と松の両方であると識別した科学者によるそうだ。毒性があるのが残念だな。</text>
+  </string>
+  <string id="dm_anomalies_53">
+    <text>良いアーティファクトを手に入れたいのであれば、まずそこに到着してからカフェインを飲んで、次のローカルエミッションが終わったらすぐに最寄りのアノマリー領域に向かってスプリントする準備をしておけ。</text>
+  </string>
+  <string id="dm_anomalies_54">
+    <text>まだ誰もプリピャチでアーティファクトを探していない。俺の知っている人は皆、ここに来て間もないので用心深いんだよ。</text>
+  </string>
+  <string id="dm_anomalies_55">
+    <text>良いスポットを知っている人がいるかどうかわからない。プリピャチは今のところ十分に探索されていない。</text>
+  </string>
+  <string id="dm_anomalies_56">
+    <text>俺なら地下トンネルを探すな。街の地下には何トンもあるそうだ。</text>
+  </string>
+  <string id="dm_anomalies_57">
+    <text>この辺ではあまり知られていなくて･･････まあほとんどはギャリーの話なんだが。酸アノマリーから巨大なブドウの木が生えている場所があると言っていた。10階建てのビルと同じくらいの高さだ。本当だと思うか？</text>
+  </string>
+  <string id="dm_information_general_1">
+    <text>最近のゾーンはどうだ？</text>
+  </string>
+  <string id="dm_information_general_2">
+    <text>ここで何が起きたか知ってるか？</text>
+  </string>
+  <string id="dm_information_general_3">
+    <text>情報を探してるんだが。</text>
+  </string>
+  <string id="dm_information_0">
+    <text>なにも情報はないな。</text>
+  </string>
+  <string id="dm_information_1">
+    <text>俺が見た限りでは、Militaryはまだアグロプロムに駐留しているようだ。彼らはまだそこで何をしているんだ？何を計画してるんだ？きな臭いな。</text>
+  </string>
+  <string id="dm_information_2">
+    <text>ああ、どうやらMilitaryはまだアグロプロムにいるらしい。彼らはおそらくまだ下の研究室で何か興味深いものを捜索しているだろうな。俺もそうしてみたいと思っているが、素面であそこに行く気は起きない。</text>
+  </string>
+  <string id="dm_information_3">
+    <text>ロストクは中立のストーカーが寝るのに最適な場所だ。バーもあるし娯楽もあるし、全ての場所はDutyが管理してる 彼らはBanditたちを遠ざける方法を知っている。</text>
+  </string>
+  <string id="dm_information_4">
+    <text>コードンは新入りが経験を積むのに適しているだけではなく、ベテランにも嬉しいバカンススポットだ。他のゾーンと比べても、あまり飽きずにくつろげるのがいいな。</text>
+  </string>
+  <string id="dm_information_5">
+    <text>ダークスケープとメドウは、しばらくの間、すべてのものから離れる必要がある場合は両方とも素晴らしい場所だ。俺も行こうと思う日がある。</text>
+  </string>
+  <string id="dm_information_6">
+    <text>凶悪犯がいるから今は知らないだろうが、ダーク バレーはかつて測地学者や科学者のための施設だった。研究室のいくつかは地球を測るためだけではないと聞いているが･･････。</text>
+  </string>
+  <string id="dm_information_7">
+    <text>デッド シティーには下水道がある。さらに良いのは、大人の男がそこに収まって歩き回ることができることだ。捕まらずにMercenaryのスタッシュから盗むのに何度か使った。</text>
+  </string>
+  <string id="dm_information_8">
+    <text>ガベージのフリーマーケットを運営している奴らは信用できないな。彼らはただのトレーダーだと言っているのに、なぜあの見晴らしのいい場所に座っているのか？何を見ているんだ？誰のために？何のために？不気味に感じるよ。</text>
+  </string>
+  <string id="dm_information_9">
+    <text>情報が欲しければ、PDAガイドを見るのが一番だ。そこにはいろいろと便利な情報が載っているぞ。それ以外には、ロストクのスニッチの所へ行けばいい。</text>
+  </string>
+  <string id="dm_information_10">
+    <text>リマンスクの北にある放棄された病院のことを聞いたことがあるかもな。狂人がうようよしているし、価値のある医療機器も長い間故障したり消えたりしている。</text>
+  </string>
+  <string id="dm_information_11">
+    <text>私が話すストーカーの多くは、ジュピターはアーティファクトには最高の場所だと言い続けている。しかしそこへの道筋は全て死の罠だ。ミュータントの森、マインドコントロール装置･･････キリがない･･････。</text>
+  </string>
+  <string id="dm_information_12">
+    <text>もし ジュピターに行くことがあったら地下の使用には注意しろよ。monolithが入り口を封鎖して、ミュータントが潜んでいると聞いた。</text>
+  </string>
+  <string id="dm_information_13">
+    <text>リマンスク、「秘密」の都市･･････静かな日もあれば、荒れている日もある。Monolithは北から押し込み、Mercenaryは南から押し込もうとし、その間には果てしなく続くようなアノマリーとミュータントが存在している。</text>
+  </string>
+  <string id="dm_information_14">
+    <text>Clear Skyの･･････えっと･･････隠し基地を聞いたことがあるか？グレート スワンプの南西にある。彼らは友好的で飄々としていて、新人にはコードンの次に最適な場所だ。</text>
+  </string>
+  <string id="dm_information_15">
+    <text>FreedomはMonolithからゾーンを守ってると言ってるがデタラメだ。Banditたちにすら立ち向かえないのに狂った狂信者からどうやって身を守るんだ？</text>
+  </string>
+  <string id="dm_information_16">
+    <text>Monolithはプリピャチを奪還し、戻ってきた時にはかなり厳重に封鎖されていた。唯一の慰めはミュータントが食べるものを持っていることだ。プリピャチ郊外の友人以外にはな。</text>
+  </string>
+  <string id="dm_information_17">
+    <text>プリピャチ郊外で何人かのMercenaryたちが彼らのグループから抜けたと聞いた。彼らは必死になっているに違いない。彼らは素晴らしい装備をとても安く売っているだろうな。</text>
+  </string>
+  <string id="dm_information_18">
+    <text>レーダー施設には近づくな、それだけだ。ブレイン スコーチャーが作動していようがしていまいが関係ない。あそこは悪夢を見る場所だ。分かったか？分かったのか？ああ･･････すまん。本当に、本当に近寄らない方がいいんだ。</text>
+  </string>
+  <string id="dm_information_19">
+    <text>技術屋としてのフォレスターの腕前については良いことしか聞いていない。他の奴がキット全体を必要とするようなことを素手でやってくれる。唯一の問題は、彼が大金を請求していることと、レッド フォレストに住んでいることだ。</text>
+  </string>
+  <string id="dm_information_20">
+    <text>ワイルド テリトリー、俺が「ロストクの地獄」と呼んでいるところは、とにかくひどい場所だ。トリガー ハッピー野郎とミュータントの群れがいるだけだ。どこへ行くにしても、あの「ロストクの地獄」よりかは良い場所はいくらでもある。</text>
+  </string>
+  <string id="dm_information_21">
+    <text>願望機って聞いたことあるか？昔の師匠によると、それは原子力発電所の地下のどこかに埋まっていて、そこにたどり着いてお願いするだけで、どんな夢でも叶えてくれるそうだ。早くそこに行きたいな！</text>
+  </string>
+  <string id="dm_information_22">
+    <text>ヤンターは死に染まっている。そこの工場からはぶっ壊れた抜け殻どもが湧き続けて、撃ち殺してからそれが昔の友人のひとりだと気づくんだ。本当にクソッタレだ。</text>
+  </string>
+  <string id="dm_information_23">
+    <text>ザトンに来たら、スカドフスクをチェックしてみろ。医療従事者、技術屋、情報屋、バーテンダー、銃器の密輸入者･･････ニンブルもそこに店を構えているからな。</text>
+  </string>
+  <string id="dm_information_24">
+    <text>ネットワークのトップ10のストーカーのひとりが少し前に死んだ。どいつもこいつもそのストーカーの伝説のスタッシュを探そうと躍起になっている。どこから探せばいいのかわからないが、うまくいけばすぐに見つかるだろう。</text>
+  </string>
+  <string id="dm_information_25">
+    <text>おそらく、俺たちのどちらかが廃墟と化した研究室の奥深くにある情報を回収する任務に就くまで長くはないだろうな。それをやった俺の友人のほとんどは戻ってこない。しっかり準備する必要がある。</text>
+  </string>
+  <string id="dm_information_26">
+    <text>まじかよ？PDAガイドを参照しろ。誰が更新しているのか知らないが、俺はそれが俺の苦境を助けてくれていることを知っている。何かに行き詰った時は、それをチェックしてみるんだ。</text>
+  </string>
+  <string id="dm_information_27">
+    <text>Monolithを生きたまま捕獲することはできないと言われているのを知っているか？俺の友人は、負傷した狂信者のトドメを刺しに行った時に死んでしまったよ。</text>
+  </string>
+  <string id="dm_information_28">
+    <text>ダークスケープはかつてBanditたちがコードンとダーク バレーの間を通るのに好まれていた道だった。しかし、メドウが発見されて以来、忘れられた場所になった。</text>
+  </string>
+  <string id="dm_information_29">
+    <text>スルタンの保護下にいればMercenaryはお前に手を出さないだろう。Mercenaryは下請け業者にコネがあるからな。スルタンの保護を乱用すれば、犬の餌食にされてしまうだろうが。</text>
+  </string>
+  <string id="dm_information_30">
+    <text>この辺のストーカーは、銃を持ったガキにすぎない。あいつらは弱くて反抗的で、自分より強いものを尊敬していない･･････あのバカどもは完璧な射撃の練習になる。</text>
+  </string>
+  <string id="dm_information_31">
+    <text>赤、オレンジ、黄色、緑、青、白。子供が描いた下手な虹のように聞こえるか？Ecologistたちが防護服に使う色でもある。護衛がそんな服を着るよりセンスがあってよかったな</text>
+  </string>
+  <string id="dm_information_32">
+    <text>コードンやスカドフスクのバカより頭が悪いのはMonolithのメンバーだけ。彼らは一本調子のバカばかりのようだ。死を恐れるほどのバカでもないのが残念だな。</text>
+  </string>
+  <string id="dm_information_33">
+    <text>頭の悪い奴らばかりだな。自分では賢いと思っていても、ゾーンから与えられたもので生活する方法も知らないし、銃の持ち方も知らないのだから。</text>
+  </string>
+  <string id="dm_information_34">
+    <text>Dutyはクソだ。彼らは武装していて派手な制服を着ているかもしれないが、外の世界で知っているギャングやマフィアと大差ない。彼らはあまりにも独善的で、それを見ていないだけだ。</text>
+  </string>
+  <string id="dm_information_35">
+    <text>Freedomの戯言を信じるなよ。俺たちがダーク バレーから追い出したのにあいつらは怖くて何もできないんだよ。次からはゾーンの自由のために戦うと言ってくるぞ。</text>
+  </string>
+  <string id="dm_information_36">
+    <text>ゾーンでのMilitaryの作戦は悪化の一途をたどっているという。愚か者が指揮する羊の軍団のようなものだ。彼らの失敗を見ていると、なんだか哀れに思えてくる。早く彼らのリーダーを倒してやりたいものだ。</text>
+  </string>
+  <string id="dm_information_37">
+    <text>サハロフのチームは最近、1つの「フラッシュ」アーティファクトがニミッツ空母のリアクターの両方を合わせたものよりも多くのパワーを持っていることを証明した。しかし、彼らはそれについて沈黙を守っている。理由は想像できない。</text>
+  </string>
+  <string id="dm_information_38">
+    <text>Dutyは少し前にヤンターから撤退しなければならなかった。彼らが去るのを見るのはちょっと悲しい。彼らは科学者にとって大きな慰めであり、助けだったし、護衛たちにとっても安心感があった。彼らがすぐに元の力に戻ることを願っているよ。</text>
+  </string>
+  <string id="dm_information_39">
+    <text>人を見下すのは好きじゃないが、Banditどもはこのゾーンでは最低の生き物だ、モラルも倫理観もない。クソみたいな態度と生意気な振る舞いと 貪欲さだけだ 奴らはもういい加減にしてくれ。</text>
+  </string>
+  <string id="dm_information_40">
+    <text>ゾーン内で最も危険な場所であっても、安全に通過できる道がある。いくつかの野営地でたむろしているガイド役はこのことをよく知っており、彼らの専門知識は、しばしば価格に見合った価値がある。</text>
+  </string>
+  <string id="dm_information_41">
+    <text>たまには見晴らしの良い場所で野営をしてみろ。また、アノマリーのパターンや形を研究してみてるのもいい。ゾーンは命取りになることもあるんだが、美しい場所でもあるよ。</text>
+  </string>
+  <string id="dm_information_42">
+    <text>ヴォロニンが俺を実際の任務に駆り出すのを待つのに疲れてきたんだ、こんなルーキー級のくだらないことではなく。このままだとひとりで出撃しようかと思っている。</text>
+  </string>
+  <string id="dm_information_43">
+    <text>Freedomとは異なり、Dutyはゾーンの実際の危険に対して行動を取り、ゾーンのミュータントの醜態から世界を守り、Banditたちの腐敗した残虐性から一般的なストーカーを保護する。</text>
+  </string>
+  <string id="dm_information_44">
+    <text>最近、Militaryのストーカーを見かけることが少なくなった。SSU（ウクライナの情報機関）は高度な訓練を受けた武装した工作員をゾーンに送り込んで、特殊な仕事をさせていたが、今では見かけるのは兵隊ばかり。静かだ、静かすぎる。</text>
+  </string>
+  <string id="dm_information_45">
+    <text>Dutyとは異なり、Freedomはゾーンの真の危険に立ち向かい、Monolithから北部防衛線を守り、軍の腐敗した残虐性から一般的なストーカーを守るために行動する。</text>
+  </string>
+  <string id="dm_information_46">
+    <text>Freedomの指導者たちは共通の敬意を払うことで自分の居場所を得る。フォレスターが我々に加われば、派閥全体を揺さぶるほどの力を持っているだろうね。彼がゾーンの政治に疲れてしまったのが残念だな。</text>
+  </string>
+  <string id="dm_information_47">
+    <text>悪いな、何の情報もないんだ。2012年に来た「死のトラック」を思い出す。彼らが運んできた古い友人たちは、原子力発電所からコードンやダークスケープまで、みんな死んだ。</text>
+  </string>
+  <string id="dm_information_48">
+    <text>クズネツォフ大佐が指揮を執る前は、Militaryは俺たちがうろつくことをあまり気にしていなかったようだが、今では俺たちと一般の犯罪者との区別がつかなくなってしまったようだ。</text>
+  </string>
+  <string id="dm_information_49">
+    <text>次のエミッションが終了した後、我々のチームを強化するために多くの仲間がここに来る。噂によると、フランス、フィンランド、イギリスのスパイが今回は来るらしい･･････。面白そうだな</text>
+  </string>
+  <string id="dm_information_50">
+    <text>ここは荒れているかもしれないが、研究が止まっているわけではない。ノヴィコフのおかげで、Ecologistたちとの非公式な協力で、素晴らしい科学的進歩を遂げた。レベデフも誇りに思っている･･････。</text>
+  </string>
+  <string id="dm_information_51">
+    <text>俺たちは、まだブレイン スコーチャーのせいで友人を失っている。それぞれの理由で、薬を飲んで、頭にホイルを貼って、レーダー施設に挑んでいく。普通は、戻ってきたとしても、ほとんど話すことができなくなるんだ。</text>
+  </string>
+  <string id="dm_information_52">
+    <text>サハロフは超能力の研究で躍進している。聞くところによると、彼は高品質のアンチ テレパシー装備を委託で作り始めたそうだ。宣伝がうまくいけば、彼でも大儲けできるだろう。</text>
+  </string>
+  <string id="dm_information_53">
+    <text>地下研究室には何があると思う？俺が聞いた話では、地下に潜った人の多くは 二度と戻ってこないそうだが、潜った人は常に豊富な戦利品やアーティファクト、情報を持っている。</text>
+  </string>
+  <string id="dm_information_54">
+    <text>ダーク バレーにいた頃の基地が懐かしいな。確かに不気味だったが、レーダー施設の南で野営するよりはマシだ。ルーカッシュがBanditたちを叩いてくれれば、また俺たちの仲間を南に移動させることができるのに。</text>
+  </string>
+  <string id="dm_information_55">
+    <text>金を節約したいなら殺したミュータントの肉を食べればいい。最も健康的なライフスタイルではないが、ピカピカの新しいスーツや探知機のために貯金をしている間は大丈夫だ。</text>
+  </string>
+  <string id="dm_information_56">
+    <text>レシーを知ってるのか？2011年に空間アノマリーに捕まったと聞いた。彼は何日もそこにいた。同じ草むらに閉じ込められて、地平線上の街は永遠に続いていて、通信も物資もなかった。生きていて幸運だった。</text>
+  </string>
+  <string id="dm_information_57">
+    <text>パトロールの仕事はいつもクソだが、どうしてもやるならコードンが最適だ。もう道の上り下りもほとんどしなくて済む。グレート スワンプのミュータントに食われるよりはマシだよ。</text>
+  </string>
+  <string id="dm_information_58">
+    <text>近いうちにヤンターに赴任して、Ecologistの護衛の常任メンバーになりたいと思っているんだ。より良いベッド、より親切な上司、地元民からあまり憎まれない･･････そう、ヤンターに赴任したい。</text>
+  </string>
+  <string id="dm_information_59">
+    <text>ストーカーから拾ったクールなトリックは、ボルトや弾薬を常に持ち歩くことだ。前方にボルトを投げて アノマリーを確認するんだ バカみたいだが ゾーンでは救世主になる。</text>
+  </string>
+  <string id="dm_information_60">
+    <text>ストーカーの死体から薬を隠しておけ 俺たちの適切なキットほど無菌ではないかもしれんが、それはまだお前の相棒がダウンしたときに何もないよりも良い。</text>
+  </string>
+  <string id="dm_information_61">
+    <text>RenegadeとMilitaryのどちらが悪いのか 彼らはグレート スワンプで何をしているんだろう？いつかスカーのようなMercenaryが戻ってきて、また彼らを追い出すのを手伝ってくれるたらいいんだが。</text>
+  </string>
+  <string id="dm_information_62">
+    <text>ゾーンではツールキットの需要が非常に高く、本格的な技術屋の多くは、それぞれのツールキットを最低でも1つは持っていたいと考えているだろう。残念なことに、ほとんどのツールキットは、前の所有者が亡くなると、ゾーンに失われてしまう。</text>
+  </string>
+  <string id="dm_information_63">
+    <text>情報を探しているのか？俺はここに来て3年になるが、もう何を探しているのかさえ分からない。俺の友人は皆 十字架の下に埋もれている。くだらない冒険のためにね。俺もいつかはその仲間に入るかもしれないな。</text>
+  </string>
+  <string id="dm_information_64">
+    <text>陸軍倉庫にあるブラッドサッカー村は最近空っぽだと聞いた。ブラインド ドッグの群れがいるかどうかなんて、手遅れになるまで確認のしようがないし、聞いたことを全て信じる気にはなれないが･･････。</text>
+  </string>
+  <string id="dm_information_65">
+    <text>誰もがここにいるのには理由がある、俺を例に挙げてみるか？86年の事故で避難できなかった祖父がいるからだ。彼を見つけたいと思っている。それか少なくともいつか彼の遺骨を埋葬したい。</text>
+  </string>
+  <string id="dm_information_66">
+    <text>ゾーンにはミュータントでさえ避けてしまうような場所があるそうだ。考えただけで歯がゆいな、ミュータントより怖いものがあるのか？</text>
+  </string>
+  <string id="dm_information_67">
+    <text>Banditたちはもうひとつの「スポーツ」を発明した。彼らはそれを「新人マラソン」と呼んでいる。被害者の下着を剥ぎ取り、基地まで走らせるそうだ。いいね。</text>
+  </string>
+  <string id="dm_information_68">
+    <text>このあたりの最高の殺し屋は変装無しでは潜入しない。彼らがどうやってこんなにたくさんの予備のスーツを信憑性のある状態で保管しておく余裕があるのかはわからないが、被害者は彼らが来るのに気づかないことはほとんど確実だ。</text>
+  </string>
+  <string id="dm_information_69">
+    <text>以前はMercernaryたちは多くの独立したチームで活動していたが、雇い主同士が団結したようだ。最終的な目的はわからないが、俺たちは大金をもらっているので、気にしていない。</text>
+  </string>
+  <string id="dm_information_70">
+    <text>ここにいる男たちのほとんどは、ある種の軍人の経歴を持っている･･････。かつては外人部隊、スペツナズ、反乱軍、特殊部隊･･････、様々な人生を歩んできたMercenaryたちに会ったことがあるが、みんな真の戦士だ。</text>
+  </string>
+  <string id="dm_information_71">
+    <text>どっちが悪いかわからない。フリーのストーカーたちを叩きのめす。または我々が一緒に仕事をしているBanditたち。誰かに金を払ってもらいたいと思う日もある。ドクロだらけのアホどもを近くのアノマリーに食わせてやりたいものだ。</text>
+  </string>
+  <string id="dm_information_72">
+    <text>デッド シティーの場所はもう秘密ではないかもしれないが、Monolith以外の訪問者はまだ多くない。周りの場所を考えれば驚きはしないな。</text>
+  </string>
+  <string id="dm_information_73">
+    <text>新人の何人かの生意気さにはうんざりだ。戦利品のことを大声で自慢したり、フィールドに出ているときにPDAで遊んだり、PMだけでライフルマンを殺せると思っていたり･･････生きていくにはあまりにも頭が悪いんだよ。</text>
+  </string>
+  <string id="dm_information_74">
+    <text>ゾーンの最大の魅力は 政府が存在しないことだな。MilitaryやEcologistたちはいるが、彼らが運営しているわけではない。ルールも税金も無い、自由と冒険だけだ。気に入ったよ。</text>
+  </string>
+  <string id="dm_information_75">
+    <text>肝っ玉を持っているなら、MercenaryやMonolithの戦利品を狙ってみるのもいいだろう。彼らはゾーンで最高の武装と装備を備えた男たちだ。</text>
+  </string>
+  <string id="dm_information_76">
+    <text>この辺のMilitaryに手を出すなよ。彼らが持っている戦利品は武器とアーマーだけだが何かが壊れるまでは絶対に取れないぞ。他にもっといい標的があるだろう。</text>
+  </string>
+  <string id="dm_information_77">
+    <text>Ecologistの研究所（掩体壕）を襲撃したくてウズウズしてるガキもいるよ。馬鹿な奴だろ。たとえあいつらが防御を突破したとしても、生きたまま皮を剥いでしまったら、熊の毛を剃り続けることはできないからな！</text>
+  </string>
+  <string id="dm_information_78">
+    <text>士気は過去最低だが、その理由は当然だ。我々の目的は何だ？侵略なのか？平和維持か？人々を追い出すことか？ミュータントを確保することか？知るかよ、ここは混乱してる･･････。</text>
+  </string>
+  <string id="dm_information_79">
+    <text>密輸品の輸出は史上最高水準に達しているが、お役人は何もしてくれん。参謀の半分は密輸業者から利益を得ている。残りの半分は知らないか気にしていない。</text>
+  </string>
+  <string id="dm_information_80">
+    <text>我々のレーダーは故障しているに違いない。ゾーンの中心を飛行する航空機の反応を拾い続けている。明らかにそれは不可能だ。どの航空機も原子力発電所の近くを安全に移動なんてできない。</text>
+  </string>
+  <string id="dm_information_81">
+    <text>ここのMilitaryには特別な選別方法がある。あまりにもヘマをしたり質問が多すぎると、航空支援や救急車なしで「防衛線」の北側に送られると聞いた。羨ましいとは言えないな。</text>
+  </string>
+  <string id="dm_information_82">
+    <text>聞いたか？ここは基本的にウクライナの情報機関が仕切っているんだ。退役軍人の何人かはそれについてあまり満足していないが、正直言ってどういうことなのかよくわからない。みんなで協力するのはいいことじゃないか？</text>
+  </string>
+  <string id="dm_information_83">
+    <text>Monolithの管理者としての 義務を忘れるな。その祝福は、我々がそれに仕えることを求めている。それは、新しい世界秩序の先見者として、我々の未来の勝利を予言している。それが求めているのは、侵入されないことだことだ。</text>
+  </string>
+  <string id="dm_information_84">
+    <text>同志よ、不信心者に捕まった場合は言葉を発する前に命を捧げることを忘れるな。Monolithの秘密と保護は不可欠だ。他の全ては二の次だ。</text>
+  </string>
+  <string id="dm_information_85">
+    <text>同志よ、共に祈ろう！\n\n祝福された者は、異教徒の道を歩まず、Sinたちの妨げにもならない。彼は、水の流れに植えられた崖のようなもので、信仰の拠り所である。不信心者はそうではなく、風が追い払う籾殻のようなものである。それゆえ、不信心者はおまえの前に立つことはなく、Sinたちはあなたの栄光の信徒の中にいることはない。我々のMonolith様は正しい者の道を知っているが、不信心者の道は滅びるである。</text>
+  </string>
+  <string id="dm_information_86">
+    <text>過去の人生を思い出すことはあるか？俺は家族や妻、子供を覚えている。彼らは今では遠くに見える。まるで別の存在からのように。俺ができることはMonolith様に仕えることだ。</text>
+  </string>
+  <string id="dm_information_87">
+    <text>異教徒から我々を守るのはガウス ライフルか強化外骨格だと思うか？貪欲で破壊的で堕落した者たちの混乱を乗り切るのは 我々の純粋な心だけだ。</text>
+  </string>
+  <string id="dm_information_88">
+    <text>ゾーンは、人類がかつて経験したことのない脅威だな。手遅れになる前に、多くのストーカーが真実を知り、我々に加わることを願うばかりだよ･･････。</text>
+  </string>
+  <string id="dm_information_89">
+    <text>Freedomの奴らがストーカーを麻薬漬けにするのはうんざりだ。アレは、やる気があるまともな奴を、ブラッドサッカーを楽しく感じるような、だらけた役立たずに変えちまう。</text>
+  </string>
+  <string id="dm_information_90">
+    <text>フリーのストーカーは大事なことを忘れている。Ecologistたちでさえアーティファクトを完全に理解していないのに、記録や規範なしにそれを広めることは、世界中に眠っている地雷を敷き詰めているのと同じことだ。</text>
+  </string>
+  <string id="dm_information_91">
+    <text>お前もDutyに参加すべきだ、我々の信念は単純だ。ゾーンで誰かを失ったからといって、他の人が犠牲になる必要はない。友人が目の前でゾンビ化したら分かるだろう。</text>
+  </string>
+  <string id="dm_information_92">
+    <text>現状はBanditやMercenaryがフリーのストーカーの格好をして気付かれずにロストクに潜り込むのが簡単すぎる。入る条件があったのに撤回されたのが信じられない。</text>
+  </string>
+  <string id="dm_information_93">
+    <text>Dutyなんてクソ食らえだ。奴らはゾーンのことも人類の未来のことも知らない。周りには不思議な世界が広がっているが、彼らが考えているのは貧乏人将校の権力旅行を可能にすることだけだな。</text>
+  </string>
+  <string id="dm_information_94">
+    <text>「防衛線」かプリピャチの近くに住んでいるならエミッションは深刻な問題だ。monolithの奴らはあれに免疫がある。だから精神波を隠れ蓑にしてお前の一日を台無しにしに来るんだ。</text>
+  </string>
+  <string id="dm_information_95">
+    <text>Mercenaryたちはちょっと怪しいが それ以外は問題ない。彼らが手下を殴るのを見たことはないし、うちの連中を殴るのは見たことがないし、Dutyを怒らせてばかりだから･･････どうかな？フリーのストーカーたちが言うほど 悪くないかもしれない。</text>
+  </string>
+  <string id="dm_information_96">
+    <text>「危険なミュータントやBanditども」から世界を守ると言っても、Dutyはワイルド テリトリーを一掃することすらできない。ましてやあのインテリどもを守ることさえできない。それが全てを物語っていると思う。</text>
+  </string>
+  <string id="dm_information_97">
+    <text>どうやって盗んだのか分からないがDutyは我々の目の前からグレネードランチャーを盗んだ。彼らがミュータントに使うのを 願わないといけない、俺たちには使わないでくれ。</text>
+  </string>
+  <string id="dm_information_98">
+    <text>俺たちは常にアーティファクトには高額な現金を払うが、ミュータントのサンプルも同様に重要なものなんだ。様々な組織は、しばしば遺伝学の分野へのより大きな洞察を与えてくれるし、様々な病気の新しい治療法のヒントを与えてもくれる。</text>
+  </string>
+  <string id="dm_information_99">
+    <text>研究室の教授たちがアーティファクトに高額な現金を払うのは、アーティファクトに隠された可能性を恐れているからだな。違法にゾーンを出た物は時限爆弾となる可能性を秘めている･･････。</text>
+  </string>
+  <string id="dm_information_100">
+    <text>科学者はミュータントやアーティファクトだけでなく、ストーカーの行動についても研究を始めている。ゾーンの性質が変わっただけでなく、訪問者もそれにつれて変わってきていることは明らかだ。</text>
+  </string>
+  <string id="dm_information_101">
+    <text>FreedomかDutyか･･････それは重要ではない、どちらの側も全体の真実を把握しているようには見えないしな。ゾーンへの対処法を理解するためには、何よりも科学的なアプローチが必要だ。そうして初めて、それを最大限に活用することができる。</text>
+  </string>
+  <string id="dm_information_102">
+    <text>ブレイン スコーチャーとミラクル マシンは、他の「精神波の及ぶ領域」とは異なる「精神波の周波数」で作動するようだ。サハロフはブレイン スコーチャーへの耐性を得る装置を完成させたが、これは「コントローラー」に対しては無力だ。</text>
+  </string>
+  <string id="dm_information_103">
+    <text>Duty、Freedom、Ecologistたちでさえもゾーンの癒しを理解していない。闘うにしても、侵略的に研究するにしても、あるいは自分の甘い考えのために利用するにしても、ゾーンは苦悶して助けを求めている。</text>
+  </string>
+  <string id="dm_information_104">
+    <text>よおストーカー、興味深い科学的資料を見つけたら、グレート スワンプの我が家を訪ねてカランチャ教授に見せてくれ。それがゾーンをより良い場所にするのに役立つんだ。</text>
+  </string>
+  <string id="dm_information_105">
+    <text>クズネツォフが君臨して以来、Militaryは我々を締め出すことに興味を持っている。彼らはまだ本腰を入れているわけではないが、我々はいつも彼らの無知が何を破壊するのかを心配している。</text>
+  </string>
+  <string id="dm_information_106">
+    <text>最近、ゾーンに転がっている廃車に貯まっていた放射能が水場に流出している。飲用可能な液体を浄化するのが難しくなってきたな。</text>
+  </string>
+  <string id="dm_information_107">
+    <text>カランチャ教授はMonolithがゾーンの謎の鍵だと言っていた。確かに、彼らの技術はともかく、プリピャチと原発の占領は、どうやってやったんだろう？</text>
+  </string>
+  <string id="dm_information_108">
+    <text>数年前に原子力発電所に来た伝説のストーカーが、数日前にまたここに現れたようで話題になっている。なぜまたゾーンに来たかだって？どうでもいいよ、手がかりが欲しければ適当な人に聞けばいい。</text>
+  </string>
+  <string id="dm_information_109">
+    <text>昨日の夜、友達と焚き火をしながら楽しく食事をしていた。そしたら、あの不気味な男がどこからともなく現れた。よく覚えていないが、自分の馬鹿げたカルト教団やゾーンの不思議などを説いてきた。どうやら、新しいメンバーを募集しているらしい･･････。地獄だ！そいつが本気で言っているのか、ハイになっているのかはわからないが。
+ \n怪しいから気をつけたほうがいい。先日、他のグループもそいつに会ったらしい。彼の戯言を信じてしまうクレイジーな人がいるのも確かだ。</text>
+  </string>
+  <string id="dm_information_110">
+    <text>教えてくれ、お前がクソったれブレイン スコーチャーをシャットダウンさせたのか？</text>
+  </string>
+  <string id="dm_information_111">
+    <text>最近になってまたブレイン スコーチャーを停止することに成功した人がいたようだ。このまま止まっていればいいんだがな。</text>
+  </string>
+  <string id="dm_information_112">
+    <text>やっぱり！伝説のストレロックが帰還したのは本当だったのか！？ストレロックの伝説は本当だった！つい先日、ブレイン スコーチャーが停止した。それができるとしたら、それはストレロックだ！</text>
+  </string>
+  <string id="dm_information_113">
+    <text>ブレイン スコーチャーがまたダウンしたらしいな 2012年以来、聞いたことがない。</text>
+  </string>
+  <string id="dm_information_114">
+    <text>ブレイン スコーチャーがまた静かになったからプリピャチへの突入を考えている。そろそろカルト教団を追い出して、あいつらが何を守るために戦っているのか見てみるか。</text>
+  </string>
+  <string id="dm_information_115">
+    <text>北はブレイン スコーチャーがオフラインになったことでまたゴールドラッシュになるんだろうな。</text>
+  </string>
+  <string id="dm_information_116">
+    <text>Monolithがレーダー施設から消えたことで、X研究所の探査が容易になった。古代の機械の中で何が発見されるか想像してみろ。</text>
+  </string>
+  <string id="dm_information_117">
+    <text>どう表現したらいいのかわからないが、何となく･･････いい感じだ。Monolithがレーダー施設で一撃を食らったからだろうか？</text>
+  </string>
+  <string id="dm_information_118">
+    <text>プリピャチはもう安全じゃない。原発からアーティファクトを盗もうとした奴がいたが、いつの間にかMonolith狂信者の軍団がどこからともなく現れた。彼らは復讐のために戻ってきたんだよ。</text>
+  </string>
+  <string id="dm_information_119">
+    <text>Monolithについて俺が聞いた話では、ジュピターでのDutyの行動がなければ皆は本当にヤバかったようだ。ヴォロニンの部下は一部の奴らが言うほど悪くないのかもしれない。</text>
+  </string>
+  <string id="dm_information_120">
+    <text>我々はFreedomと同盟してMonolithを原子力発電所に押し戻そうとしたが、何かが間違っていた。俺が今知っているのはジュピターの部隊が行方不明になったことだ。Freedomがまだヤノフ駅にいる間にな。無政府主義者を信用するのはこれが最後だと誓ったよ。</text>
+  </string>
+  <string id="dm_information_121">
+    <text>ヤンター湖の「精神波の放射装置」はついに解除されたぞ。おそらく今はそのメカニズムを深く研究することができるだろうな。そもそもどうやって再起動してしまったのかを解明することもできるか。</text>
+  </string>
+  <string id="dm_information_122">
+    <text>ヤンターの工場から出てくるゾンビは少ないと聞いている。これでやっと死者を鎮めることができるかもしれない。</text>
+  </string>
+  <string id="dm_information_123">
+    <text>サハロフのこと、ヤンターのあの頭でっかちが、特定の「精神波の周波数」から脳を守る装置をついに完成したんだ。「精神波の放射設備」がまた稼働するらしいから彼を訪ねてみるよ。</text>
+  </string>
+  <string id="dm_information_124">
+    <text>サハロフ教授は、「精神波の防護機器」の分野で大躍進を遂げている。運が良ければ、俺の貢献は十分に評価されるだろうな。</text>
+  </string>
+  <string id="dm_information_125">
+    <text>「ダーク ストーカー」たちの伝説は本当かもしれない。俺と仲間は暗いフードを被った人影が森の中を歩き回っているのを見続けている･･････ここで眠りを取るのは容易じゃない。</text>
+  </string>
+  <string id="dm_information_126">
+    <text>先日、死体を漁っていたら、見たこともない色の服を着ている奴を見つけた。顔が･･････。なんというか･･････。ただの腐敗だったらいいのだが、何か別のものを見たような気がした。</text>
+  </string>
+  <string id="dm_information_127">
+    <text>フードを被った奇妙な男が先日、俺の野営地に来て水を求め、自分の信仰について喋り出した。あいつは全くのキチガイのように聞こえたな。</text>
+  </string>
+  <string id="dm_information_128">
+    <text>先日、謎のフードを被った男が俺の野営地に来た。彼はとても感動的なスピーチをしてくれたよ。ゾーンがいかに世界を癒すのに役立つかについて。また近いうちに彼と話をしたいな。</text>
+  </string>
+  <string id="dm_information_129">
+    <text>ブレイン スコーチャーを落としても物事は地平線上で暗転している。Monolithがどうやって突然現れたか覚えてるか？彼らがひとりだと思うか？我々は暗黒の時代に突入しようとしている。暗黒の時代だ･･････。</text>
+  </string>
+  <string id="dm_information_130">
+    <text>何も知らないのか？Monolithに新しい仲間が現れて大暴れだ！Freedomはもう「防衛線」を維持するのがやっとだ。状況はかなりヤバくなりつつある。</text>
+  </string>
+  <string id="dm_information_131">
+    <text>北の方はまた暗くなった。最後の予報では、影の十字軍の波が押し寄せてきた。彼らの武器が我々に降り注いでいる。これが嵐であることを祈るよ。</text>
+  </string>
+  <string id="dm_information_132">
+    <text>色々あったから簡単に言うと「クソ野郎がヤル気になってきた」ってことだ。</text>
+  </string>
+  <string id="dm_information_133">
+    <text>異星人のクリスタルで目が見えなくなった神なき野蛮人たち。彼らは、デッド シティーの北の廃墟に集まっている。私は彼らのところに行き、真の信仰がどのように見えるかを 彼らに示さなければならない。</text>
+  </string>
+  <string id="dm_information_134">
+    <text>ストレロックの部下がリマンスクに集結している。この辺りで起こっている混乱を止めるために。彼らが成功することを願っているよ。さもないと、暗黒の日々になるだろう。</text>
+  </string>
+  <string id="dm_information_135">
+    <text>リマンスクは狂っている。新手の狂信者が群がっていて、最悪なのは･･････。彼らの中に昔からの友人がいることだ。これ以上は耐えられない。</text>
+  </string>
+  <string id="dm_information_136">
+    <text>新しいのは、地獄から抜け出すことだ。茶色いのが流行しているし、水しぶきを浴びるためにここにいたくない。</text>
+  </string>
+  <string id="dm_information_137">
+    <text>ローグという男を知ってるか？血まみれのゾーン崇拝者の猛攻に立ち向かっているのは彼だけだそうだ。彼を手伝いに行きたいけどリーダーに他の戦線の警備を頼まれたからなぁ。何かが起こるのを待っているだけなのは神経がやられそうだ。</text>
+  </string>
+  <string id="dm_information_138">
+    <text>外のニュースは、イギリスから遠く離れた国々が空がオレンジ色に染まるのを見たそうだ。怪我人は出なかったが、外国の科学者でさえエミッションだと分かるとのことだ･･････。これでゾーンへの関心が高まるんだろうな。</text>
+  </string>
+  <string id="dm_information_139">
+    <text>俺が聞いた話が本当なら、お前が最後のデカいエミッションを止めたんだな。それが本当なら･･････ありがとう。</text>
+  </string>
+  <string id="dm_information_140">
+    <text>世界中で「2018年のグレート エミッション」が話題になっているぞ。2019年ではない。俺は今の年号を把握していないんだ。とにかく、今のゾーンには外国人からの関心が高まっている。はあ･･････。</text>
+  </string>
+  <string id="dm_information_141">
+    <text>やっとISGが復旧したそうだな Ecologistの連中は、やっと腰を上げて何かをするだろう。</text>
+  </string>
+  <string id="dm_information_142">
+    <text>何か問題が起きている。国連が独立した科学者グループをゾーンに設置したようだ。キナ臭いな･･････。</text>
+  </string>
+  <string id="dm_information_143">
+    <text>役所は自分の仕事を気にすることができない。聞いた話では、国連は我々の仕事を盗むために軍隊を送り込むことにしたらしい。</text>
+  </string>
+  <string id="dm_information_144">
+    <text>ゾーンに新しい科学者グループが来るという噂を信じるなよ。インテリどもはどこかに隠されたんだろう。俺は奴らの目に見覚えがあった。奴らは殺し屋だ。</text>
+  </string>
+  <string id="dm_information_145">
+    <text>最近、西側諸国が動き出したと聞いている。代理人でさえもなく、今は国連軍を送り込んでいるらしいぞ。Sinの起こした巨大なエミッションがやつらの目に留まったんだろうな。</text>
+  </string>
+  <string id="dm_information_146">
+    <text>SSU（ウクライナの情報機関）は必死になっているに違いない。今、彼らから仕事をもらってるんだが、他の伝手を知らないからだと断言できる。</text>
+  </string>
+  <string id="dm_information_147">
+    <text>ウクライナ軍がストーカーと懇意だという噂を聞いてたんだが。その行動の一部に参加できたらいいんだがな。</text>
+  </string>
+  <string id="dm_information_148">
+    <text>UNISGが科学者じゃないことは明らかだろ。正直言ってあいつらの行動を見ているとMercenaryたちと見分けがつかないだろ？</text>
+  </string>
+  <string id="dm_information_149">
+    <text>願わくばUNISGがMilitaryとの戦いに勝利することを願ってるよ。そろそろウクライナ政府が正当な罰を受けてもいい頃合いだろ？</text>
+  </string>
+  <string id="dm_information_150">
+    <text>発電所の近くにある北の地域に行ったことはあるか？そこには、我々の研究しているものが、子供だましに見えるほどのアノマリー領域があると聞いている。イカれた人たちだけが、そこにあるすべてのアーティファクトを手に入れることができるってことさ。</text>
+  </string>
+  <string id="dm_information_151">
+    <text>先日、地下の階段から不思議な光が出ているのを見た。ここに来てから、いろいろな異変を目にしてきたが、この光は･･････。色はよくわからないし、ただ、ただ、それだけのように思えた。周りの壁や空気を飽和させているようだった･･････。とにかく、犬の群れが現れた後、私は出発しなければならなかったが、それ以来、ずっと気になっている。</text>
+  </string>
+  <string id="dm_information_152">
+    <text>私は、ゾーンの驚異と恐怖が混ざり合っていることに気づいた。例えば、いわゆる「ゾンビ」の場合だ。あいつらは生物学的な仕組みを無視しているように見えるし、人間の心理について非常に興味深い見解を示している。だからって、生きているゾンビに近づいたりして、バラバラにされないようにするんだな。</text>
+  </string>
+  <string id="dm_information_153">
+    <text>動物たちはひっきりなしに、さらなる突然変異をしている。昨日は2頭身のトゥシュカノを見た。とんでもない時代だ。</text>
+  </string>
+  <string id="dm_information_154">
+    <text>君は見たか？サハロフは、ゾーンの中心部から帰ってきたばかりのゴロツキたちから、見たこともない2つのアーティファクトを受け取った。翌朝、彼らは出発したが、不思議なことに現金はほとんど受け取らなかった。</text>
+  </string>
+  <string id="dm_information_155">
+    <text>本当はここには来たくなかった。私には妻も子供も家もあるし･･････。しかし、ウクライナ政府は理論物理学者を肉挽き機に放り込む以外に使い道がないとまで言う。まあ、明日のことは明日考えよう。</text>
+  </string>
+  <string id="dm_information_156">
+    <text>外部の科学者たちは、ゾーンからのわずかなサンプルでも必死に探している。実際に集められ、保護され、ここから出荷されたものは、科学界にとって黄金と同等の価値があるんだ。今、君が肉のサンプルがいくらで売られているか知っていたら･･････。</text>
+  </string>
+  <string id="dm_information_157">
+    <text>外部の上司からは、エミッションとは何か、ということをいつもしつこく聞かれる。ゾーンの端を通り越して、国境警備隊に大打撃を与えるようなブロウアウトもあるという。2006年のような大規模エミッションが起きれば、ゾーンの大きさは2倍になるのではないかという意見もある。</text>
+  </string>
+  <string id="dm_information_158">
+    <text>ゾーンは何十年、何百年にもわたって調査を続けることができると思う。ここの危険な要素をここから取り除くことができれば、何か良いことがあるかもしれない！</text>
+  </string>
+  <string id="dm_information_159">
+    <text>ここにいるほとんどのチームは、化学的アノマリー、熱的アノマリー、精神波アノマリーのいずれかを研究しようとしているが、本当の宝は、地下の研究室でくすぶっている膨大な文書の収集物だと思う。我々はまだ何も見ていないのさ。その文書を残した科学者たちは、何十年も前からこの物質を研究していたんだからな！</text>
+  </string>
+  <string id="dm_information_160">
+    <text>「コントローラー」の脳組織は、体外に取り出した後も電気的な活動を維持していることを知っているか？オゼルスキー教授は、体性感覚野に埋め込まれたセンサーを使って、これらの組織が刺激に反応するかどうかを調べようとしている。</text>
+  </string>
+  <string id="dm_information_161">
+    <text>精神波の技術は次なる未開拓分野だ。100年前には心霊現象なんて物笑いの種だった。だが、ここで発見された、信じられないほど強力な領域、特にミラクル マシンとブレイン スコーチャーの周辺では、従来の懐疑論が間違っていたことが十分に証明されている。</text>
+  </string>
+  <string id="dm_information_162">
+    <text>一週間かけて工場の熱アノマリーのベクトル場を測定したのに、研究資料が消えていたなんて！ゾーンのせいだ！こんなことがあるから、この場所で適切な実験環境を構築することなんて、できないんだ。</text>
+  </string>
+  <string id="dm_information_163">
+    <text>もし、ゾーンで「デスランプ」アーティファクトを見つけたら、賢く元に戻すことだ。私はこれを見つけて以来、いまだに幻聴が聞こえてくる。それに、「デスランプ」アーティファクトを研究していた研究機関がどうなったか、聞いたことがあるかもしれないが･･････やるだけ無駄だ。</text>
+  </string>
+  <string id="dm_information_164">
+    <text>我々エコロジストは、遠く離れた環境を自分たちの手で研究し･･････自分たちの護衛隊を武装させていることに、君は気づいただろう。研究を続けていくためには、もう臆病になっている場合ではなく、率先して行動しなければならないのだ。</text>
+  </string>
+  <string id="dm_information_165">
+    <text>サハロフに会いに行くと、彼が君を自殺させてしまう可能性が高いから注意が必要だ。私が君の立場であれば、パスするだろうね。</text>
+  </string>
+  <string id="dm_information_166">
+    <text>Monolithが勢力を伸ばしていると聞く。我々には関係のないことだが、あの狂信者たちがどこから力を得ているのか理解できない。まあ、それはゾーンの他の市民が対処すればいいことだがな。</text>
+  </string>
+  <string id="dm_information_167">
+    <text>私はDutyのゾーンに対する考え方に共感し始めている。多くの苦痛と悪意を目の当たりにしてきた私には、単なる異常な生態系だという意見に同調できない。それは君も感じているはずだ。君の同僚がフルーツポンチ アノマリーに頭から突っ込んだらどうなるか、その上で私にゾーンの素晴らしさを語ってくれ。</text>
+  </string>
+  <string id="dm_information_168">
+    <text>我々がキメラに気づいたのはゾーンに入った当初だったが、2012年以降、爆発的に増えた。驚くべき生物で、Militaryの研究機関では筋肉の構造や皮の成分の研究に興味を持っているのではないだろうか。私としては、むしろ手を出さない方がいいと思っている。</text>
+  </string>
+  <string id="dm_information_169">
+    <text>徹夜したい？今、地下の研究室や工場の排水溝では、新たな恐怖が生まれていることを考えてみるんだ。暗闇から這い出てくる新種の突然変異した怪物だけでなく、より微妙な現象もある。頑張れよ！</text>
+  </string>
+  <string id="dm_information_170">
+    <text>私は、自分の身を守るために、もっと努力する必要があると思っている。Dutyは弱まっているし、Mercenaryは信用できないし、Militaryなんて考えるまでもない。我々は仕事をするために場所が必要であり、それを守るためにもっと努力する必要があると思っている。</text>
+  </string>
+  <string id="dm_information_171">
+    <text>ヤンターの研究所にいる護衛は別物だ。何時間も死ぬほど退屈で、地獄絵図のような怪物に襲われ、内臓が間違った場所にある状態で目を覚ますことになる。Dutyの復活が必要だ。</text>
+  </string>
+  <string id="dm_information_172">
+    <text>我々の研究任務に、かなり怪しげな動機が混じっていないか心配だ。倫理委員会があってもいいのではないだろうか。</text>
+  </string>
+  <string id="dm_information_173">
+    <text>政府や研究機関は、ここの現実から遠く離れていると感じたことはないのだろうか。ストーカー、ブロウアウト、Monolith･･････。快適なオフィスにいる彼らは、ここでの生活を知らないのだ。ここでは、生きるか死ぬか、撃つか逃げるかだ。私自身、ゾーンでの経験が豊富になりすぎて、外野の意見を気にする余裕がなくなってきた。</text>
+  </string>
+  <string id="dm_information_174">
+    <text>ヘリが戻ってきて、我々の小さな研究室を梱包して運んでいってくれたらと思ったことはないか？</text>
+  </string>
+  <string id="dm_information_175">
+    <text>こんな戦場のデタラメさには飽き飽きしていないか？ゾーンには研究に必要な科学的驚異が溢れているのに、我々は落ちぶれた軍のお偉いさんと交渉したり、金であの汚い小さな派閥に保護してもらったりしている。私は研究のためにここに来たのであって、こんな血で血を洗うギャングの手先になるために来たのではない。</text>
+  </string>
+  <string id="dm_information_176">
+    <text>サハロフ教授とヘルマン教授のちょっとした喧嘩を耳にした。どうやらサハロフは、ヘルマンに予定されていた物資や人材を手に入れていたようで、ヘルマンはそのことについて言葉を濁していた。科学者の中には、権力者をうまく扱うことのできる人はいないのだろうか？</text>
+  </string>
+  <string id="dm_information_177">
+    <text>ゾーンの他の住人は頭がおかしくなっていると完全に確信している。暴力や反逆、悲惨な死ばかりが伝えられている。一体誰が自分の意思でここに来るというのだろうか？</text>
+  </string>
+  <string id="dm_information_178">
+    <text>私はDutyに対して尊敬の念を抱いているんだ。ここでは、ほとんどのストーカーが、我々がまだ理解できないアーティファクトを拾って、幸運のお守りのように使っているのを見てうんざりしている。少なくともDutyは、適切な研究のために発見物を手渡すか、全く無知な人から遠ざけるために破壊するという良識を持っているのさ。</text>
+  </string>
+  <string id="dm_information_179">
+    <text>我々Ecologistは、レーダーに引っかからないようにしよう、な？縄張り争いに巻き込まれたら、Clear Skyのストーカーたちのように、ゾーンの片隅で命をかけた戦いをすることになってしまうからね。</text>
+  </string>
+  <string id="dm_information_180">
+    <text>ヤンターは無意味だと思う。責任者たちはマゾヒストなのか？ミラクル マシンはもちろんのこと、ゾーンの中でも最悪の地下ホラー室の入り口のすぐそばに、研究室が置かれているのはなぜなんだ？Clear Skyの沼地の隠れ家が羨ましくなってきた。</text>
+  </string>
+  <string id="dm_information_181">
+    <text>スノークの攻撃を切り抜け、一息ついたところで、手当てが必要な者や、地面に崩れ落ちて泣き叫ぶ者がいた。そんな中、突然、重苦しい静寂が訪れた。何が起こったのか分からず、皆が混乱した様子で周りを見回していた。続いて、大きな息を吸うような音が聞こえてきた。そして、突然、2日間も続く雷雨が始まった。その日は、ミラクル マシンが再起動した日だった。</text>
+  </string>
+  <string id="dm_information_182">
+    <text>X-16研究所にはゾッとする。これでは、ヤンターでは常に人手が必要になってしまう。</text>
+  </string>
+  <string id="dm_information_183">
+    <text>ジュピターでヘルマン教授と一緒に働けるとしたら、それに越したことはない。少なくとも、2日に1度、歩く死体の侵略に対処する必要はないんだからな。唯一の問題は、実際にそこまで行くことだ･･････。スペツナズがフェアウェイ作戦で大失敗したため、ヘリコプターが不足している。</text>
+  </string>
+  <string id="dm_information_184">
+    <text>ヤンターとジュピターであれだけの時間をかけて研究したのだから、残りのゾーンには何があるのか想像してみよう。通りすがりのストーカーが語る話の半分でも本当だとしたら･･････よし、仕事に戻ろう。</text>
+  </string>
+  <string id="dm_information_185">
+    <text>先日、アーティファクトの性質について、ちょっと変わった説を聞いた。君が知っているとおり、ほとんどの科学者は、アノマリーが物質と反応して時間をかけて形成されると考えている。しかし、この理論では、あるアノマリーは実際にアノマリー ポータルを介して別の次元から運ばれてくるとしている。これは主に、研究所から入手したいくつかの文書と、エミッション時のアノマリーの挙動に基づいている。いわゆる「ノウアスフィア」の証拠を見たことがないので、この説はあまりあてにならない。</text>
+  </string>
+  <string id="dm_information_186">
+    <text>科学者たちは、ゾーンの他の住人たちよりも、ここにいる理由があると思う。それはなぜかというと･･････我々は、ここを作った元の科学者たちに似ているんだ。罰として、あるいは報酬として、我々はここにいて、物事を正そうとしているのだと思う。科学者の墓を探し回るには、科学者でなければならないのだ。</text>
+  </string>
+  <string id="dm_information_187">
+    <text>ゾーンの素晴らしさに対する私の熱意は、ここに来て薄れてしまった。それは、暴力的であったり、汚れていたりするからではない。惨めな場所から良いものが引き出されることがあるのは理解している。私が警戒しているのは、人間が手に入れる力はすべて、人間を超える力であるということだ。私の同僚が新しいエネルギー源や工学的応用を誇らしげに披露しているとき、私はこれらのものを使って作られた恐ろしい武器を想像せずにはいられなかった。中性子爆弾を作るには、たった一人の人間が必要なのである。ゾーンのどんなアーティファクトも、自然のどんな驚異も、人間が悪に染まることを取り除くことはできない。</text>
+  </string>
+  <string id="dm_information_188">
+    <text>私はゾーンの野生動物の行動や知的能力を研究している。いつものことですが、非常に珍しい結果が出ている。生命体の多くは、総合的な能力や問題解決能力を急速に身につけているようである。予備的な観察によると、サイドッグは他のどのイヌよりも、さらには我々を除く他のどの哺乳類よりも何倍も賢いようだ。私の研究の多くは、研究対象の多くが･･････不明瞭な起源を持っているため、かなり複雑である。例えばブラッドサッカーは、知的な動物と考えるべきなのか、それとも堕落した人間と考えるべきなのか、判断に迷うところだ。</text>
+  </string>
+  <string id="dm_information_189">
+    <text>Militaryが撤退して以来、研究所ではゾーンに入るEcologistに銃器の使用を義務付けている。アルテミエフ教授は、銃声恐怖症が治らず、何度も試験に落ちている。そんな彼は、どうしてもゾーンに入りたかったんだ･･････。彼がここで生きていけるとは思えないね。</text>
+  </string>
+  <string id="dm_information_190">
+    <text>時々、私はClear Skyに逃げ込みたいと思うことがある。我々の上層部には、多くのお役所仕事と、手抜きのリーダーシップがあり、我々の発見はたいていそういう無駄の中に埋もれてしまう。しかし、Clear Skyは実際に実用的な発見をして、それを利用することに興味があるという。近いうちに･･････。</text>
+  </string>
+  <string id="dm_information_191">
+    <text>Mercenaryとは全く相性が悪く、一緒に仕事をするのも嫌だし、間違いなく私をミュータントの餌にして素早く逃亡するだろうと思う。</text>
+  </string>
+  <string id="dm_information_192">
+    <text>Freedomは馬鹿な堕落者の集まりだ。ゾーンに価値を見出すことは正しいが、彼らは隅で絵の具を嗅ぐ子供と同じなんだ。彼らのアーティファクトは、我々のところにあれば、より安全で、より有用なものになるだろう。</text>
+  </string>
+  <string id="dm_information_193">
+    <text>Lonerたちの中には危険な実験に協力してくれる人もいるが、ほとんどは自分のために来ているようだ。しかし、Lonerが背後から忍び寄ってきたブラッドサッカーを殺してくれたおかげで、私が悲惨な末路から救われたことは忘れられないことだ。</text>
+  </string>
+  <string id="dm_information_194">
+    <text>あのMilitaryたちは完全にボールを落としてしまった。ここに来てからというもの、次から次へと失態を繰り返している。我々を守るために派遣されたのに、長い間、正規の方法でそれを行っていない。</text>
+  </string>
+  <string id="dm_information_195">
+    <text>気をつけるんだな、ストーカー。自信満々で武装した集団がレッド フォレストやプリピャチに行って帰ってこないのを何度も見てきた。そんなに価値があるのか？</text>
+  </string>
+  <string id="dm_information_196">
+    <text>ここで一攫千金を狙うために、命や正気を危険にさらすなんて、私にはとてもできない。もし私が君の立場だったら、最短の脱出ルートを探すだろうな。</text>
+  </string>
+  <string id="dm_information_197">
+    <text>私はClear Skyを同胞と考えている。君たちの勤勉さと困難に立ち向かう復活力には感銘を受けた。我々が何らかの形で役に立てることを願っているよ。</text>
+  </string>
+  <string id="dm_information_198">
+    <text>君たちの指導者が正式な保護サービスを辞めて以来、ゾーン内の安全性はますます不安定になっている。Monolithが復活し、ゾンビがヤンターに押し寄せ、さらに多くの地域が派閥争いに巻き込まれているんだ。我々はできる限りの支援を必要としているぞ。</text>
+  </string>
+  <string id="dm_information_199">
+    <text>我々はFreedomとより緊密な関係を築きたいと思っているが、上層部は君たちの･･････規律を認めていないんだよ。でも、見つけた品々は遠慮なく持ってきてくれ。</text>
+  </string>
+  <string id="dm_information_200">
+    <text>確かに一日は長いし、食事はまずいし、任務は危険なものばかりだ。しかし、俺はゾーンの腐敗を目の当たりにしている。癌のように成長するアノマリー、殺人ミュータントの大群、組織化された窃盗犯や殺人犯･･････。うん。この混乱をどうにかできるなら、俺は発砲したっていい。それで、お前は何のためにここにいるんだい？我が友よ。</text>
+  </string>
+  <string id="dm_information_201">
+    <text>Dutyはいくつかの不運に見舞われたが、我らにはまだロストクがある。ロストクはゾーンの中でもまともなストーカーが集まる場所であり、Dutyはそれを維持しようとしている。</text>
+  </string>
+  <string id="dm_information_202">
+    <text>ロストクでは、何千人もの人手をかけて、小さな通気口や地下室を掘って、唯一の出入り口を確保し、ワイルド テリトリーからのミュータントや、無政府主義者のスパイを排除している。しかし、ゾーンはロストクでさえ常に新しい驚きを与えてくれる。</text>
+  </string>
+  <string id="dm_information_203">
+    <text>先日のミュータント掃討戦では、かなり危なかった。無線で自分の位置を報告する前に、小さな木立の中で分隊とはぐれてしまい、気がつくと地下の洞窟群に尻餅をついていた。上を見上げると、15フィートほど上の森の床に作った穴が見えたが、突然背後の暗闇が、嫌な音のするうなり声で満たされた。振り向くと、スードウドッグが小さなモンスターどもを連れていた。飛びかかってくる直前に、俺はその可愛い顔にマカロフを撃ち込んだ。その後、その小さな怪物たちは俺の喉を引き裂こうとしたから、俺は銃剣でそれに応えなければならなかったんだ。とにかく、足元に気をつけろ、ということだ。</text>
+  </string>
+  <string id="dm_information_204">
+    <text>先日、ロストクの北口で忍び込もうとしていた無政府主義者を射殺した。彼の荷物の中にはプラスチック製の爆発物と、ある種の生物製剤が入っていた。勘違いしてはいけないのは、彼らのすべてが無知なジャンキーではないということだ。</text>
+  </string>
+  <string id="dm_information_205">
+    <text>何年も前からBTRの運用を試みているが、なかなかうまくいかない。誤解のないように言っておくが、ここには本当に優秀な人材が揃っていて、マンガンは酒を飲んでいても機械のことには精通している。ただ、ゾーンは複雑な機器を嫌っているみたいで、いつも理由もなく故障してしまうのさ。</text>
+  </string>
+  <string id="dm_information_206">
+    <text>ほとんどのストーカーは、Dutyのミュータント掃討作戦がなければ、ゾーンがどれほど悪化していたかを知らない。「ボア」や犬たちの群れは、ゾーンの人里離れた場所で繁殖し、より凶暴なミュータントによって南部に押しやられていく。大規模な作戦の後には、20フィートの高さに積み上げられた怪物たちの山を見たことがある。また、地下の研究室では、恐ろしい生物が生まれていて、我らは定期的にあらゆる場所を探索している。</text>
+  </string>
+  <string id="dm_information_207">
+    <text>Freedomは北のMonolithに対して一貫して失敗している。ヤノフ駅を奪還した暁には、彼らが失っていたものを見せてやる。</text>
+  </string>
+  <string id="dm_information_208">
+    <text>トラック墓地は全くの悪夢だが、我らの目の前にあるので、そこには存在感を示さなければならない。そこは神にも見放された場所で、もしゴミ山を住処にする堕落者たちが、お前を後ろから撃たないとしても、放射線を浴びた犬の群れに引き裂かれるか･･････それ以上のことになるだろう。他の話をしようか。</text>
+  </string>
+  <string id="dm_information_209">
+    <text>地下や市街地を中心に、ゾーンから邪悪なものがどんどん出てきている。人型の新たな亜種や、起源不明の存在だ。俺の友人は、ワイルド テリトリーで黒い雲のようなものに食われてしまった。Dutyの任務遂行のためには、日々の努力が欠かせい。</text>
+  </string>
+  <string id="dm_information_210">
+    <text>我らは、これらのアーティファクトのいくつかを、ゾーンにはゾーンのもので対抗するために、使うことができると期待している。「コントローラー」は「エンプティ」アーティファクトから逃げ出すことを知っているか？そうだ、嘘みたいだろ。</text>
+  </string>
+  <string id="dm_information_211">
+    <text>俺はそれをはっきりと覚えている。数年前のことだが、俺はヤノフ駅で見張りをしていた。夜中だったんだが、だんだんと南の方から音が聞こえてきたんだ。警報が鳴っていなかったからエミッションではないことはわかっていたので、そのまま弾薬をチェックしていた。1分後、その音がヘリの飛行隊からのものであることがわかった。懐中電灯ではっきりと見えるほどの低空を通過していった。どうやらあれは、Militaryの作戦が底上げされたものだったようだ。さて、今日はここまでにしておこう。</text>
+  </string>
+  <string id="dm_information_212">
+    <text>毎月のように、ロストクに対してミュータントが集中しているような気がする。我らは野良犬を撃ったり、群れを散らしたりすることに慣れているが、これとは違う。これらの攻撃は、いつも極めて突然に、あらゆる方向から行われ、犬の中には、この辺りでは見られないような、非常に厄介で変異したものがいる。そして、もう一つは･･････シフト交代や食事の時間など、いつも決まった時間に起こるんだ。俺自身は、サイドッグのようなものがその背後にあると考えている。奴らは思考を学んでいるのさ。</text>
+  </string>
+  <string id="dm_information_213">
+    <text>我らは、ゾーン内の動向を常に把握している。通りすがりの旅行者との会話や同盟国との会合のほかに、ゾーンの奥深くに偵察チームを送り込み、状況を把握して、来るべき事態に備えている。二度と戻ってこれない可能性もありますからな。</text>
+  </string>
+  <string id="dm_information_214">
+    <text>話すことはあまりない。ただ･･････ゾーンに背を向けてはいけない。安心してはいけない。俺は多くのストーカーを見てきたが、その中には永眠している奴らもいる。彼らの墓を指し示すことはできるが、残りの奴らがどうなったかは、神のみぞ知ることだ。</text>
+  </string>
+  <string id="dm_information_215">
+    <text>本当にわからないな。ゾーンは思いがけないときにやってくるものだ。今でも何かが、うごめいているのを感じる･･････。ゾーンは何かを隠しているんだろう、あのビッチめ･･････。</text>
+  </string>
+  <string id="dm_information_216">
+    <text>Banditが昔のようにガベージの中で強盗や殺人を繰り返すようになったと聞いた。そろそろ強力な部隊をガベージに送り込むべきだ。</text>
+  </string>
+  <string id="dm_information_217">
+    <text>誰かを怒らせてしまったようで、死ぬほど働かされているんだ。ミュータントの襲撃から護衛へ、護衛から偵察へ、そしてまた護衛へ･･････。もういい加減にしてほしい。</text>
+  </string>
+  <string id="dm_information_218">
+    <text>任務とは、兵士が健康であることを要求するものだ。毎日の訓練、薬を飲まない、食べない･･････まあ、ズールーの場合は食事に耐えられなかったのだろう。</text>
+  </string>
+  <string id="dm_information_219">
+    <text>2年前のことだ。俺は特殊な長距離パトロールに参加していて、プリピャチで一泊しなければならなかった。あるアパートからの無線信号を受信したが、Lonerたちで手に負えない状態のようだった。我らはそれを聞いて、彼らを助けることにした。着いた時にはもう暗くなっていて、俺は2番手で行くことになった。何が起こるかわからない中、照明のある部屋に行くと、あっという間に囲まれてしまった。そう、Monolithの待ち伏せだった。斥候が脇腹をやられて、すぐに出血してしまったんだ。でも、なんとかMonolithを排除できたし、Monolithの数が少ないのも不思議だった。その時、我らが開けたドアに仕掛けられていた、巨大な爆弾が爆発しなかったことを発見した。狂信者たちは、我らと一緒に、おそらくビル全体が煙に包まれることを期待していたのだろう。無線信号を追うと、頭に銃弾を受けて椅子に縛られている死体を発見した。無線で話すように拷問されていたらしい。それだけのことだ。</text>
+  </string>
+  <string id="dm_information_220">
+    <text>俺はFreedomがゾーンで見るという美しいもののことを知りたい。放射能に汚染された粉塵だろうか？歪んだ人間や動物の姿か？渦巻アノマリーに巻き込まれてペースト状になってしまった不幸な放浪者か？もし、あのバカどもが幻覚剤をやめれば、現実をありのままに見ることができるかもしれない。</text>
+  </string>
+  <string id="dm_information_221">
+    <text>Dutyは、一般の人が思っている以上に長く存在している。新入りの多くは世間知らずの理想主義者だが、俺と部下はいくつかのことを見てきた。我らはかつて兵士だったが、ゾーンから人類を守るためには十分ではないと判断し、集団で離脱してDutyに参加した。ゾーンと戦うという明確な目的のために、組織的なリーダーシップと規律を持つ、これが本来の姿なのである。組織的なリーダーシップと規律、そしてゾーンと戦うという明確な目的だ。</text>
+  </string>
+  <string id="dm_information_222">
+    <text>あとは、Banditどもを無政府主義者たちと戦わせることができればいいんだがな。あの堕落した連中が普段から仲良くしていなければ、ほとんどの問題は解決するだろうよ。</text>
+  </string>
+  <string id="dm_information_223">
+    <text>カマロフという男が率いるパトロール隊を見たことがありますか？彼と彼のチームは約2週間前に行方不明になりました。ほとんどの人は死んだと思っていますが、私は...彼のためにまだ祈りを捧げています。</text>
+  </string>
+  <string id="dm_information_224">
+    <text>カマロフという男が率いるパトロール隊を見たことがあるか？彼と彼のチームは約2週間前に行方不明になった。ほとんど死んだと思っているが、俺は･･････彼のためにまだ祈りを捧げている。</text>
+  </string>
+  <string id="dm_information_225">
+    <text>放射能の影響だけでなく、ゾーンを出たストーカーは人生が変わってしまうと聞いた。放射能の影響だけでなく、何かの呪いを持っているらしい。ゾーンは何としても拡大しようとするが、その危険性はまだ分かっていない。</text>
+  </string>
+  <string id="dm_information_226">
+    <text>ワイルド テリトリーは、人類がモンスターと戦いに行く場所だ。そこに厄介なMercenaryが加わることで、自分自身が素晴らしい小さな屠殺場になるのだ。</text>
+  </string>
+  <string id="dm_information_227">
+    <text>任務は継続中だが、助けが必要だ。数ヶ月前、ブハロフ隊は50人の兵士を収容できるソ連製の核シェルターを偶然発見した。食糧はあまり好きではないが、装備は必要だった。</text>
+  </string>
+  <string id="dm_information_228">
+    <text>Monolithがロストクを越えて南方地域に集中的に進出する日を待っているところだ。誰もが知っているように、Dutyは縮小し、Monolithは増大する一方だから、チャンスがあってもあまり喜べないかな。しかし、我らはあの狂った野郎どもに全力を尽くし、一人残らず死んでやる。彼らの記憶に残るものを食らわせてやる。</text>
+  </string>
+  <string id="dm_information_229">
+    <text>奇妙に聞こえるかもしれないが、俺は他に行きたいところがない。俺は本当にDutyが正しいと思っているし、俺は本当に人生を捧げて闇と戦いたいと思っている。くだらないと思うかもしれないが、それが俺の気持ちなんだ。</text>
+  </string>
+  <string id="dm_information_230">
+    <text>ペトレンコから良いニュースを聞いた。近々、Freedomの野郎どもに戦いを挑むことになったんだ！詳細はまだ聞いていないが、奴らを徹底的にやっつけようと思っている。</text>
+  </string>
+  <string id="dm_information_231">
+    <text>アーニーとその手下にはもううんざりだ！なぜ我らはあいつらの馬鹿げた戦闘作戦に協力するのか？Dutyの縄張りでこんなことが起こるのは恥ずべき事だ。</text>
+  </string>
+  <string id="dm_information_232">
+    <text>Lonerの友達のためにアスピリンから医療用の酒を盗んだ新兵の話を聞いたか？次の日の夜、ガブリレンコが彼の尻を蹴飛ばしたんだが、彼の顔色が悪く見える。彼がどうなるのかはわからない。</text>
+  </string>
+  <string id="dm_information_233">
+    <text>ヴォロニンからの情報によると、新しい施錠システムが設置されるのは･･････。ああ、気にするな。あんたにはその権限があるわけじゃない。</text>
+  </string>
+  <string id="dm_information_234">
+    <text>ミュータントの巣について、悪意のある情報をインテリどもから教えられて、殺されそうになった。何度も痛い目に遭ったから、これからはDuty以外の人は信用しないことにする。</text>
+  </string>
+  <string id="dm_information_235">
+    <text>新しいマップの配布はほぼ完了している。偵察隊は、長距離のより良い偵察経路の作成に取り組んでいる。既知の敵地やアノマリー領域を考慮している。こうすることで、兵士たちはより速く、より安全に観測経路を移動することができる。兵士たちは情報を得なければならず、盲目的に歩くことはできない。</text>
+  </string>
+  <string id="dm_information_236">
+    <text>そういえば、PDAの中にシュルガの古いメッセージが入っていた。彼に何が起こったと思う？話は聞いたことがあるんだが、俺は納得していない。ほとんどの人は、あの男がどんな能力を持っていたのか知らないんだ。ガブリレンコに聞いてみるといい。何か話をしてくれるはずだ。</text>
+  </string>
+  <string id="dm_information_237">
+    <text>偵察機によると原子力発電所の周辺でキメラの活動が活発化している。奴らがそこに留まってくれることを願うばかりだ。</text>
+  </string>
+  <string id="dm_information_238">
+    <text>ペトレンコが言うには、いつもの卸売業者が5.45mmの配達物をアグロプロムのあたりで失ったそうだ。俺が聞いたのはそれだけだから、おまえは自分の弾薬を数えたほうがいいかもな。</text>
+  </string>
+  <string id="dm_information_239">
+    <text>北の果てに向かうLoner、沼地から出てきた澄んだ空、真夜中に去っていく無口でフードを被った野郎など、最近バーでは奇妙な奴らをよく見かけるようになった。我らの背後で何かが起こっているような気がする。</text>
+  </string>
+  <string id="dm_information_240">
+    <text>俺はスカドフスクを訪れた際、何人かのLonerと知り合いになった。彼らは善良な奴らだが、ゾーンを金鉱や冒険としか考えていない。彼らは、自分が得られるものだけを考えて、状況の深刻さを理解していない。彼らは少し成長すると、何人かはDutyに来る。</text>
+  </string>
+  <string id="dm_information_241">
+    <text>我らがフリーのストーカーに手を貸すと、彼らも我らに手を貸してくれる。もし我らがいなかったら、ゾーンの中心部は･･････無法者とMonolithしかいない戦場になっていたと思う。</text>
+  </string>
+  <string id="dm_information_242">
+    <text>Clear Skyのストーカーたちをどう思う？我らDutyは彼らとあまり仕事をしていないが、彼らを時々バーで見かける。彼らは基本的に自分たちだけで行動するが、トラブルを起こすこともない。</text>
+  </string>
+  <string id="dm_information_243">
+    <text>ミュータントやBanditの掃討を目的に、Militaryと合同で遠征することもあった。一度や二度は、発電所周辺の活動にも貢献した。しかし、最近はお互いに自分の仕事に専念しなければならなくなった。</text>
+  </string>
+  <string id="dm_information_244">
+    <text>見つけたアーティファクトをインテリどもに渡して、その仕組みを解明してもらい、ゾーンとの戦いにつなげるんだ。個人的には、仲間の中には新しいオモチャに慣れすぎている者もいるように思う。でも、Freedomにやられてしまうよりはマシだな。</text>
+  </string>
+  <string id="dm_information_245">
+    <text>Mercenaryはワイルド テリトリーを支配することに必死だ。その理由は･･････俺にはわからない。争うにはもったいないし、いっそのこと、あの「精神病院」をそのままにしておきたいと思うこともある。</text>
+  </string>
+  <string id="dm_information_246">
+    <text>Dutyが何のために戦うのか、誰もが知っているが、あのMercenaryたちは一体ここで何をしているのだろうか？決して信用してはいけないし、逆らわない方がいい。</text>
+  </string>
+  <string id="dm_information_247">
+    <text>Dutyへの参加を考えたことはあるか？我らは、この流れを止めることができる人材を常に探している。それ以上に、お前は自分よりも大きなものの一部になることができる。とにかく、考えてみてくれ。</text>
+  </string>
+  <string id="dm_information_248">
+    <text>まあ、Dutyはあんたの味方だから、安心しろ。人々は我らを独裁主義者と呼ぶかもしれないが、我らが反対するのは他人に危害を加えている者だけだ。BanditやMonolithは当然だが、Freedomもそうだな。Freedomは無法を助長する致命的な思想を信奉し、ゾーンの惨状を無頓着に広めている。</text>
+  </string>
+  <string id="dm_information_249">
+    <text>サハロフは人間の実験体を使ってアーティファクトの効果を検証しているというのは本当か？それはたぶんデタラメだと思うが、俺は知りたいと思っている。実際、Dutyの周りでは彼に関する噂がたくさん流れているんだ。</text>
+  </string>
+  <string id="dm_information_250">
+    <text>殺せば殺すほど、穴から這い出てくる化け物どもには終わりがない。お前は科学者だが、ミュータントどもは･･････どうやって繁殖するんだ？図解とかは求めていないが、奴らはまだ地下領域から来ているのだろうか？「フレッシュ」や「ボア」の繁殖はわかるが、ブラッドサッカーは？実際のところ、俺も自分が知りたいのかどうかわからない。</text>
+  </string>
+  <string id="dm_information_251">
+    <text>ここで何をしているんだ？トラブルを起こすなよ。</text>
+  </string>
+  <string id="dm_information_252">
+    <text>ああ、いつものことだ。なあ、アバクミンはまだアグロプロムの需品係将校なのか？俺がまだMilitaryにいた頃、彼は「いつかDutyに入る」と言っていた。5年前のことだが、音沙汰なしだ。</text>
+  </string>
+  <string id="dm_information_253">
+    <text>先日、お前の相棒がガベージを横切るのを見たんだが、何をしているんだ？最近、Dutyにはそういうことが必要なんだ。とはいえ、巷の噂を聞いているなら･･････まあ、お疲れ様だ。</text>
+  </string>
+  <string id="dm_information_254">
+    <text>ああ、ここで踏ん張っている。シドロヴィッチは相変わらず金持ちで太っていると聞いているが、あの老いぼれめ。今まで飲んだ中で一番薄まったウォッカを売られて以来、奴には会っていない。</text>
+  </string>
+  <string id="dm_information_255">
+    <text>どう思う？我々はゾーンを相手にするには、まったく力不足だ。初期の頃はサポートも充実していたし、増援や特殊装備も豊富だった。今は違う。ライフルと夏服とパンがあるだけだ。さあ、裏社会の犯罪者や動物園の動物たちを制圧しに行くんだ。あと、ぼやけたところを踏まないようにしないと、足を失うことになるぞ。</text>
+  </string>
+  <string id="dm_information_256">
+    <text>正直なところ、俺は予備役での生活に少し飽きていた。そこで、俺はボランティアに参加したのさ。まあ、ゾーンでの生活はいろいろあるんだが、退屈ではない。先週だけで、4回の襲撃を受けたんだぜ。ここではいろいろなことが起きている。</text>
+  </string>
+  <string id="dm_information_257">
+    <text>彼らがここに送り込んでくるのは、彼らが排除したいと思っている人たちだけだと思うぞ。まあ･･････スペツナズの狂人たちはここを楽しんでいるのかもしれないが。</text>
+  </string>
+  <string id="dm_information_258">
+    <text>ゾーンが誕生したときに、我々がもっと積極的に行動していれば、今のような苦労はなかっただろう。あのころ国境をしっかり守っていれば、今の我々の仕事は、フェンスの監視と、政府の科学者の監督だけで済んだはずだ。今のままでは、敵地に侵攻した軍隊のようなものだ。我々は良い状態ではないが、ストーカーたちはここでますますくつろぐようになっている。</text>
+  </string>
+  <string id="dm_information_259">
+    <text>俺の父はアフガニスタンで兵役に就いていたが、そこで車の待ち伏せ攻撃を受けて亡くなった。俺は、父が大変な目にあったと思っていた。ここで起こっていることと比較すると、アフガニスタンは良いところのように思える。ダーク バレーの部隊は真夜中にブロード サッカーに一人ずつ全滅させられた。父はそんなことを想像していなかったと思う。</text>
+  </string>
+  <string id="dm_information_260">
+    <text>ここでの生活を有意義なものにしているのは、ガンシップ（局地制圧用攻撃機）の活躍を見ることだ。先日、俺の分隊はゾンビどもの大群を発見し、それを呼び寄せることにした。数分後、地平線上にローターの音が響き渡り、ロケット弾が飛び交い、キャノン砲が発射された。そのおかげで、化け物どもはあっという間に片付いた。</text>
+  </string>
+  <string id="dm_information_261">
+    <text>上層部は各分隊に 探知機を持った男を配置したいと考えているようだ。これは科学者のためのものではないのか？</text>
+  </string>
+  <string id="dm_information_262">
+    <text>知ってのとおり、ゾーンも悪くないもんだぞ。アグロプロムの壁の中で、仲間とキャンプファイヤーを囲んでいるときはな。それ以外は？目が覚めるような悪夢だよ。</text>
+  </string>
+  <string id="dm_information_263">
+    <text>隊員には様々な汚職がある。中には、パトロール中にストーカーに自由にやらせるようなことをする奴もいる。しかし、中には根っからの腐った奴もいる。MercenaryやBanditから賄賂を受け取ったり、殺し屋をやったり、アーティファクトを売ったり･･････。こんなことがなければいいのだが。</text>
+  </string>
+  <string id="dm_information_264">
+    <text>Monolithの連中は一体どうしたんだ？俺がここに派遣されたとき、俺は軽犯罪者や不法侵入者を相手にすると思っていた。近代的な武器を持った、心ない狂信者が大隊規模で反乱を起こしているとは知らなかった。恐ろしいことに、連中は常に強くなっているようなんだ。</text>
+  </string>
+  <string id="dm_information_265">
+    <text>俺は確かにいくつかのものを見てきた。チェチェンにしばらく滞在していたんだ。しかし、このクソみたいなひどい場所は･･････。どんなに訓練を受けても、どんな経験を積んでも、この場所に馴染むことはできない。撤退しようとして自殺した者もいるが、俺は彼らを責めない。</text>
+  </string>
+  <string id="dm_information_266">
+    <text>ゾーン全体を占領するには広すぎるし、危険すぎるから、戦略的な場所を選んで圧力をかけている。もちろん、コードンのような国境の拠点もあるし、アグロプロムでも活動している。ダークバレーにも前哨基地を置いているし、中央付近にもいくつかある。時間をかけて、チャンスを逃さないようにしているんだ。</text>
+  </string>
+  <string id="dm_information_267">
+    <text>ロゴヴェッツのシャイな雰囲気に騙されてはいけない。彼はベテランのストーカーなのだ。コヴァルスキーとのフェアウェイ作戦を生き延び、デグチャレフ少佐やストレロック本人にも会っているのだ。たまにはプリピャチのことも聞いてみな。すごいストーリーを話してくれるぜ。</text>
+  </string>
+  <string id="dm_information_268">
+    <text>スポーナー軍曹は、なかなかのやり手だ。アグロプロムでの供給に加えてゾーン内でのMilitaryストーカー活動も行っているようだ。彼を怒らせないように気をつけろよ。</text>
+  </string>
+  <string id="dm_information_269">
+    <text>Monolithを間近で見たことがありますか？見ない方がいい。パトロールや夜の行軍をしていると、突然。大量の銃撃があり、時には多方面からの攻撃もある。猛烈な銃撃の中にも、死人のような声が聞こえてきて、どうやって死ぬのかとか、狂ったカルト的な話が聞こえてくる。奴らは疲れもせず、降伏もせず、弾切れになることもない。この話をしているだけで、ものすごく震えてくる。</text>
+  </string>
+  <string id="dm_information_270">
+    <text>ゾーンの中心に向かってどのくらい進んだことがある？奥に行けば行くほど悲惨になるらしいな。まず、しょぼいLonerたちや、かわいらしいBanditたちを相手にしなければならない。さらに、組織化された派閥同士の戦場に出くわす。Mercenary、Duty、Freedom。その後は･･････大規模工場まではモンスターと狂信者ばかりだ。あそこには何があるんだろう。いいことはないだろうな。ゾーンは奥に行くほど純粋になり、より邪悪になっていく。</text>
+  </string>
+  <string id="dm_information_271">
+    <text>俺が行ったことのある場所の中で、グレート スワンプが一番嫌いだ。もっと危険な活動や空気中の鉛が多い地域は他にもあるが･･････あの沼は呪われているかのようだ。水面下やイグサの中に潜んでいたり、眠っていたり･･････。我々が知っている以上のものがあると思う。戦いは別としてね。ガベージやダーク バレーでのパトロールもいいけどさ。</text>
+  </string>
+  <string id="dm_information_272">
+    <text>数年前、俺はある隊長と一緒の分隊にいた。彼は本当に嫌な奴で、今まで会ったどんなBanditよりも卑劣な奴だった。ダーク バレーでパトロールをしていた時、突然一人の男に発砲されたのを覚えている。狙いは不安定で被害はなかった。奴を捕まえたが、そいつはただのヒヨッコで、バッグに価値のないアクセサリーを入れていただけだった。そいつは我々のパトロールを見てパニックになり、逃げようとしてピストルを放ったのだ。とにかく、隊長は彼の撃った一発でのけぞり、皮膚をほとんどかすめなかった。X-18を越えて基地に戻った時、隊長は捕らえた捕虜を見たいと言ったが、俺は彼を見つけることができなかったから、彼はチャンスを見て逃げたと思った。数日後、誰かが隊長に尋ねたところ、隊長は「あのヒヨッコなら研究室に放り込んで鍵をかけた」と何気なく答えた。取っ手にしがみついていた死体を発見したとき、隊長はとても恐ろしい顔をしていた･･････。</text>
+  </string>
+  <string id="dm_information_273">
+    <text>お前の背中を見てくれる人が必要だ。死体が床に散らばっているのを見たことがあるだろ。肌は青白く灰色で、首の後ろには汚い跡がある。俺もゾーンに到着したばかりの頃、奴を見つけた時はそうだった。暗くて何も見えなかった。ただ、よだれを垂らすような音がして、二つの目が俺を見上げていた。血を吸う野郎のことだよ。</text>
+  </string>
+  <string id="dm_information_274">
+    <text>プリピャチ。静寂の街、墓場の街。我々は毎回、ゾーンに吐き出されてしまうんだ。もう懲り懲りだ。我々はそこにいるべきではないのさ。</text>
+  </string>
+  <string id="dm_information_275">
+    <text>奇妙な話だが、ここでは地獄のような環境でも、なぜか成功する奴がいる。彼らの中には、スペツナズに任命されて、深層部の偵察や潜入、特殊なミュータント狩りに出かける者もいる。また、本当の陸軍ではないが、その有用性を認められて自治権を与えられた「Militaryのストーカー」になる者もいる。彼らは最も奇妙な存在と言えるだろう。ゾーンが彼らの家なのだ。彼らは何か特別な感覚や本能を持っているようだが、それは我々がいつも警告されている、精神波と関係があるのかもしれない。</text>
+  </string>
+  <string id="dm_information_276">
+    <text>俺は心理学者になるべきだった。なぜ人はゾーンに来るのか、という一つの疑問に答えるだけでも価値があっただろう。ここに来る奴らは、恐ろしい方法で身体を傷つけられ、放射線を浴びせられ、恐喝され、奴隷にされ、裏切られ、必然的に殺されてしまう。何のために？手っ取り早く現金を稼ぐため？銀行を襲えばいいじゃないか。ここにたどり着くよりもずっといいだろう。だから我々はここで、恐ろしい死に方を選んだ狂人たちの後始末をしようとしているのだ。みんなで家に帰るのはどうかな？俺がバスを運転しよう。</text>
+  </string>
+  <string id="dm_information_277">
+    <text>一人でいるときに、ひそひそ話を聞いたことがあるか？それは統合失調症なのか、それとも近くに「コントローラー」のような奴がいるのか。以前、あるバラックでは暴力や自殺が問題になっていた。そしたら、壁の外の茂みに巣のようなものを発見したんだ、「コントローラー」の野郎のな。</text>
+  </string>
+  <string id="dm_information_278">
+    <text>さて、何か不気味な話が欲しいか？ここからが本題だ。ある夜、俺は部隊の見張りをしていた。我々はプリピャチの南の･･････どこかで道に迷っていたんだ。仲間が寝ている間、俺はただそこに座っていて、目を覚まして危険を察知していた。すると、音もなく、どこからともなく、目の前の谷間にヘリが来ている。俺はただ、その場でまばたきをしていた。先ほど言ったように、音はまったくなく、ローターも何もない。着陸すると、格納庫のドアが開き、スペツナズのような軍人たちが降りてきた。彼らは俺に気付いたようで、1人の男が前に出て手を振って挨拶した。明らかに俺は固まっている。そして彼はヘルメットを脱いだ･･････そこには何もない！ 俺は飛び上がった。俺が飛び上がると、すべてのシーンが消えて、ぼやけてしまったんだ。仲間を起こしたが、信じてもらえなかった。お前はどう思う？</text>
+  </string>
+  <string id="dm_information_279">
+    <text>よくある話だ。外に出た太った将軍が、50［km］も入ったことがないゾーンの状況に文句を言う。その結果、命令系統が圧迫され、どこかの中尉が全くの未知の領域への特攻を命じられたりする。そうすると、何も知らない兵士たちが、獣や狂人に殺されてしまうのだ。通常、生存者は戻ってきて、作戦の無益さを説明する。それを繰り返すんだぜ。</text>
+  </string>
+  <string id="dm_information_280">
+    <text>ゾーンが待ち受けていることを見てみたいと思わないか？スノークを見てみよう。スノークはかつて兵士だったが、今ではゾーンの兵士に変貌してしまったのだ。ここに長く留まれば、我々も彼らのようになる。</text>
+  </string>
+  <string id="dm_information_281">
+    <text>もし医療キットを探しているなら、キリロフ中尉に会いに行くことだ。無線機から軽機関銃まで、彼はなんでも応えてくれる。</text>
+  </string>
+  <string id="dm_information_282">
+    <text>クズネツォフの悪口を言うなよ？お前の人生は突然、最悪なものになるぞ･･････。ウリアノフという軍曹がいるが、彼の新しい任務はグレート スワンプでメッセージを流すことだと聞いた。</text>
+  </string>
+  <string id="dm_information_283">
+    <text>疑わしきは撃て。ゾーンの外で怪しい動きを見つけたら、1分も待つ必要はない。躊躇して死ぬ奴を何人も見てきた。Mercenayや狂人の場合もあるが、キメラは銃弾と同じくらいの速さでお前を殺す。目についたものを照らし出すんだよ。</text>
+  </string>
+  <string id="dm_information_284">
+    <text>我々の指揮官は、冗談のような奴だ。ゾーンに入りたいストーカーは、指揮官を呼んで現金をちらつかせるだけでいいんだ。大した額じゃない。あとは我々が掃除をするだけだ。</text>
+  </string>
+  <string id="dm_information_285">
+    <text>上司と仲良くしていないと、「うっかり」ゾーンに行ってしまうかもしれないぞ。そして、もしお前が本当のろくでなしを上司に持っていたら、お前はもうあまり長く生きられない。数年前、我々が組織的な集団との戦いに深く関わっていた頃、極端な規律の実践が行われていたと聞いた。あの人殺しのカレツキーは、隊長の言うことを聞かない兵士を処刑したそうだ。ひどい状況だ！ピストルで後頭部を撃たれたか、ゾーンの放射線地獄の中に飛び込ませて、ミュータントの餌食にされたんだろう。</text>
+  </string>
+  <string id="dm_information_286">
+    <text>コヴァルスキーに会ったことはあるか？なあ、俺は一度あるんだ。正直なところ、彼は本当にしっかりした人だった。部下を大切にし、彼らは自分自身のために一生懸命働いていた。彼の身に起こったことは、それがいかにひどいものかを表している。</text>
+  </string>
+  <string id="dm_information_287">
+    <text>アグロプロムの地下のトンネルはいつになったら何とかなるんだ？あそこにはBanditやミュータントがいっぱいいるんだろ？夜中に奴らが来たらどうするんだ？そんなところには行きたくないよ。</text>
+  </string>
+  <string id="dm_information_288">
+    <text>ザトンについて聞いたことがあるか？北にある湖の湿地帯のことだよ。護衛車との連絡が途絶えてしまうまで、そこに駐留地があったんだ。機械化された輸送手段では、ゾーンにメッセージを送るようには、うまくいかないのさ。アノマリー、エミッション、そして心を持たない恐怖たち！他の場所と同じように、我々は撤退せざるを得なかった。</text>
+  </string>
+  <string id="dm_information_289">
+    <text>あのアノマリーはいったい何なんだ？どこから来たのか？なぜインテリどもはあれを解明できないのか？あれは成長するのか？生きているのか？俺は兵士だ。撃たれることには慣れている。しかし、こんなことは誰も教えてくれなかった･･････それが何であれ。</text>
+  </string>
+  <string id="dm_information_290">
+    <text>我々と奴らとの戦いだ。奴らは我々に来て欲しくないし、我々も奴らに来て欲しくない。任務に就いている人の中には大丈夫な人もいるだろうが、それはわからない。近いうちに増援が来て、発電所まで一掃することになるだろう。</text>
+  </string>
+  <string id="dm_information_291">
+    <text>ここでは息をすることもままならない。空気中には放射線や有害物質などが充満していて、神のみぞ知る状態なのさ。まるで自分の首を絞められているような気分になる･･････最悪だ。ところで、何だ？</text>
+  </string>
+  <string id="dm_information_292">
+    <text>クズネツォフは自分の保身のために、躊躇なくお前を人間の盾として使うだろう。彼が今の地位を得るために何人の人間を死に追いやったと思う？知っているだろうけど、一度、ある企みがあってだな･･････ふう、話すべきではなさそうだ。</text>
+  </string>
+  <string id="dm_information_293">
+    <text>我々は墓地で戦っているんだ、周りを見てみろ。錆びついたAPCの砲弾、壊れたトラック、大破したヘリ･･････それらが物語っている。たくさんの死体が立ち上がって歩き回っている。我々は奴らの仲間入りをするのだろうか･･････。</text>
+  </string>
+  <string id="dm_information_294">
+    <text>多くの奴らがここは意味がないと言うが、俺はそうは思わない。俺も以前はそう思っていたが、Monolithの能力を目の当たりにした。Monolithがゾーンの外に広がっていったらどうなるのか？誰がそれを阻止するのか？ストーカーか？そうだな･･････。ここに残って戦うしかない。頑張るさ。</text>
+  </string>
+  <string id="dm_information_295">
+    <text>ヤンターのペレグリンはどうしているんだ？ああいう、もっと頼りになる男がこのあたりには必要だ。あまりしゃべらなかったけどな。</text>
+  </string>
+  <string id="dm_information_296">
+    <text>ここにいても大丈夫な人間に会えてよかったよ。最近、ゾーンには許可された奴よりも、ストーカーの方が多いからね。</text>
+  </string>
+  <string id="dm_information_297">
+    <text>現地のようにやるってか？それはそれでいいと思う。内側からゾーンに働きかける奴も必要だからな。</text>
+  </string>
+  <string id="dm_information_298">
+    <text>クズネツォフは、スペツナズの顧問をDuty上層部に配置したいと考えていると聞いた。しかし、それがお前たちに受け入れられるとは思えない。</text>
+  </string>
+  <string id="dm_information_299">
+    <text>気をつけろよ。休戦したからといって、友達になったわけではないぞ。</text>
+  </string>
+  <string id="dm_information_300">
+    <text>Clear Skyに騙されるな。あいつらは何度も敵意を見せてきた。連中は小さな沼地の隠れ家で何をしているんだろう？あの連中の忠誠心はどこにあるのか？</text>
+  </string>
+  <string id="dm_information_301">
+    <text>我々はDutyといくつかのつながりを持っている。ここのストーカー集団の中で、彼らは最も冷静だ。できる限り彼らを助けたいと思っている。</text>
+  </string>
+  <string id="dm_information_302">
+    <text>Mercenaryは厄介な客だ。彼らの言うことが半分でも本当なら、絶対に関わりたくない。彼らはゾーンで小さな王国を築こうとしているから、Militaryに邪魔されたくないのさ。</text>
+  </string>
+  <string id="dm_information_303">
+    <text>Freedomのデタラメを信じてはいけない。ゾーンはお前の友達ではないし、あいつらも友達なんかじゃない。奴らは、ゾーンの恐怖を世界に知らしめることしか考えていない。</text>
+  </string>
+  <string id="dm_information_304">
+    <text>Lonerたちは完全に騙されている。一攫千金を求めてやってくるが、自分たちはそのための糧でしかないことに気づかないのだ。ストーカーたちは、ゾンビや狂信者、死体になっちまう。世間知らずのLonerたちをゾーンに入れないことは、慈悲深い行為なのだ。</text>
+  </string>
+  <string id="dm_information_305">
+    <text>他の派閥は、ゾーンを嫌ったり、崇拝したりしているが、誰もゾーンが何であるかをよくわかっていない。Clear Skyは誰よりも近い存在だ。我らは長い間この活動を続けてきたが、一部の暴力的なクソ野郎がそれを理解できないために、ゾーンを修正する最善の方法を絶やすわけにはいなかい。</text>
+  </string>
+  <string id="dm_information_306">
+    <text>Clear Skyが生き残るためには、同盟相手との協力関係を築く必要がある。残念ながら、誰もが我らを狙っているように思える時もある･･････。</text>
+  </string>
+  <string id="dm_information_307">
+    <text>グレート スワンプは最下層の人間の隠れ家であるにもかかわらず、研究には非常に適した場所なのさ。プライバシーだけではなく、生物学的な標本や様々なアノマリーも数多く存在している。ゾーンの中心部にはもっと過酷な環境があるかもしれないが、同じように厳密に研究することはできないんだ。</text>
+  </string>
+  <string id="dm_information_308">
+    <text>縄張りの周辺を守る仕事もありますが、ゾーンの遠くに出かけていって、さまざまな調査をしたり、調査結果の妥当性を報告したりするチームも必要だ。</text>
+  </string>
+  <string id="dm_information_309">
+    <text>コールドは、我らにとって非常に有能なリーダーだったが、その地位に就くには少し資格不足だった。多くの仲間がカランチャを候補に挙げたが、彼は辞退した。振り返ってみると、これは良い選択だったと思う。カランチャ博士は、こういう戦いをするにはあまりにも高貴な人物だからだ。</text>
+  </string>
+  <string id="dm_information_310">
+    <text>ゾーンの件は悲劇だった。我らが一丸となって問題に取り組んでいれば、ゾーンを封じ込めることもできたし、ゾーンから利益を得ることもできたはずだ。それなのに、欲と愚かさが蔓延しているのさ。ゾーンは死屍累々としている。</text>
+  </string>
+  <string id="dm_information_311">
+    <text>戦いの中では、慎重な実験は難しいものだ。我らは以前から、自分たちの任務の命運が、ゾーンの命運と結びついていることを認識していた。ある意味では、我らの軍事的な目的は、研究計画と同様にゾーンの封じ込めに関係しているのだ。</text>
+  </string>
+  <string id="dm_information_312">
+    <text>私が参加したのは、フリーのストーカーに留まっていても無駄だと思ったからだ。ゾーンを理解するためには、集中的な努力が必要なんだ。私は科学者ではないが･･････銃を持つ人間も必要なのさ。</text>
+  </string>
+  <string id="dm_information_313">
+    <text>我らは常に機材を必要としているので、結局は自分たちで多くの機材を作っている。ノヴィコフは本当に素晴らしい。どこで材料を手に入れるのかは分からないが、彼はいつも何もないところから防護服や通信機器を作っている。</text>
+  </string>
+  <string id="dm_information_314">
+    <text>グレート スワンプはそれほど危険な場所ではないが、決して安心してはいけない。ある日の夕方、監視塔から帰ろうとすると、何か弱々しい痛みの呻き声のようなものが聞こえてきた。草むらをかき分けて進むと、うつ伏せになった一匹の死体が見えた。仰向けにしてみると、死後数週間ほど経っていることがわかった。物音がして顔を上げると、周りの草の中に6組の目があった。もし、素早い動きと偶然通りかかったパトロール隊がいなかったら、私は次のエサになっていたと思う。</text>
+  </string>
+  <string id="dm_information_315">
+    <text>犠牲者が出ることは我らにとっても大きな痛手なので、慎重に、そして隠密に行動することを選択した。もちろん、いつでも人手があるわけではない。昔はそうでもなかったな･･････。</text>
+  </string>
+  <string id="dm_information_316">
+    <text>我らはゾーンで最高のアーティファクト ハンターだと思っている。ほとんどの人はEcologistだと思っているだろうが、我らの中にはアノマリー領域を生き抜く人たちがいる。最新の技術や安定した資金があるわけではないが、アーティファクトに関する経験は誰よりも豊富だ。</text>
+  </string>
+  <string id="dm_information_317">
+    <text>放射能汚染はあまり楽しいものではないから、足元に注意するんだ。建物や貯留水は、特に密閉式の呼吸器がないと危険だ。しかし、最悪なのは、仲間の探知機が作動するまで、自分が地獄のように燃えてしまったことに気づかないことだ。我らは一度、仲間の一人をゾーンから避難させなければならなかったが、彼が助かったかどうかは聞いていない。</text>
+  </string>
+  <string id="dm_information_318">
+    <text>あるMercenaryと一緒に原子力発電所に行った友人がいた。私も本当は行きたかったんだが、噛まれたところが治っていなかったから、残ったんだ。そして、みんな死んでしまった。Clear Skyが死んでいないことをニンブルが教えてくれるまで、私はしばらくスカドフスクにいた。あのMeercenary、あの奇跡的な働きをしたスカーを、私はこれ以上信頼することはできない。</text>
+  </string>
+  <string id="dm_information_319">
+    <text>カランチャ教授の実験では、「フレッシュ」のDNAは複数の異なる種の合成物であることが判明した。聞かれる前に言っておくが、そうだな、人間が少し混ざっている。バケモノどもにはいつもゾッとさせられるよ。</text>
+  </string>
+  <string id="dm_information_320">
+    <text>ラジオからはいろいろな不気味な音が聞こえてくる。たとえば私は、ゾーンの誰かが乱数放送を使っているのを知っているが、おそらくMilitaryだろう。それに、プリピャチの原発事故の際に、民間のラジオを聞いたこともある。ゾーンの中で何かが信号を蓄積して、それが時々跳ね返ってくるようになっているのさ。ノヴィコフに聞いてみな。彼の方が詳しいよ。</text>
+  </string>
+  <string id="dm_information_321">
+    <text>Monolithの台頭が気になる。レベデフと突撃部隊が失われたときに最初の打撃を受けたが、今のあいつらの強さは神のみぞ知るだ。どんどんとひっきりなしに南に出現している。やがてグレート スワンプにも出現するだろう。</text>
+  </string>
+  <string id="dm_information_322">
+    <text>我らの最大の財産は、武器でも拠点でもなく、10年以上にわたって蓄積してきた情報のデータベースだと思う。ゾーン、ブロウアウト、Monolithなどを封じ込める秘策は、我らが蓄積してきた研究の中にあると信じて疑わない。たとえ派閥が存続しなくても、誰か賢い人が我らの研究を手にしてくれることを願っている。</text>
+  </string>
+  <string id="dm_information_323">
+    <text>ブラッドサッカーの光学迷彩は長い間の謎であり、化学系エンジニアにとっては非常に魅力的な目標だった。しかし、今のところ、ゾーンでは見えないストーカーが大暴れすることはないと思う。実際にブラッドサッカーに襲われた時には、生体サンプルの保存についてなんて考えないだろうからね。</text>
+  </string>
+  <string id="dm_information_324">
+    <text>Clear Skyでの生活は、ネヘミヤ（エルサレムの城壁を再建し、ユダヤ民族再興に取り組んだ人）のようなものだ。片手にシャベル、片手に剣。私の場合は、片手に探知機、片手に銃と言ったところか。</text>
+  </string>
+  <string id="dm_information_325">
+    <text>コールドは、基地内の誰かが我らを裏切っていると考えている。夜中に特定できない無線通信を検出しましたが、暗号化されているようだ。そろそろ新しいセキュリティ対策が必要かもしれない。</text>
+  </string>
+  <string id="dm_information_326">
+    <text>スポアはニンブルと連絡を取り合っているんだけど、ニンブルは北からの情報収集に長けている。ニンブルは、地域で活動が活発化していることを報告してきたと、彼から聞いた。感知機器は、より多くのミュータントの動き、アノマリーの変化、さらにはエミッションの強度を感知している。何かが起きているのさ。</text>
+  </string>
+  <string id="dm_information_327">
+    <text>あのクソみたいなポンプ場のためにどれだけの血が流されたのか。何のために、誰が建てたのか、理解できない。崩壊してしまえばいいのに。</text>
+  </string>
+  <string id="dm_information_328">
+    <text>昔からの仲間もいるが、だんだん少なくなってきているんだ。そういえば、ISG（国際科学グループ）で働いててゾーンに入ったストーカーもいたな。でも、レベデフの時にいなくなってしまったような気がするんだよね。</text>
+  </string>
+  <string id="dm_information_329">
+    <text>沼地の「ドクター」を見たことがあるか？潰れた鉄橋のそばで仙人のように暮らしている。ある夜、彼がうろうろしているのを見て、とても怖かった。まるで夢遊病のようだったよ。まあ･･････。彼は無害だと聞いてるけどね。</text>
+  </string>
+  <string id="dm_information_330">
+    <text>ガウス ライフルが必要だ。いや、1ダースは必要だ。我らは不利な状況に置かれており、ますます追い詰められている。流れを変える何かが必要なのだ。Monolithに貸してもらうのもいいかもしれない。</text>
+  </string>
+  <string id="dm_information_331">
+    <text>Clear Skyには熱心なストーカーがいて幸運だが、卑劣な人間もいた。研究所からアーティファクトを盗み出して亡命したバザードという男だ。彼については、Militaryのために盗んだと聞いている。先日捕まえたRenegadeのチンピラの中に、彼の死体があったことが判明した。なんてことをしてくれたんだ。</text>
+  </string>
+  <string id="dm_information_332">
+    <text>古い教会からの眺めは素晴らしく、グレート スワンプが平和で自然なものに思えるほどさ。そこに登ってマスクを外すと･･････ゾーンのどこよりも頭がスッキリするんだ。神聖な場所だと思う。笑いなら笑えよ。</text>
+  </string>
+  <string id="dm_information_333">
+    <text>コールドはLonerたちと協定を結ぶことを話していた。ベアードかバーキープのどちらかだ。助けは必要だし、情報も必要だけど、うちの上層部の中にはフリーのストーカーを警戒している人もいるよ。</text>
+  </string>
+  <string id="dm_information_334">
+    <text>世の中、話す相手には注意が必要だ。我らの状況は慎重でなければならず、世の中には少額で敵に情報を売るような不謹慎なバカがたくさんいる。沈黙を守り、部外者とは酒を飲まないようにしておけよ。</text>
+  </string>
+  <string id="dm_information_335">
+    <text>カランチャ教授も年をとったものだ。ある日突然、彼はいなくなるだろう。誰がその代わりになるんだ？優秀な人たちはみんな死んで埋もれているってのに。</text>
+  </string>
+  <string id="dm_information_336">
+    <text>食べ物の状況がもっと良ければ、もっと満足できると思う。「郷土料理」といっても、いろいろな調理法があるが、私はもううんざりしている。放射能汚染のない、本物の料理を提供してくれ。</text>
+  </string>
+  <string id="dm_information_337">
+    <text>またヴェレス探知機が途中で盗まれた。このままでは、占いでアーティファクトを探すことになってしまう。</text>
+  </string>
+  <string id="dm_information_338">
+    <text>バーにいるストーカーに聞いたんだけどMilitaryが工作員を送り込んで主要な派閥に潜入させてるってさ。心配する必要があるのか？彼らがどれだけ我らを潰したいか、わかるだろ。</text>
+  </string>
+  <string id="dm_information_339">
+    <text>果たして、いつまで持ちこたえられるだろうか？状況が安定してきたと言っている人もいるけど、私はそうは思わない。Militaryは常に我らを締め上げてくるし、チンピラたちも戦闘員には事欠かない。基地を奪われたら、我らはどこに行けばいいんだ？離散ユダヤ人みたいに生き残れるかどうかもわからない。</text>
+  </string>
+  <string id="dm_information_340">
+    <text>他の派閥は、ゾーンを嫌ったり、崇拝したりしているが、誰もゾーンが何であるかをよくわかっていない。Clear Skyは誰よりも近い存在だ。我らは長い間この活動を続けてきたが、一部の暴力的なクソ野郎がそれを理解できないために、ゾーンを修正する最善の方法を絶やすわけにはいなかい。</text>
+  </string>
+  <string id="dm_information_341">
+    <text>Ecologistの人たちの知識欲はありがたいのだが、ゾーンが単なるデータの引き出しではないことを、理解しているかどうかはわからない。一方で、科学者の中には、ゾーンの中で起きていることに関心を持っている人もいる。</text>
+  </string>
+  <string id="dm_information_342">
+    <text>Militaryたちは、戦うと断言しているBanditよりも劣っているようだ。スルタンの部下であるチンピラたちから人材採用したとしても、私は驚かないだろう。</text>
+  </string>
+  <string id="dm_information_343">
+    <text>フリーのストーカーの5分の1でいいから、ゾーンを集中的に研究して封じ込める必要がある、と納得してもらえれば我らの人員は2倍になる。</text>
+  </string>
+  <string id="dm_information_344">
+    <text>もしも、あの嫌なシドロヴィッチが、新人の頭の中におとぎ話のようなデタラメを詰め込んでから、死に追いやることを習慣にしていなければ、Lonerたちにはもっとチャンスがあったかもしれない。</text>
+  </string>
+  <string id="dm_information_345">
+    <text>Clear Skyは常により多くのアーティファクト機器を求めているので、交換を提案するための研究が、我らにはあることをサハロフに伝えてほしい。</text>
+  </string>
+  <string id="dm_information_346">
+    <text>もし、ザトンに行く機会があったら、ベアードに、彼が持っている珍しいアーティファクトに興味があると伝えてくれ。彼と取引するのは久しぶりだ。</text>
+  </string>
+  <string id="dm_information_347">
+    <text>スーツのベルトに貼るものには気をつけてね。アーティファクトは放射線以外にも様々な特性を持っているから、慎重に扱う必要があるんだ。アーティファクト同士が反応して炎上したストーカーを見たことがあるよ。</text>
+  </string>
+  <string id="dm_information_348">
+    <text>もしバーテンダーに会ったら、私が話していたビジネスをほぼ完了したと伝えてくれ。彼は私が何を言いたいのかわかるだろう。</text>
+  </string>
+  <string id="dm_information_349">
+    <text>私には、君が興味を持つような情報はない。君にはどうでもいいことだろう。君が抱えているのは君自身の問題さ。</text>
+  </string>
+  <string id="dm_information_350">
+    <text>ゾーンなんて存在しない。エミッション後の空を見たことがあるか？冷たい風が吹いて、空気が穏やかになる･･････クソが。そんな詩が書けそうだ。</text>
+  </string>
+  <string id="dm_information_351">
+    <text>さて、Freedomに馬鹿がいないとは言わないが、いいか？例えば、献身的なベジタリアンで平和主義者のチェコ人男性2人とかね。おいおい、今までに人食い猫とファックしているところを見たことあるか？あの二人は基地の外に出たことがないに違いない。</text>
+  </string>
+  <string id="dm_information_352">
+    <text>この規律と管理のクソさは何だ？Freedomの組織がその根源である「自由と表現の自由」に忠実であることを確認する必要がある。俺らは独裁主義者と戦っているんであって、奴らを招き入れているわけじゃない･･････。</text>
+  </string>
+  <string id="dm_information_353">
+    <text>ストーカーの中には、ゾーンが自分の暴力性を解放してくれるものだと思っている奴もいる。鳥や犬を撃ちまくるバカと同じように･･････どうしようもないクズがいる。</text>
+  </string>
+  <string id="dm_information_354">
+    <text>Freedomの一番良いところは、ここではみんなが兄弟だということだ。ここにはMilitaryのチンピラどもの悲しい真似ごとは存在しない。「はい、上官。いいえ、上官」なんてたわごとだ。いや、俺らが実際にお互いを気遣うのは、気になるからであって、誰かが俺らに指示するわけじゃねえ。</text>
+  </string>
+  <string id="dm_information_355">
+    <text>ああ、冗談はわかっているが、ブラッドサッカーを軽く扱ってはいけない。生意気な新人2人組が放棄された村に迷い込み、二度と姿を見せなかったことは一度や二度ではない。まあ、二度と姿を現さなかったわけだが。</text>
+  </string>
+  <string id="dm_information_356">
+    <text>俺は陸軍倉庫をゾーンの小さな幸せな中心地と考えている。ロストクからはDutyが、デッド シティーからはMercenaryが、レーダー施設からはLonerがやってきて、西にはブラッドサッカーが、北にはレッド フォレストからの訪問者が、そして南には俺らがいる。この中心地は、想像できると思うが、かなり忙しいところだ。</text>
+  </string>
+  <string id="dm_information_357">
+    <text>独裁主義者たちは防御に徹しているかもしれないが、まだ奴らを過小評価してはいけない。奴らはまだ迷惑をかけるだけの不満の怒りを持っている。</text>
+  </string>
+  <string id="dm_information_358">
+    <text>ゾーンを守るのはDutyなんだよな？洗脳された狂人どもとの戦いで何人もの仲間が死んだというのに、北の防衛線に人員を配置しているのを見たことがねえな。なあ、ゲートキーパーはすごいよな、彼はとても立派な人だ。</text>
+  </string>
+  <string id="dm_information_359">
+    <text>落ち込んだときは、アショットとしばらく話してみろ。あいつはエミッションの中でも眠ることができるような奴だし、気分を損ねたりしない。</text>
+  </string>
+  <string id="dm_information_360">
+    <text>よくある話だ。自然は想像を絶する美しさと神秘的な贈り物を与えてくれたのに、政府はその周りに囲いを設置して、最高額の入札者に売りつけようとする。燃やしてしまうのを見たいだけのクソDutyどもよりはマシだがな。</text>
+  </string>
+  <string id="dm_information_361">
+    <text>Freedomには高慢な奴はいないが、ある種の行動はグループ内で受け入れられない。例えば、誰もが緊張をほぐすために何かを少しだけ吸うのはいいが、暴力的に覚醒剤にハマるのはダメだ。ドアまで案内されるだろうな。そういう野郎はたいていBanditに入っちまうから、ここではそういう野郎はいらねえよ。</text>
+  </string>
+  <string id="dm_information_362">
+    <text>元々、俺はバックパッカーで、それも筋金入りのバックパッカーだった。ここに来たのもそのためで、世界を凌駕するような自然に挑戦したかったのさ。Freedomがかっこいいと思って加入したんだが、今でもゾーンの奥深くまで長い旅をすることがある。ミュータントたちのために何か持ってきてくれよ。</text>
+  </string>
+  <string id="dm_information_363">
+    <text>こんな話はどうだい、兄弟。ゾーンを辞めたばかりの友人が、アーティファクトを探すための道具が入ったスタッシュを教えてくれたから、俺はレッド フォレストにいった。俺は馬鹿じゃねえから、ゆっくりと観察してから、こっそりと行動していた。PDAに導かれて大きな木にたどり着き、その周りを歩いてみると、幹を貫く大きな亀裂の中に友人の荷物を見つけた。その場を離れようとしたとき、木の反対側から足音が聞こえてきた。5人か6人かと思っていたら、しばらく動きが止まって、横から覗いてみると、なんとMonolithの部隊がいやがった。俺は木の後ろで、体の半分を木の裂け目に入れてしゃがんだ。奴らは何も喋らなかったが、奇妙な鼻歌のようなものを歌っていた。その間、俺は「もうダメだ」「すぐに気づかれる」と思っていた。そんな状態で6時間も待っていたんだぜ、想像してみろよ！そして、奴らは去っていき、幸運な俺は急いで家に帰ったのさ。</text>
+  </string>
+  <string id="dm_information_364">
+    <text>Freedomにいる欲の塊のような連中はどうなってやがるんだ？俺は、ゾーンで見つけた金目の物を、各派閥のメンバーに均等に分配してはどうかと提案したが、あいつらは俺を無視しやがった。この派閥は本当に儲け主義なんだな。誰もカネの話をしたがらない。</text>
+  </string>
+  <string id="dm_information_365">
+    <text>ヤノフ駅と陸軍倉庫の間を行き来するのは大変だから、レーダー施設とレッド フォレストのどちらかで選べだとさ。おい、困ったな、この選択は。確実に死ぬか、ほぼ確実に死ぬかのどちらかを選べってことか。懐かしい友人に久しぶりに会えそうだよ。</text>
+  </string>
+  <string id="dm_information_366">
+    <text>もし、このあたりのミュータントやMilitaryに対して優位に立ちたいなら、スキンフリントのところに立ち寄ってみろ。彼はアンタに本物のNATO製装備を提供してくれる。ただし、彼に物を売るときは気をつけろよ。彼は小銭稼ぎが得意だからな。</text>
+  </string>
+  <string id="dm_information_367">
+    <text>ゾーンは、世界で最も自由な場所なのさ。法律もなければ、警官もいない、逮捕されることもない。ここには自然の法則があり、その仕組みに従わなければ、無駄になっちまう。でも俺は違う。ゾーンと俺は波長が合うんだ。</text>
+  </string>
+  <string id="dm_information_368">
+    <text>何か知りたいことがあれば、ヤノフ駅のヤーに聞いてみな。彼は、あんたや俺よりもずっと前からここにいて、いろいろなことを見てきた。彼はダーク バレーからプリピャチまでを見てきた。もし彼が永続的なまとめ役として定着していなかったら、俺が自分を守ってほしいと思う人は他にいないだろう。</text>
+  </string>
+  <string id="dm_information_369">
+    <text>科学者たちはゾーンの表面にしか触れていないことを知っているか？知らないかもしれないが、実はゾーンは霊的エネルギーの世界的な多発地点なのさ。心霊占いのことじゃねえぞ。物理的な現実と、存在の統一的なエネルギーとの間の生命線のことだ。多くの人はこの話に耳を傾けないが、ゾーンがどれほど奇妙で異質なものであるかを考えれば、それほど突飛な話でもない。俺らがよく耳にする「精神波の嵐」や狂った洗脳の話ってのはどこから来ている思う？ここには隠された力、生命力があるのさ。俺はただ、そのすべてを知りたいだけだ。</text>
+  </string>
+  <string id="dm_information_370">
+    <text>レシーはプリピャチの北側にあるアーティファクトの話で俺を誘惑するんだ。アノマリーの専門家として誰かを信用するなら、実際にアノマリーの中にいた人を選ぶだろ？</text>
+  </string>
+  <string id="dm_information_371">
+    <text>ズールーは俺が唯一好きなDutyのメンバーで、ちゃんとした人に見えた。ほとんどのDutyのメンバーは、Freedomと部屋を共有するよりも、エミッションの下で座っている方がましだという。彼はよくやっていたが、それも永遠には続かなかったな。そして今、俺らはヤノフ駅の正当な所有者となった。</text>
+  </string>
+  <string id="dm_information_372">
+    <text>厳しい支配階層は、人の創造性を阻害すると思う。屈辱的な機械の歯車になるだけでなく、自分の能力も失ってしまう。硬直化すると効率が悪くなるという。それはロキが言っていたことと同じさ。彼は洞察力のある男だぜ。</text>
+  </string>
+  <string id="dm_information_373">
+    <text>あのルーカーはどこから来たのだろう？ある日を境に、まるで昔からあったかのように誰もが口にするようになった。ゾーンの馴染みのない地域が、常に新しい驚きを生み出していることを示している。それに、陸軍倉庫にはこれ以上の客は必要ない。特に人肉を求めてくる客なんてな。</text>
+  </string>
+  <string id="dm_information_374">
+    <text>もっと怖い場所があるのは間違いないんだが、一番不安なのは北の防衛線だと思う。突き刺さった頭蓋骨や燃え盛る残骸を覗き込みながら、この道を何が来るのか、何かが視界に入ってくるのではないかと思って、ただそこで立ち尽くしてしまう。そのうち、本当に止められない何かがその峠から吐き出されて、それで俺らは終わりになってしまうのではないかってね。</text>
+  </string>
+  <string id="dm_information_375">
+    <text>最近、何があったんだよ？幻覚剤に変なものを混ぜていた男がいて、何人か殺されたんだ。それから、エストニア人がDutyを煽るために、海賊版ラジオを作ろうとして感電死した。それからMonolithだが、最近の水道には何が入っているんだろう？</text>
+  </string>
+  <string id="dm_information_376">
+    <text>兄弟、新入りが怪しいことをしていないか気をつけてくれ。ルーカッシュが言うには、最近Dutyが俺らに潜入しようとしているらしい。Duty！Militaryの小心者どもがFreedomを装うなんて想像できるか？とにかく、気をつけろよ。</text>
+  </string>
+  <string id="dm_information_377">
+    <text>ルーカッシュは、国境を越える安全な道を確保するために、外部の関係者と緊密に連絡を取り合っていることを、俺は知っている。彼は、Freedomの戦闘力を強化するだけでなく、熱狂的な支持者が自由で開かれたゾーンを行き来できるようにしようとしている。しかし、数年前に誰かが密告したことで、Militaryのカスどもが俺らに大打撃を与えたことがあったから、彼は慎重に行動している。</text>
+  </string>
+  <string id="dm_information_378">
+    <text>畜生、エミッションの警報にはもっと気をつけないとな。俺らが穴から出てくるたびに、ラジオで応答できなくなる奴が出ちまう。たいていは後になって、腰を抜かして頭がおかしくなってフラフラしているのを見つける。惨めな死に方だ。</text>
+  </string>
+  <string id="dm_information_379">
+    <text>ここ数週間、火傷のような発疹が出ている。ソリッドの奴を避けていたのは･･････ゾーンには医療過誤弁護士がいないからさ。それが幸いしたのかもしれない。</text>
+  </string>
+  <string id="dm_information_380">
+    <text>Freedomには、数ヶ月前に辞めた本物の精神病患者がいたが、彼を知っているか？名前は覚えていないが、ゾーンにしては奇妙な奴だった。そいつは自分がレーニンの生まれ変わりだと思っていて、そういうふうに話していた。彼はただのマルクス主義者の子供ではなく、問題を抱えていたんだ。彼はゾーンの経済改革を望んでいて、Freedomでは仕方がないことだが･･････ミュータントを被抑圧階級、すべてのストーカーを被搾取階級と考えていたらしい。そうだな。でも、彼が個人的にブラッドサッカーを殺しているのを見たことがあって、その時は「階級の反逆者」と言っていたような気がする。ああ、あいつは本当に狂っていたよ。村の変人のような存在だったから、周りからは好かれていたがな。彼はある日、基地から出て行ったきり戻ってこなかった。今はFreedomが少しだけ退屈になっちまったな。</text>
+  </string>
+  <string id="dm_information_381">
+    <text>いつも解放的なゾーンの話をしている俺らが、あの防衛線を張っているとは皮肉な話だな。文句を言っているわけではないが、ゾーンの中では、皮肉を言うのが普通だと思うぞ。</text>
+  </string>
+  <string id="dm_information_382">
+    <text>おいおい、レシーは秘密のDutyメンバーであり、元Mercenaryでもあるんだぞ。アノマリーで失敗したからといって、今度はゾーンが生み出した奇跡を憎むとはな。そんなことを考えているようでは、何のためにFreedomにいるのかわからない。とにかく、彼は何人かの部下に嫌な思いをさせたし、彼らを苦境に立たせたから、自分は辞めるべきだと言った。FreedomよりもMercenaryの方がマシだとさ。彼は俺らの最高のストーカーが倒されたときでさえ、ジョークを言うのさ！</text>
+  </string>
+  <string id="dm_information_383">
+    <text>ゾーンの産業買収を阻止できるのは俺らだけさ。他の誰にもできないことだ。ゾーンの自然の要害という試練を乗り越えて、「ムーンライト」アーティファクトを手にしたとき、その美しさの輝きに目を見張り、自然の神秘を目の当たりにする･･････。もし、この場所が政府の採石場になって、兵器を作るためにそういうアーティファクトを取得し、世界市場で高値で取引されるようになったら･･････と考えてしまう。それは許せない。</text>
+  </string>
+  <string id="dm_information_384">
+    <text>被害妄想なのか何なのかわからないが、尾行されているような感覚が拭えない。ヤノフ駅でぶらぶらしていても、陸軍倉庫で警備をしていても、パトロールに出ていても、どこにいても関係ない･･････。視線の先に何かがあって、悪い予兆のように俺を放っておかないのだ。しばらくの間、重いものは置いておいた方がいいのかもしれない。しかし、これが何であれ、忘れることならできる。あんたはどう思う？「コントローラー」が俺の心を弄んでいるのか？このままでは夜も眠れない。もし俺が普通じゃない状況で死ぬことになったら、俺が正しかったとわかるだろう。</text>
+  </string>
+  <string id="dm_information_385">
+    <text>俺はMercenaryに好意的なFreedomメンバーのことが理解できない。あいつらは、俺らが戦っているMilitaryよりもひどい金儲け主義者どもで、ゾーンの一部を個人事業主に売り渡すために来ているんだ。</text>
+  </string>
+  <string id="dm_information_386">
+    <text>デッド シティーにいる幸運な兵士たちを警戒する者もいるが、俺は彼らを信頼している。DutyとFreedomは何年も前からほぼ膠着状態にあるが、Mercenaryはそのバランスを崩すのに役立つかもしれない。彼らはあまり友好的ではないが、銃の扱いには長けている。</text>
+  </string>
+  <string id="dm_information_387">
+    <text>Banditたちの中には悪い奴もいるが、俺らと同じような奴もいる。連中はただ楽しく過ごしたいだけで、操り人形のように、糸で引かれたくないのだ。彼らは、あんたが弱っているときには、あんたを助けるかもしれないんだぞ。</text>
+  </string>
+  <string id="dm_information_388">
+    <text>ゾーンのために戦わなければならないといのに、いつになったらLonerたちが増えるんだろうか。そうでなければ、存在できない。アーティファクトで私腹を肥やし、そして分裂する。感謝しない、感謝の気持ちもない。</text>
+  </string>
+  <string id="dm_information_389">
+    <text>インテリどもは愛らしいな。彼らは測定や実験に夢中になっていて、ゾーンを見ようとしない。ゾーンの価値を見ようとせず、ゾーンの有用性ばかりを考えている。ん、政府の坊やに何を期待しているんだ？</text>
+  </string>
+  <string id="dm_information_390">
+    <text>おう、頑張れよ！陸軍倉庫やジュピターにも遊びに来いよ。楽しい時間を過ごそうぜ！</text>
+  </string>
+  <string id="dm_information_391">
+    <text>おい兄弟、ハワイアンを知ってるか？彼から、デグチャレフという男を知らないか、フリーのストーカーに聞いてみろと言われたんだ。そう、知らないのさ。俺に任せろと言ってしまったのに。</text>
+  </string>
+  <string id="dm_information_392">
+    <text>アンタらはトラック墓地の何が好きなんだ？バードウォッチングはどうだ？俺が見る鳥は、不快なカラスと、たまにいるMilitaryの攻撃ヘリだけだ。</text>
+  </string>
+  <string id="dm_information_393">
+    <text>こんにちは、科学者の我が友よ。ひょっとして、手持ちの薬はないのか？今すぐにでも使いたいんだ。</text>
+  </string>
+  <string id="dm_information_394">
+    <text>おいおい、こいつは俺を殺そうとしているぞ！･･････いや、ただの悪口だよ。その顔は何だ？緊張はほぐした方がいいぞ。</text>
+  </string>
+  <string id="dm_information_395">
+    <text>これはただの仕事だ。それ以上でもそれ以下でもない。「ゾーンはこうだ」とか「ゾーンはああだ」とか。そんなことはどうだっていい。ただの場所であって、たまたま他の場所よりも危険なだけなのさ。俺は仕事のためにここにいるのだから、必要なことをするだけだ。</text>
+  </string>
+  <string id="dm_information_396">
+    <text>俺は情報の自販機か？周りを見渡してみたらどうだ？どうせ他人はデタラメを並べるだけ。自分の目で見たほうがいい。</text>
+  </string>
+  <string id="dm_information_397">
+    <text>ゾーンでは効率が命。なぜ任務を失敗するのか？なぜストーカーはアノマリー領域で死ぬのか？それは「効率」なのさ。自分が何をすべきかを知り、それを最も効率的な方法で実行しなければならない。やるべきことを決めたら、ああだこうだと考えず、ためらわずに実行する。間違った同情心に惑わされることなく、撃ってから次へと進め。</text>
+  </string>
+  <string id="dm_information_398">
+    <text>ゾーンに関心を持った外部機関は、俺たちが最初ではなく、最後でもない。皆、ゾーンから何かを得られないかと、ゾーンに関心を寄せているのだ。お前が焚き火の周りで出会った、気さくでおしゃべりなLoner。彼は誰かのために仕事をしているのかもしれない。信じられないかもしれないが、ここで見た外国の奴らは、イラン、中国、CIAだ。他にも言及しない方がいいようなことがいくつもある。</text>
+  </string>
+  <string id="dm_information_399">
+    <text>特にここでは、あらゆる事態を想定して計画を立てるのがベストだ。今日の俺の親切なアドバイスは、「やってみなさい」ということさ。地図を持って数時間かけて、旅の途中で起こりうるすべての出来事と、その対処法を計画してみな。そして、その計画を暗記して、いざというときに活用できるようにしておくんだ。これが、ここで成功するための唯一の方法だ。だからこそ、北からMonolithが押し寄せてきたときに、生き残っているのは俺たちの仲間だけなのさ。</text>
+  </string>
+  <string id="dm_information_400">
+    <text>地面が揺れるのを感じたら、殺されると思った方がいい。スードウジャイアントがお前の美味しい肉を狙っているのさ。偵察部隊がそいつに狙われたので、交戦することにしたんだ。彼らは弾丸を充填したが、そいつは近づき続けた。すべての弾倉を使っても、そいつはやってくる。そいつが追いついたとき、彼らはどう感じたと思う？怪物に慈悲を乞うことができるか？いや、彼らはそれぞれナイフを手にして死んでいった。この話の教訓は、グレネードランチャーや良いランニングシューズを用意しておけってことさ。</text>
+  </string>
+  <string id="dm_information_401">
+    <text>人は数の多さが強みだと思う。たぶん。しかし、ゾーンは分割統治の達人なのさ。ここのMilitaryが橋を守るため砦をザトンに築こうとするのを見たことがある。俺たちは自分たちの利益が損なわれないようにしたかった。彼らは、自動車輸送、重火器、ヘリ、そして必要なだけの人手をすべて備えていた。放射能汚染された何マイルにもわたって、地図に載っていない敵地で、彼らは崩壊し始めた。ゾーンの影響を受けたのだ。マンパワーは無に帰し、車両は故障や動けなくなり、通過できないアノマリー領域が作戦を停滞させた。探検隊の残骸が足を引きずってザトンに入ってきたときには、ほとんど何も残っていなかった。そして何者かが待ち伏せして、それを終わらせたのだ。ゾーンでは数の多さなんて無意味だ。</text>
+  </string>
+  <string id="dm_information_402">
+    <text>ゾーンには人間の悪い部分が集まってきて、それがさらに邪悪になっていくような気がする。法律や自然の法則から逃れようと、いろいろな人が迷い込んでくるんだ。俺たちはあるとき、悪魔のようなカルト集団の巣窟を見つけた。奴らは通りすがりのストーカーを誘拐し、死ぬまで拷問して血を飲んでいた。冗談話ではない。仲間の一人が行方不明になったときに、そのことを知った。結局、汚い地下室で奴らの小さな穴を見つけて、反撃がやむまで数十個の手りゅう弾を投げ入れたんだ。問題は、奴らがもっといるかもしれないということだ。レッドフォレストやヤノフ駅からも同じような話を聞いている。</text>
+  </string>
+  <string id="dm_information_403">
+    <text>デッド シティーは死の街ではない。最初はそう見えるが、日の当たらない暗い場所には、たいてい何かが潜んでいる。建物や通路は全部見てきたけど、一人では行くなよ。古い住人が出て行ってから、静かに、しかし着実に新しい住人が入ってきている。俺たちの基地は、つい最近できたばかりだ。</text>
+  </string>
+  <string id="dm_information_404">
+    <text>いったい何が言いたいんだ？答えてくれ。この重要な文書、「不可欠」なアーティファクト、俺たちが駆除しなければならない卑劣な下層民･･････。どうなるんだ？ここは屠殺場で、ある種の病的な実験場でもある。これをつかみ、あれを殺す･･････。奴らは何を知っているんだ？</text>
+  </string>
+  <string id="dm_information_405">
+    <text>ああ、何がしたいんだ？無料の情報を探すのはやめて、自分の目で物事を見に行った方がいいんじゃないか？ヒントをやろう。南は儲かって退屈だし、北は死に満ちていて、Militaryのおべっか使いどもが向こうから迫ってくるから、方向を決めて歩き始めろ。</text>
+  </string>
+  <string id="dm_information_406">
+    <text>リマンスクには無人地帯のようなところがあり、爆破された地形の向こうに、敵の土地であるMonolithを見渡すことができる。そこはいつも不気味で、まあ、何かあるまでは静かだ。彼らがなぜMonolithと呼ばれているかは、俺が教えてやろう。それは、奴らが常に一つの存在として行動するからだ。それが「Mono」なのさ。お前が奴らの人生を終わらせるまで、奴らが来るのを止められない。奴らは運動機能がある間は気にせず、お前の脳に弾丸を撃ち込もうとするんだ。それが「lith」の部分だ。痛み、寒さ、暗さ、数字、すべてを無視して、岩のように変化しない完璧な機械のように進み続けやがる。</text>
+  </string>
+  <string id="dm_information_407">
+    <text>ゾーンの北側は飢えている。プリピャチ、原子力発電所、レーダー施設など、どこも食べ物を求めている。奴らは資金力のあるMilitaryの遠征隊の肉が一番好きだが、それほどこだわりはない。膨大な不思議を探しているLonerたち、盗みを働こうとしているBanditたち、些細な目的のために行動している様々な派閥たち、これらすべてがゾーンの腹を満たす肉なのさ。気づいていると思うが、ゾーンに行ったストーカーはほとんど帰ってこない。お前が必死になるかどうかは、お前次第だ。</text>
+  </string>
+  <string id="dm_information_408">
+    <text>陸軍倉庫は、戦場が好きな人にとっては楽しい避暑地さ。俺たちの裏庭でもあるから、荒くれ者が入ってこないように国境警備隊が必要だ。幸いなことに、奴らはブラッドサッカー村によってほとんど封鎖されており、ほとんどのストーカーはその場所のことを話すだけでも漏らしてしまう。時々、この遊び場にいる大人は俺たちだけのような気がする。</text>
+  </string>
+  <string id="dm_information_409">
+    <text>俺にはわからない。誰かが地下の研究室でドアを開けたままにしているようだ。ゾーンにはかつてないほどの怪物が出現している。以前、ジュピターに行った時にバーラーと呼ばれるものを見たことがある。邪悪で危険な奴らさ。あと、奴らはいくつかのトリックを持っているから、軽視できない。自分の強さを逆手に取り、装備が壊れてボロボロになったところで、歯で喉を引き裂こうと近づいてくるんだよ。</text>
+  </string>
+  <string id="dm_information_410">
+    <text>ある時、ヤンターのインテリどもから仕事を請け負った。アグロプロムの地下に潜り、金庫から書類を盗むという簡単なものだった。トンネルは静かだった。トンネルがあらゆる面で俺たちの背後を守ってくれたし、安全に金庫も開けられた。ボロンというベラルーシ人を外側の部屋に残し、俺たちは書類のある内側の部屋に行った。5分後、必要なものを見つけて戻ってくると、ヴォロンは跡形もなく、手掛かりもなく、何もなくなっていた。彼は俺たちから10フィート離れた壁の向こう側にいたはずだが、俺たちは物音ひとつ聞かず、何も目にしなかった。彼は忽然と姿を消してしまったのさ。俺に言わせれば、誘拐されたんだと思う。ゾーンが静かになったら、緊張感を持つべきだ。</text>
+  </string>
+  <string id="dm_information_411">
+    <text>デッド シティーからヤンターまでの長い静かな道ほど嫌いな場所はない。むしろレーダー施設を散策してみたいと思う。市街地から1キロほど南に行くと、自分のしゃがんだ足音以外、何の音も聞こえないことに気づく。そこは常に暗く、晴れた空に輝く太陽でさえ、その灰色の荒涼とした空間を照らすには不十分だ。何か大きなものが自分を見ているのではないかと、頭の中で警鐘が鳴るのは言うまでもない。そして、ミラクル マシンのある工場を通過しなければならないが、その忌まわしい機械がたまたま停止していたとしても、本当に良くない場所さ。俺はこれからも迂回する。</text>
+  </string>
+  <string id="dm_information_412">
+    <text>外部の人間とはあまり仲良くしない方がいいぞ。いつ次の仕事を任されるかわからないからな。</text>
+  </string>
+  <string id="dm_information_413">
+    <text>昔は違っていた。その昔、俺たちは様々な外部の支援者に雇われ、小さな仕事をこなしていた。たいていは、特別なアーティファクトや研究文書を探している人や、個人的な収集物のために2、3の化け物を探している人なんかさ。俺たちはかつて突入チームだった。侵入して前哨基地を設置し、仕事を終わらせてすぐに出て行く。それが今ではすっかり変わってしまった。ダッシュマンがゾーン内のすべてのMercenaryを、厳格な支配階級のもとに恒久的な基地として形成することを決定したため、私的なチームはゾーンから押しやられるか、殺されてしまったのだ。問題点はそれだけだろうか？何か特別なものを探している強大な雇い主が外部にいるのではないか？俺たちはダッシュマンのために働いているのか、それとも他の誰かのために働いているのか。話すのはこれぐらいにしておく。</text>
+  </string>
+  <string id="dm_information_414">
+    <text>お前だって解放感がないと気が狂いそうになるだろ。ほとんどの男が飲みに行くが、それはいいことなのかもしれない。そうしないと、意味もなく浪費する相手を探すようになってしまう。例えば、陽気なバーテンダーのアスランは、ここに来たばかりの頃、本物の狂人だと評判になっていた。彼に逆らわなければ溝に落ちてしまうとか。さすがに、そのころからすれば落ち着いてきたが、今でもかなり秘密主義なところがある。しかし、最近の彼はどうやって興奮しているのか、それは答えない方がいい質問かもしれない。</text>
+  </string>
+  <string id="dm_information_415">
+    <text>レオパードは、俺たちがデッド シティーを本拠地とする以前からデッド シティーにいて、数年前にゾーンに入ってからはずっと彼の住処だった。彼はほとんどデッド シティーにいて、何かのためにトンネルや地下室を探し回っていたが、それが何かは明かさなかった。俺たちと同じように、彼もスポーツセンターを隠れ家に選んだが、なぜかデッド シティーの中では数少ない良心的な場所なのさ。彼が一人で、朝の街の広場を眺めながら、静かにタバコを吸っている姿を想像できるか？</text>
+  </string>
+  <string id="dm_information_416">
+    <text>もう何年も前にゾーンを去った老人を知っているが、彼はおそらく俺が出会った中で、最もたくましいストーカーだった。彼は元々、シールズの人材発掘担当で、世界中のクソみたいな場所で自給自足の生活をしていたんだが、ここに一番クソみたいな場所があると聞いてやってきたのさ。あのイカれた野郎は荒野で独り暮らしをしていて、ミュータントの肉を収穫したり、アノマリーや放射線の経路を調べたりしていた。あの男はアーティファクトや理想主義などどうでもよく、ただ何かに挑戦したかったのだ。</text>
+  </string>
+  <string id="dm_information_417">
+    <text>ここでは、死を見つける方法が約6,000通りあり、常に新しいものが発明されているということを教えてやろう。数日前の夜、俺たちの作戦部隊が、空から聞こえてくる笛のような音で起こされた。夜が更けるにつれ、その音は次第に大きくなり、痛みを抑えるために耳を塞いでいた。日が昇る頃には、それはなくなっていたが、話はそれだけではない。俺たち4人のうち3人は、脳動脈瘤のために死んじまった。守るべきルールに従ってたのに、ゾーンに消えてしまったのさ。</text>
+  </string>
+  <string id="dm_information_418">
+    <text>この作戦は他の作戦とは違う。ここはモスル（イラクの都市）でも、グロズヌイ（チェチェン共和国の首都）でも、シエラレオネ（西アフリカの国）でもない。ここには市民はいないし、友好的な縄張りでもないし、後方支援もない。新天地では、先住民がお前の死を望んでいる。野生動物や自然界の法則までもがだ。ゾーンは俺たちを必要としていない。だから目を覚ませ。</text>
+  </string>
+  <string id="dm_information_419">
+    <text>俺は何年も前から、この環境に武装を合わせる必要があると言ってきた。派手なライフルや軽機関銃、自動ショットガンについてはいいとしても、それを台無しにしやがるキメラの野郎の場合はどうなんだ？ここはゾーンなんだ。ジュネーブ条約もハーグ条約もないのに、何が問題だっていうんだ？第一次世界大戦の復活はどうだ？各遠征隊に火炎放射器と毒ガスを配備する。これで化け物を寄せ付けないだろう。白リン弾はどうだ？ゾーンに対して手を抜くのはやめようぜ。</text>
+  </string>
+  <string id="dm_information_420">
+    <text>Militaryの訓練は、冷静さや警戒心を保つのに役立つが、それだけではゾーンに通用しない。屈強なスペツナズでも、ゾーンを甘く見て命を落とした奴らはたくさんいる。一方で、伝説的なストーカーたちの多くは、漁師、電気技師、軽犯罪者などの無名の奴らだ。経験だと言う人もいれば、生まれつきの本能だと言う人もいる。俺が知っている唯一のことは、ここではすべてのルールが異なるということだ。</text>
+  </string>
+  <string id="dm_information_421">
+    <text>フランスの野郎どもは酔うと歌えるんだな。少しは眠ったらどうだ？ロシア語も下手くそだし、日数をかけて言葉を覚えればいいのに。ああ、地獄だ。彼らがおおよそでいいから物事を把握していればいい。俺は奴らが中国語で話してくれても構わない。ところで、おまえはなんて言ってるんだ？</text>
+  </string>
+  <string id="dm_information_422">
+    <text>今では、より良い仕組みになっている。雇い主が自分たちのチームをゾーンに派遣していた頃は、彼らは組織化されておらず、雇い主自身や他のゾーンの住人から、ねじ伏せられることをほとんど防げなかった。今では、ゾーン内での仕事はすべてダッシュマンに依頼することになっていて、ダッシュマンは価格交渉やゾーン内の警備を担当してくれている。しかし、外部の組織がこれを回避しようとすることもある。昨年、アスランはイスラエル人の小チームが再生技術を持ってゾーンを出ようとしたところを捕らえた。奴らのPDAの中に、奴らに資金を提供していた製薬会社とのやり取りがあるのを発見した。俺たちは奴らに非常に明確なメッセージを送りました。奴らがここで仕事をしたいなら、俺たちにお金を払うか、あるいは地獄に落ちるかのどちらかだ。</text>
+  </string>
+  <string id="dm_information_423">
+    <text>通信が途絶えたとき、俺たちはグリフィンのチームが全滅したと思った。スペツナズ軍を発見したという話を聞いたが、その後は音沙汰なかった。当然、死んだものと思っていた。それから数ヶ月後、俺たちのチームの1つが、負傷したスードウジャイアントを追ってプリピャチ郊外に辿り着いた。すると、なんとグリフィンのチームが書店で生きていたんだ。彼らは自分たちの状況を説明したが、ダッシュマンはまだ怒っている。手ぶらで帰ってきても、ダッシュマンに怒られるのは目に見えているからだ。プリピャチ郊外の前哨基地は自分たちの指揮下にあるが、ダッシュマンには忠誠を誓っているという、一種の睨み合いの状態だ。このままではいけない、何か衝突が起きるかもな。</text>
+  </string>
+  <string id="dm_information_424">
+    <text>時には、厄介な場所へのガイドとして、ストーカーたちを雇う価値もある。ただし、人に見られては困る何かを彼らに見られたら、彼らを始末しなければならないことを忘れるな。</text>
+  </string>
+  <string id="dm_information_425">
+    <text>他の場所で任務を開始するためには、安全な活動拠点を確保する必要がある。だからダッシュマンは、自分の許可なしにデッド シティーに近づく人間を、とても被害妄想的に見ているのだ。スパイ活動をして捕まったBanditのクソどもが人差し指を切られたのもそのためだ。他にも･･････音信不通の奴らがいる。</text>
+  </string>
+  <string id="dm_information_426">
+    <text>報酬のお金をどう使うのか？もう外の世界を想像することもできない。愛しのダーチャ、女の子、お酒･･････以前のような魅力はない。これがゾーンでの今の現実なんだと感じる。もう、ここから出ることはないだろうな。</text>
+  </string>
+  <string id="dm_information_427">
+    <text>今のゾーンは、ここ最近の記憶の中でも最大のチャンスだ。アーティファクトの発見などの話ではない。つまり、ここが新しい国家の始まりになる可能性があるということさ。それも、物事の進め方を知っている有能な人間が治める国家だ。俺はこれまでいくつかの暴動を見てきたが、ゾーンは違う。ゼロから始めるには十分な無法地帯と無秩序が存在する。いいことに、ここでは弱者や役立たずが淘汰されるから、彼らに悩まされることもない。俺たちが対処しなければならないのは、すでにここにある小さな小さな派閥だけだが、俺たちが対処できないとは思うなよ。俺たちが本当に懸念しているのは、Monolithだ。連中は本当の意味で「命令をする」ことができるからな。</text>
+  </string>
+  <string id="dm_information_428">
+    <text>俺はそこにいない奴の顔が見える。ああ、陳腐な表現だが、そういうことなんだ。12倍の光学機器で攻撃目標を見ていると、顔のすべての表情、すべてのまばたきを見ることができる。そして、引き金を引くと、その顔が死に、目の奥で何が起こっているかを読み取ることができるのだ。マスクをしていてもだ。奴らにはまだ「顔」があり、それはお前の脳にも刷り込まる。奴らはお前の夢の中で顔となり、ガラスの目とゴムの口は苦痛と混乱の表情に自らを歪る。ああ、なんてことだ、もうどっか行けよ。</text>
+  </string>
+  <string id="dm_information_429">
+    <text>サージャンは銃の道をあきらめたが、俺にとっては、ゲンコツを持った兵士10人分の価値がある。彼はほぼ死ぬような人でも蘇らせることができる。ある時、彼は胸郭から1メートルもの鉄筋が突き出ている男を救った。「ポルターガイスト」がそれを右肺に埋め込んだのだ。1人による3時間の手術後、そのMercenaryの容体は安定していた。あの人は奇跡を起こす人だ！面白いことに、誰も彼のことを知らない。かつて彼がジュピターの近くに駐留していたという噂はあったが、確かなことは誰も知らないのだ。</text>
+  </string>
+  <string id="dm_information_430">
+    <text>古典的な話だが、繰り返す価値がある。そして、それはデタラメではないかもしれない。あるMercenaryが日没時に大規模工場の南のどこかにいて、巨大な重力的アノマリーを回避したところだった。彼らは工場の車庫のようなものを見つけ、一晩身を隠すことにした。錆びた大きなドアを開けると、建物の中は真っ暗、本当に真っ暗。懐中電灯をつけると、そこにはキメラの顔があった。照明を持っていた男は振り向く暇もなく、襲われてズタズタにされ、仲間は慌てて銃を撃ち、それぞれの方向に逃げていった。やがて一人になった彼は、古いガスタンクの後ろに隠れた。彼は待って、待って、彼はアレが近づいてくるのを聞いて、自分にはチャンスがないことを知った。ミュータントが角を曲がると･･････彼を見つけ･･････どこからともなく装甲兵員輸送車が突っ込んできてキメラに激突した。そして夕日の中を走り去っていった。なんだ、信じないのか？</text>
+  </string>
+  <string id="dm_information_431">
+    <text>ベクターというのは、廃棄物処理場で、その地域のチームに物資を供給する役割を担っている男だ。奴もまた最低の男だ。返して欲しいものがあっても、あいつには何も貸すな。奴が言うアノマリー経路の話も信用してはいけない、あの野郎は実際に誰かを殺そうとしていると俺は確信している。コリンの方がよっぽどいい情報源だ。</text>
+  </string>
+  <string id="dm_information_432">
+    <text>「ボア」はシャレにならん。その証拠に俺の足全体にははっきりとした傷跡がある。工場や町から離れた田舎で見かける奴らは、たいてい遠くで草を食んでいるだけで、気にも留めない。そして突然、600ポンドもの怒れるミュータントの角と蹄を持って、何の前触れもなくお前の目の前に現れるのさ。爆破トラップに誘導するのが一般的だが、逃げ出られる見込みがあれば遠くから狙撃することもできる。</text>
+  </string>
+  <string id="dm_information_433">
+    <text>全部がクソだ。それはそうだ。俺はかつてシリアでヘリを飛ばしていた。今は、実験的な電磁兵器を持った精神病患者の逃亡を見守るために、何キロもの放射線に汚染された地獄のような場所で、沢山の重い荷物を運搬している。もしくは、あれは念力を持った怒れる遺伝子実験患者かもしれない。早くここから出たいね。</text>
+  </string>
+  <string id="dm_information_434">
+    <text>アスランは以前、俺や他の諜報員を潜入部隊のようにして、他の派閥に潜入させていたが、しばらくすると連中に「MIA」と報告されから、ゾーンから姿を消した。俺たちは、ゾーン内の他のすべての人間を監視したいと思っている。奴らが思っている以上に、俺たちは奴らのことを知っているのさ。</text>
+  </string>
+  <string id="dm_information_435">
+    <text>訓練も組織も計画もない、いわゆる「フリーのストーカー」ほど哀れなものはない･･････。彼らはいつも格好の標的だが、たいていは俺たちよりも先に、ゾーンの他の奴らが彼らを捕まえる。</text>
+  </string>
+  <string id="dm_information_436">
+    <text>Banditは、地図を見ても自分の居場所を見つけられないような完全なクズだが、俺たちの活動の中では役に立つこともある。Lonerたちから略奪した品々と引き換えに、装備品や軍需品を売ることもある。</text>
+  </string>
+  <string id="dm_information_437">
+    <text>ホグは陸軍倉庫でFreedomの連中と仲良くしていたし、今でも時々取引をしている。自分としては、あの馬鹿なジャンキーどもは生きている価値がないと思っている。あの間抜けどもを永久に黙らせることができたら、どんなに楽しいだろうか。</text>
+  </string>
+  <string id="dm_information_438">
+    <text>俺たちは、あのインテリどもと、長くて複雑な付き合いをしてきた。ある時はMilitaryが壊滅した時に保護したり、ある時は彼らから無許可でゾーンの調査に行かされたり、ある時は彼らの面倒を見てくれるうちの仲間たちを新たにあてがったりした。ブラックのチームがどうなったかお前は知っているかもしれないが、それは昔の話だ。最近、俺たちは休戦協定を結んだと思っているが、もはや誰にもわからない。</text>
+  </string>
+  <string id="dm_information_439">
+    <text>あのMilitaryどもは本当にダメだ。連中の指揮系統は愚かで貪欲な傲慢さに満ちている。もし、俺たちがゾーンからストーカーを排除するために雇われていたら、事態は違ったものになっていたかもしない。もっとも、Militaryの中には優秀な人材もいて、何人かはこちら側についたこともあるようだ。</text>
+  </string>
+  <string id="dm_information_440">
+    <text>常識的なルールに従えばいいんだよ。アホな替え玉からアーティファクトを奪えばいいってのに、なぜ危険を冒してまでアノマリーに入りやがんだ？間抜けなLonerが撃つのを待たず、チャンスを逃す前に撃ち殺してやりゃいい。相棒だろうが膝蹴りを食らわせて自分は逃げりゃいいのに、なぜ犬の群れに食われるんだ？これが現実の世界ってやつだ。正真正銘のな。</text>
+  </string>
+  <string id="dm_information_441">
+    <text>スキンヘッドのバケモノが心をかき乱すのを見たことがあるか？そいつを「コントローラー」と呼ぶヤツもいるが、オレは腰抜けと呼んでいる。ヤツらの脳みそに弾丸ブチ込んでやると、アイツはそれほどタフでもねえぞ。何か問題でもあるのか？この弱虫野郎。オレは何人もぶっ殺してきた。そこらにいる本物の兵士にでも聞けよ。</text>
+  </string>
+  <string id="dm_information_442">
+    <text>オレ様は世界的に見ても非常にデキる男だったんだぜ。そうさ、地元の警察、内務省、さらにインターポールのヤツらまでもがオレ様の周りでは日和ってやがった。今のオレ様を見てみろよ。オメエも想像できるだろうが、日中勤務のブタどもや高慢なスパイどもは、ここに入ろうとすらしねえよな？</text>
+  </string>
+  <string id="dm_information_443">
+    <text>オレのオヤジは若い頃、基地にいたんだが、自分から名乗りを上げて、誰からも嫌な顔をされず、他人から欲しいものを手に入れてたんだとよ。当時はニックネームもあったんだぜ？間抜けなヤツらを逆手に取っていたから「リスト」って呼ばれてたな。オヤジにはいつも殴られてばっかしだったが、今では感謝してんだ。必要なことをすべて教えてくれたからな。</text>
+  </string>
+  <string id="dm_information_444">
+    <text>ゾーン全体が秩序を求めている、だろ？誰がヤツらに秩序を与えるのか？Lonerどもはつまらないし、Militaryどもは冗談みたいなものだし、Dutyだ？笑わせるなよ。こんな精神病棟みたいなところに秩序を与えることができるのは、オレらとMonolithの狂人どもだけだ。まあ、Monolithのヤツらが作る秩序なんぞ見たいとは思わねえがな。</text>
+  </string>
+  <string id="dm_information_445">
+    <text>まあ、ちょっと変な話だ。ある夜、誰もいねえトラック墓地の南側でタバコを吸っていた。そしたら、南のどこかでエンジン音が聞こえてきやがった。「このトラックは50年前に錆びてしちまったんだ」と思っていたが、そこにあったのさ。しかも動いていて、まるで誰かが運転しているような音だった。そうだ、もし誰かが自分の動く車を隠したいと思ったら、トラック墓地が一番いい場所なんだな。あるいは、ゾーンがまたオレらの頭を混乱させているのかもしれねえ。</text>
+  </string>
+  <string id="dm_information_446">
+    <text>オレがオメエだったら、待ち伏せする前に何かを買っておくぜ。ウォッカもいいけどよお、気合を入れるにゃあ、コークを飲むのが一番だよなあ。アタマもキマってやりやすくなるし、ちゃちい怪我も気にならねえ。</text>
+  </string>
+  <string id="dm_information_447">
+    <text>ストーカーどもは何を見つけてくるかわかったもんじゃねえ。以前、高級腕時計だけを何百個も持っている野郎がいた！オレらはそいつのブツで楽しい時間ってやつを過ごしたのさ。オレなんてまだ二日酔いだ。</text>
+  </string>
+  <string id="dm_information_448">
+    <text>おい、タダではやらねえぞ。チップが欲しけりゃ、邪魔するな。オメエが誰だろうと構わねえ、ブラインド ドッグみたいにぶっ殺してやる。</text>
+  </string>
+  <string id="dm_information_449">
+    <text>ヤロ ノーズを知ってるか？アイツはオレらの仲間だった。アイツは軟弱になってMilitaryの腰抜けどもに密告し始めた。それを知ったスルタンは、アイツのために特別なものを用意した。アイツの足と腕を縛って 泣きわめくスマキにして･･････それからアイツを暗い地下室に入れて、仕掛け扉を閉じたのさ。しかも、地下室には誰もいなかった。翌日、地下室を開けてみると、ヤロの様子が変だった。12人の飢えたトシュカノの仕業さ。密告するとどうなるかを若造どもに示するため、しばらくの間、アイツの死体を吊るしておいた。</text>
+  </string>
+  <string id="dm_information_450">
+    <text>スルタンは上に行ったり下に行ったりしてっけどよ、誰もヤツを完全に下に置くことはできねえ。かつては、ヤツがゾーンを仕切る日が来ると言われていた。しかし、ヤツがダーク バレーに就任してから、他に出世したボスはいねえ･･････いや、一人か二人はいた。しかし、今では誰もシシャクの名を覚えちゃいねえ。</text>
+  </string>
+  <string id="dm_information_451">
+    <text>ハッ、オレらはいくつかの離れ技をやってのけたんだぜ。こういう話はオメエにも役立つぞ。電気に近づきすぎて感電したLonerの死体が見つかるところ、間抜けがアーティファクトを手に入れようとする、あの場所を確認してみやがれ。そして、アイツのPDAを奪い、アイツのダチどもに、アイツを人質に取ったこと、さらに、ヤツらが持つすべての現金とグッズをよこせと伝えろ。そして、死んじまった相棒がいる場所みたいな、自分に好都合な場所で会うんだ。んで、アイツがどう死んだかを説明するメモを残しておくといいだろう。ストーカーどもを怒らせたくないだろ？</text>
+  </string>
+  <string id="dm_information_452">
+    <text>アイツらはどこにでもいるんだぜ。ミュータントに遭遇した時に生き残りたいなら、弾丸を惜しんむんじゃねえぞ。熱い銃弾をぶち込んでやっつけたと思ったら、オメエが振り向いた瞬間にジャンプして、仕返ししようとしやがる。動かなくなったところで脳を狙うのが唯一の方法だ。クソったれゾーンめ。</text>
+  </string>
+  <string id="dm_information_453">
+    <text>動く火の玉のようなものを見たことがあるか？ああ、安心するんじゃねえぞ。アイツらのパターンを理解したと思ったら、アイツらは自分の一日を台無しにすることさえある。ダチが言うには、電波やアーティファクトに惹かれるらしいぜ。オレにゃあ、よくわからねえが、なめるんじゃねえぞ。</text>
+  </string>
+  <string id="dm_information_454">
+    <text>そう、パトロールに行かされねえようにしとけよ。出かけたまんま、二度と戻ってこねえだろうからな。すっかり消えちまって誰も死体を見つけられねえか、たいていは犬に食われたり、Dutyのパトロールと出くわして銃弾を浴びた死体を見ることになる。ここでの楽しい生活ってのは、キャンプファイヤーの周りに座ってよお、輸入モンのウォッカで酔っ払うことだ。ヒーローなんてのは、知恵遅れ野郎のことだ。</text>
+  </string>
+  <string id="dm_information_455">
+    <text>Monolithの話になると、みんな小便漏らすんだよなあ。Baiditにあんな腰抜けどもがいたとはよ。Monolithなんてどうでもいいさ。オレ様が外に出された時、誰もオレ様に手を出さなかった。オレ様に手を出せば、一晩で喉を切り裂かれることが分かっていたからだ。腰抜けになってここまで来たわけじゃない。白装束のクソガキどもがオレ様に何かしかけてくるのを見てえもんだな。</text>
+  </string>
+  <string id="dm_information_456">
+    <text>ダークスケープでの休暇は格別だぜ。チェルノブイリの美しさと繁栄のすべてが見れる！魅惑的な森の中をハイキングして、夜は自然の中でキャンプするんだ。放射能汚染された「ボア」がオメエの尻を引き裂かなければ、Militaryのパトロールがオメエの尻に弾丸を撃ち込むだろうよ。</text>
+  </string>
+  <string id="dm_information_457">
+    <text>コードンは世界一の場所だぜ！考えを変えやがれ。ダチどもと一緒にタバコを吸ってれば、かわいいLonerの新入りどもが昼も夜も通り過ぎていく。ヤツらの後ろに銃を持って現れれば、ヤツらはゾーンの外から持ち込んだ新品の装備をすべて差し出す。簡単すぎるぜ！Militaryどもには気をつけねえとな。</text>
+  </string>
+  <string id="dm_information_458">
+    <text>このあたりの廃墟や、さらに恐ろしい地下の研究室に入れば、一攫千金を狙えると考えるバカがいる。おい、聞け。あそこには壊れた科学っぽいガラクタと、怒った化け物ども以外には何もねえんだ。あそこに行く気もうせるだろ。</text>
+  </string>
+  <string id="dm_information_459">
+    <text>ヤノフ駅に行ったことはあんのか？コンテナ倉庫はだいぶ厳しいぜ。特にDutyがヤノフ駅からカスどもを追い出しやがったからよお。今は、プリピャチのイカれた狂人どもに気をつけねえとな。アイツらを買収したり、脅したりできねえからよ。まったく、アイツらは本当に面倒なヤツらだ。</text>
+  </string>
+  <string id="dm_information_460">
+    <text>オレはこの辺の西部劇みたいな銃撃戦が好きじゃねえんだ。昔は新人りどもの身体検査をしたら帰していたが、今は見かけたら撃つだけだ。銃撃のリスクなしでは、まあまあの得点を出すことさえできない。</text>
+  </string>
+  <string id="dm_information_461">
+    <text>オレはこんな状況を笑っちまう。ゾーンに来て富や「新発見」を求めるバカがいるのか？金持ちになって有名になろうと思って来たのに、実際はミュータントの腹の中に直行しているような能なしだらけだ。感情的だよな。ヤツらが残したものを拾うために、オレはここで眺めてるだけさ。</text>
+  </string>
+  <string id="dm_information_462">
+    <text>オレらはかつてガベージを走り回ったもんさ。良いところだったぜ。だが、ヨーガは弱かったし、アイツがオレらにもたらしたものを見てみろ。南からはストーカーども、北にはDutyのろくでなしども、加えてMilitaryのクソどもがうろついてやがる。あの駅は今じゃあ、ほとんど誰もいねえが、前は休んだり食べたりするのにいい場所だった。</text>
+  </string>
+  <string id="dm_information_463">
+    <text>ドクロの派閥パッチをつけているほとんどのヤツらは、実際の現場を目の当たりにしたらクソを漏らすような、口うるさい小物のチンピラどもだ。オレ様は外部でいくつかのことをやってきた。政府高官や連邦刑務所の受刑者を殴ったこともあるんだぜ。くだらねえMercenaryども、ヤツらはオレ様の能力に金を払いたくなかったんだとさ、お気の毒なこった。今、オレ様はここで、無力な老婆の財布を盗むことしかできないような、だらしない低俗なヤツらを見守っている。</text>
+  </string>
+  <string id="dm_information_464">
+    <text>ゾーンでは、千回やっても千回目でダメになるという逆転の発想がある。オレらはダークスケープ周辺の森の中で、ひとりのLonerを捕まえたんだよ。ただ、その男は銃を持ってねえし、口を閉じてやがった。オレらがその男の顔に銃を突きつけると、そいつはちょっとぎこちない感じで両手を上げた。その男の荷物を見ると、腐った食べ物とか古くて壊れた電子機器とか、ガラクタばかりだった。そこで、身代金を取ろうとしてその男を歩かせたんだが、ゾーンがオレらに抵抗しているみてえだった。何回もぶっころんで動けねえし、出口は見つからねえ上に、野生動物との戦いになっちまったんだが、これがやたらと攻撃的でよお。もう怖くなっちまって、その男に「消えろ」って言ったら、その男は何も言わねえでいなくなった。道路に出てみると、その男のスーツと道具一式が木の切り株の上に置かれてるが、誰もいねえ！あのストーカーが何者だったのかは分からないが、モノを手放すべきタイミングを知っておくべきって話さ。</text>
+  </string>
+  <string id="dm_information_465">
+    <text>スードウドッグってのは犬の格好をした精神病患者みてえなもんだ。ヤツらはただの動物なんかじゃねえ、それはわかっている。動物ってのは残酷さを楽しむものではねえが、あの怪物どもはそうなんだぜ。前に見たけどよお、ヤツらは人間を動けなくして、手足をもいで、ただ遊んでるだけさ。死ぬまでに何時間もかかったりするぜ。ヤツらの顔を見ればわかるが、ヤツらは犬よりも人間に近い。全くもってお手上げだ。</text>
+  </string>
+  <string id="dm_information_466">
+    <text>オレは「精神波の嵐」が嫌いだ。ゾーンのエミッションがひでえなと思ってたら、脳を麻痺させるような別の仕掛けでまた驚かせてきやがる。オレも頭痛に悩まされてんだが、「精神波の嵐」のすぐ前に頭痛がしやがるから、自分なりのちょっとした「警告」ってヤツなんだろうな。優しくしてくれりゃあ、オメエにも教えてやるぞ。</text>
+  </string>
+  <string id="dm_information_467">
+    <text>Banditに参加するヤツの中には、それほど悪くない野郎もいるんだぜ。ゾーンに押し込められて、自分を見失っている野郎もいる。オレらがまとまらねえと、ゾーンはオレらを噛み砕いて吐き出しちまうだろうな。</text>
+  </string>
+  <string id="dm_information_468">
+    <text>昔、ブランドというヤツを知っていたが、そいつは本物だった。ヤツに協力すれば、絶対にろくなことにならねえ。ある時、ヤツはMilitaryをおびき寄せて会合を開き、待ち伏せして殺した。あのバカは、別の情報提供者を見つけたらしい。あと、ヤツは情報ブローカーとしても活動してて、武器のスタッシュの座標と情報とを交換していた。しかし、ある日、オリビアスの武器支給品から何かをくすねているところを見つかっちまった。あのバカは、オメエと同じくらい恐ろしいオリビアスを騙せなかった。それがブランドの最後の消息だが、誰かが「エミッションの直前に外に縛り付けてやった」と言ってたな。左手の指を3本にして歩いているキレやすいゾンビがいたら、それがヤツだろうな。</text>
+  </string>
+  <string id="dm_information_469">
+    <text>グレート スワンプはクソだ。どれだけのヤツらが入ったまま出てこれないか知ってるか？何年も何年も続いている戦争だってのは言うまでもねえ。下水道でのナイフ戦みてえなもんだ。</text>
+  </string>
+  <string id="dm_information_470">
+    <text>オリビアスはかつてダークバレーのアタマだったが、スルタンがザトンから追い出されてここに現れたときは、抗争になるかと思った。ラッキーなことに、リンピドが仲を取り持って、手打ちにした。だが、本音を言えばスルタンは今、やりたい放題なのは誰が見ても間違いねえ。オリビアスは不満げだな。</text>
+  </string>
+  <string id="dm_information_471">
+    <text>同じ派閥ワッペンを付けてるからって、何か借りがあるとでも思ってのか？仲間だと思ってんのか？いざってときに逃げるためなら、オメエのケツを生け贄にしてやるよ。弾丸が飛んできても、 みんな自分のことは自分でやる。だから、無償の手助けなんて期待するなよ。</text>
+  </string>
+  <string id="dm_information_472">
+    <text>頼むから、ここでの作戦の詳細を外部の人間に話すんじゃねえぞ。頭の悪い新人が、待ち伏せ場所や取引協定のことを誰かにしゃべっちしまうと、なぜだかオレらがよく騙されるんだよ。</text>
+  </string>
+  <string id="dm_information_473">
+    <text>待ち伏せをするときは、カモにされて自分が不利にならないようにしろよ。体がバラバラになるほどじゃねえが、足を吹っ飛ばし、そいつらの仲間ごと無力化するのに十分な、小さな地雷を通り道に設置するんだよ。これで交渉が楽になっただろう？あるいは、オレみたいに、そいつらに弾丸を2発ずつ食らわせて、あとは好きなようにそいつらのブツを漁ればいいのさ。</text>
+  </string>
+  <string id="dm_information_474">
+    <text>オレらがゾーン全体を牛耳るようになる日が待ち遠しいぜ、あれこれ簡単になるだろうよ。そのほうがみんなのためにもなんだろ。「マジかよ、ゾーンに入れてやるけど、稼いだ金の半分はよこせ」ってことよ。カネを出せば、生かしておいてやる。単純さ。今みてえな状況よりはマシだろ。</text>
+  </string>
+  <string id="dm_information_475">
+    <text>大笑いしたい時は？Lonerの能なしどもが、コードンで何をしているかでも見ておけよ。ゾーンはカモだらけだが、あのアホどもほど絶望的なもんはねえ。アイツらは、あの悲しいくらい小さな隠れ家の外に出ると、ハエみえに死んじまう。</text>
+  </string>
+  <string id="dm_information_476">
+    <text>間抜けなLonerどもの目の前にアーティファクトをぶら下げれば、アイツらをどうとでも騙せるんだぜ。なんでアイツらはこんなところに来やがるんだ？どこかの国で賃金奴隷として働いた方がマシだろうに。</text>
+  </string>
+  <string id="dm_information_477">
+    <text>Mercenaryどもは、自分らの「オヤジ」が高級な武器や装備を買ってくれたから、自分らをワルだと思ってやがる。突進してくる「ボア」をナイフだけで倒してみろってんだ。それでこそ精鋭の殺し屋だと語れるだろ。</text>
+  </string>
+  <string id="dm_information_478">
+    <text>オレは、オレらがまだMilitaryのゴマスリ野郎どもを支配してねえってことに呆れちまったよ。オレらはヤツらに頻繁に賄賂を贈り、ここではオレらのやりたい放題だ。いつになったら、ヤツらはオレらを倒そうとするのをやめるんだ？ゾーンの中でヤツらに命令できるのはオレらだけだってのに。</text>
+  </string>
+  <string id="dm_information_479">
+    <text>Dutyの小僧どもは、いつもケツを叩かれているから怒っているだけさ。だから見ていて腹が立つんだよ。腰抜けどもの集まりめ。</text>
+  </string>
+  <string id="dm_information_480">
+    <text>Freedomのダチができた。アイツらはまあいいんだが、いまだに小さな道徳的ルールと人の良いクソ野郎にしがみついている。真の自由とは、やりたいことはどんなクソみたいなことでもやるってことだ。真の自由とは、オレらBanditと一緒にいることだ。なあ、あんた。</text>
+  </string>
+  <string id="dm_information_481">
+    <text>ああ、そうだ、「Clear Sky」･･････自分らの縄張りを守るだけの筋肉も持たない、小さな沼のオタマジャクシだ。どこの天才がその列車を走らせてんだ？</text>
+  </string>
+  <string id="dm_information_482">
+    <text>おい兄弟、いいものは持ってねえのか？ヤリクはどこだ？アイツにはウォッカ3本の貸しがあんのに、飲みすぎでよく覚えてちゃいねえ。</text>
+  </string>
+  <string id="dm_information_483">
+    <text>実際のことろ、オメエのボスが堅っ苦しくてつまらなそうに見える理由を教えろや？おい、冷静になれよ。</text>
+  </string>
+  <string id="dm_information_484">
+    <text>ああ、いや、オメエが自分で調べろや。オレはオメエの相棒か何かなのか？ふざけんなよ。</text>
+  </string>
+  <string id="dm_information_485">
+    <text>かつてオレはFreedomにいた。アイツらは、望むものを何でも許すほどゆるいと思っていたが、クソの役にも立たなかった。身代金を要求された囚人の一人とオレが楽しんだ時、ヤツらはオレに腹を立てやがったんだ。ヤク中のドアホ野郎が特にな。その夜、オレはその野郎とも楽しんでやったんだが、その野郎はあまりお気に召さなかったらしい。ヤツらはオレを殺すと脅し、オレを追い出した。クソッタレだな。</text>
+  </string>
+  <string id="dm_information_486">
+    <text>オレはBanditにいたが、臆病者のための組織だと気づいた。態度の悪い野郎に、命令され続けた。そういうことから逃れるために、ここに来たってのにな。オレはそいつの喉を切り裂いた。そいつの仲間どもと一緒にな。ひとりはタフで、喉から血を流しながら、本気でオレに向かってきた。オレはそこから飛び立ち、自分の道を歩み始めた。物語の時間は終わりだ、いいか？</text>
+  </string>
+  <string id="dm_information_487">
+    <text>オレは奉仕しない。ここにいる小便小僧のギャングどもに共通するのは何だろう？どいつも他の嫌なヤツに従属することを要求する。オレの主人は誰でもない。オレは何にも屈しない。これが本来の姿なんだよ。オレとオレの銃でやりたいことをやるんだ。</text>
+  </string>
+  <string id="dm_information_488">
+    <text>沼地にはクソ野郎がいる。オレは大好きさ。現実の世界では、気をつけないと草むらの中に連れ込まれて殺されるぞ。青い服を着たチンピラどもが通り過ぎるのを待って、飛び出して膝頭を撃ち抜くことを待っているようなことでは、興奮しない。そこから本当の楽しみが始まるんだ。</text>
+  </string>
+  <string id="dm_information_489">
+    <text>ハハハハ、ここではオレを見つけられないぞ。ああ、FBIはオレを外での重労働に使いたがっていた･･････アイツらは探すのをやめなかった･･････アイツらにやらせてみよう。オレの縄張りに入ってきて、何が起こるか見てやる。ここはオレの縄張りだ。誰にも邪魔はさせない。</text>
+  </string>
+  <string id="dm_information_490">
+    <text>オレはそこから逃げ出さなければならなかったんだ。デブのシドロヴィッチとならず者どもがオレを見ていた。ずっと見ていて、眠れなかった。ヤツらはただ待っていた。オレが警戒心を解くのを待っていたんだ。オレはヤツらの実験台になるつもりはない。オレはチャンスをものにするだろう。</text>
+  </string>
+  <string id="dm_information_491">
+    <text>先日、ポンプ場の近くに行ったときのこと。オレは水の中を見た。見えたのは･･････目だ。最初は数人だったが、その後、水全体が目になった。水の中に何かがあるんだよ。いいか？男たちを行方不明にする、深くて暗い何かだ。そんなものには近づくな。</text>
+  </string>
+  <string id="dm_information_492">
+    <text>Militaryのブタ野郎の鼻先で、うまく爆発させることほど美しいものはない。火柱が空に向かって上がっていく･･････まるで夕日のようだ。そして静寂が訪れる。オレはこの静けさが何よりも好きだ。ゾーンの中のクソッタレが一人減るのだから。</text>
+  </string>
+  <string id="dm_information_493">
+    <text>オレたちはゾーンの中でも最強の男たちだと思っていた。しかし、あるブラッドサッカーがいて･･････ヤツは他の連中とは違うのさ。死体をただ放置するのではなく、模様を描くように刻んでいくんだ。何か他の言語で書いているようだ。「彼は地獄にいる、次はお前だ。」オレがアンタだったら、眠らないで起きているだろうな。</text>
+  </string>
+  <string id="dm_information_494">
+    <text>いつの日か、Monolithの名前が人々を震え上がらせることはなくなるだろう。いつの日か、それはオレらだ。世の中のヤツらが心配するのはオレらのことであり、オレらが急襲して命を奪う者となるだろう。待てよ、オレらはこの場所を殺しに行くんだ。今よりもっと大きな墓場になって、オレらが王様になるんだ。</text>
+  </string>
+  <string id="dm_information_495">
+    <text>思っていたのと違うゾーン。ゾーンに入ることを決めたとき、俺は毎日のようにアーティファクトを見つけ、Banditたちと戦い、新しい道を切り開いていくことを想像していたが･･････。しかし、実際には、瞑想や雑務、些細な取引、生活のための努力などが多い。それは外の世界の生活に似ているが、寛容さに欠ける。明日になれば、それも変わるかもしれない。</text>
+  </string>
+  <string id="dm_information_496">
+    <text>科学者や経験豊富なストーカーたちの話を聞いていると、ゾーンはどうなるのか、次はどうなるのか、ということについて、それぞれの考えがある。誰も想定していないことですが、もしゾーンが静かに消えてしまったらどうだろうか。ある日突然、アーティファクトがなくなり、ミュータントが絶滅し、Monolithが崩壊して、アノマリーが消えていく･･････。俺はそれを希望的観測とは思わない。なぜなら、ゾーンは根本的に予想外な性質を持っているからだ。もっと予想外なものなんて、存在するだろうか？</text>
+  </string>
+  <string id="dm_information_497">
+    <text>ゾーンには、人々が思っている以上に不思議なものが存在し、科学的に整然と分類できないものがある。ゾーンの中の閑静な場所を移動していると、どこかに行きたいところが見えてくることがある。そして、立ち止まってしまうのさ。そこには何もないのに。そこにはお前を引き止めるものは何もなく、お前の意志を打ち砕く圧倒的な力が存在する。たとえ死から逃れたとしても、そんな方法を取ることはできない。こういう経験をしたのは俺だけではないだろう。</text>
+  </string>
+  <string id="dm_information_498">
+    <text>先日、とても珍しいものを見た。目の前の道を照準器で覗いていると、明らかにゾンビと思われる何かが、ふらふらと歩いているのが見えたのだが、その何かは見たこともないようなおかしな格好をしていた。忍び寄ってみると、確かに彼はとても古い感じの環境スーツを着ていて、背中には「ISG」とプリントされていた。骨董品だ！置いておくのも申し訳ないくらいのな。</text>
+  </string>
+  <string id="dm_information_499">
+    <text>変な質問だけど、ここに小さな子供を連れた奴なんているか？そんなの見たことあるか？夕暮れ時に、あるストーカーが道を歩いているのを見たんだけど、確かに小さな子供と手でつないでいた。いったい何なんだ？それが何であれ、ダメだと思う。ゾーンはお前を騙そうとするんだから。</text>
+  </string>
+  <string id="dm_information_500">
+    <text>偉大なストーカーたちの最初の世代は死んでしまったが、ストレロックについては時々耳にする。光り輝く道具を持ち、常識を持たない新しい世代の奴らは、いつも同じことを繰り返している。「ガイド」って奴は、自分の能力だけでゾーンの中心に到達したんだろ。そんなことは最近では見られないよな。</text>
+  </string>
+  <string id="dm_information_501">
+    <text>頭の中で旅行の計画を立てるのは簡単さ。どこに行って、何を見つけようとか。しかし、いざ外に出てみると、そこにはゾーンが存在している。お前の行く手を巨大な「フレッシュ」の群れが阻むかもしれないし、お前が期待しているドアが完全に塞がれているかもしれない。最悪だったのは、頭の上に熱的アノマリーみたいなのが現れたことだ。俺は地面の上に顔を伏せ、背中が焼け剥がれた。なんとか丘から転がり落ちて、追い越していく一団のところまで、足を引きずって歩いた。危機一髪だった。</text>
+  </string>
+  <string id="dm_information_502">
+    <text>お前はゾーンの全てを見たと思うかもしれないが、非人間的な醜悪さみたいなものが入り込む、深い闇の穴を見つけるまで、何も見ていないようなものさ。俺はある経験をした。ゾーンの奥深くにあるマンホールの蓋の前を通りかかったとき、何か声が聞こえたような気がしたから、もしかしたら誰か閉じ込められているのではないかと思い、蓋を開けて中を覗いてみたんだ。そして真っ暗闇の中に入ると、声が聞こえてきて、俺に降りて来いと言うんだ。最初、そいつは助けを求めるふりをしていたが、金持ちになることを約束し始めた。この時点で、俺はそれが人間ではないと確信した、それは人間が話すようには話さないのさ。俺は半ば狂気のような衝動に駆られながらも、自分の身を削ってその場から逃げ出した。そこに目印になるものを落とせばよかったんだが、逃げることしか考えられなかった。</text>
+  </string>
+  <string id="dm_information_503">
+    <text>俺様のお宝の山と、勇敢で高貴なストーカーである俺様の足元に集まってくる魅力的な女たちを待ち続けているんだ。ゾーンの外側ではこんなクソみたいなデタラメが語られているんだ。そう思っちまった自分が信じられねえよ。</text>
+  </string>
+  <string id="dm_information_504">
+    <text>人を殺したいと思ったことはない。ここではそんなことにはならないだろうと思っていた。俺は冒険をするつもりだったし、ちょっとした小遣い稼ぎをするつもりだったけど、そうはならなかった。わかってるだろうけど、外の世界ではこういうことはあまり言われないよな。</text>
+  </string>
+  <string id="dm_information_505">
+    <text>ずっと考えていたことがあるんだが、ちょっと聞いてくれ。俺はゾーンの本当の原因はノウアスフィアにあると考えているんだ。また、ノウアスフィアにさらされることで、生物に奇妙な精神的影響を与えるとも考えている。例えば、少々の量を浴びると、狂ったMonolithになり、さらに浴びるとゾンビになる。別の言い方をすれば、「コントローラー」のように新たな感覚や意識を得ることができる。さて、ストレンジャーという言葉を聞いたことがあるか？これは都市伝説のようなものだが、第二次大規模エミッションの前に、ゾーンで目撃されたんだが、自由に別の姿に変わることができる人たちの噂があったらしい。それはミラクル マシンのような幻覚だと思われていたが、俺はそうは思わない。もし彼らがストーカーや被験者で、何らかの方法で自然界との完全な融合を果たしたとしたらどうだろう？気まぐれに2つの世界を行き来して、現実を変えてしまうのか？彼らに何が起こったのだろうか。</text>
+  </string>
+  <string id="dm_information_506">
+    <text>俺は友人と一緒にここに来た。俺たちは皆、同じ村で育ち、いつも何をするにも一緒だった。大学や都市部に行くのではなく、ここに来ることにしたのさ。冒険をしたかったし、誰にも邪魔されないチャンスのある土地を想像していたんだ･･････。みんな死んでしまった。マトヴェイは先週死んだよ、スノークに内臓をやられたんだ。だから俺はここにいて、友人たちのために生き続けている。</text>
+  </string>
+  <string id="dm_information_507">
+    <text>RFラジオを数日聞いていると、ゾーンでは、生存報告、援助要請、クソ話などが生き生きと聞こえてくる。そして、よくわからない奇妙なものも聞こえたりする。Monolithの信号みたいなものも時々聞こえてくるような気がするんだ。</text>
+  </string>
+  <string id="dm_information_508">
+    <text>意外に思われるかもしれないが、俺はここに長く滞在している。俺は、まだ目の輝いていた新人だったころ、Banditに捕まって奴隷として売られてしまった。そして、宝箱のように埋まっていると思われるアーティファクトを掘る仕事をさせられたのさ。放射線を浴びて飢えていた俺はそれで死にかけていたが、突然、別のLonerの部隊によって解放されたんだ。そのときの傷跡はずっと残っていて、あの時のことは絶対に忘れない。</text>
+  </string>
+  <string id="dm_information_509">
+    <text>仲間がある夜、ジュピター大規模工場の南側で「死のトラック」を見たと言っていた。悪いニュースだ！もう何年もそんな話は聞いていないが、ストーカーはその話をするとキャンプファイヤーの周りで静かになるものだ。いつも同じ質問をされる。誰が運転しているのか？どこへ行くのか？何をしようとしているのか？あるいは、俺の友人がプーチンカ ウォッカを飲み過ぎただけかもしれないけどな。</text>
+  </string>
+  <string id="dm_information_510">
+    <text>夜になったら、自分が何をしているのかよくわかっていないのに、野外に出るのは絶対に避けるんだ。そのためには、安全な場所、できれば友好的な野営地にいることが大切である。ゾーンの屋外のどこかで眠りにつこうなんて考えてはいけない。モンスターがお前を食べようとして、お前が眠りにつくのを待っているかもしれない。絶対にダメだ。</text>
+  </string>
+  <string id="dm_information_511">
+    <text>俺が本当に話さなければならないのは、俺のかつての仲間であるドブリナ アローというストーカーのことだ。彼は完全な狂人で、一人で何日もかけて危険なミュータントを狩ったり、アノマリー領域で小石程度のアーティファクトを発見したり･･････。彼は何も恐れず、特別な幸運も持っていた。ある日、彼はジュピター大規模工場に行くことを思いついた。彼は、ゾーンで一番の金持ちになれる魔法の球体みたいなものを聞いたと言った。俺は彼を説得できなかった。彼は一人で行くと言って、俺を工場の門の前に置いていき、もうすぐ金持ちになれると自慢した。それが、彼の最後の姿だった。まあ、彼は出て行くにしても、戦いながら出て行ったけどな。</text>
+  </string>
+  <string id="dm_information_512">
+    <text>ゾーンの中にいるということは、活火山の上に座っているようなものだ。次に何をするのか、いつ何をするのか、全く分からないのさ。Ecologistでさえ、エミッションを予測できないのだから。ある晴れた日の朝、ゾーンで突然、大爆発が起こり、全人口が一掃されてしまうかもしれない。以前にも同じようなことがあったのではないか？俺が言いたいのは、一日一日を最後の日のように過ごすべきだということだ。</text>
+  </string>
+  <string id="dm_information_513">
+    <text>これ以上、バカな新人が「願望機のところに行ったら何を願うか」と話しているのを耳にしたら、俺は切れちまいそうだ。髭の剃り方も知らないガキどもが、本当に発電所にたどり着けると思っているのか？願望機など存在しない、ゾーンには不幸と苦痛に満ちた死が待っていると理解した時、あいつらは突然クソみたいに目覚めるだろう。踏み切り板アノマリーの餌食にならずにガベージまだたどり着けたとしたら、驚きだな。</text>
+  </string>
+  <string id="dm_information_514">
+    <text>残念なことに、ゾーンは重度の知的障害を持つ人たちにとって、大きな魅力となっている。彼らは、ゾーンの噂を聞きつけてやってきて、現金を貯めて国境で密入国者に支払い、そのまま放置されてしまうんだ。LonerやBanditが奇人として引き取ってくれることもあるが、たまたま通りかかった危険なものに食われてしまうことが多いのさ。実に悲しいことだ。</text>
+  </string>
+  <string id="dm_information_515">
+    <text>昔の人から聞いた話だが、ストーカーがどこに行けるか、どの地域に行けるかは、アノマリーの塊がほぼ制御しているそうだ。10年前、バーはアノマリー領域の壁によってゾーンの他の部分から切り離されていたことを知っているか。しかし、それだけではない。俺の情報源によれば、ゾーンの大部分は、秘密の道を知っている一部の専門家のガイド役を除いては、これが原因で行き来できないという。想像してみろ。明日、新しいゾーンが開かれるかもしれないし、閉ざされるかもしれない。もし、チェルノブイリの北側からアクセスできたらと考えてみろ。危険を回避して本当の宝物を手に入れることができるぜ。</text>
+  </string>
+  <string id="dm_information_516">
+    <text>ゾーンには、さまざまなタイプの無関係なストーカーがいる。俺がゾーンに入ったばかりの頃、俺は探知機を必要としていましたが、シドロヴィッチの野郎は私に面倒な手続きをさせようとした。それで、いろいろな人に聞いてみたところ、経験豊富なLonerがいて、親切そうで、予備の探知機を持っている人を知っていて、安く譲ってくれるという。彼から、ガベージの中にある小さな渓谷でその人に会うことと、現金を持ってくることを伝えられ、俺は同意した。もう少しでその場所に着きそうなころ、嫌な予感がして、幸運にも自分の直感を信じることにして、すぐ近くの廃棄物の後ろに隠れた。正解だった。1時間後、重装備の4人のストーカーが峡谷から出てきたんだ。あの日、何が俺を救ってくれたのかはわからないが、会う人すべてを信用してはいけない。</text>
+  </string>
+  <string id="dm_information_517">
+    <text>ある時、俺はゾーンで迷子になってしまった。俺は他の経験の浅いストーカーたちとグループを作っていたんが、自分たちだけで出かけることにした。慣れ親しんだ道ではなく、あえて人のいない不気味な道を選んだが、それも慎重に行った。バーを出発して5日後、俺たちは完全に道を失い、方向感覚を失っていた。PDAも故障していたし、もしかしたら空間アノマリーみたいなものをいくつか通ったのかもしれない。とにかく、今まで聞いたことがないような光景を目にした。完成しかけのタンカー船があるドックヤード、黒い湖の真ん中にある森の島、何キロにもわたって続く倉庫などだ。ある日、俺たちは自分たちがなぜかザトンに来てしまったことに気づいた。アノマリーに迷い込んだ一人を除いて、全員が戻ってきた。金持ちになれたわけではなかったが、生きていることに感謝した。</text>
+  </string>
+  <string id="dm_information_518">
+    <text>ゾーンは宇宙人の仕業だと信じているドイツ人のストーカーたちにも会った。ここは相当に奇妙な場所だろ？エックス ファイルのようなものを持ち込む必要があるのかな？</text>
+  </string>
+  <string id="dm_information_519">
+    <text>俺たちはこの場所に夢中になっていて、何が足りないのか気づかない。俺はゾーンの片隅でスタッシュを探していたのだが、古い朽ち果てた納屋にたどり着き、地下にトンネルのようなものを発見した。それをずっと辿っていくと、最後に隠しドアがあって、そこから草原が広がっていたんだ。周りを見渡すと、風や鳥のさえずり、静けさなど、今までとは違う感覚があった。そして気づいた･･････。ゾーンの外に出たのだ！フェンスのすぐ下にトンネルがあった。俺は草むらに座り、新鮮な空気を吸いながら、久しぶりに幸せな気持ちになった。そして、車の音が聞こえてきたので、トンネルに戻ってきたのさ。その時、俺は「出来るだけ早く、ここから出よう！」と決心した。</text>
+  </string>
+  <string id="dm_information_520">
+    <text>ここで自分の死が見つかる日を待っている。友達や仲間がみんな死んでいくのを見てきたから、もうすぐ自分の番が来るんだと思っている。ゾーンでやりたいことは全部やったし、見たいものは全部見た･･････。怖くはない。ただ、自分がもうすぐ死ぬのだと確信している。死を警戒していても、予期せぬところで死はやってくるものだ。</text>
+  </string>
+  <string id="dm_information_521">
+    <text>俺の話を聞きたいか？俺の兄はゾーンに入って半年後に亡くなった。兄は、貴重なアーティファクトを大量に蓄えているから、できれば手に入れて欲しいというメッセージを俺に伝えてきたのさ。俺はゾーンに入るのは好きではなかったが、家の事情もあったし、思い切って行くことにした。それが2年前のことだ。まだ探しているんだよね。いや、言っておくが、一生見つからないとは思ってる。</text>
+  </string>
+  <string id="dm_information_522">
+    <text>ヤノフ駅のストーカーが、あるアーティファクト ハンターの話をしていた。彼はある特別なアーティファクトを見つけたのだが、そのアーティファクトに最初に触れたとき、彼の聴覚を奪ってしまったのだという。そいつは完全に耳が聞こえなくなった！インテリどもはそれに大金を払ったらしいが、俺には不当な取引にしか聞こえなかった。</text>
+  </string>
+  <string id="dm_information_523">
+    <text>最近のストーカーは、防弾チョッキを着たり、現金がなくてもコートに金属板を縫い付けたりしているらしい。ゾーンって、そんなに戦場だっけか？</text>
+  </string>
+  <string id="dm_information_524">
+    <text>いつもこんなに雨が降らないと思っていたのに。この場所なら、いつもケツを濡らさずにいられるのでは？</text>
+  </string>
+  <string id="dm_information_525">
+    <text>ここでのルールは、まず警戒することだ。無駄な救助活動で死ぬのを何人見てきたと思ってるんだ？やめとけ、ここで生きていくのは大変なんだから。</text>
+  </string>
+  <string id="dm_information_526">
+    <text>昔、プリピャチを散歩する観光客みたいなものを連れてくる金持ちのバカがいた。残念なことに、俺は数年前にそんな活動に参加していて、俺は進行役として外にいた。しばらくは順調だったさ。アホな経営者や投資家のマネージャーから現金が入ってくるし、ガイド役は観光客を危険から遠ざけることに長けていた。そして、すべてが煙に巻かれた。ガイド役は血まみれで足を引きずりながら戻ってきて、目に見えない何か「ポルターガイスト」と呼ばれるものに襲われたと、後日話してくれた。それが最後で、観光客は途絶えた。</text>
+  </string>
+  <string id="dm_information_527">
+    <text>ゾーンには悪いことばかりではない。この場所を見つけたとき、俺はそこを「俺の幸運の場所」と呼んでいました。この場所に行って、大地に近いところでしばらく座っていると、頭がすっきりして、今までできなかったことが頭の中で整理できるようになった。人が何を言うかを事前に察知したり、ミュータントが多い道に気づいたり、そういったことをできるようになった。しかし、ある日突然、それができなくなった。それが何だったのかはわからないが、ゾーンからのちょっとした贈り物だったと思っている。</text>
+  </string>
+  <string id="dm_information_528">
+    <text>一日中バーで飲んでいたストーカーがいて、彼はゾーンを修復して自分の派閥を作るという、とても壮大で複雑な計画を持っていた。俺の記憶が正しければ、彼の派閥はEmergenceとかいう名前で、DutyとFreedomを両立させ、発電所への攻撃を指揮するつもりだったようだ。他にも「鉄の森」アノマリーにある秘密兵器みたいなものの話がお気に入りだったようだが、アイツは完全なキチガイだから、そこまでは調べることもないだろう。</text>
+  </string>
+  <string id="dm_information_529">
+    <text>ここから出るまでは、この場所がどれだけ自分に負担をかけているか、本当にわからない。俺は1年前、腫瘍が大きくなって医師の手に負えなくなったためにゾーンを出た。安いモーテルを見つけて鍵をかけ、熱湯のシャワーを何時間も浴び続けたんだ。俺は泣いていましたが、本当に機械的で感情のない方法で、すべてに対する物理的な反応のようなものだった。6時間くらいはそうしていたと思う。この場所は･･････自然の状態とはあまりにもかけ離れているから、お前の体は常に抵抗しているのさ。ここの普通の生活がどんなものかを知るまでは、本当に我慢するしかない。時々、戻ってきたことを本当に後悔するが･･････こんな場所はどこにもない。</text>
+  </string>
+  <string id="dm_information_530">
+    <text>Monolithの復活は憂慮すべきことではない。俺の友人に、ゾーンの奥深くまで探検に行き、普段は郊外に住んでいる人がいた。彼の話によると、Monolithは絶滅しかけているらしい。数年前、軍事作戦が失敗した直後、彼らはプリピャチまで押し戻されたのだ。ブレイン スコーチャー、ミラクル マシン、そして噂によれば願望機もすべて停止した。Monolithは加速度的に萎縮していった。その後、数年間はほとんど音沙汰がなく、彼らは永久に活動を停止したのではないかと考えられていた。そして今、彼らは影から出てきて、南の地域全体を制圧しようとしている。大きな疑問は、その静かな年月の間に何が起こったのかだ。「精神波の放射設備」は稼働を再開したのか？それとも、別の方法で続けているのだろうか？</text>
+  </string>
+  <string id="dm_information_531">
+    <text>もう人を信じることはできない。仕事で知り合った人がいたんだが、その人はとても個性的なスーツを着ていて、自分でこしらえたClear Skyのアーマーを着ていた。とにかく、長い間彼を見失ってしまい、メッセージを送っても返事がなかった。尋ねてみると、彼は奇妙な場所を訪れ、怪しい行動をしていることがわかった。ようやくアグロプロムの北部近くまでたどり着いたのだが･･････どうも様子がおかしい。彼は俺の挨拶から逃げ出し、俺は機転を利かせて彼を地面に叩きつけ、ピストルを突きつけた。彼のマスクを無理矢理剥がすと･･････それは彼ではなかった。あの下衆野郎は、彼を殺した後、彼に成りすましたのだ。奴は頼みごとをして回り、俺の友人が持っていたすべてのコネを利用し、PDAで連絡を取り、彼のふりをしていた･･････この世界は簡単ではない。</text>
+  </string>
+  <string id="dm_information_532">
+    <text>数ヶ月前、コードンにある種の病気が出現した、一種の疫病である。しばらくの間、古い農場は恐ろしい異常な症状を持つストーカーたちの病室となった。まるでハンセン病療養所だった。ある医療従事者は、自分も病気になることを承知で、そこに志願した。彼に神のご加護を。考えてみれば、その症状はハンセン病にも少し似ていた。</text>
+  </string>
+  <string id="dm_information_533">
+    <text>1年前の自分がわからないくらいだ。俺はここに来て、すべてを信じた。「ゾーンは驚異だ！」「ゾーンは天上からの贈り物で、俺たちの問題を解決してくれる！」今となっては、そんな愚かなことは考えられない。あんなことのあとでは･･････俺はもう何も信じられない。</text>
+  </string>
+  <string id="dm_information_534">
+    <text>危険を冒してまでゾーンに入ったのは、その素晴らしさを知るためであり、現金を稼げるかもしれないからだ。俺の頭の中にあるのは･･････家に帰っても家がないのではないかということさ。もしすべてがゾーンだったら？全部だよ。今がそうでないとは言い切れない。現実の世界がまだ残っているとは限らない。それが怖いんだよ</text>
+  </string>
+  <string id="dm_information_535">
+    <text>ストーカーはもうすぐ時代遅れになるかもしれない。外部からの情報によると、研究所では機械式のストーカーを研究しているそうだ。アノマリーに入ってアーティファクトを回収するための機械だ。聞くところによると、ほぼ稼働しているらしい。これがゾーンに投入されたら、ここの6つの派閥から一斉に銃撃されるだろうね。</text>
+  </string>
+  <string id="dm_information_536">
+    <text>先日、RF受信機をいじりながら散歩をしていたところ、ある種の異常な信号に気付き、葉に覆われた丘の側面にある秘密のハッチまで追跡したんだ。南京錠でしかロックされていなかったから、すぐに開けて暗い階段を降りると、箱で埋め尽くされた小さな部屋があった。箱の中には武器や爆発物が入っていた。さらに不思議なことに、箱の中にはアラビア語の文字が書かれているものもあった！ 俺の首に懸賞金がかけられたら困るから、そこは放っておくことにした。SSUは何か怪しいことをしているのではないだろうか。</text>
+  </string>
+  <string id="dm_information_537">
+    <text>ゾーンではすべての人が、殺すか殺されるかを問われる。だからこそ、ここのガンスミスは世界でもトップレベルなのだと思う。ゾーンでの仕事はクソみたいなものだが、それにもかかわらず、技術者の頭を悩ませるような素晴らしい機械的改良を施すことができるのだ。彼らがいなければ、俺たちはどうなっていただろうか？</text>
+  </string>
+  <string id="dm_information_538">
+    <text>俺たちは伝説の時代に戻ったんだよ、ストーカーよ。現代人は勇気や粘り強さを必要としないと思っていたし、機械がやってくれる間はベッドで横になっていればいいと思っていた。しかし、今は違う。ゾーンが人間の本質を目覚めさせ、俺たちは再び強くなったのだ。ストレロックや「ガイド」の話を知らない人はいないだろう。新しいモンスターを倒すために、新しいヒーローが生まれた。ペルセウスやギルガメッシュの魂が俺たちの間を歩いている。</text>
+  </string>
+  <string id="dm_information_539">
+    <text>ゾーンの夜明けも、夕暮れも。このままでは俺も死んでしまうかもしれない。俺はもうここにはいられない。武器を手入れしたり、食事をしたり、敵と戦ったり･･････どこが現実なんだ？いつ夢を見ていて、いつ目が覚めるのかわからない。人を見ても、誰なのか思い出すのが難しい。ずっと前に死んだ人も、まだ生きている人も。俺は続けなければならないし、何かに向かって努力していることはわかっている。それが何なのかは、俺にもわからない。</text>
+  </string>
+  <string id="dm_information_540">
+    <text>おい、そんなに心配しなくてもいいんじゃないか？身の毛もよだつようなひどい話を一日中してあげることもできるが、それよりも、おいしいものを食べて、ゆっくり休んで、自分の道を進んでいくのがいいと思う。みんないつかは死ぬんだからね。</text>
+  </string>
+  <string id="dm_information_541">
+    <text>噂によると、ソ連の地下には稼働するT-72の車庫があるそうだ。想像してみろよ。派閥の1つが現役の戦車を手に入れたことを！その辺にある錆びついたデカブツは、アノマリーや放射線で故障していなくても、壊されたり破壊されたりしているものばかりだ。しかし、動く戦車があれば、ここでの状況は一変する。</text>
+  </string>
+  <string id="dm_information_542">
+    <text>知ってる通り、エミッション中にドアを開けるのは決して良いことではない。誘惑に負けてはいけない。俺は以前ある声を聞いたことがある。いや、ラジオから流れてくる声ではなく、ドアを叩く声、そこにいるはずのない声だ。人里離れた場所で吹き溜まりから身を隠していると、突然、ドアを叩く声が聞こえてきたことがある。懇願する声、苦しそうに泣く声。それを信じてはいけない。全てが終わった後にドアを開けると･･････そこには何もない、死体もない。人によって様々な説があるそうだ。ある人はエミッションのただの音だと言い、ある人は心霊的なものがお前を殺そうとしていると言い、またある人は死んだストーカーの霊がドアを叩いていると言う。何にしても、絶対に心を開いてはいけない。</text>
+  </string>
+  <string id="dm_information_543">
+    <text>まあ、今はかなり厳しい状況だ。アノマリーに加えて、様々な殺人者や獣がお前の死を望んでいる。でも、すべては愛するニノチカのためなんだよ！出所した暁には彼女は大金持ちになるだろうし、痛みにも耐えられるだろう。</text>
+  </string>
+  <string id="dm_information_544">
+    <text>これらのアーティファクトは･･････俺たちのためにはならない。本質的に悪であるとか、そういうことを言いたいのではないが、正直、わからない。俺が知っているのは、それらに手を出すべきではないということだけさ。なぜなら、それはいつも俺たちの悪い性質を誘惑し、悪事に駆り立てるからだ。俺は自分の良心に従うために十分な決意をしているが、今の俺にはそういうことがあまりにも混ざりすぎている。祈ってくれよ、ストーカー。</text>
+  </string>
+  <string id="dm_information_545">
+    <text>この場所は、現代人を野蛮人に変えることがある。以前、ダークスケープの北の方で見た死体を覚えている。このストーカーは動物の毛皮を着ていて、顔には古いガスマスクをつけていただけで原始人ではなかった。手にはイノシシの槍を持っていて、まるで家の中に入ったことがないような人間に見えた。これがゾーンの姿なのだろうか。技術が枯渇した時に俺たちが直面する事態なのだろうか。</text>
+  </string>
+  <string id="dm_information_546">
+    <text>幸運な人はいる。俺はそれに該当するとは主張しない。おそらく不運なんだと思う。しかし、俺はいくつかの劇的な運命の転換点を目撃してきた。例えば、峡谷で2匹のスードウドッグに追い詰められたとき、銃身が詰まってしまったことがあった。もうダメだと思った。一歩下がると･･････回転木馬アノマリーが俺を空中に放り出し、高い棚の上に投げ出したのだ！俺はそれを見なかったし、お尻の傷も気にならなかった。運はストーカーの守護女神だが、確かに彼女は冷たい女だ。</text>
+  </string>
+  <string id="dm_information_547">
+    <text>ゾーンは単なる詐欺だと思わないか？SSU（ウクライナの情報機関）の戦略なのか？俺たちは「たまたま」国境を越えただけなのに、頭からアノマリーに飛び込んで、光り輝くアーティファクトを手にしても、すぐに盗難や売買で失ってしまうのだ。政府がそれを買い取っているとしたらどうだろう？俺たちに汚れ仕事をさせて、殺させて、彼らは座って笑っている。俺たちに何の得があるのだろう？安物のウォッカと後ろからの銃弾だ。</text>
+  </string>
+  <string id="dm_information_548">
+    <text>ストーカーの中には、ゾーンの憎悪を招くような、運の悪い人もいる。しかし、それだけではなく、時には人間的な理由で災難に見舞われる人もいる。俺はマグピーと呼ばれるクソ野郎のストーカーと知り合いだった。奴はあるアーティファクトのスタッシュについて教えてくれたが、それは素晴らしい休憩場所のようにも聞こえた。俺は何て間抜けだったんだろう。奴は俺をジュピター近くのトンネル群に閉じ込めて置き去りにしたんだ。ミュータントが生きたまま俺を食べると思ったのだ。奴は俺が持ってきた道具の一部を手に入れ、俺が消えたことを他の人に伝えに戻った。その後、俺はゾーンの別の場所に移動した。あのカス野郎は、多くの人を騙しすぎて自業自得になったと聞いた。お前も仲間のストーカーから目を離すなよ。</text>
+  </string>
+  <string id="dm_information_549">
+    <text>この神に見捨てられた廃墟で危険な旅をして、疲れ切った後には火のそばに座り、しばらく悩みを忘れることができる、そんな強力な前哨基地に勝るものはない。睡眠、食事、音楽･･････たまに強引な人もいるが、それは仕方のないことだ。ゾーンにはそういう人がたくさんいる。ちくしょう、俺は疲れた。</text>
+  </string>
+  <string id="dm_information_550">
+    <text>良いブーツを履かないと、この辺りではやっていけないだろう。いい加減な靴を履いていたらどうなるか、俺は見てきました。水や放射線、そして神のみぞ知る何かが足に入り、それが終わりの始まりとなるのさ。</text>
+  </string>
+  <string id="dm_information_551">
+    <text>ゾーンには、俺たちがまだ理解できないもの、一度や二度しか触れたことのないものがあると思う。俺はそれを見たことがある。実際に見たわけではないが、俺の前を通り過ぎていったものを感じたことがある。それは確かに生きていて、知性があった。それが何なのかさっぱりわからないし、誰も聞いたことがなかった。</text>
+  </string>
+  <string id="dm_information_552">
+    <text>プリピャチにはMonolithと戦うことだけを目的としたグループがあったと、Dutyの兵士から聞いた覚えがある。もう何年も聞いていないから、敵に殺されてしまったのだと思う。面白いのは、それが「元Monolith」によって設立されたということだ。そんなものは存在しないと思うんだけどな。</text>
+  </string>
+  <string id="dm_information_553">
+    <text>ゾーン内の秘密組織は次々と生まれては消えていき、中には悪質なものもある。解体される前の派閥「ファイナル デー」を知っている人は少ないんじゃないかな。ああ、ただの古い怪談話だよ。</text>
+  </string>
+  <string id="dm_information_554">
+    <text>「死の炎」という言葉を聞いたことがあるか？話の内容は、あるストーカーが夜のゾーンに出て、避難場所を探しているときに、遠くで寂しげな焚き火を見るけるという。焚き火のそばに行くと、そこには場違いなほど奇妙で静かなストーカーたちが座っている。旅人は眠りに落ち、朝目覚めると別の場所にいて、二度とその場所を見つけることができないらしい。少し派生した話のように聞こえるが、そういう話だ。</text>
+  </string>
+  <string id="dm_information_555">
+    <text>俺はオアシスのために来た。ああ、お前が言いたいことはわかる。現実ではないとか、時間の無駄だとか。まあ、お気の毒としか言いようがないね。少し前に、科学者たちが伝説を生み出すユニークなアーティファクトを見つけたという噂があったが、それはただのデタラメだ。本物の場所に行ったことがある人を知っている。願望機のことは忘れろ。あれはゾーンの実際の心臓部であり、その危険性はすべてを守るための中心部なのさ。</text>
+  </string>
+  <string id="dm_information_556">
+    <text>何をするにしても、願望機のために人生を台無しにしてはいけない。俺は死ぬほど苦労した。俺の心はあと一歩で失われるところだった。何よりも欲しかったのは、失った悲しみを癒すためのものだった。忘れるんだ。今すぐ忘れるんだ。その･･････その呪いを追いかけるよりも、世界と和解する方がずっと簡単だ。つまずいている人たちよく見て、自分の未来を考えてみることだ。</text>
+  </string>
+  <string id="dm_information_557">
+    <text>カネが必要だったわけではない。俺は極貧な父親ではなかったが、カネのために健康を犠牲にしてゾーンに来た。これは俺にとって挑戦であり、旅なのだ。信じてもらえないかもしれないが、俺は元々かなりの資産家だ。しかし、家も車も旅も、俺を満足させてはくれなかった。狩猟旅行や洞窟探検など、商業化されたありきたりの旅には飽き飽きしていた。ここには本物の生と死がある。</text>
+  </string>
+  <string id="dm_information_558">
+    <text>ほとんどのストーカーは情報収集に目を向けないが、本当はそうすべきなのだ。俺の場合、アーティファクト探しよりも、チェルノブイリ周辺の秘密工作に関する資料探しの方がはるかに成功している。当時のソ連の動きを知りたい人は意外と多いんだよ。しかし、取引相手には気をつけないといけないけどな。</text>
+  </string>
+  <string id="dm_information_559">
+    <text>人々は、アンタを利用できると思わない限り、アンタとは関わりたくないのさ。便利な道具、それだけだ。だよな、これ以上何も言うことはないよ。</text>
+  </string>
+  <string id="dm_information_560">
+    <text>ゾーンはそれ自体が世界であり、あらゆる種類の人間がいる。俺はアグロプロムの列車用トンネルで大人数で行動していたのだが、夜にブラッドサッカーに襲われた。トンネル内に大量の火を放ち、奴らは退散したが、まだ若い仲間の一人が地面に血を流し、胴体に大きな傷を負っていたんだ。突然、俺の側で戦っていたもう一人のストーカーが、地面に倒れている若い仲間に近づき、最後の儀式を始めたんだ。彼は司祭だったんだ！その若い仲間はゾーンにいるべきではなかったが、その一つの行動が、どういうわけかすべての状況をより耐えうるものにし、より人間的なものにした。</text>
+  </string>
+  <string id="dm_information_561">
+    <text>ある男が、自分に語りかけてくるアーティファクトについて話してくれたことがある。俺が笑い終わった後、彼は「それが俺を操って何かをさせようとし始めた」と言った。彼は結局、それをどこかの穴に捨ててしまったそうだが、それは彼の生命力か何かを糧にしていたのだと思う。俺は彼に、少し休むべきだと言った。</text>
+  </string>
+  <string id="dm_information_562">
+    <text>時には、迅速かつ暴力的な死を迎えることもある。死なずにゾーンに消えていったストーカーもいる。レッド フォレストの下の鉱山にはストーカーが住んでいて、必要に迫られて動物のようになった人もいると、みんなが言っていた。彼らは暗闇の中で暮らし、人を避け、四つん這いになっている。彼らは完全に正気を失い野生化したと、何人かが言っていた。噂から真実を切り離すのは難しいものだ。</text>
+  </string>
+  <string id="dm_information_563">
+    <text>皆、ゾーンに入って、大金持ちになるための「方法」を見つけて、そこから脱出しようと考えている。そういうわけにはいかないな。ここから出るのは難しいし、ここで利益を得るのも難しいのさ。もし、俺がこのことを知っていたら、村や家族を離れることはなかっただろう。</text>
+  </string>
+  <string id="dm_information_564">
+    <text>ここに来るまでは、何も気にせず、ただひたすらに楽しんで帰ることだけを考えていた。ある時、俺は世界の痛みと利己性、人間がいかに自給自足できないかということに目覚めた。要するに、俺はキリストに出会ったのだ。哲学が俺を導いてくれた。不変の基準、最終原因の必要性を感じた。信じてもらおうとは思っていないが、すべての背景に目的があることを知っておくんだな。</text>
+  </string>
+  <string id="dm_information_565">
+    <text>俺の失敗で死んだ男のこと以外、何も考えられない。彼はジョージア人の年寄で、本当に親切で寛大だった。彼が死んだのは俺のせいだ。この忌まわしい願望機が実在するなら、俺の願いも叶うはずだ。</text>
+  </string>
+  <string id="dm_information_566">
+    <text>従うべき「Lonerの規律」のようなものがあると主張するバカがいて、本当にうんざりしている。ない、そんなことはないよ。それが「フリー」という意味だ。だから、俺はあんたを助ける義務はないし、どんな原則にも誓うつもりはない。</text>
+  </string>
+  <string id="dm_information_567">
+    <text>誰もが自分の理論、思想、武器を持っている･･････。俺は、ミュータントを倒した後の一杯が好きなだけだ。悪くないもんだぜ。</text>
+  </string>
+  <string id="dm_information_568">
+    <text>ああ、大いなる大地に戻って、歩兵戦闘車を操縦したいと思う日がある。それほど悪くなかっただろう？今すぐにでもあれを使って、大規模工場まで真っ直ぐ走って、狂った野郎どもを殺してやりたいよ。</text>
+  </string>
+  <string id="dm_information_569">
+    <text>俺を殺そうとしている奴がいる。いや、被害妄想ではなく、事実として知っている。ゾーンには非常に多くのマニアが存在するが、その全員が白い迷彩服を着ているわけではない。俺はただ、その辺に落ちていた品物を拾って売っただけなのに、その狂人は俺に近づいてきて、自分の物を盗んだと言ってきたんだ。奴は俺を殺そうとしたが、俺は逃げた。それ以来、奴は俺を探そうとしている。俺が行くところには必ず現れて、やめようとしない。どちらかが死ぬまで、これは終わらないと思う。</text>
+  </string>
+  <string id="dm_information_570">
+    <text>俺はノアをバカにしていた。空想に生きる狂人だと思っていた。彼に命を救われるまではね。最悪のタイミングでブロウアウトの警報が鳴り出し、俺たちは沼地に取り残され、負傷してしまったんだ。ノアはどこからともなく現れ、俺たちを受け入れ、ブロウアウトやスノークの群れから守ってくれた。彼は、ここにいる誰よりも優れた人物だ。</text>
+  </string>
+  <string id="dm_information_571">
+    <text>シドロヴィッチはろくでなしだ、それは単純なことだ。しかし、アイツと同じことができる人が現れるまで、俺たちはアイツと一緒にいることになる。アイツが殺し屋と契約するのはごく普通のことだ。殺し屋自身が次の殺し屋リストに載っていることをアイツは知りながらな。アイツの死を聞いて涙を流す奴は少ないだろう。</text>
+  </string>
+  <string id="dm_information_572">
+    <text>ゾーン中心部への新しい道を開拓したいなら、バーキープが遠征費を出してくれることもある。また、長年かけて築き上げた自分の情報、たとえば地図や報告書を見てもらうこともできる。たとえ10回に1回しか成功しなくても、彼にとっては良い投資なのだ。</text>
+  </string>
+  <string id="dm_information_573">
+    <text>バーでゆっくり飲むのは最高だが、中には道を踏み外して酔っぱらってしまう人もいる。しばらくすると、バーキープは彼らを追い出してしまう。面白いことに、彼らは銃弾やモンスターやアノマリーを避けることができたが･･････輸入品のウォッカでやられてしまったのだ。</text>
+  </string>
+  <string id="dm_information_574">
+    <text>ゾーンの中心に近いところで卸売業者を探しているのであれば、ベアードを選んで間違いないだろう。ゾーン内の他のトレーダーとは異なり、ベアードは俺たちの仲間だ。彼は自分のことだけでなく、他人の利益を実際に考えてくれる。</text>
+  </string>
+  <string id="dm_information_575">
+    <text>スカドフスクは、ゾーンの中で唯一、俺がリラックスできる場所だ。ベアードは俺たちに目を配り、有益な仕事を与えてくれる。Monolithがプリピャチの中にいた頃が懐かしいが、今のザトンは危険な地域だからね。</text>
+  </string>
+  <string id="dm_information_576">
+    <text>ウルフとファナティックがいなければ、ルーキー村は消滅していただろう。新人にチャンスを与えてくれる彼らこそが、ゾーンの真のヒーローなのさ。うまくやらなきゃならないわけじゃないだろ。俺が知りたいのは、彼らがどうやってシドロヴィッチのデタラメに耐えているのかということだ。</text>
+  </string>
+  <string id="dm_information_577">
+    <text>コードンの北側の農場は、ルーキー村の前哨基地のようなものだが、シドロヴィッチとロリスの間には緊張関係がある。もちろん、シドロヴィッチは自分の縄張り内での競争に憤りを感じているが、橋の北側に取引相手がいるのは便利だと考えている。一方のロリスは、北側を通過するClear Skyのストーカーにとって必要不可欠な存在だ。</text>
+  </string>
+  <string id="dm_information_578">
+    <text>トラッパーに次いで、鉄道駅のブッチャーはゾーンで最も優れたミュータント ハンターだ。ガベージがミュータントで溢れかえっていたのを、彼が現れて一人で一掃したと聞く。</text>
+  </string>
+  <string id="dm_information_579">
+    <text>フリーマーケットのストーカーたちは、それ自体が小さな派閥のようなものだ。どうやら彼らは何年も前からあそこに拠点を置き、ガベージから出てくるガラクタを売って生活費を稼いでいるようだ。俺は彼らを完全には信用していない。</text>
+  </string>
+  <string id="dm_information_580">
+    <text>フォレスターの建物は、悪夢のようなレッド フォレストの中で唯一の安全な場所だ。彼がどうやっているのかはわからんが、ゾーンができる前からずっと旅人を避難させてきた。もし彼に会うことができたら、彼の話を聞いてみな。</text>
+  </string>
+  <string id="dm_information_581">
+    <text>ある時、俺は必死になってアリーナに入ったが、かろうじて戻ってくることができた。わずかな現金のために人生を賭けるべきではない。どうせ死ぬなら、何か大切なもののために死のう。</text>
+  </string>
+  <string id="dm_information_582">
+    <text>密告者を相手にするときは、言葉に気をつけることだ。情報を得るために金を払っているが、お前を利用して何か取引をしようとしているかもしれない。いつか、そのストーカーがちょっとやっかいな奴を怒らせてしまうかもしれない。</text>
+  </string>
+  <string id="dm_information_583">
+    <text>ニンブルのような良い商品を持っている人はいない。もしお前が高価なものを好み、特別なものを探しているなら、ぜひ彼のところに確認に行くといい。彼はゾーンのあちこちで活躍しているが、現在はスカドフスクに住んでいる。</text>
+  </string>
+  <string id="dm_information_584">
+    <text>カーダンは酒癖の悪さでザトンを去ったと聞いている。今はヤノフ駅に住んでいて、ニトロと一緒に「2人の頭脳は1人の頭脳に勝る」と考えているそうだ。チェルノブイリで良いニュースを見ることができて嬉しいよ。</text>
+  </string>
+  <string id="dm_information_585">
+    <text>コインランドリーを除けば、書店にいるMercenaryたちは郊外のもう一つの拠点だ。他のMercenaryたちと違って、彼らは親切にしてくれる。うまく頼めば、最高級の装備品を買わせてくれることもあるだろう。</text>
+  </string>
+  <string id="dm_information_586">
+    <text>ヤノフ駅のボーンセッターが、プリピャチへの道が再び開かれたことを話してくれた。精鋭のチームがジュピター地下を突破して、ギャリーが新しい経路を発見したらしいんだ。あの経路はそのままにしておくべきだったのではと思わずにはいられない･･････。</text>
+  </string>
+  <string id="dm_information_587">
+    <text>ガイド役たちは不思議な人種だ。寡黙な天才であり、芸術家であり、ゾーンのどんな場所でも見つからず、襲われずに案内してくれる。しかし、自然の中では彼らの言う通りに行動しなければならない。彼らの命令を無視するような愚かな人間は、死んでしまう。</text>
+  </string>
+  <string id="dm_information_588">
+    <text>オウェルはスカドフスクの装備販売業者だが、ストーカーの中には彼を不安視する者も多い。彼は密かに凶悪犯に協力していたのではないか、表立つ前にザトンが優勢になるのを待っていたのではないか、と言う人もいる。しかし、そんなことはなかった。彼は不本意ながら真にフリーのストーカーになったようだが、未だにヤノフ駅のBaditたちから仕入れているという話もある。</text>
+  </string>
+  <string id="dm_information_589">
+    <text>トラッパーはミュータントについて誰よりも詳しい。ゾーン内のあらゆる種類の獲物を狩り、殺してきた。彼には、どこにいて何をすべきかを知る不思議な能力がある。超人的な直観力を持つ男だけが、ここまで生き延びてこられたのだ。残念ながら、彼は今、狩りから退いている。あまりにも多くの親友がひどい方法で殺されたのを見てきたからだ。今は、ヤノフ駅のストーカーたちに、ミュータント狩りのアドバイスをしている。</text>
+  </string>
+  <string id="dm_information_590">
+    <text>強盗や殺人を企てる低俗なチンピラどもがいない世界を、どこに行っても見つけられないのはなぜだろう？俺は自分の故郷でアイツらを見たし、俺の祖父は収容所でアイツらを見たし、ここでもまたアイツらがいる。アイツらは人間の疫病であり、根絶しないといけない。</text>
+  </string>
+  <string id="dm_information_591">
+    <text>Banditどもは、殺人的な強欲さと卑劣な狡猾さ以外の何物でもない。野外で正々堂々と戦えば、たいていは逃げ出すぞ。</text>
+  </string>
+  <string id="dm_information_592">
+    <text>Militaryは「ストーカー狩り」を組織して、人口の多い地域を転々としながら目に入るものを撃ちまくると聞いたことがある。自分で見たことはないが、信じられないことではないと思う。そういう狂暴な奴らを、いったいどこで見つけてくるのやら。</text>
+  </string>
+  <string id="dm_information_593">
+    <text>どうやって国境を越えたんだ？俺のグループは、国境警備隊の中に連絡係がいて、俺たちが通り抜けられるようにフェンスに小さな穴を開けておいてくれた。それほど費用もかからず、奴らを買収することができる。</text>
+  </string>
+  <string id="dm_information_594">
+    <text>ストーカーたちは、Clear Skyが何をしようとしているのかについて、さまざまな説を持っている。ゾーンを静かに研究したいだけだという人もいれば、Monolithをコントロールするための秘密の精神波兵器みたいなものを探しているという人もいる。俺としては、彼らは必死に生き延びようとしているのだと思ってるよ。</text>
+  </string>
+  <string id="dm_information_595">
+    <text>Ecologistたちは、正しい方法でゾーンに入ってきたから、社会的地位のあるストーカーのようなものだ。でも、正直言って、俺にはそういう生活は向いていない。自分で道を切り開いていきたいんだ。</text>
+  </string>
+  <string id="dm_information_596">
+    <text>Ecologistたちから、研究室に行ってサンプルを取ってきてほしいと仕事を依頼された。俺は、「そんな仕事を受けるなんて、いったいどこのバカなんだ！」と怒ってみせた。それでも･･････その報酬はかなり魅力的だった･･････。</text>
+  </string>
+  <string id="dm_information_597">
+    <text>あのDutyの連中は、ちょっと自分たちのことで頭がいっぱいのようだ。ミュータントについては一理あるかもしれないがが、アーティファクトを収集することは確かに悪いことではない。とにかく、連中がロストクを見守ってくれているのは嬉しいことだけどな。</text>
+  </string>
+  <string id="dm_information_598">
+    <text>俺も何度かDutyに参加しようと思ったことがあるんだが、実行に移したことはない。自分で見に出かけなくても、十分にミュータントの活動を目にしている。遠慮しとくよ。</text>
+  </string>
+  <string id="dm_information_599">
+    <text>Freedomはいろいろな奴がいるらしい。アーティファクトがある良い場所を教えてもらったこともあるし、アノマリーのコツも教えてもらったことがある。一方で、奴らの多くはBanditたちに縄張りを自由にさせているだけの堕落者だ。</text>
+  </string>
+  <string id="dm_information_600">
+    <text>俺はFreedomの任務が馬鹿げていると思う。ゾーンの奇跡や不思議を見たことがあるか？俺が見たのは、死と熱力学の忌まわしい現象だけさ。ゾーンで期待できるのは、何と言っても金払いだ。正直なところ、DutyとFreedomに巻き込まれることだけは避けたいと思っている。</text>
+  </string>
+  <string id="dm_information_601">
+    <text>噂によると、デッド シティーのMercenary基地の地下には、尋問室があるらしい。時々、特別な情報を持っている人を捕まえてそこに連れて行くんだ。必要とあらば、何年も拷問するらしい。Mercenaryには近づくな。</text>
+  </string>
+  <string id="dm_information_602">
+    <text>今のMercenaryたちには、初期に契約していた前任者たちとはほとんど共通点がない。彼らはもはや、それぞれの目的のために働く、断片的で一時的な軍事作戦要員ではないのだ。ダッシュマンの下で行われた影の組織的行動みたいなものにより、別々のグループが統合され、反発するグループは追い出された。ハチェットの部下たちのように、事態が悪化し始めたときに去っていったグループもあった。一方、フックの兵士たちは全滅させられた。今や彼らは中央集権的な私兵であり、俺たちは非常に警戒しなければならない。</text>
+  </string>
+  <string id="dm_information_603">
+    <text>Clear Skyにしては饒舌だな。俺は、俺たちが同じ側にいて、共通の敵と戦っていると思いたいのさ。お前たちの秘密主義は不快感を与えることがあるよな。一部のストーカーを少し不安にさせるんだ。</text>
+  </string>
+  <string id="dm_information_604">
+    <text>ああ、今度は俺たちに何かを要求しているのかな？お前は普段、Lonerたちを目の前で撃つのが上手い。俺が言いたいのは、俺たちの周囲では銃をホルスターにしまっておかないと、お前は行方不明になってしまうということだ。</text>
+  </string>
+  <string id="dm_information_605">
+    <text>ストーカーたちとEcologistたちは一緒に頑張るべきだ。俺たちはいわば生態系だ。あんたはゾーン内のレアなアイテムを手に入れることができる。そして俺たちは、たまにはいい報酬を得られる。</text>
+  </string>
+  <string id="dm_information_606">
+    <text>科学者たちは、謙虚なストーカーである俺たちから学ぶべきことがあると思う。俺たちには大学の学位や政府の設備はないかもしれないが、生きてアーティファクトを持ち帰ったすべてのストーカーたちは、あんたらの博士号を合わせたものよりも、多くの経験を持っているのさ。</text>
+  </string>
+  <string id="dm_information_607">
+    <text>フリーのストーカーたちは、お前がしてくれたことにもっと感謝すべきだ。お前のおかげで、ロストクはゾーンの中で最高の場所になった。でも、ガベージをすっかり片付けてくれないと、また荒れて危険な状態になってしまうぞ。</text>
+  </string>
+  <string id="dm_information_608">
+    <text>なあ、Dutyに何が起こったんだ？お前らの縄張りはどこに行っちまったんだ？残っている奴らはとても少ないらしい。シュルガとその部下の噂は時々聞く。大抵、プリピャチのどこかに潜伏しているというが、俺は見ていない。</text>
+  </string>
+  <string id="dm_information_609">
+    <text>よお、北の防衛線を維持するのは良いことだ。普通のグループなら、こんな危険な作業は避けるだろう。レーダー施設からの攻撃が頻繁になっていると聞いているが、Monolithがコードンをパトロールしている姿なんて見たくないな。</text>
+  </string>
+  <string id="dm_information_610">
+    <text>ここに情報がある。お前らのチンピラが俺のブツを盗んだ。どういうことだ？今はチンピラを仲間に入れているのか？</text>
+  </string>
+  <string id="dm_information_611">
+    <text>お前は俺の仲間を殺したMercenaryにそっくりだな。お前らの目的が分からない。1日は殺しをして、次の日はお喋りをしている 。何しに来たんだ？</text>
+  </string>
+  <string id="dm_information_612">
+    <text>フリーのストーカーたちは団結すべきだよな？Lonerたちがお互いを騙すような話は聞きたくないが、ゾーンには十分すぎるほどの危険があるだろ？</text>
+  </string>
+  <string id="dm_information_613">
+    <text>Lonerたちは、日に日に派閥のようになっていく。リーダー、目標･･････。もうそうせざるを得ないんだろうな。「真のLonerたち」とかいう新しいグループができてもおかしくないよな。</text>
+  </string>
+  <string id="dm_information_614">
+    <text>他のグループは、何かを間違えているのさ。彼らは、ゾーンを外の世界と同じようにすることが、ゾーンを扱う最善の方法だと考えている。お前の派閥はお前を救いやしない。派閥は衰退し、腐敗していく。人として何を選択するかが重要だ。勇気か、臆病さか、愚かさか、知恵か･･････。</text>
+  </string>
+  <string id="dm_information_615">
+    <text>第六感を持つことは、ゾーンでは役に立つが、時にはそれが唯一の助けになることもある。俺はある日、歩いているときに何かがおかしいと感じた。感じたままに木の枝に登ってみると、その瞬間、ブラインド ドッグの大群が走ってきたんだ！30匹はいただろうか。これには2つの教訓がある。ひとつは自分の直感を信じること、もうひとつは奴らとの間に高さのある何かを置くことだ。</text>
+  </string>
+  <string id="dm_information_616">
+    <text>俺たちがゾーンをコントロールする方法を学べば学ぶほど、ゾーンは自由になる方法を学ぶのさ。ブラッドサッカーもいいが、新しい怪物はどうだ？俺はサイサッカーという名前を聞いたことがあるんだが、ほとんどの奴はその話をしたがらない。野営の最中でさえ安心はできないぜ。</text>
+  </string>
+  <string id="dm_information_617">
+    <text>もし、遠くに巨大な斑点のようなものが這っているのを見えたら、奴に見られる前にその場を離れるんだ。スードウジャイアントを甘く見た者は、二度と姿を現せなくなる。お前は奴らを追い越せると思っているんだろう？しかし、奴らは永遠に這い続けることができて、一度お前を見つけたら止まることはないのさ。疲弊させてから引き裂くんだ。</text>
+  </string>
+  <string id="dm_information_618">
+    <text>この歩く死体どもは一体どこから来るのだろう？不幸なストーカーの友人のことではないぞ。奴らがどこから来たかは明らかだ。昔の科学者が実験のためにここに連れてきた人たちのことさ。研究室で行われていた実験がどんなものだったのか、本当に不思議に思う。</text>
+  </string>
+  <string id="dm_information_619">
+    <text>「フレッシュ」は、ゾーンが生物に与える影響の中でもかなり極端な例だ。しかし、俺は奴らが進化の次の段階にあるのではないかと考えている。環境への適応能力が急速に発達していると思う。「フレッシュ」の感覚器官、保護能力、問題解決能力の組み合わせは、自然界では他の追随を許さないことを知ってるか？俺はこのことについて、考えるのをやめなければならないかもしれない。</text>
+  </string>
+  <string id="dm_information_620">
+    <text>「フレッシュ」はゾーンの恐るべき遺伝子の廃物で、ただの生物学的ゴミだ。奴らは、ただひたすらに惨めな存在なのさ。見かけた時には、その惨めさから解放してやることをお勧めするよ。</text>
+  </string>
+  <string id="dm_information_621">
+    <text>邪悪な小さなゴブリンのような奴を見たことがあるか？カーリック？俺はヤンターで見つけて、弾丸をお見舞いしてやった。あんなものに遭遇しなければよかったと思う。今でも復讐を受けているんだ。どうにかして俺の頭の中に入ってくる。一人でどこに行っても、目の端にニヤリと笑う頭蓋骨が映り、いつも見られているような気がするのさ。ゾーンで最悪なのは、そこらへんにいるこういう能力をもった怪物だ･･････。俺はもう眠ることもできやしない。</text>
+  </string>
+  <string id="dm_information_622">
+    <text>最も強い敵を恐れるのではなく、最も賢い敵を恐れるのが賢明である。そして、俺はコントローラーが一番賢いと思う。多分、俺たちよりも。何年か前にFreedomの人から、ストーカーのふりをしたコントローラーの話を聞いたことがある。そいつはフード付きのコートを着ていて、Freedomの基地に入っていった。警備隊は奴の精神波に頭をかき回されて、それに気づけなかった。そして、大混乱を引き起こしたんだ。想像できるか？</text>
+  </string>
+  <string id="dm_information_623">
+    <text>「警戒すべきシッポ」についてはどうだ？俺の仲間が、グループでキャンプファイヤーを囲んで飲んでいたとき、その晩に眠ってしまった。目が覚めると、彼は暗闇の中にいて、地面で足を引きずられていた。足元を見ると、巨大な厄介そうな「キャット」が彼を引っ張っていたんだ。幸運なことに、彼はピストルを持っていて難を逃れた。</text>
+  </string>
+  <string id="dm_information_624">
+    <text>ラーカーのことは、ますます問題になってきている。以前は、プリピャチから戻ってきたストーカーがキャンプファイヤーで話すようなことだった。今では、経験豊富なストーカーでさえも行方不明になり、後になって切り刻まれて戻ってくることがある。あの怪物どもにとっては食べる必要すらなく、ただスポーツとして殺すのさ。</text>
+  </string>
+  <string id="dm_information_625">
+    <text>チェルノボグ、モコシュの名誉は死んだわけではなく、ゾーンの放出物の中で生き続けている。彼はチャレンザによって神格化され、永遠なるものとより大きな一体感を持つようになっただけなのだ。ゾーンが地上で成長するにつれ、彼もまた成長するのである。</text>
+  </string>
+  <string id="dm_information_626">
+    <text>指導者たちの秘密は、すべてを包み込む無との再会への道だ。読みたまえ！高分子核物理学の指導者トリグラフ、離散エネルギー場の指導者ダズボグ、新興酵素学の指導者ペルンなど、その他多数の指導者たちがいる。秘密を探求した者だけが、ヴィーラージに溶け込むことができるのだ。</text>
+  </string>
+  <string id="dm_information_627">
+    <text>あなたは間違いなく新加入者か？最後に霊薬を飲んだのはいつだ？常に摂取していないと、神格化は起こらない。そのためには、この点においてあなたのヴォルクフを確固たるものにしなければならない！</text>
+  </string>
+  <string id="dm_information_628">
+    <text>「犠牲」という言葉は適切ではないが、ヴォルクフの中でも最も経験豊富な者たちは、通常、体を使った生け贄を捧げる。ヴィーラージでないものはすべて無価値であるとして、肉体を変形させることは、ゾーンにおける大義のための崇高な責任なのである。 多くの者は指を切断するが、中には目や性器を切断する者もいる。</text>
+  </string>
+  <string id="dm_information_629">
+    <text>創造の世界は、いつも私たちを悩ませてきた。眩しい光、快楽と苦痛、独善的な笑い顔の哀れな者たちを愚弄してきたのだ。ゾーンはそれに対する究極の侮辱であり、世界中の顔に向けた中指である。ゾーンがこの無価値な世界にヴィーラージを出現させると、この場所の構造そのものが堕落し、生き地獄を受けることになる。堕落した悪は、善でしかないのだ。</text>
+  </string>
+  <string id="dm_information_630">
+    <text>ゾーンの子供たちはもちろん、来るべき現実を見通す力を持った子供たちだ。心の弱い者たちは彼らをミュータントと呼んでいるが、彼らの堕落した歪んだ性質は、ヴィーラージの証となっている。彼らの中には、ヴィーラージの原因を理解するための知識を与えられており、私たちを味方と見なす者もいれば、私たちとよく似ていて同志と見なす者もいる。</text>
+  </string>
+  <string id="dm_information_631">
+    <text>究極の真実とは、唯一無二の「無」であり、その前では理性などクソの役にも立たない。理性とは、この空想世界に生きる者たちの愚かな発明であり、偽りの神に哀れにも服従するように心にダメージを与える。グノーモスラヴァに話しかけると、「無」への願いを手伝ってくれる。</text>
+  </string>
+  <string id="dm_information_632">
+    <text>ゾーンが拡大すれば、現実の幻想もまた無に溶けていく。まずキリスト教徒を倒し、次にイスラム教の神が倒れ、そしてヘブライ語の神が倒されていくのだ。世界はもはや存在しなくなる。すべての者の永遠のビジョンの前には、まばゆいばかりの空虚さだけがあるだろう。</text>
+  </string>
+  <string id="dm_information_633">
+    <text>新加入者はゾーンの敵を殺すことで満足しているかもしれないが、十分な価値のあるヴォルクフたちは、より身近なゾーンへの溶解を望んでいる。私は、彼らが「精神波の嵐」の中に出て行き、ゾーンの枯れた生命力と自己消滅の力を手に入れたのを見たことがある。彼らはその力を得て、敵に恐怖を与えたのだ。偉大なるチェルノボグも、高貴なるエミッションを歓迎したという。</text>
+  </string>
+  <string id="dm_information_634">
+    <text>私たちと一緒にいるうちに、あなたはゾーンの豊かさを実感するだろう。それはいかに私たちから奪い、期待されていないものを与えるかということである。多くの場合、表面的なものや、自己の具体性が失われる。最初は苦痛かもしれないが、すべての幻想は、それから逃れるまでが苦痛なのだ。しかし、あなたが得るものは、あなたが受け入れるのが難しいものである。あなたは、私たちの偉大な者たちが銃弾や爆弾を水のように切り抜けていくのを見てきたけど、彼らはほとんど眠る必要がない。あなたが何になるかは、あなたがさらに上の等級に神格化されたときに明らかになるだろう。</text>
+  </string>
+  <string id="dm_information_635">
+    <text>過去の時代には、彼らの信者は私たちに名前を付け、異教徒や異端者と呼んでいた。彼らは正しかった。彼らに呼ばれた異端とは、実際には物事のやり方の名前に過ぎなかった。あの愚かな無能たちは、不変で永遠の一つの現実を信じるほど盲目だったのだ。幻想の奴隷だ！唯一の現実は、単純に「真実」と名付けられたものの混沌とした変化の中にある。間違ってはいけないのは、ヴィーラージは一種の「天国」ではなく、むしろ天国の死であるということだ。そこでは、確かに罪が取り除かれているが、同時にすべてのものが抹消されていることに気づくだろう。もし意味がなければ、罪は存在し得ない。</text>
+  </string>
+  <string id="dm_information_636">
+    <text>あなたはもしかしたら、ゾーンのために戦ったことがあるかもしれないね。新加入者の中には、痛みを苦手とする人が多いが、その必要はない。もちろん、苦しみは幻想であり、悪の世界による影の戯れなのだ。それを受け入れることが、より高い等級の儀式に必要なのである。親愛なる兄弟の一人であるベズラヤは、ゾーン否定論者の一部によって重度の障害を負った。彼の腕は肉片で吊るされており、腹部には断片が残っていた。痛みを感じなかったのは、幻影から逃れた彼には痛みがなかったからだ。しかし、彼は強靭なヴォルクフであり、ズレボグの知恵を深く学んでいた。</text>
+  </string>
+  <string id="dm_information_637">
+    <text>指導者たちの仕事は私たちに引き継がれている。彼らの人生の皮肉たっぷりなところは、彼らが失敗したと思っていたところだ。ゾーンと汚れた現実が交わったことが失敗だったと、彼らは思ったのである。しかし、後になって、彼らが望んでいたものを手に入れていたことを、後で知った人たちもいた。彼らは世の中の罪をなくすことを望んでいたのだが、それがどのようにして行われるのかを知らなかったのだ。それは、ヴィーラージの導きによる世界の消滅である。ゾーンが成長すれば、指導者たちの計画は達成されるだろう。</text>
+  </string>
+  <string id="dm_information_638">
+    <text>霊薬は指導者の読み解きが必要な技術であり、私たちヴォルクフでさえも間違いを犯すことがある。実際にゾーンの大敵の奉仕者であったある一人の新加入者は、汚染された血清によって最も悪影響を受けた。彼は信じられないほど興奮し、顔の筋肉が液状化し始めた。このような場合にいつもするとおり、私たちは彼を「破砕装置」に投じて消滅させた。それが私たちにできる最善のことであり、自ら進んでヴィーラージに入ることを消失させるための、ほんの類似行為なのだ。</text>
+  </string>
+  <string id="dm_information_639">
+    <text>ゾーンへの反逆という噂をどう受け止めればいいのか、私にはわからない。ある者の話によると、ゼニック級の新加入者が、自らの意思でゾーンの大義を偽って妨害しようとしたという。その結果、俗人に戻ってしまった彼は、「偽りの現実」に対抗するために「灼熱のラズラシュティール」に入れられたという。</text>
+  </string>
+  <string id="dm_information_640">
+    <text>新加入者たちは捕虜だったんだね？徹底した啓蒙が必要だな。さもないとまた問題が起きる。霊薬を2倍飲ませるんだ。もう失敗はしない。</text>
+  </string>
+  <string id="dm_information_641">
+    <text>消えたズナゴミルから学んだことだが、かつて邪悪なゾーン否定論者の中に、他の派閥よりも、さらには現在の「Dolg」と呼ばれる派閥よりも、もっと直接的な派閥があった。その一派は、ゾーンに対抗し、破壊するために結成された。しかし、それは私たちの「ファイナル デー」ではなく、彼らの「ファイナル デー」だった。偉大なチェルノボグが彼らを滅ぼそうとする直前に、何者かが忌まわしいリーダーを殺して消えてしまったのだ。この時、高貴なチェルノボグは、来るべきゾーンの敵同士を戦わせることを学んだのである。</text>
+  </string>
+  <string id="dm_information_642">
+    <text>ああ、私にはもっと鋭敏な悟りが必要だと思う。時々、かつての自分を見て、かつての同志を思い出すことがある。いや、やめてくれ！それは現実ではなく、くだらない嘘からくる神懸かった幻想だった。彼らも私と同じように現実ではないのだ。ヴィーラージよ、どうか私の存在を消し去ってくれ！</text>
+  </string>
+  <string id="dm_information_643">
+    <text>高貴なエミッションが集まってくるのを感じるたびに、ゾーンの拡大に集中し、ヴィーラージの領域の成長をイメージするのだ。あなたの意志を一つにして、通り抜ける力を圧倒しろ。大地を飲み込むまで成長すると考えよ。心を奪われる前に考えるのだ。</text>
+  </string>
+  <string id="dm_information_644">
+    <text>偉大なる指導者ベルストクが私たちの先祖を作った。邪悪な幻影の中で生きていた下劣な俗人たちを、目がくらむような虚空に向けて解放したのだ。私たちは、強大な研究所とアビスへの塔の下にある暗黒の峡谷で形成された。そこに連れて行かれた多くの人々は、ゾーンの不思議な能力を与えられたものの、幸運に恵まれず、ただ獣や愚か者になってしまった。今もなお、偉大なベルストクはエミッションの波に乗り、その領域を広げようとしている。</text>
+  </string>
+  <string id="dm_information_645">
+    <text>グロミを知っているか？彼らは私たちと同じように新加入者だったが、神格化されたときに特別な力を与えられた。オレグ ミトラスという同志を知っているが、彼にはエミッションを呼び出す力が与えられた。また、ティムール マガスは、見たことのある人間をジワジワと死なせることができた。私はといえば、ゾーンの腰抜けたちを撃ち殺すことで満足している、ただの下僕にすぎない。</text>
+  </string>
+  <string id="dm_information_646">
+    <text>祈っているよ。ゾーンがあなたの弾丸を呪うように、そして、ゾーンの信奉者の武器から発射された弾丸が、敵の内臓に突き刺さるように。彼らは痛みと糞の中で死ねるかもしれない。ヴィーラージの到来に反対する者たちに比べれば、それは慈悲深いことである。</text>
+  </string>
+  <string id="dm_information_647">
+    <text>ストレロックは偉大な敵であり、新たな「無」に反対する者である。ベルボグよ、ストレロックに傷をつけてやれ！スヴェトヴィドよ、ストレロックに炎を浴びせかけろ！トリグラフよ、ストレロックの名を全世界から消せ！全てのツィルニトリよ、ストレロックに黒い死を！</text>
+  </string>
+  <string id="dm_information_648">
+    <text>同志であるMonolithたちは、長年にわたってゾーンの活発的な中心部を守り抜いてきた。しかし、彼らには、私たちが父たちからから与えられているような秘密は与えられておらず、来るべきゾーンのことはほとんど知らず、ただ中心部を敵から守ることしか知らないのである。その一方で、ゾーンは彼らに、人間であることを拭い去ることを祝福している。</text>
+  </string>
+  <string id="dm_information_649">
+    <text>強大なMonolithはゾーンの盾であり、来るべき「無」の領域を広げる偉大な作品を守る。私たちはヴィーラージの槍であり、偽りの現実に立ち向かう「真の無」の前触れである。</text>
+  </string>
+  <string id="dm_information_650">
+    <text>私たちのためにも、彼らを生かしておくんだ。膝を撃ち抜くか、腹に一発入れるかして、血清を飲ませれば安定するだろう。現場ではもっと狡猾にならないといけない。野外ではもっと狡猾にならないといけない。彼らに気づかれないように、Banditの愚か者たちから何度も奪うことはできない。</text>
+  </string>
+  <string id="dm_information_651">
+    <text>かつては物欲があり、人間になりたいと思っていたなんて信じられない･･････。私たちに残されたものは、最後の夜、つまり、一生懸命にゾーンの勝利をもたらすことだけです。</text>
+  </string>
+  <string id="dm_information_652">
+    <text>愚か者の集まりである小さな派閥を笑い飛ばそう。ゾーンはますます強大になり、彼らのちっぽけな力ではどうにもならない。ヴォルクフは全員一致である。もうすぐ最後の一撃があり、そうすれば現在のゾーンは敵から解放されるだろう。</text>
+  </string>
+  <string id="dm_information_653">
+    <text>派閥、政府、教会など、すべての人が私たちに反対するだろうが、無駄なことだ。彼らは手遅れになってから、いつも恐れていた日が来たことに気づくだろう。彼らには多くの罪があるが、この腐敗した現実に存在し、意識的な存在として欲望を抱くことほど卑劣な罪はない･･････ゾーンは彼らを冷たい大地に押しつぶすだろう。</text>
+  </string>
+  <string id="dm_information_654">
+    <text>愛すべき指導者たちの目の前で、奇跡を目の当たりにするんだ！彼らの夢はもうすぐ現実のものとなり得る。夜の部隊は準備され、ゾーンはすぐに覚醒して広がっていくだろう。私はまだ下っ端だが、ゾーンが広がるのであれば、私は彼らの剣に我が身を投じよう。</text>
+  </string>
+  <string id="dm_information_655">
+    <text>なぜゾーンの封じ込めに力を注ぐのか。なぜ成長させようとしないのか。世の中の多くの人たちがゾーンの本質的な価値を認めているのだから、私たちはその価値を世界に伝えたいだけなのである。</text>
+  </string>
+  <string id="dm_information_656">
+    <text>あなたがMonolithに悪意を持っていたことは悲劇だが、Monolithはあくまでも防衛機構であることを理解しなければならない。ゾーンの心臓部を最初に侵したのは、やはりストーカーたちだったのだから。</text>
+  </string>
+  <string id="dm_information_657">
+    <text>ゾーンの成長を止めようとするのは愚かなことである。成長し続けているのがわからないのか？ゾーンは後退しないし、後退できない。なのに、なぜ戦うのか？</text>
+  </string>
+  <string id="dm_information_658">
+    <text>ゾーンをコントロールすることはできない。ゾーンはあなたが手なずけることのできない獣である。なぜ、あなたはゾーンを手なずけることができないのか？ゾーンがあなたを支配するようにしてみてはどうか？傷ついたり、不安になったりするのを、すべて取り除いてくれる。それは可能だよね。</text>
+  </string>
+  <string id="dm_information_659">
+    <text>尊敬する同志として参加してみないか？そろそろ、偽善者のために、あるいは自分の欲のために戦うのはやめないか？Sinは、世界にふさわしいものを与えようとしている。完全な浄化だ。</text>
+  </string>
+  <string id="dm_information_660">
+    <text>なぜあなたは、クズみたいな偽善者の出来損ないのために戦い続けるのか？Duty、Freedom、Military、それらはすべて同じであり、それはあなたも知っていることだ。人間のリーダーシップが与えるものの無益さを、あなたは見てきた。正しいことをするために、あなたも私たちに加わるのだ。</text>
+  </string>
+  <string id="dm_information_661">
+    <text>あなたはゾーンの不思議を見たことがあるか？心の狭い人たちは、それを危険とか異常とか言う。しかし、それは心の狭い人の言葉だ。同じ人が、燃えるからといって火を否定するだろうか。いや、あなたはそうではなく、ゾーンのさまざまな表現の中にある奇跡や美しさを見てきたのである。では、次は？それは、ゾーンがその宝を世界中にばら撒くことだ。これに反対するのは、よぽど見識が狭い愚か者である。それがSinの目的であり、私たちの目的でもある。</text>
+  </string>
+  <string id="dm_information_662">
+    <text>見えるものが見えないわけがない。この場所に入ったとき、ゾーンの迫力たっぷりの生命力を感じなかったか？力強さは？光のトリック、初心者の心への印象を乗り越えれば、ゾーンに現れている活発な目的が見えてくる。それを私たちはヴィーラージと呼んでいる。</text>
+  </string>
+  <string id="dm_information_663">
+    <text>ゾーンの原因となっているものと和解することが、あなたの最大の関心事なのだ。それが私たちの目的である。Monolithが怖くないか？彼らが勝利するのは必然だよね。皆がそう言っている。友人としてSinに加入するのが賢明である。Monolithは私たちを安心させてくれる、私たちは何の恐れもない。それはあなたが望むことではないか？</text>
+  </string>
+  <string id="dm_information_664">
+    <text>ゾーンに入ったことを祝おう！これは本当の開始である。狭い心の中で、自分の平和を脅かすものを避けようとして、この場所から身を隠す人がいるよね。しかし、あなたがここにいるということは、ゾーンに何らかの魅力を感じていたということだ。それが私利私欲であったとしても、今はゾーンを守る価値があると考えているのではないか？ゾーンを守りたいと思うなら、リーダーに会って話すといい。</text>
+  </string>
+  <string id="dm_information_665">
+    <text>ごきげんよう、同志よ。大義のための戦いはどうだ？何らかの援助が必要な場合は、レッド フォレストにいるヴォルクフの一人に会いに行くといい。</text>
+  </string>
+  <string id="dm_information_666">
+    <text>同志よ、ゾーンがあなたの魂を消し去ってくれることを願っている。あなたはゾーンの見張り役だから、失敗は許されない。指導者たちはあなたの献身的な働きに期待している。</text>
+  </string>
+  <string id="dm_information_667">
+    <text>疎遠にするのではなく、ゾーンの敵とは肩を並べて戦うべきなのである。ヴォルクフたちは常に慎重を期しているから、偉大なMonolithたちとの友情関係を隠すことを望んでいる。私たちはゾーン否定論者たちの中に入っていくが、私たちは大義のために体を張らなければならないので、慎重さが必要だ。</text>
+  </string>
+  <string id="dm_information_668">
+    <text>Monolithの進歩はなんと素晴らしいことだろう！あなたは、都市をはるかに超えて、ゾーンの大敵の中心地にまで侵攻した。私たちは喜んであなたを支援する。</text>
+  </string>
+  <string id="dm_information_669">
+    <text>チェルノボグはMonolithのような強大な敵と共通の目的を持ったことは賢明だった。私たちは精神的に同志なのではないか？あなたたちは高貴なゾーンを守り、私たちはそれを発展させようとしている。私たちの活動は同じようなものであると確信している。</text>
+  </string>
+  <string id="dm_information_670">
+    <text>私は最近ゾーンに入ったのだが、Monolithが悪く言われていることを考えると胸が痛む。彼らは、理由もなくゾーンの中心を襲ったのがゾーンの大敵であることを知らないのだろうか？彼らは無知で悲惨な生活をしているのだから、死は彼らにとっての慰めになるはずだ。</text>
+  </string>
+  <string id="dm_information_671">
+    <text>次の軍需品の出荷はいつになるのか？私たちは、意志の強さや粘り強さに関しては不足しないが、軍需品は不足している。とはいえ、ストリボグは、ゾーンの大敵の野営地に行って、寝ている間に喉を切り裂くようにと、正しいアドバイスをしてくれた。全員が戻ってくるわけではないが、良い仕事だ。</text>
+  </string>
+  <string id="dm_information_672">
+    <text>前回のエミッションでは、ゾーンの境界が広がったような気がしたよね？1メートルは広がったと思う。ゾーンが踏み出した一歩一歩は、私たちにとって手放されないものである。</text>
+  </string>
+  <string id="dm_information_673">
+    <text>私は同志メンターから、死んだ敵の指を集めるように言われた。それを見ると、ゾーンの勝利が間近に迫っていることや、自分の肉体の価値がないことを思い出すのである。あなたは幸運だ、同志よ、君には冷静さを失うような考えがほとんどないのだから。</text>
+  </string>
+  <string id="dm_information_674">
+    <text>ちょうど昨日、永遠なるMonolithが無価値な派閥「Clear Sky」に大勝利したことを、ストリボグが話していた。その時、ゾーンを闇に帰そうとするゾーンの大敵が私たちの前に大勢で現れた。そして、そんな危険な状況でも、ゾーンが勝利したのだ！これからもきっとそうだろう。</text>
+  </string>
+  <string id="dm_information_675">
+    <text>この場所は俺にとって全く不可解な場所だ。チェルノブイリの状況は、騙されやすい報道機関によって、大げさに吹き込まれた伝聞の集まりだと誰もが思っていた。俺は、奇妙な放射線パターンや、不規則な気象学を期待していた。自分がこんなに間違っていたなんて、信じられない･･････。</text>
+  </string>
+  <string id="dm_information_676">
+    <text>俺が初めてアノマリーを見たのは、それほど昔のことではない。俺はただ呆然とそれを見つめていた。秩序があって説明可能な我々の惑星で、どうしてこんなことが起こるのだろうと思った。この場所は未来だ。ここで可能な実験は、研究界の大部分を陳腐化させまる。</text>
+  </string>
+  <string id="dm_information_677">
+    <text>今まで聞いた中でも、ここはMilitaryの遠征には最悪の場所であることは間違いない。ひどい供給網、不安定な通信、古い土地情報、そして理解できない敵対的な部隊に囲まれている。これでは、バルカン半島に戻りたいと思ってしまう。</text>
+  </string>
+  <string id="dm_information_678">
+    <text>ここでの消耗はひどいものだ、本当にひどい。暗くなってからの外出や、事前に調査していない場所での活動は控えた方がいいだろう。毎日多くの隊員が亡くなっていて、半数は死亡報告書に何を書けばいいのかわからない状態だ。</text>
+  </string>
+  <string id="dm_information_679">
+    <text>俺たちが誰よりも早くここにたどり着いたと願うばかりだ。攻撃的な動物や環境上の危険に対処するのはフルタイムの仕事だが、ここは世界的な紛争地帯なんだよ！評議会がこの場所を管理しようと思ったら、我々の数を10倍に増やす必要があると思う。</text>
+  </string>
+  <string id="dm_information_680">
+    <text>ストーカーたちを信じてはいけない。彼らの周りでは決して油断してはいけない。俺たちは戦場のような状況に入り込んでいて、関係者のこともわからない。どの人が裏社会の犯罪者や過激な準軍事組織のために働いているのかわからない。一つだけ分かっているのは、白装束の連中と交渉してはいけないということだ。見つけ次第、撃ち殺せ。</text>
+  </string>
+  <string id="dm_information_681">
+    <text>これは自殺に等しい任務だ。先週は、ある種の野生のブラッドサッカーに食われて、研究チームの全員を失った。そんな話は聞いてなかったんだ。ここでは我々は完全に盲目状態だ。次の超人的な捕食者が我々を見つけるのを待つだけだ。</text>
+  </string>
+  <string id="dm_information_682">
+    <text>「侵入禁止区域」いわゆるゾーンは、武装した派閥が支配するいくつかの縄張りに分かれているようだ。我々が組織的に進出したことで、ここの「ストーカー たち」は、我々を競争相手の一派とみなした。全面的に防衛するには人数も情報も足りないので、特定の派閥と同盟を組むことが何よりも重要だ。どの派閥が十分に信頼できて、どの派閥が完全に狂っているのかを見極める必要がある。</text>
+  </string>
+  <string id="dm_information_683">
+    <text>放射能の影響だけで、数十年の間に生態系全体がこのような状態に突然変異することは絶対にあり得ない。ありえないんだよ！俺は遺伝学と行動生物学を経験したが、今最も注目すべきことは、異常な成長とより攻撃的な行動だ。これでもちょっと控え目な表現なんだ！これは、自然界のどこにも見られない能力を持った新種が存在すると思われる、荒々しく変化した生態系だ。これは前代未聞のことだから、真相を解明しなければならない。</text>
+  </string>
+  <string id="dm_information_684">
+    <text>俺はボスニアとアフガニスタンに滞在したことがあるんだが、これほど敵対的な環境は見たことがない。遭遇するたびに冷酷な銃撃戦になり、精神病院みたいなここに存在する仮想敵部隊のほとんどは軍用装備で武装し、洗練された組織を持っている。ここは地球上で最も無法地帯であり、ここで何かできるのか見当もつかない。</text>
+  </string>
+  <string id="dm_information_685">
+    <text>アノマリー活動の場所を見つけたら、PDAに印をつけるんだ。かなりの未処理分を抱えているが、正確な地図の形成を始めなければならない。</text>
+  </string>
+  <string id="dm_information_686">
+    <text>大隊から最後に聞いたのは、「天候のせいで物資の出荷が遅れている」ということだった。「天候」というのは何かの暗号のような気がする。まるで世界から100万マイルも離れた場所にいるような気分だ。</text>
+  </string>
+  <string id="dm_information_687">
+    <text>心に傷を持ち、上から目線の、寡黙なタイプの人たちを仲間に加えるのは、絶対に嫌だ。なぜ調査委員会は、そういう人材が必要だと考えたのだろうか。中にはケンカしたくてウズウズしているような人たちもいるというのに。</text>
+  </string>
+  <string id="dm_information_688">
+    <text>君はもっと強くならないと、ここでは長続きしないと思うよ。ウクライナ軍をかわしても、ここにはSAS（イギリス陸軍特殊空挺部隊）にも負けないくらいの敵がいる。先日、ある部隊が派手な連中に追跡され、全滅しそうになったことがあった。</text>
+  </string>
+  <string id="dm_information_689">
+    <text>ウクライナ人から是が非でも特殊な研究用スーツを入手する必要がある。我々の調査隊の中には、防護服が故障してしまったという話をよく耳にするが、中にはもう亡くなってしまった人たちもいる。このような新たな危険に対して、我々の装備は絶望的に不十分なのだよ。</text>
+  </string>
+  <string id="dm_information_690">
+    <text>俺は、ゾーン周辺に殺人動物がいるという初期の報告を信じていなかった。おびえた科学者たちが狂犬病の犬を見たのだと思っていたのさ。しかし今では、元の世界では信じられないようなものを自分の目で見ている。最悪なのは、俺が見たものが人間なのか、それとも他の何かなのかが分からないということだ。この場所は、ある種の悪夢だ。</text>
+  </string>
+  <string id="dm_information_691">
+    <text>俺は地元の人々から情報を集めてきたが、調査委員会はこの場所の性質について何も知らないことを君に教えてやろう。我々はチェルノブイリ原発事故による放射性物質の天候型アノマリーを観測するために入ったと聞いている。俺が話したストーカーたちは、地下の研究所で行われている秘密の生物学的実験や、新たに発見されたある種のエネルギー領域など、我々が夢にも思わなかったことをほのめかしていた。通常、彼らはこのような話題をあまり話したがらないが、それが彼らを怯えさせているようだ。俺も地下の施設を調べてみるつもりだ。</text>
+  </string>
+  <string id="dm_information_692">
+    <text>俺は90年代のモザンビーク内戦以来、国連と契約している。湾岸戦争の後は、すべての紛争地域が俺の心の中で融合している。俺は青いヘルメットをかぶって新聞の写真に写るような兵士ではない。俺のような者が呼ばれるのは、物事をスムーズに進めたり、作戦で証拠隠滅の専門家が必要なときだ。ここはそんな俺にぴったりの場所だと思う。臆病になることもなく、大量虐殺する民間人も、戦争犯罪を叫ぶジャーナリストもいない。これは俺の得意とするところだ。</text>
+  </string>
+  <string id="dm_information_693">
+    <text>東欧で発行されていたこれらの科学雑誌は、物理学に関する驚くべき洞察や、一部が削除された不可解な実験など、すべて意味を持ち始めている。我々は、自分たちが遅れをとっている、甘くなっていると思っていた。それが、今になってわかったのだ。彼らは、この科学的金鉱を自分たちだけのものにできると考えていたのである。願わくば、今回の遠征が最初の遠征となり、ゾーンが平和になった後、ここにいくつかの施設を設置することができればと思う。秘密はもうたくさんだ。</text>
+  </string>
+  <string id="dm_information_694">
+    <text>我々は先行組の4番目のグループで、完全に行方不明になったグループの直後だった。我々は、新しい衛星画像に加えて、アル中で態度の悪いロシア人の現地ガイドを一人だけ雇うことができた。しかし、衛星画像は全く役に立たず、不機嫌なガイドに頼るしかなかった。3日目、彼は「止まれ」と言ってきた。直進できないので、大きく迂回しなければならないという。我々は聞く耳を持っていたが、マッチョな特別部隊の偵察隊の2人がどうしても先に行きたいと言った。その夜、悲鳴が聞こえてきて、連絡が取れなくなってしまった。それ以来、現地ガイドに文句を言う人はいなくなった。隊長は彼の報酬を倍にしたと思う。</text>
+  </string>
+  <string id="dm_information_695">
+    <text>何年か前の遠征隊に何が起こったのか、大体わかってきた。彼らが行方不明になったとき、我々は手がかりを得られず、とても不思議だった。今はそれがわかる。俺自身は、エミッションの1つが彼らを殺したと思っている。野外作戦で移動の承認を得る前に、部隊全体を消し去ることができるのさ。</text>
+  </string>
+  <string id="dm_information_696">
+    <text>この状況を安保理に報告すべきだと思う。ウクライナ軍は白昼堂々と我々に発砲しているだけでなく、ここには準軍事的なグループによる戦争地帯が広がっているのだ。国民に知らせるべきだ！</text>
+  </string>
+  <string id="dm_information_697">
+    <text>ストーカーがアノマリー領域からアーティファクトを集めるのを見たことがあるか？あれはすごいよ。中には革のコートを着て、古いソ連製のマスクをしただけの人もいて、危険な場所をマークするために小さな物を投げ始めるんだ。工夫されている！探知機を使っていない人も多いんだよ。調査委員会では、アーティファクトの感知については全く進展していないと聞いている。</text>
+  </string>
+  <string id="dm_information_698">
+    <text>ここの地元の人たちが、この地のどこかに存在するという「願望機」について話しているのを聞いたことがある。このような混沌とした極端な環境では、実際の科学的な現象とともに、独自の神話が生まれるのだろうと思う。</text>
+  </string>
+  <string id="dm_information_699">
+    <text>倉庫を掃討している特別部隊からの連絡を現場の本部が受けていたとき、君はその場にいるべきだった。彼らは切り刻まれていた。分析担当者と作戦担当者は完全に途方に暮れていた。あれほどの無力感は経験したことがなかった。彼らは手榴弾や自動小銃を使って四方から敵の待ち伏せを受けているとマイクで叫んでいた。敵はウクライナ人かと思ったが、その後、死んだ突入チームのマイクから何か狂ったような詠唱が聞こえてきたのだ。俺は、作戦指揮官のために通訳をしなければならなかったときの上官たちの顔を覚えている。「お前たちはここに来るべきではなかった。お前たちはここで死ぬのだ、我らの足の下で。Monolith様のお言葉だ」</text>
+  </string>
+  <string id="dm_information_700">
+    <text>調査委員会の意向を君に伝えたい。地元のストーカーの方々には、ぜひともご協力をお願いし、そしてそのお返しに我々も何かお手伝いができれば、だそうだ。敵対行為はやめるべきだ。</text>
+  </string>
+  <string id="dm_information_701">
+    <text>大規模なアーティファクト収集に必要な機材や方法論が確立されるまでは、他の方法で入手したアーティファクトに、我々は素晴らしい報酬を支払う。今のところ、それらが不足しているからだ。何か持ってくる際には、安全な容器を用意するように。</text>
+  </string>
+  <string id="dm_information_702">
+    <text>友好的な顔を見てホッとしたよ。かなり暴力的な場所には行ったことがあるが、こんな敵対心の強いところは聞いたためしがない。我々は研究と報告のためにここにいるのであって、それ以外の何ものでもないと、君の仲間たちであるゾーンの住人に納得してもらえるよう努力してくれ。</text>
+  </string>
+  <string id="dm_information_703">
+    <text>驚かないでほしい。君をあまり信用していないんだ。君のような人たちは、我々がここに来て以来、挑発なしに我々を切り刻んできた。我々がより厳格なセキュリティ対策をとっているのも不思議なことではない。</text>
+  </string>
+  <string id="dm_information_704">
+    <text>本当は君に情報を求めるべきなのだが。2週間前にここに来て以来、俺が見てきたものはすべて不可解で、危険で、たいていはその両方だ。発電所を支配している準軍事的なグループが、新入りたちの精神を変化させて、より狂信的にしているというのは本当か？俺には少し遠回りのように思えるが･･････。</text>
+  </string>
+  <string id="dm_information_705">
+    <text>君にはここにいて欲しくないんだ。悪気はないけど、過去に見知らぬ人たちから散々な目に遭わされた。我々の仲間であることを証明できない限り、距離を置いた方がいいだろう。</text>
+  </string>
+  <string id="dm_information_706">
+    <text>我々の使命は、ゾーンに小さな王国を築くことではないし、君たちがここで商売を続けるのを邪魔することもない。我々はただ、世界の知識を豊かにするために研究しているだけなのだ。君のお友達にもそう言っておいた方がいいかもしれないね。</text>
+  </string>
+  <string id="dm_information_707">
+    <text>君にはここにいて欲しくないのさ。悪気はないが、我々は過去に見知らぬ人たちから散々な目に遭わされてきた。我々の仲間であることを証明できない限り、距離を置いた方がいいだろう。</text>
+  </string>
+  <string id="dm_information_708">
+    <text>我々に手を出させるな。無価値だ。君が君の仕事をしている間、我々はここで仕事をさせてもらえばいいだけさ。もし君や君の友人たちが変なことをしようとしたら、ただじゃおかないぞ。</text>
+  </string>
+  <string id="dm_information_709">
+    <text>ここには、ゾーンに関する知識や経験を豊富に持っているストーカーがたくさんいる。もし君が情報通で、我々を助けたいと思っているなら、助言者になることを考えてみないか？崇高な目的のために協力するのは良いことだと思わないか？もっと給料を出すぞ。</text>
+  </string>
+  <string id="dm_information_710">
+    <text>Militaryの出鱈目さにはうんざりしていないか？腐敗していない組織に任せたほうがいいのではないか？必ずしもUNISGが主導権を握るとは言わない。Militaryが賄賂を受け取っている一方で、無実のストーカーを銃殺している状況･･････このようなことにならないようにな。</text>
+  </string>
+  <string id="dm_information_711">
+    <text>クズネツォフと彼の乱暴者たちに対抗するために、我々に手を貸してくれないか？彼らはこの場所に長く居座って、自分たちの腐敗した不公平なやり方に協力したくない人たちを虐げているんだ。常にならず者に狙われているなんて、地獄に違いない。</text>
+  </string>
+  <string id="dm_information_712">
+    <text>君の仲間と俺の仲間は、とても生産的な協力関係を築けると思う。共通の敵に対抗するために、お互いにちょっとした助けが必要だと考えているんだ。そう思わないか？</text>
+  </string>
+  <string id="dm_information_713">
+    <text>俺も昔は君と同じだった。雇われた銃、幸運の兵士、すべてのたわごと。ロマンチックな人生ではないだろう？でも、今の生活の方がずっといいと言っても、嘘ではない。このような状況では、我々が何をしようとも見て見ぬふりをするのが普通だ。</text>
+  </string>
+  <string id="dm_information_714">
+    <text>君のような人たちがいてくれたら助かるよ。我々がこのあたりで偶然会うようなストーカーたちの多くは、銃を持てる程度の脳みそしかない、腰抜けの悪党たちさ。ゾーンが必要としているのは、研究と知性だよ。Militaryみたいな堕落した悪者の下で働かなければならないなんて、想像もできないよ。</text>
+  </string>
+  <string id="dm_job_general_1">
+    <text>この辺りに仕事はないか？</text>
+  </string>
+  <string id="dm_job_general_2">
+    <text>仕事を探してるんだ。</text>
+  </string>
+  <string id="dm_job_general_3">
+    <text>仕事を見つけられそうな場所を知らないか？</text>
+  </string>
+  <string id="dm_job_0">
+    <text>近くのトレーダーが何の仕事も持っていなかったら、普通の人を試してみたらどうだ？ほとんどの人が何らかの助けを必要としているはずだ。</text>
+  </string>
+  <string id="dm_job_1">
+    <text>スポアは、臨時の仕事をする誰かを、常に探している。彼は情報屋もやってるから、他のストーカーのPDAを持っていけば金をくれるぞ。</text>
+  </string>
+  <string id="dm_job_2">
+    <text>ライブラリアンは、ミュータントやBanditたちなどを排除するためにストーカーが沼地に入ることを常に望んでいる。支払いがいいんだが、なぜDutyの連中が彼の依頼を多く受けないのか不思議なくらいだよ。</text>
+  </string>
+  <string id="dm_job_3">
+    <text>シドロヴィッチは常に人手が必要な仕事を持ってるぞ。支払いもいいが、マジで手を汚す覚悟がない限り引き受けるのはお勧めしないぜ。</text>
+  </string>
+  <string id="dm_job_4">
+    <text>ウルフは手助けを探してたな。彼は村の安全を確保するためあの辺りの地域でミュータントを狩るストーカーにストーカーに金を払ってくれるぞ。</text>
+  </string>
+  <string id="dm_job_5">
+    <text>スカドフスクにいるオウェルは、常に情報の売買をしてる。俺も情報を買いに行くところだ。</text>
+  </string>
+  <string id="dm_job_6">
+    <text>スルタンはクソな案件を解決できる、鉄のタマを持った男たちを集めてる。彼は基地の裏にある王座の間にいるよ。</text>
+  </string>
+  <string id="dm_job_7">
+    <text>科学者の研究所（掩体壕）に行け。あいつらなら、なにか仕事をくれるはずだ。いつも助手としてMercenaryやストーカーを探してるからな。</text>
+  </string>
+  <string id="dm_job_8">
+    <text>オリビアスは、アンタが妙な仕事でもやるか確かめるだろうな。彼はダーク バレーの基地に滞在するトレーダーだ。</text>
+  </string>
+  <string id="dm_job_9">
+    <text>ああ、ここに仕事があるぜ。まず西へ行け。そこからさらに西へ向かうんだ。ずーっと西へ行ったらもう戻ってくるんじゃねえぞ？</text>
+  </string>
+  <string id="dm_job_10">
+    <text>ああ、悪いがアンタにやる物はなにもないな。ちょいと穴をほって、俺たちがしがみつくのを手伝ってくれてもいいぜ？</text>
+  </string>
+  <string id="dm_tips_general_1">
+    <text>何か役に立ちそうな話はあるか？</text>
+  </string>
+  <string id="dm_tips_general_2">
+    <text>どうやってここで生計を立ててるんだ？</text>
+  </string>
+  <string id="dm_tips_general_3">
+    <text>ゾーンについてどんなアドバイスがあるんだ？</text>
+  </string>
+  <string id="dm_tips_0">
+    <text>アドバイスすべき事は何もないな。本当だよ。</text>
+  </string>
+  <string id="dm_tips_1">
+    <text>撃つときは相手の顔面に二発叩き込め。それで相手はオシマイだ。強化外骨格でもない限り、着てるものは関係ない。</text>
+  </string>
+  <string id="dm_tips_2">
+    <text>野郎の重い尻を退かしたかったら、手榴弾を使えばいい。パイナップルが転がり込んでくれば同じ場所に隠れ続けようとは思わないだろうよ。</text>
+  </string>
+  <string id="dm_tips_3">
+    <text>アンタが引き金を早く引ける「凄指」の持ち主ならダブル バレル ショットガンを同時にぶっ放す事ができるぜ。ブラッドサッカーに出くわした時はそいつを覚えとくと良い。</text>
+  </string>
+  <string id="dm_tips_4">
+    <text>拳銃を侮らないほうが良いぜ。ストーカー。主要武器の弾が少ない時に役に立つ。軽いアーマーなら充分撃ち抜けるからな。</text>
+  </string>
+  <string id="dm_tips_5">
+    <text>敵を追いかけてる時、狙撃銃を使えば哀れな犠牲者に見られることすらなく、始末できる。他のどのタイプのライフルよりも遠距離から攻撃出来るからな。</text>
+  </string>
+  <string id="dm_tips_6">
+    <text>アンタが撃ちながら走り回ってるようじゃ、全く当たらないだろうな。隠れられるものを見つけて後ろに入れ。撃つときはちょっと体を傾けてそこから狙うんだ。そうすりゃもっと正確な射撃ができるはずだ。</text>
+  </string>
+  <string id="dm_tips_7">
+    <text>装備は良い状態に保つべきだ。修理屋に時々直してもらわないと、銃は詰まるし、スーツも穴だらけになるぜ。</text>
+  </string>
+  <string id="dm_tips_8">
+    <text>前回、技術屋に会いに行った時、あいつは俺の装備を半分もアップグレード出来なかったんだ･･････。そんで代わりにツールを持ってこいと俺に頼んできやがった。俺はガキの使いか？</text>
+  </string>
+  <string id="dm_tips_9">
+    <text>エミッションの間、外に立っていた男と会ったことあるか？もちろん無いだろ？自分の脳みそを茹でようって気にでもならない限り、頭を隠したほうが良いぜ。もちろんシリもな。</text>
+  </string>
+  <string id="dm_tips_10">
+    <text>この前、もう少しで足を吹っ飛ばすところだったぜ。スカベンジしてる最中、カマ掘られないためにバタフライ地雷を仕掛けておいたんだが、帰りにそいつを忘れてたんだ。誰が仕掛けようと、アイツらには関係ないからな。</text>
+  </string>
+  <string id="dm_tips_11">
+    <text>トレーダーがおまえのために仕事を持っていないからといって、俺たちの誰もが仕事を持っていないという意味ではない。おまえは他の人のために用事を実行していくつかの良い現金を稼ぐことができる。その間に、いくつかの良い戦利品も見つけるかもしれないぞ。</text>
+  </string>
+  <string id="dm_tips_12">
+    <text>見つけるかもしれないどんな薬も手に入れておけ。いつ役立つかわからないからな。ヘラクレスは商品を運ぶときにかなり良い。そして、精神波ブロックは「コントローラー」と戦うときに役立つだろう。</text>
+  </string>
+  <string id="dm_tips_13">
+    <text>たとえ必要ないと思っても、予備の弾薬を持ち歩くこと。刃だけでミュータントの大群を撃退するのは最悪だ。</text>
+  </string>
+  <string id="dm_tips_14">
+    <text>アーティファク狩りはやってみたか？探知機を手に入れてアノマリー領域に近づき、探知機がピッピッと鳴り始めたら、その近くにアーティファクトがあるということだ。しかし、良いものを見つけるには高価なモデルが必要である。</text>
+  </string>
+  <string id="dm_tips_15">
+    <text>アノマリーに真っ向からぶつからないこと。もし、近くにアノマリーがあると思ったら、ボルトを数本投げること。犠牲になるのは、おまえよりボルトの方がいいだろ？</text>
+  </string>
+  <string id="dm_tips_16">
+    <text>気分が良くない場合は、食べ物を食べてみること。医療キットと同じ効果はないかもしれないが、十分に元気になるだろう。</text>
+  </string>
+  <string id="dm_tips_17">
+    <text>PDAを無視しないこと。自分のクエストを記録したり、道に迷ったときやどこかに行こうと思っているときに、ゾーンで進むべき道を探すのに役立つ。</text>
+  </string>
+  <string id="dm_tips_18">
+    <text>誰かと話をするときは、その銃をホルスターに入れること。銃身の先を顔の前で振られるのは誰でも嫌なものだ。</text>
+  </string>
+  <string id="dm_tips_19">
+    <text>エナジードリンクは必ず持つこと。戦利品を野営地に持ち帰ろうとして疲れてしまったときに役立つ。</text>
+  </string>
+  <string id="dm_tips_20">
+    <text>ヘルメットに暗視機能がある場合は、必ずアップグレードすること。技術屋にいくらかの現金を払えば、さらにはっきりとした視界が得られる。</text>
+  </string>
+  <string id="dm_tips_21">
+    <text>アーティファクト狩りに出かけるときは、無防備ではいられない。探知機を持っていたとしても？もう片方の手でピストルを持つこともできる。</text>
+  </string>
+  <string id="dm_tips_22">
+    <text>時間をつぶすために寝る場所はたくさんある。ほとんどの基地には常に無料のベッドがあるが、どこでも寝袋を持っていくことができる。</text>
+  </string>
+  <string id="dm_tips_23">
+    <text>アーティファクトは良いことばかりではない。保護されていないと放射線で徐々に死んでしまう。しかし、放射線を吸収するアーティファクトもあることを覚えておくこと。</text>
+  </string>
+  <string id="dm_tips_24">
+    <text>ナイフは人に忍び寄るためだけの武器ではなく、箱やタンス、鍵などを開けることもできる。中に何か入っているかもしれないぞ。</text>
+  </string>
+  <string id="dm_tips_25">
+    <text>もしも息切れが続くようなら、たくさんの荷物を持つのはやめよう。バックパックに入れてどこかに隠しておくか、トレーダーに売るかだ。</text>
+  </string>
+  <string id="dm_tips_26">
+    <text>薬が欲しければ医療従事者に、酒が欲しければバーテンに、というように、ここでは多くのトレーダーが特定の種類の商品に特化している。</text>
+  </string>
+  <string id="dm_tips_27">
+    <text>アーティファクトは、いつも同じ場所にあるわけではなく、エミッション後に変化すべて変化するものである。今度、アノマリーの近くに行ったときは、そのことを思い出してみろ。</text>
+  </string>
+  <string id="dm_tips_28">
+    <text>ゾーンには命があるんだよ、ストーカー。前に行った場所に 変わり者がいなかったからといって、それ以降も 変わり者がいないとは限らない。</text>
+  </string>
+  <string id="dm_tips_29">
+    <text>放射能汚染に対処できないのであれば、医療従事者のところに行くまでの間、なんとか生き延びよう。しかし、なぜウォッカを持っていないのかと自問することだ。</text>
+  </string>
+  <string id="dm_tips_30">
+    <text>遠くに見えるものがあったら、走ってジャンプしよう。その勢いで、より遠くに行くことができる。一部のミュータントから逃げる簡単な方法だ。奴らはジャンプしようと思わないだろうから。</text>
+  </string>
+  <string id="dm_tips_31">
+    <text>現金を得る方法はアーティファクトを売ることだけではない。不要になった装備を売ることでも利益を得ることができる。ただし、壊れているものはトレーダーの興味の対象にはならないので注意が必要だ。</text>
+  </string>
+  <string id="dm_tips_32">
+    <text>見られたくない、聞かれたくないときは、しゃがんだり、こっそり歩いたりしろ。戦う価値のある戦いばかりではないし、おまえは誰かの先回りでもしたいわけじゃないだろ？</text>
+  </string>
+  <string id="dm_tips_33">
+    <text>銃に照準器やグレードランチャーを取り付けることができるんだよ。自分で部品を探したり購入したりしなければならないが、その価値は十分にある。照準器があれば、より遠くからでも正確な射撃が可能になりますし、アンダーバレルランチャーがあれば、いざというときに1トンもの爆発物を準備しておくことができる。</text>
+  </string>
+  <string id="dm_tips_34">
+    <text>ミュータントにはそれぞれ弱点があり、倒し方も様々だ。トゥシュカノや「ラット」を蹴ることができるんだぜ？知ってるか？</text>
+  </string>
+  <string id="dm_tips_35">
+    <text>誰かが撃ってきてもドアの後ろには隠れるな。二人の間に何があろうと弾丸はお構いなしだ･･････。弱いものなら真っ直ぐに突き抜ける。</text>
+  </string>
+  <string id="dm_tips_36">
+    <text>ミュータントの攻撃を受けたり、引き裂かれたりした場合は、自分で包帯を巻け。出血は、深刻になる前に包帯で止めないと、医療キットよりもコストがかかる。</text>
+  </string>
+  <string id="dm_tips_37">
+    <text>装備をアップグレードするための道具を探しているんだったら、ひとまずスタッシュを漁ってみるんだな。トレーダーの中にはスタッシュの情報を売っている場合もあるから、チェックしてみるのもいい。</text>
+  </string>
+  <string id="dm_tips_38">
+    <text>無線に耳を傾けてみろ、その地域の状況を容易に知る事が出来る。銃撃戦やミュータントに囲まれている奴を助けることだって可能だ。</text>
+  </string>
+  <string id="dm_wounded_general">
+    <text>助けてくれ！</text>
+  </string>
+  <string id="dm_wounded_medkit">
+    <text>ほら、医療キットだ。</text>
+  </string>
+  <string id="dm_wounded_sorry">
+    <text>すまない、医療キットは持ってないんだ。</text>
+  </string>
+  <string id="dm_traveler_bye">
+    <text>OK。</text>
+  </string>
+  <string id="dm_traveler_what_are_you_doing">
+    <text>今何をしてるんだ？</text>
+  </string>
+  <string id="dm_traveler_can_i_go_with_you">
+    <text>一緒に行ってもいいか？</text>
+  </string>
+  <string id="dm_traveler_stalker_actor_companion_yes">
+    <text>もちろん。旅の道連れは多いほうが楽しいからな。</text>
+  </string>
+  <string id="dm_traveler_stalker_actor_companion_no">
+    <text>いや悪いが俺はひとりでやりたいんだ。</text>
+  </string>
+  <string id="dm_traveler_actor_go_with_squad">
+    <text>さあ行こう。</text>
+  </string>
+  <string id="dm_traveler_take_me_to">
+    <text>金を払うからどこかへ連れて行ってもらえるか？</text>
+  </string>
+  <string id="dm_traveler_stalker_where_do_you_want">
+    <text>ああいいぜ。どこへ行きたいんだ?</text>
+  </string>
+  <string id="dm_traveler_actor_agree">
+    <text>OK こっちへこい。</text>
+  </string>
+  <string id="dm_traveler_actor_refuse">
+    <text>気が変わった。</text>
+  </string>
+  <string id="dm_traveler_stalker_i_cant_travel">
+    <text>今じゃない。</text>
+  </string>
+  <string id="dm_stalker_doing_nothing_1">
+    <text>何もない</text>
+  </string>
+  <string id="dm_stalker_doing_nothing_2">
+    <text>別に。ボーっとしてるだけだ。</text>
+  </string>
+  <string id="dm_stalker_doing_nothing_3">
+    <text>どんな風に見える？俺は怠け者だから･･････。</text>
+  </string>
+  <string id="dm_stalker_chasing_squad_monster">
+    <text>ミュータントを狩っているところだ。</text>
+  </string>
+  <string id="dm_stalker_chasing_squad_bandit">
+    <text>俺はBanditの野郎を追っている。</text>
+  </string>
+  <string id="dm_stalker_chasing_squad_killer">
+    <text>Mercenaryたちを追跡する。あいつらはろくでなしだ。</text>
+  </string>
+  <string id="dm_stalker_chasing_squad_monolith">
+    <text>狂信者の集団を追っている。奴らは自分たちを「Monolith」と呼んでいる...。</text>
+  </string>
+  <string id="dm_stalker_chasing_squad_zombied">
+    <text>俺たちはゾンビを追いかけている。かつての偉大なストーカーの抜け殻。哀れな者たち･･････。</text>
+  </string>
+  <string id="dm_traveler_travel_cost">
+    <text>いいね。コストがかかるぜ。</text>
+  </string>
+  <string id="dm_traveler_actor_dont_go_with_squad">
+    <text>気が変わった。</text>
+  </string>
+  <string id="dm_traveler_actor_has_no_money">
+    <text>金がねーよ。</text>
+  </string>
+  <string id="dm_freedom_doing_nothing_1">
+    <text>俺は何もしていない。</text>
+  </string>
+  <string id="dm_freedom_chasing_squad_monster">
+    <text>ミュータントを追っている。</text>
+  </string>
+  <string id="dm_freedom_chasing_squad_bandit">
+    <text>地元のBanditの追跡に参加している。</text>
+  </string>
+  <string id="dm_freedom_chasing_squad_killer">
+    <text>Mercenaryを追っている。我々を攻撃したことで奴らは償うことになる。</text>
+  </string>
+  <string id="dm_freedom_chasing_squad_monolith">
+    <text>俺たちは、Monolithから来た頭のおかしい連中を追いかけている。</text>
+  </string>
+  <string id="dm_freedom_chasing_squad_duty">
+    <text>Dutyはこの近くにいる･･････。ろくでなしどもは遠くにはいないはずだ。</text>
+  </string>
+  <string id="dm_duty_doing_nothing_1">
+    <text>俺らは今特に何もしてないぜ。</text>
+  </string>
+  <string id="dm_duty_chasing_squad_monster">
+    <text>我々はこの場所のミュータントを駆除中だ。</text>
+  </string>
+  <string id="dm_duty_chasing_squad_bandit">
+    <text>今は仕事中だ。Banditの分遣隊を追跡中だ。</text>
+  </string>
+  <string id="dm_duty_chasing_squad_killer">
+    <text>我々はMercenaryたちを攻撃中だ。やつらが死ぬまで休憩は無しさ。</text>
+  </string>
+  <string id="dm_duty_chasing_squad_monolith">
+    <text>俺らはMonolithのイカレ野郎どもを狩り出している最中さ。</text>
+  </string>
+  <string id="dm_duty_chasing_squad_freedom">
+    <text>俺らはゴミ掃除中さ。そのゴミはfreedomって呼ばれてるぜ。</text>
+  </string>
+  <string id="dm_stalker_searching_artefacts_1">
+    <text>俺はアーティファクトを探してる。</text>
+  </string>
+  <string id="dm_stalker_searching_artefacts_2">
+    <text>俺らはきのこ狩りの最中さ･･････。俺らのことをアホだと思ってねえか？アーティファクトを探してんだよ。</text>
+  </string>
+  <string id="dm_stalker_searching_artefacts_3">
+    <text>俺はアーティファクト ハンターさ。</text>
+  </string>
+  <string id="st_mechanic_query_items">
+    <text>俺の装備は出来上がってるか？</text>
+  </string>
+  <string id="st_mechanic_repair_done">
+    <text>ああ、受け取りな。</text>
+  </string>
+  <string id="st_mechanic_repair_not_done">
+    <text>まだだぜ。また来てくれ。</text>
+  </string>
+  <string id="st_surrender_victim">
+    <text>･･････降参だ。</text>
+  </string>
+  <string id="st_surrender_query_victim_1">
+    <text>武器から手を離し貴官の重要な情報を渡してもらいたい。スタッシュの場所、物資交換地点、伏撃予定地点、洗いざらいだ。そうすれば生存を保障しよう。</text>
+  </string>
+  <string id="st_surrender_query_victim_2">
+    <text>お前のクソッたれなブツはどこにある？教えろよ。そうすりゃてめえの惨めったらしいケツを手付かずにしてやるぜ！</text>
+  </string>
+  <string id="st_surrender_query_victim_3">
+    <text>ほら、医療キットだ･･････だが、武器は預からせてもらうぞ。</text>
+  </string>
+  <string id="st_surrender_query_victim_4">
+    <text>よう、言い残す事はあるか？俺はお前の首にかかってる賞金を回収に来たんだぜ。</text>
+  </string>
+  <string id="st_surrender_actor_1">
+    <text>生き残ったな。</text>
+  </string>
+  <string id="st_surrender_actor_2">
+    <text>幸運を･･････。</text>
+  </string>
+  <string id="st_surrender_actor_3">
+    <text>終わらせる時が来たな。</text>
+  </string>
+  <string id="st_surrender_victim_answer_1">
+    <text>分かった分かった、殺さないでくれ！</text>
+  </string>
+  <string id="st_surrender_victim_answer_2">
+    <text>クソが！分かったよ！</text>
+  </string>
+  <string id="st_surrender_victim_answer_3">
+    <text>頼むよ、あんた！教えるよ！</text>
+  </string>
+  <string id="st_surrender_victim_answer_4">
+    <text>頼むよ、殺さないでくれ！俺のPDAを持ってけ！あんたが必要としてるものは全部入ってる！</text>
+  </string>
+  <string id="st_surrender_victim_answer_5">
+    <text>消えうせろ！</text>
+  </string>
+  <string id="st_surrender_victim_answer_6">
+    <text>ありがとう！</text>
+  </string>
+  <string id="st_surrender_victim_answer_default_bounty_1">
+    <text>分かった分かった、殺さないでくれ！</text>
+  </string>
+  <string id="st_surrender_victim_answer_default_bounty_2">
+    <text>クソが！分かったよ！</text>
+  </string>
+  <string id="st_surrender_victim_answer_default_bounty_3">
+    <text>頼むよ、あんた！教えるよ！</text>
+  </string>
+  <string id="st_surrender_victim_answer_default_bounty_4">
+    <text>頼むよ、殺さないでくれ！俺のPDAを持ってけ！あんたが必要としてるものは全部入ってる！</text>
+  </string>
+  <string id="st_surrender_victim_answer_default_bounty_5">
+    <text>消えうせろ！</text>
+  </string>
+  <string id="st_surrender_victim_answer_esc_m_trader_bounty_1">
+    <text>業突く張りケツデカ爺のシドロヴィッチがお前をよこしたのか？何が欲しい？金か？俺のPDAと金を持ってけ･･････。もう少し俺を生かしておいてくれ！</text>
+  </string>
+  <string id="st_surrender_victim_answer_esc_m_trader_bounty_2">
+    <text>お前は何で俺を殺すために寄越されたか知ってるのか？何故か気にならないか？シド爺を地獄の業火で焼きてえ！</text>
+  </string>
+  <string id="st_surrender_victim_answer_esc_m_trader_bounty_3">
+    <text>クソ野郎！</text>
+  </string>
+  <string id="st_surrender_victim_answer_esc_m_trader_bounty_4">
+    <text>ひとおもいにさっさと殺れ！やれよ！</text>
+  </string>
+  <string id="st_surrender_victim_answer_esc_m_trader_bounty_5">
+    <text>･･････。</text>
+  </string>
+  <string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_1">
+    <text>小悪党タンツボ野郎のスルタンがお前をよこしたのか？何が欲しい？金か？俺のPDAと金を持ってけ･･････もう少し俺を生かしておいてくれ！</text>
+  </string>
+  <string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_2">
+    <text>無情なクソ野郎め！お前は何で俺を殺すために寄越されたか知ってるのか？何故か気にならないか？スルタンは地獄の業火で焼かれてしまえ！</text>
+  </string>
+  <string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_3">
+    <text>クソ野郎！</text>
+  </string>
+  <string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_4">
+    <text>ひとおもいにさっさと殺れよ、クソッたれ！やれよ！</text>
+  </string>
+  <string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_5">
+    <text>･･････。</text>
+  </string>
+  <string id="st_drx_broker_finish_1">
+    <text>そいつを買おう。</text>
+  </string>
+  <string id="st_drx_broker_finish_2">
+    <text>よし。そいつを貰おう。</text>
+  </string>
+  <string id="st_drx_broker_finish_3">
+    <text>さあどうぞ。</text>
+  </string>
+  <string id="st_broker_query">
+    <text>売れそうな情報があるんだが。</text>
+  </string>
+  <string id="st_broker_query_more">
+    <text>アンタが望むんならまた持ってくるよ。</text>
+  </string>
+  <string id="st_broker_query_pda">
+    <text>PDAを見つけた。何か役に立つものが入ってるかもしれないぞ。</text>
+  </string>
+  <string id="st_broker_query_pdas">
+    <text>%s台のPDAを見つけた。いくつかには使える情報が入ってるかもな。</text>
+  </string>
+  <string id="st_broker_query_valuable">
+    <text>使える情報が入ってそうな物があったぜ。</text>
+  </string>
+  <string id="st_broker_trade_valuable">
+    <text>%s･･････。スゲエ価値だぜ。きっと興味があるはずだ。</text>
+  </string>
+  <string id="st_broker_give_pda">
+    <text>これだ。</text>
+  </string>
+  <string id="st_broker_npc_start_1">
+    <text>さっそく鑑定しよう。他にはないか？</text>
+  </string>
+  <string id="st_broker_npc_start_2">
+    <text>そうなることを祈りな。時は金なりだ。</text>
+  </string>
+  <string id="st_broker_npc_start_3">
+    <text>俺が時間をかける価値はあるかな。他に持ってないのか？</text>
+  </string>
+  <string id="st_broker_npc_answer_pda_query">
+    <text>わかった。見せてくれ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_1">
+    <text>使えそうなものはなにもないな</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_2">
+    <text>ここいら辺にいるヤクの売人の連絡先だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_3">
+    <text>日記だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_4">
+    <text>デタラメばっかりだな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_5">
+    <text>役に立ちそうなものは無いな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_6">
+    <text>役に立たないな。しかし誰かが買うかもしれない。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_7">
+    <text>ほとんどがジャンクだが、欲しがってるやつを知ってる。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_8">
+    <text>あまり入ってねえな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_9">
+    <text>コイツはローカルな会議の記録だな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_10">
+    <text>現地の植物相の突然変異に関する詳細な観察記録だな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_11">
+    <text>見たところコイツにはすごそうなゲームが入ってるよ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_12">
+    <text>「フレッシュ」に関する詳細な観察記録だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_13">
+    <text>「ボア」に関する詳細な観察記録だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_14">
+    <text>回転木馬アノマリーに関する詳細な観察記録だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_15">
+    <text>Freedomの奴がブラッドサッカーを骨抜きにしようとしている写真だな･･････。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_16">
+    <text>狂った日記が入ってるな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_17">
+    <text>こいつはDutyと地元のギャングのチンピラが会合してる事が記録されてるな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_18">
+    <text>ネズミとハムスターに関する詳細な情報だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_19">
+    <text>ポルノ･･････。エロ画像でいっぱいだ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_20">
+    <text>様々なアノマリーに関する詳細な観察記録だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_21">
+    <text>たくさんのチャット ログだ。何か役に立つものが入ってるかもしれないな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_1">
+    <text>いくつかのスタッシュだ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_2">
+    <text>スタッシュの座標だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_3">
+    <text>何件か使えそうな連絡先情報があったぞ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_4">
+    <text>何件か役に立つ情報がある。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_5">
+    <text>パスワードリストだ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_6">
+    <text>銀行の振込先だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_7">
+    <text>コイツを欲しそうなやつを知ってる。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_8">
+    <text>コイツはスタッシュの所在が記録されてる。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_9">
+    <text>何件か使えそうな連絡先情報があったぞ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_10">
+    <text>密輸ルートの情報だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_11">
+    <text>コイツを買いたいって奴を見つけたぞ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_12">
+    <text>使えそうな情報がいくつかあるな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_13">
+    <text>銀行口座情報だな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_14">
+    <text>補給品交換地点の座標だな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_15">
+    <text>レッド フォレストをショートカットする道の情報だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_20">
+    <text>素晴らしい。ベアードのゴシップだ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_21">
+    <text>莫大なスタッシュの情報だ･･････。これは確実に俺がもらおう。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_23">
+    <text>グレート！これは、Militaryと取引をしている麻薬密輸者に言及している。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_24">
+    <text>コイツはスタッシュの所在が記録されてる。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_25">
+    <text>暗号化されていないパスワードと預金口座情報だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_26">
+    <text>地元の悪党とMercenaryたちの会合が記録されている。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_27">
+    <text>補給品交換地点の座標だな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_28">
+    <text>数日中に実施される地元の会議に関する情報が記録されてる。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_29">
+    <text>地図だ！正規の製図家だ！コイツは非常に役に立つぞ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_30">
+    <text>アノマリー領域をショートカットできる道だな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_31">
+    <text>次に来る補給品交換地点だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_32">
+    <text>科学者がコイツを欲しがるかもな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_encrypted_1">
+    <text>暗号化されてる。貴重なものかもな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_encrypted_2">
+    <text>こいつは暗号化されてる。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_encrypted_3">
+    <text>暗号化されてる。貴重なものかもな。手元に残しておこう。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_encrypted_4">
+    <text>暗号化されてる。隠そうとしているってことは俺が欲しがるような何かかもしれないな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_encrypted_5">
+    <text>「オアシス」の噂がある場所だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_encrypted_6">
+    <text>暗号化されてる。コイツをもらおう。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_encrypted_7">
+    <text>暗号化されたPDAだ。面白い･･････。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_encrypted_8">
+    <text>これは価値があるはずだ。暗号化されてる。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_kill_the_strelok_1">
+    <text>なんだ･･････？一言だけだな。「ストレロックを殺せ」</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_1">
+    <text>何もないぞ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_2">
+    <text>いくつかのスタッシュだ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_3">
+    <text>ここいら辺にいるヤクの売人の連絡先だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_4">
+    <text>日記だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_5">
+    <text>スタッシュの座標だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_6">
+    <text>デタラメばっかりだな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_7">
+    <text>役に立ちそうなものは無いな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_8">
+    <text>何件か使えそうな連絡先情報があったぞ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_9">
+    <text>役に立たないな。しかし誰かが買うかもしれない。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_10">
+    <text>ほとんどがジャンクだが、欲しがってるやつを知ってる。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_11">
+    <text>何件か役に立つ情報がある。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_12">
+    <text>パスワードリストだ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_13">
+    <text>銀行の振込先だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_14">
+    <text>あまり入ってねえな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_15">
+    <text>コイツはローカルな会議の記録だな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_16">
+    <text>現地の植物相の突然変異に関する詳細な観察記録だな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_17">
+    <text>見たところコイツにはすごそうなゲームが入ってるよ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_18">
+    <text>「フレッシュ」に関する詳細な観察記録だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_19">
+    <text>「ボア」に関する詳細な観察記録だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_20">
+    <text>回転木馬アノマリーに関する詳細な観察記録だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_1">
+    <text>コイツを欲しそうなやつを知ってる。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_2">
+    <text>Freedomの奴がブラッドサッカーを骨抜きにしようとしている写真だな･･････。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_3">
+    <text>麻薬ディーラーの連絡先だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_4">
+    <text>暗号化されてる。貴重なものかもな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_5">
+    <text>コイツはスタッシュの所在が記録されてる。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_6">
+    <text>こいつは暗号化されてる。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_7">
+    <text>狂った日記が入ってるな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_8">
+    <text>何件か使えそうな連絡先情報があったぞ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_9">
+    <text>密輸ルートの情報だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_10">
+    <text>コイツを買いたいって奴を見つけたぞ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_11">
+    <text>使えそうな情報がいくつかあるな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_12">
+    <text>銀行口座情報だな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_13">
+    <text>こいつはDutyと地元のギャングのチンピラが会合してる事が記録されてるな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_14">
+    <text>補給品交換地点の座標だな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_15">
+    <text>コイツはローカルな会議の記録だな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_16">
+    <text>ネズミとハムスターに関する詳細な情報だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_17">
+    <text>レッド フォレストをショートカットする道の情報だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_18">
+    <text>ポルノ･･････。エロ画像でいっぱいだ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_19">
+    <text>様々なアノマリーに関する詳細な観察記録だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_20">
+    <text>たくさんのチャット ログだ。何か役に立つものが入ってるかもしれないな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_1">
+    <text>素晴らしい。ベアードのゴシップだ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_2">
+    <text>莫大なスタッシュの情報だ･･････。これは確実に俺がもらおう。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_3">
+    <text>グレート！これは、militaryと取引をしている麻薬密輸者に言及している。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_4">
+    <text>暗号化されてる。貴重なものかもな。手元に残しておこう。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_5">
+    <text>コイツはスタッシュの所在が記録されてる。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_6">
+    <text>暗号化されてる。隠そうとしているってことは俺が欲しがるような何かかもしれないな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_7">
+    <text>これは、Dutyに関する詳細な情報だ･･････。Freedomは、コイツを欲しがるだろうな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_8">
+    <text>銀行口座とクレジットカード情報だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_9">
+    <text>「オアシス」の噂がある場所だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_10">
+    <text>コイツを買いたいって奴を見つけたぞ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_11">
+    <text>使えそうな情報がいくつかあるな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_12">
+    <text>暗号化されていないパスワードと預金口座情報だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_13">
+    <text>地元の悪党とMercenaryたちの会合が記録されている。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_14">
+    <text>補給品交換地点の座標だな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_15">
+    <text>数日中に実施される地元の会議に関する情報が記録されてる。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_16">
+    <text>地図だ！ちゃんとした地図製作者のものだ！コイツは非常に役に立つぞ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_17">
+    <text>アノマリー領域をショートカットできる道だな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_18">
+    <text>次に来る補給品交換地点だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_19">
+    <text>科学者がコイツを欲しがるかもな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_20">
+    <text>なんだ･･････？一言だけだな。「ストレロックを殺せ」</text>
+  </string>
+  <string id="st_broker_npc_about_pda_bonus_coords">
+    <text>ボーナスとして、俺には必要ないいくつかのスタッシュ座標をもってけ。</text>
+  </string>
+  <string id="st_ordered_task_query">
+    <text>どんな仕事があるんだ？</text>
+  </string>
+  <string id="st_ordered_task_query_finished">
+    <text>仕事は完了だ。</text>
+  </string>
+  <string id="st_ordered_task_not_given_task">
+    <text>何だと？まだ仕事が終わってないだろ？</text>
+  </string>
+  <string id="st_ordered_task_accept">
+    <text>それをやろう。</text>
+  </string>
+  <string id="st_ordered_task_next">
+    <text>他に何がある？</text>
+  </string>
+  <string id="st_ordered_task_already">
+    <text>先に仕事を終わらせてこい。次の話はそれからだ。</text>
+  </string>
+  <string id="st_ordered_task_already_reply">
+    <text>わかった。</text>
+  </string>
+  <string id="st_accepted_task_1">
+    <text>良いぞ！終わったら声をかけてくれ。</text>
+  </string>
+  <string id="st_accepted_task_2">
+    <text>俺を手助けしてくれるんなら、あんたの助けになってやれる。戻ってこいよ。</text>
+  </string>
+  <string id="st_accepted_task_3">
+    <text>力になってくれて、うれしいよ。</text>
+  </string>
+  <string id="st_default_task_finished_1">
+    <text>ストーカー、助かったよ。これが報酬だ。</text>
+  </string>
+  <string id="st_default_task_finished_2">
+    <text>君が仕事を請けてくれて本当に助かったよ。これが約束の品だ。</text>
+  </string>
+  <string id="st_default_task_finished_3">
+    <text>いいだろう。いま報酬を払おう。</text>
+  </string>
+  <string id="st_no_available_task">
+    <text>悪いな、何もないんだ。</text>
+  </string>
+  <string id="st_about_fetch_task_default">
+    <text>自分が何を言おうとしていたのか思い出せねえ･･････。ただそれを手に入れてくれ！アンタは俺が欲しいものを知ってるだろ！</text>
+  </string>
+  <string id="st_return_for_reward">
+    <text>戻って報酬を受け取れ。</text>
+  </string>
+  <string id="st_nevermind">
+    <text>考え直した。気にしないでくれ。後で戻る。</text>
+  </string>
+  <string id="dm_universal_actor_exit_sorry">
+    <text>役に立てなくて悪いな。</text>
+  </string>
+  <string id="st_ordered_task_query_cancel">
+    <text>仕事を完了できそうにない。</text>
+  </string>
+  <string id="st_task_none_active">
+    <text>何の仕事のことだ？</text>
+  </string>
+  <string id="st_ordered_task_query_cancel_next_job">
+    <text>いや、それはまだやっているところだ。</text>
+  </string>
+  <string id="st_task_default_excuse_cancel_job">
+    <text>ああ、俺は他の仕事で忙しいんだ。</text>
+  </string>
+  <string id="st_default_task_cancel_1">
+    <text>ストーカー、お前にはがっかりだよ。</text>
+  </string>
+  <string id="st_default_task_cancel_2">
+    <text>なんだと？お前はもっと有能な奴だと思っていたんだがな、ストーカー。</text>
+  </string>
+  <string id="st_default_task_cancel_3">
+    <text>新人に期待するべきじゃなかったな。</text>
+  </string>
+  <string id="st_inventory_upgrade_reply_1">
+    <text>あんたの%sはあと%s分程かかる。後で来てくれ。</text>
+  </string>
+  <string id="st_inventory_upgrade_reply_2">
+    <text>もうすぐあんたの%sは準備できる。%s分後に来てくれ。</text>
+  </string>
+  <string id="st_inventory_upgrade_reply_3">
+    <text>ああ。失せろ。俺はまだ酔ってねえぞ。</text>
+  </string>
+  <string id="st_inventory_upgrade_reply_4">
+    <text>アンタのヤベエ%sは１時間と%s分で準備できるぜ。その時はまた乾杯だな！</text>
+  </string>
+  <string id="st_inventory_upgrade_reply_5">
+    <text>震えが出てるときに何かを修理するっていうの簡単じゃねえ･･････。１時間後にアンタの%sを取りにきな。</text>
+  </string>
+  <string id="st_inventory_upgrade_reply_6">
+    <text>よお、ストーカー、ヒック。あー、アンタの装備を直してることをすっかり忘れてたぜ。\n%sを取りにくるんなら一時間と%s分後に来てくれ。</text>
+  </string>
+  <string id="st_inventory_upgrade_reply_7">
+    <text>アンタの%sは１時間と%s分で準備できる。ちゃんと戻ってこいよ。わかったか？</text>
+  </string>
+  <string id="st_inventory_upgrade_reply_8">
+    <text>アンタの%sは%s時間と%s分で準備できる。また戻ってきな。</text>
+  </string>
+  <string id="st_inventory_upgrade_reply_9">
+    <text>準備は出来てるぜ。</text>
+  </string>
+</string_table>

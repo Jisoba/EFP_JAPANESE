@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+
+	<string id="st_hobo_match">
+		<text>マッチ棒</text>
+	</string>
+	
+	<string id="st_hobo_match_descr">
+		<text>
+           1本のどこでも点けられるマッチ。単体でも使えるが、そのまま保管すると邪魔になることがある。使うときまで箱の中で乾燥させておくとよいだろう。 \n \n \n 
+			
+			%c[ui_gray_3]特性:  \n 
+			%c[d_blue] ・%c[ui_gray_2] 日用品  \n 
+			%c[d_orange] ・%c[ui_gray_2] 用途: %c[ui_gray_1] 焚火やたばこの着火  \n \n 
+		</text>
+	</string>
+
+	<string id="st_hobo_matchbox">
+		<text>マッチ箱</text>
+	</string>
+	
+	<string id="st_hobo_matchbox_descr">
+		<text>
+            どこでも点けられるマッチの箱。ホームレスストーカーにとって、マッチを濡らさず、バックパックの中にマッチを散らさないために非常に便利。  \n \n \n
+			
+			%c[ui_gray_3]特性:  \n 
+			%c[d_blue] ・%c[ui_gray_2] 入ってるマッチの本数  \n 			
+		</text>
+	</string>	
+	
+	<string id="st_add_match">
+        <text>箱にマッチを入れた</text>
+    </string>
+	
+	<string id="st_match_box">
+        <text>マッチ箱</text>
+    </string>
+	
+	<string id="st_match_bundle">
+        <text>マッチを束ねる</text>
+    </string>
+	
+	<string id="st_take_match">
+        <text>マッチを取り出す</text>
+    </string>
+	
+	<string id="st_box_full">
+        <text>このマッチの箱は満タンだ</text>
+    </string>
+	
+	<string id="st_number_of_uses">
+		<text>箱の中のマッチ</text>
+	</string>
+</string_table>

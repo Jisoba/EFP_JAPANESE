@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<string id="igi_task_text_arszi_scout_title">
+		<text>偵察</text>
+	</string>
+<!-- Cold -->
+<!-- mar_smart_terrain_base_stalker_leader_marsh_task_arszi_scout -->
+	<string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_task_arszi_scout_title">
+		<text>グレートマーシュを偵察する。</text>
+	</string>
+    <string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_task_arszi_scout_descr">
+		<text>コールドからグレートマーシュの一帯を偵察するよう依頼された。</text>
+	</string>
+    <string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_task_arszi_scout_job_descr">
+		<text>聞いてくれ、偵察をしてくれる人が必要なんだ。沼地の廃墟をいくつか調べて、報告してくれるだけでいいんだ。繰り返す、これは偵察任務だ! 無理に英雄になろうとせず、生きて帰ってきてくれ!殺しても、今回は何の報酬もない! もし抵抗を受けたら逃げて報告しろ この情報は、次の行動を計画し、ここでの安全を確保するために大いに役立つだろう。</text>
+	</string>
+	<string id="igi_task_text_st_mar_smart_terrain_base_stalker_leader_marsh_task_arszi_scout_finish">
+		<text>何を見つけたんだ？なるほどな・・・ご苦労だった！報酬だ。</text>
+	</string>
+<!-- Fanatic -->
+<!-- esc_2_12_stalker_fanat_task_arszi_scout -->
+	<string id="igi_task_text_esc_2_12_stalker_fanat_task_arszi_scout_title">
+		<text>ルーキー村周辺の偵察</text>
+	</string>
+    <string id="igi_task_text_esc_2_12_stalker_fanat_task_arszi_scout_descr">
+		<text>ファナティックからルーキー村周辺の偵察を依頼された。</text>
+	</string>
+    <string id="igi_task_text_esc_2_12_stalker_fanat_task_arszi_scout_job_descr">
+		<text>君にお願いがあるんだ。ルーキー村の安全を守るのは簡単なことではない。南にはMilitaryと呼ばれる愉快な集団がいる。北にはBanditやミュータント、時にはMercenaryがいる......。北の方を偵察して、その状況を報告してもらえると助かるんだ。Banditやミュータントのキャンプ地を知っていれば、ルーキーにとって致命的な出会いを防ぐことができる。排除してくれとは言わない。ただ、周囲を見て、危害を加えないようにして、無事に帰ってきてくるように。もちろん、礼は弾む。</text>
+	</string>
+	<string id="igi_task_text_st_esc_2_12_stalker_fanat_task_arszi_scout_finish">
+		<text>まあ、もっと悪いかもしれないが、ありがとう、しばらくはどの地域を避けるべきか皆に伝えられる。約束通り、報酬だ。</text>
+	</string>
+<!-- General Voronin -->
+<!-- bar_dolg_leader_task_arszi_scout -->
+	<string id="igi_task_text_bar_dolg_leader_task_arszi_scout_title">
+		<text>ロストク周辺を偵察する。</text>
+	</string>
+    <string id="igi_task_text_bar_dolg_leader_task_arszi_scout_descr">
+		<text>ヴォロニン将軍から、ロストク周辺の偵察を依頼された。</text>
+	</string>
+    <string id="igi_task_text_bar_dolg_leader_task_arszi_scout_job_descr">
+		<text>よし、命令だ!敵とミュータントの動きに関する情報を集めるんだ。ロストク、ガベージ、陸軍倉庫、トラック墓地のエリアに興味がある。君はこれらのエリアのいずれかに派遣され、敵を偵察して報告することが任務となる 敵に遭遇したら発砲しても構わないが、なるべくなら避けた方がいい。これから収集する情報は、今後の作戦立案に欠かせない。帰還後、報酬を支払おう。</text>
+	</string>
+	<string id="igi_task_text_st_bar_dolg_leader_task_arszi_scout_finish">
+		<text>よくやった、この情報は我々の計画を前進させるだろう。ここに報酬がある。</text>
+	</string>
+<!-- Sultan -->
+<!-- zat_b7_bandit_boss_sultan_task_arszi_scout -->
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_arszi_scout_title">
+		<text>ハイドアウトの周辺を偵察する。</text>
+	</string>
+    <string id="igi_task_text_zat_b7_bandit_boss_sultan_task_arszi_scout_descr">
+		<text>スルタンから、ハイドアウトの周辺を偵察するように頼まれた。</text>
+	</string>
+    <string id="igi_task_text_zat_b7_bandit_boss_sultan_task_arszi_scout_job_descr">
+		<text>ああ見ろよ、みすぼらしいぜ、ストーカー！。遊び道具とウォッカを買う金が欲しいなら......偵察をしてこい。ダークバレーの南側と西側を見てきてくれ。どんな情報でもいい 役に立ちそうなものを探せ 報酬も出るかもしれない あの研究室と軍人には気をつけろ あいつらと一匹狼には最近悩まされてるんだ。さあ、行ってこい！面白い話ができるまで戻ってくるなよ！？</text>
+	</string>
+	<string id="igi_task_text_st_zat_b7_bandit_boss_sultan_task_arszi_scout_finish">
+		<text>おやおや、無事に戻ってきたようだな。しかも、面白い情報まで持ってきてくれるとは。よくやった ほら、報酬だ。飲み代に使うなよ、聞いてるか？お前のような有能な男が必要なんだ、もっとビジネスをしようじゃないか！</text>
+	</string>
+<!-- Major Kuznetsov -->
+<!-- agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_arszi_scout -->
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_arszi_scout_title">
+		<text>基地の周辺を偵察する。</text>
+	</string>
+    <string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_arszi_scout_descr">
+		<text>クズネツォフ少佐から、基地周辺の偵察を依頼された。</text>
+	</string>
+    <string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_arszi_scout_job_descr">
+		<text>命令だ、兵士よ！この辺りで何が起こっているのか知りたい。君達には偵察任務が与えられ、基地周辺の情報を収集するよう命じられる。私はグレートマーシュの北部にあるアグロプロムという地域に興味があり、本部から科学者の援助も要請された。情報を集めて報告せよ。対立はなるべく避けよ。これは偵察であって、排除の任務ではないぞ。</text>
+	</string>
+	<string id="igi_task_text_st_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_arszi_scout_finish">
+		<text>なるほど、よく分かった。よくやった、兵士よ! 報酬にいくらか色付けをしておいた。</text>
+	</string>
+<!-- Lukash -->
+<!-- mil_smart_terrain_7_7_freedom_leader_stalker_task_arszi_scout -->
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_arszi_scout_title">
+		<text>陸軍倉庫の周辺を偵察する。</text>
+	</string>
+    <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_arszi_scout_descr">
+		<text>ルカシュから陸軍倉庫周辺の偵察を依頼された。</text>
+	</string>
+    <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_arszi_scout_job_descr">
+		<text>我々の故郷を守るため、あなたに協力を要請したい。最近、DutyとMonolithの目撃情報が多く、あの呪われた村からブラッドサッカーどもが日に日に近づいているのは言うまでもないだろう。陸軍倉庫の現状について情報が必要だ。地図に印をつけておいた場所を調べて、報告してくれ。可能な限り戦闘は避けるように。無事に戻ってくるように!</text>
+	</string>
+	<string id="igi_task_text_st_mil_smart_terrain_7_7_freedom_leader_stalker_task_arszi_scout_finish">
+		<text>嵐の前の静けさのように感じるよ。感謝する。</text>
+	</string>
+<!-- Dushman -->
+<!-- cit_killers_merc_trader_stalker_task_arszi_scout -->
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_arszi_scout_title">
+		<text>デッドシティ周辺を偵察せよ</text>
+	</string>
+    <string id="igi_task_text_cit_killers_merc_trader_stalker_task_arszi_scout_descr">
+		<text>ダッシュマンからデッドシティ周辺を偵察するよう頼まれた。</text>
+	</string>
+    <string id="igi_task_text_cit_killers_merc_trader_stalker_task_arszi_scout_job_descr">
+		<text>聞いてくれ、今後の作戦対象地域を偵察するボランティアを募集している。作戦地域に潜入し、情報を収集し、報告するのだ。危険度は低く、報酬は許容範囲。時折、接敵する可能性がある。どうだ？</text>
+	</string>
+	<string id="igi_task_text_st_cit_killers_merc_trader_stalker_task_arszi_scout_finish">
+		<text>よくやった！これがその報酬と追加報酬だ。</text>
+	</string>
+<!-- Krolik -->
+<!-- pri_monolith_monolith_trader_stalker_task_arszi_scout -->
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_arszi_scout_title">
+		<text>プリピャチ周辺を偵察せよ</text>
+	</string>
+    <string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_arszi_scout_descr">
+		<text>クロリクからプリピャチ周辺の偵察を頼まれた。</text>
+	</string>
+    <string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_arszi_scout_job_descr">
+		<text>兄弟！異教徒は日に日に聖地の中心へと近づいている！彼らはいたるところで虫のように這っている！君には、彼らが這う石の下と、彼らが隠れる穴を見つけるよう頼む。その場所を知った瞬間、Monolithの名において、我々は攻撃する！行ってこい！そして、無事に情報を持って帰ってこい！遭遇しないことも、名誉の死を遂げないことも、決して恥ではない。ただ見守り、聞き耳を立て、攻撃の準備をすることで、より多くの災難を引き起こすことができる状況もあるのだ! あなたの任務をMonolithが見守りますよう！</text>
+	</string>
+	<string id="igi_task_text_st_pri_monolith_monolith_trader_stalker_task_arszi_scout_finish">
+		<text>Monolithを讃えよ！そなたは兄弟達に大きな貢献をした！</text>
+	</string>
+</string_table>

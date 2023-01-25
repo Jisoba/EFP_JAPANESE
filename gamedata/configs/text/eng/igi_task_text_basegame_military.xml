@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Lukash (Freedom Honcho) Stop Enemy Assault Task -->
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_title">
+		<text>敵の襲撃を撃退しろ</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_descr">
+		<text>Freedom野営地に迫る襲撃部隊を迎え撃つ。その場所を一掃したらルーカッシュに報告しろ。</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_job_descr">
+		<text>Freedomに敵対する部隊が我々の野営地のひとつに進入している。その侵略を撃退できる人材が必要だ。おまえはその仕事に適した人間か？</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_finish">
+		<text>任務はこなしたか？よし</text>
+	</string>
+
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_title">
+		<text>Freedomのために領土を奪還する</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_descr">
+		<text>派閥の領土を奪還する任務を与えられている。仕事が終わったらルーカッシュに報告しろ。</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_job_descr">
+		<text>重要な任務があるのだが、よいか？Dutyが我々の野営地の1つを占領したので、それを取り戻すための侵入者が必要なのだ。</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_finish">
+		<text>すばらしい、よくやった。</text>
+	</string>
+
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_title">
+		<text>Monolith改宗者の排除</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_descr">
+		<text>FreedomのメンバーがMonolithによって改宗させられた。ルーカッシュは彼を見つけて殺すよう命じた。</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_job_descr">
+		<text>重大なニュースがあるんだ。Freedom戦士のひとりがMonolithの影響を受けてしまった。彼はいいやつだったし、異質なクリスタルに洗脳された殺人鬼として生き続けることを、望んでいなかっただろうと思う。どうか、彼を見つけて倒してほしい。さもなければ、彼の昔の友人たちがそれをしなけりゃならなくなる。</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_finish">
+		<text>終わったのか？よし。大変だっただろうに。防衛線の兄弟たちは、倒された仲間に乾杯するだろう。あんたへの報酬はこれだ。</text>
+	</string>
+
+
+	<!-- ASSASSINATE DUTY FOR FREEDOM TASK -->
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_4_title">
+		<text>厄介なストーカーを対処せよ</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_4_descr">
+		<text>ルーカッシュはターゲットを見つけて排除するよう命じた。</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_4_job_descr">
+		<text>Freedomに反対する声の大きい奴がいて、それを黙らせる必要がある。あんたは人を黙らせるのが得意か？</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_4_finish">
+		<text>最高だな。あんたは俺たちの誇りだ。これが約束のものだ。</text>
+	</string>
+
+
+	<!-- FIND WEAPON FOR FREEDOM TASK -->
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_5_title">
+		<text>新品同様の銃を探せ</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_5_descr">
+		<text>新品同様の銃器を探すようにルーカッシュに頼まれた。探し物が見つかったら、彼のところに戻れ。</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_5_job_descr">
+		<text>南にはDuty、北にはMonolithがあり、我々は孤立している。武器も消耗しているので、交換が必要だ。銃を使ったことはあるか？</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_5_fetch_job_descr">
+		<text>南にはDuty、北にはMonolithがあり、我々は孤立している。武器も消耗しているので、交換が必要だ。銃を使ったことはあるか？</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_5_fetch_finish">
+		<text>よくやった。これでゾーンの防衛に大きな力を発揮してくれるだろう。約束のお支払だ。</text>
+	</string>
+	
+	<!-- Lukash (Freedom Honcho) Decimate the Enemy Task -->
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_bs_fetch_patches_title">
+		<text>トリガー ハッピー</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_bs_fetch_patches_descr">
+		<text>ワッペンを集めることをルーカッシュは望んでいる。</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_bs_fetch_patches_job_descr">
+		<text>さて、俺たちは一種の挟み撃ち作戦の状況にある。北に狂信者、南に狂信者、それに加えてMilitaryのチンカスどももいる。奴らのルールや理想に対して我々がどう思っているのか、古き良き時代のやり方で示してみてはどうだろうか？いくつかワッペンがほしい。</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_bs_fetch_patches_finish">
+		<text>おい、いい仕事だったぜ。これはあんたの金だ。</text>
+	</string>
+	
+	<!-- Lukash (Freedom Honcho) Mortal Sin Unquenchable Flame Tasks -->
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_7_job_descr">
+		<text>おい。ここでひとつ。Sinの奴らを覚えているか？彼らはエホバの証人のように消えやしない。ただ銃を持ち暴力的なだけだ。前回、お前が奴らのケツを蹴飛ばした時、奴らはメモを取らなかったから、そろそろアンコールが必要だと思うんだ。ルーカッシュによると、奴らはザトンで行儀の悪いことをしているところを目撃されていて、特に廃墟となった変電所の作業場周辺で目撃されているそうだ。鎮圧してこい。</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_7_finish">
+		<text>あいつらには俺たちのランボーには勝てないと思っていたよ。いい仕事をだったな。報酬を受け取るに値するぜ。</text>
+	</string>
+
+	<!-- Lukash (Freedom Honcho) Rescue the Freedom Agent Task -->
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_8_title">
+		<text>Freedom諜報員の救出</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_8_descr">
+		<text>潜入している諜報員を撤退させる必要がある。一緒に行動している部隊のメンバーを排除し、彼を基地まで安全に案内しろ。そのスパイはSVDを持っている。</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_8_job_descr">
+		<text>敵の陣営に潜入している諜報員がいるんだが、彼が疑われている可能性がある。彼は何回かの連絡を最後に、定時連絡が途絶えたんだ。おそらくだが、監視されている状態に置かれているために満足に動けていないのだろう。もしかしたら、証拠も無しに排除されるかもしれん。我々は彼を救出する必要がある。我々は彼の近くで監視したが、他のストーカーと一緒にいた。あんたには周辺のストーカーを排除して、彼を護衛してもらいたい。彼の識別方法だが、SVDを装備しているはずだ、それで特定出来る。そのグループを攻撃するとき、立場上彼はあんたを撃たなきゃならんことを忘れるなよ。</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_8_finish">
+		<text>素晴らしい、すぐに報告しよう。</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_8_msg_join">
+		<text>撃つな！俺はスパイだ！すまなかった、あのまま戦闘が続いてたらマジもんの殺し合いショーを続けなけりゃならんかった。さて、基地に戻ろう。</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_8_msg_leave">
+		<text>ストーカー、俺を救い出してくれてありがとな！また会おう！</text>
+	</string>
+	
+	
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_9_title">
+		<text>なぜ私たちは良いものを手に入れることができないのか</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_9_descr">
+		<text>ルーカッシュからコードンの軍用車両を破壊するよう依頼されました ゾーンに被害が及ぶ前に、爆薬が必要です</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_9_job_descr">
+		<text>爆発物を持っているか？それならいい仕事がある 今 軍はゾーンを補強するため 装甲車を投入している これは妥当なのか？倉庫にある錆びたガラクタを見ろ！戦車が使えないのならゾーンの中では政府も同じだ。私のスパイが言うには、これらの車両が到着して、コードン検問所に配置されるそうです。心配ない 無人だから安心して破壊できる。参加したいか？パイナップルを詰めて出発だ!</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Skinflint (Freedom Mechanic) -->
+	
+	<!-- FIND MUTANT MEAT FOR FREEDOM TASK -->
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_1_title">
+		<text>Freedomのためのワイルドゲーム</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_1_descr">
+		<text>スキンフリントは私にお金を払って ミュータントの部位を持って来いと言った。狩りに行く時間だ</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_1_job_descr">
+		<text>あんたにピッタリの仕事があるミュータントが怖くないのならね。興味あるか？</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_1_fetch_job_descr">
+		<text>それで、何人かがボブ・マーリーの誕生日を祝うディナー・パーティーを計画しているんだ。遅かれ早かれね。とにかく、ご馳走になる肉は多ければ多いほどいいんだ。ジャーはあなたのことを決して忘れないだろう。</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_1_fetch_finish">
+		<text>ああ、これはシェフが調理すれば立派な料理になる。これが支払いだ。ウォッカでも買って祝杯をあげたらどうだ？</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Skinflint (Freedom Mechanic) Deliver Equipment Dynamic Task -->
+
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_2_title">
+		<text>ロックされたケースをスキンフリントに届ける</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_2_descr">
+		<text>スキンフリントが配達物を必要としている</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_2_job_descr">
+		<text>今日、ある宅配業者が荷物を運ぶ予定だった。残念なことに、パトロールに見つかり、安全な場所に隠さないといけなくなった。ネットワークから消える前に 隠す場所の座標を送ってきた もし君が 荷物を取ってきてくれるなら 報酬を渡そう。</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_2_finish">
+		<text>ちょっと見てみようか...そうだ、これであってる。ありがとうストーカー、これがあんたの分け前だ。</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Skinflint (Freedom Trader) Night Terror Task -->
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_3_title">
+		<text>ファントム・イン・ザ・ダーク</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_3_descr">
+		<text>スキンフリントはブラッドサッカー村に出没する危険なミュータントを排除したいと考えている。</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_3_job_descr">
+		<text>最近、キャンプでの睡眠が少し難しくなっている。毎晩叫び声が聞こえるが、我々が何もしないうちに、一人、また一人と路上の兵士が暗闇に飲み込まれた。翌日、村に散乱する彼らの遺体を発見した。\n \nルーカッシュは珍しい種類のブラッドサッカーが町にいるかもしれないと考えている。夜にしか姿を現さない凶暴な奴だ 数人の兵士は 夜間の山歩きをやめるべきだと 、直接狙うのは危険すぎると考えている\n \n日暮れ後、村で待つだけの勇気があるなら、あの野郎を殺してルーブルをもらうのもいいし、この辺りの若者たちも、またぐっすり眠れることに感謝するだろうね。少なくとも "ブレイン・スコーチャー "の近くではぐっすり眠れるだろう。 </text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_3_finish">
+		<text>まじか、本当にやったんだな！キャンプに良い知らせを伝えておくよ。君のようなハンターがいてくれて嬉しいよ。</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Skinflint (Freedom Trader) Scarce Supplies Task -->
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_4_title">
+		<text>希少物資</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_4_descr">
+		<text>スキンフリントはFreedomの医務室の在庫を確保するために、医療用品を必要としている。私は彼を助けることに同意した。</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_4_job_descr">
+		<text>やあ。時々、冒険をしすぎてしまう奴らがいるんだ。全員を治療するには物資が足りない。</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_4_fetch_job_descr">
+		<text>ああ Freedomでの生活がいかに荒れているか知っているよな？弾丸を避け、狂信者と戦うことは、この辺りの日常生活の一部なんだ。Freedomの兵士は最高だが、薬も不足している。ソリッドが高慢で医療物資の整理ができないから、その責任は俺にあるんだ。もし君が医薬品を持ち込むのを 手伝ってくれるならFreedomから感謝されるよ ルーブルもな </text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_4_fetch_finish">
+		<text>ああ素晴らしい。ソリッドが必要な時まで目に付かないようにしとくよ。ありがとう、ストーカー</text>
+	</string>
+	
+	
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_5_title">
+		<text>アーマス・アーティファクト・ハンティング装備</text>
+	</string>
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_5_job_descr">
+		<text>さて、確認しておくべき重要なことがある。ベラルスで危険を冒さなくてもFreedomが潜れる科学バンカーは2つだけだ。それ以上でも以下でもない。1つはDutyとMilitaryのチンピラに挟まれていて、その他にも何か知っている人がいる。もう一つはプリピャチから軽くジョギングしたところにある。そしてどちらも、我々が戦う相手国の政府が スポンサーだ。新しいアーティファクト収集の準備を始める必要がある... ...突然、どちらかの場所で 我々のサポートが途絶えた場合に備えてだ。ベア検出器とアーティファクト・コンテナを集め始めてくれ。私が要求しているものはすべて入手に時間がかかると理解している。心配するな、報酬は十分払える。もし、余分に電池を買ってきてくれたら、ボーナスも出そう。それで...どうする？</text>
+	</string>
+		
+	<!-- Solid (Freedom Medic) -->
+	<string id="igi_task_text_mil_freedom_medic_task_1_title">
+		<text>ソリッドのために薬物製造キットを探す</text>
+	</string>
+	<string id="igi_task_text_mil_freedom_medic_task_1_descr">
+		<text>薬物製造キットはソリッドが医療用具の仕事で必要としている。見つけたら渡そう</text>
+	</string>
+	<string id="igi_task_text_mil_freedom_medic_task_1_job_descr">
+		<text>毎日これだけの数の負傷者を治療しなければならないから、医薬品倉庫に残っているものを維持できるか心配だ。そのうち包帯や医療キットが足りなくなりそうだ。お古の薬品製造ツールを探してくれないかな。きっと役に立つはずだ。</text>
+	</string>
+	<string id="igi_task_text_mil_freedom_medic_task_1_fetch_job_descr">
+		<text>ある。俺は薬物製造キットを探しまくっていた。医療品の作業をするのに必要な錠剤やアンプルが入っているはずだ。このキットを全部持ってきてくれたら、1個分の報酬を払おう。</text>
+	</string>
+	<string id="igi_task_text_mil_freedom_medic_task_1_fetch_finish">
+		<text>いい仕事っぷりだった！あんたには大きな借りができたな。</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+<!-- Butcher -->
+<!-- hunter_gar_trader_task_common_trophy -->
+	<string id="igi_task_text_arszi_fetch_trophy_title">
+		<text>一般的なミュータントの獲物を探す</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_trophy_descr">
+		<text>ブッチャーからいくつかのありふれた獲物を持ってきてくれと頼まれた。</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_trophy_job_descr">
+		<text>ミュータントの部位で価値があるのは肉だけではない。ストーカーの中には、ミュータントの特定の部位を戦利品や幸運のお守りとして珍重する者もいる。例えば、素敵なスードウドッグの牙のネックレスや、ベルトにぶら下げたふわふわのキャットの尻尾のようなものだ。ミュータントを狩り、そのパーツを達成のシンボルとして身につけることは誰にでもできるが、特別に華やかなアイテムを作るには、本物の実力が必要だ。- 戦利品を持ってきてくれたら、それを使っておしゃれなアクセサリーを作ってやろう。やってみるか？</text>
+	</string>
+	<string id="igi_task_text_arszi_fetch_trophy_finish">
+		<text>いい素材を集めたな。よくやった、ハンター</text>
+	</string>
+<!-- hunter_gar_trader_task_common_hide -->
+	<string id="igi_task_text_arszi_fetch_hide_title">
+		<text>一般的なミュータントの皮革や毛皮を探す</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_hide_job_descr">
+		<text>天気はますます寒くなるばかり・・・。ゾーンのミュータントたちは、暖かい毛皮を生やすことで、この地域の天候の危険から生き残ってきた。今こそ毛皮を集める時だ! また、毛皮は暖を取るだけでなく、消耗した鎧を修理したり、異変に対して有利になるなど、多くの効用があるんだ! 俺のために毛皮を集めてくれたら、分け前をやるよ。</text>
+	</string>
+	<string id="igi_task_text_arszi_fetch_hide_finish">
+		<text>ミュータントの皮を剥ぐのは そんなに難しくなかったろ？ ハンター？</text>
+	</string>
+	<!-- hunter_gar_trader_task_psy_dog_fur -->
+	<string id="igi_task_text_arszi_fetch_psy_dog_fur_title">
+		<text>最高級の毛皮 - ブッチャーのためにサイドッグの毛皮を探す</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_psy_dog_fur_descr">
+		<text>ブッチャーから珍しいサイドッグの毛皮を持ってくるよう頼まれた。</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_psy_dog_fur_job_descr">
+		<text>ゾーンの奥深くに棲息する生物がいる。その姿は非常に珍しく、遭遇しても生き残るストーカーはそう多くはない。その遠吠えはあんたの血を凍らせ、その目はあんたの心と魂を見抜くのさ。この生物はサイ・ドッグと呼ばれ、独特の銀色の毛皮を持つ、美と死を併せ持つ生物だ。多くのハンターが憧れる最高級の毛皮だ。サイ・ドッグの毛皮をくれ、ハンターよ。</text>
+	</string>
+	<string id="igi_task_text_arszi_fetch_psy_dog_fur_finish">
+		<text>持ってきたか？！今まで見た中で一番いい毛皮だ。これが支払いだ、ハンター そして、他の物もだ。この辺りで見つけたが、あまり使い道がない。</text>
+	</string>
+	<!-- hunter_gar_trader_task_arszi_fetch_beak -->
+	<string id="igi_task_text_arszi_fetch_beak_title">
+		<text>ゾーンの伝説 - ブッチャーのために変異したクロウのくちばしを見つけよう</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_beak_descr">
+		<text>ブッチャーから、珍しいクロウのくちばしの変異体を持ってくるように頼まれた。</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_beak_job_descr">
+		<text>ゾーンには多くの伝説がある。だが我々ハンターが、関心を持っているのはほんの一部だ。クロウのくちばしの話も、その一つだ。これを酒にして飲めば、一時的に超能力が身につくと信じているストーカーもいる。つまり、そのために大金を払うストーカーもいるのだ。エルダークロウの突然変異したくちばしをもってこい。</text>
+	</string>
+	<string id="igi_task_text_arszi_fetch_beak_finish">
+		<text>これがその伝説のくちばしなんだな。確かにちょっと違うような気がする。さあ、報酬だ、ハンター。</text>
+	</string>
+	<!-- hunter_gar_trader_task_bloodsucker -->
+	<string id="igi_task_text_arszi_fetch_bloodsucker_title">
+		<text>精巧なジュエリー</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_bloodsucker_descr">
+		<text>ブッチャーがブラッドサッカーの顎を持ってくるように頼んできた。</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_bloodsucker_job_descr">
+		<text>人々は、ブラッドサッカーは珍しいと言う。まあ、そいつは半分正解ってところだ。というのも、ほとんどのストーカーは遭遇しても生き延びることができず、それを語ることができないからな。実際には、ブラッドサッカーはどこにでも群がっている。日中は隠れていて、夜になると出てきて狩りをする。ブラッドサッカーの顎を集めてくれ、狩りの時は気をつけろよ。あんたが見えてなくても、やつらが見えていないとは限らないぞ。</text>
+	</string>
+	<string id="igi_task_text_arszi_fetch_bloodsucker_finish">
+		<text>素晴らしい！狩りの間、味見されなかったことを祈るよ。これが支払いだ、ハンター。</text>
+	</string>
+	<!-- hunter_gar_trader_task_chimera -->
+	<string id="igi_task_text_arszi_fetch_chimera_title">
+		<text>究極のハンター</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_chimera_descr">
+		<text>ブッチャーがキメラの一部を持ってくるように言ってきた。</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_chimera_job_descr">
+		<text>その昔、人間は動物を恐れ、動物は人間を恐れていた。しかし、ゾーンが出現して、すべてが再び変化した・・・。ゾーンには狩人も獲物もなく、狩人だけがいる。今日は狩る側だが、明日は狩られる側になるかもしれない。究極のハンター、キメラが存在する。進化の頂点に立つ者だ お前はハンターとして究極の試練に立ち向かう勇気があるか？もしイエスなら、キメラを狩って、戦利品を持って来てくれ。あんたの帰りを待っている!</text>
+	</string>
+	<string id="igi_task_text_arszi_fetch_chimera_finish">
+		<text>最高の獲物だ！これが褒美だ ハンターよ。そして他の物もだ この辺りで見つけたが使い道がない、お前に譲ろう！</text>
+	</string>
+<!-- Fanatic -->
+<!-- esc_2_12_stalker_fanat_task_meat -->
+	<string id="igi_task_text_arszi_fetch_meat_title">
+		<text>ルーキーのための食事</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_meat_descr">
+		<text>ファナティックに物資を持ってくるよう頼まれた。</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_meat_job_descr">
+		<text>毎日たくさんのルーキーが訪れるから、ルーキー村の物資が少し不足気味なんだ。そこで、ルーキーたちに温かい食事を提供するために、君たちに肉を取ってきてほしいんだ。</text>
+	</string>
+	<string id="igi_task_text_arszi_fetch_meat_finish">
+		<text>ありがとう友よ、これが私たちを助けてくれた報酬だ!</text>
+	</string>
+<!-- Wolf -->
+<!-- esc_2_12_stalker_wolf_task_night -->
+	<string id="igi_task_text_night_title">
+		<text>コードンの夜警 - ミュータントを排除する</text>
+	</string>
+    <string id="igi_task_text_night_descr">
+		<text>ウルフから危険な夜行性ミュータントの排除を依頼された。</text>
+	</string>
+    <string id="igi_task_text_night_job_descr">
+		<text>あんたも眠れないのか？その方がいいかもしれないぜ。聞いてくれ、怯えたルーキーから報告があったんだ。この辺りで奇妙な音を聞いたそうなんだ。その音から推測すると、危険な夜行性の変異体に違いない。村の安全のために、音の発生源を探し出し追い詰めてくれ！</text>
+	</string>
+	<string id="igi_task_text_night_finish">
+		<text>よくやった、ルーキー村はとりあえず無事だ。これが報酬だ。</text>
+	</string>
+<!-- Sakharov -->
+<!-- yan_stalker_sakharov_task_mutant_parts_specimen_monster_common -->
+	<string id="igi_task_text_arszi_fetch_monster_common_title">
+		<text>一般的なミュータントのサンプルの収集</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_monster_common_descr">
+		<text>サハロフから一般的なミュータントのサンプルを持ってくるように言われた。</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_monster_common_job_descr">
+		<text>一般的なミュータントのサンプルが尽きた。私たちの研究の優先順位は、珍しいヒューマノイドミュータントと人工物だが、地元の野生動物に起こっている変化にも興味がある。個人的な興味は別として、動物たちがゾーンでどのような進化を遂げたかについて、まだ分かることがあるかもしれない。いくつかの種は、新しい薬の開発や、ゾーンそのものをより深く理解するために、有望な能力を示している。あんたも科学に貢献してみないか？サンプルを持ってくるだけでいい。</text>
+	</string>
+	<string id="igi_task_text_arszi_fetch_monster_common_finish">
+		<text>ありがとう、若者よ! これが報酬だ。</text>
+	</string>
+<!-- yan_stalker_sakharov_task_mutant_parts_specimen_zombie -->
+	<string id="igi_task_text_arszi_fetch_zombie_title">
+		<text>ゾンビ化したヒューマノイドのサンプル採取</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_zombie_descr">
+		<text>サハロフから、ゾンビ化したヒューマノイドのサンプルを持ってくるように言われた。</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_zombie_job_descr">
+		<text>ゾーンには多くのユニークな現象があります。特に、ある種のミュータントや アノマリーが持つ能力など、精神に関連する効果に関心がある。その一方で、これらの効果の結果には驚かされるものがある。これらの効果の犠牲者は、ある意味では生きていないはずなのに、まだ生きているのだ。このことは、「生命」そのものに関する多くの説を覆すものだ。もうわかってるかも知れないが、いわゆるゾンビ化した人たちのことを指しているのだが、私はこの言葉は非常に非科学的だと思う。私は、高レベルの精神波との接触によって脳が深刻なダメージを受けた後、彼らに起こった生物学的プロセスを研究したいと常に思っているのだ。ぜひサンプルを持ってきてくれ。</text>
+	</string>
+	<string id="igi_task_text_arszi_fetch_zombie_finish">
+		<text>こんな風に終わってしまうなんて、本当に悲しいよ。そうそう、これが報酬だ。</text>
+	</string>
+<!-- yan_stalker_sakharov_task_mutant_parts_specimen_humanoid -->
+	<string id="igi_task_text_arszi_fetch_humanoid_title">
+		<text>ヒューマノイドのサンプルの収集</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_humanoid_descr">
+		<text>サハロフからヒューマノイドのサンプルを持ってくるように言われた。</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_humanoid_job_descr">
+		<text>ゾーンは私たちが知っている生活を変えた。動物だけでなく人間もだ。突然変異を起こした人間の、調査報告が多数寄せられている。マインド・コントロール、超人的な力、再生能力などなど。私たちは、このような変異した人間、あるいは人型ミュータントのサンプルに最も興味を持っている。当然、その不可思議な知性は、経験の浅いストーカーが慣れているボアやドッグよりもはるかに手ごわいものとなる。確かに危険な依頼ではあるが、サンプルを持ってくれば、あんたは本当に裕福なストーカーになれるのさ。</text>
+	</string>
+	<string id="igi_task_text_arszi_fetch_humanoid_finish">
+		<text>魅力的だ! このサンプルは、想像を超えた科学の扉を開くかもしれない。約束の報酬だ！</text>
+	</string>
+<!-- yan_stalker_sakharov_task_mutant_parts_specimen_mutant_rare -->
+	<string id="igi_task_text_arszi_fetch_monster_rare_title">
+		<text>希少なミュータントのサンプルの収集</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_monster_rare_descr">
+		<text>サハロフに頼まれて、珍しいミュータントのサンプルを持ってくるよう言われた。</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_monster_rare_job_descr">
+		<text>ゾーンには頂点捕食者とも言えるミュータントが存在する。そのため、我々にとって非常に珍しく、それらに接触して生存しているストーカーはごくわずかだ。 噂では、高放射線量やアノマリーとの接触のような過酷な条件下でも生き残ることができるものもいるそうだ。私はこの噂が本当かどうか、科学的に証明したい。ゾーンでは様々なことが可能だ。当時の私でも非科学的だと思ったようなことが・・・。危険な任務だ、サンプルを持って来てくれ。</text>
+	</string>
+	<string id="igi_task_text_arszi_fetch_monster_rare_finish">
+		<text>このような素晴らしいサンプルは滅多にお目にかかれないだろう。こいつには多くの秘密が隠されているだろう！約束の報酬だ。</text>
+	</string>
+</string_table>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+
+	<string id="st_hide_flesh2_name">
+		<text>「フレッシュ」の皮(変換された)</text>
+	</string>
+	<string id="st_hide_flesh2_descr">
+		<text>「フレッシュ」の皮にアーティファクトを埋め込むことで、その保護性能をさらに高め、耐久性を向上させた物。\n \n
+		%c[ui_gray_2]特性:\n
+		%c[d_cyan] ・%c[0,255,0,0] 変換された\n
+		%c[d_cyan] ・%c[ui_gray_2] 改良されたミュータントの皮\n
+		%c[d_cyan] ・%c[ui_gray_2] 強化された特性\n
+		%c[d_cyan] ・%c[ui_gray_2] 追加効果\n
+		</text>
+	</string>
+	
+	<string id="st_hide_boar2_name">
+		<text>「ボア」の皮(変換された)</text>
+	</string>
+	<string id="st_hide_boar2_descr">
+		<text>「ボア」の皮にアーティファクトを埋め込むことで、その保護性能をさらに高め、耐久性を向上させた物。\n \n
+		%c[ui_gray_2]特性:\n
+		%c[d_cyan] ・%c[0,255,0,0] 変換された\n
+		%c[d_cyan] ・%c[ui_gray_2] 改良されたミュータントの皮\n
+		%c[d_cyan] ・%c[ui_gray_2] 強化された特性\n
+		%c[d_cyan] ・%c[ui_gray_2] 追加効果\n
+		</text>
+	</string>
+
+	<string id="st_hide_chimera2_name">
+		<text>キメラの皮(変換された)</text>
+	</string>
+	<string id="st_hide_chimera2_descr">
+		<text>キメラの皮にアーティファクトを埋め込むことで、その保護性能をさらに高め、耐久性を向上させた物。\n \n
+		%c[ui_gray_2]特性:\n
+		%c[d_cyan] ・%c[0,255,0,0] 変換された\n
+		%c[d_cyan] ・%c[ui_gray_2] 改良されたミュータントの皮\n
+		%c[d_cyan] ・%c[ui_gray_2] 強化された特性\n
+		%c[d_cyan] ・%c[ui_gray_2] 追加効果\n
+		</text>
+	</string>
+
+	<string id="st_hide_pseudogiant2_name">
+		<text>スードウジャイアントの皮 (変換された)</text>
+	</string>
+	<string id="st_hide_pseudogiant2_descr">
+		<text>スードウジャイアントの皮にアーティファクトを埋め込むことで、その保護性能をさらに高め、耐久性を向上させた物。\n \n
+		%c[ui_gray_2]特性:\n
+		%c[d_cyan] ・%c[0,255,0,0] 変換された\n
+		%c[d_cyan] ・%c[ui_gray_2] 改良されたミュータントの皮\n
+		%c[d_cyan] ・%c[ui_gray_2] 強化された特性\n
+		%c[d_cyan] ・%c[ui_gray_2] 追加効果\n
+		</text>
+	</string>
+
+	<string id="st_hide_psy_dog2_name">
+		<text>サイドッグの毛皮(変換された)</text>
+	</string>
+	<string id="st_hide_psy_dog2_descr">
+		<text>サイドッグの毛皮にアーティファクトを埋め込むことで、その保護性能をさらに高め、耐久性を向上させた物。\n \n
+		%c[ui_gray_2]特性:\n
+		%c[d_cyan] ・%c[0,255,0,0] 変換された\n
+		%c[d_cyan] ・%c[ui_gray_2] 改良されたミュータントの皮\n
+		%c[d_cyan] ・%c[ui_gray_2] 強化された特性\n
+		%c[d_cyan] ・%c[ui_gray_2] 追加効果\n
+		</text>
+	</string>
+
+	<string id="st_hide_pseudodog2_name">
+		<text>スードウドッグの毛皮(変換された)</text>
+	</string>
+	<string id="st_hide_pseudodog2_descr">
+		<text>スードウドッグの毛皮にアーティファクトを埋め込むことで、その保護性能をさらに高め、耐久性を向上させた物。\n \n
+		%c[ui_gray_2]特性:\n
+		%c[d_cyan] ・%c[0,255,0,0] 変換された\n
+		%c[d_cyan] ・%c[ui_gray_2] 改良されたミュータントの皮\n
+		%c[d_cyan] ・%c[ui_gray_2] 強化された特性\n
+		%c[d_cyan] ・%c[ui_gray_2] 追加効果\n
+		</text>
+	</string>
+
+	<string id="st_hide_burer2_name">
+		<text>バーラーの皮(変換された)</text>
+	</string>
+	<string id="st_hide_burer2_descr">
+		<text>バーラーの皮にアーティファクトを埋め込むことで、その保護性能をさらに高め、耐久性を向上させた物。\n \n
+		%c[ui_gray_2]特性:\n
+		%c[d_cyan] ・%c[0,255,0,0] 変換された\n
+		%c[d_cyan] ・%c[ui_gray_2] 改良されたミュータントの皮\n
+		%c[d_cyan] ・%c[ui_gray_2] 強化された特性\n
+		%c[d_cyan] ・%c[ui_gray_2] 追加効果\n
+		</text>
+	</string>
+
+	<string id="st_hide_controller2_name">
+		<text>「コントローラー」の頭皮(変換された)</text>
+	</string>
+	<string id="st_hide_controller2_descr">
+		<text>コントローラーの頭皮にアーティファクトを埋め込むことで、その保護性能をさらに高め、耐久性を向上させた物。\n \n
+		%c[ui_gray_2]特性:\n
+		%c[d_cyan] ・%c[0,255,0,0] 変換された\n
+		%c[d_cyan] ・%c[ui_gray_2] 改良されたミュータントの皮\n
+		%c[d_cyan] ・%c[ui_gray_2] 強化された特性\n
+		%c[d_cyan] ・%c[ui_gray_2] 追加効果\n
+		</text>
+	</string>
+
+	<string id="st_hide_bloodsucker2_name">
+		<text>ブラッドサッカーの皮(変換された)</text>
+	</string>
+	<string id="st_hide_bloodsucker2_descr">
+		<text>ブラッドサッカーの皮にアーティファクトを埋め込むことで、その保護性能をさらに高め、耐久性を向上させた物。\n \n
+		%c[ui_gray_2]特性:\n
+		%c[d_cyan] ・%c[0,255,0,0] 変換された\n
+		%c[d_cyan] ・%c[ui_gray_2] 改良されたミュータントの皮\n
+		%c[d_cyan] ・%c[ui_gray_2] 強化された特性\n
+		%c[d_cyan] ・%c[ui_gray_2] 追加効果\n
+		</text>
+	</string>
+
+	<string id="st_hide_psysucker2_name">
+		<text>サイサッカーの皮(変換された)</text>
+	</string>
+	<string id="st_hide_psysucker2_descr">
+		<text>サイサッカーの皮にアーティファクトを埋め込むことで、その保護性能をさらに高め、耐久性を向上させた物。\n \n
+		%c[ui_gray_2]特性:\n
+		%c[d_cyan] ・%c[0,255,0,0] 変換された\n
+		%c[d_cyan] ・%c[ui_gray_2] 改良されたミュータントの皮\n
+		%c[d_cyan] ・%c[ui_gray_2] 強化された特性\n
+		%c[d_cyan] ・%c[ui_gray_2] 追加効果\n
+		</text>
+	</string>
+
+	<string id="st_hide_lurker2_name">
+		<text>ルーカーの皮(変換された)</text>
+	</string>
+	<string id="st_hide_lurker2_descr">
+		<text>ルーカーの皮にアーティファクトを埋め込むことで、その保護性能をさらに高め、耐久性を向上させた物。\n \n
+		%c[ui_gray_2]特性:\n
+		%c[d_cyan] ・%c[0,255,0,0] 変換された\n
+		%c[d_cyan] ・%c[ui_gray_2] 改良されたミュータントの皮\n
+		%c[d_cyan] ・%c[ui_gray_2] 強化された特性\n
+		%c[d_cyan] ・%c[ui_gray_2] 追加効果\n
+		</text>
+	</string>
+
+</string_table>

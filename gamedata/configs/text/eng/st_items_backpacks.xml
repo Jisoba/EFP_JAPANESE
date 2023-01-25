@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_itm_backpack_name">
+    <text>バックパック</text>
+  </string>
+  <string id="st_itm_backpack_desc">
+    <text>厳しい気象条件にも耐えられる耐久性のある素材で作られたバックパック。
+
+                        \n%c[ui_gray_1]特性 : 
+                        %c[d_blue] ・ 日用品 
+                        %c[d_blue] ・ 物品収納 
+                        %c[ui_gray_2] ・ スタッシュとして使用可能 </text>
+  </string>
+  <string id="st_equ_smallpack_name">
+    <text>キャンピング バックパック
+</text>
+  </string>
+  <string id="st_equ_smallpack_desc">
+    <text>このバックパックはかなりの保管スペースがあり、内側は防水加工が施されている。バックパックを選ぶにあたり最善の選択ではないが、ストーカーや初心者の間では一定の人気がある。
+
+                        \n%c[ui_gray_1]特性 : 
+                        %c[d_blue] ・ 日用品 
+                        %c[d_blue] ・ 物品収納 
+                        %c[ui_gray_2] ・ スタッシュとして使用可能 </text>
+  </string>
+  <string id="st_equ_smilpack_name">
+    <text>トラベル バックパック</text>
+  </string>
+  <string id="st_equ_smilpack_desc">
+    <text>長旅用の大きなバックパック。重量配分システムのおかげで、着用者は最大5日間の旅行に十分な物資や装備を運ぶことができる。
+
+                        \n%c[ui_gray_1]特性 : 
+                        %c[d_blue] ・ 日用品 
+                        %c[d_blue] ・ 物品収納 
+                        %c[ui_gray_2] ・ スタッシュとして使用可能 </text>
+  </string>
+  <string id="st_equ_milpack_name">
+    <text>軍用バックパック</text>
+  </string>
+  <string id="st_equ_milpack_desc">
+    <text>この戦闘用のバックパックは主に軍で使用されている。基本的に弾丸と薬品が保管されるスペースがある。
+
+                        \n%c[ui_gray_1]特性 : 
+                        %c[d_blue] ・ 日用品 
+                        %c[d_blue] ・ 物品収納 
+                        %c[ui_gray_2] ・ スタッシュとして使用可能 
+                        </text>
+  </string>
+  <string id="st_equ_touristpack_name">
+    <text>旅人用バックパック</text>
+  </string>
+  <string id="st_equ_touristpack_desc">
+    <text>たくさんの収納スペースがある旅行者用バックパック。サイズが大きいのであまり人気がない。
+
+                        \n%c[ui_gray_1]特性 : 
+                        %c[d_blue] ・ 日用品 
+                        %c[d_blue] ・ 物品収納 
+                        %c[ui_gray_2] ・ スタッシュとして使用可能 
+                        </text>
+  </string>
+  <string id="st_kit_hunt">
+    <text>狩猟用キット</text>
+  </string>
+  <string id="st_kit_hunt_descr">
+    <text>バックパック全体にフックが付属し、ナイフの他にも様々な装備が付いてるため、動物やミュータントの皮や臓器を剥ぐ際に効果を発揮する。ミュータントの肉を食べる上でおそらく、非常に多くのゾーンに生きる者が消化不良等に悩まされているだろう。そのため、何名かのストーカーはこのプロフェッショナル仕様の装備をミュータントハンティングのために持ち運んでいる。この様々なツールは武器やアーマーのメンテナンスにも効果的に使用できる。
+
+                        \n%c[ui_gray_1]特性 : 
+                        %c[d_blue] ・ 日用品 
+                        %c[d_blue] ・ 物品収納 
+                        %c[ui_gray_2] ・ スタッシュとして使用可能 
+                        %c[d_orange] ・ 装着することで手に入るミュータントの身体部位が増える。</text>
+  </string>
+  <string id="st_itm_actor_backpack_name">
+    <text>クイック リリース システム</text>
+  </string>
+  <string id="st_itm_actor_backpack_descr">
+    <text>ゾーン内での不意打ちは、最悪の事態のひとつだ。クイック リリース システムは、そのような状況を防ぐことはできないが、危機から逃れることはできる。その機能はシンプルで、バックパックのストラップを外すことで、重いバックパックに邪魔されることなく、安全な場所に逃げることができる。このアイテムは、キーボード設定で割り当てられているキーを押すことで使用し、瞬時にバックパック（とその中のすべて）を地面に落とすことが可能だ。装備している武器、弾薬、アーマー、アーマーのアタッチメントは手元に残り、戦闘の準備が整う。なお、バックパックの回収は後からでも可能である。
+
+                      \n%c[ui_gray_3]特徴 : 
+                      %c[d_blue] ・ 軍用品 
+                       %c[d_blue] ・ GPS内蔵
+                       %c[d_blue] ・ 使用時間 : 非常に短い
+                      %c[d_blue] ・ 戦闘の装備は手元に残る</text>
+  </string>
+  <string id="st_itm_actor_backpack_desc_mlr">
+    <text>ストーカーたちは度々、不測の事態が発生した場合に代替品としてこのツールを使用する。このツールはストラップで固定されているため、いつでもバックパックを取り外すことが出来るシンプルな構造ので、素早く戦略的撤退に移行できるコンパクトかつ有益な装備である。いくつかのコンテンツと共にバックパックをリセットすることが出来る。</text>
+  </string>
+  <string id="st_itm_backpack_stash_name">
+    <text>GPS内蔵バックパック</text>
+  </string>
+  <string id="st_itm_backpack_stash_desc">
+    <text>GPS を内蔵した耐久性の優れたバックパック。設置することで PDA と同期して地図に位置がマークされる。強く耐久性が高い素材で作られたバックパックは保存性も優れ、設置した場所の環境に左右される事が無い。さらに、迷彩が施されているため目立ちにくい。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 軍用品 
+                %c[d_blue] ・ GPS機能内蔵 
+                %c[d_red] ・ 場所の変更はできない </text>
+  </string>
+</string_table>

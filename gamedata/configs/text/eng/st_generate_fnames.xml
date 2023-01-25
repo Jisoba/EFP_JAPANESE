@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="name_army_0">
+    <text>アンドレイ</text>
+  </string>
+  <string id="name_private_0">
+    <text>１等兵</text>
+  </string>
+  <string id="name_private_1">
+    <text>上等兵</text>
+  </string>
+  <string id="name_stalker_0">
+    <text>アレックス</text>
+  </string>
+  <string id="name_stalker_1">
+    <text>アントン</text>
+  </string>
+  <string id="name_stalker_2">
+    <text>アーテム</text>
+  </string>
+  <string id="name_stalker_3">
+    <text>アーサー</text>
+  </string>
+  <string id="name_stalker_4">
+    <text>アルチョーム</text>
+  </string>
+  <string id="name_stalker_5">
+    <text>ボグダン</text>
+  </string>
+  <string id="name_stalker_6">
+    <text>ボーダン</text>
+  </string>
+  <string id="name_stalker_7">
+    <text>ボルカ</text>
+  </string>
+  <string id="name_stalker_8">
+    <text>ボーリャ</text>
+  </string>
+  <string id="name_stalker_9">
+    <text>ダニラ</text>
+  </string>
+  <string id="name_stalker_10">
+    <text>ダンコ</text>
+  </string>
+  <string id="name_stalker_11">
+    <text>ダンヨ</text>
+  </string>
+  <string id="name_stalker_12">
+    <text>デニス</text>
+  </string>
+  <string id="name_stalker_13">
+    <text>デニス</text>
+  </string>
+  <string id="name_stalker_14">
+    <text>ディマ</text>
+  </string>
+  <string id="name_stalker_15">
+    <text>ディムカ</text>
+  </string>
+  <string id="name_stalker_16">
+    <text>ドミトロ</text>
+  </string>
+  <string id="name_stalker_17">
+    <text>エディック</text>
+  </string>
+  <string id="name_stalker_18">
+    <text>エゴール</text>
+  </string>
+  <string id="name_stalker_19">
+    <text>エゴルカ</text>
+  </string>
+  <string id="name_stalker_20">
+    <text>フェドカ</text>
+  </string>
+  <string id="name_stalker_21">
+    <text>フェドー</text>
+  </string>
+  <string id="name_stalker_22">
+    <text>フェディア</text>
+  </string>
+  <string id="name_stalker_23">
+    <text>フィルカ</text>
+  </string>
+  <string id="name_stalker_24">
+    <text>フィリア</text>
+  </string>
+  <string id="name_stalker_25">
+    <text>フィマ</text>
+  </string>
+  <string id="name_stalker_26">
+    <text>フィヨドル</text>
+  </string>
+  <string id="name_stalker_27">
+    <text>ゲナ</text>
+  </string>
+  <string id="name_stalker_28">
+    <text>ゲンカ</text>
+  </string>
+  <string id="name_stalker_29">
+    <text>ジョージ</text>
+  </string>
+  <string id="name_stalker_30">
+    <text>ジョージ</text>
+  </string>
+  <string id="name_stalker_31">
+    <text>ジャーマン</text>
+  </string>
+  <string id="name_stalker_32">
+    <text>グレブ</text>
+  </string>
+  <string id="name_stalker_33">
+    <text>ゴーシャ</text>
+  </string>
+  <string id="name_stalker_34">
+    <text>グリシャ</text>
+  </string>
+  <string id="name_stalker_35">
+    <text>グリシュカ</text>
+  </string>
+  <string id="name_stalker_36">
+    <text>グリシュコ</text>
+  </string>
+  <string id="name_stalker_37">
+    <text>イゴレク</text>
+  </string>
+  <string id="name_stalker_38">
+    <text>イゴリョク</text>
+  </string>
+  <string id="name_stalker_39">
+    <text>イリヤ</text>
+  </string>
+  <string id="name_stalker_40">
+    <text>キリューカ</text>
+  </string>
+  <string id="name_stalker_41">
+    <text>コリャ</text>
+  </string>
+  <string id="name_stalker_42">
+    <text>コステック</text>
+  </string>
+  <string id="name_stalker_43">
+    <text>コスチャ</text>
+  </string>
+  <string id="name_stalker_44">
+    <text>レンカ</text>
+  </string>
+  <string id="name_stalker_45">
+    <text>レンヤ</text>
+  </string>
+  <string id="name_stalker_46">
+    <text>レシュカ</text>
+  </string>
+  <string id="name_stalker_47">
+    <text>レヴァ</text>
+  </string>
+  <string id="name_stalker_48">
+    <text>リヨンカ</text>
+  </string>
+  <string id="name_stalker_49">
+    <text>リヨーニャ</text>
+  </string>
+  <string id="name_stalker_50">
+    <text>リヨーシカ</text>
+  </string>
+  <string id="name_stalker_51">
+    <text>リョーバ</text>
+  </string>
+  <string id="name_stalker_52">
+    <text>マーク</text>
+  </string>
+  <string id="name_stalker_53">
+    <text>マトヴェイ</text>
+  </string>
+  <string id="name_stalker_54">
+    <text>マトヴェイ</text>
+  </string>
+  <string id="name_stalker_55">
+    <text>マックス</text>
+  </string>
+  <string id="name_stalker_56">
+    <text>ミーシャ</text>
+  </string>
+  <string id="name_stalker_57">
+    <text>ミシェンカ</text>
+  </string>
+  <string id="name_stalker_58">
+    <text>ミシュカ</text>
+  </string>
+  <string id="name_stalker_59">
+    <text>ミーティア</text>
+  </string>
+  <string id="name_stalker_60">
+    <text>ニック</text>
+  </string>
+  <string id="name_stalker_61">
+    <text>ニキータ</text>
+  </string>
+  <string id="name_stalker_62">
+    <text>オレグ</text>
+  </string>
+  <string id="name_stalker_63">
+    <text>パシャ</text>
+  </string>
+  <string id="name_stalker_64">
+    <text>パシュカ</text>
+  </string>
+  <string id="name_stalker_65">
+    <text>ペトカ</text>
+  </string>
+  <string id="name_stalker_66">
+    <text>ペトロ</text>
+  </string>
+  <string id="name_stalker_67">
+    <text>ペチャ</text>
+  </string>
+  <string id="name_stalker_68">
+    <text>ロマ</text>
+  </string>
+  <string id="name_stalker_69">
+    <text>ロムカ</text>
+  </string>
+  <string id="name_stalker_70">
+    <text>ロスティック</text>
+  </string>
+  <string id="name_stalker_71">
+    <text>ラス</text>
+  </string>
+  <string id="name_stalker_72">
+    <text>ルシク</text>
+  </string>
+  <string id="name_stalker_73">
+    <text>サネク</text>
+  </string>
+  <string id="name_stalker_74">
+    <text>サンヤ</text>
+  </string>
+  <string id="name_stalker_75">
+    <text>サニョク</text>
+  </string>
+  <string id="name_stalker_76">
+    <text>サヴァ</text>
+  </string>
+  <string id="name_stalker_77">
+    <text>サヴァ</text>
+  </string>
+  <string id="name_stalker_78">
+    <text>セマ</text>
+  </string>
+  <string id="name_stalker_79">
+    <text>セミヨン</text>
+  </string>
+  <string id="name_stalker_80">
+    <text>センヤ</text>
+  </string>
+  <string id="name_stalker_81">
+    <text>セレガ</text>
+  </string>
+  <string id="name_stalker_82">
+    <text>セリョーガ</text>
+  </string>
+  <string id="name_stalker_83">
+    <text>セヴァ</text>
+  </string>
+  <string id="name_stalker_84">
+    <text>セブカ</text>
+  </string>
+  <string id="name_stalker_85">
+    <text>シュリク</text>
+  </string>
+  <string id="name_stalker_86">
+    <text>スラヴァ</text>
+  </string>
+  <string id="name_stalker_87">
+    <text>スラヴィク</text>
+  </string>
+  <string id="name_stalker_88">
+    <text>ステパ</text>
+  </string>
+  <string id="name_stalker_89">
+    <text>ステパン</text>
+  </string>
+  <string id="name_stalker_90">
+    <text>ショーマ</text>
+  </string>
+  <string id="name_stalker_91">
+    <text>ティマ</text>
+  </string>
+  <string id="name_stalker_92">
+    <text>ティムカ</text>
+  </string>
+  <string id="name_stalker_93">
+    <text>トリック</text>
+  </string>
+  <string id="name_stalker_94">
+    <text>トシュカ</text>
+  </string>
+  <string id="name_stalker_95">
+    <text>ヴァディック</text>
+  </string>
+  <string id="name_stalker_96">
+    <text>ヴァディム</text>
+  </string>
+  <string id="name_stalker_97">
+    <text>ヴァッディヤ</text>
+  </string>
+  <string id="name_stalker_98">
+    <text>ヴァレラ</text>
+  </string>
+  <string id="name_stalker_99">
+    <text>ヴァリック</text>
+  </string>
+  <string id="name_stalker_100">
+    <text>ヴァンカ</text>
+  </string>
+  <string id="name_stalker_101">
+    <text>ヴァーニャ</text>
+  </string>
+  <string id="name_stalker_102">
+    <text>ヴァスカ</text>
+  </string>
+  <string id="name_stalker_103">
+    <text>ヴァスコ</text>
+  </string>
+  <string id="name_stalker_104">
+    <text>ヴァーシャ</text>
+  </string>
+  <string id="name_stalker_105">
+    <text>ヴェーニャ</text>
+  </string>
+  <string id="name_stalker_106">
+    <text>ヴィタリク</text>
+  </string>
+  <string id="name_stalker_107">
+    <text>ヴィトカ</text>
+  </string>
+  <string id="name_stalker_108">
+    <text>ヴィティア</text>
+  </string>
+  <string id="name_stalker_109">
+    <text>ヴラド</text>
+  </string>
+  <string id="name_stalker_110">
+    <text>ヴォヴァ</text>
+  </string>
+  <string id="name_stalker_111">
+    <text>ヴォフカ</text>
+  </string>
+  <string id="name_stalker_112">
+    <text>ヤーラ</text>
+  </string>
+  <string id="name_stalker_113">
+    <text>ヤリク</text>
+  </string>
+  <string id="name_stalker_114">
+    <text>ヤシャ</text>
+  </string>
+  <string id="name_stalker_115">
+    <text>ヤシュカ</text>
+  </string>
+  <string id="name_stalker_116">
+    <text>ユリク</text>
+  </string>
+  <string id="name_stalker_117">
+    <text>ユルカ</text>
+  </string>
+  <string id="name_stalker_118">
+    <text>ユーコ</text>
+  </string>
+  <string id="name_stalker_119">
+    <text>ユリー</text>
+  </string>
+  <string id="name_stalker_120">
+    <text>ゼンカ</text>
+  </string>
+  <string id="name_stalker_121">
+    <text>ゼンヤ</text>
+  </string>
+  <string id="name_stalker_122">
+    <text>ゾーラ</text>
+  </string>
+  <string id="name_bandit_0">
+    <text>アンドリューハ</text>
+  </string>
+  <string id="name_bandit_1">
+    <text>アンドリューカ</text>
+  </string>
+  <string id="name_bandit_2">
+    <text>アーカーシャ</text>
+  </string>
+  <string id="name_bandit_3">
+    <text>ボディア</text>
+  </string>
+  <string id="name_bandit_4">
+    <text>ボリャン</text>
+  </string>
+  <string id="name_bandit_5">
+    <text>ディモン</text>
+  </string>
+  <string id="name_bandit_6">
+    <text>ディムハ</text>
+  </string>
+  <string id="name_bandit_7">
+    <text>ディムハ</text>
+  </string>
+  <string id="name_bandit_8">
+    <text>フェルカ</text>
+  </string>
+  <string id="name_bandit_9">
+    <text>フィムカ</text>
+  </string>
+  <string id="name_bandit_10">
+    <text>グリシュカ</text>
+  </string>
+  <string id="name_bandit_11">
+    <text>グリシュコ</text>
+  </string>
+  <string id="name_bandit_12">
+    <text>イリュウハ</text>
+  </string>
+  <string id="name_bandit_13">
+    <text>イリュウカ</text>
+  </string>
+  <string id="name_bandit_14">
+    <text>コリャン</text>
+  </string>
+  <string id="name_bandit_15">
+    <text>コスティヤン</text>
+  </string>
+  <string id="name_bandit_16">
+    <text>レカ</text>
+  </string>
+  <string id="name_bandit_17">
+    <text>リョハ</text>
+  </string>
+  <string id="name_bandit_18">
+    <text>ミハ</text>
+  </string>
+  <string id="name_bandit_19">
+    <text>ミハル</text>
+  </string>
+  <string id="name_bandit_20">
+    <text>ミハス</text>
+  </string>
+  <string id="name_bandit_21">
+    <text>ミカ</text>
+  </string>
+  <string id="name_bandit_22">
+    <text>ミハール</text>
+  </string>
+  <string id="name_bandit_23">
+    <text>ミハス</text>
+  </string>
+  <string id="name_bandit_24">
+    <text>ミトカ</text>
+  </string>
+  <string id="name_bandit_25">
+    <text>パヴルハ</text>
+  </string>
+  <string id="name_bandit_26">
+    <text>パヴルハ</text>
+  </string>
+  <string id="name_bandit_27">
+    <text>ペトルーハ</text>
+  </string>
+  <string id="name_bandit_28">
+    <text>サネク</text>
+  </string>
+  <string id="name_bandit_29">
+    <text>サニョク</text>
+  </string>
+  <string id="name_bandit_30">
+    <text>サショク</text>
+  </string>
+  <string id="name_bandit_31">
+    <text>シュリク</text>
+  </string>
+  <string id="name_bandit_32">
+    <text>ステプカ</text>
+  </string>
+  <string id="name_bandit_33">
+    <text>ステプハ</text>
+  </string>
+  <string id="name_bandit_34">
+    <text>ステプカ</text>
+  </string>
+  <string id="name_bandit_35">
+    <text>スタイオプカ</text>
+  </string>
+  <string id="name_bandit_36">
+    <text>テムカ</text>
+  </string>
+  <string id="name_bandit_37">
+    <text>ティモハ</text>
+  </string>
+  <string id="name_bandit_38">
+    <text>ティモカ</text>
+  </string>
+  <string id="name_bandit_39">
+    <text>トハ</text>
+  </string>
+  <string id="name_bandit_40">
+    <text>トカ</text>
+  </string>
+  <string id="name_bandit_41">
+    <text>トレー</text>
+  </string>
+  <string id="name_bandit_42">
+    <text>トリヤン</text>
+  </string>
+  <string id="name_bandit_43">
+    <text>ティオムカ</text>
+  </string>
+  <string id="name_bandit_44">
+    <text>ヴァディヤ</text>
+  </string>
+  <string id="name_bandit_45">
+    <text>ヴァセック</text>
+  </string>
+  <string id="name_bandit_46">
+    <text>ヴァシヤン</text>
+  </string>
+  <string id="name_bandit_47">
+    <text>ヴェタール</text>
+  </string>
+  <string id="name_bandit_48">
+    <text>ヴィテュウハ</text>
+  </string>
+  <string id="name_bandit_49">
+    <text>ヴィテューカ</text>
+  </string>
+  <string id="name_bandit_50">
+    <text>ヴォヴァン</text>
+  </string>
+  <string id="name_bandit_51">
+    <text>ヤシュカ</text>
+  </string>
+  <string id="name_bandit_52">
+    <text>ユラ</text>
+  </string>
+  <string id="name_bandit_53">
+    <text>ジェシカ</text>
+  </string>
+  <string id="name_bandit_54">
+    <text>ズホルカ</text>
+  </string>
+  <string id="name_senior_sergeant_0">
+    <text>曹長</text>
+  </string>
+  <string id="name_senior_sergeant_1">
+    <text>上級軍曹</text>
+  </string>
+  <string id="name_sergeant_0">
+    <text>２等軍曹</text>
+  </string>
+  <string id="name_sergeant_1">
+    <text>軍曹</text>
+  </string>
+  <string id="name_lieutenant_0">
+    <text>少尉</text>
+  </string>
+  <string id="name_lieutenant_1">
+    <text>中尉</text>
+  </string>
+  <string id="name_lieutenant_2">
+    <text>上級中尉</text>
+  </string>
+  <string id="name_science_0">
+    <text>アレクサンドル</text>
+  </string>
+  <string id="name_science_1">
+    <text>アレクサンダー</text>
+  </string>
+  <string id="name_science_2">
+    <text>アレクセイ</text>
+  </string>
+  <string id="name_science_3">
+    <text>アレクセイ</text>
+  </string>
+  <string id="name_science_4">
+    <text>アナトリー</text>
+  </string>
+  <string id="name_science_5">
+    <text>アンドレイ</text>
+  </string>
+  <string id="name_science_6">
+    <text>アンドレイ</text>
+  </string>
+  <string id="name_science_7">
+    <text>アントン</text>
+  </string>
+  <string id="name_science_8">
+    <text>ボグダン</text>
+  </string>
+  <string id="name_science_9">
+    <text>ボフダン</text>
+  </string>
+  <string id="name_science_10">
+    <text>ドミトリー</text>
+  </string>
+  <string id="name_science_11">
+    <text>イワン</text>
+  </string>
+  <string id="name_science_12">
+    <text>コンスタンチン</text>
+  </string>
+  <string id="name_science_13">
+    <text>オレグ</text>
+  </string>
+  <string id="name_science_14">
+    <text>ローマン</text>
+  </string>
+  <string id="name_science_15">
+    <text>セルゲイ</text>
+  </string>
+  <string id="name_science_16">
+    <text>セルゲイ</text>
+  </string>
+  <string id="name_science_17">
+    <text>ヴェニアミン</text>
+  </string>
+  <string id="name_science_18">
+    <text>ヴィタリィ</text>
+  </string>
+  <string id="name_science_19">
+    <text>ウラジミール</text>
+  </string>
+  <string id="name_science_20">
+    <text>ユーリ</text>
+  </string>
+  <string id="name_science_21">
+    <text>ユーリー</text>
+  </string>
+  <string id="name_captain_0">
+    <text>大尉</text>
+  </string>
+</string_table>

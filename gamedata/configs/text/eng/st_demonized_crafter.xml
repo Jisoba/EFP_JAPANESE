@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+
+	<string id="st_demonized_crafter">
+		<text>クラフト</text>
+	</string>
+
+	<string id="st_demonized_crafter_craft_success">
+		<text>クラフトした</text>
+	</string>
+
+	<string id="st_demonized_crafter_craft_spent_items">
+		<text>消費した</text>
+	</string>
+
+	<string id="st_demonized_crafter_craft_fail">
+		<text>クラフトに失敗した</text>
+	</string>
+
+	<string id="st_demonized_crafter_craft_possible_combinations">
+		<text>可能な組み合わせ</text>
+	</string>
+
+	<string id="st_demonized_crafter_craft_or">
+		<text>もしくは</text>
+	</string>
+
+	<string id="st_demonized_crafter_craft_all">
+		<text>すべて</text>
+	</string>
+
+	<string id="st_demonized_crafter_craft_check_pda_news">
+		<text>PDAの「ニュース」タブでレシピを確認できる</text>
+	</string>
+
+</string_table>

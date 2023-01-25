@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+	<string id="ui_mcm_title_nomorefriendlyfire">
+		<text>No More Companion Friendly Fire</text>
+	</string>
+	<string id="ui_mcm_menu_nomorefriendlyfire">
+		<text>No Companion FF</text>
+	</string>
+	<string id="ui_mcm_nomorefriendlyfire_npcprotect">
+		<text>NPCを保護</text>
+	</string>
+	<string id="ui_mcm_nomorefriendlyfire_npcprotect_desc">
+		<text>プレイヤーのダメージから仲間を守る</text>
+	</string>
+	<string id="ui_mcm_nomorefriendlyfire_acprotect">
+		<text>プレイヤーを保護</text>
+	</string>
+	<string id="ui_mcm_nomorefriendlyfire_acprotect_desc">
+		<text>コンパニオンのダメージからプレイヤーを守る</text>
+	</string>
+</string_table>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+	<string id="ui_mm_title_hud_configurator">
+		<text>
+		HUD要素の切り替え
+		</text>
+	</string>
+	<string id="ui_mcm_menu_hud_configurator">
+		<text>
+		HUDの切り替え
+		</text>
+	</string>
+	<string id="ui_mcm_hud_configurator_health_bar">
+		<text>
+		HPバーを隠す
+		</text>
+	</string>
+	<string id="ui_mcm_hud_configurator_stamina_bar">
+		<text>
+		スタミナバーを隠す
+		</text>
+	</string>
+	<string id="ui_mcm_hud_configurator_psy_bar">
+		<text>
+		精神バーを隠す
+		</text>
+	</string>
+	<string id="ui_mcm_hud_configurator_fire_mode">
+		<text>
+		射撃モードを隠す
+		</text>
+	</string>
+	<string id="ui_mcm_hud_configurator_background">
+		<text>
+		HP・スタミナ・精神のバックグラウンドを隠す
+		</text>
+	</string>
+	<string id="ui_mcm_hud_configurator_ammo_check_warn">
+		<text>
+		MCMが検出されたため、弾薬のHUDがスキップされました。Mags Redux mcmで弾薬のセクションを編集して見てください。
+		</text>
+	</string>
+
+</string_table>

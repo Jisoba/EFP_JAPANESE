@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<string id="st_ground_coffee">
+		<text>挽いたコーヒー豆</text>
+	</string>
+	<string id="st_ground_coffee_descr">
+		<text>挽いたコーヒー豆。淹れるのに使える。調理器具と抽出するための水が必要。\n \n
+		%c[ui_gray_3]特性:\n
+		</text>
+	</string>
+	
+</string_table>

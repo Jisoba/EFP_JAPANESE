@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+
+	<!-- Jammin -->
+	<string id="st_casing_pistol">
+		<text>薬莢、拳銃</text>
+	</string>
+	<string id="st_casing_pistol_desc">
+		<text>拳銃弾用のプライマー付き小型真鍮製薬莢です。7.62x25から.357マグナムまで、あらゆるサイズに改造することが可能。</text>
+	</string>
+	<string id="st_casing_shotgun">
+		<text>薬莢、散弾銃</text>
+	</string>
+	<string id="st_casing_shotgun_desc">
+		<text>ショットガンの弾薬として使用される真鍮製のプライマー付きプラスチック製シェル。</text>
+	</string>
+	<string id="st_casing_r5">
+		<text>薬莢、小銃</text>
+	</string>
+	<string id="st_casing_r5_desc">
+		<text>ライフル弾薬用のプライマー付き中型真鍮薬莢。39mm、45mmの長さの弾丸に対応するため、任意のサイズに改造することができる。</text>
+	</string>
+	<string id="st_casing_r7">
+		<text>薬莢、大型ライフル銃</text>
+	</string>
+	<string id="st_casing_r7_desc">
+		<text>大型ライフル弾用のプライマー付き真鍮製大型薬莢。</text>
+	</string>
+	<string id="st_powder_pistol">
+		<text>火薬、ピストル/ショットガン</text>
+	</string>
+	<string id="st_powder_pistol_desc">
+		<text>散弾銃や小型拳銃の弾丸に使用される高速燃焼ダブルベース推進剤。低速の火薬に比べ、全体的なエネルギーは少ないが、よりきれいに早く燃焼する無煙火薬の一種。</text>
+	</string>
+	<string id="st_powder_rifle">
+		<text>火薬、小銃</text>
+	</string>
+	<string id="st_powder_rifle_desc">
+		<text>軽量ライフルカートリッジと一部の重量ハンドガン口径用のIMR火薬。中程度の燃焼速度で、十分なエネルギーが得られる。ブローバック式ハンドガンや散弾銃では、圧力不足により燃焼が不完全になり、燃焼不良を起こすので使用できない。</text>
+	</string>
+	<string id="st_powder_mag">
+		<text>火薬、ライフル</text>
+	</string>
+	<string id="st_powder_mag_desc">
+		<text>大口径ライフル弾用の高収率、低燃焼の火薬です。この火薬は最もエネルギーが高く、最も燃焼速度が遅いので、長銃身武器から発射される大口径ライフル弾にのみ使用される。</text>
+	</string>
+	<string id="st_handgun_rounds">
+		<text>ハンドガン用弾丸</text>
+	</string>
+	<string id="st_handgun_rounds_desc">
+		<text>弾薬から回収された様々な大きさのハンドガンの弾丸。新しい弾薬の製造に役立てることができる。</text>
+	</string>
+	<string id="st_handgun_ap_rounds">
+		<text>拳銃弾頭、徹甲弾</text>
+	</string>
+	<string id="st_handgun_ap_rounds_desc">
+		<text>弾薬から回収された様々なサイズのハンドガン弾。弾丸の中に合金の貫通材が埋め込まれている。拳銃弾は通常、過圧の火薬を使用するか、5.7x28弾のように装甲貫通用に特別に設計されていない限り、貫通材があっても装甲を貫通するには速度が遅すぎる。</text>
+	</string>
+	<string id="st_shotgun_rounds">
+		<text>鉛玉</text>
+	</string>
+	<string id="st_shotgun_rounds_desc">
+		<text>狩猟用散弾銃に使用される小型の鉛製バックショット弾。また、これを溶かして大型のスラグに鋳造することもできる。</text>
+	</string>
+	<string id="st_shotgun_ap_rounds">
+		<text>サボダーツ</text>
+	</string>
+	<string id="st_shotgun_ap_rounds_desc">
+		<text>サボに包まれた硬化鋼ダーツ弾。機関部を破壊するために警察の散弾銃から発射されるように設計されているが、防護服に対しても十分な効果がある。</text>
+	</string>
+	<string id="st_rifle5_rounds">
+		<text>小口径ライフル用弾頭</text>
+	</string>
+	<string id="st_rifle5_rounds_desc">
+		<text>アサルトライフルに使用される様々なサイズの小口径ライフル用弾丸。軍用に製造され、フルメタルジャケットで覆われ、精度が最適化されている。</text>
+	</string>
+	<string id="st_rifle5_ap_rounds">
+		<text>小口径ライフル弾頭、徹甲弾</text>
+	</string>
+	<string id="st_rifle5_ap_rounds_desc">
+		<text>アサルトライフルに使用される、合金製の貫通材を使用した様々なサイズの小口径ライフル用弾丸。標準的な交戦距離で装甲を破壊するために設計された特殊な弾丸で、その代償として肉体へのダメージは薄い。</text>
+	</string>
+
+	<string id="st_rifle7_rounds">
+		<text>ライフル弾頭</text>
+	</string>
+	<string id="st_rifle7_rounds_desc">
+		<text>メタルジャケットで覆われた大型のライフル弾。狩猟用や軍の狙撃用弾薬として一般的に使用されている。</text>
+	</string>
+	<string id="st_rifle7_ap_rounds">
+		<text>ライフル弾頭、徹甲弾</text>
+	</string>
+	<string id="st_rifle7_ap_rounds_desc">
+		<text>フルサイズのライフル弾に合金の貫通材が埋め込まれた弾丸。軍や特殊部隊が遠距離から防護服を破るために使用する特別仕様の弾薬に含まれる。</text>
+	</string>
+	<!-- new mats -->
+	
+	<string id="st_powder_fireball">
+		<text>熱系アーティファクトの欠片</text>
+	</string>
+	<string id="st_powder_fireball_desc">
+		<text>熱活性の高いアーティファクトの残骸を粉砕したもので、特定の種類の弾薬の製造に使用される。容器は触れると心地よい温かさがある。「クリスタル」と「ファイヤボール」のアーティファクトを砕くと手に入る。</text>
+	</string>
+	<string id="st_powder_nightstar">
+		<text>揮発性アーティファクトの欠片</text>
+	</string>
+	<string id="st_powder_nightstar_desc">
+		<text>揮発性アーティファクトの残骸を粉砕したもので、特定の種類の弾薬の製造に使用される。コンテナの中でかすかに光り、振動する。「ピン」と「ナイトスター」のアーティファクトを非常に慎重に分解することで入手できる。\n \n</text>
+	</string>
+	<string id="st_powder_blood">
+		<text>科学性アーティファクトの欠片</text>
+	</string>
+	<string id="st_powder_blood_desc">
+		<text>化学的に活性なアーティファクトの残骸を粉砕したもので、特定の弾薬の製造に使用される。内部の有毒な化学物質が放出されているため、取り扱いに注意が必要。「ストーンブラッド」と「ミートチャンク」のアーティファクトを粉砕すると入手できる。\n \n</text>
+	</string>
+	<string id="st_powder_gravi">
+		<text>重力性アーティファクトの欠片</text>
+	</string>
+	<string id="st_powder_gravi_desc">
+		<text>重力場を発生させるアーティファクトの残骸を粉砕し、ある種の弾薬の製造に使用する。コンテナの中で常にガラガラ音を立てている。「ジェリーフィッシュ」、「レンチ」、「グラヴィティ」のアーティファクトを砕くと入手できる。\n \n</text>
+	</string>
+	<string id="st_powder_medusa">
+		<text>「ジェリーフィッシュ」の欠片</text>
+	</string>
+	<string id="st_powder_medusa_desc">
+		<text>このアイテムは現在使われていないため、売ることを推奨します！</text>
+	</string>
+	<string id="st_powder_battery">
+		<text>電気性アーティファクトの欠片</text>
+	</string>
+	<string id="st_powder_battery_desc">
+		<text>電気を帯びたアーティファクトの粉砕物。容器を持っていると身の毛がよだつ。スパークラーやバッテリーなどのアーティファクトを砕くと手に入るが、感電しないように電気を通さない道具を使うこと。\n \n </text>
+	</string>
+
+	<string id="st_powder_fire">
+		<text>焼夷粉末</text>
+	</string>
+	<string id="st_powder_fire_desc">
+		<text>マグネシウム、アルミニウム、硝酸バリウムからなる焼夷性の混合物を含む粉末の缶。通常、卸売りで購入し、特定の徹甲弾焼夷弾に少量含まれている。\n \n </text>
+	</string>
+
+	<string id="st_crush">
+		<text>粉々に砕く</text>
+	</string>	
+
+	<string id="st_batch_breakdown">
+		<text>一括分解[!]</text>
+	</string>
+</string_table>

@@ -1,0 +1,95 @@
+<string_table>
+
+
+    <!-- Medicine -->
+	<string id="st_player_skills_hint_medicine">
+		<text>使用した医療アイテムに基づき、HP回復増加と放射線回復増加を得る。\n \nレベルは医療品やドラッグを使用することで上がる。\n \n</text>
+	</string>
+	<string id="st_skills_stats_restore_boost_positive">
+        <text>\n%c[255,138,43,226]・c[ui_6] 増加中の回復量: %c[d_green]$stat%</text>
+    </string>
+    <string id="st_skills_stats_restore_boost_negative">
+        <text>\n%c[255,138,43,226]・c[ui_6] 減少中の回復量: %c[d_red]$stat%</text>
+    </string>
+
+	<!-- Insanity -->
+	<string id="st_player_skills_hint_insanity">
+		<text>正気を失う代わりに、精神回復と精神耐性を得ることができる。\n楽器演奏時の精神回復ボーナスが2倍になる。\n \nレベルは、精神攻撃を受けたり、戦闘中に楽器を演奏することで上がる。\n \n</text>
+	</string>
+    <string id="st_skills_stats_psy_regen_positive">
+        <text>\n%c[255,138,43,226]・c[ui_6] 精神回復量: %c[d_green]$stat%/sec</text>
+    </string>
+
+    <string id="st_skills_stats_psy_hit_resistance_positive">
+        <text>\n%c[255,138,43,226]・c[ui_6] 精神ダメージ軽減量: %c[d_green]$stat%</text>
+    </string>
+    <string id="st_skills_stats_psy_hit_resistance_negative">
+        <text>\n%c[255,138,43,226]・c[ui_6] 精神ダメージ上昇量: %c[d_red]$stat%</text>
+    </string>
+	
+	<!-- Tinkering -->
+	<string id="st_player_skills_hint_tinkering">
+		<text>リペアキットの使用回数を消費しないで修理できる確率が上がる。\n \n修理キットで装備を修理することでレベルが上がる。\n \n</text>
+	</string>
+	<string id="st_skills_stats_refund_chance_positive">
+        <text>\n%c[255,138,43,226]・c[ui_6] リペアキットの使用回数を消費しない確率: %c[d_green]$stat%</text>
+    </string>
+	
+	<!-- Bartering -->
+	<string id="st_player_skills_hint_bartering">
+		<text>より良い条件で取引ができるようになる。\n \nレベルは、アイテムを売買することで上がる。\n \n</text>
+	</string>
+	<string id="st_skills_stats_discount_positive">
+        <text>\n%c[255,138,43,226]・c[ui_6] 購入額減少量: %c[d_green]$stat%</text>
+    </string>
+    <string id="st_skills_stats_discount_negative">
+        <text>\n%c[255,138,43,226]・c[ui_6] 購入額上昇量: %c[d_red]$stat%</text>
+    </string>
+	<string id="st_skills_stats_sell_bonus_positive">
+        <text>\n%c[255,138,43,226]・c[ui_6] 売却額上昇量: %c[d_green]$stat%</text>
+    </string>
+    <string id="st_skills_stats_sell_bonus_negative">
+        <text>\n%c[255,138,43,226]・c[ui_6] 売却額減少量: %c[d_red]$stat%</text>
+    </string>
+	
+	<!-- Magloading -->
+	<string id="st_player_skills_hint_magloading">
+		<text>マガジンのリロードと弾薬取り出し速度が上がる。\n \nマガジンに弾薬を装填/取り出すことでレベルが上がる。\n(最大レベルは、体力と持久力によって制限される）\n \n</text>
+	</string>
+	<string id="st_skills_stats_loadspeed_positive">
+        <text>\n%c[255,138,43,226]・c[ui_6] マガジン装填速度上昇量: %c[d_green]$stat%</text>
+    </string>
+    <string id="st_skills_stats_loadspeed_negative">
+        <text>\n%c[255,138,43,226]・c[ui_6] マガジン装填速度減少量: %c[d_red]$stat%</text>
+    </string>
+	
+	<!-- Lockpicking -->
+	<string id="st_player_skills_hint_lockpicking">
+		<text>ルートボックスのロック難易度が低下する。\n \nルートボックスを開けることでレベルが上がる。\n(スケルトンキーの使用は経験値なし）\n \n</text>
+	</string>
+	<string id="st_skills_stats_lockpick_diff_reduc_positive">
+        <text>\n%c[255,138,43,226]・c[ui_6] ルートボックスロック難易度減少量: %c[d_green]$stat%</text>
+    </string>
+    <string id="st_skills_stats_lockpick_diff_reduc_negative">
+        <text>\n%c[255,138,43,226]・c[ui_6] ルートボックスロック難易度上昇量: %c[d_red]$stat%</text>
+    </string>
+	
+	<!-- Reloading -->
+	<string id="st_player_skills_hint_reloading">
+		<text>銃のリロードと構える/しまう速度を速くする。\n \n銃を扱うとレベルが上がる。\n(最大レベルは、耐久力とサバイバルによって制限される)\n \n</text>
+	</string>
+	<string id="st_skills_stats_reload_speed_positive">
+        <text>\n%c[255,138,43,226]・c[ui_6] リロード速度上昇量: %c[d_green]$stat%</text>
+    </string>
+    <string id="st_skills_stats_reload_speed_negative">
+        <text>\n%c[255,138,43,226]・c[ui_6] リロード速度減少量: %c[d_red]$stat%</text>
+    </string>
+	
+	<string id="st_skills_stats_equip_speed_positive">
+        <text>\n%c[255,138,43,226]・c[ui_6] 構え/しまう速度上昇量: %c[d_green]$stat%</text>
+    </string>
+    <string id="st_skills_stats_equip_speed_negative">
+        <text>\n%c[255,138,43,226]・c[ui_6] 構え/しまう速度減少量: %c[d_red]$stat%</text>
+    </string>
+	
+</string_table>

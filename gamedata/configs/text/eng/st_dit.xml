@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+	<string id="dit_no_consume_ctrl">
+		<text>%s意図しないツールの消耗を防ぐため、\n
+左シフトキーが押されているときのみ実行可能。%s</text>
+	</string>
+</string_table>

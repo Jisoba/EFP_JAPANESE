@@ -1,0 +1,62 @@
+
+<string_table>	
+	<string id="st_money_low">
+		<text>ルーブルの小さな札束</text>
+	</string>
+	<string id="st_money_low_desc">
+		<text>どこかのスーパーのレジから持ってきたと思われる、山積みの小額の紙幣。 \n</text>
+	</string>
+
+	<string id="st_money_med">
+		<text>ルーブルの札束</text>
+	</string>
+	<string id="st_money_med_desc">
+		<text>そこそこの厚さのルーブルの札束。紙幣はまだ湿気ってはいない。\n</text>
+	</string>
+	<string id="st_money_high">
+		<text>大きなルーブルの札束</text>
+	</string>
+	<string id="st_money_high_desc">
+		<text>非常に厚いルーブルの札束。銀行強盗でもやったのか？\n</text>
+	</string>
+	<string id="st_money_fat">
+		<text>非常に大きなルーブルの札束</text>
+	</string>
+	<string id="st_money_fat_desc">
+		<text>とんでもない厚さのルーブルの札束だ。これだけあれば遊んで暮らせるだろう。\n</text>
+	</string>
+	<string id="st_money_card_low">
+		<text>デビットカード</text>
+	</string>
+	<string id="st_money_card_low_desc">
+		<text>哀れなストーカーから盗まれた銀行のカード。安全のためにゾーンでは大きな買い物を電子的に行うことがある。これは一般的なカードで、口座に大金が入っていることはないだろう。</text>
+	</string>
+	<string id="st_money_card_med">
+		<text>クレジットカード</text>
+	</string>
+	<string id="st_money_card_med_desc">
+		<text>国際的な融資会社のクレジットカード。無論クレジットカード会社は不正防止策をきちんと講じているだろうが、バレる前にちょっとだけ「賢い」取引をしてお金を引き出すことは可能だ。</text>
+	</string>
+	<string id="st_money_card_high">
+		<text>エグゼクティブカード</text>
+	</string>
+	<string id="st_money_card_high_desc">
+		<text>かなり派手な外観のウェスタンカード。他のクレジットカードと同様、カードには高度な詐欺防止策が施されている。しかし、このカードの所有者はしばしば非常識な買い物をするため、大金を引き出すのは簡単である。シャンパンやエスコートで浪費するよりよっぽど賢明な使い方だろう。</text>
+	</string>
+	
+	<string id="st_use_money1">
+		<text>キャッシュインだ</text>
+	</string>
+	<string id="st_use_money2">
+		<text>金を数えろ</text>
+	</string>
+	<string id="st_use_money3">
+		<text>金をばらまけ</text>
+	</string>
+	<string id="st_use_money4">
+		<text>金稼ぎだ</text>
+	</string>
+	<string id="st_use_money_card">
+		<text>カード詐欺だ！</text>
+	</string>
+</string_table>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+    
+<!--
+Pistols and MP's
+-->
+
+	<string id="st_mag_ppp_1911_357_fmj">
+		<text>Coonan .357 マガジン</text>
+	</string>
+	<string id="st_mag_ppp_1911_357_fmj_descr">
+		<text>
+            コルト1911のマガジンを、より長い.357マグナム弾に対応させるために改良したモデル。Coonan.357ハンドガンのみ使用可能で、.357マグナム弾のストッピングパワーをコンパクトながら発揮する。
+		</text>
+	</string>
+
+	<string id="st_mag_ppp_svi_45">
+		<text> 15-round Strayer-Voight マガジン</text>
+	</string>
+	<string id="st_mag_ppp_svi_45_descr">
+		<text>
+           Strayer-Voight Infinity Competitionハンドガンに標準装備されているマガジン。拡張された15連マガジンは、素早くマガジンを交換できるように設計されている。底部には小さな黒いスピードプレートが貼られ、SVIダイヤモンドのロゴが刻印されている。このマガジン1本でマカロフPMを5丁ほど購入できるほどの高価さだが、ここゾーンでの価値は純粋に実用性で決まるため、このマガジンは極めて希少であること以外、何の意味もない。
+		</text>
+	</string>
+
+	<string id="st_mag_ppp_px4_9x19_fmj">
+		<text> 17-round 9x19mm PX4 マガジン</text>
+	</string>
+	<string id="st_mag_ppp_px4_9x19_fmj_descr">
+		<text>
+            標準的なベレッタPX4 Stormのマガジン。ベレッタ92Fと類似性が高いが、マガジンのフィーディングリップのデザインが若干異なるため、92Fとの互換性はない。92F同様、ゾーンではあまり見かけることはない。
+		</text>
+	</string>
+    
+	<string id="st_mag_ppp_px4_45">
+		<text> 10-round .45 PX4 マガジン</text>
+	</string>
+	<string id="st_mag_ppp_px4_45_descr">
+		<text>
+            標準的なベレッタPX4 Stormのマガジン。ベレッタ92Fと類似性が高いが、マガジンのフィーディングリップのデザインが若干異なるため、92Fとの互換性はない。92F同様、ゾーンではあまり見かけることはない。このモデルは.45ACP弾に対応したものだ。
+		</text>
+	</string>
+
+	<string id="st_mag_ppp_sig_9x19_fmj">
+		<text>9x19mm SIG P229 マガジン</text>
+	</string>
+	<string id="st_mag_ppp_sig_9x19_fmj_descr">
+		<text>
+            SIG P229ハンドガンに合わせて設計されたコンパクトなマガジン。P229は極めて近代的なハンドガンであるため、ゾーンでは非常に珍しい銃。より賢明なストーカーは、皆、敵の注意を引かないことに重きを向いた銃を採用するため、それほど光沢のないハンドガンを携帯している。
+		</text>
+	</string>
+
+	<string id="st_mag_ppp_signimble_9x19_fmj">
+		<text>9x19mm SIG P320 マガジン</text>
+	</string>
+	<string id="st_mag_ppp_signimble_9x19_fmj_descr">
+		<text>
+            SIG 320ハンドガンに合わせて設計された標準的なマガジン。P320はGlockや Five-Sevenと同じストライカー式のハンドガンで、最近ではアメリカ陸軍の標準的な制式拳銃として採用され、M17と呼称されている。RXPは、あるアメリカ人の顧客がゾーンに進出しているという情報を聞きつけたNimble社が数量限定で密輸入したものだ。
+		</text>
+	</string>
+    
+	<string id="st_mag_ppp_signimble_45_fmj">
+		<text>.45 SIG P320 マガジン</text>
+	</string>
+	<string id="st_mag_ppp_signimble_45_fmj_descr">
+		<text>
+            SIG 320ハンドガンに合わせて設計された標準的なマガジン。P320はGlockや Five-Sevenと同じストライカー式のハンドガンで、最近ではアメリカ陸軍の標準的な制式拳銃として採用され、M17と呼称されている。RXPは、あるアメリカ人の顧客がゾーンに進出しているという情報を聞きつけたNimble社が数量限定で密輸入したものだ。このモデルは45.ACP弾に対応したものだ。
+		</text>
+	</string>
+
+	<string id="st_mag_ppp_mk23_45">
+		<text>.45 Mark 23 マガジン</text>
+	</string>
+	<string id="st_mag_ppp_mk23_45_descr">
+		<text>
+            マーク23-SOCOMの大型マガジン。メインウェポンとして設計されたMark-23は、非常に正確で安定しているが、サイドアームとしては非常に重く、かさばり、実用的でないため、世界初の固定砲台型サイドアームという嘲笑を浴びることになった。金持ちのストーカーは、このような銃に芸術性を見出しているようだ。
+		</text>
+	</string>
+
+
+	<string id="st_ppp_colt1911_762x25_fmj">
+		<text>Modified 7.62x25mm Colt マガジン</text>
+	</string>
+	<string id="st_ppp_colt1911_762x25_fmj_descr">
+		<text>
+            コルト1911のマガジンを7.62x25トカレフ用に改造したものである。このような改造が可能なのは、Dutyの間で人気のあるロシア仕様の1911だけだ。この改造の支持者は、より小さな弾丸による制御性の向上と弾薬の共通化により、特に1911の頑丈な設計を生かした信頼性の高いサイドアームになると主張している。反対派は、特にCZ 52ハンドガンのような安価な選択肢が存在するため、これは不必要で愛国心に基づく贅沢品であると考えている。
+		</text>
+	</string>
+    
+	<string id="st_ppp_sw_45_fmj">
+		<text> .45 S&amp;W マガジン</text>
+	</string>
+	<string id="st_ppp_sw_45_fmj_descr">
+		<text>
+            Smith&Wesson 645シリーズのハンドガン用標準マガジン。645は、アメリカの刑事や警察官が個人で所有する制式拳銃として人気がある。
+		</text>
+	</string>
+
+	<string id="st_ppp_sw_919_fmj">
+		<text> 9x19mm S&amp;W マガジン</text>
+	</string>
+	<string id="st_ppp_sw_919_fmj_descr">
+		<text>
+            Smith&Wesson 659ハンドガンの標準的なマガジン。659は事実上645の9mmバージョンであり、構造はほとんど同じである。
+		</text>
+	</string>
+
+	<string id="st_ppp_xd9_9x19_fmj">
+		<text> 9x19 XD9 マガジン</text>
+	</string>
+	<string id="st_ppp_xd9_9x19_fmj_descr">
+		<text>
+            XD9の標準的な9連マガジン。XD9は、コストという観点以外ではどの視点でも勝るピストルでは無い。
+		</text>
+	</string>
+    
+	<string id="st_ppp_glock_45_fmj">
+		<text> .45 Glock 21 マガジン</text>
+	</string>
+	<string id="st_ppp_glock_45_fmj_descr">
+		<text>
+            Glock21用の標準的な13連ポリマー製マガジン。Glockのマガジンは規格が統一されているため、このマガジンは.45ACPが使えるように改造されたGlock17ハンドガンにも装着可能だ。グロックの標準的なマガジンのサイズから、どうやってこのマガジンにこんな改造ができたのだろうか？ゾーンとはかくも奇妙な場所だ。
+		</text>
+	</string>
+
+    
+</string_table>

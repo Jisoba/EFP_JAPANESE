@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+	Unique sights for MP412 Rex
+-->
+
+<string_table>
+	<string id="st_integrated_docter">
+		<text>DOCTER sight</text>
+	</string>
+	<string id="st_integrated_docter_descr">
+		<text>アップグレードでのみ使用可能。\n \n
+		%c[d_purple] ・%c[ui_gray_2] 倍率: %c[ui_gray_1]等倍 (collimator)\n
+		%c[d_purple] ・%c[ui_gray_2] 品質: %c[ui_gray_1]とても良い</text>
+	</string>
+
+    <string id="st_integrated_compact">
+		<text>Compact sight</text>
+	</string>
+	<string id="st_integrated_compact_descr">
+		<text>アップグレードでのみ使用可能。\n \n
+		%c[d_purple] ・%c[ui_gray_2] 倍率: %c[ui_gray_1]等倍 (collimator)\n
+		%c[d_purple] ・%c[ui_gray_2] 品質: %c[ui_gray_1]とても良い</text>
+	</string>
+</string_table>

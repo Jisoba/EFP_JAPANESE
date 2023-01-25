@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+	EFT Additions
+-->
+
+<string_table>
+<string id="st_speed_drug">
+		<text>スピード</text>
+	</string>
+	<string id="st_speed_drug_descr">
+		<text>強力な神経系刺激剤。小型のアルミケースにスピードとそれを使用するための道具が入っている。効果は投与経路によるが、15分から30分、1時間持続する。覚醒度を高め、幸福感、有能感、性的興奮を引き起こす。副作用として不安、妄想、レストレスレッグス症候群がある。過剰に摂取すると震え、痙攣、体温の上昇が起こる。バンディットが襲撃や待ち伏せの直前によく使っているらしい。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] • %c[ui_gray_2] 覚醒作用\n
+		%c[d_blue] • %c[ui_gray_2] 強い酔い覚まし効果\n
+		%c[d_red] • %c[ui_gray_2] 人体に有害\n
+		%c[d_purple] • %c[ui_gray_2] 微量のダメージ耐性ボーナス\n
+		</text>
+	</string>
+
+	<string id="st_antibio_sulfad2">
+		<text>ペインキラー</text>
+	</string>
+	<string id="st_antibio_sulfad_descr2">
+		<text>最も安価で広く普及している鎮痛剤。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] • %c[0,255,255,255] 一時的な部位の回復 %c[ui_gray_2] 頭%c[0,255,255,255] 40% %c[ui_gray_2]胴%c[0,255,255,255] 40% %c[ui_gray_2]腕%c[0,255,255,255] 40% %c[ui_gray_2]脚%c[0,255,255,255] 40% \n
+		%c[d_blue] • %c[ui_gray_2] 薬品\n
+		%c[d_blue] • %c[ui_gray_2] 輸入品\n
+		%c[d_blue] • %c[ui_gray_2] 鎮痛作用\n
+		%c[d_purple] • %c[ui_gray_2] 微量のダメージ耐性ボーナス\n
+		</text>
+	</string>
+
+	<string id="st_antibio_chlor2">
+		<text>医薬品の山</text>
+	</string>
+	<string id="st_antibio_chlor_descr2">
+		<text>たくさんの未分類の薬品。 ゾーンでは医療用具の使用はかなり一般的だ。 それと同時にゾーンには廃棄された薬品がたくさんある。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] • %c[ui_gray_2] 未分類医薬品\n
+		%c[d_red] • %c[ui_gray_2] 怪我をしたり感染症にかかるリスクが高い\n
+		</text>
+	</string>
+
+	<string id="st_antiemetic2">
+		<text>医薬品の山</text>
+	</string>
+	<string id="st_antiemetic_descr2">
+		<text>たくさんの未分類の薬品。 ゾーンでは医療用具の使用はかなり一般的だ。 それと同時にゾーンには廃棄された薬品がたくさんある。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] • %c[ui_gray_2] 未分類医薬品\n
+		%c[d_red] • %c[ui_gray_2] 怪我をしたり感染症にかかるリスクが高い\n
+		</text>
+	</string>
+	<string id="st_survival_kit_eft">
+		<text>Surv12</text>
+	</string>
+	<string id="st_survival_kit_eft_descr">
+		<text>より優れたツールを追加した、野外手術キット。戦場での重傷を負った手足を治療することができる。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・%c[d_blue] 応急処置 %c[ui_gray_2]腕%c[d_blue] 60% %c[ui_gray_2]脚%c[d_blue] 60% \n
+		%c[d_blue] ・%c[ui_gray_2] 手術キット\n
+		%c[d_blue] ・%c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・%c[ui_gray_2] 高品質\n
+		%c[d_blue] ・%c[ui_gray_2] 手・足の治療\n
+		%c[d_red] ・%c[ui_gray_2] 遅効性 (野外手術キット)\n
+		</text>
+	</string>
+
+	
+</string_table>

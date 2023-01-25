@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+	
+	<string id="ui_mcm_advanced_stamina_system_title">
+		<text>Advanced Stamina System</text>
+	</string>
+	<string id="ui_mcm_menu_advanced_stamina_system">
+		<text>ASS</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_satiety_limit">
+		<text>満腹度によるスタミナ制限を有効にする</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_satiety_limit_modifier">
+		<text>満腹度スタミナ制限倍率</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_blood_loss_limit">
+		<text>血液量に応じたＨＰの上限を有効にする</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_blood_loss_limit_desc">
+		<text>出血を受けると、キャラクターは血液を失い、最大ＨＰが低下します。上限を回復させるには、たっぷりの食事をとるか、プロテインバーを食べるか、ブドウ糖注射器を使用する必要があります。</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_blood_loss_limit_modifier">
+		<text>出血量倍率</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_thirst_drain">
+		<text>のどの渇きに応じたスタミナの増加を有効にする</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_thirst_drain_desc">
+		<text>喉の渇きがないときはスタミナの消費速度が遅くなり、渇きが増すと消費速度が速くなります。灰色のアイコンからスタートし、ペナルティを受けます。</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_thirst_drain_modifier">
+		<text>影響倍率</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_sleep_drain">
+		<text>睡眠によるスタミナの増加を有効にする</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_sleep_drain_desc">
+		<text>睡眠を取らない状態ではスタミナ消費速度が速くなり、睡眠するとスタミナ消費速度は遅くなります。灰色のアイコンからペナルティが発生します。</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_sleep_drain_modifier">
+		<text>影響倍率</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_uphill_drain">
+		<text>坂道の上り下りによるスタミナの消費速度の増減を有効にする。</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_uphill_drain_modifier">
+		<text>影響倍率</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_uphill_speed_modifier">
+		<text>坂道を上る/下る時の速度補正を有効にする</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_uphill_speed_modifier_modifier">
+		<text>影響倍率</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_material_drain">
+		<text>足元の材質に応じてスタミナの消費速度の変化を有効にする</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_material_drain_modifier">
+		<text>影響倍率</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_stamina_speed_modifier">
+		<text>スタミナに応じた速度補正を有効にする</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_stamina_speed_modifier_desc">
+		<text>スタミナが低下すると、スタミナバーの真ん中あたりから、スピードが下がるようになります。</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_stamina_speed_modifier_modifier">
+		<text>影響倍率</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_debug_mode">
+		<text>デバッグモード</text>
+	</string>
+	
+</string_table>

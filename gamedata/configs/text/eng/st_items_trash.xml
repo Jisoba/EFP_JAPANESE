@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+<!--
+	Junk/Misc Items
+-->
+ <string id="st_jar">
+    <text>プラスチック容器</text>
+  </string>
+  <string id="st_jar_descr">
+    <text>
+             小さなプラスチックの容器。小物、特に薬品や医薬品を安全に保管するのに便利だ。内容物を湿気から守り、製品の含水量を確実に保つ。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 基本素材
+                %c[d_blue] ・ 日用品
+                </text>
+  </string>
+  <string id="st_e_syringe">
+    <text>空の注射器</text>
+  </string>
+  <string id="st_e_syringe_descr">
+    <text>お粗末なプランジャーを備えた12mLの医療用注射器。何度も再利用されているようだ。製薬キットと適切な知識があれば、この注射器はさまざまな種類の薬を作成するのに役立つ。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 基本素材
+                %c[d_blue] ・ 日用品
+                </text>
+  </string>
+  <string id="st_rope">
+    <text>ロープ</text>
+  </string>
+  <string id="st_rope_descr">
+    <text>状態の良いロープはゾーンでは大変重宝する。ほとんどのストーカーがロープを必要としているので、売買価格は高い。このロープの長さは、約 10 メートル。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_cyan] ・ 基本素材</text>
+  </string>
+  <string id="st_porn">
+    <text>ロシア版「PLAYBOY」</text>
+  </string>
+  <string id="st_porn_descr">
+    <text>100ページ相当のロシア女子たちの素晴らしいヌード集。精神的に良い所へトリップするいい方法である。「ロシアから愛をこめて」と、西側の人間はしばしば冗談に使う。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品</text>
+  </string>
+  <string id="st_survivalguide">
+    <text>ウクライナ特殊部隊 サバイバルガイド</text>
+  </string>
+  <string id="st_survivalguide_descr">
+    <text>あなたはこれまで何度もこのサバイバルガイドを熟読し、研究してきた。そのため本書の内容に価値は無いが、即金で販売できるはずだ。一部のストーカーは、これを見たがるかもしれない。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品</text>
+  </string>
+  <string id="st_guitar_name">
+    <text>ギター</text>
+  </string>
+  <string id="st_guitar_descr">
+    <text>ギターは殺伐とした雰囲気を変え、他のストーカーと円滑なコミュニケーションを取る上で非常に役に立つ弦楽器で、派閥を問わず広く親しまれている。多くの場合、野営地や前哨基地、特に焚き火の周りなど比較的安全な場所で演奏している姿を見ることができる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品</text>
+  </string>
+  <string id="st_harmonica_name">
+    <text>ハーモニカ</text>
+  </string>
+  <string id="st_harmonica_descr">
+    <text>ブルースと牢獄のロマンスを愛する者たちへ。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品</text>
+  </string>
+  <string id="st_steel_wool">
+    <text>スチールウール</text>
+  </string>
+  <string id="st_steel_wool_descr">
+    <text>スチールウール、又はワイヤーウールは、非常に細い鉄線を綿状に固めた物。家庭用調理器具の清掃やさび落し、塗装剥がし、木材や金属製品の研磨、仕上げ等に使う。スチールウールは低炭素鋼から作られている (炭素の含有量は普通の鉄同程度まで低く抑えている)。1 本 1 本の繊維の断面が、三日月型や三角形、長方形等の多面体で、エッジがあるだけでなく、製法上、繊維自体が均一化されず表面積が大きくなることにより、優れた研磨特性を発揮する。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品</text>
+  </string>
+  <string id="st_grease">
+    <text>工業用グリス</text>
+  </string>
+  <string id="st_grease_descr">
+    <text>グリスは、半個体の潤滑剤。基本的には液状潤滑油にカルシウム ナトリウム リチウム アルミニウムの石鹸(脂肪酸の塩)等の増ちょう剤を均一に拡散させ、ゼリー状にしたもの。主にすべり軸受けやベアリング、あるいは接触する面が動くために潤滑剤の膜を付着した状態に保つのが難しい摺動面に用いられる。さらに、液体や非圧縮性の材料が染み出すのを防ぐシーラントの役目も果たす。グリスで円滑になったベアリングは低い摩擦係数を示す。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 高品質
+                </text>
+  </string>
+  <string id="st_shovel_old">
+    <text>金属製シャベル</text>
+  </string>
+  <string id="st_shovel_old_descr">
+    <text>様々な分野で使われている古い金属ショベル。特に工業地帯でよく見られるシャベルをバックパックに入れている者はほとんどいない。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品</text>
+  </string>
+  <string id="st_shovel_mili">
+    <text>軍用シャベル</text>
+  </string>
+  <string id="st_shovel_mili_descr">
+    <text>高品質な黒い軍用シャベル。様々な野外活動で使用する。スペツナズ兵士の訓練には、素手による格闘の他、武器の代わりになる物を使い敵を排除するメニューも組まれる。それは、シャベルがスペツナズ兵士の手に握られた時、接近戦において恐るべき凶器に変貌することを意味する。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 軍用品</text>
+  </string>
+  <string id="st_meinkampf">
+    <text>我が闘争</text>
+  </string>
+  <string id="st_meinkampf_descr">
+    <text>アドルフ ヒトラーの戦略的な記録が一冊にまとめられた本。この本の内容が多くの人々に嫌われる一方で、高い象徴的価値をも持っている。アドルフ ヒトラー（1889年4 月20 日 ~ 1945年4 月30日）オーストリアのハンガリー帝国に生まれたドイツの政治家で国家社会主義ドイツ労働者党（ナチス）指導者。1933年にドイツの首相となり、1934 ~ 1945年の間、ナチスドイツの独裁者だった。ヒトラーは第二次世界大戦の開戦およびホロコーストの責任を負っている。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 私物</text>
+  </string>
+  <string id="st_journal">
+    <text>個人の日誌</text>
+  </string>
+  <string id="st_journal_descr">
+    <text>皮革で装丁された、初期の地図と記録が書かれた個人の日誌。簡単な生存のヒントは、ほとんどの人間には価値が無い。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 私物</text>
+  </string>
+  <string id="st_maps_kit">
+    <text>地図作成キット</text>
+  </string>
+  <string id="st_maps_kit_descr">
+    <text>ペンと測定器具がセットになった地図作成キット。防水 カモフラージュされた高品質のカバーです。ウクライナの砲兵要員によって使用されていた。一部のマップはまだ完成していない。あなたのPDAはこれよりもずっと役に立つ。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_red] ・ 使用不可</text>
+  </string>
+  <string id="st_welding_goggles">
+    <text>溶接用ゴーグル</text>
+  </string>
+  <string id="st_welding_goggles_descr">
+    <text>切れた皮バンドの古く腐食した溶接用ゴーグル。溶接作業中に目を防護するために使用するものだが、これは既に役目を終えている。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品</text>
+  </string>
+	<string id="st_survival_kit">
+		<text>Surv12</text>
+	</string>
+	<string id="st_survival_kit_descr">
+		<text>より優れたツールを追加した、野外手術キット。戦場での重傷を負った手足を治療することができる。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・%c[d_blue] 応急処置 %c[ui_gray_2]A%c[d_blue] 60% %c[ui_gray_2]L%c[d_blue] 60% \n
+		%c[d_blue] ・%c[ui_gray_2] 手術キット\n
+		%c[d_blue] ・%c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・%c[ui_gray_2] 高品質\n
+		%c[d_blue] ・%c[ui_gray_2] 手・足の治療\n
+		%c[d_red] ・%c[ui_gray_2] 遅効性 (フィールドキット)\n
+		</text>
+	</string>
+  <string id="st_jewelry_box">
+    <text>装飾された宝石箱</text>
+  </string>
+  <string id="st_jewelry_box_descr">
+    <text>女性が身に付ける宝石やアクセサリーが詰まった小さな箱。かなり価値がありそうだが、ブラインド ドッグの歯以外のアクセサリーを身に付けている ストーカーを見た覚えが無い。故に取引価格は知れている。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                %c[d_blue] ・ 高価値</text>
+  </string>
+  <string id="st_book1">
+    <text>機械工学の解説書</text>
+  </string>
+  <string id="st_book1_descr">
+    <text>機械工学のマニュアル。このような本を読んで専門知識を深め、ゾーン内の施設や工場についてさらに詳しく学ぶ人もいる。販売価格は安い。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品</text>
+  </string>
+  <string id="st_book2">
+    <text>生産工学の解説書</text>
+  </string>
+  <string id="st_book2_descr">
+    <text>工業工学の手引書。このような本を読んで専門知識を深め、ゾーン内の施設や工場についてさらに詳しく学ぶ人もいる。販売価格は安い。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品</text>
+  </string>
+  <string id="st_drugnotes">
+    <text>薬物取引について</text>
+  </string>
+  <string id="st_drugnotes_descr">
+    <text>様々な薬物取引について詳細に書かれている。固有の呼称、取引の時間および場所も含む。取引は物々交換によるものと、大量のルーブルによって行われる。本をめくるにつれ、Freedomがマリファナの様な天然薬物のブローカーであることが明らかになる。Banditは、サリチル酸やコカイン等より強くかつ危険な合成薬物の生産者でありブローカーでもある。明らかにゾーンの各派閥はこれらの取引に関わっている。特にMonolithは、高価な弾薬と装備との交換によって大量の薬物を取得しているように見られる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 私物
+                %c[d_blue] ・ 貴重品</text>
+  </string>
+  <string id="st_picture_woman">
+    <text>女性の写真</text>
+  </string>
+  <string id="st_picture_woman_descr">
+    <text>セロハンに包まれた小さな写真には、ブロンドの美しい女性が写っている。写真の下部の名前を書いた部分は削り取られている。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 私物</text>
+  </string>
+  <string id="st_porn2">
+    <text>ウクライナ版「マキシム」</text>
+  </string>
+  <string id="st_porn2_descr">
+    <text>雑誌に掲載されているのは、美しいスラブ系の少女達で、今月の特集はジョアナ クルーパだ。ゾーンの人々が気分を紛らわす手段としてとても人気。この雑誌のジョアナのポスターは切り取られている。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品</text>
+  </string>
+  <string id="st_boots">
+    <text>レザーブーツ</text>
+  </string>
+  <string id="st_boots_descr">
+    <text>誰もが優秀な道具の重要性に気づいている。一足の予備のブーツがどれ程有用であるかは推して知るべし。それは、他のストーカーからの羨望の対象である。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                %c[d_blue] ・ 私物</text>
+  </string>
+  <string id="st_batteries_dead_empty">
+    <text>古いバッテリー（空）</text>
+  </string>
+  <string id="st_batteries_dead_empty_descr">
+    <text>ゾーンで見つかった 10 個のバッテリーの内 1 つだけ若干の電気が残っていたもの。もう完全に放電しており、まったく利用価値が無い。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_red] ・ 電力は枯渇</text>
+  </string>
+  <string id="st_batteries_empty">
+    <text>バッテリー（空）</text>
+  </string>
+  <string id="st_batteries_empty_descr">
+    <text>完全に消耗したバッテリー。価値はただ金属製であると言うことのみ。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_red] ・ 電力は枯渇</text>
+  </string>
+  <string id="st_batteries_ccell_empty">
+    <text>軍用バッテリー（空）</text>
+  </string>
+  <string id="st_batteries_ccell_empty_descr">
+    <text>空の軍用バッテリー。満充電なら大変貴重で高い需要があるが、完全放電してしまったバッテリーはただの鉄の塊で、足かせにしかならない。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_red] ・ 電力は枯渇</text>
+  </string>
+  <string id="st_flashlight_broken">
+    <text>壊れた懐中電灯</text>
+  </string>
+  <string id="st_flashlight_broken_descr">
+    <text>ハンドルが壊れており、ダクトテープでさえバッテリーを固定できないだろう。これにもはや価値はない。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_red] ・ 修復不可
+                %c[d_red] ・ 使用不可</text>
+  </string>
+  <string id="st_underwear">
+    <text>汚れた下着</text>
+  </string>
+  <string id="st_underwear_descr">
+    <text>予備のシャツや下着、靴下は快適な日々を送るのにかかせない。残念ながら、このセットは酷く汚れていて、金を払ってまで買おうとするストーカーはいない。だが、捨てるにはまだ早く、スーツや銃器の整備に流用出来る。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                %c[d_blue] ・ 私物</text>
+  </string>
+  <string id="st_wpn_spareparts">
+    <text>銃の予備部品</text>
+  </string>
+  <string id="st_wpn_spareparts_descr">
+    <text>「AKM」と思われるアサルトライフルの予備部品。木製の部品はあまり良い状態ではなく、金属部分も同様である。初心者しか買おうとしないだろう。しかし、装備品の修理には使えそうだ。ゾーンの住人の中には、新しい武器を発見したときに、スタッシュから盗んだと疑われないように部品を交換する人もいる。
+
+                %c[ui_gray_3]特性
+                %c[d_blue] ・ 軍用品
+                </text>
+  </string>
+  <string id="st_beadspread">
+    <text>シュラフマット</text>
+  </string>
+  <string id="st_beadspread_descr">
+    <text>ゾーンでは贅沢な物。これは、しっかりとした睡眠を取る機会を10%増してくれる。ゾーンの避難所には少数のベッドしかなく、しっかりと睡眠を取るには窮屈だが、寝袋とシュラフマットを持っていれば快適な睡眠を取れるだろう。シュラフマットはいくつかの部隊の装備品に含まれる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                </text>
+  </string>
+  <string id="st_walkie">
+    <text>トランシーバー</text>
+  </string>
+  <string id="st_walkie_descr">
+    <text>ディスプレイは表示されず、スピーカーからは常に雑音が出ていることから、壊れているということがわかる。噛み跡からミュータントに噛まれた事も伺える。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_red] ・ 修復不可
+                %c[d_red] ・ 使用不可</text>
+  </string>
+  <string id="st_cards">
+    <text>トランプ</text>
+  </string>
+  <string id="st_cards_descr">
+    <text>この酷く恐ろしい場所に置かれ、常に緊張を強いられた状況を緩和するには他の娯楽に興じることが必要だ。トランプをすることは気晴らしにうってつけだが、一組のトランプは特別な取引にも使われる。カバーにはモスクワ地下鉄が誇る駅舎がデザインされている。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品</text>
+  </string>
+  <string id="st_mili_maps">
+    <text>Militaryの地図</text>
+  </string>
+  <string id="st_mili_maps_descr">
+    <text>ゾーン周辺にあるMilitaryの野営地の位置を示す地図。PDAにはこれらの地図がインストールされているので、このアイテムが役に立つことはほとんどないだろう。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 軍事品</text>
+  </string>
+  <string id="st_headlamp">
+    <text>古いヘッドマウントライト</text>
+  </string>
+  <string id="st_headlamp_descr">
+    <text>夜のゾーンを探索する必要にせまられ、恐れず行動するために重大な役割を果たしてくれる。残念ながらこのライトは長い間酷使されていたため、今は簡単な部品取りとして役立てる他ない。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_red] ・ 修復不可能
+                %c[d_red] ・ 使用不可</text>
+  </string>
+  <string id="st_mirror">
+    <text>テレスコピックミラー</text>
+  </string>
+  <string id="st_mirror_descr">
+    <text>望遠鏡の鉄管に取り付けられた小さな鏡。市街地での戦闘に精通したファイターが、撃たれずにコーナーを覗ける便利なアイテム。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 軍事品</text>
+  </string>
+  <string id="st_hammer">
+    <text>古びたハンマー（再利用可能）</text>
+  </string>
+  <string id="st_hammer_descr">
+    <text>木の取っ手と鉄の頭部を持つハンマー。ゾーンの工場ではどこでも見かける。重量があるが、その汎用性からか、よくバックパックに入れて持ち運ばれている。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                %c[d_orange] ・ 使用回数の制限なし</text>
+  </string>
+  <string id="st_tarpaulin">
+    <text>迷彩防水シート</text>
+  </string>
+  <string id="st_tarpaulin_descr">
+    <text>防水シート（粗末な小屋）とは、丈夫で柔軟性があり、耐水性や防水性のある大きなシートのことで、キャンバスやポリエステルなどの布にウレタンをコーティングしたものや、ポリエチレンなどのプラスチック製のものが多い。角や側面にはロープを通すためのグロメットが付いており、これを使って縛ったり吊るしたりすることができる。様々な用途があるが、主に小型でシンプルなテントのような隠れ家を作るのに使われる。簡単に手に入る代替品のため、取引価値は低い。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 軍用品</text>
+  </string>
+  <string id="st_synthrope">
+    <text>2 本の合成繊維ロープ</text>
+  </string>
+  <string id="st_synthrope_descr">
+    <text>合成繊維素材のロープは軍の倉庫で見つけることが出来る。理由は定かではないが、軍のストーカーのほとんどは、それを携行していない。状態の良いロープはゾーンでは大変重宝する。ほとんどのストーカーがロープを必要としているので、売買価格は高い。このロープの長さは、それぞれが約5メートル。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                </text>
+  </string>
+  <string id="st_cutlery">
+    <text>アウトドア用食器セット</text>
+  </string>
+  <string id="st_cutlery_descr">
+    <text>バックパックや野外調査などに、丈夫で軽く機能的な鉄製のナイフ、フォークとスプーンのセット。銅線で一緒に括られている。錆などを落とし常に清潔に保てば、安全に使用出来る。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                </text>
+  </string>
+  <string id="st_radio">
+    <text>小型ラジオ</text>
+  </string>
+  <string id="st_radio_descr">
+    <text>音楽は神経を静めるのに最適な方法だ。しかしアンテナが壊れているため、このラジオはほとんど役に立たない。湿気や汚れもこびりついている。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_red] ・ 修復不可
+                %c[d_red] ・ 使用不可</text>
+  </string>
+  <string id="st_radio2">
+    <text>壊れたラジオ</text>
+  </string>
+  <string id="st_radio2_descr">
+    <text>劣悪な状態の小さなラジオ。汚れていて湿気で傷んでいる。ラジオを揺らすとガタガタ音がするので、内装がかなり悪いようだ。価値はほとんどない。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_red] ・ 修復不可
+                %c[d_red] ・ 使用不可</text>
+  </string>
+  <string id="st_broken_detector">
+    <text>壊れた探知機</text>
+  </string>
+  <string id="st_broken_detector_descr">
+    <text>壊れたBear探知機。画面が割れていて、内装もかなり悪い状態であるが、中に入っている電子部品のいくつかはまだ安全だ。これらは修理のための部品としての利用、またはクラフトによって再利用することも可能だ。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_red] ・ 修復不可
+                %c[d_red] ・ 使用不可</text>
+  </string>
+  <string id="st_gloves">
+    <text>レザーグローブ</text>
+  </string>
+  <string id="st_gloves_descr">
+    <text>革製の手袋。最近買ったかのように気持ちいい香りがする。天候が悪化して寒くなったときは、手を暖かくすることが重要になる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                %c[d_blue] ・ 高価値</text>
+  </string>
+  <string id="st_hand_watch">
+    <text>腕時計</text>
+  </string>
+  <string id="st_hand_watch_descr">
+    <text>古びた、古典的なソビエトの「raketa3」時計。まだ調子は良さそうだ。多くのストーカーが通常の時間確認のためにPDAよりも機械式時計を好むのは当然である。時計は、最悪の状況でも信頼性と耐久性があるという事実を考えると、PDAが放射または近くの異常な領域から来る強い電磁波のためにエラーを起こしても役立つ。ただし、一部の者はスタイリッシュなアクセサリーとして単に身に着けているだけだ。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_cyan] ・ 私物
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 高価値</text>
+  </string>
+	<string id="st_hand_rolex">
+		<text>ロレックス</text>
+	</string>
+	<string id="st_hand_rolex_descr">
+		<text>
+		まだまだ健在のロレックスの定番時計。普段の時間確認にPDAよりも機械式時計を好むストーカーが多いのは、当然のことだろう。電磁波の影響を受けやすいPDAでは、機械式時計が重宝されるのだ。しかし、このアイテムは、ある金持ちのストーカーによって、このゾーンに入り込んでしまったのだ。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_cyan] ・%c[ui_gray_2] 私物\n
+		%c[d_blue] ・%c[ui_gray_2] 技術品\n
+		%c[d_purple] ・%c[ui_gray_2] 非常に高価値\n
+		</text>
+	</string>	
+	 <string id="st_ball_hammer">
+    <text>鉄工ハンマー</text>
+  </string>
+  <string id="st_ball_hammer_descr">
+    <text>機械工のハンマーとしても知られている鉄工ハンマーは、金属加工に使用されるピーニングハンマーの一種。古くて錆びているにもかかわらず、小さな修理作業のために使用することで作業は大きく捗るだろう。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品</text>
+  </string>
+  <string id="st_duct_tape">
+    <text>ダクトテープ</text>
+  </string>
+  <string id="st_duct_tape_descr">
+    <text>ダクトテープは、強くて柔軟で非常に粘着性のあるテープが必要な状況で一般的に使用されている。迅速な修理作業において、簡単だが一時的な解決策である。このタイプは長期的な接着性能と耐候性を持っている。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                </text>
+  </string>
+	<string id="st_bitcoin">
+		<text>ビットコイン</text>
+	</string>
+	<string id="st_bitcoin_descr">
+		<text>
+		ビットコインの一部が入ったUSBメモリ。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_cyan] ・%c[ui_gray_2] 交易品\n
+		%c[d_blue] ・%c[ui_gray_2] 技術品\n
+		%c[d_purple] ・%c[ui_gray_2] 高価値\n
+		</text>
+	</string>	
+
+	<string id="st_us_passport">
+		<text>米国パスポート</text>
+	</string>
+	<string id="st_us_passport_descr">
+		<text>
+		米国パスポートは、アメリカ合衆国の市民および国民に発行されるパスポート。これらは米国国務省によってのみ発行される。米国市民および国民が有効な米国パスポートを持たずに米国に入国または出国することは違法である。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_cyan] ・%c[ui_gray_2] 私物\n
+		%c[d_blue] ・%c[ui_gray_2] 日用品\n
+		</text>
+	</string>	
+
+	<string id="st_russian_passport">
+		<text>ロシアパスポート</text>
+	</string>
+	<string id="st_russian_passport_descr">
+		<text>
+		ロシアのパスポート（正式にはロシア語でЗаграничные паспорта для граждан Российской Федерации.・'ロシア連邦国民の越境パスポート') は、ロシア国民が海外渡航する際に内務省が発行する冊子。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_cyan] ・%c[ui_gray_2] 私物\n
+		%c[d_blue] ・%c[ui_gray_2] 日用品\n
+		</text>
+	</string>	
+
+	<string id="st_passport">
+		<text>ID-パスポート</text>
+	</string>
+	<string id="st_passport_descr">
+		<text>
+		身分証明書、略してID-パスポート。この書類を紛失すると、パスポートなしで帰国するための手段は少ないため、注意が必要。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_cyan] ・%c[ui_gray_2] 私物\n
+		%c[d_blue] ・%c[ui_gray_2] 日用品\n
+		%c[d_red] ・%c[ui_gray_2] 取引不能\n
+		</text>
+	</string>	
+	
+<!-- unused -->
+	<string id="ammo12x70_base_name">
+		<text>Ammo components for 12x70 shot rounds</text>
+	</string>
+	<string id="ammo12x70_base_descr">
+		<text>Powder, shells and shot - everything needed to make 12x70 buckshot rounds. Has enough to make 40 rounds.\n \n%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] ・%c[ui_gray_2]used for crafting ammunition\n%c[0,253,155,155] ・%c[0,240,140,140]requires tools</text>
+	</string>
+	<string id="ammo12x70_tools_name">
+		<text>Tools for manufacturing 12x70 shot rounds</text>
+	</string>
+	<string id="ammo12x70_tools_descr">
+		<text>Tools necessary for making 12x70 buckshot rounds. 12x70.\n \n%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] ・%c[ui_gray_2]used for crafting ammunition\n
+		%c[d_cyan] ・%c[ui_gray_2]everyday item\n</text>
+	</string>
+	<string id="sew_tools_name">
+		<text>Sewing kit</text>
+	</string>
+	<string id="sew_tools_descr">
+		<text>Needles and cloth scraps. Everything you need to make cloth items.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] ・%c[ui_gray_2]Crafting Tools\n
+		%c[d_cyan] ・%c[ui_gray_2]Common</text>
+	</string>
+	<string id="sleepbag_base_name">
+		<text>Sleeping bag components</text>
+	</string>
+	<string id="sleepbag_base_descr">
+		<text>Everything needed to make a sleeping bag.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] ・%c[ui_gray_2]Crafted Items\n
+		%c[0,253,155,155] ・%c[0,240,140,140]Sewing kit needed</text>
+	</string>
+	<string id="backpack_base_name">
+		<text>Backpack components</text>
+	</string>
+	<string id="backpack_base_descr">
+		<text>Rubberized fabric, zippers and rivets. Everything needed to craft a backpack.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] ・%c[ui_gray_2]Crafted Items\n
+		%c[0,253,155,155] ・%c[0,240,140,140]Sewing kit needed</text>
+	</string>
+	<string id="selfroll_1_name">
+		<text>Tobacco rolls</text>
+	</string>
+	<string id="selfroll_1_descr">
+		<text>Loose tobacco, filters and paper.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[0,253,155,155] ・%c[0,240,140,140]May cause cancer\n
+		%c[d_cyan] ・%c[ui_gray_2]Homemade</text>
+	</string>
+	<string id="st_itm_cutting_tools">
+		<text>Master disassembly tools</text>
+	</string>
+	<string id="st_itm_cutting_tools_descr">
+		<text>Factory made tools designed to disassemble anything. \n \n%c[ui_gray_2]PROPERTIES:\n%c[0,155,155,155] ・%c[ui_gray_2]Crafting Tools\n%c[0,255,1,1] ・%c[0,100,250,100]Works on high tech gear</text>
+	</string>
+	<string id="st_itm_cutting_tools_2">
+		<text>Journeyman disassembly tools</text>
+	</string>
+	<string id="st_itm_cutting_tools_2_descr">
+		<text>A rusted set of tools for medium armour disassembly.\n \n%c[ui_gray_2]PROPERTIES:\n%c[0,155,155,155] ・%c[ui_gray_2]Crafting Tools\n%c[0,255,1,1] ・%c[0,100,250,100]Works on medium armour</text>
+	</string>
+	<string id="st_itm_cutting_tools_3">
+		<text>Basic disassembly tools</text>
+	</string>
+	<string id="st_itm_cutting_tools_3_descr">
+		<text>Improvised tools designed for fabric or light gas masks.\n \n%c[ui_gray_2]PROPERTIES:\n%c[0,155,155,155] ・%c[ui_gray_2]Crafting Tools\n%c[0,255,1,1] ・%c[0,100,250,100]Works on light armour and gas masks</text>
+	</string>
+	<string id="plate_seva_name">
+		<text>SEVA plate</text>
+	</string>
+	<string id="plate_seva_descr">
+		<text>An armoured plate carved from a SEVA suit. Able to stop small bullets and gives some elemental resistance. Can be used for repairs.\n \n%c[ui_gray_2]PROPERTIES:\n \n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="plate_heavy_name">
+		<text>Heavy "ESAPI" plate</text>
+	</string>
+	<string id="plate_heavy_descr">
+		<text>A ceramic-composite plate that provides class 4 protection. Can be used as a repair material.\n \n%c[ui_gray_2]PROPERTIES:\n \n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="plate_medium_name">
+		<text>Medium "SAPI" plate</text>
+	</string>
+	<string id="plate_medium_descr">
+		<text>An armoured plate that provides class 3 protection. Can be used as a repair material.\n \n%c[ui_gray_2]PROPERTIES:\n \n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="plate_light_name">
+		<text>Homemade plate</text>
+	</string>
+	<string id="plate_light_descr">
+		<text>Hand-made armoured plate using kevlar and aramid. Provides class 2 protection. Can be used as a repair material.\n \n%c[ui_gray_2]PROPERTIES:\n \n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="plate_cloth_name">
+		<text>Light cloth plate</text>
+	</string>
+	<string id="plate_cloth_descr">
+		<text>Hand made kevlar and fabric plate. Provides class 1 protection. Can be used as a repair material.\n \n%c[ui_gray_2]PROPERTIES:\n \n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="plate_military_name">
+		<text>Granite-4M plate</text>
+	</string>
+	<string id="plate_military_descr">
+		<text>Military heavy armoured plate composed of ceramics. Provides class 5 protection. Can be used as a repair material.\n \n%c[ui_gray_2]PROPERTIES:\n \n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="plate_monolith_name">
+		<text>Unknown plate</text>
+	</string>
+	<string id="plate_monolith_descr">
+		<text>An armoured plate composed of unknown materials. Seems to be made of solid alloy and some fabric. Extremely heavy. Provides class 5 protection (in field tests). Can be used as a repair material.\n \n%c[ui_gray_2]PROPERTIES:\n \n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="plate_unload_name">
+		<text>Ammo pouch</text>
+	</string>
+	<string id="plate_unload_descr">
+		<text>A cut out ammo pouch, used to store magazines. Made of dense and high-quality fabric.\n \n%c[ui_gray_2]PROPERTIES:\n \n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="plate_small_name">
+		<text>Small armoured plate</text>
+	</string>
+	<string id="plate_small_descr">
+		<text>A small homemade armoured plate, likely made of melted down scrap. Can be used as a repair material.\n \n%c[ui_gray_2]PROPERTIES:\n \n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="cloth_green_name">
+		<text>Green cloth</text>
+	</string>
+	<string id="cloth_green_descr">
+		<text>Green fabric, cut from a green suit. Very high quality and dense fabric. Can be used as a repair material.\n \n%c[ui_gray_2]PROPERTIES:\n \n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="cloth_black_name">
+		<text>Black cloth</text>
+	</string>
+	<string id="cloth_black_descr">
+		<text>Black fabric, cut from a black suit. Very high quality and dense fabric. Can be used as a repair material.\n \n%c[ui_gray_2]PROPERTIES:\n \n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="cloth_brown_name">
+		<text>Brown cloth</text>
+	</string>
+	<string id="cloth_brown_descr">
+		<text>Brown fabric, cut from a brown suit. Very high quality and dense fabric. Can be used as a repair material. \n \n%c[ui_gray_2]PROPERTIES:\n \n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="cloth_white_name">
+		<text>White cloth</text>
+	</string>
+	<string id="cloth_white_descr">
+		<text>White fabric, cut from a white suit. Very high quality and dense fabric. Can be used as a repair material. \n \n%c[ui_gray_2]PROPERTIES:\n \n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="servomotor_name">
+		<text>Servo drive</text>
+	</string>
+	<string id="servomotor_descr">
+		<text>A servo taken from an exoskeleton. Looks like it could be replaced with a repair kit.\n \n%c[ui_gray_2]PROPERTIES:\n \n
+		%c[d_cyan] ・%c[ui_gray_2] 糺・technological item\n
+		</text>
+	</string>
+	<string id="plastic_pieces_name">
+		<text>Plastic scraps</text>
+	</string>
+	<string id="plastic_pieces_descr">
+		<text>Bits and pieces of dense plastic, carved from a suit. Can be used for patchs or repairs.\n \n%c[ui_gray_2]PROPERTIES:\n \n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="glass_pieces_name">
+		<text>Glass</text>
+	</string>
+	<string id="glass_pieces_descr">
+		<text>Pieces of glass cur from gas masks or helmets. Can replace broken glass in almost any helmet with the right tools.\n \n%c[ui_gray_2]PROPERTIES:\n \n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="st_spareparts">
+		<text>Old shotgun parts</text>
+	</string>
+	<string id="st_spareparts_descr">
+		<text>Old wood and metal parts from various smooth bore rifles, all in varying condition. Some of this could be useful for repairs.\n \n%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="st_sov_r_spareparts">
+		<text>Soviet automatic rifle parts</text>
+	</string>
+	<string id="st_sov_r_spareparts_descr">
+		<text>Old springs, barrels and stocks from various soviet rifles, all in varying condition. Some of this could be useful for repairs.\n \n%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="st_nato_r_spareparts">
+		<text>NATO automatic rifle parts</text>
+	</string>
+	<string id="st_nato_r_spareparts_descr">
+		<text>Old barrels, frames and stocks for various NATO automatic rifles, all in varying condition. Some of this could be useful for repairs.\n \n%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="st_sov_p_spareparts">
+		<text>Soviet pistol parts</text>
+	</string>
+	<string id="st_sov_p_spareparts_descr">
+		<text>Old springs, hammers and frames from various soviet pistols. Some of this could be useful for repairs.\n \n%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="st_nato_p_spareparts">
+		<text>NATO pistol parts</text>
+	</string>
+	<string id="st_nato_p_spareparts_descr">
+		<text>Old springs, hammers and frames from various NATO pistols. Some of this could be useful for repairs.\n%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="st_sov_s_spareparts">
+		<text>Soviet sniper rifle parts</text>
+	</string>
+	<string id="st_sov_s_spareparts_descr">
+		<text>Old soviet long rifle parts. Some of this could be used for repairs.\n \n%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="st_nato_s_spareparts">
+		<text>NATO sniper rifle parts</text>
+	</string>
+	<string id="st_nato_s_spareparts_descr">
+		<text>Old NATO sniper rifle parts. Some of this could be used for repairs.\n \n%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="st_shot_spareparts">
+		<text>Shotgun parts</text>
+	</string>
+	<string id="st_shot_spareparts_descr">
+		<text>Relatively new parts designed for smooth barrel rifles. This could be used for repairs.\n \n%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="st_pp_spareparts">
+		<text>Submachine Gun Parts</text>
+	</string>
+	<string id="st_pp_spareparts_descr">
+		<text>Springs, frames and stocks designed for submachineguns. This could be used for repairs.\n \n%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n
+		</text>
+	</string>
+	<string id="st_deactivate_mix">
+		<text>Homemade Antiseptic</text>
+	</string>
+	<string id="st_deactivate_mix_descr">
+		<text>A mixture of tablets and solvents proven effective in neutralising radiation and bio-hazardous materials. Good for decontaminating items.\n \n%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] ・%c[ui_gray_2]Decontaminates items\n
+		%c[d_cyan] ・%c[ui_gray_2]Homemade</text>
+	</string>
+	<string id="st_barrelkit_shotgun">
+		<text>Shotgun Barrel Replacement</text>
+	</string>
+	<string id="st_barrelkit_shotgun_descr">
+		<text>Specialised kit for replacing shotgun barrels in the field. Includes all tools and barrels.\n \n%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] ・%c[ui_gray_2] technological item\n</text>
+	</string>
+	<string id="st_vodka_4">
+		<text>Jagermeister Liqueur</text>
+	</string>
+	<string id="st_vodka_4_descr">
+		<text>A German strong herbal liqueur. Made with 56 components and aged for 12 months in oak barrels. The label of the bottle depicts a deer with a cross on it's horns. According to legend, the deer was seen by Saint Hubert, the patron saint of hunters.\n \n%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] ・%c[ui_gray_2] Strong alcoholic beverage\n
+		%c[d_cyan] ・%c[ui_gray_2] Causes dizziness</text>
+	</string>
+	<string id="st_selfroll_base_1_name">
+		<text>Paper, tobacco and filters.</text>
+	</string>
+	<string id="st_selfroll_base_1_descr">
+		<text>Tobacco, filters and paper, everything needed to make cigarettes. This should make about six to seven. \n \n%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] ・%c[ui_gray_2]Crafted Items</text>
+	</string>
+</string_table>

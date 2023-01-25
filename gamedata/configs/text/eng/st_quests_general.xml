@@ -1,0 +1,2269 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--===========================================================
+<
+< GENERAL TEXT  STRINGS FOR TASKS
+<	CoC 1.4.10 - DoctorX Questlines 1.6
+<
+<	Modified by: DoctorX
+<	Last revised: October 14, 2016
+<
+<===========================================================-->
+
+<string_table>
+  <string id="drx_sl_find_wish_granter_task_name">
+    <text>願望機を探せ</text>
+  </string>
+  <string id="drx_sl_find_wish_granter_task_text">
+    <text>願望機はチェルノブイリ原子力発電所の奥深くに埋められていると噂されている。それを見つけなければならない。</text>
+  </string>
+  <string id="drx_sl_esc_m_trader_start_game_1_name">
+    <text>シドロヴィッチに会え</text>
+  </string>
+  <string id="drx_sl_esc_m_trader_start_game_1_text">
+    <text>コードンにいるシドロヴィッチは、ゾーンの新人ストーカーを援助することで知られている。</text>
+  </string>
+  <string id="drx_sl_bar_dolg_general_petrenko_stalker_start_game_1_name">
+    <text>ペトレンコ大佐に会え</text>
+  </string>
+  <string id="drx_sl_bar_dolg_general_petrenko_stalker_start_game_1_text">
+    <text>ペトレンコ大佐に報告して任務を受けなければならない。</text>
+  </string>
+  <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_start_game_1_name">
+    <text>ルーカッシュに会え</text>
+  </string>
+  <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_start_game_1_text">
+    <text>Freedomのリーダーであるルーカッシュが、話したいと言ってきた。</text>
+  </string>
+  <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_start_game_1_name">
+    <text>コールドに会え</text>
+  </string>
+  <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_start_game_1_text">
+    <text>Clear Sky基地にいるコールドに会わなければならない。</text>
+  </string>
+  <string id="drx_sl_yan_stalker_sakharov_start_game_1_name">
+    <text>サハロフ教授に会え</text>
+  </string>
+  <string id="drx_sl_yan_stalker_sakharov_start_game_1_text">
+    <text>サハロフ教授からの課題がある。</text>
+  </string>
+  <string id="drx_sl_cit_killers_merc_trader_stalker_start_game_1_name">
+    <text>ダッシュマンに会え</text>
+  </string>
+  <string id="drx_sl_cit_killers_merc_trader_stalker_start_game_1_text">
+    <text>ダッシュマンに相談しなければならない。</text>
+  </string>
+  <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_start_game_1_name">
+    <text>クズネツォフ大佐に会え</text>
+  </string>
+  <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_start_game_1_text">
+    <text>クズネツォフ大佐に報告する。</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_start_game_1_name">
+    <text>スルタンに会え</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_start_game_1_text">
+    <text>スルタンが会いたがっている。</text>
+  </string>
+  <string id="drx_sl_pri_monolith_monolith_trader_stalker_start_game_1_name">
+    <text>ラビットに会え</text>
+  </string>
+  <string id="drx_sl_pri_monolith_monolith_trader_stalker_start_game_1_text">
+    <text>知者ラビットからの指導を仰ぐ。</text>
+  </string>
+  <string id="drx_sl_red_greh_trader_start_game_1_name">
+    <text>ストリボグと会う</text>
+  </string>
+  <string id="drx_sl_red_greh_trader_start_game_1_text">
+    <text>任務を受けるために、ストリボグを捜す。</text>
+  </string>
+  <string id="drx_sl_esc_m_trader_meet_task_1_name">
+    <text>シドロヴィッチに会え</text>
+  </string>
+  <string id="drx_sl_esc_m_trader_meet_task_1_text">
+    <text>コードンにいるシドロヴィッチが次の目的地だ。</text>
+  </string>
+  <string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_meet_task_1_name">
+    <text>ゼノテックに会え</text>
+  </string>
+  <string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_meet_task_1_text">
+    <text>コードンにいるゼノテックが次の目的地だ。</text>
+  </string>
+  <string id="drx_sl_zat_a2_stalker_barmen_meet_task_1_name">
+    <text> ベアードに会え</text>
+  </string>
+  <string id="drx_sl_zat_a2_stalker_barmen_meet_task_1_text">
+    <text>スカドフスクに乗っているベアードが次の目的地だ。</text>
+  </string>
+  <string id="drx_sl_zat_b18_noah_meet_task_1_name">
+    <text>ノアに会え</text>
+  </string>
+  <string id="drx_sl_zat_b18_noah_meet_task_1_text">
+    <text>ザトンにいるノアが次の目的地だ。</text>
+  </string>
+  <string id="drx_sl_bar_dolg_general_petrenko_stalker_meet_task_1_name">
+    <text>ペトレンコ大佐に会え</text>
+  </string>
+  <string id="drx_sl_bar_dolg_general_petrenko_stalker_meet_task_1_text">
+    <text>ロストクにいるペトレンコ大佐が次の目的地だ。</text>
+  </string>
+  <string id="drx_sl_bar_visitors_stalker_mechanic_meet_task_1_name">
+    <text>マンガンに会え</text>
+  </string>
+  <string id="drx_sl_bar_visitors_stalker_mechanic_meet_task_1_text">
+    <text>ロストクにいるマンガンが次の目的地だ。</text>
+  </string>
+  <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_meet_task_1_name">
+    <text>ルーカッシュに会え</text>
+  </string>
+  <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_meet_task_1_text">
+    <text>陸軍倉庫にいるルーカッシュが次の目的地だ。</text>
+  </string>
+  <string id="drx_sl_jup_a6_freedom_leader_meet_task_1_name">
+    <text>ロキに会え</text>
+  </string>
+  <string id="drx_sl_jup_a6_freedom_leader_meet_task_1_text">
+    <text>ヤノフ駅にいるロキが次の目的地だ。</text>
+  </string>
+  <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_meet_task_1_name">
+    <text>コールドに会え</text>
+  </string>
+  <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_meet_task_1_text">
+    <text>グレート スワンプにいるコールドが次の目的地だ。</text>
+  </string>
+  <string id="drx_sl_mar_base_stalker_barmen_meet_task_1_name">
+    <text>ライブラリアンに会え</text>
+  </string>
+  <string id="drx_sl_mar_base_stalker_barmen_meet_task_1_text">
+    <text>グレート スワンプにいるライブラリアンが次の目的地だ。</text>
+  </string>
+  <string id="drx_sl_yan_stalker_sakharov_meet_task_1_name">
+    <text>サハロフ教授に会え</text>
+  </string>
+  <string id="drx_sl_yan_stalker_sakharov_meet_task_1_text">
+    <text>ヤンターにいるサハロフ教授が次の目的地だ。</text>
+  </string>
+  <string id="drx_sl_jup_b6_scientist_tech_meet_task_1_name">
+    <text>トゥカレフに会え</text>
+  </string>
+  <string id="drx_sl_jup_b6_scientist_tech_meet_task_1_text">
+    <text> ジュピターにいるトゥカレフが次の目的地だ。</text>
+  </string>
+  <string id="drx_sl_cit_killers_merc_trader_stalker_meet_task_1_name">
+    <text>ダッシュマンに会え</text>
+  </string>
+  <string id="drx_sl_cit_killers_merc_trader_stalker_meet_task_1_text">
+    <text>デッド シティーにいるダッシュマンが次の目的地だ。</text>
+  </string>
+  <string id="drx_sl_cit_killers_merc_mechanic_stalker_meet_task_1_name">
+    <text>ホグに会え</text>
+  </string>
+  <string id="drx_sl_cit_killers_merc_mechanic_stalker_meet_task_1_text">
+    <text>デッド シティーにいるホグが次の目的地だ。</text>
+  </string>
+  <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_meet_task_1_name">
+    <text>クズネツォフ少佐に会え。</text>
+  </string>
+  <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_meet_task_1_text">
+    <text>アグロプロムにいるクズネツォフ少佐が次の目的地だ。</text>
+  </string>
+  <string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_meet_task_1_name">
+    <text>キリロフ中尉に会え</text>
+  </string>
+  <string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_meet_task_1_text">
+    <text>アグロプロムにいるキリロフ中尉があなたの次の目的地だ</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_meet_task_1_name">
+    <text>スルタンに会え</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_meet_task_1_text">
+    <text>ダーク バレーにいるスルタンが次の目的地だ。</text>
+  </string>
+  <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_meet_task_1_name">
+    <text>オビリアスに会え</text>
+  </string>
+  <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_meet_task_1_text">
+    <text>ダーク バレーにいるオビリアスが次の目的地だ。</text>
+  </string>
+  <string id="drx_sl_pri_monolith_monolith_trader_stalker_meet_task_1_name">
+    <text>ラビットに会え</text>
+  </string>
+  <string id="drx_sl_pri_monolith_monolith_trader_stalker_meet_task_1_text">
+    <text>プリピャチにいるラビットが次の目的地だ。</text>
+  </string>
+  <string id="drx_sl_pri_monolith_monolith_mechanic_stalker_meet_task_1_name">
+    <text>クレリックに会え</text>
+  </string>
+  <string id="drx_sl_pri_monolith_monolith_mechanic_stalker_meet_task_1_text">
+    <text>プリピャチにいるクレリックが次の目的地だ。</text>
+  </string>
+  <string id="drx_sl_red_greh_trader_meet_task_1_name">
+    <text>ストリボグに会え</text>
+  </string>
+  <string id="drx_sl_red_greh_trader_meet_task_1_text">
+    <text>レッド フォレストにいるストリボグが次の目的地だ</text>
+  </string>
+  <string id="drx_sl_red_greh_tech_meet_task_1_name">
+    <text>ダズボグに会え</text>
+  </string>
+  <string id="drx_sl_red_greh_tech_meet_task_1_text">
+    <text>レッド フォレストにいるダズボグが次の目的地だ</text>
+  </string>
+  <string id="drx_sl_trader_monolith_kbo_meet_task_1_name">
+    <text>オリバーに会え</text>
+  </string>
+  <string id="drx_sl_trader_monolith_kbo_meet_task_1_text">
+    <text>プリピャチ郊外にいるオリバーが次の目的地だ</text>
+  </string>
+  <string id="drx_sl_merc_pri_grifon_mlr_meet_task_1_name">
+    <text>グリフィスに会え</text>
+  </string>
+  <string id="drx_sl_merc_pri_grifon_mlr_meet_task_1_text">
+    <text>プリピャチ郊外にいるグリフィスがあなたの次の目的地だ</text>
+  </string>
+  <string id="drx_sl_zat_stancia_trader_merc_meet_task_1_name">
+    <text>ベクターに会え</text>
+  </string>
+  <string id="drx_sl_zat_stancia_trader_merc_meet_task_1_text">
+    <text>ザトンにいるベクターがあなたの次の目的地だ</text>
+  </string>
+  <string id="drx_sl_jup_cont_trader_bandit_meet_task_1_name">
+    <text>クレノフに会え</text>
+  </string>
+  <string id="drx_sl_jup_cont_trader_bandit_meet_task_1_text">
+    <text>ジュピターにいるクレノフがあなたの次の目的地だ</text>
+  </string>
+  <string id="simulation_task_1_name">
+    <text>%sを調達しろ</text>
+  </string>
+  <string id="simulation_task_1_text">
+    <text>%sを持ってくるように仲間のストーカーから頼まれた。</text>
+  </string>
+  <string id="simulation_task_1_about">
+    <text>物資が足りていない。もしあんたに手持ちがあったり、持ってきてくれたら、非常に嬉しいんだが。</text>
+  </string>
+  <string id="simulation_task_1_fetch_about">
+    <text>%sが欲しい。いくつか持っていないか？手に入れたら持ってきてくれ。</text>
+  </string>
+  <string id="simulation_task_1_fetch_finish">
+    <text>グレートだぜ！ストーカー！</text>
+  </string>
+  <string id="simulation_task_2_name">
+    <text>%sを調達しろ</text>
+  </string>
+  <string id="simulation_task_2_text">
+    <text>%sを探してくるように仲間のストーカーから頼まれた。</text>
+  </string>
+  <string id="simulation_task_2_about">
+    <text>クソ、なあアンタ。俺にでけえ恩を売りたくねえか？俺は今手持ちが全然無くてよ。助けてくれねえか？</text>
+  </string>
+  <string id="simulation_task_2_fetch_about">
+    <text>%sが欲しい。いくつか持っていないか？手に入れたら持ってきてくれ。</text>
+  </string>
+  <string id="simulation_task_2_fetch_finish">
+    <text>スゲエ男だぜ！ありがとう！</text>
+  </string>
+  <string id="simulation_task_3_name">
+    <text>%sを調達しろ</text>
+  </string>
+  <string id="simulation_task_3_text">
+    <text> Banditのために%sを見つけろ。</text>
+  </string>
+  <string id="simulation_task_3_about">
+    <text>分捕り品の交換といかねえか？</text>
+  </string>
+  <string id="simulation_task_3_fetch_about">
+    <text>俺はいくつかの良いモノを持ってるんだが、おめえが%sを持ってれば交換してやっていいぜ！</text>
+  </string>
+  <string id="simulation_task_3_fetch_finish">
+    <text>グレートだぜ、あんた！ありがとよ！</text>
+  </string>
+  <string id="simulation_task_4_name">
+    <text>%sを調達しろ</text>
+  </string>
+  <string id="simulation_task_4_text">
+    <text>戦士のために%sを見つけろ </text>
+  </string>
+  <string id="simulation_task_4_about">
+    <text>取引したい物資はあるか？</text>
+  </string>
+  <string id="simulation_task_4_fetch_about">
+    <text>いい話があるぜ。いくつか%sを持ってくれば余分の弾薬と交換してやるぜ。</text>
+  </string>
+  <string id="simulation_task_4_fetch_finish">
+    <text>グレートだぜ、あんた！ありがとよ！</text>
+  </string>
+  <string id="simulation_task_5_name">
+    <text>Monolithのメンバーに%sを持っていけ</text>
+  </string>
+  <string id="simulation_task_5_text">
+    <text>我々のある同志は病気で%sが必要だ。</text>
+  </string>
+  <string id="simulation_task_5_about">
+    <text>Monolithに奉仕するためには強さが必要なのだ。しかし私の体は病み衰え、聖務に支障をきたしている。助けてはくれまいか、同志よ？</text>
+  </string>
+  <string id="simulation_task_5_fetch_about">
+    <text>我が同志よ、私は病を患っている。司祭殿は私のために勿体なくも祈祷を申し出てくれた。だが私は%sが病魔を追い払うと確信している。持って来てはくれまいか。</text>
+  </string>
+  <string id="simulation_task_5_fetch_finish">
+    <text>感謝するぞ。同志よ。願わくばMonolith様の光があなたを照らすことを願っている。</text>
+  </string>
+  <string id="simulation_task_6_name">
+    <text>Mercenaryのために%sを見つけろ</text>
+  </string>
+  <string id="simulation_task_6_text">
+    <text>Mercenaryから%sを見つけるよう依頼された。</text>
+  </string>
+  <string id="simulation_task_6_about">
+    <text>俺にでけえ恩を売りたくねえか？俺は今手持ちが全然無くてよ。助けてくれねえか？</text>
+  </string>
+  <string id="simulation_task_6_fetch_about">
+    <text>%sが欲しい。いくつか持っていないか？手に入れたら持ってきてくれ。</text>
+  </string>
+  <string id="simulation_task_6_fetch_finish">
+    <text>助かるぜ！</text>
+  </string>
+  <string id="simulation_task_7_name">
+    <text>状態のいい%sを見つけろ</text>
+  </string>
+  <string id="simulation_task_7_text">
+    <text>ストーカーは完璧な状態で信頼性が高い%sを必要としている。</text>
+  </string>
+  <string id="simulation_task_7_about">
+    <text>そうなんだ。俺のスタッシュが荒らされて、愛用のライフルがパクられちまった。新しい武器を見つけるのを手伝ってくれないか？</text>
+  </string>
+  <string id="simulation_task_7_fetch_about">
+    <text>状態のいい%sを探してる。俺はそのライフルが大好きなんだ。アンタが良い状態のそいつを見つけることが出来るんなら、支払いにボーナスを追加するぜ。</text>
+  </string>
+  <string id="simulation_task_7_fetch_finish">
+    <text>サンキュー、ストーカー！これが報酬だ。さて、あのクソ裂け目でハンティングといくか･･････。</text>
+  </string>
+  <string id="simulation_task_8_name">
+    <text>状態のいい%sを見つけろ</text>
+  </string>
+  <string id="simulation_task_8_text">
+    <text>状態のいい%sを調達する。</text>
+  </string>
+  <string id="simulation_task_8_about">
+    <text>支給されたライフルはクソだ。俺には銃撃戦で弾詰まりしない銃が必要なんだ。新しいやつを探してくれないか？</text>
+  </string>
+  <string id="simulation_task_8_fetch_about">
+    <text>状態のいい%sを持ってきてくれ。相当の報酬は払おう。</text>
+  </string>
+  <string id="simulation_task_8_fetch_finish">
+    <text>素晴らしい！キレイな娘じゃないか。さあ、これを受け取ってくれ。</text>
+  </string>
+  <string id="simulation_task_9_name">
+    <text>代理購入</text>
+  </string>
+  <string id="simulation_task_9_text">
+    <text>Banditは足のつかない%sを必要としている。余計な詮索はするな。</text>
+  </string>
+  <string id="simulation_task_9_about">
+    <text>聞きな。俺は足のつかないライフル銃が欲しいんだ。言ってる意味は分かるか？手伝ってくれるよな？</text>
+  </string>
+  <string id="simulation_task_9_fetch_about">
+    <text>%sが欲しい。買う、盗む、略奪、ナンだって良い。俺に持ってきてくれればな。これには二倍の金を払う価値がある。</text>
+  </string>
+  <string id="simulation_task_9_fetch_finish">
+    <text>流石だな！さあ、これが約束の報酬だ。さて、俺はアンタに一度も会ったことがない。意味はわかるよな？</text>
+  </string>
+  <string id="simulation_task_10_name">
+    <text>Mercenaryのために信頼できる%sを見つけろ</text>
+  </string>
+  <string id="simulation_task_10_text">
+    <text>Mercenaryのために信頼できる%sを調達しろ。</text>
+  </string>
+  <string id="simulation_task_10_about">
+    <text>支給されたライフルはクソだ。俺には銃撃戦で弾詰まりしない銃が必要なんだ。新しいやつを調達してくれないか？</text>
+  </string>
+  <string id="simulation_task_10_fetch_about">
+    <text>状態のいい%sを持ってきてくれ。相当の報酬は払おう。</text>
+  </string>
+  <string id="simulation_task_10_fetch_finish">
+    <text>素晴らしい！キレイな娘じゃないか。さあ、これを受け取ってくれ。</text>
+  </string>
+  <string id="simulation_task_11_name">
+    <text>Militaryのために状態のいい%sを見つけろ</text>
+  </string>
+  <string id="simulation_task_11_text">
+    <text>Militaryのために状態のいい%sを調達しろ。</text>
+  </string>
+  <string id="simulation_task_11_about">
+    <text>支給されたライフルはクソだ。俺には銃撃戦で弾詰まりしない銃が必要なんだ。新しいやつを調達してくれないか？</text>
+  </string>
+  <string id="simulation_task_11_fetch_about">
+    <text>状態のいい%sを持ってきてくれ。相当の報酬は払おう。</text>
+  </string>
+  <string id="simulation_task_11_fetch_finish">
+    <text>素晴らしい！キレイな娘じゃないか。さあ、これを受け取ってくれ。</text>
+  </string>
+  <string id="simulation_task_12_name">
+    <text>%sを見つけろ</text>
+  </string>
+  <string id="simulation_task_12_text">
+    <text>仲間のストーカーが%sと引き換えに報酬を提示してる。</text>
+  </string>
+  <string id="simulation_task_12_about">
+    <text>アンタはアーティファクト狩りが得意かい？</text>
+  </string>
+  <string id="simulation_task_12_fetch_about">
+    <text>もし%sを見つけら、俺に知らせてくれ。アンタが好きそうな非常に素晴らしい報酬を持ってるんだ。</text>
+  </string>
+  <string id="simulation_task_12_fetch_finish">
+    <text>ついに！アンタは俺がどれほどコイツを探し求めていたかは知らんだろう･･････。これを受け取ってくれ。報酬だ。</text>
+  </string>
+  <string id="simulation_task_13_name">
+    <text>%sを見つけろ</text>
+  </string>
+  <string id="simulation_task_13_text">
+    <text>兵士が%sとライフル銃の交換を持ちかけている。</text>
+  </string>
+  <string id="simulation_task_13_about">
+    <text>なあアンタ、聞いてくれ。俺はこれが軍機違反に当たるのは知ってるんだ。だが、俺の任期はもうすぐ終わりだ。そんでちょっと家に手土産を持って帰りたいと思ってる。アーティファクトを持ってきてくれるか？</text>
+  </string>
+  <string id="simulation_task_13_fetch_about">
+    <text>%sが欲しい。俺のところに持ってきてくれれば、このライフルはアンタのものだ。</text>
+  </string>
+  <string id="simulation_task_13_fetch_finish">
+    <text>すごいな！これが約束のやつだ。このことは司令官に報告しないでくれよな。</text>
+  </string>
+  <string id="simulation_task_14_name">
+    <text>%sを調達しろ</text>
+  </string>
+  <string id="simulation_task_14_text">
+    <text>ストーカーはミュータント肉を調理するための特別なレシピを持っており、%sを欲しがっている。</text>
+  </string>
+  <string id="simulation_task_14_about">
+    <text>なあアンタ、今までにミュータントの肉を試したことがあるか？よっぽど飢えていない限り、大体の連中はそれに触れることもしないが、俺は大好物なんだ。アンタ、狩猟は得意かい？</text>
+  </string>
+  <string id="simulation_task_14_fetch_about">
+    <text>アンタが%sの良い部位をいくつか獲ってこれるなら、それについて報酬を出そう。うーん･･････。考えているだけでよだれが出てきた。</text>
+  </string>
+  <string id="simulation_task_14_fetch_finish">
+    <text>やったぜ！今夜はご馳走だな！ありがとうストーカー。これが報酬だ。ああ、ついでに、俺のライフルに合わない弾薬があるから、アンタにやるよ。</text>
+  </string>
+  <string id="simulation_task_15_name">
+    <text>%sシチュー</text>
+  </string>
+  <string id="simulation_task_15_text">
+    <text>Banditはミュータント肉を調理するための特別なレシピを持っており、%sを欲しがっている。</text>
+  </string>
+  <string id="simulation_task_15_about">
+    <text>なあアンタ、今までにミュータントの肉を試したことがあるか？よっぽど飢えていない限り、大体の連中はそれに触れることもしないが、俺は大好物なんだ。アンタ狩猟は得意かい？</text>
+  </string>
+  <string id="simulation_task_15_fetch_about">
+    <text>アンタが%sの良い部位をいくつか獲ってこれるなら、それについて報酬を出そう。うーん･･････。考えているだけでよだれが出てきた。</text>
+  </string>
+  <string id="simulation_task_15_fetch_finish">
+    <text>やったぜ！今夜はご馳走だな！ありがとうよ。これが報酬だ。ああ、ついでに、ちょっとした戦利品もあげよう。</text>
+  </string>
+  <string id="simulation_task_16_name">
+    <text>%sの組織サンプルを集めろ</text>
+  </string>
+  <string id="simulation_task_16_text">
+    <text>Ecologistは、%sの組織サンプルを必要としている。</text>
+  </string>
+  <string id="simulation_task_16_about">
+    <text>私はこの地域の特定のミュータントを研究している。組織標本を採取する人員が必要だ。</text>
+  </string>
+  <string id="simulation_task_16_fetch_about">
+    <text>君が採取をしてくれるというのなら%sの標本が欲しい。こちらには報酬を支払う用意がある。当然かなりのリスクを考慮に入れるべきだが。</text>
+  </string>
+  <string id="simulation_task_16_fetch_finish">
+    <text>ありがとう。これは私の研究に非常に役立つはずだ。</text>
+  </string>
+  <string id="simulation_task_17_name">
+    <text>%sを集めろ</text>
+  </string>
+  <string id="simulation_task_17_text">
+    <text>%sを集めるようにFreedomのメンバーから頼まれた。</text>
+  </string>
+  <string id="simulation_task_17_about">
+    <text>よう。クソDuty野郎の派閥ワッペンをコレクションしてみねえか？そいつがあれば俺の快眠が約束されるってワケよ。</text>
+  </string>
+  <string id="simulation_task_17_fetch_about">
+    <text>よう。クソDuty野郎の派閥ワッペンをコレクションしてみねえか？そいつがあれば俺の快眠が約束されるってワケよ。</text>
+  </string>
+  <string id="simulation_task_17_fetch_finish">
+    <text>サイコーにリスペクトするぜ兄弟！このアーティファクトをしっかり握ってな。</text>
+  </string>
+  <string id="simulation_task_18_name">
+    <text>%sを集めろ</text>
+  </string>
+  <string id="simulation_task_18_text">
+    <text>%sを集めるようにDutyのメンバーから頼まれた。</text>
+  </string>
+  <string id="simulation_task_18_about">
+    <text>アンタも無政府主義者が少し消えたらいいと考えているんじゃないか？奴らの数は最近増えすぎている。派閥ワッペンを証拠として持ってきてくれるか？</text>
+  </string>
+  <string id="simulation_task_18_fetch_about">
+    <text>アンタも無政府主義者が少し消えたらいいと考えているんじゃないか？奴らの数は最近増えすぎている。派閥ワッペンを証拠として持ってきてくれるか？</text>
+  </string>
+  <string id="simulation_task_18_fetch_finish">
+    <text>あんた、いい仕事するんだな。さあ、だれか来る前にこのアーティファクトを受け取ってくれ。</text>
+  </string>
+  <string id="simulation_task_19_name">
+    <text>%sを集めろ</text>
+  </string>
+  <string id="simulation_task_19_text">
+    <text>%sを集めるようにストーカーから頼まれた。</text>
+  </string>
+  <string id="simulation_task_19_about">
+    <text>こんちわ、兄弟。くそボケ野郎をぶっ殺したくはねえか？あんたが連中のかわいらしい小さな派閥ワッペンを持ってきてくれれば、代わりにアーティファクトをやろう。どうだい？</text>
+  </string>
+  <string id="simulation_task_19_fetch_about">
+    <text>こんちわ、兄弟。くそボケ野郎をぶっ殺したくはねえか？あんたが連中のかわいらしい小さな派閥ワッペンを持ってきてくれれば、代わりにアーティファクトをやろう。どうだい？</text>
+  </string>
+  <string id="simulation_task_19_fetch_finish">
+    <text>ありがとう、兄弟。友人にして助っ人だな。さあ、あんたのアーティファクトだぜ。</text>
+  </string>
+  <string id="simulation_task_20_name">
+    <text>%sを集めろ</text>
+  </string>
+  <string id="simulation_task_20_text">
+    <text>%sを集めるようにBanditから頼まれた。</text>
+  </string>
+  <string id="simulation_task_20_about">
+    <text>おい、野郎ども。おめえらにおあつらえ向きの仕事がある。チンピラ共があんまり多いと俺たちの商売は上がったりだ。何人かをぶっ飛ばして、おれんところに派閥ワッペンを持ってきな。やんのか？</text>
+  </string>
+  <string id="simulation_task_20_fetch_about">
+    <text>おい、野郎ども。おめえらにおあつらえ向きの仕事がある。チンピラ共があんまり多いと俺たちの商売は上がったりだ。何人かをぶっ飛ばして、おれんところに派閥ワッペンを持ってきな。やんのか？%sくらいは必要だ。</text>
+  </string>
+  <string id="simulation_task_20_fetch_finish">
+    <text>いい仕事をした。俺の尊敬とアーティファクトをあんたに。</text>
+  </string>
+  <string id="simulation_task_21_name">
+    <text>放浪者のために%sを集めろ</text>
+  </string>
+  <string id="simulation_task_21_text">
+    <text>%sを見つけて持ってくるようにある人物から頼まれた。</text>
+  </string>
+  <string id="simulation_task_21_about">
+    <text>俺と仲間たちは、ゾーンへの長い旅に備えている。だけど、もっと装備を充実させないといけない。</text>
+  </string>
+  <string id="simulation_task_21_fetch_about">
+    <text>俺と仲間たちは、ゾーンへの長い旅に備えている。だけど、もっと装備を充実させないといけない。%sを入手できるか？</text>
+  </string>
+  <string id="simulation_task_21_fetch_finish">
+    <text>ありがとう。これはアンタの助けに対する報酬だ。</text>
+  </string>
+  <string id="simulation_task_22_name">
+    <text>%sを集めろ</text>
+  </string>
+  <string id="simulation_task_22_text">
+    <text>%sを見つけて持ってくるようにある人物から頼まれた。</text>
+  </string>
+  <string id="simulation_task_22_about">
+    <text>私の分隊はゾーンの他の場所に向かう事になった。最悪の事態を想定して、予備の装備を用意したいと考えている。君は、我々にいくつかの%sを提供し、何かしらの見返りをもらうというのはどうだろうか？</text>
+  </string>
+  <string id="simulation_task_22_fetch_about">
+    <text>私の分隊はゾーンの他の場所に向かう事になった。最悪の事態を想定して、予備の装備を用意したいと考えている。</text>
+  </string>
+  <string id="simulation_task_22_fetch_finish">
+    <text>ああ、君！我々の仲間は幸運だよ。これを受け取ってくれたまえ。いい仕事だった。</text>
+  </string>
+  <string id="simulation_task_23_name">
+    <text>%sを集めろ</text>
+  </string>
+  <string id="simulation_task_23_text">
+    <text>%sを見つけて持ってくるようにある人物から頼まれた。</text>
+  </string>
+  <string id="simulation_task_23_about">
+    <text>俺が持っているこの古くてボロい装備が見えるか？少しずつ摩耗してきているのに、怠けていたから無視していたんだ。出来るだけ早く修理する必要がある。</text>
+  </string>
+  <string id="simulation_task_23_fetch_about">
+    <text>俺が持っているこの古くてボロい装備が見えるか？少しずつ摩耗してきているのに、怠けていたから無視していたんだ。出来るだけ早く修理する必要がある。%sをくれないか。お返しに、なんか良いものをやるよ。</text>
+  </string>
+  <string id="simulation_task_23_fetch_finish">
+    <text>ありがとう！コイツを持っていってくれ。</text>
+  </string>
+  <string id="simulation_task_24_name">
+    <text>%sを探せ</text>
+  </string>
+  <string id="simulation_task_24_text">
+    <text>ある人物が装備をアップグレードする必要がある。%sを見つけて持って来るように彼から頼まれた。</text>
+  </string>
+  <string id="simulation_task_24_about">
+    <text>技術屋は俺の装備を改造するために特別な品が必要だと言っていた。どうやら技術屋は近頃、金と道具を一度に要求するらしいな。アンタ、いいニュースは持ってないか？俺は今のところクソしか見つけられなかったぜ。ウンがなかったんだな。</text>
+  </string>
+  <string id="simulation_task_24_fetch_about">
+    <text>技術屋は俺の装備を改造するために特別な品が必要だと言っていた。どうやら技術屋は近頃、金と道具を一度に要求するらしいな。アンタいいニュースは持ってないか？俺は今のところクソしか見つけられなかったぜ。ウンがなかったんだな。%s を見つけるのを手伝ってくれないか？礼はするぜ。</text>
+  </string>
+  <string id="simulation_task_24_fetch_finish">
+    <text>最高だな！コイツを待っていたんだ。さあ、アンタの苦労に対する報酬を受け取ってくれ。</text>
+  </string>
+  <string id="simulation_task_25_name">
+    <text>%sを探せ</text>
+  </string>
+  <string id="simulation_task_25_text">
+    <text>ある人物が装備をアップグレードする必要がある。%sを見つけて持って来るように彼から頼まれた。</text>
+  </string>
+  <string id="simulation_task_25_about">
+    <text>なあアンタ、この錆びついた銃が見えるか？こいつにスペシャルな処置をする時期が来たようでな。支払いははずむから道具を持ってきてくないか。</text>
+  </string>
+  <string id="simulation_task_25_fetch_about">
+    <text>なあアンタ、この錆びついた銃が見えるか？こいつにスペシャルな処置をする時期が来たようでな。支払いははずむから道具を持ってきてくないか。</text>
+  </string>
+  <string id="simulation_task_25_fetch_finish">
+    <text>素晴らしい！こいつを待ってたんだ。手間を取らせたお礼だ。受け取ってくれ。</text>
+  </string>
+  <string id="simulation_task_26_name">
+    <text>捜索と救助</text>
+  </string>
+  <string id="simulation_task_26_text">
+    <text>ストーカーの相棒がBanditたちのギャングに誘拐された。救助することを彼から頼まれた。</text>
+  </string>
+  <string id="simulation_task_26_about">
+    <text>なあアンタ、手を貸してくれないか？俺の友人が襲われてBanditたちの人質になっちまった。俺はどうすればいいかわからない。アンタは俺の友人を救えるか？</text>
+  </string>
+  <string id="simulation_task_26_finish">
+    <text>やったな！ありがとう、ストーカー！生きた相棒の顔を見れて本当に嬉しいよ。これを受け取ってくれ。お疲れ様。</text>
+  </string>
+  <string id="simulation_task_27_name">
+    <text>捜索と救助</text>
+  </string>
+  <string id="simulation_task_27_text">
+    <text>捕虜にされているDutyのメンバーを救助するように頼まれた。</text>
+  </string>
+  <string id="simulation_task_27_about">
+    <text>ストーカー、我らの戦友は負傷し、捕虜になっている！充分な能力があり、命がけの救出任務を実行出来る人員が必要だ。貴様は戦友救出の任務を受ける気はあるか？</text>
+  </string>
+  <string id="simulation_task_27_finish">
+    <text>感謝する、ストーカー。貴殿のおかげで戦友に生きて再会できた。これを受け取って欲しい。報酬だ。</text>
+  </string>
+  <string id="simulation_task_28_name">
+    <text>捜索と救助</text>
+  </string>
+  <string id="simulation_task_28_text">
+    <text>捕虜になっているFreedomのメンバーを救助するように頼まれた。</text>
+  </string>
+  <string id="simulation_task_28_about">
+    <text>ストーカー、我々の戦友は負傷し、捕虜になっている！充分な能力があり、命がけの救出任務を実行出来る人員が必要だ。貴様は戦友救出任務を受ける気はあるか？</text>
+  </string>
+  <string id="simulation_task_28_finish">
+    <text>やったな！サンキューだぜ、ストーカー！生きた仲間の顔を見れて本当に嬉しいよ。これを受け取ってくれ。お疲れ様。</text>
+  </string>
+  <string id="simulation_task_29_name">
+    <text>捜索と救助</text>
+  </string>
+  <string id="simulation_task_29_text">
+    <text>BanditたちのグループからEcologistを救出しろ。</text>
+  </string>
+  <string id="simulation_task_29_about">
+    <text>そうだ、助けて欲しい！私の同僚が誘拐されたんだ。君は彼を救うのを手伝ってくれるのか？</text>
+  </string>
+  <string id="simulation_task_29_finish">
+    <text>ストーカー、ありがとう。同僚が戻ってきてよかった！これを報酬として受け取ってくれ。</text>
+  </string>
+  <string id="simulation_task_30_name">
+    <text>賞金稼ぎ狩り</text>
+  </string>
+  <string id="simulation_task_30_text">
+    <text>ストーカーは彼の首に懸けられた賞金を解除することを望んでいる。</text>
+  </string>
+  <string id="simulation_task_30_about">
+    <text>そうだ、兄弟、助けてくれ。どこかのろくでなしが俺の首に賞金を懸けやがった。賞金稼ぎに対処してくれ。そうすれば、俺は掛かってる賞金の倍を支払うぜ。</text>
+  </string>
+  <string id="simulation_task_30_finish">
+    <text>ああ、ありがとう、ストーカー！これが報酬だ。これで数日ぶりに寝ることができるぞ！</text>
+  </string>
+  <string id="simulation_task_31_name">
+    <text>復讐殺人</text>
+  </string>
+  <string id="simulation_task_31_text">
+    <text>ストーカーは戦友の死の復讐を望んでいる</text>
+  </string>
+  <string id="simulation_task_31_about">
+    <text>Banditが昨夜俺たちの野営地に侵入し、冷酷にも友人を殺しやがった。この種の人間のクズ共の息の根を止めるべきだ。ストーカー、俺のためにヤツを殺してくれ。その見返りに、殺された仲間のライフル銃を譲ろう。</text>
+  </string>
+  <string id="simulation_task_31_finish">
+    <text>ありがとうストーカー、アンタは良い戦士だ。倒れた兄弟への献杯に付き合ってくれ。</text>
+  </string>
+  <string id="simulation_task_32_name">
+    <text>栄光の殺害</text>
+  </string>
+  <string id="simulation_task_32_text">
+    <text>値の張るターゲットを暗殺することはできないほうに、同僚の兵士は賭けている。</text>
+  </string>
+  <string id="simulation_task_32_about">
+    <text>はあ？お前はランキングか何かを登ろうとしているのか？ならちょっといい話があるぜ、有望株さんよ。俺は金ピカ着けた将校共が抹殺したがってる高値の目標がどこにいるか、たまたま知ってるんだよ。まあ、俺はお前がそいつに近づくことすら出来ない方に賭けるがな。</text>
+  </string>
+  <string id="simulation_task_32_finish">
+    <text>マジか？お前まじでやってのけたのか？なんてこった！だが、お前に賭けるチャンスが有っても、俺はお前には賭けなかっただろうがな。まあ、賭けは懸けだ。</text>
+  </string>
+  <string id="simulation_task_33_name">
+    <text>下請け業務</text>
+  </string>
+  <string id="simulation_task_33_text">
+    <text>契約殺害を引き継いだ。</text>
+  </string>
+  <string id="simulation_task_33_about">
+    <text>実はこうしてるんだ。あまりにも多くの仕事を引き受けちまったときはな。アンタは俺の契約を１つ引き継いでくれないか？そうすればアンタに報酬の大半は払うぜ。</text>
+  </string>
+  <string id="simulation_task_33_finish">
+    <text>よくやった。これが約束の報酬だ。</text>
+  </string>
+  <string id="simulation_task_34_name">
+    <text>贖罪</text>
+  </string>
+  <string id="simulation_task_34_text">
+    <text>Monolithの同志たちは異教徒に敗北した。Monolith恐るるに足らずなどと言う考えが広まる前に、異教徒を滅ぼせ。</text>
+  </string>
+  <string id="simulation_task_34_about">
+    <text>同志よ、ラビットはMonolithの大義を体現するべく、異教徒のひとりを討ち滅ぼす任務を下した。しかし私は異教徒を見つけることは出来ず、聖なる任務を果たすことは出来なかった。同志よ。私が犯した罪の償いを手伝ってはくれまいか？</text>
+  </string>
+  <string id="simulation_task_34_finish">
+    <text>同志よ、素晴らしき信仰の発露であった。共に全能なりしMonolithに仕えられる事を名誉に思う。</text>
+  </string>
+  <string id="simulation_task_35_name">
+    <text>Banditの下請け業者</text>
+  </string>
+  <string id="simulation_task_35_text">
+    <text>Banditの殺害契約を引き継いだ。</text>
+  </string>
+  <string id="simulation_task_35_about">
+    <text>あまりにも多くの仕事を引き受けちまった。アンタは俺の契約を１つ引き継いでくれないか？そうすればアンタに報酬の大半は払うぜ。</text>
+  </string>
+  <string id="simulation_task_35_finish">
+    <text>ありがとう。これが約束の報酬だ。</text>
+  </string>
+  <string id="simulation_task_36_name">
+    <text>敵部隊の排除</text>
+  </string>
+  <string id="simulation_task_36_text">
+    <text>その地域に敵が発見された。Monolithの大義のために異教徒と交戦しなければならない。</text>
+  </string>
+  <string id="simulation_task_36_about">
+    <text>同志よ、我々はこの地域の敵を視認した。我らは同志たちへ戦いに備えるよう警告しに行く。征け。皆殺しにせよ。</text>
+  </string>
+  <string id="simulation_task_36_finish">
+    <text>見事だ。同志よ。</text>
+  </string>
+  <string id="simulation_task_37_name">
+    <text>偵察遠征</text>
+  </string>
+  <string id="simulation_task_37_text">
+    <text>敵部隊が目撃された地域を偵察し、遭遇した敵と交戦することになっている。</text>
+  </string>
+  <string id="simulation_task_37_about">
+    <text>周辺地域で敵の活動報告があり、我々の部隊はそれを攻撃する任務を命令されている。攻撃に備えて偵察してくれる人間を探している。</text>
+  </string>
+  <string id="simulation_task_37_finish">
+    <text>すばらしい。良くやってくれた！</text>
+  </string>
+  <string id="simulation_task_38_name">
+    <text>研究対象地域の掃討</text>
+  </string>
+  <string id="simulation_task_38_text">
+    <text>地元の派閥が科学者を悩ませている。研究を行うために、彼らを排除するよう依頼された。</text>
+  </string>
+  <string id="simulation_task_38_about">
+    <text>いくつか重要な研究を行うべき地域があるんだが、そこに不法占拠者のグループが移動してきたらしく、調査に出向くと毎回銃撃してくるんだ。この調査はなんとしても行う必要がある。ストーカー。彼らが移動するように説得できないだろうか？</text>
+  </string>
+  <string id="simulation_task_38_finish">
+    <text>ありがとう、ストーカー。非常に感謝しているよ。感謝の印としてこれをもっていってくれ。</text>
+  </string>
+  <string id="simulation_task_39_name">
+    <text>Monolithの侵入撃退</text>
+  </string>
+  <string id="simulation_task_39_text">
+    <text>Freedomはこの場所の近くにMonolithのストーカーを発見した。Monolithがこれ以上この地域に侵入するのを防がなければ、彼らは援軍を連れてくるかもしれない。</text>
+  </string>
+  <string id="simulation_task_39_about">
+    <text>信じられないかもしれないが、パトロール中にこの辺りに来た時、Monolithのストーカーたちを発見したんだ。ルーカッシュたちに無線で知らせなければならない。その間、Monolithを見張っていてくれないか？手伝いたいけど、ひどい二日酔いで頭痛もするし、「精神波の及ぶ領域」のせいかもしれない。</text>
+  </string>
+  <string id="simulation_task_39_finish">
+    <text>奴らから目を離すなと言ったばかりなのに、何なんだ？ルーカッシュは援軍を送ると言っていたが、もう必要ないようだ。それと、これを渡せと言われた。さあ、シッシッ！ストーカーを監視してるなら俺の近くに来るなよ！俺はウォッカを持っていて･･････ええと、とにかくパトロールを再開しないといけない。さようならだ、ストーカー。</text>
+  </string>
+  <string id="simulation_task_40_name">
+    <text>敵部隊の阻止</text>
+  </string>
+  <string id="simulation_task_40_text">
+    <text>この地域に進入してくる敵部隊を迎撃してほしいと言われている。</text>
+  </string>
+  <string id="simulation_task_40_about">
+    <text>Banditどもがある場所を移動している。自分は司令官へ報告にいく。戻るまでやつらを足止めしろ。</text>
+  </string>
+  <string id="simulation_task_40_finish">
+    <text>昇進モノだな！貴様は優秀な兵士だ。</text>
+  </string>
+  <string id="simulation_task_41_name">
+    <text>Dutyのための危険なミュータント退治</text>
+  </string>
+  <string id="simulation_task_41_text">
+    <text>Dutyのためにその場所の危険なミュータントを排除しろ。</text>
+  </string>
+  <string id="simulation_task_41_about">
+    <text>あの場所であれほどの危険なミュータントの群れを許容することはできない。誰かが殺されることになるかもしれないんだ。現地に向かい、群れを少し間引く必要がある。</text>
+  </string>
+  <string id="simulation_task_41_finish">
+    <text>よくやった、これが報酬だ。</text>
+  </string>
+  <string id="simulation_task_42_name">
+    <text>Clear Skyのための危険なミュータント退治</text>
+  </string>
+  <string id="simulation_task_42_text">
+    <text>Clear Skyのためにその場所にいる危険なミュータントを排除する</text>
+  </string>
+  <string id="simulation_task_42_about">
+    <text>俺はついさっき、ミュータントの群れに襲われたところだ。居場所を教えてやるから、奴らが誰かを殺す前にやっつけてくれ。</text>
+  </string>
+  <string id="simulation_task_42_finish">
+    <text>ありがとう、これを報酬として受け取ってくれ。</text>
+  </string>
+  <string id="simulation_task_43_name">
+    <text>Monolithのための危険なミュータント退治</text>
+  </string>
+  <string id="simulation_task_43_text">
+    <text>Monolithのためにその場所にいる危険なミュータントを排除する。</text>
+  </string>
+  <string id="simulation_task_43_about">
+    <text>この土地には危険なミュータントがいる。やつめは既に我らが同志のひとりを牙に掛けている。排除の時が来た。同志よ。</text>
+  </string>
+  <string id="simulation_task_43_finish">
+    <text>善徳を積んだな。我が同志よ。</text>
+  </string>
+  <string id="simulation_task_44_name">
+    <text>スタッシュ探し</text>
+  </string>
+  <string id="simulation_task_44_text">
+    <text>ストーカーがスタッシュの座標を提供してきた。それに含まれるであろうPDAを持ち帰れば、報酬が支払われる。</text>
+  </string>
+  <string id="simulation_task_44_about">
+    <text>俺はどっかの誰かが良いモノを隠した場所を知ってる。あんたがそこでPDAを見つけたら持ってきてくれたら報酬を出す。そこで他に見つけた物は、アンタのものでいいぜ。</text>
+  </string>
+  <string id="simulation_task_44_finish">
+    <text>サンキュー、ストーカー！</text>
+  </string>
+  <string id="simulation_task_45_name">
+    <text>薬の売人</text>
+  </string>
+  <string id="simulation_task_45_text">
+    <text>Freedomのメンバーは最新の荷物を届けてほしい。</text>
+  </string>
+  <string id="simulation_task_45_about">
+    <text>なあ、アンタ。俺はな、その、あー、「医薬品」がそろそろ発送されたはずなんだが、それを拾ってここに持ってきてくれないか？少し離れた場所にあるが、それほど問題はないだろう。どうだ？ちょっと小遣い稼ぎと行かねえか？</text>
+  </string>
+  <string id="simulation_task_45_finish">
+    <text>あはは、いいねえ。アンタのおかげだよ。本当にありがとう。俺もみんなも怪我を治さないといけないから、ちょうどいいタイミングだよ。何もしようとしていないことを願うぜ。あのブツはほとんどのストーカーには手に負えないほど過激なものだからな。まあ、いいさ。感謝するよ 。</text>
+  </string>
+  <string id="simulation_task_46_name">
+    <text>Clear Skyのために機密文書を回収しろ</text>
+  </string>
+  <string id="simulation_task_46_text">
+    <text>Clear Skyの隊員は機密文書を取り戻すことを望んでいる。</text>
+  </string>
+  <string id="simulation_task_46_about">
+    <text>俺はミュータントに襲われたときにいくつか重要な文書をスタッシュにしまってきたんだが、あそこに戻るのが怖い。あんたが文書を手に入れることができるならば、喜んで報酬を払おう。</text>
+  </string>
+  <string id="simulation_task_46_finish">
+    <text>サンキュー、ストーカー！</text>
+  </string>
+  <string id="simulation_task_cl_name">
+    <text>通信途絶</text>
+  </string>
+  <string id="simulation_task_cl_text">
+    <text>PDAを見つけるようにストーカーから頼まれた。</text>
+  </string>
+  <string id="simulation_task_cl_about">
+    <text>よお、あんた。ちょっと助けてもらいたいんだが、聞いてくれるかい？おれのPDAが最近言うこと聞かなくてよ。速攻で新しいのを調達してほしいんだ。</text>
+  </string>
+  <string id="simulation_task_cl_fetch_about">
+    <text>よお、あんた。ちょっと助けてもらいたいんだが、聞いてくれるかい？おれのPDAが最近言うこと聞かなくてよ。速攻で新しいのを調達してほしいんだ。んで、出来るだけ早く戻ってきてくれよ。</text>
+  </string>
+  <string id="simulation_task_cl_fetch_finish">
+    <text>おー、ありがとさん。これを受け取ってくれよ。</text>
+  </string>
+  <string id="simulation_task_ec_fetch_about">
+    <text>おれのPDA、最近全然動きが悪くてさ。こいつじゃまともに仕事もできねえし、新しいのが入荷するのもずいぶん先なんだよ。んで、ニューモデルがほしいんだが。頼めるか？</text>
+  </string>
+  <string id="simulation_task_ec_fetch_finish">
+    <text>おお、ありがとう。報酬としてこれを持っていってくれ。</text>
+  </string>
+  <string id="simulation_task_47_name">
+    <text>小荷物の配達</text>
+  </string>
+  <string id="simulation_task_47_text_0">
+    <text>$commから、彼の友人に$item_1を届けるように頼まれたが、どこかに自分で落とした。それを回収しなければならない。</text>
+  </string>
+  <string id="simulation_task_47_text_1">
+    <text>$commから、彼の友人に$item_1を届けるように頼まれた。</text>
+  </string>
+  <string id="simulation_task_47_about">
+    <text>これは私の友人に配達することになっている重要な小荷物だ。私はここで手の離せない仕事をしている。小荷物を配達することに興味はあるか？支払いは現地で友人から受け取れる。</text>
+  </string>
+  <string id="simulation_task_47_finish">
+    <text>ありがとう･･････。</text>
+  </string>
+  <string id="st_simulation_task_47_0">
+    <text>やあ、アンタにお届けものだ。差出人はお友達の$nameだ。</text>
+  </string>
+  <string id="st_simulation_task_47_1">
+    <text>ようやく来たか･･････。ありがとうな。友人にはこっちから連絡しておくよ。その前に、これが配達の料金だ。</text>
+  </string>
+  <string id="simulation_task_48_name">
+    <text>小荷物の配達</text>
+  </string>
+  <string id="simulation_task_48_text_0">
+    <text>$commから、彼の友人に$item_1を届けるように頼まれたが、どこかに自分で落とした。それを回収しなければならない。</text>
+  </string>
+  <string id="simulation_task_48_text_1">
+    <text>$commから、彼の友人に$item_1を届けるように頼まれた。</text>
+  </string>
+  <string id="simulation_task_48_about">
+    <text>この小荷物を私の同僚に配達することに興味はあるかい？私はこの場所をすぐに離れられないんだが、同僚はこれを本当に必要としていてね。私が連絡して君の訪問を知らせておくから、報酬は同僚から受け取るといい。</text>
+  </string>
+  <string id="simulation_task_48_finish">
+    <text>ありがとう･･････。</text>
+  </string>
+  <string id="st_simulation_task_48_0">
+    <text>やあ、アンタにお届けものだ。差出人はお友達の$nameだ。</text>
+  </string>
+  <string id="st_simulation_task_48_1">
+    <text>ああ、彼から電話があったよ、ありがとう。面倒をかけたお礼にこれを受け取ってくれ。</text>
+  </string>
+  <string id="simulation_task_49_name">
+    <text>小荷物の配達</text>
+  </string>
+  <string id="simulation_task_49_text_0">
+    <text>$commから、彼の友人に$item_1を届けるように頼まれたが、どこかに自分で落とした。それを回収しなければならない。</text>
+  </string>
+  <string id="simulation_task_49_text_1">
+    <text>$commから、彼の友人に$item_1を届けるように頼まれた。</text>
+  </string>
+  <string id="simulation_task_49_about">
+    <text>よし聞いてくれ。この小包が見えるな？俺はコイツを気まぐれな友人に届けたい。ヤツは延々と電話をかけてギャギャー抜かしてきやがる。俺がここでかかりきりになってる仕事さえなければ、俺が出向くついでにヤツのケツをケリ飛ばしてやるところなんだがな。そいつを持っていってくれれば、ヤツに支払わせる。</text>
+  </string>
+  <string id="simulation_task_49_finish">
+    <text>ありがとう･･････。</text>
+  </string>
+  <string id="st_simulation_task_49_0">
+    <text>やあ、アンタにお届けものだ。差出人はお友達の$nameだ。</text>
+  </string>
+  <string id="st_simulation_task_49_1">
+    <text>あのロクでなしにようやくメッセージが届いたらしい！\n \n支払いについては聞いてるぜ･･････。コイツを見な･･････持っていってくれ。アンタはいい仕事をするんだな。</text>
+  </string>
+  <string id="simulation_task_50_name">
+    <text>博士の異常な研究</text>
+  </string>
+  <string id="simulation_task_50_text_0">
+    <text>$commから、アノマリー領域の調査について、手伝ってほしいと頼まれたが、その前に失った$item_1を取り戻す必要がある。</text>
+  </string>
+  <string id="simulation_task_50_text_1">
+    <text>$commから、アノマリー領域の調査について、手伝ってほしいと頼まれた。\nマークされた場所に向う必要がある。</text>
+  </string>
+  <string id="simulation_task_50_text_2">
+    <text>$commから、アノマリー領域の調査について、手伝ってほしいと頼まれた。\n$item_1を使って測定することができる。</text>
+  </string>
+  <string id="simulation_task_50_text_3">
+    <text>$commから、アノマリー領域の調査について、手伝ってほしいと頼まれた。\n$item_1と記録された結果を持って彼のところに戻ることができる。</text>
+  </string>
+  <string id="simulation_task_50_about">
+    <text>カランチャ教授は私に、アノマリー領域に向かい、測定を行い報告するように命じた。もし私が重要な仕事を持っていないのであればもちろんそれに従うんだが。それで、何が言いたいかと言うと、君には私の代わりに装置を持っていって測定をしてほしい。もちろん、苦労に見合った報酬は出そう。</text>
+  </string>
+  <string id="simulation_task_50_finish">
+    <text>測定出来たかい？。素晴らしい、これが報酬だ。</text>
+  </string>
+  <string id="simulation_task_51_name">
+    <text>博士の異常な研究</text>
+  </string>
+  <string id="simulation_task_51_text_0">
+    <text>$commから、アノマリー領域の調査で彼を手伝ってほしいと頼まれたが、その前に失った$item_1を取り戻す必要がある。</text>
+  </string>
+  <string id="simulation_task_51_text_1">
+    <text>$commから、アノマリー領域の調査について、手伝ってほしいと頼まれた。\nマークされた場所に向う必要がある。</text>
+  </string>
+  <string id="simulation_task_51_text_2">
+    <text>$commから、アノマリー領域の調査について、手伝ってほしいと頼まれた。\n$item_1を使って測定することができる。</text>
+  </string>
+  <string id="simulation_task_51_text_3">
+    <text>$commから、アノマリー領域の調査について、手伝ってほしいと頼まれた。\n$item_1と記録された結果を持って彼のところに戻ることができる。</text>
+  </string>
+  <string id="simulation_task_51_about">
+    <text>実はある。奇妙なアノマリー活動に関する報告を受けている。測定して結果を返してくれる人が必要だ。過酷な環境条件に耐え、干渉を受けても正確なデータを収集できるように設計された、この仕事に最適な装置を持っている。やってくれないか？</text>
+  </string>
+  <string id="simulation_task_51_finish">
+    <text>素晴らしい！君はすごい仕事をしてくれた。さあ、これを受け取ってくれたまえ。</text>
+  </string>
+  <string id="simulation_task_52_name">
+    <text>見失った信号（$freq［MHz］）</text>
+  </string>
+  <string id="simulation_task_52_text_0">
+    <text>$commから、行方不明の部隊を追跡する依頼を受けたが、捜索するには$item_1が必要だ。</text>
+  </string>
+  <string id="simulation_task_52_text_1">
+    <text>$commから、行方不明になった部隊を追跡し、彼らに何が起こったのかを調べるように頼まれた。$mapに向かわなければならない。</text>
+  </string>
+  <string id="simulation_task_52_text_2">
+    <text>$commから、行方不明になった隊員を追跡し、彼らに何が起こったのかを知るようにとの依頼を受けた。$item_1を使って、周波数を$freq［MHz］に設定する必要がある。そして、見失った信号を探し回らなければならない。</text>
+  </string>
+  <string id="simulation_task_52_text_3">
+    <text>$commから、行方不明になった隊員を追跡し、彼らに何が起こったのかを調べるように頼まれた。見つけた$item_2を回収する必要がある。</text>
+  </string>
+  <string id="simulation_task_52_text_4">
+    <text>$commから、行方不明になった隊員を追跡し、彼らに何が起こったのかを調べるよう依頼された。その結果を彼に報告しなければならない。</text>
+  </string>
+  <string id="simulation_task_52_about">
+    <text>重大な問題があり、助けが必要だ。ほんの数日前、俺の部隊はちょっとした仕事をして帰ることになっていたんだ。しかし帰り道に、部隊がまるで消えたかのように痕跡が消えちまった。アンタには現地を調査して何があったか確かめてほしい。
+ \nRF受信機は持ってるか？俺たちは通信にコイツを使ってる。あれば仲間と連絡がつくかもしれない。</text>
+  </string>
+  <string id="simulation_task_52_finish">
+    <text>かわいそうに･･････このPDAにはアイツらの最後の瞬間が記録されている。待ち伏せ攻撃だったらしい。ありがとう、これがアンタの報酬だ。</text>
+  </string>
+  <string id="simulation_task_53_name">
+    <text>%sを調達しろ</text>
+  </string>
+  <string id="simulation_task_53_text">
+    <text>もしRenegadeのために%sを見つけたら、彼は自分の価値あるものと交換してくれるだろう。</text>
+  </string>
+  <string id="simulation_task_53_about">
+    <text>戦利品を交換しないか？</text>
+  </string>
+  <string id="simulation_task_53_fetch_about">
+    <text>%sを見つけてくれれば、いいものを提供できるよ。</text>
+  </string>
+  <string id="simulation_task_53_fetch_finish">
+    <text>グレートだぜ、あんた！ありがとよ！</text>
+  </string>
+  <string id="simulation_task_54_name">
+    <text>ストロー購入</text>
+  </string>
+  <string id="simulation_task_54_text">
+    <text>Renegadeは足のつかない%sを必要としている。余計な詮索はするな。</text>
+  </string>
+  <string id="simulation_task_54_about">
+    <text>聞きな。俺は足のつかないライフル銃が欲しいんだ。言ってる意味は分かるか？手伝ってくれるよな？</text>
+  </string>
+  <string id="simulation_task_54_fetch_about">
+    <text>%sが欲しい。買う、盗む、略奪、ナンだって良い。俺に持ってきてくれればな。これには二倍の金を払う価値がある。</text>
+  </string>
+  <string id="simulation_task_54_fetch_finish">
+    <text>流石だな！さあ、これが約束の報酬だ。さて、俺はアンタに一度も会ったことがない。意味はわかるよな？</text>
+  </string>
+  <string id="simulation_task_55_name">
+    <text>%sシチュー</text>
+  </string>
+  <string id="simulation_task_55_text">
+    <text>Renegadeはミュータント肉を調理するための特別なレシピを持っており、%sを欲しがっている。</text>
+  </string>
+  <string id="simulation_task_55_about">
+    <text>なあアンタ、今までにミュータントの肉を試したことがあるか？よっぽど飢えていない限り、大体の連中はそれに触れることもしないが、俺は大好物なんだ。アンタ狩猟は得意かい？</text>
+  </string>
+  <string id="simulation_task_55_fetch_about">
+    <text>アンタが%sの良い部位をいくつか獲ってこれるなら、それについて報酬を出そう。うーん･･････。考えているだけでよだれが出てきた。</text>
+  </string>
+  <string id="simulation_task_55_fetch_finish">
+    <text>やったぜ！今夜はご馳走だな！ありがとうよ。これが報酬だ。ああ、ついでに、ちょっとした戦利品もあげよう。</text>
+  </string>
+  <string id="simulation_task_56_name">
+    <text>Renegadeの下請け業者</text>
+  </string>
+  <string id="simulation_task_56_text">
+    <text>Renegadeのために殺害の契約を引き継いだ。</text>
+  </string>
+  <string id="simulation_task_56_about">
+    <text>俺はいくつかの仕事を引き受けすぎた。俺の代わりに契約のひとつを引き受けてくれないか？懸賞金のほとんどをおまえにやろう。</text>
+  </string>
+  <string id="simulation_task_56_finish">
+    <text>ありがとな。これがあんたから借りてた金だ。</text>
+  </string>
+  <string id="simulation_task_57_name">
+    <text>UNISGメンバーのために%sを見つけろ</text>
+  </string>
+  <string id="simulation_task_57_text">
+    <text>UNISGのメンバーから、%sを見つけてほしいと頼まれた。</text>
+  </string>
+  <string id="simulation_task_57_about">
+    <text>大きなお願いをしてもいいか？物資が不足しているんだ。助けてもらえないか？</text>
+  </string>
+  <string id="simulation_task_57_fetch_about">
+    <text>%sが少ないんだ。手に入れたら俺に会いに来てくれ。</text>
+  </string>
+  <string id="simulation_task_57_fetch_finish">
+    <text>どうも！</text>
+  </string>
+  <string id="simulation_task_58_name">
+    <text>UNISGのために状態のいい%sを探せ</text>
+  </string>
+  <string id="simulation_task_58_text">
+    <text>UNISGメンバーのために、信頼できる%sを調達する。</text>
+  </string>
+  <string id="simulation_task_58_about">
+    <text>支給されたライフルはクソだ。銃撃戦でも弾詰まりしないものが必要だ。俺のために新しいのを探してくれないか？</text>
+  </string>
+  <string id="simulation_task_58_fetch_about">
+    <text>%sを用意してくれ。礼はする。
+</text>
+  </string>
+  <string id="simulation_task_58_fetch_finish">
+    <text>素晴らしい！美人さんじゃないか。お礼にこれをどうぞ。</text>
+  </string>
+  <string id="simulation_task_59_name">
+    <text>利害の衝突</text>
+  </string>
+  <string id="simulation_task_59_text">
+    <text>侵入者が目撃された場所を一掃しろ。遭遇した敵と交戦しろ。</text>
+  </string>
+  <string id="simulation_task_59_about">
+    <text>我々の隊の任務に危険を及ぼす可能性のあるあるグループがいる。方法は問わないが、彼らをこの地域から追い出したい。その場所を確保してくれる人を探している。</text>
+  </string>
+  <string id="simulation_task_59_finish">
+    <text>完璧だ！よくやった。</text>
+  </string>
+  <string id="simulation_task_60_name">
+    <text>%sを見つけろ</text>
+  </string>
+  <string id="simulation_task_60_text">
+    <text>UNISGメンバーが%sを探している。</text>
+  </string>
+  <string id="simulation_task_60_about">
+    <text>アーティファクト探しは得意か？</text>
+  </string>
+  <string id="simulation_task_60_fetch_about">
+    <text>私たちの依頼主はアーティファクトを研究していて、%sを必要としている。この任務を任された幸運な男は誰だと思う？そうだ、つまりお願いだからこれを見つけてくれ。君が喜ぶような素敵な報酬があるんだ。</text>
+  </string>
+  <string id="simulation_task_60_fetch_finish">
+    <text>いよいよだ！私がどれだけ探していたことか。さあ、これが君の報酬だ。</text>
+  </string>
+  <string id="simulation_task_61_name">
+    <text>アノマリー調査</text>
+  </string>
+  <string id="simulation_task_61_text_0">
+    <text>$commから、アノマリー領域の調査で彼を手伝ってほしいと頼まれたが、その前に失った$item_1を取り戻す必要がある。</text>
+  </string>
+  <string id="simulation_task_61_text_1">
+    <text>$commから、アノマリー領域の調査について、手伝ってほしいと頼まれた。\nマークされた場所に向え。</text>
+  </string>
+  <string id="simulation_task_61_text_2">
+    <text>$commから、アノマリー領域の調査について、手伝ってほしいと頼まれた。\n測定のために$item_1を使え。</text>
+  </string>
+  <string id="simulation_task_61_text_3">
+    <text>$commから、アノマリー領域の調査について、手伝ってほしいと頼まれた。\n$item_1と記録された結果を持って彼のところに戻れ。</text>
+  </string>
+  <string id="simulation_task_61_about">
+    <text>この場所での我々の仕事の一部は、アノマリー活動を調査し報告することだ。アノマリー領域を調査して、測定して、結果を持ってくる人員が必要だ。
+                \n過酷な環境条件に耐え、干渉を受けても正確なデータを収集できるように設計された、この仕事に適した機器を持っている。
+                \n何か言うことはないか？</text>
+  </string>
+  <string id="simulation_task_61_finish">
+    <text>素晴らしい！あんたは私を大いに救ってくれた。ほら、これを持ってけ。</text>
+  </string>
+  <string id="simulation_task_62_name">
+    <text>%sを集めろ</text>
+  </string>
+  <string id="simulation_task_62_text">
+    <text>Sinの信者から%sの回収を依頼された。</text>
+  </string>
+  <string id="simulation_task_62_about">
+    <text>ゾーンは汚物の洪水から浄化されなければならない。クズどもを殺して、その制服のバッジを持ってこい。</text>
+  </string>
+  <string id="simulation_task_62_fetch_about">
+    <text>ゾーンは汚物の洪水から浄化されなければならない。クズどもを殺して、その制服のバッジを持ってこい。</text>
+  </string>
+  <string id="simulation_task_62_fetch_finish">
+    <text>よくやった。これがあんたの報酬だ。</text>
+  </string>
+  <string id="simulation_task_63_name">
+    <text>回収</text>
+  </string>
+  <string id="simulation_task_63_text">
+    <text>Monolithの仲間の戦士が異端者に倒された。我々は同志たちを助け、奴を倒さなければない。</text>
+  </string>
+  <string id="simulation_task_63_about">
+    <text>同志よ、我々はMonolithと我々の目的のために、大胆な異端者を殺すだろう。おまえは協力してくれるか？</text>
+  </string>
+  <string id="simulation_task_63_finish">
+    <text>よくやった。おまえと一緒に全能のMonolithに仕えられることを光栄に思う。</text>
+  </string>
+  <string id="simulation_task_64_name">
+    <text>敵部隊の排除</text>
+  </string>
+  <string id="simulation_task_64_text">
+    <text>この地域に敵が発見された。異教徒と交戦して破壊し、Sinの目的を達成しろ。</text>
+  </string>
+  <string id="simulation_task_64_about">
+    <text>我が同志よ、この地域に敵を発見した。我々の同志たちに戦闘の準備をするように警告するつもりだ。すぐにそこに行け。異教徒を浄化しなければならない。</text>
+  </string>
+  <string id="simulation_task_64_finish">
+    <text>よくやった。我が同志よ。</text>
+  </string>
+  <string id="simulation_task_65_name">
+    <text>Sinのためのミュータント退治</text>
+  </string>
+  <string id="simulation_task_65_text">
+    <text>Sinのためにこの地域のミュータントを駆除する</text>
+  </string>
+  <string id="simulation_task_65_about">
+    <text>この地域のミュータントの数は不安定になってきているんだよ、兄弟。バランスを保つために俺たちはそいつらの数を減らさなきゃいけない。</text>
+  </string>
+  <string id="simulation_task_65_finish">
+    <text>兄弟、よくやった。</text>
+  </string>
+  <string id="simulation_task_66_name">
+    <text>夜の捕食者を追い詰めろ</text>
+  </string>
+  <string id="simulation_task_66_text">
+    <text>夜に歩き回る危険な捕食者を探し出すのを手助けするように頼まれた。夜明け前に見つけろ。</text>
+  </string>
+  <string id="simulation_task_66_about">
+    <text>昨日、夜の捕食者がこの地域を歩き回っていた。仲間のひとりが殺されたから、朝になって隠れてしまう前に、そのクソ野郎を追い詰めようと思っている。おまえも一緒にやらないか？</text>
+  </string>
+  <string id="simulation_task_66_finish">
+    <text>ふぅ。危なかった･･････。本当に助かったよ。これがあんたの分だ、いいものだぜ。</text>
+  </string>
+  <string id="simulation_task_67_name">
+    <text>獣退治</text>
+  </string>
+  <string id="simulation_task_67_text">
+    <text>夜間に徘徊する危険な生物の駆除を依頼された。もっと多くのストーカーを殺しに戻ってくるから、その前に見つけた方がいい。</text>
+  </string>
+  <string id="simulation_task_67_about">
+    <text>よく聞け、ストーカー。我々は危険な夜の生き物を殺すように命じられた。それは今夜行われなければならないし、さもなければ、奴は後で戻ってきて我々の仲間をさらに殺すだろう。そんなことはさせない。もしおまえが協力してくれるなら、我々は臨時で雇うこともできる。我々と一緒にあの野獣を倒そうではないか、どうだ？</text>
+  </string>
+  <string id="simulation_task_67_finish">
+    <text>やったぜ･･････。いい仕事だったぜ、友よ。これを受け取ってくれ。あんたにはひとつ借りができたな。</text>
+  </string>
+	
+		<!-- FIND ARTEFACT FOR STALKER TASK -->
+	<string id="simulation_task_68_name">
+		<text>%s アーティファクトを探せ</text>
+	</string>
+	<string id="simulation_task_68_text">
+		<text>Clear skyのメンバーが%sと引き換えに報酬を提供するそうだ。</text>
+	</string>
+	<string id="simulation_task_68_about">
+		<text>アーティファクト集めは得意か？</text>
+	</string>
+	<string id="simulation_task_68_fetch_about">
+		<text>もし%sを見つけたら、俺に譲ってくれ。相応の報酬は払うから、きっと気に入ると思うぞ。</text>
+	</string>
+	<string id="simulation_task_68_fetch_finish">
+		<text>やっときたか！？ どれだけ長い間、これを探していたか分からない。これがあんたの報酬だ。</text>
+	</string>
+
+	<!-- FIND ARTEFACT FOR STALKER TASK -->
+	<string id="simulation_task_69_name">
+		<text>%sを探せ</text>
+	</string>
+	<string id="simulation_task_69_text">
+		<text>Ecologistは、%sと引き換えに報酬を提供するつもりだ。</text>
+	</string>
+	<string id="simulation_task_69_about">
+		<text>アーティファクト集めは得意か？</text>
+	</string>
+	<string id="simulation_task_69_fetch_about">
+		<text>もし%sを見つけたら、俺に譲ってくれ。相応の報酬は払うから、きっと気に入ると思うぞ。</text>
+	</string>
+	<string id="simulation_task_69_fetch_finish">
+		<text>やっときたか！？ どれだけ長い間、これを探していたか分からない。これがあんたの報酬だ。</text>
+	</string>
+	
+		<!-- FIND ARTEFACT FOR STALKER TASK -->
+	<string id="simulation_task_70_name">
+		<text>%sを探せ</text>
+	</string>
+	<string id="simulation_task_70_text">
+		<text>Freedom は、%sと引き換えに報酬を提供するつもりだ。</text>
+	</string>
+	<string id="simulation_task_70_about">
+		<text>アーティファクト集めは得意か？</text>
+	</string>
+	<string id="simulation_task_70_fetch_about">
+		<text>もし%sを見つけたら、俺に譲ってくれ。相応の報酬は払うから、きっと気に入ると思うぞ。</text>
+	</string>
+	<string id="simulation_task_70_fetch_finish">
+		<text>やっときたか！？ どれだけ長い間、これを探していたか分からない。これがあんたの報酬だ。</text>
+	</string>
+	
+		<!-- FIND ARTEFACT FOR STALKER TASK -->
+	<string id="simulation_task_71_name">
+		<text>%sを探せ</text>
+	</string>
+	<string id="simulation_task_71_text">
+		<text>A Mercenary は、%sと引き換えに報酬を提供するつもりだ。</text>
+	</string>
+	<string id="simulation_task_71_about">
+		<text>アーティファクト集めは得意か？</text>
+	</string>
+	<string id="simulation_task_71_fetch_about">
+		<text>もし%sを見つけたら、俺に譲ってくれ。相応の報酬は払うから、きっと気に入ると思うぞ。</text>
+	</string>
+	<string id="simulation_task_71_fetch_finish">
+		<text>やっときたか！？ どれだけ長い間、これを探していたか分からない。これがあんたの報酬だ。</text>
+	</string>
+	
+		<!-- FIND ARTEFACT FOR STALKER TASK -->
+	<string id="simulation_task_72_name">
+		<text>%sを探せ</text>
+	</string>
+	<string id="simulation_task_72_text">
+		<text>A fellow stalker は、%sと引き換えに報酬を提供するつもりだ。</text>
+	</string>
+	<string id="simulation_task_72_about">
+		<text>アーティファクト集めは得意か？</text>
+	</string>
+	<string id="simulation_task_72_fetch_about">
+		<text>もし%sを見つけたら、俺に譲ってくれ。相応の報酬は払うから、きっと気に入ると思うぞ。</text>
+	</string>
+	<string id="simulation_task_72_fetch_finish">
+		<text>やっときたか！？ どれだけ長い間、これを探していたか分からない。これがあんたの報酬だ。</text>
+	</string>
+	
+		<!-- FIND ARTEFACT FOR MILITARY TASK -->
+	<string id="simulation_task_73_name">
+		<text>%sを探せ</text>
+	</string>
+	<string id="simulation_task_73_text">
+		<text>兵士は%sと引き換えに銃を提供するつもりだ。</text>
+	</string>
+	<string id="simulation_task_73_about">
+		<text>なあ、話を聞いてくれ。規則違反なのはわかってるんだが、もうすぐ帰国するんで、土産を持って帰りたいんだ。何かアーティファクトを探してくれないか？</text>
+	</string>
+	<string id="simulation_task_73_fetch_about">
+		<text>%sを手に入れたい。もし見つけてくれたら、俺の銃と交換しよう。</text>
+	</string>
+	<string id="simulation_task_73_fetch_finish">
+		<text>すげえっ！これが約束の銃だ。俺がこれを持っていることは司令官にはチクらないでないでくれよ。</text>
+	</string>
+	
+		<!-- FIND MUTANT MEAT FOR STALKER, CLEAR SKY, MERC, FREEDOM, OR BANDIT TASK -->
+	<string id="simulation_task_74_name">
+		<text>%sを調達しろ</text>
+	</string>
+	<string id="simulation_task_74_text">
+		<text>ストーカーはミュータントの肉を調理する特別なレシピを持っていて、%sを持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_74_about">
+		<text>ミュータントの肉はどうだ？飢えている奴以外は、口にしたがらないが、俺は大好物だ。狩りは得意か？</text>
+	</string>
+	<string id="simulation_task_74_fetch_about">
+		<text>もし、%sの良い肉を何枚か分けてくれるなら、それに見合うだけのものを作ってやろう。おっと... 考えただけでよだれが出そうだ。</text>
+	</string>
+	<string id="simulation_task_74_fetch_finish">
+		<text>よっしゃ！今夜はごちそうにありつけそうだ。感謝する、ストーカー。これが報酬だ。それとこいつもだ。持ってる銃に合わない弾薬があるんだ。やるよ。</text>
+	</string>
+	
+		<!-- FIND MUTANT MEAT FOR STALKER, CLEAR SKY, MERC, FREEDOM, OR BANDIT TASK -->
+	<string id="simulation_task_75_name">
+		<text>%sを調達しろ</text>
+	</string>
+	<string id="simulation_task_75_text">
+		<text>ストーカーはミュータントの肉を調理する特別なレシピを持っていて、%sを持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_75_about">
+		<text>ミュータントの肉はどうだ？飢えている奴以外は 口にしたがらないが、俺は大好物だ。狩りは得意か？</text>
+	</string>
+	<string id="simulation_task_75_fetch_about">
+		<text>もし、%sの良い肉を何枚か分けてくれるなら、それに見合うだけのものを作ってやろう。おっと... 考えただけでよだれが出そうだ。</text>
+	</string>
+	<string id="simulation_task_75_fetch_finish">
+		<text>よっしゃ！今夜はごちそうにありつけそうだ。感謝する、ストーカー。これが報酬だ。それとこいつもだ。持ってる銃に合わない弾薬があるんだ。やるよ。</text>
+	</string>
+	
+		<string id="simulation_task_76_name">
+		<text>%s シチュー</text>
+	</string>
+	<string id="simulation_task_76_text">
+		<text>Banditはミュータントの肉を調理する特別なレシピを持っていて、%sを持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_76_about">
+		<text>ミュータントの肉はどうだ？飢えている奴以外は、口にしたがらないが、俺は大好物だ。狩りは得意か？</text>
+	</string>
+	<string id="simulation_task_76_fetch_about">
+		<text>もし、%sの良い肉を何枚か分けてくれるなら、それに見合うだけのものを作ってやろう。おっと... 考えただけでよだれが出そうだ。</text>
+	</string>
+	<string id="simulation_task_76_fetch_finish">
+		<text>おっしゃ！これで今夜はごちそうにありつけるぜ、サンキュー！こいつが報酬だ、あとこれもやるぜ</text>
+	</string>
+	
+		<string id="simulation_task_77_name">
+		<text>%s シチュー</text>
+	</string>
+	<string id="simulation_task_77_text">
+		<text>Banditはミュータントの肉を調理する特別なレシピを持っていて、%sを持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_77_about">
+		<text>ミュータントの肉はどうだ？飢えている奴以外は 口にしたがらないが、個人的には大好物だ。狩りは得意か？</text>
+	</string>
+	<string id="simulation_task_77_fetch_about">
+		<text>もし、%sの良い肉を何枚か分けてくれるなら、それに見合うだけのものを作ってやろう。おっと... 考えただけでよだれが出そうだ。</text>
+	</string>
+	<string id="simulation_task_77_fetch_finish">
+		<text>おっしゃ！これで今夜はごちそうにありつけるぜ、サンキュー！こいつが報酬だ、あとこれもやるぜ</text>
+	</string>
+	
+		<string id="simulation_task_78_name">
+		<text>%sを調達しろ</text>
+	</string>
+	<string id="simulation_task_78_text">
+		<text>兄弟はミュータントの肉を調理する特別なレシピを持っていて、%sを持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_78_about">
+		<text>ミュータントの肉はどうだ？飢えている奴以外は 口にしたがらないが、俺は大好物だ。狩りは得意か？</text>
+	</string>
+	<string id="simulation_task_78_fetch_about">
+		<text>もし、%sの良い肉を何枚か分けてくれるなら、それに見合うだけのものを作ってやろう。おっと... 考えただけでよだれが出そうだ。</text>
+	</string>
+	<string id="simulation_task_78_fetch_finish">
+		<text>よし！今夜はごちそうにありつけそうだ。感謝する、兄弟。これが報酬だ。それとこれもだ。持ってる銃に合わない弾薬があるんだ。譲るよ。</text>
+	</string>
+	
+		<string id="simulation_task_79_name">
+		<text>%sを調達しろ</text>
+	</string>
+	<string id="simulation_task_79_text">
+		<text>ストーカーはミュータントの肉を調理する特別なレシピを持っていて、%sを持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_79_about">
+		<text>ミュータントの肉はどうだ？飢えている奴以外は 口にしたがらないが、俺は大好物だ。狩りは得意か？</text>
+	</string>
+	<string id="simulation_task_79_fetch_about">
+		<text>もし、%sの良い肉を何枚か分けてくれるなら、それに見合うだけのものを作ってやろう。おっと... 考えただけでよだれが出そうだ。</text>
+	</string>
+	<string id="simulation_task_79_fetch_finish">
+		<text>よっしゃ！今夜はごちそうにありつけそうだ。感謝する、ストーカー。これが報酬だ。それとこいつもだ。持ってる銃に合わない弾薬があるんだ。やるよ。</text>
+	</string>
+	
+		<string id="simulation_task_80_name">
+		<text>%sを調達しろ</text>
+	</string>
+	<string id="simulation_task_80_text">
+		<text>ストーカーはミュータントの肉を調理する特別なレシピを持っていて、%sを持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_80_about">
+		<text>ミュータントの肉はどうだ？飢えている奴以外は 口にしたがらないが、俺は大好物だ。狩りは得意か？</text>
+	</string>
+	<string id="simulation_task_80_fetch_about">
+		<text>もし、%sの良い肉を何枚か分けてくれるなら、それに見合うだけのものを作ってやろう。おっと... 考えただけでよだれが出そうだ。</text>
+	</string>
+	<string id="simulation_task_80_fetch_finish">
+		<text>よっしゃ！今夜はごちそうにありつけそうだ。感謝する、ストーカー。これが報酬だ。それとこいつもだ。持ってる銃に合わない弾薬があるんだ。やるよ。</text>
+	</string>
+	
+		<string id="simulation_task_81_name">
+		<text>%sを調達しろ</text>
+	</string>
+	<string id="simulation_task_81_text">
+		<text>ストーカーはミュータントの肉を調理する特別なレシピを持っていて、%sを持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_81_about">
+		<text>ミュータントの肉はどうだ？飢えている奴以外は 口にしたがらないが、俺は大好物だ。狩りは得意か？</text>
+	</string>
+	<string id="simulation_task_81_fetch_about">
+		<text>もし、%sの良い肉を何枚か分けてくれるなら、それに見合うだけのものを作ってやろう。おっと... 考えただけでよだれが出そうだ。</text>
+	</string>
+	<string id="simulation_task_81_fetch_finish">
+		<text>よっしゃ！今夜はごちそうにありつけそうだ。感謝する、ストーカー。これが報酬だ。それとこいつもだ。持ってる銃に合わない弾薬があるんだ。やるよ。</text>
+	</string>
+	
+		<string id="simulation_task_82_name">
+		<text>%sを調達しろ %s</text>
+	</string>
+	<string id="simulation_task_82_text">
+		<text>ストーカーはミュータントの肉を調理する特別なレシピを持っていて、%sを持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_82_about">
+		<text>ミュータントの肉はどうだ？飢えている奴以外は 口にしたがらないが、俺は大好物だ。狩りは得意か？</text>
+	</string>
+	<string id="simulation_task_82_fetch_about">
+		<text>もし、%sの良い肉を何枚か分けてくれるなら、それに見合うだけのものを作ってやろう。おっと... 考えただけでよだれが出そうだ。</text>
+	</string>
+	<string id="simulation_task_82_fetch_finish">
+		<text>よっしゃ！今夜はごちそうにありつけそうだ。感謝する、ストーカー。これが報酬だ。それとこいつもだ。持ってる銃に合わない弾薬があるんだ。やるよ。</text>
+	</string>
+	
+		<!-- FIND MUTANT PARTS FOR LONERS TASK -->
+	<string id="simulation_task_83_name">
+		<text>Lonerのために%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_83_text">
+		<text>%sの%sは、俺が%sを持って来れたら高く買ってくれると言っている。</text>
+	</string>
+	<string id="simulation_task_83_about">
+		<text>ある種のミュータントに懸賞金を掛けたいんだ。興味あるか？</text>
+	</string>
+	<string id="simulation_task_83_fetch_about">
+		<text>このミュータントを殺して、その%sを持ってくれば、十分な報酬を払おう、ストーカー。</text>
+	</string>
+	<string id="simulation_task_83_fetch_finish">
+		<text>ああ、また一つ脅威が消えて、我々のキャンプに新しい飾りができた。よくやった</text>
+	</string>
+	
+		<!-- FIND MUTANT PARTS FOR LONERS TASK -->
+	<string id="simulation_task_84_name">
+		<text>Clear Skyのために%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_84_text">
+		<text>%sの%sは、俺が%sを持って来れたら高く買ってくれると言っている。</text>
+	</string>
+	<string id="simulation_task_84_about">
+		<text>ある種のミュータントに懸賞金を掛けたいんだ。興味あるか？</text>
+	</string>
+	<string id="simulation_task_84_fetch_about">
+		<text>このミュータントを殺して、その%sを持ってくれば、十分な報酬を払おう</text>
+	</string>
+	<string id="simulation_task_84_fetch_finish">
+		<text>ああ、また一つ脅威が消えて、我々のキャンプに新しい飾りができた。よくやった</text>
+	</string>
+	
+		<string id="simulation_task_85_name">
+		<text>Freedomのために%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_85_text">
+		<text>%sの%sは、俺が%sを持って来れたら高く買ってくれると言っている。</text>
+	</string>
+	<string id="simulation_task_85_about">
+		<text>ある種のミュータントに懸賞金を掛けたいんだ。興味あるか？</text>
+	</string>
+	<string id="simulation_task_85_fetch_about">
+		<text>このミュータントを殺して、その%sを持ってくれば、十分な報酬を払おう</text>
+	</string>
+	<string id="simulation_task_85_fetch_finish">
+		<text>ああ、また一つ脅威が消えて、我々のキャンプに新しい飾りができた。よくやった</text>
+	</string>
+	
+		<string id="simulation_task_86_name">
+		<text>Dutyのために%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_86_text">
+		<text>%sの%sは、俺が%sを持って来れたら高く買ってくれると言っている。</text>
+	</string>
+	<string id="simulation_task_86_about">
+		<text>ある種のミュータントに懸賞金を掛けたいんだ。興味あるか？</text>
+	</string>
+	<string id="simulation_task_86_fetch_about">
+		<text>このミュータントを殺して、その%sを持ってくれば、十分な報酬を払おう</text>
+	</string>
+	<string id="simulation_task_86_fetch_finish">
+		<text>ああ、また一つ脅威が消えて、我々のキャンプに新しい飾りができた。よくやった</text>
+	</string>
+	
+		<string id="simulation_task_87_name">
+		<text>Militaryのために%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_87_text">
+		<text>%sの%sは、俺が%sを持って来れたら高く買ってくれると言っている。</text>
+	</string>
+	<string id="simulation_task_87_about">
+		<text>ある種のミュータントに懸賞金を掛けたいんだ。興味あるか？</text>
+	</string>
+	<string id="simulation_task_87_fetch_about">
+		<text>このミュータントを殺して、その%sを持ってくれば、十分な報酬を払おう</text>
+	</string>
+	<string id="simulation_task_87_fetch_finish">
+		<text>ああ、また一つ脅威が消えて、我々のキャンプに新しい飾りができた。よくやった</text>
+	</string>
+	
+		<string id="simulation_task_88_name">
+		<text>Lonerのために%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_88_text">
+		<text>%sの%sは、俺が%sを持って来れたら高く買ってくれると言っている。</text>
+	</string>
+	<string id="simulation_task_88_about">
+		<text>ある種のミュータントに懸賞金を掛けたいんだ。興味あるか？</text>
+	</string>
+	<string id="simulation_task_88_fetch_about">
+		<text>このミュータントを殺して、その%sを持ってくれば、十分な報酬を払おう</text>
+	</string>
+	<string id="simulation_task_88_fetch_finish">
+		<text>ああ、また一つ脅威が消えて、我々のキャンプに新しい飾りができた。よくやった</text>
+	</string>
+	
+		<!-- FIND MUTANT PARTS FOR ECOGS TASK -->
+	<string id="simulation_task_89_name">
+		<text>Ecologistsのために%sを探せ</text>
+	</string>
+	<string id="simulation_task_89_text">
+		<text>%sの%sが、%sから組織サンプルを回収するよう依頼してきた。</text>
+	</string>
+	<string id="simulation_task_89_about">
+		<text>経験豊富なストーカーかミュータントハンターが必要だ。君はそのどちらかか？</text>
+	</string>
+	<string id="simulation_task_89_fetch_about">
+		<text>科学者は%sから組織サンプルを収集する必要があるそうだ。採取方法は問わないが、新鮮であることを確認すること。ミュータントから必要なものを得たらすぐにここに来てください。</text>
+	</string>
+	<string id="simulation_task_89_fetch_finish">
+		<text>ありがとうございました。これは我々の研究に大いに役立ちます。</text>
+	</string>
+	
+			<string id="simulation_task_90_name">
+		<text>Dutyのために%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_90_text">
+		<text>%sの%sは、俺が%sを持って来れたら高く買ってくれると言っている。</text>
+	</string>
+	<string id="simulation_task_90_about">
+		<text>ある種のミュータントに懸賞金を掛けたいんだ。興味あるか？</text>
+	</string>
+	<string id="simulation_task_90_fetch_about">
+		<text>このミュータントを殺して、その%sを持ってくれば、十分な報酬を払おう</text>
+	</string>
+	<string id="simulation_task_90_fetch_finish">
+		<text>ああ、また一つ脅威が消えて、我々のキャンプに新しい飾りができた。よくやった</text>
+	</string>
+	
+		<string id="simulation_task_91_name">
+		<text>Mercenariesのために%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_91_text">
+		<text>%sの%sは、俺が%sを持って来れたら高く買ってくれると言っている。</text>
+	</string>
+	<string id="simulation_task_91_about">
+		<text>ある種のミュータントに懸賞金を掛けたいんだ。興味あるか？</text>
+	</string>
+	<string id="simulation_task_91_fetch_about">
+		<text>このミュータントを殺して、その%sを持ってくれば、十分な報酬を払おう</text>
+	</string>
+	<string id="simulation_task_91_fetch_finish">
+		<text>ああ、また一つ脅威が消えて、我々のキャンプに新しい飾りができた。よくやった</text>
+	</string>
+	
+		<string id="simulation_task_92_name">
+		<text>Ecologistsのために%sを探せ</text>
+	</string>
+	<string id="simulation_task_92_text">
+		<text>%sの%sが、%sから組織サンプルを回収するよう依頼してきた。</text>
+	</string>
+	<string id="simulation_task_92_about">
+		<text>経験豊富なストーカーかミュータントハンターが必要だ。君はそのどちらかか？</text>
+	</string>
+	<string id="simulation_task_92_fetch_about">
+		<text>科学者は%sから組織サンプルを収集する必要があるそうだ。採取方法は問わないが、新鮮であることを確認すること。ミュータントから必要なものを得たらすぐにここに来てください。</text>
+	</string>
+	<string id="simulation_task_92_fetch_finish">
+		<text>ありがとうございました。これは我々の研究に大いに役立ちます。</text>
+	</string>
+	
+			<string id="simulation_task_93_name">
+		<text>Dutyのために%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_93_text">
+		<text>%sの%sは、俺が%sを持って来れたら高く買ってくれると言っている。</text>
+	</string>
+	<string id="simulation_task_93_about">
+		<text>ある種のミュータントに懸賞金を掛けたいんだ。興味あるか？</text>
+	</string>
+	<string id="simulation_task_93_fetch_about">
+		<text>このミュータントを殺して、その%sを持ってくれば、十分な報酬を払おう</text>
+	</string>
+	<string id="simulation_task_93_fetch_finish">
+		<text>ああ、また一つ脅威が消えて、我々のキャンプに新しい飾りができた。よくやった</text>
+	</string>
+	
+			<string id="simulation_task_94_name">
+		<text>Mercenariesのために%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_94_text">
+		<text>%sの%sは、俺が%sを持って来れたら高く買ってくれると言っている。</text>
+	</string>
+	<string id="simulation_task_94_about">
+		<text>ある種のミュータントに懸賞金を掛けたいんだ。興味あるか？</text>
+	</string>
+	<string id="simulation_task_94_fetch_about">
+		<text>このミュータントを殺して、その%sを持ってくれば、十分な報酬を払おう</text>
+	</string>
+	<string id="simulation_task_94_fetch_finish">
+		<text>ああ、また一つ脅威が消えて、我々のキャンプに新しい飾りができた。よくやった</text>
+	</string>
+	
+			<string id="simulation_task_95_name">
+		<text>Lonerのために%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_95_text">
+		<text>%sの%sは、俺が%sを持って来れたら高く買ってくれると言っている。</text>
+	</string>
+	<string id="simulation_task_95_about">
+		<text>ある種のミュータントに懸賞金を掛けたいんだ。興味あるか？</text>
+	</string>
+	<string id="simulation_task_95_fetch_about">
+		<text>このミュータントを殺して、その%sを持ってくれば、十分な報酬を払おう</text>
+	</string>
+	<string id="simulation_task_95_fetch_finish">
+		<text>ああ、また一つ脅威が消えて、我々のキャンプに新しい飾りができた。よくやった</text>
+	</string>
+	
+			<string id="simulation_task_96_name">
+		<text>Clear Skyのために%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_96_text">
+		<text>%sの%sは、俺が%sを持って来れたら高く買ってくれると言っている。</text>
+	</string>
+	<string id="simulation_task_96_about">
+		<text>ある種のミュータントに懸賞金を掛けたいんだ。興味あるか？</text>
+	</string>
+	<string id="simulation_task_96_fetch_about">
+		<text>このミュータントを殺して、その%sを持ってくれば、十分な報酬を払おう</text>
+	</string>
+	<string id="simulation_task_96_fetch_finish">
+		<text>ああ、また一つ脅威が消えて、我々のキャンプに新しい飾りができた。よくやった</text>
+	</string>
+	
+			<string id="simulation_task_97_name">
+		<text>Lonerのために%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_97_text">
+		<text>%sの%sは、俺が%sを持って来れたら高く買ってくれると言っている。</text>
+	</string>
+	<string id="simulation_task_97_about">
+		<text>ある種のミュータントに懸賞金を掛けたいんだ。興味あるか？</text>
+	</string>
+	<string id="simulation_task_97_fetch_about">
+		<text>このミュータントを殺して、その%sを持ってくれば、十分な報酬を払おう</text>
+	</string>
+	<string id="simulation_task_97_fetch_finish">
+		<text>ああ、また一つ脅威が消えて、我々のキャンプに新しい飾りができた。よくやった</text>
+	</string>
+	
+			<string id="simulation_task_98_name">
+		<text>Ecologistsのために%sを探せ</text>
+	</string>
+	<string id="simulation_task_98_text">
+		<text>%sの%sに、%sから組織サンプルを回収するよう依頼された。</text>
+	</string>
+	<string id="simulation_task_98_about">
+		<text>経験豊富なストーカーかミュータントハンターが必要だ。君はそのどちらかか？</text>
+	</string>
+	<string id="simulation_task_98_fetch_about">
+		<text>科学者は%sから組織サンプルを収集する必要があるそうだ。採取方法は問わないが、新鮮であることを確認すること。ミュータントから必要なものを得たらすぐにここに来てください。</text>
+	</string>
+	<string id="simulation_task_98_fetch_finish">
+		<text>ありがとうございました。これは我々の研究に大いに役立ちます。</text>
+	</string>
+	
+			<string id="simulation_task_99_name">
+		<text>Ecologistsのために%sを探せ</text>
+	</string>
+	<string id="simulation_task_99_text">
+		<text>%sの%sに、%sから組織サンプルを回収するよう依頼された。</text>
+	</string>
+	<string id="simulation_task_99_about">
+		<text>経験豊富なストーカーかミュータントハンターが必要だ。君はそのどちらかか？</text>
+	</string>
+	<string id="simulation_task_99_fetch_about">
+		<text>科学者は%sから組織サンプルを収集する必要があるそうだ。採取方法は問わないが、新鮮であることを確認すること。ミュータントから必要なものを得たらすぐにここに来てください。</text>
+	</string>
+	<string id="simulation_task_99_fetch_finish">
+		<text>ありがとうございました。これは我々の研究に大いに役立ちます。</text>
+	</string>
+	
+				<string id="simulation_task_100_name">
+		<text>Mercenariesのために%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_100_text">
+		<text>%sの%sは、俺が%sを持って来れたら高く買ってくれると言っている。</text>
+	</string>
+	<string id="simulation_task_100_about">
+		<text>ある種のミュータントに懸賞金を掛けたいんだ。興味あるか？</text>
+	</string>
+	<string id="simulation_task_100_fetch_about">
+		<text>このミュータントを殺して、その%sを持ってくれば、十分な報酬を払おう</text>
+	</string>
+	<string id="simulation_task_100_fetch_finish">
+		<text>ああ、また一つ脅威が消えて、我々のキャンプに新しい飾りができた。よくやった</text>
+	</string>
+	
+		<!-- Find Trip Equipment Tasks -->	
+	<string id="simulation_task_101_name">
+		<text>%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_101_text">
+		<text>ある人物から、%sを見つけて持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_101_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。</text>
+	</string>
+	<string id="simulation_task_101_fetch_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。俺たちのために、いくつか%sをくれないか？</text>
+	</string>
+	<string id="simulation_task_101_fetch_finish">
+		<text>感謝する! ほら、ルーブルだ。</text>
+	</string>
+	
+		<string id="simulation_task_102_name">
+		<text>Clear Skyのために%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_102_text">
+		<text>ある人物から、%sを見つけて持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_102_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。</text>
+	</string>
+	<string id="simulation_task_102_fetch_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。俺たちのために、いくつか%sをくれないか？</text>
+	</string>
+	<string id="simulation_task_102_fetch_finish">
+		<text>感謝する! ほら、ルーブルだ。</text>
+	</string>
+	
+		<string id="simulation_task_103_name">
+		<text>Freedomのために%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_103_text">
+		<text>ある人物から、%sを見つけて持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_103_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。</text>
+	</string>
+	<string id="simulation_task_103_fetch_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。俺たちのために、いくつか%sをくれないか？</text>
+	</string>
+	<string id="simulation_task_103_fetch_finish">
+		<text>感謝する! ほら、ルーブルだ。</text>
+	</string>
+	
+		<string id="simulation_task_104_name">
+		<text>Banditのために%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_104_text">
+		<text>ある人物から、%sを見つけて持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_104_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。</text>
+	</string>
+	<string id="simulation_task_104_fetch_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。俺たちのために、いくつか%sをくれないか？</text>
+	</string>
+	<string id="simulation_task_104_fetch_finish">
+		<text>感謝する! ほら、ルーブルだ。</text>
+	</string>
+	
+		<string id="simulation_task_105_name">
+		<text>Renegadesのために%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_105_text">
+		<text>ある人物から、%sを見つけて持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_105_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。</text>
+	</string>
+	<string id="simulation_task_105_fetch_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。俺たちのために、いくつか%sをくれないか？</text>
+	</string>
+	<string id="simulation_task_105_fetch_finish">
+		<text>感謝する! ほら、ルーブルだ。</text>
+	</string>
+	
+		<string id="simulation_task_106_name">
+		<text>%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_106_text">
+		<text>ある人物から、%sを見つけて持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_106_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。</text>
+	</string>
+	<string id="simulation_task_106_fetch_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。俺たちのために、いくつか%sをくれないか？</text>
+	</string>
+	<string id="simulation_task_106_fetch_finish">
+		<text>感謝する! ほら、ルーブルだ。</text>
+	</string>
+	
+		<string id="simulation_task_107_name">
+		<text>%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_107_text">
+		<text>ある人物から、%sを見つけて持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_107_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。</text>
+	</string>
+	<string id="simulation_task_107_fetch_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。俺たちのために、いくつか%sをくれないか？</text>
+	</string>
+	<string id="simulation_task_107_fetch_finish">
+		<text>感謝する! ほら、ルーブルだ。</text>
+	</string>
+	
+		<string id="simulation_task_108_name">
+		<text>%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_108_text">
+		<text>ある人物から、%sを見つけて持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_108_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。</text>
+	</string>
+	<string id="simulation_task_108_fetch_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。俺たちのために、いくつか%sをくれないか？</text>
+	</string>
+	<string id="simulation_task_108_fetch_finish">
+		<text>感謝する! ほら、ルーブルだ。</text>
+	</string>
+	
+		<string id="simulation_task_109_name">
+		<text>%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_109_text">
+		<text>ある人物から、%sを見つけて持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_109_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。</text>
+	</string>
+	<string id="simulation_task_109_fetch_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。俺たちのために、いくつか%sをくれないか？</text>
+	</string>
+	<string id="simulation_task_109_fetch_finish">
+		<text>感謝する! ほら、ルーブルだ。</text>
+	</string>
+	
+		<string id="simulation_task_110_name">
+		<text>%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_110_text">
+		<text>ある人物から、%sを見つけて持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_110_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。</text>
+	</string>
+	<string id="simulation_task_110_fetch_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。俺たちのために、いくつか%sをくれないか？</text>
+	</string>
+	<string id="simulation_task_110_fetch_finish">
+		<text>感謝する! ほら、ルーブルだ。</text>
+	</string>
+	
+		<string id="simulation_task_111_name">
+		<text>%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_111_text">
+		<text>ある人物から、%sを見つけて持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_111_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。</text>
+	</string>
+	<string id="simulation_task_111_fetch_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。俺たちのために、いくつか%sをくれないか？</text>
+	</string>
+	<string id="simulation_task_111_fetch_finish">
+		<text>感謝する! ほら、ルーブルだ。</text>
+	</string>
+	
+		<string id="simulation_task_112_name">
+		<text>%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_112_text">
+		<text>ある人物から、%sを見つけて持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_112_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。</text>
+	</string>
+	<string id="simulation_task_112_fetch_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。俺たちのために、いくつか%sをくれないか？</text>
+	</string>
+	<string id="simulation_task_112_fetch_finish">
+		<text>感謝する! ほら、ルーブルだ。</text>
+	</string>
+	
+		<string id="simulation_task_113_name">
+		<text>%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_113_text">
+		<text>ある人物から、%sを見つけて持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_113_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。</text>
+	</string>
+	<string id="simulation_task_113_fetch_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。俺たちのために、いくつか%sをくれないか？</text>
+	</string>
+	<string id="simulation_task_113_fetch_finish">
+		<text>感謝する! ほら、ルーブルだ。</text>
+	</string>
+	
+		<string id="simulation_task_114_name">
+		<text>%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_114_text">
+		<text>ある人物から、%sを見つけて持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_114_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。</text>
+	</string>
+	<string id="simulation_task_114_fetch_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。俺たちのために、いくつか%sをくれないか？</text>
+	</string>
+	<string id="simulation_task_114_fetch_finish">
+		<text>感謝する! ほら、ルーブルだ。</text>
+	</string>
+	
+		<string id="simulation_task_115_name">
+		<text>%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_115_text">
+		<text>ある人物から、%sを見つけて持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_115_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。</text>
+	</string>
+	<string id="simulation_task_115_fetch_about">
+		<text>俺と仲間はゾーンへの長旅の準備をしてきた。でも、もっと装備があるとありがたいんだが。俺たちのために、いくつか%sをくれないか？</text>
+	</string>
+	<string id="simulation_task_115_fetch_finish">
+		<text>感謝する! ほら、ルーブルだ。</text>
+	</string>
+	
+		<!-- Find Trip Equipment Tasks -->	
+	<string id="simulation_task_116_name">
+		<text>%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_116_text">
+		<text>ある人物から、%sを見つけて持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_116_about">
+		<text>我々の部隊は、これからゾーンの他の場所に向かうつもりだ。そういえば、困ったときのために、いつも余分に装備を持ってきてるんだ。あんたは俺たちに%s を、俺はあんたに "お返し "をするのはどうだ？</text>
+	</string>
+	<string id="simulation_task_116_fetch_about">
+		<text>我々の部隊は、これからゾーンの他の場所に向かうつもりだ。そういえば、困ったときのために、いつも余分に装備を持ってきてるんだ。</text>
+	</string>
+	<string id="simulation_task_116_fetch_finish">
+		<text>すごいな！仲間が喜ぶぞ。ほら、これ持っていってくれ。いい仕事ぶりだった。</text>
+	</string>
+	
+	<string id="simulation_task_117_name">
+		<text>%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_117_text">
+		<text>ある人物から、%sを見つけて持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_117_about">
+		<text>我々の部隊は、これからゾーンの他の場所に向かうつもりだ。そういえば、困ったときのために、いつも余分に装備を持ってきてるんだ。あんたは俺たちに%s を、俺はあんたに "お返し "をするのはどうだ？</text>
+	</string>
+	<string id="simulation_task_117_fetch_about">
+		<text>我々の部隊は、これからゾーンの他の場所に向かうつもりだ。そういえば、困ったときのために、いつも余分に装備を持ってきてるんだ。</text>
+	</string>
+	<string id="simulation_task_117_fetch_finish">
+		<text>すごいな！仲間が喜ぶぞ。ほら、これ持っていってくれ。いい仕事ぶりだった。</text>
+	</string>
+	
+		<string id="simulation_task_118_name">
+		<text>%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_118_text">
+		<text>ある人物から、%sを見つけて持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_118_about">
+		<text>我々の部隊は、これからゾーンの他の場所に向かうつもりだ。そういえば、困ったときのために、いつも余分に装備を持ってきてるんだ。あんたは俺たちに%s を、俺はあんたに "お返し "をするのはどうだ？</text>
+	</string>
+	<string id="simulation_task_118_fetch_about">
+		<text>我々の部隊は、これからゾーンの他の場所に向かうつもりだ。そういえば、困ったときのために、いつも余分に装備を持ってきてるんだ。.</text>
+	</string>
+	<string id="simulation_task_118_fetch_finish">
+		<text>すごいな！仲間が喜ぶぞ。ほら、これ持っていってくれ。いい仕事ぶりだった。</text>
+	</string>
+	
+		<string id="simulation_task_119_name">
+		<text>%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_119_text">
+		<text>ある人物から、%sを見つけて持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_119_about">
+		<text>我々の部隊は、これからゾーンの他の場所に向かうつもりだ。そういえば、困ったときのために、いつも余分に装備を持ってきてるんだ。あんたは俺たちに%s を、俺はあんたに "お返し "をするのはどうだ？</text>
+	</string>
+	<string id="simulation_task_119_fetch_about">
+		<text>我々の部隊は、これからゾーンの他の場所に向かうつもりだ。そういえば、困ったときのために、いつも余分に装備を持ってきてるんだ。</text>
+	</string>
+	<string id="simulation_task_119_fetch_finish">
+		<text>すごいな！仲間が喜ぶぞ。ほら、これ持っていってくれ。いい仕事ぶりだった。</text>
+	</string>
+	
+		<string id="simulation_task_120_name">
+		<text>%sを収集しろ</text>
+	</string>
+	<string id="simulation_task_120_text">
+		<text>ある人物から、%sを見つけて持ってくるように頼まれた。</text>
+	</string>
+	<string id="simulation_task_120_about">
+		<text>我々の部隊は、これからゾーンの他の場所に向かうつもりだ。そういえば、困ったときのために、いつも余分に装備を持ってきてるんだ。あんたは俺たちに%s を、俺はあんたに "お返し "をするのはどうだ？</text>
+	</string>
+	<string id="simulation_task_120_fetch_about">
+		<text>我々の部隊は、これからゾーンの他の場所に向かうつもりだ。そういえば、困ったときのために、いつも余分に装備を持ってきてるんだ。</text>
+	</string>
+	<string id="simulation_task_120_fetch_finish">
+		<text>すごいな！仲間が喜ぶぞ。ほら、これ持っていってくれ。いい仕事ぶりだった。</text>
+	</string>
+	
+	<!-- RESCUE UNDERCOVER AGENT -->
+	 <string id="spy_task_name">
+    <text>ウクライナから愛をこめて</text>
+  </string>
+  <string id="spy_task_text">
+    <text>潜入している諜報員を撤退させる必要がある。一緒に行動している部隊のメンバーを排除し、彼を基地まで安全に案内しろ。そのスパイはSVDを持っている。</text>
+  </string>
+  <string id="spy_task_about">
+    <text>潜入諜報員のひとりが敵の派閥に潜入した。しかし、敵が彼に疑念を抱いているのではないかと考えている。何度か連絡しても返事がなく、こちらにメッセージも送ってこない。おそらく厳重に監視されているので、これ以上任務を遂行する余裕はないのだろう。言うまでもなく、証拠を待たずに処分されてしまうかもしれない。彼を救出しなければならない。彼の居場所は分かったが、彼はひとりではないようだ。敵の部隊を殺し、捜査官を我々の基地まで護送してくれ。彼はSVDを扱っているから彼のライフルで彼だと認識できるだろう。注意点としては、君が部隊を攻撃した際に、彼は体裁を整えるために君を撃つだろうから、それを覚えておくことだ。</text>
+  </string>
+  <string id="spy_task_finish">
+    <text>素晴らしい。このことはすぐに伝えよう。</text>
+  </string>
+  <string id="spy_task_join">
+    <text>撃つな！俺はスパイだ！あんたを撃っちまったのは申し訳ないと思っているが、カモフラージュするためには仕方なかったんだ。今すぐ基地に戻ろう。</text>
+  </string>
+  <string id="spy_task_leave">
+    <text>ここが俺たちの分かれ道だ。また会おうぜ！</text>
+  </string>
+
+	<!-- HOSTAGE INTERACTION  TEXT -->
+	 <string id="hostage_companion_task_1_start_dialog_1">
+    <text>だ、誰だアンタ？もしかして助けに来てくれたのか？ストーカー。</text>
+  </string>
+  <string id="hostage_companion_task_1_actor_reply">
+    <text>ここから逃げたいならついてこい！</text>
+  </string>
+
+
+	<!-- NIMBLE SPECIAL ORDER TEXT -->
+	  <string id="esc_2_12_nimble_items_get_order_name">
+    <text>特別注文 : 商品の受け取り</text>
+  </string>
+  <string id="esc_2_12_nimble_items_get_order_text">
+    <text>商品が配達された。ニンブルから受け取る時間だ。</text>
+  </string>
+  <string id="esc_2_12_nimble_items_wait_order_name">
+    <text>特別注文 : 配達を待て</text>
+  </string>
+  <string id="esc_2_12_nimble_items_wait_order_text">
+    <text>注文は済んでいるので、あとはニンブルが商品を手に入れるのを待つだけだ。</text>
+  </string>
+
+
+	<!-- SURGE HIDE MESSAGES -->
+	 <string id="hide_from_surge_message">
+    <text>注意！エミッションが迫っている！</text>
+  </string>
+  <string id="hide_from_surge_descr_1_a">
+    <text>エミッションが迫っている。すぐに避難場所へ避難せよ。</text>
+  </string>
+  <string id="hide_from_surge_descr_2_a">
+    <text>エミッション中に避難場所から出ることは推奨されていない。</text>
+  </string>
+  <string id="hide_from_surge_name_1">
+    <text>エミッション : 避難場所を探せ</text>
+  </string>
+  <string id="hide_from_surge_name_2">
+    <text>エミッション : 避難場所に留まれ</text>
+  </string>
+
+
+	<!-- ATMOSFEAR RADIOACTIVE FALLOUT MESSAGES -->
+	 <string id="hide_from_fallout_rad_message_caption">
+    <text>注意！</text>
+  </string>
+  <string id="hide_from_fallout_rad_message">
+    <text>放射性物質の降下が始まる。</text>
+  </string>
+  <string id="hide_from_fallout_rad_descr_1_a">
+    <text>放射線のレベルは危険だ。放射性物質の降下から身を守る必要がある。</text>
+  </string>
+  <string id="hide_from_fallout_rad_descr_2_a">
+    <text>放射性物質が降下中に避難場所から出ることは推奨されていない。</text>
+  </string>
+  <string id="hide_from_fallout_rad_name_1">
+    <text>放射性降下物 : 避難場所を探せ</text>
+  </string>
+  <string id="hide_from_fallout_rad_name_2">
+    <text>放射性降下物 : 避難場所に留まれ</text>
+  </string>
+  <string id="end_fallout_rad_message_caption">
+    <text>注意！</text>
+  </string>
+  <string id="end_fallout_rad_message">
+    <text>放射性物質の降下が終わった。</text>
+  </string>
+
+	<!-- ATMOSFEAR CHEMICAL FALLOUT MESSAGES -->
+	 <string id="hide_from_fallout_acid_message_caption">
+    <text>注意！</text>
+  </string>
+  <string id="hide_from_fallout_acid_message">
+    <text>化学物質の降下が始まる。</text>
+  </string>
+  <string id="hide_from_fallout_acid_descr_1_a">
+    <text>汚染のレベルは危険だ。化学物質の降下から身を守る必要がある。</text>
+  </string>
+  <string id="hide_from_fallout_acid_descr_2_a">
+    <text>化学物質の降下中に避難場所から出ることは推奨されていない。</text>
+  </string>
+  <string id="hide_from_fallout_acid_name_1">
+    <text>化学物質の降下 : 避難場所を探せ</text>
+  </string>
+  <string id="hide_from_fallout_acid_name_2">
+    <text>化学物質の降下 : 避難場所に留まれ</text>
+  </string>
+  <string id="end_fallout_acid_message_caption">
+    <text>注意！</text>
+  </string>
+  <string id="end_fallout_acid_message">
+    <text>化学物質の降下が終わった</text>
+  </string>
+
+	<!-- ATMOSFEAR PSI STORM MESSAGES -->
+	<string id="hide_from_psi_storm_message_caption">
+    <text>注意！</text>
+  </string>
+  <string id="hide_from_psi_storm_message">
+    <text>「精神波の嵐」が来る</text>
+  </string>
+  <string id="hide_from_psi_storm_descr_1_a">
+    <text>「精神波の嵐」から身を守る必要がある。</text>
+  </string>
+  <string id="hide_from_psi_storm_descr_2_a">
+    <text>「精神波の嵐」の襲来中は外に出ることは推奨されていない。</text>
+  </string>
+  <string id="hide_from_psi_storm_name_1">
+    <text>「精神波の嵐」 : 避難所を探せ</text>
+  </string>
+  <string id="hide_from_psi_storm_name_2">
+    <text>「精神波の嵐」 : 避難場所に留まれ</text>
+  </string>
+  <string id="end_psi_storm_caption">
+    <text>注意！</text>
+  </string>
+  <string id="end_psi_storm_message">
+    <text>「精神波の嵐」は過ぎ去った</text>
+  </string>
+
+
+	<!-- FACTION BASE DEFENSE VS MUTANTS -->
+	 <string id="faction_base_defense_name">
+    <text>ミュータントから基地を防衛しろ</text>
+  </string>
+  <string id="faction_base_defense_yantar_name">
+    <text>ゾンビ化ストーカーから Ecologist基地を守れ</text>
+  </string>
+  <string id="faction_base_defense_text">
+    <text>ミュータントが基地を攻撃している。基地防衛を手伝って欲しい！</text>
+  </string>
+  <string id="faction_base_defense_yantar_text">
+    <text>ゾンビ化ストーカーが移動式研究所を攻撃している。研究所防衛を手伝って欲しい！進行中のエミッションは君に害を及ぼすほど強くは無いはずだ。移動式研究所の屋根に配置可能な機関銃を探して使用してくれ。</text>
+  </string>
+	
+	
+	<string id="fetch_drugkit_task_name">
+		<text>Find %s</text>
+	</string>
+	<string id="fetch_drugkit_task_text">
+		<text>I've been tasked to find and bring %s.</text>
+	</string>
+	<string id="fetch_drugkit_task_about">
+		<text>Maintaining my medical supplies with the number of injuries I have to treat on a daily basis is difficult. I'm worried I will run out of bandages and medkits sooner or later. I'd like you to bring me one of those old drug-making kits. They will certainly come in handy in the future.</text>
+	</string>
+	<string id="fetch_drugkit_task_fetch_about">
+		<text>I urgently need a %s. It should contain some tablets and ampoules I need to prepare more medical supplies. I'll pay you for one of those kits if you can bring a full set to me.</text>
+	</string>
+	<string id="fetch_drugkit_task_fetch_finish">
+		<text>Good job. I owe you one.</text>
+	</string>
+	
+	
+	
+	
+	<string id="st_multifetch_1"><text>I have been tasked to find the following items:</text></string>
+	<string id="st_multifetch_2"><text>, the items must be at least at %s% condition</text></string>
+	<string id="st_multifetch_3"><text>I will also be paid for the following extra items:</text></string>
+	<string id="st_multifetch_4"><text>Items to find:</text></string>
+
+</string_table>

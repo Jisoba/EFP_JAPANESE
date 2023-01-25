@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<string id="slot_duplicate_item_1">
+		  <text>すでに装甲板を装着している！</text>
+  </string>
+  <string id="slot_duplicate_item_2">
+    <text>すでにキャメルバックを装備している！</text>
+  </string>
+  <string id="slot_duplicate_item_4">
+    <text>すでにバックパックフレームがインストールされている！</text>
+  </string>
+  <string id="slot_duplicate_item_8">
+    <text>すでに環境適応モジュールが装着されている！</text>
+  </string>
+  <string id="slot_duplicate_item_exo">
+    <text>外骨格を装着しているため、バックパックを装着することができない！</text>
+  </string>
+  <string id="st_camelbak_drink">
+    <text>キャメルバックから一口飲んだ。</text>
+  </string>
+  <string id="st_camelbak_fill">
+    <text>キャメルバックに給水した。</text>
+  </string>
+  <string id="st_camelbak_full">
+    <text>キャメルバックはすでに満タンだ。</text>
+  </string>
+  
+  <string id="st_camelbak_capacity">
+    <text>容量</text>
+  </string>
+  
+  <string id="st_camelbak_trydrink">
+    <text>飲む</text>
+  </string>
+  <string id="st_surge_compat">
+    <text>互換性のあるパーツ:</text>
+  </string>
+  
+  <string id="st_autodoc_compat">
+    <text>互換性のある医療品:</text>
+  </string>
+
+  <string id="st_autodoc_capacity_hp">
+    <text>ヘルススタビライザー: </text>
+  </string>
+  <string id="st_autodoc_capacity_rads">
+    <text>抗放射線薬: </text>
+  </string>
+  <string id="st_autodoc_capacity_dmgres">
+    <text>モルヒネリザーバー: </text>
+  </string>
+  <string id="st_autodoc_full">
+    <text>リザーバーは満タンだ</text>
+  </string>
+  
+  <string id="st_autodoc_enable">
+    <text>オートドク有効化</text>
+  </string>
+  <string id="st_autodoc_disable">
+    <text>オートドク無効化</text>
+  </string>
+  <string id="st_autodoc_hp">
+    <text>自動回復</text>
+  </string>
+  <string id="st_autodoc_rads">
+    <text>自動除染</text>
+  </string>
+  <string id="st_autodoc_dmgres">
+    <text>自動鎮痛</text>
+  </string>
+  <string id="st_ass_name">
+    <text>アノマリー抑制システム</text>
+  </string>
+  <string id="st_ass_descr">
+    <text>
+     放射線、電磁波、高周波ソナーなどのスキャナー、トランスミッター、エミッターを複数搭載した最新鋭の装置。科学省が工作員を保護するために最初に設計した装置の一つで、十分な環境撹乱を加えれば特定の異常を一時的に無効化できるというススロフの「水槽を叩く理論」を具現化した高性能機である。この装置では、異常を自動的にスキャンし、異常の発生に反応して複合中和パルスを発射することで、一時的に異常を遮断し、危険性を排除することができる。SSPやSEVAスーツでは、このような装置がアクティブ・アノマリー・ディフェンス・システムの大部分を構成しており、いずれもこの装置を統合したものを採用している。この装置には抑制パルス用の自己充電式バッテリーが付属しているが、搭載されたコンピュータはパルスごとに発生するフィールド変化を再調整・再計算する時間が必要である。SSPやSEVAに搭載されている支援システムと組み合わせることで、その効果や充電時間を高めることができる。
+      \n \n
+      %c[ui_gray_2]特性:\n
+      %c[d_cyan] ・%c[ui_gray_2] 技術品\n
+      %c[d_cyan] ・%c[ui_gray_2] 高品質\n
+      %c[d_cyan] ・%c[ui_gray_2] 基礎充電時間 60 秒\n
+      %c[d_cyan] ・%c[ui_gray_2] 環境適応ユニットは一つだけ装備できる。\n
+    </text>
+  </string>
+
+
+  <string id="st_ass_up_name">
+    <text>高度なアノマリー抑制システム</text>
+  </string>
+  <string id="st_ass_up_descr">
+    <text>
+      希少なアーティファクトサンプルからのテレメトリーデータを取り込み、より迅速に抑制策を算出する次世代型アノマリー発生抑制装置。ストーカーはもちろんのこと、科学者からも非常に高い支持を得ているアノマリー抑制装置の最高峰。組み込まれたアーティファクト・サンプルからの追加データにより、環境への影響を抑えてパルスを送信することができ、再較正サイクルをより頻繁に発生させることができる。さらに、この装置は一定のフィールドを放出し、近くの異常フィールドの強さを受動的に減少させる。この装置は、SSPやSEVAスーツの搭載支援システムと組み合わせることで、その効果や再充電時間を高めることができる。
+      \n \n
+      %c[ui_gray_2]特性:\n
+      %c[d_cyan] ・%c[ui_gray_2] 技術品\n
+      %c[d_cyan] ・%c[ui_gray_2] 高品質\n
+      %c[d_cyan] ・%c[ui_gray_2] 基礎充電時間 40 秒\n
+      %c[d_cyan] ・%c[ui_gray_2] 環境適応ユニットは一つだけ装備できる。\n
+    </text>
+  </string>
+
+  <string id="st_lsm">
+    <text>SLSA 0.06.8 EM オートドックモジュール</text>
+  </string>
+  <string id="st_lsm_desc">
+    <text>旧式の軍用SLSA（System of Life Support, Automatic）オートドックモジュール。第二次チェルノブイリ原発事故後の短期間、ウクライナSSUは、特に大規模な型破りな戦闘が予想され、補給線の維持が困難であり、地帯固有の殺傷能力のために救護所の設置が困難な特殊状況において、現地要員の効果を高めるために現場携帯用オートドックシステムの開発に注力した。このユニットは、いくつかの戦闘大隊や探査大隊に配属され、有効であるが、常備軍の間ではかなり不評だった。このユニットは、左腰に装着するプライマリードクターユニットを、2本の滅菌ゴムチューブと1本の電子ケーブルで調節可能な前腕カフに接続する。ドクターユニットが血圧や心拍数の異常を検知すると、前腕カフのクイックインジェクション針から安定剤、鎮痛剤、凝固剤などが適量ずつ投与される。このシステムは、標準的な戦闘服の下に装着するように設計されており、ほぼ例外なくバッテリー切れとなったユーザーに警告するためのスピーカーユニットが装備されている。
+\n
+      SLSAには2つの予備タンクがある。一つは標準的なスティムパックを補充できる標準タンクで、もう一つは濃縮スティムパックを入れた緊急タンクだ。オートドックは、過剰投与でユーザーを死なせないために、少なくとも15秒間の投与間隔を空けるようにプログラムされている。
+      \n \n
+      %c[ui_gray_2]特性:\n
+      %c[d_cyan] ・%c[ui_gray_2] 技術品\n
+      %c[d_cyan] ・%c[ui_gray_2] 高品質\n
+      %c[d_cyan] ・%c[ui_gray_2] 互換性：標準、軍用スティムパック\n
+      %c[d_cyan] ・%c[ui_gray_2] 環境適応ユニットは一つだけ装備できる。\n
+    </text>
+  </string>
+  
+  <string id="st_lsm_up">
+    <text>SLSA 0.06.9 EM 改良型オートドックモジュール</text>
+  </string>
+  <string id="st_lsm_up_desc">
+    <text>ゾーンの技術で改良されたオートドック・モジュール。オリジナルのオートドックをベースに、ゾーンの研究成果や標本を用いて設計された先進的なモジュール。ヒーリングアーチファクトを慎重に封入することで、投与した薬の効果を高めるとともに、受動的に細胞の成長を促すことができる。このオートドック・モジュールは、製造材料の調達が困難なこともあり、生産数は少ない。それでも、スペツナズ部隊やエコロジストの間では、前腕の注射器の痛みは以前より増しているにもかかわらず、非常に人気があり、求められているのだ。
+      SLSAには2つの予備タンクがある。一つは標準的なスティムパックを補充できる標準タンクで、もう一つは濃縮スティムパックを充填した緊急用タンクだ。オートドックは過剰投与でユーザーを死なせないために、少なくとも15秒間の投与間隔を置くようにプログラムされている。
+      \n \n
+      %c[ui_gray_2]特性:\n
+      %c[d_cyan] ・%c[ui_gray_2] 技術品\n
+      %c[d_cyan] ・%c[ui_gray_2] 高品質\n
+      %c[d_cyan] ・%c[ui_gray_2] 互換性：標準、軍用スティムパック\n
+      %c[d_cyan] ・%c[ui_gray_2] 環境適応ユニットは一つだけ装備できる。\n
+    </text>
+  </string>
+  
+  <string id="st_autodoc_fill_stimpack_n1">
+    <text>メディカルリザーブタンク [STANDARD_N1] キャパシティ [20]% </text>
+  </string>
+  <string id="st_autodoc_fill_stimpack_n2">
+    <text>メディカルリザーブタンク [STANDARD_N1] キャパシティ [40]% </text>
+  </string>
+  <string id="st_autodoc_fill_stimpack_n3">
+    <text>メディカルリザーブタンク [STANDARD_N1] キャパシティ [60]% </text>
+  </string>
+  <string id="st_autodoc_fill_stimpack_n4">
+    <text>メディカルリザーブタンク [STANDARD_N1] キャパシティ [80]% </text>
+  </string>
+  <string id="st_autodoc_fill_stimpack_n5">
+    <text>メディカルリザーブタンク [STANDARD_N1] キャパシティ [100]% </text>
+  </string>
+  <string id="st_autodoc_fill_stimpack_army_n1">
+    <text>メディカルリザーブタンク [EMERGENCY_N2] キャパシティ [50]% </text>
+  </string>
+  <string id="st_autodoc_fill_stimpack_army_n2">
+    <text>メディカルリザーブタンク [EMERGENCY_N2] キャパシティ [100]% </text>
+  </string>
+  <string id="st_autodoc_full">
+    <text>リザーブタンクキャパシティ: [100]%</text>
+
+  </string>
+  <string id="st_autodoc_medicate_1">
+    <text>警告：バイタルサインが低下しています。標準的な医療処置を実行。</text>
+  </string>
+
+  <string id="st_autodoc_medicate_2">
+    <text>警告：バイタルサインが危険域。緊急医療処置を実行</text>
+  </string>
+
+  <string id="st_autodoc_capacity_stimpack_n">
+    <text>スティムパック:</text>
+  </string>
+  <string id="st_autodoc_capacity_stimpack_army_n">
+    <text>軍用スティムパック:</text>
+  </string>
+
+  <string id="st_armor_penetrated">
+    <text>銃弾が装甲板を貫通！</text>
+  </string>
+  <string id="st_armor_broken">
+    <text>装備している装甲板が完全に破壊されました。</text>
+  </string>
+  <string id="st_armor_absorbed">
+    <text>装甲板が衝撃を吸収した。</text>
+  </string>
+
+  <string id="st_no_frame_equipped">
+    <text>バックパックフレーム未装着</text>
+  </string>
+  <string id="st_equipped_frame">
+    <text>インストール中のバックパックフレーム</text>
+  </string>
+  <string id="st_remove_frame">
+    <text>バックパックフレームを取り外す</text>
+  </string>
+  <string id="st_install_frame">
+    <text>バックパックにインストールする</text>
+  </string>
+
+  
+  <string id="ui_mcm_slotControl_title">
+    <text>Outfit Attachments Overhaul</text>
+  </string>
+  <string id="ui_mcm_menu_slotControl">
+    <text>OAO</text>
+  </string>
+  <string id="ui_mcm_slotControl_ballisticMessage">
+    <text>装甲板の状態をプレイヤーに知らせる</text>
+  </string>
+ <string id="ui_mcm_slotControl_ballisticRepair">
+    <text>装甲板の修理を技術屋に頼めるようにする</text>
+  </string>
+  <string id="ui_mcm_slotControl_debug">
+    <text>デバッグログ</text>
+  </string>
+  <string id="ui_mcm_slotControl_plate_chance">
+    <text>装甲板をドロップする確率</text>
+  </string>
+  <string id="ui_mcm_slotControl_plate_up_chance">
+    <text>強力な装甲板をドロップする確率(倍数性)</text>
+  </string>
+   <string id="ui_mcm_slotControl_hp">
+    <text>LSM 低HP判定値</text>
+  </string>
+  <string id="ui_mcm_slotControl_hp_crit">
+    <text>LSM 致命的なHP判定値</text>
+  </string>
+  <string id="ui_mcm_slotControl_rads">
+    <text>LSM 放射線量判定値</text>
+  </string>
+		<string id="st_stim_none">
+		<text>これはスティムではない</text>
+	</string>
+	<string id="st_dot">
+		<text>・</text>
+	</string>
+</string_table>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+	Ammunition
+-->
+
+<string_table>
+    <string id="ui_mcm_menu_recoil">
+        <text>リコイル</text>
+    </string>
+    <string id="ui_mcm_recoil_title">
+        <text>リコイルを強化</text>
+    </string>
+    <string id="ui_mcm_recoil_enabled">
+        <text>機能を有効にする</text>
+    </string>
+    <string id="ui_mcm_recoil_enabled_desc">
+        <text>リコイルの影響を強くすることができます。</text>
+    </string>
+    <string id="ui_mcm_recoil_camera">
+        <text>カメラの動きを有効にする</text>
+    </string>
+    <string id="ui_mcm_recoil_camera_desc">
+        <text>カメラを動かして反動を描写します。邪魔になる場合や迷惑になる場合は、オフにすることができます。</text>
+    </string>
+    <string id="ui_mcm_recoil_stance">
+        <text>姿勢制御によるリコイル制御</text>
+    </string>
+    <string id="ui_mcm_recoil_stance_desc">
+        <text>静止していると武器が安定し、反動が小さくなります。逆に動くと反動が大きくなります。</text>
+    </string>
+</string_table>

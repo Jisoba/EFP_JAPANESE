@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+	<string id="ui_mcm_menu_upgraded_sleep_bag">
+		<text>改良寝袋</text>
+	</string>
+	<string id="ui_mcm_upgraded_sleep_bag_enabled">
+		<text>有効化</text>
+	</string>
+</string_table>

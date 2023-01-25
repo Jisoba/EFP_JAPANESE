@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_sig229">
+		<text>SIG P229 LEGION</text>
+	</string>
+	<string id="st_wpn_sig229_descr">
+		<text>P229は、P228をコンパクトサイズにし、9mm口径を採用した、警察任務やコンシールキャリーを想定したアップグレード版。LEGIONヴァリアントのため、Mercenaryのような欧米の派閥の間では珍しい存在だと考えてよいだろう。45ACPの代わりに9mmを装填しているが、.45ACPではなく9mmを撃つシグ・サウエルを好む人にとっては、比較的優れた小型ピストルであることに変わりはない。\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ・%c[ui_gray_2] 9x19 compatible suppressor</text>
+	</string>
+
+	<string id="st_wpn_sig320">
+		<text>SIG Sauer P320 RXP</text>
+	</string>
+	<string id="st_wpn_sig320_descr">
+		<text>ニンブルが見つけた素晴らしいピストルで、SIG-Sauerピストルの中では最新の銃のため、非常にレアなものだ。9mmが採用されているが、技術屋を探せば簡単に45ACPに換装することができる。また、「ストライクアクション」機構を採用しているので、.45ACPであっても反動が大幅に軽減される。比類なき信頼性、非常に優れた精度、完璧なリコイルを備えている。特に.45ACP用に変更されていれば、最高の相棒となるだろう。 \n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ・%c[ui_gray_2] 9x19 compatible suppressor</text>
+	</string>
+	<string id="st_up_p320_c7_name">
+		<text>口径を.45ACPに変更</text>
+	</string>
+	<string id="st_up_p320_c7_descr">
+		<text>.45 ACPを給弾するために、バレルと発射機構を複雑かつ違法と思われる方法で変更したもの。</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,1271 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+	
+	<string id="st_not_in_use">
+        <text>ﾏ蓆褪 淲 頌・・銛褪・/The Item is not in use (BaS)</text>
+    </string>
+    <string id="st_not_in_use_descr">
+        <text>ﾏ蓆褪 淲 頌・・銛褪・/The Item is not in use </text>
+    </string>
+
+	<string id="st_knifebf4">
+        <text>OTs-04 コンバットナイフ (BaS)</text>
+    </string>
+    <string id="st_knifebf4_descr">
+        <text> OTs-04ナイフは、80年代後半から90年代前半にかけて、トゥーラ中央デザイン研究局（TsKIB）で開発された、内務省部隊の特殊部隊向けのナイフである。</text>
+    </string>
+	
+	<string id="st_kukri">
+        <text>ククリ (BaS)</text>
+    </string>
+    <string id="st_kukri_descr">
+        <text>高炭素鋼を使用した特殊なブレードであるため、切断・解体性に優れている。あらゆる種類のミュータントを切断し、それらから身を守るために最適だ。</text>
+		</string>
+		
+	<string id="st_wpn_ak12_custom">
+        <text>AK-12 Monolith (BaS)</text>
+    </string>
+    <string id="st_wpn_ak12_custom_descr">
+        <text>珍しい銃。AK-12 2012の改造版。主にMonolithで使用されている。オートマチック、単発、3連射と複数の発射モードがある。\n \n
+		%c[0,140,140,140]アタッチメント: \n
+		%c[0,93,0,116] ・%c[0,140,140,140] タクティカルキットで武器のアップグレードが可能\n
+		%c[0,93,0,116] ・%c[0,140,140,140] スコープ: ピカティニー用スコープ全種類対応\n
+		%c[0,93,0,116] ・%c[0,140,140,140] サイレンサー: 5.45/7.62 Hexagon サウンドサプレッサー\n</text>
+    </string>
+
+    <string id="st_wpn_ak12_mono_kit">
+		<text>強化型AK12 Monolith (BaS)</text>
+    </string>
+    <string id="st_wpn_ak12_mono_kit_descr">
+		<text>珍しい銃。AK-12Monolithを改造したもの。主にMonolithで使用される。オートマチック、単発、3連射と複数の発射モードを持つ。新しいトリガーグループのおかげで、オリジナルより進化した強力な武器である。発射速度が向上し、バランスも改善された。
+これは取り外し不可能なアップグレード。\n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[0,93,0,116] ・%c[0,140,140,140] Monolithタクティカルキットで強化済み\n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: Trijicon Acog and AN/PEQ-16 LAM (一体型).\n
+		%c[d_purple] ・%c[ui_gray_2] "Guard" グレネードランチャー.\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: Hexagon 5.45/7.62 サウンドサプレッサー.\n </text>
+    </string>
+				
+	<string id="st_wpn_ak12_m1">
+        <text>AK-12 (2016) (BaS)</text>
+    </string>
+    <string id="st_wpn_ak12_m1_descr">
+        <text>2016年に公開された「AK-12」のバージョン。2015年に公開された旧バージョンのAK-12とは、外観や重要なユニットのデザインがかなり大きく異なっている。指摘された多くの欠点や問題点を解消する方向と、軍の意向を汲んで製造性を向上させる方向の両方で設計が見直された。\n 
+		%c[0,140,140,140]アタッチメント: \n
+		%c[0,93,0,116] ・%c[0,140,140,140] スコープ:ピカティニー用スコープ全種類対応\n
+		%c[0,93,0,116] ・%c[0,140,140,140] GP-25 グレネードランチャー\n
+		%c[0,93,0,116] ・%c[0,140,140,140] サイレンサー: 5.45/7.62 Hexagon サウンドサプレッサー\n</text>
+    </string>
+		
+		<string id="st_wpn_usp_tac">
+        <text>HK USPマッチ・タクティカル (BaS)</text>
+    </string>
+    <string id="st_wpn_usp_tac_descr">
+        <text>サホロフ教授の個人的な注文により、科学者のために特別に開発されたHK USPマッチを改造し、「スペシャリスト-科学者」キットを使用するために設計されたもの。アーティファクトの力を借りて、機構系の動作が改善されている。標準的なUSPマッチとの違いは、サイレンサーを装着できること。9mm口径22発の拡大マガジンを装備しています。(スペシャリスト・サイエンティストキットの内容は以下の通りです。BCCサバント、HK USPマッチ・タクティカル、モノリスブレード)。\n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] レーザー照準モジュールとレッドドットサイトのマウントのセット。\n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: Docter サイト, Aimpoint T1 (low mount), Trijicon RMR, Leupold DeltaPoint PRO.\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: AAC Black Box\n </text>
+    </string>
+	
+	
+	
+	<string id="st_wpn_vintorez_m1">
+		<text>VSS "Savant" (BaS)</text>
+	</string>
+	<string id="st_wpn_vintorez_m1_descr">
+		<text>VSS Savantの初期プロトタイプ。ベテランのストーカーに人気のあるモデル。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: EOTS-62、タクティカルキット（スコープ2本）を除くすべて。\n
+		%c[d_purple] ・%c[ui_gray_2] サプレッサー VSS (統合型)\n </text>
+	</string>
+	
+	
+	<string id="st_wpn_vintorez_m2">
+		<text>VSS "Merc" (BaS)</text>
+	</string>
+	<string id="st_wpn_vintorez_m2_descr">
+		<text>Mercenaryのある組織の依頼により、サホロフ教授を中心とする熱心な科学者チームが試作機の最終調整にあたった。開発と実地試験には、重力異常によるアーティファクトを20個ほど使用した。その結果、精度を落とすことなくピカティニバーを受信機に取り付けることができ、またメカニックも改良されたため、より信頼性の高いインジケーターを実現することができた......。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 L3 Insight Technologies社製。可視・赤外両帯域のレーザー機器とIRサーチライトを組み合わせた戦術機。 \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: 1P59 Giperonを除く全て\n
+		%c[d_purple] ・%c[ui_gray_2] Fab Defenseのストックとフォアグリップを装着した状態\n
+		%c[d_purple] ・%c[ui_gray_2] サプレッサー VSS (統合型)\n </text>
+	</string>
+	
+	
+	<string id="st_tactical_knife">
+		<text>Monolithの刃 (BaS)</text>
+	</string>
+	<string id="st_tactical_knife_descr">
+		<text>[ ロシア語アクセント "ON"] この刃はMonolithの技術屋によってごくわずかしか作られないという噂がある。合金の組成は不明であり、石棺の中心部でのみ抽出が可能であると言われている［ロシア語アクセント "オフ"］。</text>
+	</string>
+	
+	<string id="st_wpn_saiga12s_m1">
+		<text>Saiga-12 "Nerd" (BaS)</text>
+	</string>
+	<string id="st_wpn_saiga12s_m1_descr">
+		<text>Nerd -は、教授が被用者を気遣っている証拠だ。このSaigaモデルは、特に研究者のために開発された。特に危険なミュータントの臓器を科学に寄贈するための「交渉」に使用される。経験豊富なハンターは、このモデルで武装した「オタク」をかなり羨ましそうに見ている。.\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ:ドーヴテイルマウント式のすべてのスコープ\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: Hexagon 12K\n </text>
+	</string>
+	
+	
+	<string id="st_wpn_m4_ru556">
+		<text>ルガー SR-556 (BaS)</text>
+	</string>
+	<string id="st_wpn_m4_ru556_descr">
+		<text>この小銃のいくつかは、科学者を通じてゾーンに入った。伝説によると、サハロフ教授は外国のスポンサーからこの銃を積んだ小型コンテナを6つ受け取ったという。
+しかし、そのうち5丁は輸送中に紛失したという。
+ルガーSR-556は、武器会社Sturmが製造したアメリカの自動装填式カービン銃である。
+Ruger & Company, Inc.のAR-10ファミリーの最初のルガーとなった。ルガーSR-762は、.308のチャンバー付き。
+火薬ガスの除去を利用したAR-15ライフルの数少ないサンプルに属す。
+Keymod Lightweightオプションの導入に伴い、2016年1月に生産終了。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] NcStar社製ユニバーサルマウントにTrijicon RMRレッドドットサイトを装着。 \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ:  全てピカティニー/ウィーバー用（ローマウントのレッドドットサイトは除く。)Trijicon RMR、Leupold DeltaPoint PRO、Aimpoint T1（ローマウント）、Docter Sight、1P76 Rakurs（ローマウント）。\\n
+		%c[d_purple] ・%c[ui_gray_2] サプレッサー: NATO\n </text>
+	</string>
+	
+	
+	<string id="st_wpn_saiga12s_m2">
+		<text>ダッシュマンのSaiga (BaS)</text>
+	</string>
+	<string id="st_wpn_saiga12s_m2_descr">
+		<text>Mercenaryの要望で改造されたSaiga。ピカティニーレールと巨大なマズルブレーキ・コンペンセーターを装着し、反動を大幅に軽減した。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: OKP-7、コブラEKP-1S-03、コブラEKP-8-02を除く、ピカティニー/ウィーバーおよびダブテールマウント用レッドドットスコープ全機種。\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: SilencerCo Salvo 12\n </text>
+	</string>
+	
+	
+	
+	
+	<string id="st_wpn_ak74m_beard">
+		<text>AK-74M Beard (BaS)</text>
+	</string>
+	<string id="st_wpn_ak74m_beard_descr">
+		<text> ビアードの毒のようなAK（彼のお茶と混同しないように）は、軽量で、ゾーンの過酷な環境に適応している。 グレネードランチャーを装着することはできない。 スカドフスクとヤノフ・ステーションで製造され、そこからゾーン中に分散している。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: ダブテールマウント用スコープ（1p59 Giperonとアイカップ付きPSOスコープを除く）とレッドドットサイト（Aimpoint PROとハイマウント付きAimpoint T1、Barska 11090を除く）全てに対応。アイカップの付いたPSO製スコープの使用はお勧めできません。\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: TGP-A. No グレネードランチャー このモデルで使用可能\n </text>
+	</string>
+	
+	
+	<string id="st_wpn_ak105_sp">
+		<text>AK-105 Specialist (BaS)</text>
+	</string>
+	<string id="st_wpn_ak105_sp_descr">
+		<text>AK-105をベースに改造した結果、（Mercenaryの技術屋たちのおかげで）長い間、彼らのお気に入りの銃となった。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] Leupold Deltapoint Pro Red Dot サイトをNcStar 45マウントに装着済み。\n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: アイカップ付きPSOスコープ、1P59ジペロン、レッドドットサイトを除く全てのドーヴテイル式スコープに対応。\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: TGP-A.\n </text>
+	</string>
+
+
+
+		<string id="st_wpn_akm_isg">
+		<text>Rifle Dynamics RD-47 ISG (BaS)</text>
+	</string>
+	<string id="st_wpn_akm_isg_descr">
+		<text>アメリカのRifle Dynamics社がAKMをベースに開発したカスタムモデル。ゾーン内でも屈指のハイテク兵器である。ISGの特殊部隊で使用される。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 L3 Insight Technologies社製。可視・赤外両帯域のレーザー・デジグネータとIRサーチライトを組み合わせたタクティカルデバイス。\n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: ピカティニー/ウィーバー用スコープ全機種\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー:Rifle Dynamics ISGサウンドサプレッサー\n </text>
+	</string>
+	
+	
+		<string id="st_wpn_ak74u_isg">
+		<text>Rifle Dynamics RD-74U ISG (BaS)</text>
+	</string>
+	<string id="st_wpn_ak74u_isg_descr">
+		<text> アメリカのRifle Dynamics社がAKSUをベースに開発したカスタムモデル。ゾーン内でも屈指のハイテク兵器である。ISGの特殊部隊で使用される。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: ピカティニー/ウィーバー用スコープ全機種\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー:Rifle Dynamics ISGサウンドサプレッサー\n </text>
+	</string>
+
+		<string id="st_wpn_ak74u_m1_isg">
+		<text>Rifle Dynamics RD-74U ISG Tactic (BaS)</text>
+	</string>
+	<string id="st_wpn_ak74u_m1_isg_descr">
+		<text>アメリカのRifle Dynamics社が開発したRD-74U ISGのカスタムモデル。 ゾーン内でも屈指のハイテク兵器である。ISGの特殊部隊で使用される。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 L3 Insight Technologies社製。可視・赤外両帯域のレーザー・デジグネータとIRサーチライトを組み合わせたタクティカルデバイス。 \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: ピカティニー/ウィーバー用スコープ全機種\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー:Rifle Dynamics ISGサウンドサプレッサー\n </text>
+	</string>
+	
+	
+		<string id="st_wpn_ak74_isg">
+		<text>Rifle Dynamics RD-74M ISG (BaS)</text>
+	</string>
+	<string id="st_wpn_ak74_isg_descr">
+		<text>アメリカのライフルダイナミクス社が開発したAK-74Mの発展型。ゾーン内でも屈指のハイテク兵器である。ISGの特殊部隊で使用される。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 L3 Insight Technologies社製。可視・赤外両帯域のレーザー・デジグネータとIRサーチライトを組み合わせたタクティカルデバイス。 \n
+		%c[d_purple] ・%c[ui_gray_2] NcStar社製ユニバーサルマウントにTrijicon RMRレッドドット・サイトを装着。 \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: ピカティニー/ウィーバー用スコープ全機種.\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー:Rifle Dynamics ISGサウンドサプレッサー\n </text>
+	</string>
+	
+	
+		<string id="st_wpn_vintorez_isg">
+		<text>Rifle Dynamics RD-9x39 ISG (BaS)</text>
+	</string>
+	<string id="st_wpn_vintorez_isg_descr">
+		<text>Rifle Dynamics社の創設者、ジム・フラー氏の発案によるもの。言わずと知れた老舗のVSSビントレスをベースに開発されたモデル。オリジナルとの大きな違いは、2発の弾丸を同時発射できる特殊機構の存在と、全長に渡って設置されたピカティニーレールの存在である。ISGの特殊部隊で使用される。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 L3 Insight Technologies社製。可視・赤外両帯域のレーザー・デジグネータとIRサーチライトを組み合わせたタクティカルデバイス。 \n
+		%c[d_purple] ・%c[ui_gray_2] NcStar社製ユニバーサルマウントにTrijicon RMRレッドドットサイトを装着済み. \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ：レッドドットサイトと1P78カシタンを除くピカティニー/ウィーバー/ドーヴテール用スコープ全機種。\n
+		%c[d_purple] ・%c[ui_gray_2] この銃はアンダーバレルのグレネードランチャーが使えるという噂もある\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー:内蔵 \n </text>
+	</string>
+	
+	<string id="st_wpn_sks_tac">
+		<text>SKS タクティカル (BaS)</text>
+	</string>
+	<string id="st_wpn_sks_tac_descr">
+		<text>Molot OP-SKS Carbineは、ゾーンで非常に人気のある7.62x39弾を装填するために設計されています。重量と寸法は、あらゆる年齢と身長の射手に人間工学的に適したものとなっている。タクティカルオプションは、フォアエンドにサイトを取り付けるためのマウントがあり、サイレンスを取り付けることができる点がオリジナルと異なっている。また、このモデルには新しい軽量トリガーが搭載され、発射速度が大幅に向上している。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] SKS SOCOMレール：一体型 \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: ドーヴテールマウント式のすべてのスコープとすべてのレッドドットサイト（ハイマウントのAimpoint PROとAimpoint T1を除く）。\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: Hexagon SKS 7.62x39 サウンドサプレッサー \n</text>
+	</string>
+
+
+		<string id="st_wpn_sks_molot">
+		<text>SKS Molot (BaS)</text>
+	</string>
+	<string id="st_wpn_sks_molot_descr">
+		<text>Molot OP-SKS Carbineは、ゾーンで最も普及している7.62x39弾を装填するために設計されている。重量と寸法、あらゆる年齢と身長の射手に人間工学に基づいたカービン銃。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ:すべてのドーヴテールマウント式スコープに対応\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー:なし \n</text>
+	</string>
+	
+	
+	<string id="st_wpn_ks23">
+		<text>KS-23 (BaS)</text>
+	</string>
+	<string id="st_wpn_ks23_descr">
+		<text>23mm特殊カービン - ソ連の多機能な警察のポンプアクション式散弾銃で、暴動の鎮圧、武力行使、犯罪者への精神的、身体的影響を目的として設計されている。興味深いことに、口径が20mm以上でライフリング銃身を持つKS-23は、小銃としてではなく、小口径砲として分類されるべきものである。\n \n
+		%c[ui_gray_2]アタッチメント: 700mmのロングバレルを510mmのショートバレルに交換することで、重量を軽減することができる。\n</text>
+	</string>
+
+
+	<string id="st_wpn_ks23_kaban">
+		<text>KS-23M ドロズド (BaS)</text>
+	</string>
+	<string id="st_wpn_ks23_kaban_descr">
+		<text>KS-23の短銃身版で、金属製のストックは取り外し可能。23 mm - ソビエトの多機能な警察用ポンプアクション式散弾銃で、暴動鎮圧、武力行使、犯罪者への精神的・身体的影響を目的として設計されている。口径が20mm以上あり、ライフリング銃身を持つため、小銃ではなく、小口径砲に分類されるべきものである。\n \n
+		%c[ui_gray_2]アタッチメント: KS-23Mドロズド用ボアタクティカルキット。\n</text>
+	</string>	
+	
+	
+		<string id="st_tomahawk">
+		<text>Gerber Downrange トマホーク (BaS)</text>
+	</string>
+	<string id="st_tomahawk_descr">
+		<text>タクティカルトマホーク、多機能で、これ一つであらゆることをこなせる。</text>
+	</string>
+	
+	
+		<string id="st_wpn_dvl10_m1">
+		<text>DVL-10 Saboteur (BaS)</text>
+	</string>
+	<string id="st_wpn_dvl10_m1_descr">
+		<text>DVL-10は、独自に開発した軍用亜音速口径の軽量・コンパクトなサイレンサー付きライフルで、抜群の精度と飛距離を必要とする特殊任務や戦闘任務のために開発されたものだ。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ:レッドドットサイトを除くピカティニー/ウィーバー用スコープ全機種。\n 
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: 内蔵済み \n</text>
+	</string>	
+	
+	
+		<string id="st_wpn_dvl10">
+		<text>DVL-10 Urbana (BaS)</text>
+	</string>
+	<string id="st_wpn_dvl10_descr">
+		<text>DVL-10は、軽量かつコンパクトなスナイパーライフルで、独自に開発した軍用亜音速口径と現行口径を使用し、卓越した精度と射程距離が求められる特殊任務や戦闘任務のために開発されたものである。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ:レッドドットサイトを除くピカティニー/ウィーバー用スコープ全機種。\n 
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: なし \n</text>
+	</string>	
+	
+
+		<string id="st_wpn_saiga12s_isg">
+		<text>カラシニコフ USA Saiga-12 ISG (BaS)</text>
+	</string>
+	<string id="st_wpn_saiga12s_isg_descr">
+		<text>ISG研究チームのメンバーをミュータントから守るための狩猟用セミオートマチックライフル「Komrad 12」をベースに、米国カラシニコフ社が開発したモデル。ドーヴテールマウントとピカティニーレールバーの両方を装備し、各種照準器を使用することができる。新型のトリガー機構を搭載し、2発のバーストが可能。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: ピカティニー/ウィーバー用レッドドットスコープ全機種。 \n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: SilencerCo Salvo 12 \n</text>
+	</string>
+
+
+		<string id="st_wpn_ak74_pmc">
+		<text>AK-74 PMC (BaS)</text>
+	</string>
+	<string id="st_wpn_ak74_pmc_descr">
+		<text>1970年に開発されたカラシニコフのアサルトライフルを5.45x39口径用に改良したもの。
+標準仕様との違いは、タクティカルグリップ、ピカティニーレール付きフォアエンド、折りたたみ式伸縮バットストックなどのボディキットを装着することにより、銃のエルゴノミクスが大幅に改善されていること。 ゾーンでは、同様のモデルが通常、Mercenary、ウクライナの特殊部隊、様々なPMCやその他の組織が特殊作戦を実施するために使用されている。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 L3 Insight Technologies社製。可視・赤外両帯域のレーザー・デジグネータとIRサーチライトを組み合わせたタクティカルデバイス。\n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: アイカップ付きPSOスコープ、EOTS-62、1P59ジペロンを除く、ピカティニー/ウィーバーおよびドーヴテールマウント用スコープ。\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: ATG \n</text>
+	</string>
+
+
+		<string id="st_wpn_svds_pmc">
+		<text>SVDS PMC (BaS)</text>
+	</string>
+	<string id="st_wpn_svds_pmc_descr">
+		<text>ドラグノフ・スナイパーライフルの折り畳み式ストックタイプのSVD。ロシアの空挺部隊や特殊部隊のために特別に設計された。ゾーンでは、同様のモデルが通常、Mercenary、ウクライナの特殊部隊、様々なPMCやその他の組織が特殊作戦を実施するために使用されている。\n 
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: ピカティニー/ウィーバー用スコープ（レッドドットサイトを除く）。 \n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: Rotor 43 \n
+		%c[ui_gray_2] キットの内容:\n
+		%c[d_purple] ・%c[ui_gray_2] SVD-S用Rotor 43スレッドアダプター。  \n
+        %c[d_purple] ・%c[ui_gray_2] SAG MK1 SVD用フリーフロートシャーシ。 \n
+        %c[d_purple] ・%c[ui_gray_2] リコイルコントロールに優れたZenit製フォアグリップRK-5（ショート）。\n
+        %c[d_purple] ・%c[ui_gray_2] SVDSの特製ダストカバー。\n
+        %c[d_purple] ・%c[ui_gray_2] Zenit RK3 ピストルグリップ \n
+		%c[d_purple] ・%c[ui_gray_2] Trijicon RMRレッドドットサイトを装着したまま、45度の角度で補助サイトを設置できるNcStar社製ユニバーサルマウント。\n</text>
+	</string>
+
+	<string id="st_wpn_val_tac">
+		<text>AS Val Tactic (BaS)</text>
+	</string>
+	<string id="st_wpn_val_tac_descr">
+		<text>AS-VALは、ロシア軍の偵察部隊をはじめ、MVD（内務省）やFSB（連邦保安局）の特殊部隊で広く使用されている。AS-VALはガス作動式で、一体型サプレッション武器です。レシーバーはスチール鍛造からの削り出しで強度が向上している。光学、暗視、レッドドット・スコープ用のサイドマウント・レールを標準装備しているが、銃剣やグレネードランチャーを装着するための装置はない。一体型のサプレッサーは、メンテナンス、修理、コンパクトな収納のために簡単に取り外すことができるが、安全性と信頼性の問題から、サプレッサーを取り外した状態でライフルを発射するべきではない。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: ドーヴテール式マウント用スコープすべて\n
+		%c[d_purple] ・%c[ui_gray_2] VSS サプレッサー (一体型)\n </text>
+	</string>
+
+	<string id="st_wpn_vintorez_n1">
+		<text>VSS Vintorez (BaS)</text>
+	</string>
+	<string id="st_wpn_vintorez_n1_descr">
+		<text>ソ連陸軍、KGB、MVDのスペツナズ部隊のために設計された、ツニートクマシュ社の新型ライフルである。VSSは、そのステルス性能と9x39mm重弾頭の優れた殺傷能力で、使用者の間で非常に人気がある。VSSの有効射程は300-400mに制限されている。標準的な照準装備はレシーバー上のサイドレールで、通常4倍のPSO-1M2-1スコープを収容する。その他のスコープやナイトビジョンサイトは、適切なマウントに取り付けることができる。バックアップ用アイアンサイトは、タンジェントリアサイトとブレードフロントサイトで構成されており、リアサイトは400mまでの目盛りが付いている。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: All scopes for dovetail mount\n
+		%c[d_purple] ・%c[ui_gray_2] VSS サプレッサー (一体型)\n </text>
+	</string>	
+
+	<string id="st_wpn_ak74u_n1">
+		<text>AKS-74U (BaS)</text>
+	</string>
+	<string id="st_wpn_ak74u_n1_descr">
+		<text>AKS-74Uは主にスペツナズ部隊、空挺歩兵、後方梯団支援部隊、装甲車乗組員など、コンパクトながら比較的強力な個人用自動小銃を必要とする人々の使用を想定していた。AKS-74UはAKS-74よりも狭い場所での機動性が大幅に向上したが、銃口の速度が大幅に低下したため、有効射程距離が減少した。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: すべてのスコープがドーヴテイルマウントに対応（アイカップ付きのPSO製スコープと1P59 Giperonを除く）。アイカップ付きのPSO製スコープをこの武器で使用することは、非常にお勧めできません。\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: PBS-4 サプレッサー\n </text>
+	</string>
+
+	<string id="st_wpn_ak74u_tac">
+		<text>AKS-74U タクティカル (BaS)</text>
+	</string>
+	<string id="st_wpn_ak74u_tac_descr">
+		<text>AKS-74Uは主にスペツナズ部隊、空挺歩兵、後方梯団支援部隊、装甲車乗組員など、コンパクトながら比較的強力な個人用自動小銃を必要とする人々の使用を想定していた。AKS-74UはAKS-74に比べて狭い場所での機動性が大幅に向上したが、銃口速度が大幅に低下したため、有効射程距離が減少した。この特殊なタイプは、45発のRPKマガジンを装備している。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: ドーヴテール式マウントのすべてのスコープ（アイカップ付きPSOスコープおよび1P59 Giperonを除く）およびハイマウントのAimpoint PROおよびAimpoint T1を除くすべてのレッドドット・サイト。\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: PBS-4 サプレッサー\n </text>
+	</string>
+
+	<string id="st_wpn_m4_tac">
+		<text>M4 タクティカル (BaS)</text>
+	</string>
+	<string id="st_wpn_m4_tac_descr">
+		<text>コルトM4A1 - 5.56x45 NATOカートリッジ用のAR-15のプラットフォームをベースにアメリカで設計されたアサルトライフル（カービン銃）。標準的な全長のライフルよりもコンパクトで軽く、かつ同じ弾薬を使用する武器を必要とする車両オペレーターや小隊が使用するために主に開発された。しかし、まもなくUS SOCOM（米国特殊作戦司令部）が全下位部隊にM4A1を採用し、その後、アメリカ陸軍と海兵隊にM4A1が一般導入されることになった。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ:  全てピカティニー/ウィーバー用（ローマウントのレッドドットサイトは除く。Trijicon RMR、Leupold DeltaPoint PRO、Aimpoint T1（ローマウント）、Docter Sight、1P76 Rakurs（ローマウント）。\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: Surefire SOCOM556-MONSTER\n </text>
+	</string>	
+
+	<string id="st_wpn_m4_butcher">
+		<text>M4 ブッチャー (BaS)</text>
+	</string>
+	<string id="st_wpn_m4_butcher_descr">
+		<text>コルトM4A1コマンドー（CQBR）は、5.56x45 NATOカートリッジに対応するAR-15のプラットフォームをベースに、アメリカで設計されたアサルトライフルである。主に車両オペレーターや小隊が使用するために開発され、標準的な全長のライフルよりもコンパクトで軽く、かつ同じ弾薬を使用できる武器が求められた。しかし、まもなくUS SOCOM（米国特殊作戦司令部）が全下位部隊にM4A1を採用し、その後、アメリカ陸軍と海兵隊にM4A1が一般導入されることになった。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ:  全てピカティニー/ウィーバー用（ローマウントのレッドドットサイトは除く。Trijicon RMR、Leupold DeltaPoint PRO、Aimpoint T1（ローマウント）、Docter Sight、1P76 Rakurs（ローマウント）、およびOKP-7。\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: NATO\n </text>
+	</string>
+
+    <string id="st_wpn_mp153_m1">
+        <text>カラビナー (BaS)</text>
+    </string>
+    <string id="st_wpn_mp153_m1_descr">
+		<text>MP-153ショットガンをカスタマイズしたもの。前モデルと同様にセミオート射撃が可能だが、マズルブレーキの効果で反動補正が効いている。また、ピカティニーレールによりリフレックスサイトやホログラフィックサイトが使用でき、サウンドサプレッサーも使用できる。\n
+	    %c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: ストックの位置の関係で、かなり低いマウントでないとサイトが取り付けられません。Barska AC10632、C-More、Docter Sight、Aimpoint T1、Trijicon RMR、Leupold DeltaPoint PRO、OKP-7、1P76 Rakurs. \n \n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: SilencerCo Salvo 12 \n</text>
+    </string>
+
+    <string id="st_wpn_fal_sa58_osw">
+		<text>DS ARMS SA-58 (BaS)</text>
+    </string>
+    <string id="st_wpn_fal_sa58_osw_descr">
+		<text>アメリカのDSA（David Selvaggio Arms）社が製造したSA-58 OSW（Operations Specialist Weapon）は、StG-58と同じSteyr-Daimler-Puch社の生産ラインを使用して作られたFALの合法コピー機である。銃身の長さが異なるほか、アルミ合金製ロアレシーバーや改良型強化ガラス繊維入りナイロン製構造物などが付属する場合もある。民生用モデルはセミオートですが、軍や法執行機関では750発/分のフルオートサイクルを持つセレクトファイアモデルを採用することもある。DSA-58は、メートル法のFALマガジンを使用することができる。\n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: ピカティニー/ウィーバー用スコープ全機種\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: AAC 7.62 SDN-6\n </text>
+    </string>
+	
+    <string id="st_wpn_toz106_m1">
+        <text>TOZ-106 (BaS)</text>
+    </string>
+    <string id="st_wpn_toz106_m1_descr">
+		<text>単身の20g狩猟用ショットガンで、引き込み式ブリーチボルトを採用。コンパクトなサイズから「大統領殺し」の俗称で広く知られている。\n
+	    %c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: ストックの位置の関係で、かなり低いマウントでないとサイトが取り付けられないようになっている。Barska AC10632、C-More、Docter Sight、Aimpoint T1、Trijicon RMR、Leupold DeltaPoint PRO、OKP-7、1P76 Rakurs. \n \n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: なし \n</text>
+    </string>
+
+    <string id="st_wpn_toz106">
+        <text>TOZ-106 (ストック折りたたみ状態) (BaS)</text>
+    </string>
+    <string id="st_wpn_toz106_descr">
+		<text>単身の20g狩猟用ショットガンで、引き込み式ブリーチボルトを採用。コンパクトなサイズから「大統領殺し」の俗称で広く知られている。\n
+	    %c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: なし \n \n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: なし \n</text>
+    </string>
+
+    <string id="st_wpn_fal_aus">
+        <text>DS ARMS SA-58 AUS "オーストリアスタイル" (BaS)</text>
+    </string>
+    <string id="st_wpn_fal_aus_descr">
+		<text>アメリカのDSA（David Selveggio Arms）社が製造したSA-58は、StG-58と同じSteyr-Daimler-Puch社の生産ラインを使用して作られたFALの合法コピーである。バレル長は21インチで、オーストリア製フォアグリップ、アルミ合金製ロアレシーバー、改良型強化ガラス繊維入りナイロン製構造物など、「オーストリア・スタイル」である。軍や警察で使用され、フルオートも可能。DSA-58は、メートル法のFAL用マガジンを使用することができる。\n
+	    %c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: なし \n \n
+		%c[d_purple] ・%c[ui_gray_2] タクティカルキットによるアップグレードが可能s \n \n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: AAC 7.62 SDN-6\n</text>
+    </string>	
+
+		<string id="st_wpn_glock17">
+		<text>Glock 17 (BaS)</text>
+	</string>
+	<string id="st_wpn_glock17_descr">
+		<text>グロック17は、オーストリアのメーカーGlock Ges.m.b.Hが設計・製造するポリマーフレームのショート・リコイル作動式ロックブリーチ・セミオートマチックピストル。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: なし\n 
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: なし \n</text>
+	</string>
+
+		<string id="st_wpn_glock17_m1">
+		<text>Glock 17 Tactical (BaS)</text>
+	</string>
+	<string id="st_wpn_glock17_m1_descr">
+		<text>グロック17は、オーストリアのメーカーであるグロック社が設計・製造するポリマーフレーム・ショートリコイル・ロックブリーチのセミオートマチックピストルで、レッドドットサイト用エイムテックグロックベース、パックメイヤー製ラバーグリップ、ダブルダイヤモンド製ネジ付きバレルを搭載したモデルである。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: Docter サイト, Aimpoint T1 (low mount only), Trijicon RMR, Leupold Deltapoint PRO\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: Osprey 9mm \n</text>
+	</string>	
+
+	<string id="st_wpn_pm_bas_actor">
+		<text>ウニ　マカロフPM(BaS)</text>
+	</string>
+	<string id="st_wpn_pm_bas_actor_descr">
+		<text>拡張バレルとサプレッサーマウントのスレッドを持つ半ば神話的なPM。ブルガリアで製造された限定シリーズと主張する者、DDRと主張する者、さらには手作りのアップグレードと考える者もいる。なぜそれがゾーンにあるのか、それは誰も知る由もない......。\n
+				%c[ui_gray_2]アタッチメント: \n
+   %c[d_purple] ・%c[ui_gray_2] サイレンサー: サイレンサー 9mm\n</text>
+	</string>
+	
+	<string id="st_wpn_pm_bas_custom">
+		<text>PM (custom) (BaS)</text>
+	</string>
+	<string id="st_wpn_pm_bas_custom_descr">
+	<text>Customized version of Makarov PM with longer threaded barrel for use with PMM silencer. This Soviet legacy is the most common pistol in the Zone and is one of the best compact self-defence handguns available. It is small, highly reliable, easy to use and maintain in working order. It also suffers from several drawbacks, including short range, low firing accuracy and poor stopping power, while also losing out to modern pistols in its class in terms of weight and magazine size. In 1951, the Pistol Makarova was selected because of its simplicity, easy manufacturing, accuracy, and reasonable stopping power.\n
+				%c[ui_gray_2]アタッチメント: \n
+   %c[d_purple] ・%c[ui_gray_2] サイレンサー: サイレンサー PMM\n</text>
+	</string>
+		
+	<string id="st_wpn_pm_bas">
+	      <text>PM (BaS)</text>
+	</string>
+	<string id="st_wpn_pm_bas_descr">
+		<text>このソビエトの遺産は、ゾーンで最も一般的なピストルで、コンパクトな護身用ハンドガンの中で最も優れたものの一つだ。小型で信頼性が高く、使いやすく、整備しやすい。しかし、射程距離が短い、命中精度が低い、威力が弱いなどの欠点があり、重量や弾倉の大きさでも現代の同クラスのピストルに負けている。1951年、シンプルで製造が容易、精度が高く、それなりのストッピングパワーがあることから、ピストル・マカロヴァが採用された。</text>
+	</string>
+
+	<string id="st_wpn_pmm_bas">
+		<text>PMM (BaS)</text>
+	</string>
+	<string id="st_wpn_pmm_bas_descr">
+		<text>最も広く知られているマカロフPMMは、オリジナルの銃を設計し直したものである。1990年に技術者グループがマカロフを改良し、主に装弾数を増やした。その結果、ガス圧が25％増加し、銃口が高速化された。PMの8発の弾倉に対し、PMMは12発の弾倉を持つ。\n
+				%c[ui_gray_2]アタッチメント: \n
+   %c[d_purple] ・%c[ui_gray_2] サイレンサー: サイレンサー PMM\n</text>
+	</string>
+
+		<string id="st_wpn_fal_aus_kit_aus_tri">
+		<text>DS Arms SA-58 AUS "スカウト" (BaS)</text>
+	</string>
+	<string id="st_wpn_fal_aus_kit_aus_tri_descr">
+		<text>FAL SA58 AUSをDSアームズ製タクティカルキットで近代化改修したもの。改修後は、中・長距離で非常に有効な武器となる。アメリカのDSA（David Selveggio Arms）社が製造するSA-58は、FALの合法的コピーであり、StG-58と同じSteyr-Daimler-Puchの生産ライン設備で製造されたものである。バレル長は21インチで、オーストリア製フォアグリップ、アルミ合金製ロアレシーバー、改良型強化ガラス繊維入りナイロン製構造物など、「オーストリア・スタイル」である。軍や警察で使用され、フルオートも可能。DSA-58は、メートル法のFAL用マガジンを使用することができる。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: Trijicon Acog and Aimpoint T1 (一体型)\n \n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: AAC 7.62 SDN-6\n</text>
+	</string>
+
+		<string id="st_wpn_fal_aus_kit_sa5x_spec">
+		<text>DS Arms SA-58 AUS "Defender" (BaS)</text>
+	</string>
+	<string id="st_wpn_fal_aus_kit_sa5x_spec_descr">
+		<text>FAL SA58 AUSをDSアームズ製タクティカルキットで近代化改修したもの。改修後は、中・長距離で非常に有効な武器となる。アメリカのDSA（David Selveggio Arms）社が製造するSA-58は、FALの合法的コピーであり、StG-58と同じSteyr-Daimler-Puchの生産ライン設備で製造されたものである。バレル長は21インチで、オーストリア製フォアグリップ、アルミ合金製ロアレシーバー、改良型強化ガラス繊維入りナイロン製構造物など、「オーストリア・スタイル」である。軍や警察で使用され、フルオートも可能。DSA-58は、メートル法のFAL用マガジンを使用することができる。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: ELCAN SpecterDr and Aimpoint T1 (一体型)\n \n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: AAC 7.62 SDN-6\n</text>
+	</string>
+
+		<string id="st_wpn_fal_aus_kit_fal_leup">
+		<text>DS Arms SA-58 AUS "Marauder" (BaS)</text>
+	</string>
+	<string id="st_wpn_fal_aus_kit_fal_leup_descr">
+		<text>FAL SA58 AUSをDSアームズ製タクティカルキットで近代化改修したもの。改修後は、中・長距離で非常に有効な武器となる。アメリカのDSA（David Selveggio Arms）社が製造するSA-58は、FALの合法的コピーであり、StG-58と同じSteyr-Daimler-Puchの生産ライン設備で製造されたものである。バレル長は21インチで、オーストリア製フォアグリップ、アルミ合金製ロアレシーバー、改良型強化ガラス繊維入りナイロン製構造物など、「オーストリア・スタイル」である。軍や警察で使用され、フルオートも可能。DSA-58は、メートル法のFAL用マガジンを使用することができる。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: Leupold Mark 8 and Aimpoint T1 (一体型)\n \n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: AAC 7.62 SDN-6\n</text>
+	</string>
+
+	<string id="st_wpn_ak12">
+		<text>AK-12 2012 (BaS)</text>
+	</string>
+	<string id="st_wpn_ak12_descr">
+		<text>カラシニコフAK-12アサルトライフルは、IZMASH工場の最新作である。旧来のカラシニコフAK-74M、AK-100シリーズに代わる国内用、輸出用のライフルとして開発された。本製品はガス作動式セレクター式ライフルで、ロングストロークガスピストンと回転式ボルトロックによる伝統的な「カラシニコフ式」アクションを採用しています。ボルトグループは著しく軽量化され、反動の低減と自動射撃の精度を向上させています。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] すべてのピカティニー/ウィーバー用スコープ\n
+		%c[d_purple] ・%c[ui_gray_2] GP-25 グレネードランチャー\n
+		%c[d_purple] ・%c[ui_gray_2] 5.45/7.62x39 Hexagon　サウンドサプレッサー\n </text>
+	</string>
+
+	<string id="st_wpn_ak104_alfa">
+    	<text>AK-104 アルファ (BaS)</text>
+  	</string>
+  	<string id="st_wpn_ak104_alfa_descr">
+		<text>7.62mmアサルトライフルAK-104をカスタマイズしたもの。どこかの中東の工作員の仕業のように見えるが...。\n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] ピカティニー/ウィーバー用スコープ全機種\n		
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: 5.45/7.62x39 Hexagon サウンドサプレッサー\n </text>
+  	</string>
+
+	<string id="st_wpn_ak74_n">
+		<text>AK-74 (BaS)</text>
+	</string>
+    <string id="st_wpn_ak74_n_descr">
+		<text>AK-74は、ミハイル・カラシニコフが1970年代初頭に、それまでのAKMの後継として開発した5.45x45mmアサルトライフルである。1974年に発売され、アフガニスタン紛争に参加したソ連軍で最初に使用された。AKMをより小型の5.45x45mm口径に変更し、大型のマズルブレーキを装備している。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] GP-25 グレネードランチャー (改造してから装着可能)\n
+		%c[d_purple] ・%c[ui_gray_2] AK系ライフルや1P59ギペロンに使用するには不便、アイカップ付きPSOスコープ以外のドーヴテール式マウントスコープ。 \n
+		%c[d_purple] ・%c[ui_gray_2] ATG サプレッサー\n </text>
+	</string>
+
+	<string id="st_wpn_svd_m1">
+		<text>SVD (BaS)</text>
+	</string>
+	<string id="st_wpn_svd_m1_descr">
+		<text>ドラグノフSVDは元々、ソ連の基本的な歩兵部隊に所属する射撃手用に設計されたもので、特殊な狙撃チーム用に設計されたものではなかった。狙撃銃としては比較的軽量だが、バランスが良く、セミオート射撃が可能であるため、精度は良いが、特筆するほどではない。有効射程は800m。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ:  レッドドット・サイトを除く、すべてのドーヴテール式マウント・スコープ.\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: KZRZP サプレッサー (改造してから装着可能)\n </text>
+	</string>
+
+	<string id="st_wpn_svds">
+		<text>SVDS (BaS)</text>
+	</string>
+	<string id="st_wpn_svds_descr">
+		<text>（折りたたんだ状態）ドラグノフSVDは元々、ソ連の基本的な歩兵部隊に所属する射撃手用に設計されたもので、特殊な狙撃チーム用に設計されたものではなかった。狙撃銃としては比較的軽量だが、バランスが良く、セミオート射撃が可能であるため、精度は良いが、特筆するほどではない。有効射程は800m。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: レッドドット・サイトを除く、すべてのドーヴテール式マウント・スコープ.\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: TGP-V サプレッサー\n </text>
+	</string>
+
+	<string id="st_wpn_rpg7">
+		<text>RPG-7 (BaS)</text>
+	</string>
+	<string id="st_wpn_rpg7_descr">
+		<text>RPG-7は、従来のRPG-2対戦車砲グレネードランチャーをさらに発展させたものである。RPG-7は、RPG-7Vと呼ばれる最初のバージョンで、1961年にソビエト軍に採用され、現在もロシアと少なくとも50以上の国で使用されています。RPG-7は、これまで作られた中で最も成功した対戦車用グレネードランチャーであると言えます。当初は対装甲兵器として考えられていましたが、後に対歩兵用HE-FRAGや多目的サーモバリック/FAEなど、他の種類の手榴弾が導入され、他の火力支援任務にも採用されるようになりました。RPG-7は肩撃ちの単発式スムースボア無反動発射機で、手榴弾は前面から装填し、銃身後部にはベンチュリーノズルが装備されている。無反動式のため、背面からの爆風は危険である。RPG-7には通常、PGO-7と呼ばれる2.7倍固定倍率の光学照準器が支給される。シンプルで安価ですが、近代戦車に高い脅威を与え、また他の多くの役割を果たすことができる、柔軟な武器です。
+\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: PGO-7V サイト\n </text>
+	</string>
+
+	<string id="st_wpn_ak74m_n">
+		<text>AK-74M (BaS)</text>
+	</string>
+    <string id="st_wpn_ak74m_n_descr">
+		<text>1991年、Izhmash工場はAK-74の改良型であるAK-74Mアサルトライフルの生産を開始した。AK-74Mは、黒色のガラス繊維入りポリアミド製の折りたたみ式合成ストックを採用したほか、マズルデバイスとダストカバーを強化した。また、強化されたマズルデバイスとダストカバーが採用されています。AK-74Mには、光学機器を取り付けるためのサイドレール・ブラケットが装備されている。AK-74Mは、ロシア連邦の新しいサービスライフルとして受け入れられている。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] GP-25 グレネードランチャー (after modification)\n
+		%c[d_purple] ・%c[ui_gray_2] All dovetail mount scopes except of PSO scopes with eye cup due to the inconvenience of using these scopes on AK type of rifles and 1P59 Giperon.\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: TGP-A サプレッサー\n </text>
+	</string>
+
+	<string id="st_wpn_colt1911_n">
+		<text>Colt M1911 (BaS)</text>
+	</string>
+	<string id="st_wpn_colt1911_n_descr">
+		<text>20世紀の主要な武力紛争を見事に乗り越え、自信を持って新世紀を迎えた傑作の自動拳銃の改良型。標準型と改良型の両方で、世界中の何十、何百という兵器メーカーによって生産されている。この銃の唯一の欠点は、弾倉の容量が少ないことであるが、それを補うように強力な弾薬が使用されている。\n </text>
+	</string>
+
+	<string id="st_wpn_sig226">
+		<text>シグ Sauer P226R (BaS)</text>
+	</string>
+	<string id="st_wpn_sig226_descr">
+		<text>シグ Sauer P226Rは、SIG Sauer社製のフルサイズ・サービスタイプのピストルで、海軍特殊部隊の標準的なサービスウェポンとして使用されている。9x19mm Parabellum用で、フレーム下面にピカティニーレールマウントを装備している。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] タクティカルキットによるアップグレードが可能.\n 
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: なし\n </text>
+	</string>
+
+	<string id="st_wpn_sig220_n">
+		<text>シグ Sauer P220 (BaS)</text>
+	</string>
+	<string id="st_wpn_sig220_n_descr">
+		<text>1970年代後半にJ.P.Sauer &Son社によって製造されたSIG-Sauer P220は、しばしば最高の出来栄えの45口径ダブルアクション・ピストルと見なされている。P220はすぐに成功を収め、スイスや日本の自衛隊、ヨーロッパの多くの警察組織で採用された。アメリカでも、最初はユタ州のBrowning Arms社から、1980年代からはニューハンプシャー州のSIGARMS社から販売されるようになった。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] タクティカルキットによるアップグレードが可能.\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: なし\n </text>
+	</string>
+
+	<string id="st_wpn_walther_p99">
+		<text>ワルサー P99 (BaS)</text>
+	</string>
+	<string id="st_wpn_walther_p99_descr">
+		<text>ワルサーP99は、人間工学を重視した設計で、ファイバーグラス製ポリマーフレームの反動式ピストルだ。法執行機関や民間の射撃市場向けに開発され、多くの国の警察部隊で採用されている。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] タクティカルキットによるアップグレードが可能.\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: なし\n </text>
+	</string>
+
+	<string id="st_wpn_sig226_226sig_kit">
+		<text>シグ Sauer P226R カスタム (BaS)</text>
+	</string>
+	<string id="st_wpn_sig226_226sig_kit_descr">
+		<text>シグ Sauer P226Rは、SIG Sauer社製のフルサイズ・サービスタイプのピストルで、海軍特殊部隊の標準的なサービスウェポンとして使用されている。9x19mm Parabellum用で、フレーム下面にピカティニーレールマウントを装備している。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] タクティカルキットを装着した状態。サプレッサー用ネジ付きバレル、エルゴノミックグリッププレート、Trijicon RMRレッドドットサイト（マウントプレート付き）。このアップグレードは元に戻せません。\n 
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: Osprey 9mm\n\n</text>
+	</string>
+
+	<string id="st_wpn_sig220_n_upg220">
+		<text>シグ Sauer P220 カスタム (BaS)</text>
+	</string>
+	<string id="st_wpn_sig220_n_upg220_descr">
+		<text>1970年代後半にJ.P.Sauer &Son社によって製造されたSIG-Sauer P220は、しばしば最高の出来栄えの45口径ダブルアクション・ピストルと見なされている。P220はすぐに成功を収め、スイスや日本の自衛隊、ヨーロッパの多くの警察組織で採用された。アメリカでも、最初はユタ州のBrowning Arms社から、1980年代からはニューハンプシャー州のSIGARMS社から販売されるようになった。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] タクティカルキット内容：サプレッサー、トリチウムサイト、Viridian X5Lレーザーサイトと12発用大容量マガジンを使用するためのねじ込み式バレル。このアップグレードは元に戻せません。\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: BLACK BOX .45\n </text>
+	</string>
+
+	<string id="st_wpn_walther_p99_mod9">
+		<text>ワルサー P99 カスタム (BaS)</text>
+	</string>
+	<string id="st_wpn_walther_p99_mod9_descr">
+		<text>ワルサーP99は、人間工学を重視した設計で、ファイバーグラス製ポリマーフレームの反動式ピストル。法執行機関や民間の射撃市場向けに開発され、多くの国の警察部隊で採用されている。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] タクティカルキット内容：サプレッサー、トリチウムサイト、Viridian X5Lレーザーサイトと併用するためのネジ付きバレル。このアップグレードは元に戻せません。\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: Gemtech\n </text>
+	</string>
+
+	<string id="st_wpn_rpk74_16">
+		<text>RPK-16 5.45x39 軽機関銃 (BaS)</text>
+	</string>
+	<string id="st_wpn_rpk74_16_descr">
+		<text>ロシアの最新軽機関銃RPK-16は、5.45x39mm弾を装弾している。この銃の主な特徴は、すばやく着脱可能な銃身、強化された人間工学、ハンドガード上のウィーバーレール、ダストカバーなどである。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] ピカティニー/ウィーバー用スコープ全機種\n
+		%c[d_purple] ・%c[ui_gray_2] 5.45/7.62x39 Hexagon サウンドサプレッサー\n </text>
+	</string>
+
+	<string id="st_wpn_fn57">
+		<text>FN Five-seveN (BaS)</text>
+	</string>
+	<string id="st_wpn_fn57_descr">
+		<text>Five-seveNは、ディレイ・ブローバック方式のセミオートマチック銃である。FN Herstal社がP90サブマシンガンのサイドアームとして設計したもので、P90とFive-seveNは、5.7x28mm SS190口径という共通の弾薬を使用している。この弾薬と武器の背後にある考え方は、武器の重量、寸法、反動を適度なレベルに保ちつつ、ボディーアーマーで保護されたターゲットに対して優れた貫通力を提供することである。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] レーザー照準モジュールとレッドドットサイトのマウントがセットになっています。\n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: Docter サイト, Aimpoint T1 (low mount), Trijicon RMR, Leupold DeltaPoint PRO.\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: 5.7x28 サプレッサー\n </text>
+	</string>
+
+	<string id="st_wpn_abakan_n">
+		<text>AN-94 アバカン (BaS)</text>
+	</string>
+	<string id="st_wpn_abakan_n_descr">
+		<text>AN-94のAK-74に対する主な改良点は、2発のバーストモードを追加したことです。ニコノフの設計により、発射された弾丸が銃身から離れるまで反動の力を遅らせることができ、独自の1800rpmの2発バースト機能とともに、この銃器のボディアーマー貫通能力を高めることができる。スペツナズのオペレーターや任務遂行者が、比較的遠距離から装甲を破壊するために使用する。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] GP-25 グレネードランチャー (改造してから装着可能)\n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: AK系ライフルや1P59ギペロンに使用するには不便、アイカップ付きのPSOスコープを除くすべてのドーヴテール式マウントスコープが対象。\n </text>
+	</string>
+
+	<string id="st_wpn_ks23_kaban_kab_up">
+		<text>KS-23 ボア (BaS)</text>
+	</string>
+	<string id="st_wpn_ks23_kaban_kab_up_descr">
+		<text>Trijicon RMRリフレックスサイトを装着した短尺モデル。23 mm - ソビエトの多機能警察用ポンプアクション式散弾銃で、暴動の鎮圧、武力行使、犯罪者への精神的・身体的影響を目的として設計されている。口径が20mm以上あり、ライフリング銃身を持つため、小銃ではなく小口径砲に分類されることもある。また、このバージョンには、ゾーン南部のどこかにあるサウンドサプレッサー用のネジがあります。\n </text>
+	</string>
+
+	<string id="st_wpn_ks23_23_up">
+		<text>KS-23ショートバレル (BaS)</text>
+	</string>
+	<string id="st_wpn_ks23_23_up_descr">
+		<text>23mm特殊カービン - ソ連の多機能警察ポンプアクション式散弾銃で、暴動の抑制、武力行使、犯罪者への精神的・身体的影響を目的として設計されている。口径が20mmを超え、ライフリング銃身を持つため、小銃ではなく、小口径砲に分類されることもある。このKS-23は、標準的な700mmの長砲身に代えて510mmの短砲身を装着したものである。.\n </text>
+	</string>
+
+	<string id="st_wpn_remington700">
+		<text>Remington 700 (BaS)</text>
+	</string>
+	<string id="st_wpn_remington700_descr">
+		<text>レミントンモデル700は、レミントン・アームズ社が1962年から製造しているボルトアクション式センターファイア式ライフルの一種。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] Can be upgraded using: MOD X Gen.3シャーシ、Magpul "PRO 700"、Promag Archangelポリマーストック、The Deer Hunter .338 キット\n
+		%c[d_purple] ・%c[ui_gray_2] Daniel Defence Wave QD サプレッサー \n </text>
+	</string>
+	
+		<string id="st_wpn_remington700_archangel">
+		<text>Remington 700 アーケンジェル (BaS)</text>
+	</string>
+	<string id="st_wpn_remington700_archangel_descr">
+		<text>レミントンモデル700は、レミントン・アームズ社が1962年から製造しているボルトアクション式センターファイア式ライフルの一種。このモデルにはプロマグ・アーチエンジェル・ポリマーストックが装着されている。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] アーケンジェル・ポリマーストックが装着済み\n
+		%c[d_purple] ・%c[ui_gray_2] Daniel Defence Wave QD サプレッサー \n </text>
+	</string>
+
+		<string id="st_wpn_remington700_magpul_pro">
+		<text>Remington 700 Magpul PRO (BaS)</text>
+	</string>
+	<string id="st_wpn_remington700_magpul_pro_descr">
+		<text>レミントンモデル700は、レミントン・アームズ社が1962年から製造しているボルトアクション式センターファイア式ライフルの一種。本モデルは、Magpul PRO 700シャーシにTrijicon RMR レッドドットサイトを追加装着している。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2]  Magpul "PRO 700" シャーシが装着済み\n
+		%c[d_purple] ・%c[ui_gray_2] Daniel Defence Wave QD サプレッサー \n </text>
+	</string>
+
+		<string id="st_wpn_remington700_mod_x_gen3">
+		<text>Remington 700 モジュラーライフルシステム (BaS)</text>
+	</string>
+	<string id="st_wpn_remington700_mod_x_gen3_descr">
+		<text>レミントンモデル700は、レミントン・アームズ社が1962年から製造しているボルトアクション式センターファイア式ライフルの一種。本モデルはMOD X GEN III Modular Rifle Systemを搭載し、さらにLeupold DeltaPoint PRO レッドドットサイトを装着している。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] MOD X Gen.3 シャーシが装着済み\n
+		%c[d_purple] ・%c[ui_gray_2] Daniel Defence Wave QD サプレッサー \n </text>
+	</string>
+
+		<string id="st_wpn_sr1m">
+		<text>9x21 Serdyukov SR1MP ギュルザ (BaS)</text>
+	</string>
+	<string id="st_wpn_sr1m_descr">
+		<text>Serdyukovのセミオートマチックピストル - SPS、ギュルザ（viper・GRAU Index 6P53）とも呼ばれる。P・セルジューコフとI・ベリャーエフがロシア連邦の特殊部隊用に設計したピストルで、9x21mmカートリッジ用。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] タクティカルキットによるアップグレードが可能.\n 
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: なし \n</text>
+	</string>
+	
+			<string id="st_wpn_sr1m_sr1upgr1">
+		<text>9x21 Serdyukov SR1MP ギュルザ (BaS)</text>
+	</string>
+	<string id="st_wpn_sr1m_sr1upgr1_descr">
+		<text>Serdyukovのセミオートマチックピストル - SPS、ギュルザ（viper・GRAU Index 6P53）とも呼ばれる。P・セルジューコフとI・ベリャーエフがロシア連邦の特殊部隊用に設計したピストルで、9x21mmカートリッジ用。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] このピストルはタクティカルキットによって改造済み\n 
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: SR1MP サイレンサー 9x21 \n</text>
+	</string>
+
+	<string id="st_wpn_k98_mod">
+		<text>モーゼル98kフォレスター (BaS)</text>
+	</string>
+	<string id="st_wpn_k98_mod_descr">
+		<text>第二次世界大戦中のドイツの狙撃銃マウザー・カラビナー98kを改造したもの。木製ストックはより有機的なポリマー製に変更された。このライフルには日本のマーチ社製の優れたスナイパースコープが装備されている。ゾーンでは、主に長距離・超長距離でのミュータント狩りにライフル銃が使用される。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: March (一体型)\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: K98 Forester. (サイレンサーを装着するためにバレルアダプターが必須) \n </text>
+	</string>
+
+	<string id="st_wpn_k98_mod_silen98">
+		<text>モーゼル98kフォレスター（サイレンサーアダプター付き） (BaS)</text>
+	</string>
+	<string id="st_wpn_k98_mod_silen98_descr">
+		<text>第二次世界大戦中のドイツの狙撃銃マウザー・カラビナー98kを改造したもの。木製ストックはより有機的なポリマー製に変更された。このライフルには日本のマーチ社製の優れたスナイパースコープが装備されている。ゾーンでは、主に長距離・超長距離でのミュータント狩りにライフル銃が使用される。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: March (一体型)\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: K98 Forester.\n </text>
+	</string>
+
+	<string id="st_wpn_ks23_ecolog">
+		<text>KS-23 エコログ (BaS)</text>
+	</string>
+	<string id="st_wpn_ks23_ecolog_descr">
+		<text> ゾーン内の科学者のニーズに合わせて開発されたKS-23の改良版。\n </text>
+	</string>
+
+	<string id="st_wpn_ak105">
+		<text>AK-105 (BaS)</text>
+	</string>
+	<string id="st_wpn_ak105_descr">
+		<text>AK-105は、AK-74Mライフルの5.45x39mmカービン版である。AK-105は、ロシア軍で使用されているAKS-74Uカービンを補完している。CQC（近接戦闘）に最適で、遠距離戦闘は想定していない。ライフルのレーバーはプレス加工されたスチール製、マガジンは強化ファイバーグラス製、ストックは中空プラスチック製で、軽量化と耐久性を高め、その中にフィールドキットを収納することができる。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: ドーヴテールマウント用スコープ全機種（ただし、PSOのアイカップ付きスコープは、AKタイプのライフルや1P59ギペロンで使用する際に不便なため、アイカップ付きスコープは推奨されない）\n
+		%c[d_purple] ・%c[ui_gray_2] タクティカルキットによるアップグレードが可能.\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: TGP-A サプレッサー\n </text>
+	</string>
+
+	<string id="st_wpn_ak105_swamp">
+		<text>AK-105 スワンプシング (BaS)</text>
+	</string>
+	<string id="st_wpn_ak105_swamp_descr">
+		<text>AK-105は、AK-74Mライフルの5.45x39mmカービン版である。AK-105はロシア軍でAKS-74Uカービンを補う形で運用されている。AK-105の非常に珍しいバリエーション。主にClearskyの退役軍人の間で見られる。いくつかの照準器があるため、近距離から中長距離までの戦闘に適している。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] 「Swamp Thing」タクティカルキットを使ってアップグレードした武器\n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: Elcan SpecterDr, Trijicon RMR and AN/PEQ-15 LAM (一体型)\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: 5.45/7.62x39 Hexagon サウンドサプレッサー\n </text>
+	</string>
+
+		<string id="st_wpn_remington700_lapua700">
+		<text>M700 The Deer Hunter (BaS)</text>
+	</string>
+	<string id="st_wpn_remington700_lapua700_descr">
+		<text>The Deer Hunterは、レミントンモデル700を改良し、超長距離での精密な射撃ができるようにしたものです。 \n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] The Deer Hunter .338キットを使用して武器をアップグレードしました。\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: M700 .338LM \n </text>
+	</string>
+
+		<string id="st_wpn_pl15">
+		<text>レベデフ PL-15 Pistol (BaS)</text>
+	</string>
+	<string id="st_wpn_pl15_descr">
+		<text>ロシアのセルフローディングピストルPL-15-01は、9x19mmパラベラムのチャンバーを持つ。このピストルと類似品の違いは、人間工学とバランスにあり、それは人間のバイオメカニクスに関する現在の考え方に対応している。また、人間工学に基づいた設計により、反動が少なく、発射後の転がりも快適で、すばやく狙いを戻すことができる。また、人間工学に基づいた傾斜角度の大きいハンドルは、オフハンドでの射撃も容易にする。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] "タクティクスキット"を使って武器のアップグレードが可能です。\n 
+		%c[d_purple] ・%c[ui_gray_2] PL-15用LAMの搭載が可能\n 
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: PL-15 サウンドサプレッサー \n</text>
+	</string>
+
+		<string id="st_wpn_pl15_pl15_scolaz">
+		<text>レベデフ PL-15 "Tactic" (BaS)</text>
+	</string>
+	<string id="st_wpn_pl15_pl15_scolaz_descr">
+		<text>ロシアのセルフローディングピストルPL-15-01は、9x19mmパラベラムのチャンバーを持つ。このピストルと類似品の違いは、人間工学とバランスにあり、それは人間のバイオメカニクスに関する現在の考え方に対応している。また、人間工学に基づいた設計により、反動が少なく、発射後の転がりも快適で、すばやく狙いを戻すことができる。また、人間工学に基づいた傾斜角度の大きいハンドルは、オフハンドでの射撃も容易にする。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] 「Tactic」キットを使用してアップグレードした武器です。（LAM、Aimpoint T1スコープ）。\n 
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: PL-15 サウンドサプレッサー\n</text>
+	</string>
+
+	<string id="st_wpn_ak105_shakal">
+		<text>AK-105 シャカール (BaS)</text>
+	</string>
+	<string id="st_wpn_ak105_shakal_descr">
+		<text>AK-105は、AK-74Mライフルの5.45x39mmカービン版である。AK-105はロシア軍でAKS-74Uカービンを補う形で運用されている。AK-105の非常に珍しいバリエーション。主に任務群のベテランの間で見受けられる。いくつかの照準器があるため、近距離と中長距離での戦闘に最適である。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] この銃は「シャカール」キットによって改造済み\n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: Trijicon Acog, Trijicon RMR and AN/PEQ-15 LAM (一体型)\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: 5.45/7.62x39 Hexagon サウンドサプレッサー\n </text>
+	</string>
+
+	<string id="st_wpn_sig220_n_u2p2g0r">
+		<text>シグ Sauer P220 カスタムナイン (BaS)</text>
+	</string>
+	<string id="st_wpn_sig220_n_u2p2g0r_descr">
+		<text>1970年代後半にJ.P.ザウアー＆サン社によって製造されたSIG-Sauer P220は、しばしば最高のアウトオブザボックス.45口径ダブルアクション・ピストルと見なされています。P220はすぐに成功を収め、スイスや日本の自衛隊、多くのヨーロッパの警察組織で採用されました。この拳銃はアメリカでも、最初はユタ州のブローニング・アームズ社、1980年代からはニューハンプシャー州のシグアームズ社を通じて販売されるようになった。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] タクティカルキットの内容：標準的なBlack Box .45サプレッサー、トリチウムサイト、Viridian X5Lレーザーサイト、大容量19連マガジンを使用するためのネジ付き9x19バレルです。このアップグレードは元に戻せません。\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: BLACK BOX .45\n </text>
+	</string>
+
+	<string id="st_wpn_aps_bas">
+		<text>APS (BaS)</text>
+	</string>
+	<string id="st_wpn_aps_bas_descr">
+		<text>ステフキンAPSは、設計者イゴール・ステフキンの名を冠したロシアの選択射撃式マシンピストルである。ステフキンは当初7.62x25mmトカレフを装填していたが、ソ連軍の拳銃の新弾薬としてマカロフの9x18mmを使用することが明らかになったため、この口径に変更された。1951年、マカロフとステッキンは、老朽化したTT-33に代わってソ連軍の軍需品に導入された。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] タクティカルキットによるアップグレードが可能.\n 
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: なし \n</text>
+	</string>
+
+	<string id="st_wpn_aps_bas_apsabigo">
+		<text>APS（改造品）(BaS)</text>
+	</string>
+	<string id="st_wpn_aps_bas_apsabigo_descr">
+		<text>ステフキンAPSは、設計者イゴール・ステフキンの名を冠したロシアの選択射撃式マシンピストルである。ステフキンは当初7.62x25mmトカレフを装填していたが、ソ連軍の拳銃の新弾薬としてマカロフの9x18mmを使用することが明らかになったため、この口径に変更された。1951年、マカロフとステッキンは、老朽化したTT-33に代わってソ連軍の軍需品に導入された。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] タクティカルキットを装着：APBサウンドサプレッサー用スレッド付きバレル、トリチウムサイト、人間工学に基づいたピストルグリップラバー。\n 
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: APB \n</text>
+	</string>
+
+	<string id="st_wpn_mp133_bas">
+		<text>MP-133 (BaS)</text>
+	</string>
+	<string id="st_wpn_mp133_bas_descr">
+		<text>MP-133は、イジェフスク機械工場の製品である。このショットガンは、初期のIZh-81ポンプアクション・ショットガンを進化させたもので、民間およびセキュリティ市場を対象としている。MP-133にはチューブラーマガジン、MP-133Kには着脱式ボックスマガジンが付属しており、銃身の長さやスタイル、木製またはポリマー製の家具、固定またはサイドフォールディングポリマーストック、ピストルグリップのみ、など様々なタイプがある。MP-133ショットガンは、デュアルアクションバーを持つスライド式フォアエンドと伝統的なポンプアクションを使用している。ロックは、ボルトにインストールされている傾斜ロックピースによって達成され、バッテリでバレルエクステンションのノッチを係合させる。給弾は4発入りの筒型アンダーバレル・マガジンで行うが、マガジンエクステンションチューブを装着することで容量を増やすことができる。\n </text>
+	</string>
+
+	<string id="st_wpn_mp153_bas">
+		<text>MP-153 (BaS)</text>
+	</string>
+	<string id="st_wpn_mp153_bas_descr">
+		<text>MP-153セルフローディングショットガンは、イジェフスク機械工場が設計・製造した最初のセミオートマチックショットガンである。ポンプアクション式のMP-133ショットガンとともに開発され、多くの部品やアセンブリを共有している。MP-153は、ロシア発祥のセミオートマチック散弾銃の中で最も人気のあるものの1つで、ロシアでは各種狩猟に広く使用されている。また、輸出用にも販売されており、米国ではレミントン「スパルタン」SPR-453オートローダーとして知られている。MP-153散弾銃は頑丈だがやや重い構造と信頼性で知られている。\n </text>
+	</string>
+
+	<string id="st_wpn_gauss_bas">
+		<text>ガウスライフル (BaS)</text>
+	</string>
+	<string id="st_wpn_gauss_bas_descr">
+		<text>ゾーンの何者かが作った、アーティファクトを利用した超精密実験兵器。火薬の代わりに磁石を使用し、弾丸を驚異的な速度で加速させるため、その銃声はほとんど聞こえない。ガウスライフルの火力は凄まじいが、反動は微々たるものである。その精度と威力は他の小銃を凌駕する。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] エンハンスドコンピューターEOTS-62スコープ (一体型)</text>
+	</string>
+
+	<string id="st_wpn_umirotvoritel_bas">
+		<text>正体不明の武器 (BaS)</text>
+	</string>
+	<string id="st_wpn_umirotvoritel_bas_descr">
+		<text>発射機構が確立されていない未知の武器。トリガーを握っても何もしない、欠陥品のようだ。非常に重く、ハイテクであることは間違いない。注目すべきは、発火による弾丸の発射ではないようだ。おそらく、電磁気的な力で弾丸を発射しているのだろう。どんな破壊力を秘めているのだろうか。</text>
+	</string>
+
+	<string id="st_wpn_pb_bas">
+		<text>PB (BaS)</text>
+	</string>
+	<string id="st_wpn_pb_bas_custom">
+		<text>PB (近代改修版) (BaS)</text>
+	</string>
+	<string id="st_wpn_pb_bas_descr">
+		<text>PB（Pistolet BesshumnyjまたはSilent Pistol）は、ソ連軍では6P9と呼ばれ、1967年にソ連軍のスペツナズ部隊およびKGB諜報員用に開発された。マカロフPMピストルを改造し、2つのパーツが一体となったユニークなサプレッサーが特徴である。PB（GRAUインデックス6P9）は、マカロフPMをベースにしたソ連製のサイレンサー付きピストルで、1967年に制式化された。KGBや陸軍の偵察隊が使用することを想定していた。サプレッサーの前部は取り外し可能で、携帯に便利なようにピストルを2つに分解することができる。PBの一体型サプレッサーは、弾速を亜音速以下にまで低下させる効果もある。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] 6P9 サプレッサー (一体型)</text>
+	</string>
+
+	<string id="st_wpn_akm_alfa">
+    	<text>CAA AK-Alfa (BaS)</text>
+  	</string>
+  	<string id="st_wpn_akm_alfa_descr">
+		<text> イスラエルでCommand Arms & Acessories（CAA）が開発したAK-Alfaアサルトライフルは、2016年に初めて一般公開された。この武器は「Kalashnikov USA」と「Kalashnikov Israel」という2つのブランドで販売されている。どうやらこの武器は、ISGのファクションでゾーンに入ったようです。AK-Alphaは、AKライフルの長所である高い信頼性とメンテナンス性を維持しながら、人間工学的な改良を試みたアサルトライフルである。AK-Alphaのベースとなったのは、ロシア製カービン「サイガ」のレシーバー、ガスチューブ付きバレル、ボルトグループ、トリガーの主要構成部品である。\n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: All for picatinny/weaver except of scopes with very low mounting: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (low mount), Docter Sight.\n		
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: 5.45/7.62x39 Hexagon サウンドサプレッサー\n </text>
+  	</string>
+
+	<string id="st_wpn_sr2_veresk">
+    	<text>SR-2M ヴェレスク (BaS)</text>
+  	</string>
+  	<string id="st_wpn_sr2_veresk_descr">
+		<text> SR.2 "ヴェレスク"は、ロシアのサブマシンガン（TsNIITOCHMASH社製）で、個々のボディアーマーを使って敵の人員を接近戦（200mまでの距離）で交戦させるために設計されています。SR-2の最大の特長は、高い火力と射撃精度の高さ、近距離での弾丸の破壊力である。\n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: KP SR-2 リフレックスサイト\n	
+        %c[d_purple] ・%c[ui_gray_2] タクティカルキットによるアップグレードが可能.\n 		
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: GZV-SR2\n </text>
+  	</string>
+
+	<string id="st_wpn_sr2_veresk_sr2_upkit">
+    	<text>SR-2M Veresk (改造済み)(BaS)</text>
+  	</string>
+  	<string id="st_wpn_sr2_veresk_sr2_upkit_descr">
+		<text> SR.2 "ヴェレスク"は、ロシアのサブマシンガン（TsNIITOCHMASH社製）で、個々のボディアーマーを使って敵の人員を接近戦（200mまでの距離）で交戦させるために設計されています。SR-2の最大の特長は、高い火力と射撃精度の高さ、近距離での弾丸の破壊力である。\n
+		%c[ui_gray_2]アタッチメント: \n		
+        %c[d_purple] ・%c[ui_gray_2] タクティカルアップグレードキットでアップグレードされた武器。(変更不可能なアップグレード） \n	
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: GZV-SR2\n </text>
+  	</string>	
+
+	<string id="st_wpn_sr2_m1">
+    	<text>SR-2M ヴェレスク (近代化改修版)(BaS)</text>
+  	</string>
+  	<string id="st_wpn_sr2_m1_descr">
+		<text> SR.2 "Veresk "は、ロシアのサブマシンガン（TsNIITOCHMASH社製）で、個々のボディアーマーを使って敵の人員を接近戦（200mまでの距離）で交戦させるために設計されています。SR-2の最大の特長は、高い火力と射撃精度の高さ、近距離での弾丸の破壊力である。\n
+		%c[ui_gray_2]アタッチメント: \n		
+        %c[d_purple] ・%c[ui_gray_2] ピカティニー/ウィーバー用レッドドットサイト全種類と、倍率の高いスコープ2種：PN-23とLeupold Mark 8 CQBSS 1.1-8x24 。\n	
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: GZV-SR2\n </text>
+  	</string>
+
+	<string id="st_wpn_aug_a1_bas">
+		<text>ステヤー AUG A1 (BaS)</text>
+	</string>
+	<string id="st_wpn_aug_a1_bas_descr">
+		<text>標準的なライフル構成のSteyr AUG A1(ミリタリーグリーンカラー)。AUGは、1960年代にSteyr Mannlicher GmbH &amp; Co KG（旧Steyr-Daimler-Puch）が設計したオーストリアのブルパップ式5.56mmアサルトライフルである。AUG（Armee-Universal-Gewehr "universal army rifle"）は、オーストリア陸軍が7.62mm自動小銃StG 58（ライセンス生産されたFN FAL）に代わって1978年にStG 77（Sturmgewehr77）として採用した。1978年から生産され、オーストリア連邦軍や各国の警察部隊の標準的な小銃として使用されている。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] 1.5x scope (一体型).\n 
+		%c[d_purple] ・%c[ui_gray_2] サプレッサー: Steyr UMS \n</text>
+	</string>
+	
+	<string id="st_wpn_aug_a3_bas">
+		<text>ステヤー AUG A3 (BaS)</text>
+	</string>
+	<string id="st_wpn_aug_a3_bas_descr">
+		<text>Steyr AUG (Armee Universal Gewehr - Army Universal Rifle) は、オーストリアの5.56x45mm NATOブルパップアサルトライフルで、1960年代にSteyr-Daimler-Puchによって設計、現在はSteyr Mannlicher GmbH & Co KGによって製造されています。上部に照準器、下部にグレネードランチャーや縦型フロントハンドル、側面にレーザーポインターなどの必要な追加装備品を取り付けることができます。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: とても低いローマウントのスコープを除き、すべてピカティニー/ウィーバー用です。Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (ローマウント), Docter サイト\n 
+		%c[d_purple] ・%c[ui_gray_2] サプレッサー: Steyr UMS \n</text>
+	</string>	
+
+	<string id="st_wpn_aug_a1_custom_bas">
+		<text>ステヤー AUG A1 CQB (BaS)</text>
+	</string>
+	<string id="st_wpn_aug_a1_custom_bas_descr">
+		<text>標準的なライフル構成のSteyr AUG A1(ミリタリーグリーンカラー)。AUGは、1960年代にSteyr Mannlicher GmbH&Co KG（旧Steyr-Daimler-Puch）が設計したオーストリアのブルパップ式5.56mmアサルトライフルである。AUG（Armee-Universal-Gewehr "universal army rifle"）は、オーストリア陸軍が7.62mm自動小銃StG 58（ライセンス生産されたFN FAL）に代わって1978年にStG 77（Sturmgewehr 77）として採用したものである。1978年から生産され、オーストリア連邦警察や各国の警察部隊の標準的な小銃として使用されている。CQB - オリジナルに比べ軽量化され、発射速度が向上している。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] 1.5x scope (一体型).\n 
+		%c[d_purple] ・%c[ui_gray_2] サプレッサー: Steyr UMS \n</text>
+	</string>
+
+	<string id="st_wpn_aug_a3_custom_bas">
+		<text>ステヤー AUG A3 Commando (BaS)</text>
+	</string>
+	<string id="st_wpn_aug_a3_custom_bas_descr">
+		<text>Steyr AUG (Armee Universal Gewehr - Army Universal Rifle) は、オーストリアの5.56x45mm NATOブルパップアサルトライフルで、1960年代にSteyr-Daimler-Puchによって設計、現在はSteyr Mannlicher GmbH & Co KGによって製造されています。上部に照準器、下部にグレネードランチャーや縦型フロントハンドル、側面にレーザーポインターなどの必要な追加装備品を取り付けることができます。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] Trijicon Acog (x4) とPEQ LA5 LAMを装着。\n 
+		%c[d_purple] ・%c[ui_gray_2] サプレッサー:  Steyr UMS \n</text>
+	</string>
+
+	<string id="st_wpn_ak5c_bas">
+		<text>AK 5C (BaS)</text>
+	</string>
+	<string id="st_wpn_ak5c_bas_descr">
+		<text>Ak 5またはAutomatkarbin 5（「オートマチック・カービン5」、「オートマチック・カービン」はスウェーデン語でアサルトライフルの意）は、FN FNCアサルトライフルのスウェーデン版で、主に部分的に亜寒帯気候であるスウェーデンへの適応を目的に一定の改良が施されています。Ak 5はスウェーデン軍で使用されている小銃である。ボフォースAk5Cは、初代Ak5を近代化したもので、モジュール化された武器の流れに沿ったものである。最も大きな改良点のひとつは、MIL-STD-1913レイルシステムで、これにテレスコピックサイトやイメージインテンシファイアなど、さまざまな光学機器、ライト、照準器を装着することができます。ダブルガスポジション、アイアンサイト、ボルトキャッチなど、初代Ak 5ライフル・ファミリーにあったものは捨て去られた。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] タクティカルキットによるアップグレードが可能.\n 
+		%c[d_purple] ・%c[ui_gray_2] スコープ: 全てのピカティニー/ウィーバー用スコープ。\n 
+		%c[d_purple] ・%c[ui_gray_2] サプレッサー:  NATO \n</text>
+	</string>
+	
+	<string id="st_wpn_ak5c_bas_5c_tik">
+		<text>AK 5C ISG スペシャル (BaS)</text>
+	</string>
+	<string id="st_wpn_ak5c_bas_5c_tik_descr">
+		<text>Ak 5またはAutomatkarbin 5（「オートマチック・カービン5」、「オートマチック・カービン」はスウェーデン語でアサルトライフルの意）は、FN FNCアサルトライフルのスウェーデン版で、主に部分的に亜寒帯気候であるスウェーデンへの適応を目的に一定の改良が施されています。Ak 5はスウェーデン軍で使用されている小銃である。ボフォースAk5Cは、初代Ak5を近代化したもので、モジュール化された武器の流れに沿ったものである。最も大きな改良点のひとつは、MIL-STD-1913レイルシステムで、これにテレスコピックサイトやイメージインテンシファイアなど、さまざまな光学機器、ライト、照準器を装着することができます。ダブルガスポジション、アイアンサイト、ボルトキャッチなど、初代Ak 5ライフル・ファミリーにあったものは捨て去られた。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] この武器はタクティカルキットでアップグレードされました。キットのパーツ：ロープロファイルフォアグリップ、LA5 LAM、Leupold LCO+D'evoスコープ、ショートバレル。(不可逆的アップグレード)\n 
+		%c[d_purple] ・%c[ui_gray_2] スコープ: Leupold (LCO), Leupold D'evo x6 and LA5 Laser Aim Module.\n
+		%c[d_purple] ・%c[ui_gray_2] サプレッサー: Rifle Dynamics ISGサウンドサプレッサー \n		</text>
+	</string>	
+
+	<string id="st_wpn_ak5c_isg">
+		<text>AK 5C ISG (BaS)</text>
+	</string>
+	<string id="st_wpn_ak5c_isg_descr">
+		<text>スウェーデンのAK5CをISGが改造したもの。ゾーンでは希少な武器。一部のISG分隊でまれに使用される。Ak 5またはAutomatkarbin 5（「オートマチック・カービン5」、「オートマチック・カービン」はスウェーデン語でアサルトライフルのこと）は、FN FNCアサルトライフルのスウェーデン版で、主に亜寒帯気候に適応するためにいくつかの改良が加えられています。Ak 5はスウェーデン軍で使用されている小銃である。ボフォースAk5Cは、初代Ak5を近代化したもので、モジュール化された武器の流れに沿ったものである。最も大きな改良点のひとつは、MIL-STD-1913レイルシステムで、これにテレスコピックサイトやイメージインテンシファイアなど、さまざまな光学機器、ライト、照準器を取り付けることができる。ダブルガスポジション、アイアンサイト、ボルトキャッチなど、初代Ak 5ライフル・ファミリーにあったものは捨て去られた。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ:全てのピカティニー/ウィーバー用スコープ。 LA5 LAM (装着済み).\n 
+		%c[d_purple] ・%c[ui_gray_2] サプレッサー: Rifle Dynamics ISGサウンドサプレッサー \n</text>
+	</string>
+
+	<string id="st_wpn_m4a1_siber">
+		<text>M4A1 RAS (BaS)</text>
+	</string>
+	<string id="st_wpn_m4a1_siber_descr">
+		<text>M4カービンは、アルマライト社製のAR-15をベースに、M16のカービン型から派生した銃器である。M4は、M16アサルトライフルの80%の部品を共有し、より短く、より軽いバージョンである。M4は5.56x45mm NATO弾を発射し、ガス作動、空冷、マガジン供給、4ポジション伸縮ストックを持つ選択発射式銃器である。多くのカービンがそうであるように、M4はハンディで、全長のあるライフルよりも持ち運びに便利である。米国特殊作戦司令部（USSOCOM）に採用され、米国陸軍特殊部隊や海軍特殊部隊の武器として好んで使用されています。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ:全てピカティニー/ウィーバー用（ローマウントのレッドドットサイトは除く。Trijicon RMR、Leupold DeltaPoint PRO、Aimpoint T1（ローマウント）、Docter サイト、1P76 Rakurs（ローマウント）、およびOKP-7。\n
+		%c[d_purple] ・%c[ui_gray_2] サプレッサー: ADVANCED ARMAMENT (AAC) M4-2000 \n
+		%c[d_purple] ・%c[ui_gray_2] M203 グレネードランチャー\n</text>
+	</string>
+
+	<string id="st_wpn_akm_bas">
+		<text>AKM (BaS)</text>
+	</string>
+	<string id="st_wpn_akm_bas_descr">
+		<text>AKMはミハイル・カラシニコフが設計した7.62x39mmアサルトライフルである。AK-47の改良型で、1950年代に開発された。1959年に赤軍に導入されたAKMは、AKシリーズの中で最も普及している銃器であり、旧ワルシャワ条約機構諸国やアフリカ、アジアの多くの同盟国で広く使用されている。AKMの生産は、トゥーラ工廠とイジェフスク機械工場で行われた。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: なし\n
+		%c[d_purple] ・%c[ui_gray_2] サプレッサー: PBS-1\n
+		%c[d_purple] ・%c[ui_gray_2] GP-25 グレネードランチャー (先に改造が必要)\n</text>
+	</string>
+
+	<string id="st_wpn_akms_bas">
+		<text>AKMS (BaS)</text>
+	</string>
+	<string id="st_wpn_akms_bas_descr">
+		<text>AKMのバリエーションで、固定式の木製ストックに代えて、アンダーフォールディング式の金属製ショルダーストックを装備している。AKMSの金属製ストックは、従来のAK-47のフォールディングストックとはやや異なり、ロック機構が変更されており、AKMSのストックの支持アームは片方だけでなく、両方がロックされるようになっています。\n \n
+		%c[ui_gray_2]アタッチメント: \n		
+		%c[d_purple] ・%c[ui_gray_2] スコープ: なし\n
+		%c[d_purple] ・%c[ui_gray_2] PBS-1 サプレッサー\n
+		%c[d_purple] ・%c[ui_gray_2] GP-25 グレネードランチャー (先に改造が必要)\n</text>
+	</string>
+
+	<string id="st_wpn_sks_b">
+		<text>SKS (BaS)</text>
+	</string>
+	<string id="st_wpn_sks_b_descr">
+		<text>SKSは、7.62x39mm弾を装填する最初の武器のひとつである。1950年代前半にソ連の第一線でAK-47に取って代わられたが、数十年にわたり第二線で活躍し、現在でも儀礼用の武器として使用されている。\n \n
+		%c[ui_gray_2]アタッチメント: \n%c[d_purple]・%c[ui_gray_2] なし\n</text>
+	</string>
+
+	<string id="st_wpn_l85_m1">
+		<text>L85 A2 (BaS)</text>
+	</string>
+	<string id="st_wpn_l85_m1_descr">
+		<text>SA80 IWアサルトライフルとSA80 LSW軽機関銃の2つの武器を含むSA80システムの開発は、1960年代後半、イギリス軍が老朽化した7.62x51mm L1 SLRイギリス製FN FALに代わる新しいライフルの開発を決定したことから始まりました。イギリス軍の標準的な個人用武器であるL85（オリジナルのA1バージョン）は、多くの性能上の問題を抱えていた。2000年代前半にヘッケラー＆コッホ社が大幅なアップグレードを行った結果、A2型が誕生し、2020年現在も現役で活躍しています。L85A2は、さまざまな作戦シナリオに対応するため、さまざまな気候の下で極めて高い信頼性を発揮します。現在のL85A2ライフルは、特に標準装備のSUSATテレスコープサイトを使用した場合の信頼性と精度が高いと認識されています。\n \n
+		%c[ui_gray_2]アタッチメント: \n		
+		%c[d_purple] ・%c[ui_gray_2] スコープ: Susat with L85 native mount\n
+		%c[d_purple] ・%c[ui_gray_2] サプレッサー: ADVANCED ARMAMENT (AAC) M4-2000\n
+		%c[d_purple] ・%c[ui_gray_2] グレネードランチャー: なし\n</text>
+	</string>
+	
+	<string id="st_wpn_l85_m2">
+		<text>L85 A2 Modernized (BaS)</text>
+	</string>
+	<string id="st_wpn_l85_m2_descr">
+		<text>SA80 IWアサルトライフルとSA80 LSW軽機関銃の2つの武器を含むSA80システムの開発は、1960年代後半、イギリス軍が老朽化した7.62x51mm L1 SLRイギリス製FN FALに代わる新しいライフルの開発を決定したことから始まりました。イギリス軍の標準的な個人用武器であるL85（オリジナルのA1バージョン）は、多くの性能上の問題を抱えていた。2000年代前半にヘッケラー＆コッホ社が大幅なアップグレードを行った結果、A2型が誕生し、2020年現在も現役で活躍しています。L85A2は、さまざまな作戦シナリオに対応するため、さまざまな気候の下で極めて高い信頼性を発揮します。現在のL85A2ライフルは、特に標準装備のSUSATテレスコープサイトを使用した場合の信頼性と精度が高いと認識されています。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+        %c[d_purple] ・%c[ui_gray_2] アップグレード：純正ドーヴテールマウントの上にピカティニーレール\n		
+		%c[d_purple] ・%c[ui_gray_2] スコープ: All for picatinny/weaver (except of Red Dot Sights with low mount: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (low mount), Docter Sight, 1P76 Rakurs (low mount).\n
+		%c[d_purple] ・%c[ui_gray_2] サプレッサー: ADVANCED ARMAMENT (AAC) M4-2000\n
+		%c[d_purple] ・%c[ui_gray_2] グレネードランチャー: なし\n</text>
+	</string>
+
+	<string id="st_wpn_l85_m3">
+		<text>L85 A2 Tactic (BaS)</text>
+	</string>
+	<string id="st_wpn_l85_m3_descr">
+		<text>SA80 IWアサルトライフルとSA80 LSW軽機関銃の2つの武器を含むSA80システムの開発は、1960年代後半、イギリス軍が老朽化した7.62x51mm L1 SLRイギリス製FN FALに代わる新しいライフルの開発を決定したことから始まりました。イギリス軍の標準的な個人用武器であるL85（オリジナルのA1バージョン）は、多くの性能上の問題を抱えていた。2000年代前半にヘッケラー＆コッホ社が大幅なアップグレードを行った結果、A2型が誕生し、2020年現在も現役で活躍しています。L85A2は、さまざまな作戦シナリオに対応するため、さまざまな気候の下で極めて高い信頼性を発揮します。現在のL85A2ライフルは、特に標準装備のSUSATテレスコープサイトを使用した場合の信頼性と精度が高いと認識されています。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+        %c[d_purple] ・%c[ui_gray_2] アップグレード: ネイティブダブテールマウントの上にピカティニーレールを取り付け、クアドレイルフォアエンド、フォアグリップ、B.E. MEYERS MAWL-C1タクティカルグリーンレーザーエイムモジュールを装備。\n		
+		%c[d_purple] ・%c[ui_gray_2] スコープ: 全てのピカティニー/ウィーバー用（ローマウントのレッドドットサイトは除く。Trijicon RMR、Leupold DeltaPoint PRO、Aimpoint T1（ローマウント）、Docter サイト、1P76 Rakurs（ローマウント）。\n
+		%c[d_purple] ・%c[ui_gray_2] サプレッサー: ADVANCED ARMAMENT (AAC) M4-2000\n
+		%c[d_purple] ・%c[ui_gray_2] グレネードランチャー: Heckler&Koch M320\n</text>
+	</string>	
+
+	<string id="st_wpn_scar_siber">
+		<text>FN SCAR-H (BaS)</text>
+	</string>
+	<string id="st_wpn_scar_siber_descr">
+		<text>SCAR（Special Operations Forces Combat Assault Rifle）は、FN Herstal社がSCAR競技会の要求を満たすためにSOCOM向けに製作したモジュール式ライフルです。このライフルはSCAR-HとSCAR-Lの2種類で構成されています。SCAR-H（Heavy）は、7.62x51mm NATO口径に対応しています。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: 全てのピカティニー/ウィーバー用スコープ（ローマウントのレッドドットサイトは除く。Trijicon RMR、Leupold DeltaPoint PRO、Aimpoint T1（ローマウント）、Docter Sight、1P76 Rakurs（ローマウント）。\n
+		%c[d_purple] ・%c[ui_gray_2] サプレッサー: AAC 7.62 SDN-6\n
+		%c[d_purple] ・%c[ui_gray_2] グレネードランチャー: FN HERSTAL FN40GL Mk2\n</text>
+	</string>
+
+	<string id="st_wpn_scar_siber_black">
+		<text>FN SCAR-H (黒) (BaS)</text>
+	</string>
+	<string id="st_wpn_scar_siber_black_descr">
+		<text>SCAR（Special Operations Forces Combat Assault Rifle）は、FN Herstal社がSCAR競技会の要求を満たすためにSOCOM向けに製作したモジュール式ライフルです。このライフルはSCAR-HとSCAR-Lの2種類で構成されています。SCAR-H（Heavy）は、7.62x51mm NATO口径に対応しています。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: 全てのピカティニー/ウィーバー用（ローマウントのレッドドットサイトは除く。Trijicon RMR、Leupold DeltaPoint PRO、Aimpoint T1（ローマウント）、Docter Sight、1P76 Rakurs（ローマウント）。\n
+		%c[d_purple] ・%c[ui_gray_2] サプレッサー: AAC 7.62 SDN-6\n
+		%c[d_purple] ・%c[ui_gray_2] グレネードランチャー: FN HERSTAL FN40GL Mk2\n</text>
+	</string>
+
+	<string id="st_wpn_scar_siber_m1">
+		<text>FN SCAR-H タクティカル (BaS)</text>
+	</string>
+	<string id="st_wpn_scar_siber_m1_descr">
+		<text>SCAR（Special Operations Forces Combat Assault Rifle）は、FN Herstal社がSCAR競技会の要求を満たすためにSOCOM向けに製作したモジュール式ライフルです。このライフルはSCAR-HとSCAR-Lの2種類で構成されています。SCAR-H（Heavy）は、7.62x51mm NATO口径に対応しています。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] 搭載されたアップグレード: Tactical Magpull foregrip, Tritium Sights\n		
+		%c[d_purple] ・%c[ui_gray_2] スコープ: 全てのピカティニー/ウィーバー用スコープ（ローマウントのレッドドットサイトは除く。Trijicon RMR、Leupold DeltaPoint PRO、Aimpoint T1（ローマウント）、Docter Sight、1P76 Rakurs（ローマウント）。\n
+		%c[d_purple] ・%c[ui_gray_2] サプレッサー: AAC 7.62 SDN-6\n
+		%c[d_purple] ・%c[ui_gray_2] グレネードランチャー: なし\n</text>
+	</string>
+
+	<string id="st_wpn_scar_siber_m1_black">
+		<text>FN SCAR-H タクティカルブラック (BaS)</text>
+	</string>
+	<string id="st_wpn_scar_siber_m1_black_descr">
+		<text>SCAR（Special Operations Forces Combat Assault Rifle）は、FN Herstal社がSCAR競技会の要求を満たすためにSOCOM向けに製作したモジュール式ライフルです。このライフルはSCAR-HとSCAR-Lの2種類で構成されています。SCAR-H（Heavy）は、7.62x51mm NATO口径に対応しています。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] 搭載されたアップグレード: タクティカルマグプルフォアグリップ、トリチウムサイト\n	
+		%c[d_purple] ・%c[ui_gray_2] スコープ: 全てのピカティニー/ウィーバー用スコープ（ローマウントのレッドドットサイトは除く。Trijicon RMR、Leupold DeltaPoint PRO、Aimpoint T1（ローマウント）、Docter Sight、1P76 Rakurs（ローマウント）。\n
+		%c[d_purple] ・%c[ui_gray_2] サプレッサー: AAC 7.62 SDN-6\n
+		%c[d_purple] ・%c[ui_gray_2] グレネードランチャー: なし\n</text>
+	</string>
+
+	<string id="st_wpn_scar_siber_m2">
+		<text>FN SCAR-H Expert Operator (BaS)</text>
+	</string>
+	<string id="st_wpn_scar_siber_m2_descr">
+		<text>SCAR（Special Operations Forces Combat Assault Rifle）は、FN Herstal社がSCAR競技会の要求を満たすためにSOCOM向けに製作したモジュール式ライフルです。このライフルはSCAR-HとSCAR-Lの2種類で構成されています。SCAR-H（Heavy）は、7.62x51mm NATO口径に対応しています。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] 搭載されたアップグレード: タクティカルマグプルフォアグリップ、トリチウムサイト、B.E.MEYERS MAWL-C1タクティカルグリーンレーザーエイムモジュール\n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: 全てのピカティニー/ウィーバー用スコープ（ローマウントのレッドドットサイトは除く。Trijicon RMR、Leupold DeltaPoint PRO、Aimpoint T1（ローマウント）、Docter Sight、1P76 Rakurs（ローマウント）。\n
+		%c[d_purple] ・%c[ui_gray_2] サプレッサー: AAC 7.62 SDN-6\n
+		%c[d_purple] ・%c[ui_gray_2] グレネードランチャー: なし\n</text>
+	</string>
+	
+	<string id="st_wpn_scar_siber_m2_custom">
+		<text>FN SCAR-H Specialist Operator (BaS)</text>
+	</string>
+	<string id="st_wpn_scar_siber_m2_custom_descr">
+		<text>SCAR（Special Operations Forces Combat Assault Rifle）は、FN Herstal社がSCAR競技会の要求を満たすためにSOCOM向けに製作したモジュール式ライフルです。このライフルはSCAR-HとSCAR-Lの2種類で構成されています。SCAR-H（Heavy）は、7.62x51mm NATO口径に対応しています。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] : B.E. MEYERS MAWL-C1タクティカルグリーンレーザーエイムモジュール\n
+		%c[d_purple] ・%c[ui_gray_2] 装着済みのスコープ: Vortex RAZOR UH-1 ・EOTech G33.STS magnifier\n
+		%c[d_purple] ・%c[ui_gray_2] サプレッサー: AAC 7.62 SDN-6\n
+		%c[d_purple] ・%c[ui_gray_2] グレネードランチャー: なし\n</text>
+	</string>
+
+	<string id="st_wpn_korth">
+		<text>Korth 4" バレル (BaS)</text>
+	</string>
+	<string id="st_wpn_korth_descr">
+		<text>コルトは、ドイツ・ヘッセン州ロラーに本拠を置く高級銃器メーカーです。コルト。 ある種の銃愛好家にとっては、これ以上何も語る必要はないだろう。 ヨーロッパの究極の高級ブランドの伝統を受け継ぐビルダーであるコルトは、おそらくほとんどの人がドイツ銃よりもドイツ車を連想しやすいような値札のリボルバーでよく知られています。 しかし、その破格の価格設定は、世界中の銃砲店で語り継がれているもので、フルカスタムから生まれたものであり、エントリーポイントははるかに身近なものとなっている。 コルトは、ロレックスと同じように、5,000ドルも出せば、ヨーロッパの良さが手に入り、思い出に残る。コルトの銃は伝説的です。\n
+		%c[ui_gray_2]アタッチメント: \n		
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: なし\n </text>
+	</string>
+
+	<string id="st_wpn_korth_custom">
+		<text>Korth 6" バレル (BaS)</text>
+	</string>
+	<string id="st_wpn_korth_custom_descr">
+		<text>Korthは、ドイツ・ヘッセン州ロラーに本社を置く高級銃器メーカーです。Korthは、ドイツ・ヘッセン州ロラーに本拠を置く高級銃器メーカーです。Korth（コルト）。 ある種の銃愛好家にとっては、これ以上何も語る必要はないだろう。 ヨーロッパの究極の高級ブランドの伝統を受け継ぐメーカーであるコルトは、おそらくほとんどの人がドイツ銃よりもドイツ車を連想しやすいような値札のリボルバーで最もよく知られているメーカーだろう。 しかし、その破格の価格設定は、世界中の銃砲店で語り継がれているもので、フルカスタムから生まれたものであり、エントリーポイントははるかに身近なものとなっている。 コルトは、ロレックスと同じように、5,000ドルも出せば、ヨーロッパの良さが手に入り、思い出に残る。コルトの銃は伝説的です。\n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] 6インチネジ切りのロングバレルを装着。\n
+		%c[d_purple] ・%c[ui_gray_2] スコープ: Docter サイト\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: BLACK BOX .45\n </text>
+	</string>
+
+	<string id="st_grenade_launcher">
+		<text>GP-25 "Kostyor" グレネードランチャー (BaS+Van)</text>
+	</string>
+	<string id="st_grenade_launcher_descr">
+		<text>ワルシャワ条約加盟国製のアサルトライフル用単発、前装式、ライフリング付きアンダーバレル グレネードランチャー。基本的な歩兵部隊の火力を大幅に向上させるために設計された。発射機構はセルフコッキング式で、手動式のセーフティキャッチと、ライフルへの誤装着による自動的な発砲防止機構を備えている。\n \n
+		%c[d_purple] ・%c[ui_gray_2] 初速: %c[ui_gray_1]~76 m / sec\n
+		%c[d_purple] ・%c[ui_gray_2] 射程: %c[ui_gray_1]~300 m\n
+		%c[d_purple] ・%c[ui_gray_2] リロード時間: %c[ui_gray_1]slow\n
+		%c[d_purple] ・%c[ui_gray_2] 弾薬: %c[ui_gray_1]VOG-25 40mm グレネード</text>
+	</string>
+	
+	<string id="st_grenade_launcher_m203">
+		<text>M203 グレネードランチャー (BaS+Van)</text>
+	</string>
+	<string id="st_grenade_launcher_m203_descr">
+		<text>M203の全長を3インチ短くし、ピカティニーレールによって武器に取り付けることができるようにした改良型グレネードランチャー。マウントの変更により、現在生産されているほとんどのライフル銃に装着することができ、世界中で広く使用されている。より近代的なデザインでありながら、ソ連のGP-25とほぼ同じ性能を有している。\n \n
+		%c[d_purple] ・%c[ui_gray_2] 初速: %c[ui_gray_1]~76 m / sec\n
+		%c[d_purple] ・%c[ui_gray_2] 射程: %c[ui_gray_1]~300 m\n
+		%c[d_purple] ・%c[ui_gray_2] リロード時間: %c[ui_gray_1]slow\n
+		%c[d_purple] ・%c[ui_gray_2] 弾薬: %c[ui_gray_1]M203 40mm グレネード</text>
+	</string>
+
+	<string id="st_wpn_howa20">
+		<text>豊和　20式小銃 (BaS)</text>
+	</string>
+	<string id="st_wpn_howa20_descr">
+		<text>2020年5月に正式に一般公開されたアサルトライフル。この武器は、約30年間使用されてきた89式突撃銃の後継として開発されたものです。自衛隊の新小銃は、従来のものと同じく豊和機械製作所が開発し、5.56mm弾を使用する。89式小銃の後継となる新小銃の開発は、2014年に防衛省の要請で始まった。外観や構造的には、新型小銃の20式は、HK433やCZ BREN IIなど、多くの現代小銃の算術平均のようなもので、どうやら独自の特徴はないようだ。しかし、陸上自衛隊に求められるのは、デザインの独創性ではなく、信頼性、低価格、顧客の要求への適合性であるから、何も問題はないのであろう。このライフルがどのようにして、またどのような数量でゾーンへの科学的探検の参加者の手に渡ったのかは謎のままである。\n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] 付属品: MARCH Shorty scope and AN/PEQ-15A DBAL-A2 Laser Device\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: KAC QDSS NT-4 5.56・5\n </text>
+	</string>
+
+	<string id="st_wpn_ar15_freedom">
+		<text>AR-15 HERA (BaS)</text>
+	</string>
+	<string id="st_wpn_ar15_freedom_descr">
+		<text>AR15を大きく近代化したライフルで、通常はFreedomの退役軍人に使用されている。ボディキットを装着することにより、どのような射撃場でも安心して射撃ができるが、同時に非常に高価な部品をキットに使用しているため、高価格であることが特徴である。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] スコープ:  すべてのピカティニー/ウィーバー用スコープ（ローマウントのレッドドット・サイトは除く。Trijicon RMR、Leupold DeltaPoint PRO、Aimpoint T1（ローマウント）、Docter Sight、1P76 Rakurs（ピカティニー）。\n
+		%c[d_purple] ・%c[ui_gray_2] 搭載されたアップグレード: B.E. MEYERS MAWL-C1タクティカルグリーンレーザーエイムモジュールとHere Armsフォアグリップ（リコイルコントロールに有効）、ストック。\n
+		%c[d_purple] ・%c[ui_gray_2] サイレンサー: Surefire SOCOM556-MONSTER\n </text>
+	</string>
+	
+</string_table>

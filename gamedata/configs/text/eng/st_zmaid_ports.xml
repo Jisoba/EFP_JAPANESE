@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+	
+	<string id="st_wpn_stv380_m">
+		<text>STV-380</text>
+	</string>
+	<string id="st_wpn_stv380_m_descr">
+		<text>
+		STVライフルは、Sung Truong Viet Namの略で、ベトナム製のアサルトライフルの一種である。これらのライフルはすべてZ111工場で組み立てられ、7.62x39mm口径が用いられる。\n
+		STVライフルはIWIのガリルエースを改造したもので、旧来のAK-47やAKMアサルトライフルから移行するベトナム兵が新たに支給されたライフルに慣れることを主目的としてZ111工場で改造されたものである。\n\n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] ・%c[ui_gray_2] 7.62x39mm 口径対応のサプレッサー\n
+		%c[d_purple] ・%c[ui_gray_2] M203 グレネードランチャー\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_scarl_m">
+		<text>FN SCAR-L (Tan)</text>
+	</string>
+	<string id="st_wpn_scarl_blk_m">
+		<text>FN SCAR-L (Black)</text>
+	</string>
+	<string id="st_wpn_scarl_m_descr">
+		<text>
+		特殊作戦部隊用戦闘アサルトライフル（SCAR）は、SCAR競技の要求を満たすためにFN Herstal社がSOCOMのために作ったモジュラーライフルである。\n
+		SCAR-HとSCAR-Lの2種類で構成されている。SCAR-L（ライト）は、5.56x45mm NATOに対応している。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] ・%c[ui_gray_2] 5.56x45mm 口径対応のサプレッサー\n
+		%c[d_purple] ・%c[ui_gray_2] FN Herstal FN40GL Mk2 グレネードランチャー\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_rsass_m">
+		<text>Remington R11 RSASS</text>
+	</string>
+	<string id="st_wpn_rsass_m_descr">
+		<text>
+		レミントン・アームズ社とJPエンタープライズ社が共同開発したレミントン・セミオートマチック・スナイパーライフルは、高精度かつ速射性に優れたスナイパーライフルの要求に応じて設計されたものだ。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] ・%c[ui_gray_2] 7.62x51mm 口径対応のサプレッサー\n
+		</text>
+	</string>
+
+	<string id="st_wpn_mp155_u">
+		<text>MP-155 Ultima</text>
+	</string>
+	<string id="st_wpn_mp155_u_descr">
+		<text>
+		カラシニコフ・グループが設計・製造したMP-155ウルティマは、戦闘時の情報入手のしやすさを追求した高性能コンバットショットガンである。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		</text>
+	</string>
+
+	<string id="st_wpn_mcx_m">
+		<text>SIG MCX VIRTUS</text>
+	</string>
+	<string id="st_wpn_mcx_m_descr">
+		<text>
+		SIG MCXは、SIG Sauer社が設計・製造する銃器で、様々な軍事的カテゴリーに適合するように開発されたファミリーである。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] ・%c[ui_gray_2] Surefire SOCOM556-Monster サプレッサー\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_m590a1_m">
+		<text>Mossberg 590A1 Custom</text>
+	</string>
+	<string id="st_wpn_m590a1_m_descr">
+		<text>
+		モスバーグ590は、1970年代にアメリカのO.F.モスバーグ＆サンズ社が、モスバーガーモデル500ショットガンを改良し、米軍に採用されることを目的に開発したモデルである。レシーバーの強化、バレル周りのベントヒートシールドの設置、バヨネットラグと拡張マガジン、プラスチック製からアルミ製トリガーガードへの変更などが行われた。標準的な仕上げはパーカライジングで、交換用ピストルグリップが付属しており、「クルーザー」仕様に簡単に変更することができる。1987年以降、アメリカ軍の標準的なショットガンとして使用され、アメリカ陸軍ではベネリM1014セミ・オートマチック・ショットガンに取って代わられたが、アメリカ海軍とアメリカ海兵隊ではモスバーグ590A1ショットガンが現在も使用されている。\n \n
+	    %c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_honey_badger_m">
+		<text>AAC Honey Badger</text>
+	</string>
+	<string id="st_wpn_honey_badger_m_descr">
+		<text>
+		AAC Honey Badger PDWは、AR-15プラットフォームをベースにした一体型サイレンサー付き個人防衛用武器（PDW）だ。\n
+		一体型サプレッサーを取り外し、5.56x45mmレシーバーを完全搭載した特別仕様。 \n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] ・%c[ui_gray_2] Surefire SOCOM556-Monster サプレッサー\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_brn_180_m">
+		<text>Brownells BRN-180</text>
+	</string>
+	<string id="st_wpn_brn_180_m_descr">
+		<text>
+		BRN-180は、1960年代に発売されたAR-18/AR-180ライフルで採用された、より堅牢で信頼性の高いガスピストン式操作システムなどの改良を取り入れ、Brownells社が設計・製造している。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] ・%c[ui_gray_2] Surefire SOCOM556-Monster サプレッサー\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_adar_m">
+		<text>ADAR 2-15 Carbine</text>
+	</string>
+	<string id="st_wpn_adar_m_descr">
+		<text>
+		ADAR 2-15は、AR-15のプラットフォームをベースに開発されたロシアの民間用銃器である。Israely社の部品とMolot Arms社製の銃身で構成されている。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
+		%c[d_purple] ・%c[ui_gray_2] Advanced Armament (AAC) M4-2000 サプレッサー\n
+		</text>
+	</string>
+
+	<string id="st_grenade_rgn_impact">
+		<text>RGN 手榴弾</text>
+	</string>
+	<string id="st_grenade_rgn_impact_descr">
+		<text>
+		RGNハンドグレネードは、Ruchnaya Granata Nastupatel'naya の略で、ソビエト軍の攻撃用破片手榴弾である。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_purple] ・%c[ui_gray_2] 爆発力: %c[ui_gray_1]中\n
+		%c[d_purple] ・%c[ui_gray_2] 爆発半径: %c[ui_gray_1]2-5 m\n
+		%c[d_purple] ・%c[ui_gray_2] 平均的な飛散する破片数: %c[ui_gray_1]75 (小さな破片)\n
+		%c[d_purple] ・%c[ui_gray_2] 爆発までの遅延時間: %c[ui_gray_1]1.8 秒\n \n
+		</text>
+	</string>
+
+	<string id="st_grenade_rgo_impact">
+		<text>RGO 手榴弾</text>
+	</string>
+	<string id="st_grenade_rgo_impact_descr">
+		<text>
+		RGOハンドグレネードは、Ruchnaya Granata Oboronitel'nayaの略で、ソビエト軍の防御用破片手榴弾である。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_purple] ・%c[ui_gray_2] 爆発力: %c[ui_gray_1]中\n
+		%c[d_purple] ・%c[ui_gray_2] 爆発半径: %c[ui_gray_1]2-7 m\n
+		%c[d_purple] ・%c[ui_gray_2] 平均的な飛散する破片数: %c[ui_gray_1]85 (小さな破片)\n
+		%c[d_purple] ・%c[ui_gray_2] 爆発までの遅延時間: %c[ui_gray_1]1.8 秒\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_type89_m">
+		<text>豊和 89式5.56mm小銃</text>
+	</string>
+	<string id="st_wpn_type89_m_descr">
+		<text>
+		89式小銃は、5.56x45mmを扱う日本製のアサルトライフルである。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] ・%c[ui_gray_2] Surefire SOCOM556-Monster サプレッサー\n \n
+		</text>
+	</string>
+
+    <string id="st_wpn_famas3">
+        <text>FAMAS F3</text>
+    </string>
+    <string id="st_wpn_famas3_descr">
+        <text>
+		FAMASとは、Fusil d'Assaut de la Manufacture d'Armes de St-Etienne（サンテティエンヌ武器工場製アサルトライフル）の略称である。1967年、フランスの武器設計者ポール・テリーによって開発が始められた。この新しいライフルは、老朽化したMAS Mle.49/56半自動小銃、MAT-49サブマシンガン、MAC Mle.1929軽機関銃の後継として開発されたものであった。1971年に最初のプロトタイプが作られ、1972年からフランス軍でテストが行われた。一方、フランスはスイスで設計されたSIG SG-540 5.56mmアサルトライフルを中間的な解決策として採用した。FAMASは1978年にフランスで採用され、それ以来フランス軍の標準小銃となり、フランス兵の間では「Le Clairon（バルジ）」と呼ばれるようになった。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
+		%c[d_purple] ・%c[ui_gray_2] 5.56x45mm 口径対応のサプレッサー\n \n
+		</text>
+    </string>
+
+	<string id="st_wpn_mp7">
+		<text>H&amp;K MP7</text>
+	</string>
+	<string id="st_wpn_mp7_descr">
+		<text>
+		Heckler ＆ Koch MP7 (Maschinenpistole 7) は、Heckler＆Koch (H&K) が設計・製造したドイツの個人防衛兵器 (PDW) で、H&K 4.6x30mm口径を使用する。1989年に発表されたNATOの要求では、従来の拳銃用口径に限られた現行兵器よりも装甲を貫通する能力が高い個人防衛兵器（PDW）クラスの銃器が求められており、この口径が開発された。MP7は2001年に生産が開始された。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] ・%c[ui_gray_2] 9x19mm 口径対応のサプレッサー\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_mp5_descr">
+		<text>
+		MP5は、同クラスの銃器の中で最も有名で広く普及している銃器のひとつだ。MP5は、そのコンパクトさ、正確さ、信頼性から、世界中の多くの軍隊、法執行機関、諜報機関、セキュリティ機関に愛用されている。MP5A3は、格納式の金属製ストックを装備している。MP5A3は、世界のブラックマーケットを席巻し、やがてゾーンに渡ったのは言うまでもない。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
+		%c[d_purple] ・%c[ui_gray_2] 9x19mm 口径対応のサプレッサー (after modification)\n \n</text>
+	</string>
+	<string id="st_wpn_mp5_nimble_descr">
+		<text>
+		H&K MP5A3の優秀なモデルをベースにしたサブマシンガンのプロトタイプ。次世代近接戦闘兵器として設計され、より高い口径、発射速度、精度を実現している。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
+		%c[d_purple] ・%c[ui_gray_2] Gemtech サプレッサー (after modification)\n \n</text>
+	</string>
+
+	<string id="st_wpn_mp5sd_descr">
+		<text>
+		MP5にサプレッサーを内蔵したバリエーション。ゾーンでは、MercenaryがMP5よりもこのバリエーションを好んで使用する。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
+		%c[d_purple] ・%c[ui_gray_2] Special MP5SD サプレッサー (integrated)\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_p90">
+		<text>FN P90</text>
+	</string>
+	<string id="st_wpn_p90_descr">
+		<text>
+		FN P90サブマシンガンは、1980年代後半に、車両や戦車の乗員、砲兵隊員など、小火器を使用しない部隊のための個人防衛用武器として開発された。当時、標準的なピストルやサブマシンガンは、ボディーアーマーを装着した敵には効果がないことが問題視されていた。FNの設計者は、当初SS90と名付けられた新弾を開発し、反動を低く抑えながら高い貫通力を実現した。FNは小口径の技術を用い、5.56NATO弾を縮小したような弾を開発したのである。その結果、FN P90個人用防衛兵器は1990年に発売され、改良された5.7x28 SS190弾はポリマーコア弾に代わり、より重いスチールとアルミニウムのデュアルコア弾でボディアーマーに対してより優れた貫通力を発揮することができる。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] ・%c[ui_gray_2] 5.7x28mm 口径対応のサプレッサー\n \n
+		</text>
+	</string>
+	<string id="st_wpn_p90_custom">
+		<text>FN P90 EFFEN</text>
+	</string>
+	<string id="st_wpn_p90_custom_descr">
+		<text>
+		FN P90サブマシンガンは、1980年代後半に、車両や戦車の乗員、砲兵隊員など、小火器を使用しない部隊のための個人防衛用武器として開発された。当時、標準的なピストルやサブマシンガンは、ボディーアーマーを装着した敵には効果がないことが問題視されていた。FNの設計者は、当初SS90と名付けられた新弾を開発し、反動を低く抑えながら高い貫通力を実現した。FNは小口径の技術を用い、5.56NATO弾を縮小したような弾を開発したのである。その結果、FN P90個人用防衛兵器は1990年に発売され、改良された5.7x28 SS190弾はポリマーコア弾に代わり、より重いスチールとアルミニウムのデュアルコア弾でボディアーマーに対してより優れた貫通力を発揮することができる。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes\n
+		%c[d_purple] ・%c[ui_gray_2] 5.7x28mm 口径対応のサプレッサー\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_ash12">
+		<text>ASh-12.7</text>
+	</string>
+	<string id="st_wpn_ash12_descr">
+		<text>
+		ASh-12.7（Автомат штурмовой 12.7мм"、「Automatic assault rifle, 12.7mm」の略）は、KBKの子会社であるTsKIB SOO（「Central Design Bureau of Sport and Hunting Arms」）が開発したCQB/Uban Operations用のバトルライフルだ。ロシア連邦保安庁（FSB）の要請により、ロシアのトゥーラにあるKBP機器設計局の子会社TsKIB SOO（"Central Design and Research Bureau of Sporting and Hunting Arms"）が開発したCQB/都市作戦専用武器である。この武器は、一発で仕留める必要のある重武装・組織化されたギャングやテロリストを相手に都市環境で活動するFSBの特殊部隊を想定しているため、極めて短距離での制圧力を意識して設計されている。ロシアの報道機関によると、ASH-12.7アサルトライフルを最初に採用したのはFSBだとされている。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] ・%c[ui_gray_2] 12.7mm 口径対応のサプレッサー\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_mk14">
+		<text>Mk 14 EBR</text>
+	</string>
+	<string id="st_wpn_mk14_descr">
+		<text>
+		アメリカ海軍マーク14強化戦闘ライフル（Mk 14 Enhanced Battle Rifle、「改良型戦闘ライフル」） - M14ライフルをベースにアメリカ海軍の特殊作戦によって作られたアメリカのマークスマンライフルである。SEALをはじめとする海軍の多くの特殊部隊で使用されている。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] ・%c[ui_gray_2] 5.56x45mm 口径対応のサプレッサー\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_g3">
+		<text>G3A3</text>
+	</string>
+	<string id="st_wpn_g3_descr">
+		<text>
+		G3A3は、1950年代にドイツの兵器メーカーHeckler & Koch社がスペイン国営の設計開発機関CETME（Centro de Estudios Tecnicos de Materiales Especiales）と共同で開発したバトルライフルである。7.62x51mmNATO弾を使用し、ローラーディレイブローバックアクションを採用している。このライフルの設計はCETME modを参考にしている。1957年、Heckler & Koch社がこのライフルの製造ライセンスを取得し、CETMEの設計に小さな改良を加えた。1959年にドイツ連邦軍でG3として正式に採用され、1995年にG36に置き換わるまで使用された。ドイツ軍で正式に採用されたにもかかわらず、現在も限定的に使用されている。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
+		%c[d_purple] ・%c[ui_gray_2] 5.56x45mm 口径対応のサプレッサー\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_sig552">
+		<text>SIG SG552 Commando</text>
+	</string>
+	<string id="st_wpn_sig552_descr">
+		<text>
+		SG 552 Commandoは、市街地での戦闘を想定し、SIGの傑作であるSG 550シリーズの中で最もコンパクトに設計されており、CQC能力に特化している。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] ・%c[ui_gray_2] 5.56x45mm 口径対応のサプレッサー\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_m82">
+		<text>Barrett M82</text>
+	</string>
+	<string id="st_wpn_m82_descr">
+		<text>
+		バレットM82、アメリカ軍の文書によればM107 - アメリカの自動装填式大口径狙撃銃で、バレット銃器製造社が製造し、世界数カ国で運用されている。このライフルの機構はバタフライバルブをベースにしている。このライフルは「アンチマテリアルライフル」のクラスに属するが、敵の歩兵に対する武器として使用されることが多くなっている。\n \n
+	    %c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_sv98_custom_descr">
+		<text>SV-98 (Snaiperskaya Vintovka Model 1998) は、Vladimir Stronskiyが設計したロシアのボルトアクション式狙撃銃である。2003年、特殊作戦部隊はSV-98スナイパーライフル（インデックス6V10）と7N14狙撃強化弾からなる7.62mm 6S11スナイパーシステムが用いられている。このライフルはチェチェンでの作戦で実戦使用されている。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_ace21">
+		<text>Galil ACE-21</text>
+	</string>
+	<string id="st_wpn_ace21_descr">
+		<text>
+		ガリルACEシリーズは、イスラエルの兵器メーカーIWI社によって設計・製造されている。ACEガリルライフルのベースはアサルトライフルのガリルであり、これはカラシニコフのAKライフルをベースにしている。Galil ACEは、人間工学、使いやすさ、追加アタッチメントとの統合、および戦闘時の柔軟性を重視しており、Galil ACEファミリーは、世界で最も一般的な3種類の弾薬（5.56x45 NATO、7.62x39 M43、NATO 7.62x51）に対応し、各タイプに複数のバレル長を有している。このバージョンは5.56x45 NATO弾を使用し、コンパクトなバレルを備えている。ゾーンにおいてこのアサルトライフルを見ることは珍しい。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] ・%c[ui_gray_2] 5.56x45mm 口径対応のサプレッサー\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_hk416">
+		<text>HK416</text>
+	</string>
+	<string id="st_wpn_hk416_descr">
+		<text>HK416は、Heckler&Koch社がM4を改良するために設計・製造したライフルである。完成品と、AR-15タイプのロアレシーバーに装着するアッパーレシーバーがある。アメリカ陸軍のデルタフォースが、ドイツの兵器メーカーと共同で開発した。2004年にH&amp;K 416をテストしたところ、ピストン作動方式が誤作動を大幅に減らし、部品の寿命も延びることが判明した。当初は「H&K M4」と呼ばれていたが、コルト・ディフェンス社から商標権侵害の訴えを起こされ、変更された。現在では政府機関や軍関係者しか使用できないため、このアサルトライフルは通常Mercenaryが所持している。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] ・%c[ui_gray_2] 5.56x45mm 口径対応のサプレッサー\n
+		%c[d_purple] ・%c[ui_gray_2] M203 グレネードランチャー\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_sr25">
+		<text>SR-25</text>
+	</string>
+	<string id="st_wpn_sr25_descr">
+		<text>SR-25（Stoner Rifle）モデル25は、Knights Armament社のオーナーであるReed Knight氏とEugene Stoner氏によって開発された。AR-15ライフルを7.62x51mm NATO弾や.308弾を撃てるようにスケールアップしたものである。部品の60％はAR-15の部品と互換性がある。このライフルは、狩猟や標的射撃のために7.62x51mm NATOや.308口径の正確な半自動小銃を必要としていた民間の射撃家の間でよく売れた。また、このライフルは米軍にも採用された。SR-25は、AR-15/M16と同じアクションを採用している。SR-25は、AR-15スタイルのリコイルバッファーがレシーバーから後方に伸びているため、フォールディングストックが装着できず、代わりにテレスコープストックが装着されている。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] ・%c[ui_gray_2] SR-25 special サプレッサー\n
+		%c[d_purple] ・%c[ui_gray_2] FN Herstal FN40GL Mk2 グレネードランチャー\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_scar_descr">
+		<text>
+		SCAR（Special Operations Forces Combat Assault Rifle）は、FN Herstal社がSCAR競技会の要求を満たすためにSOCOM向けに製作したモジュラーライフルである。このライフルはSCAR-HとSCAR-Lの2種類で構成されている。SCAR-H（Heavy）は、7.62x51mm NATOカートリッジに対応している。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] ・%c[ui_gray_2] AAC 7.62 SDN-6 サプレッサー\n
+		%c[d_purple] ・%c[ui_gray_2] M203 グレネードランチャー\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_val">
+		<text>AS Val</text>
+	</string>
+	<string id="st_wpn_val_descr">
+		<text>AS-VALは、ロシア軍の偵察部隊をはじめ、MVD（内務省）やFSB（連邦保安局）の特殊部隊で広く使用されている。AS-VALはガス作動式で、一体型サプレッサー付きライフルだ。レシーバーはスチール鍛造からの削り出しで強度が向上している。光学、暗視、レッドドット・スコープ用のサイドマウント・レールを標準装備しているが、銃剣やグレネードランチャーを装着するためのレールは備えていない。一体型のサプレッサーは、メンテナンス、修理、コンパクトな収納のために簡単に取り外すことができるが、安全性と信頼性の問題から、サプレッサーを取り外した状態でライフルを使用するのは非推奨だ。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1M2-01, ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
+		%c[d_purple] ・%c[ui_gray_2] VSS サプレッサー (integrated)\n \n</text>
+	</string>
+	<string id="st_wpn_val_modern">
+		<text>AS Val (modern)</text>
+	</string>
+	<string id="st_wpn_val_modern_descr">
+		<text>AS-VALは、ロシア軍の偵察部隊をはじめ、MVD（内務省）やFSB（連邦保安局）の特殊部隊で広く使用されている。AS-VALはガス作動式で、一体型サプレッサー付きライフルだ。レシーバーはスチール鍛造からの削り出しで強度が向上している。光学、暗視、レッドドット・スコープ用のサイドマウント・レールを標準装備しているが、銃剣やグレネードランチャーを装着するためのレールは備えていない。一体型のサプレッサーは、メンテナンス、修理、コンパクトな収納のために簡単に取り外すことができるが、安全性と信頼性の問題から、サプレッサーを取り外した状態でライフルを使用するのは非推奨だ。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1M2-01, ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
+		%c[d_purple] ・%c[ui_gray_2] VSS サプレッサー (integrated)\n \n</text>
+	</string>
+
+	<string id="st_wpn_m_mk47">
+		<text>CMMG MK47 Mutant</text>
+	</string>
+	<string id="st_wpn_m_mk47_descr">
+		<text>
+		CMMG Mk47 Mutant、7.62x39mm口径を使用するアメリカ製カービン。CMMG Inc.が製造。スチール、ポリマー、ドラムなどのすべてのタイプのAKマガジンに対応している。このカービンは卓越した信頼性を示し、ARシステムの古典的なエルゴノミクスと相まって、優れた銃器の一つとされている。このバージョンは、法執行機関と軍用のため、フルオート射撃モードを備えている。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] ・%c[ui_gray_2] Hexagon 5.45/7.62x39mm sound サプレッサー\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_ump45_descr">
+		<text>UMPは1990年代にH&K社によって開発され、1999年に初めて市場に投入された。UMPは、MP5よりも安価で、軽量かつ強力なサブマシンガンを作るというコンセプトで開発された。UMPは、主に米国の法執行機関をターゲットとしており、.45ACPと.40SW、そして後に9mmバリエーションが登場した。UMP45は、MP5よりも高いストッピングパワーを発揮する反面、反動も大きい。そのため、フルオート射撃の制御はより難しくなっている。その欠点を補うためにUMP45の連射速度は大幅に低下している。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes, Leupold, March\n
+		%c[d_purple] ・%c[ui_gray_2] Gemtech サプレッサー\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_vepr101_m">
+		<text>Molot VPO-101 "Vepr-Hunter" Carbine</text>
+	</string>
+	<string id="st_wpn_vepr101_m_descr">
+		<text>
+		7.62x51mm口径のセミオートマチック狩猟用カービン。カラシニコフ機関銃（RPK）のプラットフォームを基に作られ、外観、重量、寸法が似ている。プロやアマチュアの中・大型狩猟、スポーツ用に設計されている。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO1, ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n \n
+		</text>
+	</string>
+	<string id="st_mag_efpwp_vpo_101_5">
+		<text>VPO-101 "Vepr-Hunter" 5 round magazine</text>
+	</string>
+	<string id="st_mag_efpwp_vpo_101_5_descr">
+		<text>
+		VPO-101と互換性のあるマガジン。Molot arms製。7.62x51口径の弾丸を5発装填可能。
+		</text>
+	</string>
+	<string id="st_mag_efpwp_vpo_101_10">
+		<text>VPO-101 "Vepr-Hunter" 10 round magazine</text>
+	</string>
+	<string id="st_mag_efpwp_vpo_101_10_descr">
+		<text>
+		VPO-101と互換性のあるマガジン。Molot arms製。7.62x51口径の弾丸を10発装填可能。
+		</text>
+	</string>
+	<string id="st_mag_efpwp_vpo_101_5_alt">
+		<text>Rechambered VPO-101 "Vepr-Hunter" 10 round magazine</text>
+	</string>
+
+	<string id="st_mag_efpwp_vpo_101_5_alt_descr">
+		<text>
+		VPO-101および互換のある銃用の改造マガジン。7.62x39口径の弾丸を5発装填可能。
+		</text>
+	</string>
+	<string id="st_mag_efpwp_vpo_101_10_alt">
+		<text>Rechambered VPO-101 "Vepr-Hunter" 10 round magazine</text>
+	</string>
+	<string id="st_mag_efpwp_vpo_101_10_alt_descr">
+		<text>
+		VPO-101および互換のある銃用の改造マガジン。7.62x39口径の弾丸を10発装填可能。.
+		</text>
+	</string>
+
+	<string id="st_wpn_sag545_m">
+		<text>SAG AK-545 Carbine</text>
+	</string>
+	<string id="st_wpn_sag545_m_descr">
+		<text>
+		Sureshot Armament Groupが開発した5.45x39mm口径を採用したAKライフル。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] ・%c[ui_gray_2] TGP-A サプレッサー\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_vpo136_m">
+		<text>Molot VPO-136 "Vepr-KM" Carbine</text>
+	</string>
+	<string id="st_wpn_vpo136_m_descr">
+		<text>
+		Molot Vepr-KM/VPO-136 カービンは、有名なカラシニコフAKMをベースにしており、外観、重量、全体の寸法がほぼ同じである。中型、大型の狩猟用、スポーツ用として設計されている。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] PBS-1 サプレッサー\n
+		</text>
+	</string>
+
+	<string id="st_wpn_rd704_m">
+		<text>Rifle Dynamics RD-704</text>
+	</string>
+	<string id="st_wpn_rd704_m_descr">
+		<text>
+		Rifle Dynamics社製アサルトライフル704 7.62x39mm、AKシステムの改良型。標準的なAKとの主な違いは前部の設計により重心をレシーバー側に移動させ、操作性を大幅に向上したことである。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] ・%c[ui_gray_2] Rifle Dynamics ISG sound サプレッサー\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_t5000_m">
+		<text>Orsis T-5000</text>
+	</string>
+	<string id="st_wpn_t5000_m_descr">
+		<text>
+		高精度のORSIS T-5000ライフルは、ORSISの設計者の努力の結晶だ。このモデルはプロの狙撃手の協力のもとに作られ、ロシア市場の顧客に必要な性能を備えている。T-5000モデルはスライド式ブリーチボルトと2つのフロントロックラグを持つハンドリロード式リピーターで、多目的に使用できる武器だ。その仕様は、高精度の長距離射撃（1500mまで）、準備段階、射撃段階、反動段階における射手の高い利便性、迅速な照準線の回復、優れた信頼性とエルゴリズムを持つ。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] Daniel Defence Wave QD サプレッサー\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_g28_m">
+		<text>HK G28</text>
+	</string>
+	<string id="st_wpn_g28_m_descr">
+		<text>
+		HK G28ライフルは、Heckler & Koch社がドイツ連邦軍の小型歩兵部隊の支援用として特別に開発したものである。G28はHK MR308をベースにしており、MR308はHK 417自動小銃の民間版である。いくつかの違いはあるものの、G28は417と75％のパーツ互換性がある。このライフルは、標準的な5.56mmアサルトライフルが近づけない距離で射撃できるように設計されている。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] ・%c[ui_gray_2] AAC 7.62 SDN-6 サプレッサー\n \n
+		</text>
+	</string>
+
+	<string id="st_knife_6x4">
+		<text>Bars A-2607 95H18 Knife</text>
+	</string>
+	<string id="st_knife_6x4_descr">
+		<text>
+			95H18鋼を鍛造し、上質なウッドハンドルと真鍮製のガードを備えたBars A-2607ナイフ。\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_blue] ・%c[ui_gray_2] 軍用品\n
+			%c[d_blue] ・%c[ui_gray_2] 近接武器\n
+			%c[d_red] ・%c[ui_gray_2] 厚い皮を持つミュータントを剥ぐのには向いていない\n \n
+		</text>
+	</string>
+
+	<string id="st_knife_needle">
+		<text>6Kh5 銃剣</text>
+	</string>
+	<string id="st_knife_needle_descr">
+		<text>
+			6H5は、1989年にAK74用の標準品として採用された銃剣だ。\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_blue] ・%c[ui_gray_2] 軍用品\n
+			%c[d_blue] ・%c[ui_gray_2] 近接武器\n
+			%c[d_red] ・%c[ui_gray_2] 厚い皮を持つミュータントを剥ぐのには向いていない\n \n
+		</text>
+	</string>
+
+	<string id="st_knife_hunting">
+		<text>SP-8 サバイバルマチェット</text>
+	</string>
+	<string id="st_knife_hunting_descr">
+		<text>
+			ハイカーボン鋼から作られたサバイバルマチェット。\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_blue] ・%c[ui_gray_2]狩猟品\n
+			%c[d_blue] ・%c[ui_gray_2] 近接武器\n
+			%c[pda_green] ・%c[ui_gray_2] 厚い皮を持つミュータントを剥ぐことができる\n \n
+		</text>
+	</string>
+
+	<string id="st_knife_swat">
+		<text>UVSR Taiga-1 サバイバルマチェット</text>
+	</string>
+	<string id="st_knife_swat_descr">
+		<text>
+			UVSR「救助活動用具」タイガ-1。まさに万能のサバイバルツール。武器であり、シャベルであり、斧であり、あらゆる用途に対応できる。ソビエト連邦で様々な機関のために開発・生産された。\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_blue] ・%c[ui_gray_2] 軍用品\n
+			%c[d_blue] ・%c[ui_gray_2] 近接武器\n
+			%c[pda_green] ・%c[ui_gray_2] 厚い皮を持つミュータントを剥ぐことができる\n \n
+		</text>
+	</string>
+
+	<string id="st_knife_combat">
+		<text>キャンプ用斧</text>
+	</string>
+	<string id="st_knife_combat_descr">
+		<text>
+			屋外や農作業用に用いられる斧。\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_blue] ・%c[ui_gray_2] 軍用品\n
+			%c[d_blue] ・%c[ui_gray_2] 近接武器\n
+			%c[pda_green] ・%c[ui_gray_2] 厚い皮を持つミュータントを剥ぐことができる\n \n
+		</text>
+	</string>
+
+	<string id="st_axe3">
+		<text>Superfors DB 2020 デッドブローハンマー</text>
+	</string>
+	<string id="st_axe3_descr">
+		<text>
+			ハンマーの頭にウレタンコーティングを施すことでスチールボールによる「ドスン」という衝撃を緩和し、柄への振動反動を軽減したハンマー。\n \n
+			%c[ui_gray_3]PROPERTIES:\n
+			%c[d_blue] ・%c[ui_gray_2] everyday item\n
+			%c[d_blue] ・%c[ui_gray_2] 近接武器\n
+			%c[pda_green] ・%c[ui_gray_2] greater reach compared to knives\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_m3s90_m">
+		<text>Benelli M3 Super 90</text>
+	</string>
+	<string id="st_wpn_m3s90_m_descr">
+		<text>
+		ベネリM3 S90は、ベネリが設計・製造するデュアルモードショットガンである。M3はセミオートマチックとポンプアクションを選択できるのが特徴である。ベネリのショットガンは優れた弾道性能を示し、その仕上げと細かい細工は伝統的なイタリアンスタイルの象徴である。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] ・%c[ui_gray_2] SilencerCo Salvo 12 サプレッサー\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_remington870">
+		<text>Remington 870</text>
+	</string>
+	<string id="st_wpn_remington870_descr">
+		<text>Remington 870は、Remington Arms社が1950年に発表したアメリカの銃だ。その特徴的な装填方法から、世界で最も有名なポンプアクション・ライフルの一つである。様々なバージョンが生産され、軍や警察、ハンターやアスリート、そして護身用として用いられている。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] Barska ES AC10632, C-MORE Tactical, EOTech, ACOG scopes\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_m870breacher_m">
+		<text>Remington 870 Breacher</text>
+	</string>
+	<string id="st_wpn_m870breacher_m_descr">
+		<text>Remington 870は、Remington Arms社が1950年に発表したアメリカの銃だ。その特徴的な装填方法から、世界で最も有名なポンプアクション・ライフルの一つである。様々なバージョンが生産され、軍や警察、ハンターやアスリート、そして護身用として用いられている。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] Barska ES AC10632, C-MORE Tactical, EOTech, ACOG scopes\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_tx15_m">
+		<text>Lone Star TX-15 DML</text>
+	</string>
+	<string id="st_wpn_tx15_m_descr">
+		<text>
+		TX15 Designated Marksman Light（DML）シリーズは、小型フレームのセミオートマチック精密ライフルの基準となることを目指した銃だ。多目的カービンの開発で得られた教訓を生かし、DMLは中距離での射撃において真価を発揮する。\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] ・%c[ui_gray_2] 5.56x45mm 口径対応のサプレッサー\n \n
+		</text>
+	</string>
+
+	<string id="st_wpn_fal">
+		<text>FN FAL</text>
+	</string>
+	<string id="st_wpn_fal_descr">
+		<text>FN FALは、Fabrique Nationale de Herstal社がベルギーで生産するNATO軍用火器である。最も認知度が高く、人気のある自動小銃の一つである。FN FALはもともと、第二次世界大戦中にドイツ軍が使用した7.92x33mmの中間口径用に開発され、その後、イギリスの280口径用のプロトタイプが登場した。その後、7.62x51mm NATO用としてリメイクされ、NATO諸国の一守護神として採用された。冷戦時代には「自由世界の右腕」と呼ばれた。"\n \n
+		%c[ui_gray_3]アタッチメント:\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] ・%c[ui_gray_2] 5.56x45mm 口径対応のサプレッサー\n \n
+		</text>
+	</string>
+
+	<string id="ui_mcm_dii_maid_efpwp_show">
+		<text>EFPWPの表示を切り替える</text>
+	</string>
+
+</string_table>

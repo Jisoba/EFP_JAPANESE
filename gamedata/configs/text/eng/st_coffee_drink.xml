@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<string id="st_coffee_drink">
+		<text>UCC コールドブリューコーヒー</text>
+	</string>
+	<string id="st_coffee_drink_descr">
+		<text>UCC コールドブリューで抽出したロブスタ豆のコーヒー\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] ・%c[ui_gray_2] 飲み物\n
+		%c[d_blue] ・%c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・%c[ui_gray_2] 興奮剤\n
+		%c[d_blue] ・%c[ui_gray_2] 強力なアルコール覚醒効果\n
+		%c[d_blue] ・%c[ui_gray_2] 清潔な栄養源\n
+		</text>
+	</string>
+	
+</string_table>

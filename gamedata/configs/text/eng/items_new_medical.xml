@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+    <string id="st_carbon">
+		<text>活性炭錠剤</text>
+	</string>
+	<string id="st_carbon_descr">
+		<text>摂取した毒物や毒素の治療に使用される、ココナッツの殻から製造された消費可能な活性炭タブレット。このタブレットは、潜在的な有毒化学物質や毒物を微細孔に機械的に捕捉し、毒物が体内で処理されるのを防ぐと同時に、未消化のビタミン、薬物、アルコールなどを分解する。ミュータントの肉や古い食べ物によく含まれる毒素を打ち消すために、ストーカーがごく一般的に使用している。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・%c[ui_gray_2] 解毒作用\n
+		%c[d_blue] ・%c[ui_gray_2] アルコール分解作用：小\n
+		</text>
+	</string>
+
+	<string id="st_emetic">
+		<text>エメチン</text>
+	</string>
+	<string id="st_emetic_descr">
+		<text>イペカク根から得られる医薬品、エメチンが入った小瓶。エメチンは、アメーバ赤痢の治療や中毒時の嘔吐誘発によく使われる。この薬自体は弱毒性であるため、未承認の量を服用することは危険である。ストーカーの多くは、不潔なものや危険なものを食べてしまい、それを体外に排出する必要がある場合の最終手段として、この薬を使うことを考慮している。使い方は、遠い隅の方に行き、スポイトを取り出し、喉の奥に3滴垂らす。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・%c[ui_gray_2] 解毒作用\n
+		%c[d_blue] ・%c[ui_gray_2] 嘔吐作用\n
+		%c[d_blue] ・%c[ui_gray_2] 強力な酔い覚め効果\n
+		</text>
+	</string>
+
+	<string id="st_decoction_dog">
+		<text>ブラインドドッグの蒸留酒</text>
+	</string>
+	<string id="st_decoction_dog_descr">
+		<text>盲導犬の心臓や肝臓から作られる悪臭を放つ紫色の液体。ストーカーには「犬の毛」と呼ばれ、疲労回復の民間療法として親しまれている。また、ブラインドドッグの毒性に対する抵抗力を高める効果があるが、この飲み物自体には軽い毒性がある。味はそれほどひどくはない。クヴァスを飲んでいると想像すれば、ほとんど同じ味がする。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・%c[ui_gray_2] ゾーン製の医薬品\n
+		%c[d_blue] ・%c[ui_gray_2] そこそこの毒素\n
+		</text>
+	</string>
+
+	<string id="st_decoction_boar">
+		<text>ボアのひづめのチンキ剤</text>
+	</string>
+	<string id="st_decoction_boar_descr">
+		<text>ボアのひづめを粉砕した粗く不透明な褐色の液体。公園の遊び場の砂のような味がする。放射能汚染で死ぬより、下痢や疲労の方がましと判断した場合、民間療法として人気がある。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・%c[ui_gray_2] ゾーン製の医薬品\n
+		%c[d_blue] ・%c[ui_gray_2] わずかな毒素\n
+		</text>
+	</string>
+
+	<string id="st_decoction_flesh">
+		<text>「フレッシュ」の血清エキス</text>
+	</string>
+	<string id="st_decoction_flesh_descr">
+		<text>匂いを嗅ぐと鼻毛が焼けるような、紫色の液体。変異した豚の生肉と目玉から作られた不愉快な調合液。未知の方法で身体の治癒機構を加速させるため、傷ついたストーカーが回復するのに最適なものである。しかし、その味は銃口を喉につきつけたいと思わせる。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・%c[ui_gray_2] ゾーン製の医薬品\n
+		%c[d_blue] ・%c[ui_gray_2] そこそこの毒素\n
+		</text>
+	</string>
+
+	<string id="st_decoction_krovoso">
+		<text>ブラッドサッカーの蒸留酒</text>
+	</string>
+	<string id="st_decoction_krovoso_descr">
+		<text>ブラッドサッカーの心臓と触手から作られる、血しょうに似た不透明で油性の赤い液体。赤血球や血小板の産生を促し、傷口の自然再生を早めるため、出血や傷口に非常に有効である。ミュータントの巣を掃除するときにできた傷を塞ぐために、任務遂行者の間で需要がある。味は悪くないが、飲み込むのに苦労する。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・%c[ui_gray_2] ゾーン製の医薬品\n
+		%c[d_blue] ・%c[ui_gray_2] そこそこの毒素\n
+		</text>
+	</string>
+
+	<string id="st_decoction_cat">
+		<text>「タイガーズ・アイ」強壮剤</text>
+	</string>
+	<string id="st_decoction_cat_descr">
+		<text>ルーカーの目と「キャット」の甲状腺を発酵させて作ったアンモニアの香りのする発泡性の透明な液体。熟練したハンターが、獲物を長距離にわたって追いかけ、何日も現場にいても精神的な警戒心を失わないために使用する、よりポピュラーな「犬の毛」に代わる強力な飲み物。しかし、「キャット」を捕らえるのは「ドッグ」よりも難しく、またルーカーが不運なストーカーを食事にすることもよくあるため、比較的珍しい調合方法である。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・%c[ui_gray_2] ゾーン製の医薬品\n
+		%c[d_blue] ・%c[ui_gray_2] そこそこの毒素\n
+		</text>
+	</string>
+
+	<string id="st_decoction_chimera">
+		<text>'エーペックスプレデター'</text>
+	</string>
+	<string id="st_decoction_chimera_descr">
+		<text>強力なキメラの心臓と肉から作られた、濁った苦い薬。光に当てると有効成分が変性するため、フラスコに保存されている。キメラの血液には、表面的にはステロイドに似た未知の有機分子が多量に含まれており、科学者たちは、この分子が怪物の驚異的なパワー、スタミナ、再生能力をもたらしていると考えられている。この薬によって、ストーカーはキメラの能力のほんの一部を手に入れることができるが、原料の調達が困難なため、極めて稀な薬である。また、この薬は血液に対する毒性が強いため、長期の使用は推奨されていない。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・%c[ui_gray_2] ゾーン製の医薬品\n
+		%c[d_blue] ・%c[ui_gray_2] 高い毒素\n
+		</text>
+	</string>
+
+	<string id="st_decoction_giant">
+		<text>スードウジャイアントのエリクサー</text>
+	</string>
+	<string id="st_decoction_giant_descr">
+		<text>スードウジャイアントの手と目から醸造された強力な薬。振らないと底に沈殿物が溜まり、コンクリートより厚くなる。胸にライフルの弾丸を受けたり、手足を爆薬で吹き飛ばされても戦い続けたMonolithの戦士の伝説があり、あらゆる痛みを完全に麻痺させる。ゾーンからの贈り物と言われている。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・%c[ui_gray_2] ゾーン製の医薬品\n
+		%c[d_blue] ・%c[ui_gray_2] 高い毒素\n
+		%c[d_blue] ・%c[ui_gray_2] 非常に高いダメージ耐性\n
+		</text>
+	</string>
+
+	<string id="st_breadmold">
+		<text>古いパン</text>
+	</string>
+	<string id="st_breadmold_descr">
+		<text>カビに覆われた古いパン。食べても安全とは言えないが、栄養価は高い。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・%c[ui_gray_2] 食べ物\n
+		%c[d_red] ・%c[ui_gray_2] 低品質\n
+		</text>
+	</string>
+
+	<string id="st_nuts_new_descr">
+		<text>「Dee's Nuts」ブランドのナッツの詰め合わせを袋詰めしたもの。ピーナッツ、ヘーゼルナッツ、カシューナッツ、アーモンドを含み、いい感じの人気ブレンド。栄養価はかなり高く、道中でも食べやすい。レーズンと合わせると特においしい。南アフリカからの輸入品。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・%c[ui_gray_2] 食べ物\n
+		%c[d_blue] ・%c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・%c[ui_gray_2] 高品質\n
+		%c[d_blue] ・%c[ui_gray_2] 汚染されてない栄養源\n
+		</text>
+	</string>
+
+	<string id="st_poison_0">
+		<text>体調は万全だ。</text>
+	</string>
+	<string id="st_poison_1">
+		<text>少し気持ち悪い。</text>
+	</string>
+	<string id="st_poison_2">
+		<text>あまりいい気分ではない。</text>
+	</string>
+	<string id="st_poison_3">
+		<text>いい気分ではない。</text>
+	</string>
+	<string id="st_poison_4">
+		<text>ひどい気分だ...</text>
+	</string>
+	<string id="st_poison_5">
+		<text>もうだめだ・・・</text>
+	</string>
+
+<string id="st_poison_add">
+		<text>毒</text>
+	</string>
+
+	<string id="st_poison_subtract">
+		<text>毒性低減効果がある</text>
+	</string>
+
+	<string id="st_dot">
+		<text>・</text>
+	</string>
+	<!-- 0-25 -->
+	<string id="st_poison_mag_0">
+		<text>わずか</text>
+	</string>
+	<!-- 25-75 -->
+	<string id="st_poison_mag_1">
+		<text>少し</text>
+	</string>
+	<!-- 75-200 -->
+	<string id="st_poison_mag_2">
+		<text>中程度</text>
+	</string>
+	<!-- 200+ -->
+	<string id="st_poison_mag_3">
+		<text>高い</text>
+	</string>
+
+	<string id="st_poison_verbose">
+		<text>毒性レベル: </text>
+	</string>
+
+	<string id="ui_mcm_menu_poison">
+		<text>毒</text>
+	</string>
+	<string id="ui_mcm_poison_title">
+		<text>食中毒の設定</text>
+	</string>
+	<string id="ui_mcm_poison_verbosity">
+		<text>プレイヤーの毒性に対する反応頻度:</text>
+	</string>
+	
+	<string id="ui_mcm_poison_verbosity_desc">
+		<text>オフ：毒へのメッセージ表示はありません。\n \nおおよそ:毒性レベルを大まかな推測で表示する。\n \n正確:毒の強さを1000段階で表示する。</text>
+	</string>
+	<string id="ui_mcm_lst_poison_off">
+		<text>オフ</text>
+	</string>
+	<string id="ui_mcm_lst_poison_approx">
+		<text>おおよそ</text>
+	</string>
+	<string id="ui_mcm_lst_poison_full">
+		<text>正確</text>
+	</string>
+	<string id="ui_mcm_poison_doc">
+		<text>医師が毒を治療するかどうか</text>
+	</string>
+	<string id="ui_mcm_poison_doc_desc">
+		<text>医師は中毒を完全に治すようになるでしょう。</text>
+	</string>
+	<string id="ui_mcm_poison_chance">
+		<text>薬品のドロップ確率</text>
+	</string>
+	<string id="ui_mcm_poison_chance_desc">
+		<text>ストーカーが活性炭錠剤を落とす確率</text>
+	</string>
+<string id="ui_mcm_poison_bar">
+		<text>蓄積毒のバーを表示する</text>
+	</string>
+	<string id="ui_mcm_poison_bar_desc">
+		<text>毒を得るアイテムや毒を中和するアイテムを消費する際に、現在の毒性を現すバーを表示するようになります。</text>
+	</string>
+	<string id="ui_mcm_poison_doc">
+		<text>医療水準</text>
+	</string>
+	<string id="ui_mcm_poison_doc_desc">
+		<text>医師が中毒を完全に治すことができるのか、どのように治すのかを設定できます。
+			\n \n アメリカ: 医者は毒を治さない。
+			\n \n [NOT WORKING] カナダ: 医師は毒を治すが、費用は毒のレベルに応じて増加する。
+			\n \n スカンジナビア: 医師は追加費用なしで毒を治療してくれる。
+		</text>
+	</string>
+	
+	<string id="ui_mcm_lst_america">
+		<text>アメリカ</text>
+	</string>
+	<string id="ui_mcm_lst_canada">
+		<text>カナダ</text>
+	</string>
+	<string id="ui_mcm_lst_scandinavia">
+		<text>スカンジナビア</text>
+	</string>
+	<string id="ui_mcm_poison_chance">
+		<text>薬をドロップする確率</text>
+	</string>
+	<string id="ui_mcm_poison_chance_desc">
+		<text>ストーカーが活性炭を落とす確率</text>
+	</string>
+	<string id="ui_mcm_poison_enabled">
+		<text>毒を有効化</text>
+	</string>
+	<string id="ui_mcm_poison_enabled_desc">
+		<text>このMODで提供される機能、食べ物や煎じ薬の摂取による毒の発生、毒のレベルによるステータスへのマイナス効果、活性炭による毒の中和を有効にします。\n \nこれはあなたの既存の毒素を浄化することに注意してください。ズル厳禁！</text>
+	</string>
+
+	<string id="ui_mcm_poison_dev">
+		<text>デバッグモード</text>
+	</string>
+	<string id="ui_mcm_poison_dev_desc">
+		<text>コンソールへのログ出力を有効にし、一部の機能を使用できるようにします。</text>
+	</string>
+</string_table>

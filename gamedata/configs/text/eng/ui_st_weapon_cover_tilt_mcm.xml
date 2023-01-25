@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+	
+	<string id="ui_mcm_weapon_cover_tilt_title">
+		<text>Weapon Cover Tilt</text>
+	</string>
+	<string id="ui_mcm_menu_weapon_cover_tilt">
+		<text>Weapon Cover Tilt</text>
+	</string>
+
+	<string id="ui_mcm_weapon_cover_tilt_enabled">
+		<text>有効</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_speed">
+		<text>アニメーションの慣性</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_speed_desc">
+		<text>より少ない値は速いアニメーションになる</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff">
+		<text>重量係数</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff_desc">
+		<text>数値が大きいほど、武器の重量がアニメーションの速度に与える影響が大きくなる</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_trigger_radius">
+		<text>トリガー半径(メートル)</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude">
+		<text>武器の長さの調節</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude_desc">
+		<text>武器の長さに依存するトリガー半径を変更し、値が大きいほど、短い武器と長い武器でより多くの差が生じます。</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_consider_silencer">
+		<text>トリガー半径に付属サイレンサーを計算する</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_consider_silencer_desc">
+		<text>サイレンサー装着可能な武器は、サイレンサー装着時にトリガー半径が約0.1メートル大きくなります。</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_tilt_rattle">
+		<text>傾けたときのガタガタ音</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_x">
+		<text>武器位置のオフセット X</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_x_desc">
+		<text>&lt; 0 - left. &gt; 0 - right</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_y">
+		<text>武器位置のオフセット Y</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_y_desc">
+		<text>&lt; 0 - down. &gt; 0 - up.</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_z">
+		<text>武器位置のオフセット Z</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_z_desc">
+		<text>&lt; 0 - backward. &gt; 0 - forward</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_yaw_variation">
+		<text>武器のヨー変動。</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_yaw_variation_desc">
+		<text>武器を構えたとき、ランダムに+-にヨーイングし、アニメーションのバリエーションを増やします。</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_roll_variation">
+		<text>武器のロール変動</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_roll_variation_desc">
+		<text>武器を構えたとき、ランダムに＋-の回転を行い、アニメーションのバリエーションを増やします。</text>
+	</string>
+
+	<string id="ui_mcm_weapon_cover_tilt_enable_manual_tilt">
+		<text>マニュアルティルトを有効にする</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_manual_tilt_key_bind">
+		<text>マニュアルティルトのキーバインド</text>
+	</string>
+	
+</string_table>

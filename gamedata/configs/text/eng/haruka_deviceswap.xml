@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+	<string id="ui_mcm_menu_detector_selector">
+		<text>
+		機器選択キー
+		</text>
+	</string>
+		<string id="ui_mcm_detector_selector_keybind_anomaly">
+		<text>
+		デテクター装備キー
+		</text>
+	</string>
+	<string id="ui_mcm_detector_selector_keybind_lights">
+		<text>
+		フラッシュライト装備キー
+		</text>
+	</string>
+	<string id="ui_mcm_detector_selector_keybind_radio">
+		<text>
+		RF レシーバー装備キー
+		</text>
+	</string>
+	<string id="ui_mcm_detector_selector_keybind_geiger">
+		<text>
+		ガイガーカウンター装備キー
+		</text>
+	</string>
+	<string id="ui_mcm_detector_selector_keybind_glowsticks">
+		<text>
+		グロースティック装備キー
+		</text>
+	</string>
+	<string id="ui_mcm_detector_selector_keybind_detector_anomaly">
+		<text>
+		アノマリー検出器装備キー
+		</text>
+	</string>
+</string_table>

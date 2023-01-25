@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<string_table>
+	<string id="ui_mcm_menu_dit">
+		<text>Disassembly Items Tweaks</text>
+	</string>
+    <string id="ui_mcm_dit_slide">
+        <text>Disassembly Tools Tweaks</text>
+	</string>
+	<string id="ui_mcm_dit_outfit_knife">
+		<text>衣装/ヘッドギアの分解にスイスナイフを要求する。</text>
+	</string>
+    <string id="ui_mcm_dit_outfit_knife_desc">
+        <text>衣装やヘッドギアの分解にグルーミングキットを使用することを防止します。</text>
+	</string>
+	<string id="ui_mcm_dit_consume_warning">
+		<text>アイテム消費に関する警告</text>
+	</string>
+    <string id="ui_mcm_dit_consume_warning_desc">
+        <text>アイテムを分解する際に警告をするかを選びます</text>
+	</string>
+	<string id="ui_mcm_dit_leatherman_limit">
+		<text>レザーマンのコンディション警告</text>
+	</string>
+    <string id="ui_mcm_dit_leatherman_limit_desc">
+        <text>レザーマンの使用警告を出す残り耐久度</text>
+	</string>
+	<string id="ui_mcm_dit_swiss_limit">
+		<text>スイスナイフの状態に関する警告</text>
+	</string>
+	<string id="ui_mcm_dit_swiss_limit_desc">
+		<text>スイスナイフの使用警告を出す残り耐久度</text>
+	</string>
+    <string id="ui_mcm_dit_grooming_limit">
+		<text>グルーミングキットのコンディション警告</text>
+	</string>
+    <string id="ui_mcm_dit_grooming_limit_desc">
+		<text>グルーミングキットの使用警告を出す残り耐久度</text>
+	</string>
+    <string id="ui_mcm_dit_d_key">
+		<text>意図しない分解を防ぐ追加キー</text>
+	</string>
+    <string id="ui_mcm_dit_d_key_desc">
+		<text>アイテムを分解するために押すべき追加キーを選べます</text>
+	</string>
+    <string id="ui_mcm_dit_b_key">
+		<text>意図しないアイテム消費を防ぐ追加キー</text>
+	</string>
+    <string id="ui_mcm_dit_b_key_desc">
+		<text>アイテムを消費するために押すべき追加キーを選べます</text>
+	</string>
+</string_table>
+
+

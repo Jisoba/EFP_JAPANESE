@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+
+	<string id="st_af_kevlar_name">
+		<text>ケブラー装甲板</text>
+	</string>
+	<string id="st_af_kevlar_descr">
+		<text>ケブラープレートは、その保護性能で広く知られており、驚異的な強度対重量比で高い評価を得ている。ケブラープレートにはさまざまな特性があるが、最も重要なのは胴体の前面と背面にある銃弾の衝撃を吸収することだ。非常に軽量で小口径の拳銃弾には有効だが、中口径以上の銃弾では簡単に貫通する。\n \n
+		%c[ui_gray_2]特性:\n
+		%c[d_cyan] ・%c[ui_gray_2] 軍用品\n
+		%c[d_cyan] ・%c[ui_gray_2] 装甲クラス II / BR3 クラス\n
+		%c[d_cyan] ・%c[ui_gray_2] 一つまでしか装備できない\n
+		</text>
+	</string>
+	
+	<string id="st_af_plates_name">
+		<text>鋼鉄製装甲版</text>
+	</string>
+	<string id="st_af_plates_descr">
+		<text>この防御用鋼板は特別に作られた。熱処理され、耐弾性のために成形されており、さまざまな保護用途に用いられる。胴体の前面や背面への弾道衝撃に耐えられるように設計されている。しかし、厚い鋼板は非常に重いため、この保護性能には代償がつきものだ。
+\n \n
+%c[d_red]\n\n
+%c[d_red]注意:%c[ui_gray_2]\n \n
+%c[default]鉄は導電体であり、皮膚に近いため、電気に弱くなる。このため、電気系のアノマリーなど電気の発生源の近くでは、注意して行動することが推奨される。\n \n
+		%c[ui_gray_2]特性:\n
+		%c[d_cyan] ・%c[ui_gray_2] 軍用品\n
+		%c[d_cyan] ・%c[ui_gray_2] 装甲クラス III+ / BR4 クラス\n
+		%c[d_cyan] ・%c[ui_gray_2] 一つまでしか装備できない\n
+		</text>
+	</string>
+	<string id="st_af_ceramic_name">
+		<text>セラミック装甲板</text>
+	</string>
+	<string id="st_af_ceramic_descr">
+		<text>硬質炭化物セラミックスで作られたこのタイプの装甲板は、高口径の脅威から身を守ることができるため、世界中の軍隊で使用されている。欧米ではESAPIと呼ばれ、飛んできた弾丸のエネルギーをセラミックを粉々に砕くことで発散させ、着用者を保護する。しかし、この機構は多弾頭攻撃には弱い。また、セラミック製のインサートはかなり厚くなりがちで、動きを制限してしまう。\n \n
+		%c[ui_gray_2]特性:\n
+		%c[d_cyan] ・%c[ui_gray_2] 軍用品\n
+		%c[d_cyan] ・%c[ui_gray_2] 装甲クラス IV / BR5 クラス\n
+		%c[d_cyan] ・%c[ui_gray_2] 一つまでしか装備できない\n
+		</text>
+	</string>
+	<string id="st_af_polymer_name">
+		<text>超高分子量ポリエチレン(UHMWPE) 装甲板</text>
+	</string>
+	<string id="st_af_polymer_descr">
+		<text>ポリエチレン（PE）は簡単な非反応性の化学構造および多目的な特性によるいろいろ産業および商業プロダクトで広く利用されている。これらの装甲挿入物を構成する超高分子量ポリエチレン（UHMWPE）は、低重量に信じられないほどの保護強度を提供する。入って来る投射物は摩擦によって局部的にポリマーを溶かし、挿入物内の弾丸の速度を急激に停止させる。このメカニズムはポリエチレンプレートに並ぶものがない複数の打撃の保護能力を与える。但し、UHMWPE は非常に高価であり、大口径の弾丸完全にを止めることはできない。\n \n
+		%c[ui_gray_2]特性:\n
+		%c[d_cyan] ・%c[ui_gray_2] 軍用品\n
+		%c[d_cyan] ・%c[ui_gray_2] 装甲クラス III / BR4 クラス\n
+		%c[d_cyan] ・%c[ui_gray_2] 一つまでしか装備できない\n
+		</text>
+	</string>
+	
+	<string id="st_af_kevlar_up_name">
+		<text>強化ケブラー装甲板</text>
+	</string>
+	<string id="st_af_kevlar_up_descr">
+		<text>ケブラープレートは、その保護性能で広く知られており、驚異的な強度対重量比で高い評価を得ている。ケブラープレートにはさまざまな特性があるが、最も重要なのは胴体の前面と背面にある銃弾の衝撃を吸収することだ。非常に軽量で小口径の拳銃弾には有効だが、中口径以上の銃弾では簡単に貫通する。\n \n
+		%c[ui_gray_2]特性:\n
+		%c[d_cyan] ・%c[ui_gray_2] 軍用品\n
+		%c[d_cyan] ・%c[ui_gray_2] 装甲クラス II / BR3 クラス\n
+		%c[d_cyan] ・%c[ui_gray_2] 一つまでしか装備できない\n
+		</text>
+	</string>
+	<string id="st_af_plates_up_name">
+		<text>強化鋼鉄製装甲板</text>
+	</string>
+	<string id="st_af_plates_up_descr">
+		<text>非常に重い硬化鋼の装甲板のセット。大口径の弾丸にも耐え、複数の被弾にも強く、安価であるが、その代償として重量が重い。そのため、軍隊の兵士はより軽いセラミック製のプレートを選び、このようなスチール製のプレートは主に民間人が購入する。ゾーンでは、鋼鉄製のプレートは外骨格に装着されることが多く、外骨格によってこの装甲板のデメリットを相殺できる。\n \n
+%c[d_red]\n\n
+%c[d_red]注意:%c[ui_gray_2]\n \n
+%c[default]鉄は導電体であり、皮膚に近いため、電気に弱くなる。このため、電気系のアノマリーなど電気の発生源の近くでは、注意して行動することが推奨される。\n \n
+		%c[ui_gray_2]特性:\n
+		%c[d_cyan] ・%c[ui_gray_2] 軍用品\n
+		%c[d_cyan] ・%c[ui_gray_2] 装甲クラス IV / BR5 クラス\n
+		%c[d_cyan] ・%c[ui_gray_2] 一つまでしか装備できない\n
+		</text>
+	</string>
+	<string id="st_af_ceramic_up_name">
+		<text>強化セラミック装甲板</text>
+	</string>
+	<string id="st_af_ceramic_up_descr">
+		<text>次世代セラミックプレートのセット。このようなプレートは、重武装の脅威に立ち向かうために、アメリカ軍とロシア軍によって開発されたものである。大口径の徹甲弾の衝撃を吸収する能力があるにも代わりに、重量があることと、そのような火力を利用する脅威がないことから、広く採用されるには至らなかった。\n \n
+		%c[ui_gray_2]特性:\n
+		%c[d_cyan] ・%c[ui_gray_2] 軍用品\n
+		%c[d_cyan] ・%c[ui_gray_2] 装甲クラス IV / BR6 クラス\n
+		%c[d_cyan] ・%c[ui_gray_2] 一つまでしか装備できない\n
+		</text>
+	</string>
+	<string id="st_af_polymer_up_name">
+		<text>UHMWPE/セラミック混合装甲板</text>
+	</string>
+	<string id="st_af_polymer_up_descr">
+		<text>防弾ベストの最も新しい技術であるこの装甲板は、貫通を防ぐために超高分子量のポリエチレン（UHMWPE）の補強の層と支持される堅いセラミックプレートの層から成り立つ合成装甲板だ。より厚いセラミックプレートとして大口径に対して耐性があり、また、UHMWPEの特徴である複数の衝撃に耐えうる耐久性を併せ持っていながらも、ほとんどの挿入物より軽く、多くの脅威から保護する。しかし、高価なため、世界の軍隊での大量採用は遅れている。\n \n
+		%c[ui_gray_2]特性:\n
+		%c[d_cyan] ・%c[ui_gray_2] 軍用品\n
+		%c[d_cyan] ・%c[ui_gray_2] 装甲クラス IV / BR5 protection\n
+		%c[d_cyan] ・%c[ui_gray_2] 一つまでしか装備できない\n
+		</text>
+	</string>
+	
+</string_table>

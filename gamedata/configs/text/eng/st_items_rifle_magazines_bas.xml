@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+    
+<!--
+Pistols and MP's
+-->
+
+	<string id="st_mag_sks_7.62x39">
+		<text>7.62x39 SKS マガジン</text>
+	</string>
+	<string id="st_mag_sks_7.62x39_descr">
+		<text>
+		20発装填可能なSKSの標準的なマガジン。
+		</text>
+	</string>
+	
+	<string id="st_mag_toz106_20x70_fmj">
+		<text>20x70 TOZ 106 マガジン</text>
+	</string>
+	<string id="st_mag_toz106_20x70_descr">
+		<text>
+		標準装備のTOZ106マガジン、装弾数2発。
+		</text>
+	</string>
+	
+	<string id="st_mag_etoz106_20x70_fmj">
+		<text>拡張 20x70 TOZ 106 マガジン</text>
+	</string>
+	<string id="st_mag_etoz106_20x70_descr">
+		<text>
+		4発装填可能な拡張TOZ106マガジン。
+		</text>
+	</string>
+	
+	
+	
+	
+	
+	<string id="st_mag_toz106_20x70_zhekan_fmj">
+		<text> 20x70 TOZ 106 マガジン</text>
+	</string>
+	<string id="st_mag_toz106_20x70_zhekan_descr">
+		<text>
+		標準装備のTOZ106マガジン、装弾数2発。
+		</text>
+	</string>
+	
+	<string id="st_mag_etoz106_20x70_zhekan_fmj">
+		<text>拡張 20x70 TOZ 106 マガジン</text>
+	</string>
+	<string id="st_mag_etoz106_20x70_zhekan_descr">
+		<text>
+		4発装填可能な拡張TOZ106マガジン。
+		</text>
+	</string>
+	
+	
+	
+	
+	
+	<string id="st_mag_dvl_7.62x51">
+		<text> 7.62x51 DVL10 マガジン</text>
+	</string>
+	<string id="st_mag_dvl_7.62x51_descr">
+		<text>
+		10発装填可能なDVL10用マガジン
+		</text>
+	</string>
+		
+	<string id="st_mag_basremington700_7.62x51_descr">
+		<text>拡張 7.62x51 Remington 700 マガジン</text>
+	</string>
+	<string id="st_mag_basremington700_7.62x51">
+		<text>
+		12発装填可能なRemington 700用拡張マガジン
+		</text>
+	</string>
+	
+	<string id="st_mag_remingtonarchangel_7.62x51">
+		<text>拡張 7.62x51 Remington Archangel Kit マガジン</text>
+	</string>
+	<string id="st_mag_remingtonarchangel_7.62x51_descr">
+		<text>
+		20発装填可能なRemington Archangel Kit用拡張マガジン
+		</text>
+	</string>
+	
+	<string id="st_mag_remingtonla_300_descr">
+		<text> .300 Remington 700 マガジン</text>
+	</string>
+	<string id="st_mag_remingtonla_300">
+		<text>
+		5発装填可能なRemington 700用マガジン 
+		</text>
+	</string>
+	
+	<string id="st_mag_k98_7.92x33">
+		<text> 7.92x33 Kar 98 マガジン</text>
+	</string>
+	<string id="st_mag_k98_7.92x33_descr">
+		<text>
+		 5発装填可能なKar 98用マガジン
+		</text>
+	</string>
+	
+	<string id="st_mag_valbas_9x39_pab9">
+		<text>拡張 9x39 AS VAL マガジン</text>
+	</string>
+	<string id="st_mag_valbas_9x39_pab9_descr">
+		<text>
+		30発装填可能な9x39 AS VAL用拡張マガジン
+		</text>
+	</string>
+	
+	<string id="st_mag_basvintorez_9x39_pab9">
+		<text>拡張 9x39 VSS マガジン</text>
+	</string>
+	<string id="st_mag_basvintorez_9x39_pab9_descr">
+		<text>
+		20発装填可能な9x39 VSS 用拡張マガジン
+		</text>
+	</string>
+	
+	<string id="st_mag_basextvintorez_9x39_pab9">
+		<text>拡張 9x39 VSS マガジン</text>
+	</string>
+	<string id="st_mag_basextvintorez_9x39_pab9_descr">
+		<text>
+		30発装填可能な9x39 VSS用拡張マガジン 
+		</text>
+	</string>
+	
+	<string id="st_mag_svd_5.56">
+		<text> 5.56x45 SVD マガジン</text>
+	</string>
+	<string id="st_mag_svd_5.56_descr">
+		<text>
+		10発装填可能な5.56x45 SVD用マガジン
+		</text>
+	</string>
+	
+	<string id="st_mag_svd_5.56_extended">
+		<text>拡張 5.56x45 SVD マガジン</text>
+	</string>
+	<string id="st_mag_svd_5.56_extended_descr">
+		<text>
+		20発装填可能な5.56x45 SVD用拡張マガジン
+		</text>
+	</string>
+	
+	<string id="st_mag_sksext_7.62x39">
+		<text>拡張 7.62x39 SKS マガジン</text>
+	</string>
+	<string id="st_mag_sksext_7.62x39_descr">
+		<text>
+		30発装填可能な7.62x39 SKS用拡張マガジン
+		</text>
+	</string>
+	
+	<string id="st_mag_sks_7.62x54ext">
+		<text>拡張 7.62x54 SKS マガジン</text>
+	</string>
+	<string id="st_mag_sks_7.62x54ext_descr">
+		<text>
+		30発装填可能な7.62x54 SKS用拡張マガジン
+		</text>
+	</string>
+	
+	<string id="st_mag_sks_7.62x54">
+		<text> 7.62x54 SKS マガジン</text>
+	</string>
+	<string id="st_mag_sks_7.62x54_descr">
+		<text>
+		 20発装填可能な7.62x54 SKS用マガジン
+		</text>
+	</string>
+	
+	<string id="st_mag_dvl_338">
+		<text> .338 Federal DVL10 マガジン</text>
+	</string>
+	<string id="st_mag_dvl_338fed_descr">
+		<text>
+		 10発装填可能な.338 Federal DVL10用マガジン
+		</text>
+	</string>
+	
+	<string id="st_mag_akalfa_7.62x39_bas">
+		<text> 7.62x39 AK Alfa マガジン</text>
+	</string>
+	<string id="st_mag_akalfa_7.62x39_bas_descr">
+		<text>
+		30発装填可能な7.62x39 AK Alfa 用マガジン
+		</text>
+	</string>
+	
+	<string id="st_mag_akalfa_5.56x45_bas">
+		<text> 5.56x45 AK Alfa マガジン</text>
+	</string>
+	<string id="st_mag_akalfa_5.56x45_bas_descr">
+		<text>
+		 5.56x45 AK Alfa マガジン発装填可能な30 rounds.
+		</text>
+	</string>
+	
+	<string id="st_mag_sr2m_9x21_veresk">
+		<text> 9x21 SR-2M Veresk マガジン</text>
+	</string>
+	<string id="st_mag_sr2m_9x21_veresk_descr">
+		<text>
+		30発装填可能な9x21 SR-2M Veresk用マガジン
+		</text>
+	</string>
+	
+	<string id="st_mag_sr2m_9x18_veresk">
+		<text> SR-2M 9x18 Veresk マガジン</text>
+	</string>
+	<string id="st_mag_sr2m_9x18_veresk_descr">
+		<text>
+		30発装填可能な9x18 SR-2M Veresk用マガジン
+		</text>
+	</string>
+
+</string_table>

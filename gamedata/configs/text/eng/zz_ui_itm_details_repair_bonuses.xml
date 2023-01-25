@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+
+	<string id="st_ui_repair_kits_by_material">
+		<text>リペアキットで使用可能な素材</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,32 @@
+<string_table>
+	<string id="ui_mcm_menu_smr_zzintegration">
+		<text>Integration</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_integration_info">
+		<text>このオプションは、ZCPを他のアドオンとうまく連動させるためのものです。これは互換パッチに似ていますが、より便利です。</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_glowsticks">
+		<text>Glowsticks</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_glowsticks_info">
+		<text>https://www.moddb.com/mods/stalker-anomaly/addons/glowsticks. グロースティックが便利なアイテムとしてスポーンさせる。</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_mags_redux">
+		<text>Anomaly Magazines Redux</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_mags_redux_chance">
+		<text>Magazine spawn chance</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_mags_redux_info">
+		<text> https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-magazines-redux. 現在装備している武器のマガジンを、スタッシュボックスの追加アイテムとしてスポーンするようにする。</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_lootboxes">
+		<text>Anomaly Lootboxes</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_lootboxes_chance">
+		<text>Lootbox spawn chance</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zzintegration_lootboxes_info">
+		<text> https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-lootboxes. ロックピックを便利なアイテムとしてスポーンできるようにし、独自のカテゴリで戦利品として扱えるようにする。</text>
+	</string>
+</string_table>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+<string id="ui_mcm_menu_ballistics">
+	<text>Ballistics</text>
+</string>
+<string id="ui_mcm_ballistics_title">
+	<text>Ballistics Framework</text>
+</string>
+
+<string id="ui_mcm_ballistics_debug">
+	<text>デバッグログ</text>
+</string>
+<string id="ui_mcm_ballistics_impair">
+	<text>カスタム損耗値</text>
+</string>
+<string id="ui_mcm_ballistics_impair_desc">
+	<text>カスタム弾薬のコンフィグで損耗度を適用する。</text>
+</string>
+<string id="ui_mcm_ballistics_cost">
+	<text>カスタムコストバリュー</text>
+</string>
+<string id="ui_mcm_ballistics_cost_desc">
+	<text>カスタム弾薬のコンフィグで定義されたベースコストを使用します。</text>
+</string>
+<string id="ui_mcm_ballistics_mutant">
+	<text>ミュータントのHP上昇</text>
+</string>
+<string id="ui_mcm_ballistics_mutant_desc">
+	<text>ballistics_utils.mutant_prot_values func を利用する際に、特定のミュータント (コントローラ、キメラ、ブラッドサッカー) のミュータントのヘルスを増加させます。ゾンビは常に10倍のHPを持ち、隠されたスクリプトの計算を反映させることに注意してください。</text>
+</string>
+<string id="ui_mcm_ballistics_burer">
+	<text>バーラーの耐久度オプション</text>
+</string>
+<string id="ui_mcm_ballistics_burer_desc">
+	<text>バーラーの耐久度の挙動を変更します。オプションは以下の通りです。:
+		\n \n クラシック: 従来通り（高装甲、倒すのにライフル弾が必要）
+		\n \n 肉厚: 装甲をスードウドッグレベルまで下げ、ヘルスを3倍にする。HP弾の効果が高くなる。
+		\n \n シス: 装甲をスードウドッグレベルまで低下させ、低速度弾を受け流すようになる。</text>
+</string>
+<string id="ui_mcm_lst_bclassic">
+	<text>クラシック</text>
+</string>
+<string id="ui_mcm_lst_bmeaty">
+	<text>肉厚</text>
+</string>
+<string id="ui_mcm_lst_bsith">
+	<text>シス</text>
+</string>
+<string id="ui_mcm_ballistics_rungun">
+	<text>ラン＆ガンモード</text>
+</string>
+<string id="ui_mcm_ballistics_rungun_desc">
+	<text>弾薬ドロップが増加し、わずかに攻撃力が低下し、弾薬の売却コストが減少します。</text>
+</string>
+</string_table>

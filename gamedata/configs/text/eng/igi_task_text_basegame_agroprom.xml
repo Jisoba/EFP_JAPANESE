@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Kuznetsov (Military Honcho) Stop Unauthorized Incursions Task -->
+
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_bs_assault_stalker_online_title">
+		<text>ラグの下</text>
+	</string>
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_bs_assault_stalker_online_descr">
+		<text>クズネツォフ大佐から、標識のある場所でストーカーの集団を始末するように言われた。</text>
+	</string>
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_bs_assault_stalker_online_job_descr">
+		<text>1つだけ微妙な問題がある。基地の近くに不法入国者がいることは、今後の作戦に不利になる。任務はこうだ： 指定の場所にいる関係者または任務部隊は自由に行動できるが、そうでない者は協定に関係なく、全員始末しなければならない。分かったか？</text>
+	</string>
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_bs_assault_stalker_online_finish">
+		<text>よくやった。この調子でいけば、きっと表彰ものだ。</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Kuznetsov (Military Honcho) Capture Territory Task -->
+
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_title">
+		<text>ピア・パニッシュメント</text>
+	</string>
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_descr">
+		<text>Ecologistが攻撃されたサイトに反撃するよう軍から命令された。</text>
+	</string>
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_job_descr">
+		<text>最近、ゾーン内で違法なストーカー行為が増加しています。そのような犯罪集団が 科学者を襲った。犯人は姿を消したが、見つけ出さねばならん。現場に行って奴を始末しろ。 </text>
+	</string>
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_finish">
+		<text>任務を完了したか？よくやった おそらく、彼らは我々の市民に干渉する前に、再考することだろう。</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Kuznetsov (Military Honcho) Capture Enemy Combatant Task -->
+
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_bs_kill_stalker_nearby_title">
+		<text>マーシャルジャスティス</text>
+	</string>
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_bs_kill_stalker_nearby_descr">
+		<text>ゾーンはあらゆる悪党の巣窟だ。クズネツォフ大佐は私に処刑を命じた。</text>
+	</string>
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_bs_kill_stalker_nearby_job_descr">
+		<text>SSUは、私に最重要ターゲットのリストを提供し続けている。その中には、有名なスパイや敵の戦術家もいる。また、恥ずかしながら、戦友を見捨てた脱走兵や不名誉な虫けらもいる。 そのほかは、正義から逃れるためにゾーンに逃げ込んだ外界の犯罪者で、普通のクズに過ぎない。犯罪の内容はどうでもいい。重要なのはそのターゲットが 無防備であることだ。処刑人を引き受ければ報酬を払おう</text>
+	</string>
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_bs_kill_stalker_nearby_finish">
+		<text>優秀な仕事ぶりだな！ 内務省の大臣も喜んでいることだろう。</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Kuznetsov (Military Honcho) Tight Security Task -->
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_bs_fetch_patches_title">
+		<text>厳重なセキュリティ</text>
+	</string>
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_bs_fetch_patches_descr">
+		<text>クズネツォフ大佐は隊員の鋭気を養うため、ある競技会を開いている。ワッペンを集めて参加し、それを提出すると報酬がもらえるのだ。</text>
+	</string>
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_bs_fetch_patches_job_descr">
+		<text>上層部の友人たちが、非公式なプログラムを立ち上げた。警備の仕事は月日が経つと飽きてくる。そこで、皆の鋭気を養うために、より頻繁にパトロールに出かけ、各小隊のうち最初に十分なワッペンを持って戻ってきた隊員には、報酬を与える。もし興味があれば、ぜひ参加してみてくれ。</text>
+	</string>
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_bs_fetch_patches_finish">
+		<text>ふむ、ワッペンを数えてみるか...よくやった、兵士よ。この賞は君のものだ。</text>
+	</string>
+	
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_5_title">
+		<text>報告書の収集</text>
+	</string>
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_5_descr">
+		<text>クズネツォフ大佐の命令で、謎の報告書を基地に持ち帰ることになった。</text>
+	</string>
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_5_job_descr">
+		<text>コードンの情報提供者から、周辺地域でのストーカー行為に関する重要な情報がもたらされた。PDAで指定された場所に行き, 書類を取り出し, すぐに報告してくれ。輝かしい仕事ではないが、最小限のリスクでそれなりの報酬は得られる。</text>
+	</string>
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_5_finish">
+		<text>よくやった、兵士よ。中身をチラ見したのなら、他の人にベラベラしゃべらないことを君自身のためにお勧めする。</text>
+	</string>
+
+<!-- (Military Medic) -->
+	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_1_title">
+		<text>ロゴヴェッツ中尉のための薬物製造キットを探す</text>
+	</string>
+	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_1_descr">
+		<text>薬物製造キットはロゴヴェッツ中尉が医療用品の品揃えを拡充するために必要なものだ。もし見つけたら、彼に渡そう。</text>
+	</string>
+	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_1_job_descr">
+		<text>医療物資が不足しており、しかし次の便はすぐには来ない。しかし ストーカーや商人たちが密輸を始めたと聞いている。薬物製造キットだ。きっと役に立つはず。手伝ってくれないか？</text>
+	</string>
+	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_1_fetch_job_descr">
+		<text>基地で治療するのはいいのだが、現場に出ている間、彼らに供給する能力は限られている。だから薬物製造キットを要求しているんだ。哨戒中に兵士が遭遇する可能性のある 危機や怪我に対応する薬を準備することができるんだ。一秒でも早く人の命が救えるんだ。だから提案なんだ ちゃんとしたキットを見つけたら 俺が報酬を支払う。大したことないんだ。 ただ、できるだけ早く持ってきてください。</text>
+	</string>
+	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_1_fetch_finish">
+		<text>まともなキットを見つけることができたのか？見せてくれ。すばらしい。これは使える。今日からパトロールの生存率が飛躍的に上がることを期待しているよ。</text>
+	</string>
+</string_table>

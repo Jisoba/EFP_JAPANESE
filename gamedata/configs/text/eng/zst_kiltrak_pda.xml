@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="st_pda_3_name">
+		<text>PDA (Version 3.1) with KilTrak・</text>
+	</string>
+	<string id="st_pda_3_descr">
+		<text>コンピュータの基本的かつ重要な機能を網羅したポケットサイズの電子機器。日々の情報共有に欠かせない。GPSモジュールがプリインストールされており、ユーザーに位置情報と時刻情報を提供する。このバージョンでは、ネットワークに接続された他のモジュールの位置を取得・処理する機能が大幅に強化され、ストーカーの間でも魅力的なPDAだ。また、通常のGPSモジュールとは異なり、接続されたチャンネルで特別な権限を取得し、より多くの情報を取得することができる。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] ・%c[ui_gray_2] 技術品\n
+		%c[d_blue] ・%c[ui_gray_2] 低消費電力\n
+		%c[d_purple] ・%c[ui_gray_2] 近くの中立分隊や 敵の位置を表示できる。\n
+		</text>
+	</string>
+</string_table>

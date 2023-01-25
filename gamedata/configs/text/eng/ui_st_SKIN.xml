@@ -1,0 +1,26 @@
+<string_table>
+
+	<string id="ui_mcm_menu_SKIN_settings">
+		<text>S.k.I.n</text>
+	</string>
+	
+	<string id="ui_mcm_SKIN_desc">
+		<text>
+			S.k.I.nでは、ナイフを抜かずにミュータントの皮を剥ぐことができ、しかしながら耐久性の低下などの仕様は維持されています。
+			\n現在、FDDAミュータントのルートアニメーションを有効にする必要があります。
+		</text>
+	</string>
+	
+	<string id="ui_mcm_SKIN_settings_enable">
+		<text>S.k.I.nを有効化する</text>
+	</string>
+	
+	<string id="ui_mcm_SKIN_settings_space">
+		<text>Enterキーに加え、Spaceキーでも「Loot all」を実行できるようにする。</text>
+	</string>
+
+	<string id="ui_mcm_SKIN_settings_equipped">
+		<text>ナイフまたは斧をスロットに装備することを要求する。</text>
+	</string>
+	
+</string_table>

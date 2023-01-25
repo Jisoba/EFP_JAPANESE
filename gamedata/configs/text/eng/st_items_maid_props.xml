@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+
+	<string id="st_prop_laptop_item">
+		<text>ノートパソコン</text>
+	</string>
+	<string id="st_prop_laptop_item_descr">
+		<text>
+			非常に洗練されたモダンなノートパソコン。こんなものがここにあるとは信じられない。
+		</text>
+	</string>
+
+	<string id="st_prop_bed_1">
+		<text>折りたたみ式ベッド</text>
+	</string>
+	<string id="st_prop_bed_1_descr">
+		<text>
+			シンプルなマットレスとブランケットで、軽くて持ち運びに便利。
+		</text>
+	</string>
+
+	<string id="st_prop_bed_2">
+		<text>金属製のベッド</text>
+	</string>
+	<string id="st_prop_bed_2_descr">
+		<text>
+			古い錆びた金属のベッドに、敷き物と毛布があれば、土の上で寝るよりかはましだ。
+		</text>
+	</string>
+
+	<string id="st_prop_bed_3">
+		<text>木製ベッド</text>
+	</string>
+	<string id="st_prop_bed_3_descr">
+		<text>
+			頑丈な木製ベッド、マットレスは柔らかく快適で、寒い夜でも暖かく過ごせるように毛布のダブルセットが付属している。
+		</text>
+	</string>
+
+	<string id="st_prop_board_map">
+		<text>ゾーンの地図</text>
+	</string>
+	<string id="st_prop_board_map_descr">
+		<text>
+			ゾーンの地図。
+		</text>
+	</string>
+
+	<string id="st_prop_cans_tuna">
+		<text>ツナ缶</text>
+	</string>
+	<string id="st_prop_cans_tuna_descr">
+		<text>
+			木箱に入ったツナ缶の山、とても食べられそうにはない。
+		</text>
+	</string>
+
+	<string id="st_prop_couch_1">
+		<text>古いソファー</text>
+	</string>
+	<string id="st_prop_couch_1_descr">
+		<text>
+			古いソファー。驚くべきことに、まだ放射線に曝されていない。
+		</text>
+	</string>
+
+	<string id="st_prop_counter_1">
+		<text>木製カウンター</text>
+	</string>
+	<string id="st_prop_counter_1_descr">
+		<text>
+			古い木製のシンプルなカウンターは、厳しい環境にも負けず、今も健在だ。
+		</text>
+	</string>
+
+	<string id="st_prop_poster_vertical_item">
+		<text>ポスター (縦)</text>
+	</string>
+	<string id="st_prop_poster_vertical_item_descr">
+		<text>
+			画像が描かれたシンプルな紙（カスタマイズ可能）。
+		</text>
+	</string>
+
+	<string id="st_prop_table_1">
+		<text>木製デスク</text>
+	</string>
+	<string id="st_prop_table_1_descr">
+		<text>
+			頑丈な木製の机。いまだに形を保っている。
+		</text>
+	</string>
+
+	<string id="st_prop_table_2">
+		<text>木製テーブル</text>
+	</string>
+	<string id="st_prop_table_2_descr">
+		<text>
+			木製の一般的なテーブル。丈夫で実用的だ。
+		</text>
+	</string>
+
+</string_table>

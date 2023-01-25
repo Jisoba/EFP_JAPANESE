@@ -1,0 +1,53 @@
+<string_table>
+	<string id="st_player_skills_medicine">
+		<text>医療スキル</text>
+	</string>
+	<string id="st_new_level_medicine">
+		<text>$clr_red・$clr_white医療アイテムの回復力アップ</text>
+	</string>
+	
+	<string id="st_player_skills_insanity">
+		<text>精神力スキル</text>
+	</string>
+	<string id="st_new_level_insanity">
+		<text>$clr_purple・$clr_white正気を失う代わりに....。\n$clr_purple・$clr_white精神回復力アップ\n$clr_purple・$clr_white精神耐性向上</text>
+	</string>
+	
+	<string id="st_player_skills_tinkering">
+		<text>技術スキル</text>
+	</string>
+	<string id="st_new_level_tinkering">
+		<text>$clr_cyan・$clr_whiteリペアキットの使用率アップ</text>
+	</string>
+	<string id="st_tinkering_refund">
+		<text>リペアキットを使わずに修理した。</text>
+	</string>
+	
+	<string id="st_player_skills_bartering">
+		<text>取引スキル</text>
+	</string>
+	<string id="st_new_level_bartering">
+		<text>$clr_yellow・$clr_white取引価格の改善</text>
+	</string>
+	
+	<string id="st_player_skills_magloading">
+		<text>リローディングスキル</text>
+	</string>
+	<string id="st_new_level_magloading">
+		<text>$clr_white・$clr_whiteマガジンの装填・取り出し速度アップ</text>
+	</string>
+	
+	<string id="st_player_skills_lockpicking">
+		<text>ピッキングスキル</text>
+	</string>
+	<string id="st_new_level_lockpicking">
+		<text>$clr_white・$clr_whiteルートボックスのロック難易度低下</text>
+	</string>
+	
+	<string id="st_player_skills_reloading">
+		<text>武器取り扱いスキル</text>
+	</string>
+	<string id="st_new_level_reloading">
+		<text>$clr_white・$clr_whiteリロード速度、銃を構える/しまう速度の向上</text>
+	</string>
+</string_table>

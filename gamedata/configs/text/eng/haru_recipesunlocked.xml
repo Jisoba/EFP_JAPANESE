@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+	<string id="ui_mcm_menu_all_recipes_unlocked">
+		<text>レシピロック/アンロック</text>
+	</string>
+	<string id="ui_mcm_all_recipes_unlocked_show_all_recipes">
+		<text>レシピをロック/アンロックする</text>
+	</string>
+</string_table>

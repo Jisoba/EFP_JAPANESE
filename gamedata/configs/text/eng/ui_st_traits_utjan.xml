@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+	<string id="st_traits_use_respec">
+		<text>飲む</text>
+	</string>
+	<string id="st_itm_desc_trait_respec">
+		<text>"サンセット・サルサパリラ "は、ルートビアのような炭酸飲料だ。\n
+		サンセット・サルサパリラ社は1918年に設立され、サルサパリラ風味の清涼飲料水で旧アメリカ全土に知られるようになった。
+		\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] ・%c[ui_gray_2] 飲み物\n
+		%c[d_blue] ・%c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・%c[ui_gray_2] 高品質\n
+		%c[d_red] ・%c[ui_gray_2] 腎不全を引き起こす可能性あり\n
+		\n \n
+		%c[ui_gray_3]これを飲むと特性がリセットされる</text>
+	</string>
+	<string id="st_itm_name_trait_respec">
+		<text>サンセット・サルサパリラ</text>
+	</string>
+
+	<string id="st_btn_enable">
+		<text>有効</text>
+	</string>
+	<string id="st_btn_disable">
+		<text>無効</text>
+	</string>
+	
+	<string id="st_btn_learn">
+		<text>特性を得る</text>
+	</string>
+	<string id="st_btn_learn_learned">
+		<text>既に得ている</text>
+	</string>
+	<string id="st_btn_learn_locked">
+		<text>ロック中</text>
+	</string>
+	
+	<string id="st_requires_trait">
+		<text>前提特性が必要</text>
+	</string>
+	
+	<string id="st_traits_reminder">
+		<text>未使用の特性ポイントがある!</text>
+	</string>
+	
+	<string id="st_traits_title">
+		<text>キャラクター特性</text>
+	</string>
+	
+	<string id="st_traits_total_level">
+		<text>合計特性レベル</text>
+	</string>
+	
+	<string id="st_traits_avail_txt">
+		<text>特性ポイント: </text>
+	</string>
+	
+	<string id="st_trait_name_strong_back">
+		<text>ストロングバック</text>
+	</string>
+	<string id="st_trait_desc_strong_back">
+		<text>"新人を運ぶから腰が強い"
+\n \n最大重量を+4kg増加させる。</text>
+	</string>
+	
+	<string id="st_trait_name_strider">
+		<text>ストライダー</text>
+	</string>
+	<string id="st_trait_desc_strider">
+		<text>"早く歩かないと \n 会議に遅れてしまう！"\n \n移動速度が6%上昇\n最大重量が1kg減少</text>
+	</string>
+	
+	<string id="st_trait_name_sprinter">
+		<text>スプリンター</text>
+	</string>
+	<string id="st_trait_desc_sprinter">
+		<text>"速く走れ\nエミッションに巻き込まれないように"\n \n移動速度が8%上昇\n最大重量が3%下がる</text>
+	</string>
+	
+	<string id="st_trait_name_mutant_resist">
+		<text>強靭な皮膚</text>
+	</string>
+	<string id="st_trait_desc_mutant_resist">
+		<text>"あなたはミュータントと格闘して皮膚が硬くなった"\n \nミュータントの攻撃から受けるダメージが10%減少する</text>
+	</string>
+	
+	<string id="st_trait_name_melee_mutant">
+		<text>ミュータントハンター</text>
+	</string>
+	<string id="st_trait_desc_melee_mutant">
+		<text>"刺せばいいものをなぜ弾を無駄にする？"\n \nミュータントに与える近接ダメージが15%増加する。</text>
+	</string>
+	
+	<string id="st_trait_name_faction_cashback_self">
+		<text>Friendly Face</text>
+	</string>
+	<string id="st_trait_desc_faction_cashback_self">
+		<text>"あなたの所属する派閥のトレーダーは、いつもあなたと取引すると喜ぶ"\n \n自分の派閥のトレーダーと取引価格が+5%改善される。</text>
+	</string>
+	
+	<string id="st_trait_name_faction_cashback_other">
+		<text>流浪の商人</text>
+	</string>
+	<string id="st_trait_desc_faction_cashback_other">
+		<text>"見知らぬ人との交渉術を心得ている"\n \n自分の派閥以外のトレーダーとの取引価格が+5%改善される。</text>
+	</string>
+	
+	<string id="st_trait_name_psy_resist_controller">
+		<text>荒んだ心</text>
+	</string>
+	<string id="st_trait_desc_psy_resist_controller">
+		<text>"あなたの心はゾーンに入った頃よりも荒んでいる..."\n \nコントローラーの精神攻撃から受けるダメージが25%減少する</text>
+	</string>
+	
+	<string id="st_trait_name_tinkering_armor">
+		<text>鎧鍛冶師</text>
+	</string>
+	<string id="st_trait_desc_tinkering_armor">
+		<text>"打たれなければ、鎧を直す必要はない"\n \nボディアーマーとヘルメットの修理時に、リペアキットを消費しない確率が+15%上昇する。</text>
+	</string>
+	
+	<string id="st_trait_name_tinkering_weapon">
+		<text>ガンスミス</text>
+	</string>
+	<string id="st_trait_desc_tinkering_weapon">
+		<text>"フルオートでトシュカノを殺すと武器に負担がかかる"\n \n武器の修理時にリペアキットを消費しない確率が+15%上昇する。</text>
+	</string>
+	
+	<string id="st_trait_name_medicine_boost">
+		<text>メディック</text>
+	</string>
+	<string id="st_trait_desc_medicine_boost">
+		<text>"おめでとうございます、弾痕の治療法を見つけましたね"\n \n医療アイテムを使用した場合、回復した体力と放射線の合計の+10%をクイックブーストとして得ることができる</text>
+	</string>
+	
+	<string id="st_trait_name_mag_loading_bonus">
+		<text>ファストロード</text>
+	</string>
+	<string id="st_trait_desc_mag_loading_bonus">
+		<text>"弾丸を握りしめ、そこに押し込む"\n \nマガジンへの弾丸の装填が+25%速くなる</text>
+	</string>
+	
+	<string id="st_trait_name_mag_unloading_bonus">
+		<text>バレットホーダー</text>
+	</string>
+	<string id="st_trait_desc_mag_unloading_bonus">
+		<text>"見つけたマガジンから弾丸を取り出すことが、あなたにとっての楽しみだ"\n \nマガジンからの弾丸の取り出しが＋30%速くなる</text>
+	</string>
+
+	<string id="st_trait_name_lockpicking_bonus">
+		<text>鍵師</text>
+	</string>
+	<string id="st_trait_desc_lockpicking_bonus">
+		<text>"箱の中身は何だ？"\n \nルートボックスのロック難易度が10%低下する</text>
+	</string>
+	
+	<string id="st_trait_name_pack_mule">
+		<text>荷ラクダ</text>
+	</string>
+	<string id="st_trait_desc_pack_mule">
+		<text>"いちいち戦利品を拾わなくていいのに..."\n \n最大重量が+10%する\nスプリント速度が5%減少する</text>
+	</string>
+	
+	<string id="st_trait_name_melee_defense">
+		<text>接近防御術</text>
+	</string>
+	<string id="st_trait_desc_melee_defense">
+		<text>"ナイフを使えば、なぜか爆発も痛くない"\n \n近接武器を持っている時、物理攻撃から受けるダメージが20%減少する</text>
+	</string>
+	
+	<string id="st_trait_name_lone_stalker">
+		<text>一匹狼</text>
+	</string>
+	<string id="st_trait_desc_lone_stalker">
+		<text>"友達なんて必要ない"\n \n仲間がいない時、最大重量が5kg増加し、受けるダメージが10%減少する</text>
+	</string>
+	
+	<string id="st_trait_name_squad_leader">
+		<text>分隊長</text>
+	</string>
+	<string id="st_trait_desc_squad_leader">
+		<text>"大砲を持った隊員がいれば、ゾーンの探索はより安全だ"\n \n仲間の与えるダメージが15％増加し、受けるダメージが25％減少する</text>
+	</string>
+	
+	<string id="st_trait_name_small_guns_reload">
+		<text>ガンスリンガー</text>
+	</string>
+	<string id="st_trait_desc_small_guns_reload">
+		<text>"銃を抜きな...ついでにマガジンも"\n \nピストルとサブマシンガンのリロードが25％速くなる</text>
+	</string>
+	
+	<string id="st_trait_name_big_guns_reload">
+		<text>長物持ち</text>
+	</string>
+	<string id="st_trait_desc_big_guns_reload">
+		<text>"30発の弾倉から2発だけ発射した後、戦闘中にリロードする必要は本当にないのか......？"\n \nライフル、スナイパー、ショットガンのリロードが+15%速くなる</text>
+	</string>
+	
+	<string id="st_trait_name_sidearm_quickdraw">
+		<text>サイドアーム クイックドロー</text>
+	</string>
+	<string id="st_trait_desc_sidearm_quickdraw">
+		<text>"リロードより銃の方が速い "ことを忘れるな\n \nハンドガン以外の銃をしまう速度が25％向上し、ハンドガンの装備速度が50％向上する</text>
+	</string>
+	
+	<string id="st_trait_name_butcher">
+		<text>ブッチャー</text>
+	</string>
+	<string id="st_trait_desc_butcher">
+		<text>"ミュータントの死体を丁寧に切断し、最大限に活用する"\n \n皮剥ぎ時に50%の確率でミュータントの部位を追加で入手できる</text>
+	</string>
+	
+	<string id="st_trait_name_tinkering_parts">
+		<text>部品復元者</text>
+	</string>
+	<string id="st_trait_desc_tinkering_parts">
+		<text>"ストーカーがうらやむ、清潔な装備"\n \nパーツやツールの修理時に、リペアキットの使用回数を消費しない確率が+25%アップする</text>
+	</string>
+	
+	<string id="st_trait_name_pain_rush">
+		<text>アドレナリンラッシュ</text>
+	</string>
+	<string id="st_trait_desc_pain_rush">
+		<text>"AAAAAAAHHH!"\n \nダメージを受けたとき、10秒間移動速度が速くなる。\n最大+25%</text>
+	</string>
+	
+	<string id="st_trait_name_pain_train">
+		<text>スーパーアドレナリンラッシュ</text>
+	</string>
+	<string id="st_trait_desc_pain_train">
+		<text>"AAAAAAAAAAAHHHHHHHHHH!!!"\n \nアドレナリンラッシュが、毎秒最大5%のスタミナ回復するようになる。\nアドレナリンラッシュの持続時間が5秒伸びる</text>
+	</string>
+	
+	<string id="st_trait_name_predator">
+		<text>プレデター</text>
+	</string>
+	<string id="st_trait_desc_predator">
+		<text>"血を流す暇もない"\n \nストーカーやミュータントを倒すと、10秒間、出血量が最大5%減少する</text>
+	</string>
+	
+	<string id="st_trait_name_bloodlust">
+		<text>ブラッドラスト</text>
+	</string>
+	<string id="st_trait_desc_bloodlust">
+		<text>"血が出るなら殺せる"\n \nプレデターが銃のハンドリングも向上させる。\nリロードと武器を構える/しまう速度が最大+25%速くなる</text>
+	</string>
+	
+</string_table>

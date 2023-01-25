@@ -1,0 +1,47 @@
+<!-- 
+	Anomaly Modconfiguration Menu strings
+	
+-->
+
+<string_table>
+
+	<string id="ui_mcm_menu_bountysquads">
+		<text>Bounty Squads Expansion</text>
+	</string>
+	<string id="ui_mcm_title_bountysquads">
+		<text>Bounty Squads Expansion</text>
+	</string>
+
+	<string id="ui_mcm_bountysquads_delay">
+		<text>潜在的スポーン間のディレイ</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_desc">
+		<text>これは、賞金首部隊の出現チャンス前に経過しなければならない最小の時間（ゲーム内時間）です。賞金首が生まれるかどうかは、各ファクションの賞金首スポーン確率に依存します。</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_spawn">
+		<text>スポーン更新までの時間</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_spawn_desc">
+		<text>これはアクターの派閥、評判、スポーンチェックの更新の間の時間（実秒数）です。この時間はゲームロード後にカウントされるため、アクターは賞金首分隊がスポーンするチャンスが来る前に、この指定された時間だけ敵対派閥のリンクレベル範囲内にいなければならない。</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_state">
+		<text>アクターの位置情報更新間隔</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_state_desc">
+		<text>アクターの位置が更新されるまでの時間(実秒数)です。賞金稼ぎ部隊は、この時間経過後にアクターの現在地を再ターゲットします。また、アクターが近くの味方がいる「安全な」場所にいる場合は、撤退します。</text>
+	</string>
+	<string id="ui_mcm_bountysquads_base_spawn_chance">
+		<text>基礎スポーン確率</text>
+	</string>
+	<string id="ui_mcm_bountysquads_base_spawn_chance_desc">
+		<text>これは基本スポーン確率です。アクターがその派閥のメンバーを殺していないときに、あるアップデートで賞金首分隊がスポーンする確率のパーセンテージを表します。賞金首分隊が生まれる確率は (base_spawn_chance * faction_multiplier) として計算され、faction multiplier はその分隊のメンバーのうち何人がアクターに殺されたかに依存する。この値を低くしておくことを推奨します。派閥の倍率によって、賞金首分隊が最終的に非常に発生しやすくなることを保証するからです。</text>
+	</string>
+	<string id="ui_mcm_bountysquads_spawn_mult_attacked_increment">
+		<text>死亡1件あたりの倍率</text>
+	</string>
+	<string id="ui_mcm_bountysquads_spawn_mult_attacked_increment_desc">
+		<text>アクターが特定の派閥に対して特に好戦的な場合、その派閥は彼らを狙って賞金首を送り込む確率が高くなる。アクターがストーカーを殺すたびに、犠牲者の派閥は賞金首分隊を生み出すための倍率、faction_multiplierをこの値だけ増やします。例えば、この値が0.5に設定されている場合、アクターがあるファクションのメンバーを最初に殺すと、倍率は1.5に増加します。次の犠牲者は2.0に増加し、以下同様です。この値は、その派閥が賞金稼ぎ分隊のスポーンのチャンスが来るたびに、基本スポーン確率と掛けられる。</text>
+	</string>
+
+
+</string_table>

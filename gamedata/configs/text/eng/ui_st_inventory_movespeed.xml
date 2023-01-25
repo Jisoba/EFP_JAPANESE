@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+
+	<string id="ui_inv_outfit_speed">
+		<text>スーツ移動速度倍率</text>
+	</string>
+
+	
+	<!-- MCM -->
+	
+	<string id="ui_mcm_menu_speed">
+		<text>Speed</text>
+	</string>
+	<string id="ui_mcm_menu_speed_title">
+		<text>服装や武器の移動速度への影響度</text>
+	</string>
+	<string id="ui_mcm_speed_title">
+		<text>服装や武器の移動速度への影響度</text>
+	</string>
+	<string id="ui_mcm_speed_encumbrance">
+		<text>所持重量に応じた移動速度への影響度</text>
+	</string>
+	<string id="ui_mcm_speed_encumbrance_desc">
+		<text>所持重量の特徴は、軽い所持重量（合計25％未満）にはボーナスを与え、重い所持重量にはペナルティを与えることです。(70%以上)。
+\n \nこのオプションを有効にすると、軽装で移動する場合、移動速度に影響が出るため注意が必要です。</text>
+	</string>
+	<string id="ui_mcm_speed_weapon">
+		<text>武器がスプリントに影響を与える</text>
+	</string>
+	<string id="ui_mcm_speed_weapon_desc">
+		<text>有効にすると、武器の種類と重量に応じて、スプリント速度に補正がかかります。</text>
+	</string>
+	<string id="ui_mcm_speed_debug">
+		<text>(開発者向け) 追加コンソールログ</text>
+	</string>
+	<string id="ui_mcm_speed_debug_desc">
+		<text>デバッグに使えるログを出力します。</text>
+	</string>
+</string_table>

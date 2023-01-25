@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="sim_default_army_trader_task_1_name">
+    <text>Militaryの襲撃地点</text>
+  </string>
+  <string id="sim_default_army_trader_task_1_text">
+    <text>%s（%sの）は不法人物を排除するための襲撃を指揮するよう命じた。</text>
+  </string>
+  <string id="sim_default_army_trader_task_1_about">
+    <text>司令官はゾーンへの侵入が増えていることを懸念している。君にはゾーン内で無許可の人間を探してほしいとのことだ。味方がいないかどうか注意しろ。しかし、それ以外の人間を見かけたら、その場で撃っても構わない。
+</text>
+  </string>
+  <string id="sim_default_army_trader_task_1_finish">
+    <text>素晴らしい働きだった。このまま続けていれば、表彰されること間違いなしだ。</text>
+  </string>
+  <string id="sim_default_army_trader_task_2_name">
+    <text>Military領土の占領</text>
+  </string>
+  <string id="sim_default_army_trader_task_2_text">
+    <text>%s（%sの）はゾーン内の領域を支配するように指示した。</text>
+  </string>
+  <string id="sim_default_army_trader_task_2_about">
+    <text>我々の部隊はゾーンの奥深くへと 進めと命令されている。司令官は支配地域の獲得のために志願兵を募集している。君の協力を伝えてもいいか？</text>
+  </string>
+  <string id="sim_default_army_trader_task_2_finish">
+    <text>仕事は終わったか?よくやった。君の成功をすぐに司令官に知らせよう。</text>
+  </string>
+  <string id="sim_default_army_trader_task_3_name">
+    <text>Militaryのために敵の攻撃目標を捕獲しろ</text>
+  </string>
+  <string id="sim_default_army_trader_task_3_text">
+    <text>%s（%sの）は、敵対的なターゲットの捕獲または殺害を命じた。</text>
+  </string>
+  <string id="sim_default_army_trader_task_3_about">
+    <text>本部には、ゾーン内の最重要指名手配者のリストがある。その中のひとりでも捕まえることができれば、次の給料にボーナスが出る。君はこの仕事に乗り気かな？</text>
+  </string>
+  <string id="sim_default_army_trader_task_3_finish">
+    <text>素晴らしい仕事ぶりだ！司令官も喜ぶだろう。</text>
+  </string>
+  <string id="sim_default_army_mechanic_task_1_name">
+    <text>Militaryの技術屋たちのために%sを探せ</text>
+  </string>
+  <string id="sim_default_army_mechanic_task_1_text">
+    <text>%sは、Militaryの技術屋たちが古いものと交換するために必要だ。見つけたら、Militaryの技術屋に持って行け。</text>
+  </string>
+  <string id="sim_default_army_mechanic_task_1_about">
+    <text>なあ、頼みがあるんだが？もし俺を助けてくれるなら、俺が必要としているものを教える。</text>
+  </string>
+  <string id="sim_default_army_mechanic_task_1_fetch_about">
+    <text>国防省から十分な資金が得られていないため、より良い装備を調達するためには、新しいツールがどうしても必要だ。差し当たり、ベーシック ツールが必要だ。君が見つけてくれれば、俺たちは感謝するだろう。ちなみに、俺のところに持ってこなくても、Militaryの技術屋であれば誰でも構わない。そうしてくれれば、今後は俺たちで割引してやるよ。やってくれるか？</text>
+  </string>
+  <string id="sim_default_army_mechanic_task_1_fetch_finish">
+    <text>すばらしい！我々が頼んだ通りのものを持ってきてくれたな。ありがとう。</text>
+  </string>
+  <string id="sim_default_army_mechanic_task_2_name">
+    <text>Militaryの技術屋たちのために%sを探せ</text>
+  </string>
+  <string id="sim_default_army_mechanic_task_2_text">
+    <text>%sは、Militaryの技術屋たちが古いものと交換するために必要としている。見つけたらMilitaryの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_army_mechanic_task_2_about">
+    <text>さて、もし君が乗り気なら、俺はもっと多くのツールが欲しい。だが、ちょっと手に入りにくいかもしれない。やってくれるか？</text>
+  </string>
+  <string id="sim_default_army_mechanic_task_2_fetch_about">
+    <text>よし、今度は新しいアドバンスド ツールが必要だ。持ってきてくれたら、もっと割引してやるよ。</text>
+  </string>
+  <string id="sim_default_army_mechanic_task_2_fetch_finish">
+    <text>最高だ！装備を見てもらいたいときはいつでも来いよ。</text>
+  </string>
+  <string id="sim_default_army_mechanic_task_3_name">
+    <text>Militaryの技術屋たちのために%sを探せ</text>
+  </string>
+  <string id="sim_default_army_mechanic_task_3_text">
+    <text>%sは、Militaryの技術屋たちが古いものと交換するために必要としている。見つけたらMilitaryの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_army_mechanic_task_3_about">
+    <text>さて、もし君が乗り気なら、俺はもっと多くのツールが欲しい。だが、ちょっと手に入りにくいかもしれない。やってくれるか？</text>
+  </string>
+  <string id="sim_default_army_mechanic_task_3_fetch_about">
+    <text>よし、今度は新しいエキスパート ツールが必要だ。持ってきてくれたら、もっと割引してやるよ。</text>
+  </string>
+  <string id="sim_default_army_mechanic_task_3_fetch_finish">
+    <text>最高だ！装備を見てもらいたいときはいつでも来いよ。</text>
+  </string>
+  <string id="sim_default_dolg_trader_task_1_name">
+    <text>Duty領土の防衛</text>
+  </string>
+  <string id="sim_default_dolg_trader_task_1_text">
+    <text>敵対勢力が我々の領土に侵入している。%s（%sの）から、この脅威を排除するよう命じられた。</text>
+  </string>
+  <string id="sim_default_dolg_trader_task_1_about">
+    <text>敵部隊が我々の野営地のひとつに進撃しているとの情報を得た。奴らが到着する前に阻止して欲しい。</text>
+  </string>
+  <string id="sim_default_dolg_trader_task_1_finish">
+    <text>素晴らしい働きだ。おまえは立派な戦士だぞ。</text>
+  </string>
+  <string id="sim_default_dolg_trader_task_2_name">
+    <text>Duty領土の奪還</text>
+  </string>
+  <string id="sim_default_dolg_trader_task_2_text">
+    <text>領土を奪還する任務を受けた。仕事が終わったら、%s（%sの）に報告しろ。
+</text>
+  </string>
+  <string id="sim_default_dolg_trader_task_2_about">
+    <text>重要な任務がある。Freedomが俺たちの野営地のひとつを占領した。それを取り戻すための特別要員が必要だ。</text>
+  </string>
+  <string id="sim_default_dolg_trader_task_2_finish">
+    <text>仕事は完了したか？よくやった。</text>
+  </string>
+  <string id="sim_default_dolg_trader_task_3_name">
+    <text>DutyのためのVIP暗殺</text>
+  </string>
+  <string id="sim_default_dolg_trader_task_3_text">
+    <text>%s（%sの）は、ターゲットを見つけて始末するよう命じた</text>
+  </string>
+  <string id="sim_default_dolg_trader_task_3_about">
+    <text>対処が必要な･･････重要人物たちのリストがある。密告者、分隊長、参謀、Freedomの上層部、ただのクズもいる。できれば情報を引き出し、そうでなければその場で殺す。</text>
+  </string>
+  <string id="sim_default_dolg_trader_task_3_finish">
+    <text>よくやった！おまえは俺たちの誇りだ。これが約束のものだ。</text>
+  </string>
+  <string id="sim_default_dolg_mechanic_task_1_name">
+    <text>Dutyの技術屋たちのために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_dolg_mechanic_task_1_text">
+    <text>%sは、Dutyの技術屋たちが古いものを交換するために必要としている。見つけたらDutyの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_dolg_mechanic_task_1_about">
+    <text>俺はいいツールを使いたいんだ、ストーカー･･････多少なら現金もある。もしおまえが俺を助けることに興味があれば、俺が探しているものを教えよう。</text>
+  </string>
+  <string id="sim_default_dolg_mechanic_task_1_fetch_about">
+    <text>今ある修理ツールのほとんどは、２回目の事件が起きた2006年のものだ。Dutyが存在するよりもずっと前のことだ。俺たちは、Militaryから残っている機材をかき集めなければならなかった。要するに、新しいベーシック ツールが必要なのだ。それをDutyの技術屋に持っていけば、今後は割引してやろう。やる気はあるか？</text>
+  </string>
+  <string id="sim_default_dolg_mechanic_task_1_fetch_finish">
+    <text>ナイスな働きだ。このツールを持ってきてくれたおまえには、割引価格で提供するようにしてやろう。</text>
+  </string>
+  <string id="sim_default_dolg_mechanic_task_2_name">
+    <text>Dutyの技術屋たちのために%sを探せ</text>
+  </string>
+  <string id="sim_default_dolg_mechanic_task_2_text">
+    <text>%sは、Dutyの技術屋たちがツールを新調するに必要としている。見つけたらDutyの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_dolg_mechanic_task_2_about">
+    <text>おい、もしさらに高度なツールを見つけたら、もっと割引してやるよ。探しておいてくれないか？</text>
+  </string>
+  <string id="sim_default_dolg_mechanic_task_2_fetch_about">
+    <text>今、私たちは新しいアドバンスド ツールを必要としている。１セット持ってきてくれれば、今後はもっと割引をしてやる。</text>
+  </string>
+  <string id="sim_default_dolg_mechanic_task_2_fetch_finish">
+    <text>いいねえ。ツールを持って来てくれたから、もっと割引してやろう。</text>
+  </string>
+  <string id="sim_default_dolg_mechanic_task_3_name">
+    <text>Dutyの技術屋たちのために%sを探せ</text>
+  </string>
+  <string id="sim_default_dolg_mechanic_task_3_text">
+    <text>%sは、Dutyの技術屋たちがツールを新調するに必要としている。見つけたらDutyの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_dolg_mechanic_task_3_about">
+    <text>おい、もしさらに高度なツールを見つけたら、もっと割引してやるよ。探しておいてくれないか？</text>
+  </string>
+  <string id="sim_default_dolg_mechanic_task_3_fetch_about">
+    <text>今、私たちは新しいエキスパート ツールを必要としている。１セット持ってきてくれれば、今後はもっと割引をしてやる。</text>
+  </string>
+  <string id="sim_default_dolg_mechanic_task_3_fetch_finish">
+    <text>いいねえ。ツールを持って来てくれたから、もっと割引してやろう。</text>
+  </string>
+  <string id="sim_default_bandit_trader_task_1_name">
+    <text>Banditのためのターゲット排除</text>
+  </string>
+  <string id="sim_default_bandit_trader_task_1_text">
+    <text>ターゲットを見つけて排除し、報酬を受け取るために%sから%sに戻る。</text>
+  </string>
+  <string id="sim_default_bandit_trader_task_1_about">
+    <text>ゾーンには、俺を怒らせたり、無礼な態度をとったりする野郎が大勢いる。その中には、俺に金を貸した奴や、取引を失敗した奴なんかもいる。そいつらはただのネズミのようなもので、踏み潰す必要がある。もしおまえにその気があれば、奴らの情報を渡すから、GPSで追跡してみろ。</text>
+  </string>
+  <string id="sim_default_bandit_trader_task_1_finish">
+    <text>よくやった。で、さらなる用件だ。</text>
+  </string>
+  <string id="sim_default_bandit_trader_task_2_name">
+    <text>Banditのためのミュータント退治</text>
+  </string>
+  <string id="sim_default_bandit_trader_task_2_text">
+    <text>この場所の近くでミュータントが目撃され、その地域が危険な状態になっている。おまえにはその地域のミュータントの脅威を排除してもらう。仕事が終わったら、%s（%sの）に報告しろ。</text>
+  </string>
+  <string id="sim_default_bandit_trader_task_2_about">
+    <text>ミュータントを一掃できるような度胸のある野郎をあちこちで探していた。ストーカーたちは、怖くてこの辺りには来ない。このままでは、商品を「借りる」カモがいなくなってしまい、この地域から出ていかなければならなくなる。</text>
+  </string>
+  <string id="sim_default_bandit_trader_task_2_finish">
+    <text>すげえな！これが報酬だ。ボスによろしく言っとくぜ。</text>
+  </string>
+  <string id="sim_default_bandit_trader_task_3_name">
+    <text>Banditたちの脅威を取り除け</text>
+  </string>
+  <string id="sim_default_bandit_trader_task_3_text">
+    <text>あなたは領土内の敵を排除する任務を負っている。任務を完了した後、%s（%sの）に報告しろ。</text>
+  </string>
+  <string id="sim_default_bandit_trader_task_3_about">
+    <text>クソどもが我々の支配地域に侵入している。ボスは俺に、いくつかの野営地を取り戻すのに十分な度胸のある、ならず者を募集するよう命令した。どうだ？おまえは男らしさを十分に備えているか？</text>
+  </string>
+  <string id="sim_default_bandit_trader_task_3_finish">
+    <text>すげえな！これが報酬だ。ボスによろしく言っとくぜ。</text>
+  </string>
+  <string id="sim_default_bandit_trader_task_4_name">
+    <text>「チキ ブリキ」対「ダムケ」</text>
+  </string>
+  <string id="sim_default_bandit_trader_task_4_text">
+    <text>%s（%sの）から、愉快な仲間たちが満足するまで、地元のストーカーたちの貴重品を奪うことで、奴らよりも優位に立つことを命じた。</text>
+  </string>
+  <string id="sim_default_bandit_trader_task_4_about">
+    <text>しばらくの間、一緒に行動してくれる仲間を探している奴らがいる。彼らは主要なターゲットを探すために偵察者を必要としていて、仕事をこなせば報酬を支払ってくれるだろう。</text>
+  </string>
+  <string id="sim_default_bandit_trader_task_4_finish">
+    <text>うまくやってくれたな？これがおまえの取り分だ。</text>
+  </string>
+  <string id="sim_default_bandit_trader_task_5_name">
+    <text>暗殺者</text>
+  </string>
+  <string id="sim_default_bandit_trader_task_5_text">
+    <text>%sから殺しの依頼があった。ターゲットを見つけて排除し、報酬を受け取りに彼のところに戻れ。</text>
+  </string>
+  <string id="sim_default_bandit_trader_task_5_about">
+    <text>俺を困らせた連中のリストを持っている。そいつらを排除してほしいのさ。どうだ？</text>
+  </string>
+  <string id="sim_default_bandit_trader_task_5_finish">
+    <text>やったぜ、あのクソ野郎を追い出せたんだな！これが約束したものだ。</text>
+  </string>
+  <string id="sim_default_bandit_mechanic_task_1_name">
+    <text>Banditの技術屋たちのために%sを探せ</text>
+  </string>
+  <string id="sim_default_bandit_mechanic_task_1_text">
+    <text>%sは、Banditの技術屋が古いものと交換するために必要としている。見つけたらBanditの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_bandit_mechanic_task_1_about">
+    <text>新しいツールがどうしても必要なんだ。錆びついた道具では何もできないし、ガンオイルも足りない。もし興味があれば、何が必要なのか教えてやるよ。</text>
+  </string>
+  <string id="sim_default_bandit_mechanic_task_1_fetch_about">
+    <text>もっと良いツールが必要だ。ゾーン内のあらゆる連中が俺たちを撃ち殺そうとするこんな状況で、そいつを探すのはかなり困難だ。今は、ベーシック ツールが必要なんだ。見つけてうちの技術屋たちに持ってきてくれれば、今後は割引してもいいぜ。やる気はあるか？</text>
+  </string>
+  <string id="sim_default_bandit_mechanic_task_1_fetch_finish">
+    <text>完璧だな！。これはまさに俺たちが必要としているものだ。他の技術屋たちにも値引きをするように言っておく。</text>
+  </string>
+  <string id="sim_default_bandit_mechanic_task_2_name">
+    <text>Banditの技術屋たちのために%sを探せ</text>
+  </string>
+  <string id="sim_default_bandit_mechanic_task_2_text">
+    <text>%sは、Banditの技術屋が古いものと交換するために必要としている。見つけたらBanditの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_bandit_mechanic_task_2_about">
+    <text>おまえが持ってきてくれたツールキットは素晴らしいものだが、俺が必要とするものがすべて揃っているわけじゃねえ。もっと良いものを探してくれないか？</text>
+  </string>
+  <string id="sim_default_bandit_mechanic_task_2_fetch_about">
+    <text>あとは、%sが必要だな。どこで手に入るのかわからねえが、もし見つけられるなら、そいつが欲しい。</text>
+  </string>
+  <string id="sim_default_bandit_mechanic_task_2_fetch_finish">
+    <text>またやってくれたのか！大したもんだぜ、これが報酬だ。他の技術屋たちにも話しておくから、今後はさらに値引きしてやるよ。</text>
+  </string>
+  <string id="sim_default_bandit_mechanic_task_3_name">
+    <text>Banditの技術屋たちのために%sを探せ</text>
+  </string>
+  <string id="sim_default_bandit_mechanic_task_3_text">
+    <text>%sは、Banditの技術屋が古いものと交換するために必要としている。見つけたらBanditの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_bandit_mechanic_task_3_about">
+    <text>おまえが持ってきてくれたツールキットは素晴らしいものだが、俺が必要とするものがすべて揃っているわけじゃねえ。もっと良いものを探してくれないか？</text>
+  </string>
+  <string id="sim_default_bandit_mechanic_task_3_fetch_about">
+    <text>あとは、%sが必要だな。それに今のところ必要なものはすべて入っているはず。どこで手に入るのかわからねえが、もし見つけられるなら、そいつが欲しい。</text>
+  </string>
+  <string id="sim_default_bandit_mechanic_task_3_fetch_finish">
+    <text>またやってくれたのか！大したもんだぜ、これで必要なものはすべて揃った。今後はさらに割引するから、よろしく頼むぜ。</text>
+  </string>
+  <string id="sim_default_killer_trader_task_1_name">
+    <text>殺害契約</text>
+  </string>
+  <string id="sim_default_killer_trader_task_1_text">
+    <text>ターゲットを見つけて排除することを請け負った。任務を完了したら、報酬を受け取りに%s（%sの）のところに戻れ。</text>
+  </string>
+  <string id="sim_default_killer_trader_task_1_about">
+    <text>俺たちの元請は、未処理の懸賞首リストを持っている。俺たちは、元請への義務を果たすために、こいつらの暗殺を個別に実行するヒットマンを必要としている。興味あるか？</text>
+  </string>
+  <string id="sim_default_killer_trader_task_1_finish">
+    <text>終わったのか？素晴らしい。これがあんたの取り分だ。</text>
+  </string>
+  <string id="sim_default_killer_trader_task_2_name">
+    <text>Mercenaryたちの支配地域を襲撃しろ</text>
+  </string>
+  <string id="sim_default_killer_trader_task_2_text">
+    <text>あらゆる敵対的脅威を排除しろ。任務を完了したら、報酬を受け取りに%s（%sの）のところに戻れ。</text>
+  </string>
+  <string id="sim_default_killer_trader_task_2_about">
+    <text>おまえには攻撃の指揮をとってもらいたい。敵部隊を全て排除しろ。</text>
+  </string>
+  <string id="sim_default_killer_trader_task_2_finish">
+    <text>素晴らしい働きだった。おまえは大した戦士だ。</text>
+  </string>
+  <string id="sim_default_killer_mechanic_task_1_name">
+    <text>Mercenaryの技術屋のために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_killer_mechanic_task_1_text">
+    <text>%sは、Mercenaryの技術屋が古いツールと交換するために必要としている。見つけたらMercenaryの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_killer_mechanic_task_1_about">
+    <text>おまえに仕事がある。新しいツールを持ってきてくれれば報酬をやろう。やる気はあるか？</text>
+  </string>
+  <string id="sim_default_killer_mechanic_task_1_fetch_about">
+    <text>いいね。俺たちは%sをあちこちで探していた。銃器の修理に必要なオイルや工具が入っているはずだ。俺を含めた技術屋たちにツールキットを持ってきてもらえれば、代金を支払おう。その際、感謝の気持ちを込めて、ツールキットを持ってくるごとに、俺たちのサービスの値段を引き下げてやろう。さて、どうする？協力してくれるか？</text>
+  </string>
+  <string id="sim_default_killer_mechanic_task_1_fetch_finish">
+    <text>そうだ。これは俺たちが探していたものだ。ありがとう！</text>
+  </string>
+  <string id="sim_default_killer_mechanic_task_2_name">
+    <text>Mercenaryの技術屋のために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_killer_mechanic_task_2_text">
+    <text>%sは、Mercenaryの技術屋が古いものと交換するために必要としている。見つけたらMercenaryの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_killer_mechanic_task_2_about">
+    <text>もうひとつ仕事がある。おまえが持ってきてくれたツールは、うまく機能しているが、必要なものがすべて揃っているわけではない。もっといいものを探してもらえないだろうか？</text>
+  </string>
+  <string id="sim_default_killer_mechanic_task_2_fetch_about">
+    <text>あとは、%sが必要だな。どこで手に入るのかわからねえが、もし見つけられるなら、そいつが欲しい。</text>
+  </string>
+  <string id="sim_default_killer_mechanic_task_2_fetch_finish">
+    <text>必要なものはすべて揃った。ありがとう。</text>
+  </string>
+  <string id="sim_default_killer_mechanic_task_3_name">
+    <text>Mercenaryの技術屋たちのために%sを探せ</text>
+  </string>
+  <string id="sim_default_killer_mechanic_task_3_text">
+    <text>%sは、Mercenaryの技術屋が古いものと交換するために必要としている。見つけたらMercenaryの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_killer_mechanic_task_3_about">
+    <text>もうひとつ仕事がある。おまえが持ってきてくれたツールは、うまく機能しているが、必要なものがすべて揃っているわけではない。もっといいものを探してもらえないだろうか？</text>
+  </string>
+  <string id="sim_default_killer_mechanic_task_3_fetch_about">
+    <text>あとは、%sが必要だ。どこで手に入るのかわからんが、もし見つけられたら、それが欲しい。</text>
+  </string>
+  <string id="sim_default_killer_mechanic_task_3_fetch_finish">
+    <text>必要なものはすべて揃った。ありがとう。</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_1_name">
+    <text>Lonerたちのために地域のミュータントを一掃しろ</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_1_text">
+    <text>ミュータントが進行している。彼らを追い詰めて一掃しろ。その後、%s（%sの）に戻って報酬を得ろ。</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_1_about">
+    <text>聞こえるか？ミュータントの遠吠えだ。久しぶりに寒気がする。おまえが外に出て奴らを始末するのはどうだ？礼はするぜ。</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_1_finish">
+    <text>よくやった、ストーカー！</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_2_name">
+    <text>Lonerのトレーダーのために%sを見つける。</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_2_text">
+    <text>%s（%sの）は%sを見つけることを要求している。</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_2_about">
+    <text>普段はストーカーからアーティファクトを買わないんだが、特別に手に入れたいものがある。おまえは俺のためにそれを手に入れてみないか？</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_2_fetch_about">
+    <text>%sを探している。見たことあるか？俺は普段、ストーカーからアーティファクトを買うことはないんだが、このアーティファクトを手に入れたいと思っている。もし見つけてきてくれたら、ちゃんとお礼はするよ。</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_2_fetch_finish">
+    <text>よい狩りを、ストーカー！</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_3_name">
+    <text>同胞の責任を負う者</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_3_text">
+    <text>%s（%sの）は、Militaryに亡命したストーカーを始末することを望んでいる。</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_3_about">
+    <text>ある男がいる。この辺の奴らと同じように普通のストーカーだった。ある日、Militaryの幹部たちがやってきて、彼に任務を与えた。気が付くと、かつての仲間たちを冷酷に殺害しているのが目撃された！そんなことが許されるはずがない！この裏切り者を見つけ出し、後ろから撃たれた仲間の仇を討ってくれ。</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_3_finish">
+    <text>ああ、殺したのか？何か手酌で飲みたい気分だ。みんなと一杯やるよ･･････。</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_4_name">
+    <text>Lonerたちのためにミュータントの脅威を排除しろ</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_4_text">
+    <text>この場所の近くではミュータントが目撃され、一部の地元住民にとっては危険な場所となっている。この地域のミュータントの脅威を取り除くことを命じられた。仕事が終わったら、%s（%sの）に報告しろ。</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_4_about">
+    <text>ミュータントの巣を駆除して、この辺りの安全を確保してくれる人を探していたんだ。その仕事をしてみないか？</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_4_finish">
+    <text>ありがとう、ストーカー。君のおかげで、この地域は他の連中にとっても安全になった。これが君の報酬だ。</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_5_name">
+    <text>かなり危険な暗殺</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_5_text">
+    <text>%s（%sの）には、排除すべき価値ある攻撃目標がある</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_5_about">
+    <text>排除しなければならない危険な奴がいる。奴を捕まえるのは簡単ではないが、十分な報酬を約束しよう。おまえはこの仕事に乗り気か？</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_5_finish">
+    <text>良い仕事ぶりだストーカー。これが約束の報酬だ。</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_6_name">
+    <text>Lonerのトレーダーのために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_6_text">
+    <text>%s（%sの）は、状態がほどほどの銃器を探している。見つけたら彼の所に戻れ。</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_6_about">
+    <text>狩場でミュータント狩りをしてる連中のうちのひとりが、特別な銃を欲しがっているんだが、俺のところにはない。その銃を探してくれないか？</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_6_fetch_about">
+    <text>状態が良好な%sが必要だ。あんたがそれを見つけてきてくれたら、俺はあんたに報酬を支払うよ。</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_6_fetch_finish">
+    <text>ああ、完璧だ。これでいいだろう。これが約束したお金だ。</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_7_name">
+    <text>Lonerのトレーダーのために%sを集めろ</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_7_text">
+    <text>%s（%sの）は、彼のところに%sを持って来れば、金を払うらしい。</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_7_about">
+    <text>ある特殊なミュータントに懸賞金がかけられている。興味あるか？</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_7_fetch_about">
+    <text>そのミュータントを殺して、そいつの%sを持ってきてくれれば、十分な報酬を払うぜ、ストーカー。</text>
+  </string>
+  <string id="sim_default_stalker_trader_task_7_fetch_finish">
+    <text>ああ、またひとつ脅威が排除され、野営地に新しい勲章ができた。よくやった、ストーカー。</text>
+  </string>
+  <string id="sim_default_stalker_mechanic_task_1_name">
+    <text>Lonerの技術屋のために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_stalker_mechanic_task_1_text">
+    <text>%sは、Lonerの技術屋が古いものと交換するために必要としている。見つけたらLonerの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_stalker_mechanic_task_1_about">
+    <text>新しいツールが必要だ、ストーカー。ゾーンではなかなか手に入らないものだ。もし俺たちを助けようって気があるなら、必要なことを教えよう。</text>
+  </string>
+  <string id="sim_default_stalker_mechanic_task_1_fetch_about">
+    <text>聞いてくれてありがとな。ゾーンではなかなか手に入らない新しいツールが欲しい。まずは、ベーシック ツールを揃えてくれ。そして、それをLonerの技術屋に持ってきてくれれば、今後は割引をする。やってみるか？</text>
+  </string>
+  <string id="sim_default_stalker_mechanic_task_1_fetch_finish">
+    <text>必要なものはすべて揃った。ありがとう。</text>
+  </string>
+  <string id="sim_default_stalker_mechanic_task_2_name">
+    <text>Lonerの技術屋のために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_stalker_mechanic_task_2_text">
+    <text>%sは、Lonerの技術屋が古いものと交換するために必要としている。見つけたらLonerの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_stalker_mechanic_task_2_about">
+    <text>おまえが持ってきてくれたツールキットは素晴らしいものだが、俺が必要とするものがすべて揃っているわけはない。もっと良いものを探してくれないか？</text>
+  </string>
+  <string id="sim_default_stalker_mechanic_task_2_fetch_about">
+    <text>あとは、%sが必要だな。どこで手に入るのかわからないが、もし見つけられるなら、そいつが欲しい。</text>
+  </string>
+  <string id="sim_default_stalker_mechanic_task_2_fetch_finish">
+    <text>おお！なかなかいいツールキットを見つけたな。礼として金をやろう。他の技術屋たちにも声をかけて、今後はもっと値引きしてやるよ。</text>
+  </string>
+  <string id="sim_default_stalker_mechanic_task_3_name">
+    <text>Lonerの技術屋のために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_stalker_mechanic_task_3_text">
+    <text>%sは、Lonerの技術屋が古いものと交換するために必要としている。見つけたらLonerの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_stalker_mechanic_task_3_about">
+    <text>おまえが持ってきてくれたツールキットは素晴らしいものだが、俺が必要とするものがすべて揃っているわけはない。もっと良いものを探してくれないか？</text>
+  </string>
+  <string id="sim_default_stalker_mechanic_task_3_fetch_about">
+    <text>あとは、%sが必要だな。どこで手に入るのかわからないが、もし見つけられるなら、そいつが欲しい。</text>
+  </string>
+  <string id="sim_default_stalker_mechanic_task_3_fetch_finish">
+    <text>ナイス！とてもいいツールを見つけたな。苦労してくれたお礼にお金をあげよう。他の技術屋とも話をしておいたから、今後はもっと安くしてやれるよ。</text>
+  </string>
+  <string id="sim_default_csky_trader_task_1_name">
+    <text>ニンブルにPDAを届けろ</text>
+  </string>
+  <string id="sim_default_csky_trader_task_1_text">
+    <text>%sからの依頼で、暗号化されたPDAをザトンのニンブルに届けてほしいとのこと。</text>
+  </string>
+  <string id="sim_default_csky_trader_task_1_about">
+    <text>この暗号化されたPDAをニンブルに届けて欲しい。落としたり壊したりしないように気をつけるんだ、いいか？</text>
+  </string>
+  <string id="sim_default_csky_trader_task_2_name">
+    <text>Clear SkyのためにMilitaryのヘリコプターを破壊しろ</text>
+  </string>
+  <string id="sim_default_csky_trader_task_2_text">
+    <text>%s（%sの）は、Militaryの攻撃ヘリを破壊してほしいという。</text>
+  </string>
+  <string id="sim_default_csky_trader_task_2_about">
+    <text>Militaryはいつも我々の前哨基地に襲撃隊を送ったりして、我々を悩ませてきた。しかし、最近は上空から攻めてくるようになった。言いたいことはわかるな？ヤツらの攻撃ヘリを１機破壊してくれ、そうすればヤツらの力を削ぐことができる。君ならできるな？報酬は十分にある。</text>
+  </string>
+  <string id="sim_default_csky_trader_task_3_name">
+    <text>Clear Skyのために科学者を%sに案内しろ</text>
+  </string>
+  <string id="sim_default_csky_trader_task_3_text">
+    <text>%s（%sの）からの依頼で、科学者たちを特定の場所に案内して研究してもらうことになった。研究が成功したら、彼らを安全に野営地に戻し、報酬を受けろ。</text>
+  </string>
+  <string id="sim_default_csky_trader_task_3_about">
+    <text>この野営地の科学者たちは、彼らを研究のために野外に導ける、経験豊富なストーカーを必要としている。君はそれに耐えられるか？君の仕事は彼らを生かし、目的地に導くことだ。失敗すると、ここでの評判が悪くなる。</text>
+  </string>
+  <string id="sim_default_csky_trader_task_3_finish">
+    <text>ありがとうストーカー。サービスの対価としてこれを持っていくといい。</text>
+  </string>
+  <string id="sim_default_csky_trader_task_4_name">
+    <text>Clear Skyのためのミュータント退治</text>
+  </string>
+  <string id="sim_default_csky_trader_task_4_text">
+    <text>この場所の近くではミュータントが目撃されており、一部の地元住民にとっては危険な場所となっている。君にはこの地域のミュータントの脅威を取り除くことを命じる。仕事が終わったら、%s（%sの）に報告するように。</text>
+  </string>
+  <string id="sim_default_csky_trader_task_4_about">
+    <text>君は熱心なハンターかな？我々の派閥が頻繁に訪れる地域を少しでも安全に保つため、その地域のミュータントを一掃する、そんな人材を探していた。君にはその仕事をやる気があるか？</text>
+  </string>
+  <string id="sim_default_csky_trader_task_4_finish">
+    <text>素晴らしい！これが報酬だ。この辺りは前と同じように安全だと伝えておく。ありがとう、ストーカー。</text>
+  </string>
+  <string id="sim_default_csky_trader_task_5_name">
+    <text>Clear SkyのためにBanditの野営地を排除しろ</text>
+  </string>
+  <string id="sim_default_csky_trader_task_5_text">
+    <text>この地域内のBanditの脅威を排除することを命じられた。仕事が終わったら、%s（%sの）に報告しろ。</text>
+  </string>
+  <string id="sim_default_csky_trader_task_5_about">
+    <text>この地域ではBanditが大問題になっている。人殺しの凶悪犯たちが、メイン基地の外で我々の野営地を待ち伏せし、支配地域を奪おうとしているのだ。彼らがいる限り、この地域の多くの安全な道を通ることができない。我々は、自分の手を汚すことを恐れない経験豊富なストーカーを必要としている。協力してくれないか？</text>
+  </string>
+  <string id="sim_default_csky_trader_task_5_finish">
+    <text>素晴らしい！これが報酬だ。この辺りは前と同じように安全だと伝えておく。ありがとう、ストーカー。</text>
+  </string>
+  <string id="sim_default_csky_trader_task_6_name">
+    <text>野性的なジビエ肉</text>
+  </string>
+  <string id="sim_default_csky_trader_task_6_text">
+    <text>%s（%sの）は、ミュータントの新鮮な死体を下ごしらえをして、%sを届けてほしいという。</text>
+  </string>
+  <string id="sim_default_csky_trader_task_6_about">
+    <text>君がライフルの扱いに長けていて、多少のミュータントも恐れないなら、仕事がある。興味はあるかい？</text>
+  </string>
+  <string id="sim_default_csky_trader_task_6_fetch_about">
+    <text>食料が不足しているので、野営地のみんなのお腹をいっぱいにする必要がある。何人かの仲間たちは時々、１~２体の獲物を持ってきてくるんだけど、最近は不振だってさ。もし君が忙しくなくて、外出できるなら、％が欲しい。この基地には殺して肉を加工する部下がいるんだ。ミュータントを怒らせると、アドレナリンのせいで肉が硬くなることを覚えておいてくれ。また、出血が少なければ少ないほど、肉は美味しくなる。だから撃ち方には注意してくれよ。</text>
+  </string>
+  <string id="sim_default_csky_trader_task_6_fetch_finish">
+    <text>さすが、君は優秀なハンターだね。報酬を渡すよ。</text>
+  </string>
+  <string id="sim_default_csky_trader_task_7_name">
+    <text>Clear SkyのためにMilitaryの野営地を排除しろ</text>
+  </string>
+  <string id="sim_default_csky_trader_task_7_text">
+    <text>この地域内でMilitaryの脅威を排除することを命じられた。仕事が終わったら、%s（%sの）に報告しろ。</text>
+  </string>
+  <string id="sim_default_csky_trader_task_7_about">
+    <text>この地域では、Militaryとの間に大きな問題がある。そのMilitaryたちは、メイン基地の外にある我々の野営地で奇襲して、この地域を占領しようとしている。奴らがいる限り、この地域の多くの安全な道を通ることができない。我々は、自分の手を汚すことを恐れない経験豊富なストーカーを必要としている。協力してくれないか？</text>
+  </string>
+  <string id="sim_default_csky_trader_task_7_finish">
+    <text>素晴らしい！これが報酬だ。この辺りは前と同じように安全だと伝えておく。ありがとう、ストーカー。</text>
+  </string>
+  <string id="sim_default_csky_mechanic_task_1_name">
+    <text>Clear Skyの技術屋のために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_csky_mechanic_task_1_text">
+    <text>%sは、Clear Skyの技術屋が古いものと交換するために必要としている。見つけたらClear Skyの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_csky_mechanic_task_1_about">
+    <text>ゾーンではツールキットを手に入れるのが難しい。新しいツールキットを手に入れることができれば、修理やアップグレードをより簡単に、より効率的に行うことができるようになる。この仕事は、君が見つけたツールキットを、Clear Skyの技術屋に持ってきてもらうことだ。もし興味があれば、必要なことを教えよう。やる気はあるか？</text>
+  </string>
+  <string id="sim_default_csky_mechanic_task_1_fetch_about">
+    <text>ゾーンではツールキットを手に入れるのが難しい。新しいツールキットを手に入れることができれば、修理やアップグレードをより簡単に、より効率的に行うことができるようになる。この仕事は、君が見つけたツールキットを、Clear Skyの技術屋に持ってきてもらうことだ。今必要なのはベーシック ツールだ。やる気はあるか？</text>
+  </string>
+  <string id="sim_default_csky_mechanic_task_1_fetch_finish">
+    <text>最高だ！ほら、お金を渡してあげるよ。他の技術屋たちにも連絡しておいたから、これからは値引きしてくれるぞ。</text>
+  </string>
+  <string id="sim_default_csky_mechanic_task_2_name">
+    <text>Clear Skyの技術屋のために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_csky_mechanic_task_2_text">
+    <text>%sは、Clear Skyの技術屋が古いものと交換するために必要としている。見つけたらClear Skyの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_csky_mechanic_task_2_about">
+    <text>もっとツールキットが欲しい。前回はいいものを持ってきてくれたけど、もっと質の高いツールセットが必要だ。もし興味があれば、必要なことを教えてあげるよ。</text>
+  </string>
+  <string id="sim_default_csky_mechanic_task_2_fetch_about">
+    <text>今、我々は新しいアドバンスド ツールを必要としている。君が持ってきてくれれば、今後はより大きな割引を提供しよう。</text>
+  </string>
+  <string id="sim_default_csky_mechanic_task_2_fetch_finish">
+    <text>最高だぜ！またしても我々を助けてくれたな！ほら、お金を出してあげるよ。他の技術屋たちも、もっと値引きしてくれるだろう。</text>
+  </string>
+  <string id="sim_default_csky_mechanic_task_3_name">
+    <text>Clear Skyの技術屋のために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_csky_mechanic_task_3_text">
+    <text>%sは、Clear Skyの技術屋が古いものと交換するために必要としている。見つけたらClear Skyの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_csky_mechanic_task_3_about">
+    <text>もっとツールキットが欲しい。前回はいいものを持ってきてくれたけど、もっと質の高いツールセットが必要だ。もし興味があれば、必要なことを教えてあげるよ。</text>
+  </string>
+  <string id="sim_default_csky_mechanic_task_3_fetch_about">
+    <text>あとは、新しいエキスパート ツールが必要だ。今のところ、必要なものはこれだけだな。君が持ってきてくれればここから先、さらに大きな割引を提供しよう。</text>
+  </string>
+  <string id="sim_default_csky_mechanic_task_3_fetch_finish">
+    <text>最高だぜ！またしても我々を助けてくれたな！ほら、お金を出してあげるよ。他の技術屋たちも、もっと値引きしてくれるだろう。</text>
+  </string>
+  <string id="sim_default_csky_trader_nimble_pda_warfare_task_1">
+    <text>ああ、これを待っていたよ。ありがとう。報酬はこれだ。</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_1_name">
+    <text>Freedomのために襲撃を撃退しろ</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_1_text">
+    <text>Freedomの野営地に迫る襲撃隊を迎え撃て。地域を一掃したら、%s（%s）に報告しろ。</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_1_about">
+    <text>Freedomに敵対する勢力が我々の野営地のひとつに進入している。その侵略を撃退できる人材が必要だ。おまえはその仕事に適した人物か？</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_1_finish">
+    <text>任務をこなしたのか？いいだろう。</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_2_name">
+    <text>Freedomのための縄張り奪還</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_2_text">
+    <text>派閥の支配地域を守る任務が与えられた。任務が終わったら、%s（%sの）に報告しろ。</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_2_about">
+    <text>おまえさえよければ、重要な任務がある。Dutyが我々の野営地の1つを占領したので、それを取り戻すための潜入者が必要なのだ。</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_2_finish">
+    <text>素晴らしい。よくやった。</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_3_name">
+    <text>FreedomのためにMonolithのメンバーを暗殺しろ</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_3_text">
+    <text>%s（%sの）から、Monolithの一員を見つけて排除するようにとの依頼を受けた。</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_3_about">
+    <text>非常に危険な任務がある。志願者を募ったが、今のところ誰も名乗り出ない。Monolithの軍隊は我々の封鎖点を突破し続けている。一度は彼らに戦いを挑みたいと思っている。誰かが奴らの支配地域に入って、派閥のある一員を連れ出して、メッセージを送る必要がある。おまえはどう思う？おまえはこの野営地で一番の命知らずか？</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_3_finish">
+    <text>ああ、生き残ったのか！君はよくやった。偉いぞ。</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_4_name">
+    <text>Freedomのためにターゲットを暗殺しろ</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_4_text">
+    <text>%sから、ターゲットの発見と排除を任された。</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_4_about">
+    <text>Freedomに敵対する声の大きい野郎がいて、そいつを黙らせる必要がある。おまえは人を黙らせるのが得意か？</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_4_finish">
+    <text>最高だ！おまえを俺たちの誇りに思おう。これが約束したものだ。</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_5_name">
+    <text>Freedomのために%sを探せ</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_5_text">
+    <text>%s（%sの）から特殊な銃器を探してほしいと頼まれた。探しているものが見つかったら、彼のところに戻れ。</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_5_about">
+    <text>南にはDuty、北にはMonolithがあり、我々は孤立している。武器も消耗してきているので、代替品が必要だ。銃を使ったことはあるか？</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_5_fetch_about">
+    <text>新しい %s が本当に必要なんだ。もし、状態のいいものを見つけてくれたら、いい値段で買いたいと思っている。</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_5_fetch_finish">
+    <text>よくやった。これでゾーンの防衛に大きな力を発揮してくれるでしょう お約束の報酬だ。</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_6_name">
+    <text>野性的なジビエ肉</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_6_text">
+    <text>%s（%sの）は、ミュータントの新鮮な死体を下ごしらえをして、%sを集めてほしいという。</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_6_about">
+    <text>君にぴったりの仕事があるんだ。もし君がちょとしたミュータントも恐れないならね。興味あるかい？</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_6_fetch_about">
+    <text>何人かの仲間たちは時々、１~２体の獲物を持ってきてくるんだけど、最近は不振だってさ。もし君が忙しくなくて、外出できるなら、％が欲しい。この野営地では、俺たちの料理人が殺して肉を加工しているんだ。</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_6_fetch_finish">
+    <text>さすが、君は優秀なハンターだね。報酬を渡すよ。</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_7_name">
+    <text>Freedomのために、エリア内のミュータントを一掃しろ。</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_7_text">
+    <text>ミュータントを追い詰めて、その場所を一掃しろ。</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_7_about">
+    <text>この場所にいるミュータントを誰かに排除してもらいたい。奴らは我々の仲間に迷惑をかけている。それなりの対価を払おう。引き受けてくれないか？</text>
+  </string>
+  <string id="sim_default_freedom_trader_task_7_finish">
+    <text>よくやった！約束していたご褒美だ。</text>
+  </string>
+  <string id="sim_default_freedom_mechanic_task_1_name">
+    <text>Freedomの技術屋のために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_freedom_mechanic_task_1_text">
+    <text>%sは、Freedomの技術屋が古いものを交換するために必要としているので、見つけた場合はFreedomの技術屋に持ち帰ってください。</text>
+  </string>
+  <string id="sim_default_freedom_mechanic_task_1_about">
+    <text>おい、おまえ。俺のために仕事をしてくれないか？武器を扱うための特殊なツーツが必要なんだ。</text>
+  </string>
+  <string id="sim_default_freedom_mechanic_task_1_fetch_about">
+    <text>よお。俺たちは新しいツールがたくさん必要なのに、こいつらは俺たちが新しい代用品を見つけるのを手伝う代わりに、ハイになるのを好むような連中だ。新しいベーシック ツールを見つけて、Freedomの技術屋に持っていくんだ。頼りにしてるぜ、アンタ。</text>
+  </string>
+  <string id="sim_default_freedom_mechanic_task_1_fetch_finish">
+    <text>ありがとう！おまえに頼んだのには理由があったのさ。おまえは仕事ができそうだからな。お礼に割引をさせてくれ。</text>
+  </string>
+  <string id="sim_default_freedom_mechanic_task_2_name">
+    <text>Freedomの技術屋のために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_freedom_mechanic_task_2_text">
+    <text>%sは、Freedomの技術屋が古いものを交換するために必要としているので、見つけた場合はFreedomの技術屋に持ち帰ってください。</text>
+  </string>
+  <string id="sim_default_freedom_mechanic_task_2_about">
+    <text>あはは、聞きたくないね。でも、もっとツールが欲しいんだ。前回、俺が要求したものを持ってきてくたんだが、もっと質の高いやつが必要だ。また手伝ってくれないか？</text>
+  </string>
+  <string id="sim_default_freedom_mechanic_task_2_fetch_about">
+    <text>アドバンスド ツールが必要だ。必要なものが入っているはずだ。もし持ってきてくれるなら、ありがたい。</text>
+  </string>
+  <string id="sim_default_freedom_mechanic_task_2_fetch_finish">
+    <text>このままこういうことを続けてくれれば、周りのみんながあんたのことを好きになってくれるだろうよ。ご褒美にこれからはもっとお得な値段で提供するよ。</text>
+  </string>
+  <string id="sim_default_freedom_mechanic_task_3_name">
+    <text>Freedomの技術屋のために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_freedom_mechanic_task_3_text">
+    <text>%sは、Freedomの技術屋が古いものを交換するために必要としているので、見つけた場合はFreedomの技術屋に持ち帰ってください。</text>
+  </string>
+  <string id="sim_default_freedom_mechanic_task_3_about">
+    <text>あはは、聞きたくないね。でも、もっとツールが欲しいんだ。前回、俺が要求したものを持ってきてくたんだが、もっと質の高いやつが必要だ。また手伝ってくれないか？</text>
+  </string>
+  <string id="sim_default_freedom_mechanic_task_3_fetch_about">
+    <text>今、俺たちには新しいエキスパート ツールが必要だ。今のところ、それが最後だと約束する。もし、おまえが持ち帰ってくれたら、俺たちは感謝するだろう。</text>
+  </string>
+  <string id="sim_default_freedom_mechanic_task_3_fetch_finish">
+    <text>ありがとうよ。お礼に今後は割引きしてやるよ。</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_1_name">
+    <text>敵を制圧しろ</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_1_text">
+    <text>全能のMonolith様のために地域を一掃することを命じられた。任務をこなしたらラビットに報告しろ。</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_1_about">
+    <text>おまえには重要な任務がある。ゾーンに入り、我々の部隊が進出できるように、地域を一掃しろ。準備はいいか？</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_1_finish">
+    <text>任務は完了したか？よかった。Monolith様を讃えよう。</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_2_name">
+    <text>計画者を殺せ</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_2_text">
+    <text>ストーカーがブレイン スコーチャーの機能を停止させようとしている。奴を殺せ。</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_2_about">
+    <text>ゾーンの偉業を脅かすものは数多くある。ブレイン スコーチャーの機能を停止させようとしている者がいる。奴を止めなければならない。奴を見つけ出して殺せ。</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_2_finish">
+    <text>よくやった。組織上層部は喜んでいる。</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_3_name">
+    <text>Monolithのために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_3_text">
+    <text>%s（%s）はMonolithの武器を増やすために新しいライフルを要求した。</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_3_about">
+    <text>我々は日々、力をつけている。我々の目標を達成し続けるためには、より多くの武器が必要だ。おまえは我々のために新しい武器を見つけなければならない。そうすれば、我々は武器を増やし続けることができる。</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_3_fetch_about">
+    <text>新しい%sを見つけて、持ってこい。</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_3_fetch_finish">
+    <text>これはうまくいくだろう。</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_4_name">
+    <text>野性的なジビエ肉</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_4_text">
+    <text>%s（%sの）は、%sを狩って解体しろと命じた。</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_4_about">
+    <text>食料が不足している。ゾーンで肉を狩り、Monolithの同志たちにごちそうしなければならない。</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_4_fetch_about">
+    <text>狩りをして%sを持ってこい。クリーチャーはゾーンの賜物だということを忘れるな。速やかに仕留めて感謝しろ。成功したら、その肉を持ってこい。</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_4_fetch_finish">
+    <text>任務を成功させたな。よくやった。</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_5_name">
+    <text>Monolithのために%sを集めろ</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_5_text">
+    <text>%s（%sの）は%sを調達してほしいという。</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_5_about">
+    <text>我々が偉大な活動を続けるためには、もっと多くの物資を調達しなければならない。</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_5_fetch_about">
+    <text>%sを回収して持ってこい。</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_5_fetch_finish">
+    <text>Monolith様のためによく働いてくれたな。</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_6_name">
+    <text>Monolithのために%sを探せ</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_6_text">
+    <text>%s（%sの）は%sを見つけてほしいという。</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_6_about">
+    <text>捧げ物となる別のアーティファクトを見つけなければならない。Monolith様のために協力してくれないか？</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_6_fetch_about">
+    <text>%sを見つけろ。成功させて持ってきたら、俺が儀式を行おう。</text>
+  </string>
+  <string id="sim_default_monolith_trader_task_6_fetch_finish">
+    <text>おまえはMonolith様によく奉仕している。今夜、我々の捧げ物の儀式に参加しろ。詠唱が行われるだろう。</text>
+  </string>
+  <string id="sim_default_monolith_mechanic_task_1_name">
+    <text>Monolithの技術屋のために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_monolith_mechanic_task_1_text">
+    <text>%sは、Monolithの技術屋が古いものを交換するために必要としている。見つけたらMonolithの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_monolith_mechanic_task_1_about">
+    <text>俺のためにあることをしてほしい。武器を扱うための特殊なツーツが必要なんだ。</text>
+  </string>
+  <string id="sim_default_monolith_mechanic_task_1_fetch_about">
+    <text>よし、武器をより効率的に調整するための新しいツールが必要だ。新しいベーシック ツールを見つけろ。さあ、行け。</text>
+  </string>
+  <string id="sim_default_monolith_mechanic_task_1_fetch_finish">
+    <text>よくやった。お礼に今後は割引してやるよ。</text>
+  </string>
+  <string id="sim_default_monolith_mechanic_task_2_name">
+    <text>Monolithの技術屋のために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_monolith_mechanic_task_2_text">
+    <text>%sは、Monolithの技術屋が古いものを交換するために必要としている。見つけたらMonolithの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_monolith_mechanic_task_2_about">
+    <text>もっと良いツールが必要だ。俺が求めるものを、もう一度見つけてくれないか？</text>
+  </string>
+  <string id="sim_default_monolith_mechanic_task_2_fetch_about">
+    <text>より多くのツールが必要だ。新しいアドバンスド ツールを見つけろ。行け、今すぐ。</text>
+  </string>
+  <string id="sim_default_monolith_mechanic_task_2_fetch_finish">
+    <text>よし。必要なものを持ってきてくれたな。お礼にこれからは値引きしてやろう。</text>
+  </string>
+  <string id="sim_default_monolith_mechanic_task_3_name">
+    <text>Monolithの技術屋のために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_monolith_mechanic_task_3_text">
+    <text>%sは、Monolithの技術屋が古いものを交換するために必要としている。見つけたらMonolithの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_monolith_mechanic_task_3_about">
+    <text>もっと良いツールが必要だ。俺が求めるものを、もう一度見つけてくれないか？</text>
+  </string>
+  <string id="sim_default_monolith_mechanic_task_3_fetch_about">
+    <text>より多くのツールが必要だ。新しいエキスパート ツールを見つけろ。行け、今すぐ。</text>
+  </string>
+  <string id="sim_default_monolith_mechanic_task_3_fetch_finish">
+    <text>よし。必要なものを持ってきてくれたな。お礼にこれからは値引きしてやろう。</text>
+  </string>
+  <string id="sim_default_ecolog_trader_task_1_name">
+    <text>科学者を案内しろ</text>
+  </string>
+  <string id="sim_default_ecolog_trader_task_1_text">
+    <text>%s（%sの）からの依頼で、科学者たちを特定の場所に案内して研究してもらうことになった。研究が成功したら、彼らを安全に野営地に戻せ。</text>
+  </string>
+  <string id="sim_default_ecolog_trader_task_1_about">
+    <text>この野営地の科学者たちは、彼らを研究のために野外に導ける、経験豊富なストーカーを必要としている。やる気はあるか？</text>
+  </string>
+  <string id="sim_default_ecolog_trader_task_1_fetch_finish">
+    <text>守ってくれてありがとう、ストーカー。感謝の気持ちを込めて、これを受け取ってくれ。</text>
+  </string>
+  <string id="sim_default_ecolog_trader_task_2_name">
+    <text>Ecologistたちのために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_ecolog_trader_task_2_text">
+    <text>%s（%sの）に%sの回収を依頼された。</text>
+  </string>
+  <string id="sim_default_ecolog_trader_task_2_about">
+    <text>我々は、ある種のアーティファクトを探している。もし興味があれば、必要なことをお教えよう。</text>
+  </string>
+  <string id="sim_default_ecolog_trader_task_2_fetch_about">
+    <text>%sを持ち帰って欲しいんだ。聞いたことあるかい？見返りとしてかなりの金額を支払うことができる。</text>
+  </string>
+  <string id="sim_default_ecolog_trader_task_2_fetch_finish">
+    <text>すばらしい！まさに我々が探しているものを見つけたね。</text>
+  </string>
+  <string id="sim_default_ecolog_trader_task_3_name">
+    <text>Ecologistたちのために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_ecolog_trader_task_3_text">
+    <text>%s（%sの）に、%sから組織サンプルを採取することを依頼された。</text>
+  </string>
+  <string id="sim_default_ecolog_trader_task_3_about">
+    <text>経験豊富なストーカーかミュータント ハンターが必要だ。その誰かとは君のことか？</text>
+  </string>
+  <string id="sim_default_ecolog_trader_task_3_fetch_about">
+    <text>科学者たちは%sから組織サンプルを集める必要がある。どうやって手に入れようと構わないが、新鮮なものであることを確認してくれ。ミュータントから必要なものを回収したら、すぐにここに来るように。</text>
+  </string>
+  <string id="sim_default_ecolog_trader_task_3_fetch_finish">
+    <text>どうもありがとう。これは我々の研究に非常に役立つ。</text>
+  </string>
+  <string id="sim_default_ecolog_mechanic_task_1_name">
+    <text>Ecologistの技術屋のために%sを探せ</text>
+  </string>
+  <string id="sim_default_ecolog_mechanic_task_1_text">
+    <text>%sは、Ecologistの技術屋が古いものと交換するために必要としている。見つけたらEcologistの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_ecolog_mechanic_task_1_about">
+    <text>君に提案がある。新しいツールを持ってきてくれれば、お金を差し上げよう。君にはその気があるか？</text>
+  </string>
+  <string id="sim_default_ecolog_mechanic_task_1_fetch_about">
+    <text>さてさて。機械が故障した時、頭脳派はどこに頼るか知っているかね？その通り、自分たちだ。問題は、ツールがかなり古くなって錆びてきているので、そろそろ交換が必要になってくることだ。手始めに%sを見つけてくれ。それを手に入れたら、うちの技術屋に持ってくるんだ。ツールを１セット持ってくるごとに、割引してやろう。試してみるか？</text>
+  </string>
+  <string id="sim_default_ecolog_mechanic_task_1_fetch_finish">
+    <text>そう。これは我々が探していたものだ、どうもありがとう。</text>
+  </string>
+  <string id="sim_default_ecolog_mechanic_task_2_name">
+    <text>Ecologistたちのために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_ecolog_mechanic_task_2_text">
+    <text>%sは、Ecologistの技術屋が古いものと交換するために必要としている。見つけたらEcologistの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_ecolog_mechanic_task_2_about">
+    <text>もうひとつ提案がある。君が持ってきてくれたツールキットは、うまく機能しているが、必要なものがすべて揃っているわけではない。もっといいものを探してもらえないだろうか？</text>
+  </string>
+  <string id="sim_default_ecolog_mechanic_task_2_fetch_about">
+    <text>あとは、%sが必要だ。どこで手に入るのかわからないが、もし見つけられたら、それがほしい。</text>
+  </string>
+  <string id="sim_default_ecolog_mechanic_task_2_fetch_finish">
+    <text>私に必要なものはすべてここにある。どうもありがとう。</text>
+  </string>
+  <string id="sim_default_ecolog_mechanic_task_3_name">
+    <text>Ecologistたちのために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_ecolog_mechanic_task_3_text">
+    <text>%sは、Ecologistの技術屋が古いものと交換するために必要としている。見つけたらEcologistの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_ecolog_mechanic_task_3_about">
+    <text>もうひとつ提案がある。君が持ってきてくれたツールキットは、うまく機能しているが、必要なものがすべて揃っているわけではない。もっといいものを探してもらえないだろうか？</text>
+  </string>
+  <string id="sim_default_ecolog_mechanic_task_3_fetch_about">
+    <text>あとは、%sが必要だ。どこで手に入るのかわからないが、もし見つけられたら、それがほしい。</text>
+  </string>
+  <string id="sim_default_ecolog_mechanic_task_3_fetch_finish">
+    <text>私に必要なものはすべてここにある。どうもありがとう。</text>
+  </string>
+  <string id="sim_default_renegade_trader_task_1_name">
+    <text>Renegadeたちのためにターゲットを排除しろ</text>
+  </string>
+  <string id="sim_default_renegade_trader_task_1_text">
+    <text>ターゲットを見つけて排除し、報酬を受け取るために%sから%sに戻れ。</text>
+  </string>
+  <string id="sim_default_renegade_trader_task_1_about">
+    <text>ゾーンには、俺を怒らせたり、無礼な態度をとったりする野郎が大勢いる。その中には、俺に金を貸した奴や、取引を失敗した奴なんかもいる。そいつらはただのネズミのようなもので、踏み潰す必要がある。もしおまえにその気があれば、奴らの情報を渡すから、GPSで追跡してみろ。</text>
+  </string>
+  <string id="sim_default_renegade_trader_task_1_finish">
+    <text>よくやった。で、さらなる用件だ。</text>
+  </string>
+  <string id="sim_default_renegade_trader_task_2_name">
+    <text>Renegadeたちのためにミュータントを排除しろ</text>
+  </string>
+  <string id="sim_default_renegade_trader_task_2_text">
+    <text>この場所の近くでミュータントが目撃され、その地域が危険な状態になっている。おまえにはその地域のミュータントの脅威を排除してもらう。仕事が終わったら、%s（%sの）に報告しろ。</text>
+  </string>
+  <string id="sim_default_renegade_trader_task_2_about">
+    <text>ミュータントを一掃できるような度胸のある野郎をあちこちで探していた。ストーカーたちは、怖くてこの辺りには来ない。このままでは、商品を「借りる」カモがいなくなってしまい、この地域から出ていかなければならなくなる。</text>
+  </string>
+  <string id="sim_default_renegade_trader_task_2_finish">
+    <text>すげえな！これが報酬だ。ボスによろしく言っとくぜ。</text>
+  </string>
+  <string id="sim_default_renegade_trader_task_3_name">
+    <text>Renegadeのために敵の脅威を排除しろ</text>
+  </string>
+  <string id="sim_default_renegade_trader_task_3_text">
+    <text>あなたは領土内の敵を排除する任務を負っている。任務を完了した後、%s（%sの）に報告しろ。</text>
+  </string>
+  <string id="sim_default_renegade_trader_task_3_about">
+    <text>クソどもが我々の支配地域に侵入している。ボスは俺に、いくつかの野営地を取り戻すのに十分な度胸のある、ならず者を募集するよう命令した。どうだ？おまえは男らしさを十分に備えているか？</text>
+  </string>
+  <string id="sim_default_renegade_trader_task_3_finish">
+    <text>すげえな！これが報酬だ。ボスによろしく言っとくぜ。</text>
+  </string>
+  <string id="sim_default_renegade_trader_task_4_name">
+    <text>暗殺者</text>
+  </string>
+  <string id="sim_default_renegade_trader_task_4_text">
+    <text>%sから殺しの依頼があった。ターゲットを見つけて排除し、報酬を受け取りに彼のところに戻れ。</text>
+  </string>
+  <string id="sim_default_renegade_trader_task_4_about">
+    <text>俺を困らせた連中のリストを持っている。そいつらを排除してほしいのさ。どうだ？</text>
+  </string>
+  <string id="sim_default_renegade_trader_task_4_finish">
+    <text>やったぜ、あのクソ野郎を追い出せたんだな！これが約束したものだ。</text>
+  </string>
+  <string id="sim_default_renegade_mechanic_task_1_name">
+    <text>Renegadeの技術屋たちのために%sを探せ</text>
+  </string>
+  <string id="sim_default_renegade_mechanic_task_1_text">
+    <text>%sは、Renegadeの技術屋が古いものと交換するために必要としている。見つけたらBanditの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_renegade_mechanic_task_1_about">
+    <text>新しいツールがどうしても必要なんだ。錆びついた道具では何もできないし、ガンオイルも足りない。もし興味があれば、何が必要なのか教えてやるよ。</text>
+  </string>
+  <string id="sim_default_renegade_mechanic_task_1_fetch_about">
+    <text>もっと良いツールが必要だ。ゾーン内のあらゆる連中が俺たちを撃ち殺そうとするこんな状況で、そいつを探すのはかなり困難だ。今は、ベーシック ツールが必要なんだ。見つけてうちの技術屋たちに持ってきてくれれば、今後は割引してもいいぜ。やる気はあるか？</text>
+  </string>
+  <string id="sim_default_renegade_mechanic_task_1_fetch_finish">
+    <text>完璧だな！。これはまさに俺たちが必要としているものだ。他の技術屋たちにも値引きをするように言っておく。</text>
+  </string>
+  <string id="sim_default_renegade_mechanic_task_2_name">
+    <text>Renegadeの技術屋たちのために%sを探せ</text>
+  </string>
+  <string id="sim_default_renegade_mechanic_task_2_text">
+    <text>%sは、Banditの技術屋が古いものと交換するために必要としている。見つけたらBanditの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_renegade_mechanic_task_2_about">
+    <text>おまえが持ってきてくれたツールキットは素晴らしいものだが、俺が必要とするものがすべて揃っているわけじゃねえ。もっと良いものを探してくれないか？</text>
+  </string>
+  <string id="sim_default_renegade_mechanic_task_2_fetch_about">
+    <text>あとは、%sが必要だな。どこで手に入るのかわからねえが、もし見つけられるなら、そいつが欲しい。</text>
+  </string>
+  <string id="sim_default_renegade_mechanic_task_2_fetch_finish">
+    <text>またやってくれたのか！大したもんだぜ、これが報酬だ。他の技術屋たちにも話しておくから、今後はさらに値引きしてやるよ。</text>
+  </string>
+  <string id="sim_default_renegade_mechanic_task_3_name">
+    <text>Renegadeの技術屋たちのために%sを探せ</text>
+  </string>
+  <string id="sim_default_renegade_mechanic_task_3_text">
+    <text>%sは、Renegadeの技術屋が古いものと交換するために必要としている。見つけたらRenegadeの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_renegade_mechanic_task_3_about">
+    <text>おまえが持ってきてくれたツールキットは素晴らしいものだが、俺が必要とするものがすべて揃っているわけじゃねえ。もっと良いものを探してくれないか？</text>
+  </string>
+  <string id="sim_default_renegade_mechanic_task_3_fetch_about">
+    <text>あとは、%sが必要だな。それに今のところ必要なものはすべて入っているはず。どこで手に入るのかわからねえが、もし見つけられるなら、そいつが欲しい。</text>
+  </string>
+  <string id="sim_default_renegade_mechanic_task_3_fetch_finish">
+    <text>またやってくれたのか！大したもんだぜ、これで必要なものはすべて揃った。今後はさらに割引するから、よろしく頼むぜ。</text>
+  </string>
+  <string id="sim_default_greh_trader_task_1_name">
+    <text>敵を制圧しろ</text>
+  </string>
+  <string id="sim_default_greh_trader_task_1_text">
+    <text>Sinたちのために地域を一掃することを命じられた。任務をこなしたら報告しに戻れ。</text>
+  </string>
+  <string id="sim_default_greh_trader_task_1_about">
+    <text>おまえには重要な任務がある。ゾーンに入り、我々の部隊が進出できるように、地域を一掃しろ。準備はいいか？</text>
+  </string>
+  <string id="sim_default_greh_trader_task_1_finish">
+    <text>任務は完了したか？よかった。Sin様を讃えよう。</text>
+  </string>
+  <string id="sim_default_greh_trader_task_2_name">
+    <text>計画者を殺せ</text>
+  </string>
+  <string id="sim_default_greh_trader_task_2_text">
+    <text>ストーカーがブレイン スコーチャーの機能を停止させようとしている。奴を殺せ。</text>
+  </string>
+  <string id="sim_default_greh_trader_task_2_about">
+    <text>ゾーンの偉業を脅かすものは数多くある。ブレイン スコーチャーの機能を停止させようとしている者がいる。奴を止めなければならない。奴を見つけ出して殺せ。</text>
+  </string>
+  <string id="sim_default_greh_trader_task_2_finish">
+    <text>よくやった。組織上層部は喜んでいる。</text>
+  </string>
+  <string id="sim_default_greh_trader_task_3_name">
+    <text>Sinのために%sを調達しろ</text>
+  </string>
+  <string id="sim_default_greh_trader_task_3_text">
+    <text>%s（%s）はSinたちの武器を増やすために新しいライフルを要求した。</text>
+  </string>
+  <string id="sim_default_greh_trader_task_3_about">
+    <text>我々は日々、力をつけている。我々の目標を達成し続けるためには、より多くの武器が必要だ。おまえは我々のために新しい武器を見つけなければならない。そうすれば、我々は武器を増やし続けることができる。</text>
+  </string>
+  <string id="sim_default_greh_trader_task_3_fetch_about">
+    <text>新しい%sを見つけて、持ってこい。</text>
+  </string>
+  <string id="sim_default_greh_trader_task_3_fetch_finish">
+    <text>これはうまくいくだろう。</text>
+  </string>
+  <string id="sim_default_greh_trader_task_4_name">
+    <text>野性的なジビエ肉</text>
+  </string>
+  <string id="sim_default_greh_trader_task_4_text">
+    <text>%s（%sの）は、%sを狩って解体しろと命じた。</text>
+  </string>
+  <string id="sim_default_greh_trader_task_4_about">
+    <text>食料が不足している。ゾーンで肉を狩り、Sinの同志たちにごちそうしなければならない。</text>
+  </string>
+  <string id="sim_default_greh_trader_task_4_fetch_about">
+    <text>狩りをして%sを持ってこい。クリーチャーはゾーンの賜物だということを忘れるな。速やかに仕留めて感謝しろ。成功したら、その肉を持ってこい。</text>
+  </string>
+  <string id="sim_default_greh_trader_task_4_fetch_finish">
+    <text>任務を成功させたな。よくやった。</text>
+  </string>
+  <string id="sim_default_greh_trader_task_5_name">
+    <text>Sinのために%sを集めろ</text>
+  </string>
+  <string id="sim_default_greh_trader_task_5_text">
+    <text>%s（%sの）は%sを調達してほしいという。</text>
+  </string>
+  <string id="sim_default_greh_trader_task_5_about">
+    <text>我々が偉大な活動を続けるためには、もっと多くの物資を調達しなければならない。</text>
+  </string>
+  <string id="sim_default_greh_trader_task_5_fetch_about">
+    <text>%sを回収して持ってこい。</text>
+  </string>
+  <string id="sim_default_greh_trader_task_5_fetch_finish">
+    <text>我々の目的のためによく働いてくれたな。</text>
+  </string>
+  <string id="sim_default_greh_trader_task_6_name">
+    <text>Sinのために%sを探せ</text>
+  </string>
+  <string id="sim_default_greh_trader_task_6_text">
+    <text>%s（%sの）は%sを見つけてほしいという。</text>
+  </string>
+  <string id="sim_default_greh_trader_task_6_about">
+    <text>捧げ物となる別のアーティファクトを見つけなければならない。Sinたちのために協力してくれないか？</text>
+  </string>
+  <string id="sim_default_greh_trader_task_6_fetch_about">
+    <text>%sを見つけろ。成功させて持ってきたら、俺が儀式を行おう。</text>
+  </string>
+  <string id="sim_default_greh_trader_task_6_fetch_finish">
+    <text>おまえは我々の目的のためによく奉仕している。今夜、我々の捧げ物の儀式に参加しろ。詠唱が行われるだろう。</text>
+  </string>
+  <string id="sim_default_greh_mechanic_task_1_name">
+    <text>Sinの技術屋のために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_greh_mechanic_task_1_text">
+    <text>%sは、Sinの技術屋が古いものを交換するために必要としている。見つけたらSinの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_greh_mechanic_task_1_about">
+    <text>俺のためにあることをしてほしい。武器を扱うための特殊なツーツが必要なんだ。</text>
+  </string>
+  <string id="sim_default_greh_mechanic_task_1_fetch_about">
+    <text>よし、武器をより効率的に調整するための新しいツールが必要だ。新しいベーシック ツールを見つけろ。さあ、行け。</text>
+  </string>
+  <string id="sim_default_greh_mechanic_task_1_fetch_finish">
+    <text>よくやった。お礼に今後は割引してやるよ。</text>
+  </string>
+  <string id="sim_default_greh_mechanic_task_2_name">
+    <text>Sinの技術屋のために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_greh_mechanic_task_2_text">
+    <text>%sは、Sinの技術屋が古いものを交換するために必要としている。見つけたらSinの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_greh_mechanic_task_2_about">
+    <text>もっと良いツールが必要だ。俺が求めるものを、もう一度見つけてくれないか？</text>
+  </string>
+  <string id="sim_default_greh_mechanic_task_2_fetch_about">
+    <text>より多くのツールが必要だ。新しいアドバンスド ツールを見つけろ。行け、今すぐ。</text>
+  </string>
+  <string id="sim_default_greh_mechanic_task_2_fetch_finish">
+    <text>よし。必要なものを持ってきてくれたな。お礼にこれからは値引きしてやろう。</text>
+  </string>
+  <string id="sim_default_greh_mechanic_task_3_name">
+    <text>Sinの技術屋のために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_greh_mechanic_task_3_text">
+    <text>%sは、Sinの技術屋が古いものを交換するために必要としている。見つけたらSinの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_greh_mechanic_task_3_about">
+    <text>もっと良いツールが必要だ。俺が求めるものを、もう一度見つけてくれないか？</text>
+  </string>
+  <string id="sim_default_greh_mechanic_task_3_fetch_about">
+    <text>より多くのツールが必要だ。新しいエキスパート ツールを見つけろ。行け、今すぐ。</text>
+  </string>
+  <string id="sim_default_greh_mechanic_task_3_fetch_finish">
+    <text>よし。必要なものを持ってきてくれたな。お礼にこれからは値引きしてやろう。</text>
+  </string>
+  <string id="sim_default_isg_mechanic_task_1_name">
+    <text>UNISGの技術屋のために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_isg_mechanic_task_1_text">
+    <text>%sは、UNISGの技術屋が古いツールと交換するために必要としている。見つけたらUNISGの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_isg_mechanic_task_1_about">
+    <text>おまえに仕事がある。新しいツールを持ってきてくれれば報酬をやろう。やる気はあるか？</text>
+  </string>
+  <string id="sim_default_isg_mechanic_task_1_fetch_about">
+    <text>いいね。俺たちは%sをあちこちで探していた。銃器の修理に必要なオイルや工具が入っているはずだ。俺を含めた技術屋たちにツールキットを持ってきてもらえれば、代金を支払おう。その際、感謝の気持ちを込めて、ツールキットを持ってくるごとに、俺たちのサービスの値段を引き下げてやろう。さて、どうする？協力してくれるか？</text>
+  </string>
+  <string id="sim_default_isg_mechanic_task_1_fetch_finish">
+    <text>そうだ。これは俺たちが探していたものだ。ありがとう！</text>
+  </string>
+  <string id="sim_default_isg_mechanic_task_2_name">
+    <text>UNISGの技術屋のために%sを見つけろ</text>
+  </string>
+  <string id="sim_default_isg_mechanic_task_2_text">
+    <text>%sは、UNISGの技術屋が古いものと交換するために必要としている。見つけたらUNISGの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_isg_mechanic_task_2_about">
+    <text>もうひとつ仕事がある。おまえが持ってきてくれたツールは、うまく機能しているが、必要なものがすべて揃っているわけではない。もっといいものを探してもらえないだろうか？</text>
+  </string>
+  <string id="sim_default_isg_mechanic_task_2_fetch_about">
+    <text>あとは、%sが必要だな。どこで手に入るのかわからねえが、もし見つけられるなら、そいつが欲しい。</text>
+  </string>
+  <string id="sim_default_isg_mechanic_task_2_fetch_finish">
+    <text>必要なものはすべて揃った。ありがとう。</text>
+  </string>
+  <string id="sim_default_isg_mechanic_task_3_name">
+    <text>UNISGの技術屋たちのために%sを探せ</text>
+  </string>
+  <string id="sim_default_isg_mechanic_task_3_text">
+    <text>%sは、UNISGの技術屋が古いものと交換するために必要としている。見つけたらUNISGの技術屋に持ち帰れ。</text>
+  </string>
+  <string id="sim_default_isg_mechanic_task_3_about">
+    <text>もうひとつ仕事がある。おまえが持ってきてくれたツールは、うまく機能しているが、必要なものがすべて揃っているわけではない。もっといいものを探してもらえないだろうか？</text>
+  </string>
+  <string id="sim_default_isg_mechanic_task_3_fetch_about">
+    <text>あとは、%sが必要だ。どこで手に入るのかわからんが、もし見つけられたら、それが欲しい。</text>
+  </string>
+  <string id="sim_default_isg_mechanic_task_3_fetch_finish">
+    <text>必要なものはすべて揃った。ありがとう。</text>
+  </string>
+</string_table>

@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_sharpening_stones">
+    <text>砥石三点セット</text>
+  </string>
+  <string id="st_sharpening_stones_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ ナイフや刃物
+
+                \n%c[ui_gray_1]ナイフとツールの切れ味が悪い？それをそのまま使う必要などない。そのどれもが非常に実用的な3個の砥石セットは、ポリエステル製のケースに収まっている。砥石はどれもしっかりとしており、傷ひとつなく、きっちりと収められている。完璧な砥ぎ方として、まず荒砥石から始め、３本の砥石を使い仕上げることでカミソリのような刃先を作ることができる。
+ 
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ ツールキット
+                %c[d_blue] ・ 高品質
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_gun_oil">
+    <text>「ブルノックス銃器ケア」スプレー潤滑剤</text>
+  </string>
+  <string id="st_gun_oil_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ すべての武器
+
+                \n%c[ui_gray_1]銃器の潤滑と保護などに使うスプレー。特に長時間に渡る銃撃戦の後は、丁寧に注油することにより腐食を防ぎ、弾詰まりの確率を減らすだろう。潤滑を行う前は、必ず内部に蓄積された汚れや異物を取除かなければならない。メンテナンスを効率化し、銃器内部にアクセスするための基礎的なツーツを使うことも出来る。特別なターボライン スプレーは炭化水素のバランスの取れた混合物に基づき、長期的な潤滑が可能なため、自動小銃など。気温－55℃まで潤滑性能は保たれる。発火点は78℃。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 速い使用時間（スプレー式潤滑剤）
+                %c[d_blue] ・ 高品質
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_gun_oil_ru_d">
+    <text>「ドヴォーカ」ガンオイル＆洗浄液</text>
+  </string>
+  <string id="st_gun_oil_ru_d_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ すべての武器
+
+                \n%c[ui_gray_1]70 年余りの間使い続けられている、赤軍の象徴的な油。金属ボトルは二層になっており、油と洗浄溶剤の二つに分割されている。まず、弾薬発射機構などに、このアルカリ性溶液で作られた溶剤を使うことにより、効果的に塩害を洗浄することが出来る。発売以来、溶液の構成は幾度も近代化されたが、単純でありながら精巧な「ダブル」ボトル設計は変わらなかった。「ドヴォーカ」は、汎用性に優れているせいか、ゾーンでは非常に人気がある。銃器内部の全ての機構に適用するためには、適切な道具が必要なことに注意。「ドヴォーカ」は個別の補修用具ではなく、補助用具と捉えるべきだ。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 液体ガンオイルと洗浄液
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_gun_oil_ru">
+    <text>「ルザック」ガンオイル</text>
+  </string>
+  <string id="st_gun_oil_ru_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ すべての武器
+
+                \n%c[ui_gray_1]ペットボトルに詰められた、ロシア製銃器用鉱物油。低価格ではあるが、注油を欠かさなければ銃器を良好な状態に保つことができる。効果的に使用するにはブラシを併用すると良い。メーカーの機能説明によると 「ルザック」は低い摩擦係数により、特に自動小銃に有効なようだ。また、様々な防錆剤、防腐剤などの添加物が含まれる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 液体ガンオイル
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_solvent">
+    <text>ホップの「9番」洗浄液</text>
+  </string>
+  <string id="st_solvent_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ すべての武器
+
+                \n%c[ui_gray_1]ホップの「9番」銃口クリーナーは、西側製の高品質な銃器洗浄液で、特に厳しい環境下で使用するのに適しており、最も一般的に使用されている。他の洗浄液と同様に、錆を防止し、粉塵、金属汚れを除去するほか、特殊な性能として、激しい金属片の付着から銃器を守る。これらは、放射線に曝されたゾーンの環境する。非常に強力かつ安全で使いやすく、溶剤は急速に深く浸透するが、機能を十分に引き出すには適切なツールと布の使用を勧める。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 銃器洗浄液
+                %c[d_blue] ・ 高品質
+                %c[d_blue] ・ 高価値
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_cleaning_kit_p">
+    <text>「プログレス」ハンドガン クリーニングキット</text>
+  </string>
+  <string id="st_cleaning_kit_p_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 9mm、.45、.357口径の銃器
+
+                \n%c[ui_gray_1]銃身内などに蓄積された汚れ、砂、湿気、固着した油や異物を除去および清掃するためのブラシセット。銃器を最良の状態で運用するために広く一般的に使われている。内部メカニズムに固着した油を、より簡単に溶かし除去するために、アルコールや適当な用具を使用する。しかし、最も経験豊富なストーカーは、コスト効率の良い、獣脂を代替潤滑剤としてブラシに含ませる。この特定のセットは、標準的な拳銃の口径に適合する。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 高品質
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_cleaning_kit_s">
+    <text>「オーロラA108／12」12ゲージ クリーニングキット</text>
+  </string>
+  <string id="st_cleaning_kit_s_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 12 ゲージの銃器
+
+                \n%c[ui_gray_1]銃身内などに蓄積された汚れ、砂、湿気、固着した油や異物を除去および清掃するためのブラシセット。内部メカニズムに固着した油を、より簡単に溶かし除去するために、アルコールや適当な用具を使用する。この特定のセットは、12 ゲージの散弾銃に適合する。「オーロラ」キットは、射撃後の清掃、拡散した潤滑油の掃きだし、錆の除去の 3 つのタイプの専用のブラシで構成される。愛用の銃と末永く過ごすために使用を勧める。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 高品質
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_cleaning_kit_r5">
+    <text>「ヴァルプロIII」小口径ライフル クリーニングキット</text>
+  </string>
+  <string id="st_cleaning_kit_r5_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 5.45mm、5.56mm口径の銃器
+
+                \n%c[ui_gray_1]銃身内などに蓄積された汚れ、砂、湿気、固着した油や異物を除去および清掃するためのブラシセット。銃器を最良の状態で運用するために広く一般的に使われている。内部メカニズムに固着した油を、より簡単に溶かし除去するために、アルコールや適当な用具を使用する。しかし、最も経験豊富なストーカーは、コスト効率の良い獣脂を代替潤滑剤としてブラシに含ませる。この特定のパックは銃身の長い中口径のライフルに適合し、再利用可能な硬いプラスチックのケースに収まる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 高品質
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_cleaning_kit_r7">
+    <text>中／大口径ライフル クリーニングキット</text>
+  </string>
+  <string id="st_cleaning_kit_r7_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 7.62mm、7.92mm、9x39mm、.338口径の銃器
+
+                \n%c[ui_gray_1]銃身内などに蓄積された汚れ、砂、湿気、固着した油や異物を除去および清掃するためのブラシセット。銃器を最良の状態で運用するために広く一般的に使われている。内部メカニズムに固着した油を、より簡単に溶かし除去するために、アルコールや適当な用具を使用する。しかし、最も経験豊富なストーカーは、コスト効率の良い獣脂を代替潤滑剤としてブラシに含ませる。この特定のセットは、非常に長い銃身の大口径のライフルに適合する。製造元は不明、シンプルで単純な構造だが、非常に高品質な材料が使用されるなど、軍関係、おそらくは特殊部隊の装備品と思われる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 高品質
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_cleaning_kit_u">
+    <text>万能クリーニングキット</text>
+  </string>
+  <string id="st_cleaning_kit_u_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 全ての銃器
+
+                \n%c[ui_gray_1]全ての口径に対応する先進的な銃器用クリーニングキット。清掃と整備に加え、修理用ツールとしても使える。このセットは、小分けされた潤滑油と洗浄液、銃器内部機構のメンテナンスを容易にするいくつかの軽工具を含む。機能を最大限に生かすためには、追加の材料か専用修理セットを併用する。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 高品質
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_repair_kit_p">
+    <text>ハンドガン修理キット</text>
+  </string>
+  <string id="st_repair_kit_p_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 9mm、.45mm、.357口径の銃器
+
+                \n%c[ui_gray_1]このキットには、銃器の分解と整備に使う工具、潤滑油、溶剤と洗浄道具、さらに標準で銃器の予備部品も含む。携帯するには重いキットだが、ゾーンの深遠部に立ち入った際、損傷した銃器を再び蘇らせることは、生死を分ける上で外せない。銃器の構造の違いにより、この特定のセットは、小口径の拳銃の分解と修理のみに使える。更に効果的に使用するには、一度の整備でいくつかの材料を借りるか、他のキットを併用する。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 貴重品
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_repair_kit_s">
+    <text>ショットガン修理キット</text>
+  </string>
+  <string id="st_repair_kit_s_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 12ゲージの銃器
+
+                \n%c[ui_gray_1]このキットには、銃器の分解と整備に使う工具、潤滑油、溶剤と洗浄道具、さらに標準で銃器の予備部品も含む。携帯するには重いキットだが、ゾーンの深遠部に立ち入った際、損傷した銃器を再び蘇らせることは、生死を分ける上で外せない。銃器の構造の違いにより、この特定のセットは、12ゲージ散弾銃の分解と修理のみに使える。更に効果的に使用するには、一度の整備でいくつかの材料を借りるか、他のキットを併用する。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 貴重品
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_repair_kit_r5">
+    <text>小口径ライフル修理キット</text>
+  </string>
+  <string id="st_repair_kit_r5_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 5.45mm、5.56mm口径の銃器
+
+                \n%c[ui_gray_1]このキットには、銃器の分解と整備に使う工具、潤滑油、溶剤と洗浄道具、さらに標準で銃器の予備部品も含む。携帯するには重いキットだが、ゾーンの深遠部に立ち入った際、損傷した銃器を再び蘇らせることは、生死を分ける上で外せない。銃器の構造の違いにより、この特定のセットは、中口径ライフルの分解と修理のみに使える。更に効果的に使用するには、一度の整備でいくつかの材料を借りるか、他のキットを併用する。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 貴重品
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_repair_kit_r7">
+    <text>中／大口径ライフル修理キット</text>
+  </string>
+  <string id="st_repair_kit_r7_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 7.62mm、7.92mm、9x39mm、.338口径の銃器
+
+                \n%c[ui_gray_1]このキットには、銃器の分解と整備に使う工具、潤滑油、溶剤と洗浄道具、さらに標準で銃器の予備部品も含む。携帯するには重いキットだが、ゾーンの深遠部に立ち入った際、損傷した銃器を再び蘇らせることは、生死を分ける上で外せない。銃器の構造の違いにより、この特定のセットは、大口径ライフルの分解と修理のみに使える。更に効果的に使用するには、一度の整備でいくつかの材料を借りるか、他のキットを併用する。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 貴重品
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_repair_kit_p_empty">
+    <text>ハンドガン修理キット（空箱）</text>
+  </string>
+  <string id="st_repair_kit_p_empty_descr">
+    <text>9mm、.45、.357口径の銃器の整備と修理、および予備部品が入っていた空の金属ケース。スーツの金属部分の補修に使えそうだ。低価格だが取引できる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品</text>
+  </string>
+  <string id="st_repair_kit_s_empty">
+    <text>ショットガン修理キット（空箱）</text>
+  </string>
+  <string id="st_repair_kit_s_empty_descr">
+    <text>12ゲージ口径の銃器の整備と修理、および予備部品が入っていた空の金属ケース。スーツの金属部分の補修に使えそうだ。低価格だが取引できる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品</text>
+  </string>
+  <string id="st_repair_kit_r5_empty">
+    <text>小口径ライフル修理キット（空箱）</text>
+  </string>
+  <string id="st_repair_kit_r5_empty_descr">
+    <text>5.45mmと5.56mm口径の銃器の整備と修理、および予備部品が入っていた空の金属ケース。装備品の金属部分の補修に使えそうだ。低価格だが取引できる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品</text>
+  </string>
+  <string id="st_repair_kit_r7_empty">
+    <text>中／大口径ライフル 修理キット（空箱）</text>
+  </string>
+  <string id="st_repair_kit_r7_empty_descr">
+    <text>大口径の銃器の整備と修理、および予備部品が入っていた空の金属ケース。スーツの金属部分の補修に使えそうだ。低価格だが取引できる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品</text>
+  </string>
+  <string id="st_sewing_kit_b">
+    <text>基本裁縫セット</text>
+  </string>
+  <string id="st_sewing_kit_b_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 全てのスーツとヘッドギアセット
+
+                \n%c[ui_gray_1]糸と針、はさみがセットになった簡単な裁縫道具。スーツの弾痕や裂けた柔かい生地を縫い合わせるのに使う。携帯性を優先させた反面、短めの糸と弱い針のため、より深刻なダメージを受けた場合には実用性に限界があり、適応できる材料も限られる。しかし、このセットをより効果的なものにするためには、常に利用可能なものを使用することを強くお勧めする。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_sewing_kit_a">
+    <text>上級裁縫セット</text>
+  </string>
+  <string id="st_sewing_kit_a_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 全てのスーツとヘッドギアセット
+
+                \n%c[ui_gray_1]この裁縫セットは、同様の基本セットより高度な道具を含む。二重巻きされたナイロン糸と高品質な大きめの針が選ばれ、硬く厚い織物や、薄めのミュータントの皮、人工繊維などの縫製に向くことから、より損傷を受けた装備も修理することが出来る。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_sewing_kit_h">
+    <text>強化裁縫セット</text>
+  </string>
+  <string id="st_sewing_kit_h_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 全てのスーツと軽装ヘッドギアセット
+
+                \n%c[ui_gray_1]軍用の高度な裁縫キットは、骨折を防止する板が装備された最新のアーマーを意図して用意された。文字通り、破壊された装備を縫い合せるのに十分な金属性の糸を含む。最も硬いミュータントの皮も、アーマーに縫い込むことが出来る。もうひとつの利点は、修復不能なスーツやヘッドギア等から流用可能な部品を外すのに使える機械工具が含まれる\nこのキットは、ゾーンで利用可能な裁縫道具の中でも最高品質のものだ。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 高品質
+                %c[d_blue] ・ 貴重品
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_glue_b">
+    <text>「ズヴィアズダ」接着剤</text>
+  </string>
+  <string id="st_glue_b_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 全てのスーツと軽装ヘッドギアセット
+
+                \n%c[ui_gray_1]ゾーンで手に入る最も安価なエポキシ系の合成接着剤で、生地の軽い破れやヘッドギアの小さな穴を繕う事は出来るが、激しい損傷には適さない。しかし、「ズヴィアズダ」の価値は価格にあり、小さな破れや損傷をその都度補修することで、装備を長持ちさせることが出来、大きな出費を抑えられる。修理を効率よく行うために、様々な材料との併用をお勧めするが、ミュータントの皮を接着することは出来ない。まち針の様な利用の仕方で、縫製作業を容易にすることも出来る。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_glue_a">
+    <text>「ター」接着剤</text>
+  </string>
+  <string id="st_glue_a_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 全てのスーツとヘッドギアセット
+
+                \n%c[ui_gray_1]ウクライナの化学工業によって製造された高度な接着剤で、変更されたエポキシ樹脂により、ほとんどの固形物、材料を接着出来る。「ター」がストーカーたちに支持される理由は、予備の材料が不足するなかで融通が利き、使い易いからと言うことが上げられる。織物やケプラー繊維など、軽めの保護材を接着することは出来るが、金属には向かない。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_glue_e">
+    <text>「M17」接着剤</text>
+  </string>
+  <string id="st_glue_e_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 全てのスーツとヘッドギアセット
+
+                \n%c[ui_gray_1]M17は、どの様な状況下でも、ひとつの接着剤であらゆる物を接着可能にすることを目的にした、ソビエト軍事産業研究所の研究成果だ。プラスチック、又は金属のいずれかと反応し最適化させる事は、非常に強力なメタクリル樹脂を使うことで達成された。しかし、M17は、その制限を回避し両方の間で、等しく効果的な物質を作る。更に水との親和性が有り、用途に応じ希釈して使用することも可能。適切な材料と併用すれば、ほとんどの損傷を修復することが出来る。ゾーンで手に入れる事が出来る全ての材料に適応する。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 高品質
+                %c[d_blue] ・ 貴重品
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_armor_repair_fa">
+    <text>スーツ用応急修理セット</text>
+  </string>
+  <string id="st_armor_repair_fa_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 全てのスーツと軽装ヘッドギアセット
+
+                \n%c[ui_gray_1]スーツと一部のヘッドギア向けの応急修理セット。軍規格のダクトテープと、直ぐに使える様々な形とサイズの厚手の織物一式を含む。これは、損傷を受けた部位の更なる被害を防ぐ。収納された材料は、比較的耐久性に乏しく、小規模な補修には向くが、ケプラーや金属には効果を望めない。結果、ヘッドギアの整備において限られた用途にしか使用出来ない。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 速い使用時間（粘着テープ）
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_helmet_repair_kit">
+    <text>ヘッドギア修理キット</text>
+  </string>
+  <string id="st_helmet_repair_kit_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 中／重量ヘッドギアセット
+
+                \n%c[ui_gray_1]このキットには最新型の戦闘用ヘルメットの修理をする全ての物が揃っている。この重工具の特徴は、硬い材料、例えばケプラーや金属、チタンなどに有効な非常に強いメタクリル樹脂系の接着剤を含む。キットには裁縫道具が含まれておらず、アーマーの柔かい部分を補修することは出来ないが、修理を容易にするためヘッドギアを分解するのに用いることが出来る。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 高品質
+                %c[d_blue] ・ 貴重品
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_repair_kit">
+    <text>重量スーツ修理キット</text>
+  </string>
+  <string id="st_repair_kit_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 全てのスーツとヘッドギアセット
+
+                \n%c[ui_gray_1]このセットに含まれるのは、非常に耐久性の高い糸と針、ポリマー系の布地であり、ほとんどのアーマーやヘッドギアを完全に修理することが出来る。厚手の生地、軍規格のケプラー繊維、ミュータントの厚い皮など、様々な材料が利用可能。他の工具やキットを追加することで、修理の効果を上げる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 高品質
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 貴重品
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_light_repair_kit">
+    <text>軽装アーマー修理キット</text>
+  </string>
+  <string id="st_light_repair_kit_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 超軽装アーマーと軽装アーマー
+
+                \n%c[ui_gray_1]この複雑で重いセットには、非常に耐久性のある糸や針、ポリマー系のあて布など、あらゆる軽装アーマーの完全な修理を行うために必要なものがすべて含まれている。厚手の布や軍用のケブラーシートなど、素材を問わずに使用できる。道具やキットを追加することで、修理の効果を高めることができる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 高品質
+                %c[d_blue] ・ 貴重品
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_medium_repair_kit">
+    <text>中装アーマー修理キット</text>
+  </string>
+  <string id="st_medium_repair_kit_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 中装アーマー
+
+                \n%c[ui_gray_1]この複雑で重いセットには、非常に耐久性のある糸や針、ポリマー系のあて布など、あらゆる中装アーマーの完全な修理を行うために必要なものがすべて含まれている。厚手の布や軍用のケブラーシートなど、素材を問わずに使用できる。道具やキットを追加することで、修理の効果を高めることができる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 高品質
+                %c[d_blue] ・ 貴重品
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_exolight_repair_kit">
+    <text>重装アーマー修理キット</text>
+  </string>
+  <string id="st_exolight_repair_kit_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 重装アーマー
+
+                \n%c[ui_gray_1]この複雑で重いセットには、非常に耐久性のある糸や針、ポリマー系のあて布など、あらゆる重装アーマーの完全な修理を行うために必要なものがすべて含まれている。厚手の布や軍用のケブラーシートなど、素材を問わずに使用できる。道具やキットを追加することで、修理の効果を高めることができる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 高品質
+                %c[d_blue] ・ 貴重品
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_exo_repair_kit">
+    <text>強化外骨格修理キット</text>
+  </string>
+  <string id="st_exo_repair_kit_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 強化外骨格
+
+                \n%c[ui_gray_1]この複雑で重いセットには、非常に耐久性のある糸や針、ポリマー系のあて布など、あらゆる強化外骨格の完全な修理を行うために必要なものがすべて含まれている。厚手の布や軍用のケブラーシートなど、素材を問わずに使用できる。道具やキットを追加することで、修理の効果を高めることができる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 高品質
+                %c[d_blue] ・ 貴重品
+                %c[d_orange] ・ 装備品の修理に使用</text>
+  </string>
+  <string id="st_leatherman_tool">
+    <text>マルチツール</text>
+  </string>
+  <string id="st_leatherman_tool_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 武器部品
+
+                \n%c[ui_gray_1]武器やアーマーを分解したり、使い込まれて錆びついたトリガーメカニズムをメンテナンスできる、使い古しだが機能的なマルチツール。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_purple] ・ アイテム分解用ツール
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 高品質
+                %c[d_orange] ・ 武器部品のメンテナンスに使用</text>
+  </string>
+  <string id="st_rasp_tool">
+    <text>やすり</text>
+  </string>
+  <string id="st_rasp_tool_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 武器部品
+
+                \n%c[ui_gray_1]やすりは、摩耗や錆びたりした銃身や銃尾の頭部などの武器部品を修復するために使用される。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ ツールキット
+                %c[d_blue] ・ 高品質
+                %c[d_orange] ・ 武器部品のメンテナンスに使用</text>
+  </string>
+  <string id="st_ramrod_tool">
+    <text>ラムロッド</text>
+  </string>
+  <string id="st_ramrod_tool_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ 武器部品
+
+                \n%c[ui_gray_1]3つの複合材からなる古いラムロッドは、使い古したり錆びたりしたバレルやガス管などの部品を修復するために使用される。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ ツールキット
+                %c[d_blue] ・ 高品質
+                %c[d_orange] ・ 武器部品のメンテナンスに使用</text>
+  </string>
+  <string id="st_sewing_thread">
+    <text>基本縫糸</text>
+  </string>
+  <string id="st_sewing_thread_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ スーツ部品
+
+                \n%c[ui_gray_1]この裁縫糸は、綿、リネン、ナイロンと絹を含む多くの異なる材料から作られている。どのストーカーも、ゾーン内が厳しい環境であり、服が破けるようなあらゆる事態を避けることが簡単でないと知っている。長旅のために二、三の裁縫糸を取っておくことは、賢いアイデアといえる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                %c[d_orange] ・ スーツ部品のメンテナンスに使用
+                </text>
+  </string>
+  <string id="st_heavy_sewing_thread">
+    <text>野外アーマーツールキット</text>
+  </string>
+  <string id="st_heavy_sewing_thread_descr">
+    <text>                %c[ui_gray_2]使用の対象になるアイテム : 
+                %c[d_orange] ・ スーツ部品
+
+                \n%c[ui_gray_1]縫製およびシーリング遅延剤用の高度なツールキット。ケブラー糸を含んだ、最も強力で熱に強い市販の糸のひとつである。ナイロンやポリエステルの約2.5倍の強度があり、伸びが非常に少ない。溶融せず、華氏800度で分解するため、丈夫な衣類の縫い目を縫うなど、ストレスの高い作業に最適だ。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ ツールキット
+                %c[d_blue] ・ 高品質
+                %c[d_orange] ・ スーツ部品のメンテナンスに使用</text>
+  </string>
+</string_table>

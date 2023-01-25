@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_addon_scope">
+    <text>PSO-1Mスコープ</text>
+  </string>
+  <string id="st_addon_scope_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ すべてのワルシャワ条約機構ライフル
+
+\n%c[ui_gray_1]PSO（「プリッツェル スナイパースキー オプティチェスキー」すなわちロシア語で「狙撃用光学照準器」を意味する略称）は、ノヴォシビルスク光学機器工場（NPZ）で製造されたソ連製の光学照準器である。1964年にSVD狙撃銃用の標準照準器として導入されて以来、一般的に使用されている。その後、AK-74やAN-94などのアサルトライフルにも採用され、その耐久性、汎用性、そして便利な距離計を特徴とするデザイン性の高い照準線パターンが評価されている。このスコープの倍率は4.0倍で、主に遠距離での戦闘に使用できる。ワルシャワ条約機構諸国の標準的なダブテール マウントによって銃に取り付けられる。
+
+                \n%c[d_purple] ・ 倍率 : 4.0x
+                %c[d_purple] ・ 状態 : 良い
+                %c[d_purple] ・ レティクルパターン : PSO-1</text>
+  </string>
+  <string id="st_addon_scope_1p29">
+    <text>1P29「チューリップ」スコープ</text>
+  </string>
+  <string id="st_addon_scope_1p29_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ すべてのワルシャワ条約機構ライフル
+
+\n%c[ui_gray_1]USP-1照準器（インデックス1P29）は、プリズム直視型の光学配置となっている。照準器の角度は、銃器マウントブラケットに対して照準器本体を回転させることで機械的に設定する。トリチウム照明なので電池は不要である。照準器の視野端にある距離計は、高さ1.5mの目標物から1200mまでの範囲を視覚的に見つけることができる。
+
+                \n%c[d_purple] ・ 倍率 : 4.0x
+                %c[d_purple] ・ 状態 : 良い
+                %c[d_purple] ・ レティクルパターン : PSU-1</text>
+  </string>
+  <string id="st_addon_scope_ac10632">
+    <text>バースカ電子照準器AC10632スコープ</text>
+  </string>
+  <string id="st_addon_scope_ac10632_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ すべてのNATOライフル
+
+\n%c[ui_gray_1]バースカ電子照準器マルチレティクル レッドドットサイトAC10632は、高品質なサイトを探す人に最適な製品となるように開発された。NATO銃器やAK-12にも装着可能である。
+
+                \n%c[d_purple] ・ 倍率 : なし（コリメーター）
+                %c[d_purple] ・ 状態 : 非常に良い</text>
+  </string>
+  <string id="st_addon_scope_acog">
+    <text>ACOG 3.5倍スコープ</text>
+  </string>
+  <string id="st_addon_scope_acog_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ すべてのNATOライフル
+
+\n%c[ui_gray_1]ACOGは「アドバンスド コンバット オプティカル ガンサイト」すなわち英語で「高度戦闘光学照準器」を意味する略称であり、トリジコン社が製造している銃器用スコープのシリーズを指す。このタイプのスコープは通常、高品質で、トリチウムベースのレティクルイルミネーションを内蔵している。このタイプは、USMCスタイルのレティクルを持ち、倍率を調整可能。
+
+                \n%c[d_purple] ・ 倍率 : 3.5x
+                %c[d_purple] ・ 状態 : 非常に良い
+                %c[d_purple] ・ レティクルパターン : USMC</text>
+  </string>
+  <string id="st_addon_scope_eotech">
+    <text>イーオーテック スコープ</text>
+  </string>
+  <string id="st_addon_scope_eotech_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ すべてのNATOライフル
+
+\n%c[ui_gray_1]ホログラフィックサイトであり、NATOアサルトライフルおよびサブマシンガンに使用可能
+
+                \n%c[d_purple] ・ 倍率 : なし（コリメーター）
+                %c[d_purple] ・ 状態 : 非常に良い</text>
+  </string>
+  <string id="st_addon_scope_galil_susat">
+    <text>ガリル4.0倍スコープ（SUSAT）</text>
+  </string>
+  <string id="st_addon_scope_galil">
+    <text>ガリル4.0倍スコープ</text>
+  </string>
+  <string id="st_addon_scope_galil_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ ガリルAR
+
+\n%c[ui_gray_1]イスラエルのIMI社製ガリルAR用の光学照準器
+
+                \n%c[d_purple] ・ 倍率 : 4.0x
+                %c[d_purple] ・ 状態 : 良い
+                %c[d_purple] ・ レティクルパターン : SUSAT</text>
+  </string>
+  <string id="st_addon_scope_kobra">
+    <text>EKP 1S-03「コブラ」</text>
+  </string>
+  <string id="st_addon_scope_kobra_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ すべてのワルシャワ条約機構ライフル
+
+\n%c[ui_gray_1]コブラサイトは、レーザーで生成されたHUDを利用して、レティクルパターンをフィルター付きレンズに重ね合わせるオープンコリメーター式のコンバットオプティクスである。このサイトは、様々な明るさの中での近距離戦や市街戦において、高速で移動するターゲットや短時間で出現するターゲットに対処するために設計されている。104［lx］から10-2［lx］（日中、薄明かり、月光）、片目または両目での明確なターゲティングが可能。移動中の車両からの射撃時に有効。
+
+                \n%c[d_purple] ・ 倍率 :  なし（コリメーター）
+                %c[d_purple] ・ 状態 : 非常に良い</text>
+  </string>
+  <string id="st_addon_scope_po4x34">
+    <text>PO 4×34スコープ</text>
+  </string>
+  <string id="st_addon_scope_po4x34_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ OTs-14シリーズ
+
+\n%c[ui_gray_1]OTs-14シリーズ用の光学照準器。
+
+                \n%c[d_purple] ・ 倍率 : 4.0x
+                %c[d_purple] ・ 状態 : 良い
+                %c[d_purple] ・ レティクルパターン : 4x34</text>
+  </string>
+  <string id="st_addon_scope_pso-1m2-01">
+    <text>PSO-1M2-1スコープ</text>
+  </string>
+  <string id="st_addon_scope_pso-1m2-01_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ すべてのワルシャワ条約機構ライフル
+
+\n%c[ui_gray_1]PSO-1M2-O1は、非常に効果があり実用的な、身長を基準としたレンジファインダーが特徴であり、立射および伏せ撃ち兼用の段階的な目盛りで対応できる。400ｍシモノフ高さ基準勾配（チョークスタイル）距離計は逆V字型であり、9x39口径のライフルでも使用できる。
+
+                \n%c[d_purple] ・ 倍率 : 4.0x
+                %c[d_purple] ・ 状態 : 非常に良い
+                %c[d_purple] ・ レティクルパターン : PSO-1-1</text>
+  </string>
+  <string id="st_addon_scope_pu">
+    <text>PUスコープ</text>
+  </string>
+  <string id="st_addon_scope_pu_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ 歴史的なロシア製ライフル
+
+\n%c[ui_gray_1]モシン ナガンやSVT-40などの歩兵銃や精密小銃に適合するように設計された、第二次世界大戦以降の赤軍の標準的な伸縮式照準器。固定式の3.5倍ズームを採用しており、長距離戦闘に適している。ソビエトで設計されたほかのものと同様に、耐久性と効果があり、現在でも生産され使用されている。
+
+                \n%c[d_purple] ・ 倍率 : 3.5x
+                %c[d_purple] ・ 状態 : 平均的
+                %c[d_purple] ・ レティクルパターン : PU</text>
+  </string>
+  <string id="st_addon_scope_zf4">
+    <text>ZF-4スコープ</text>
+  </string>
+  <string id="st_addon_scope_zf4_descr">
+    <text>%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ 歴史的なドイツ製ライフル
+
+\n%c[ui_gray_1]ZF-4は、最初に作られた伸縮式の照準器のひとつである。第二次世界大戦中にドイツで設計、製造されたもので、正規の歩兵に長距離での戦闘能力を与えることを目的としていた。しかし、生産数が少なかったため、主にドイツのスナイパーや精鋭部隊で使用されてきた。とはいえ、このスコープが使用されていた武器は一般的なものであったため、ゾーンでも比較的人気のある型となっている。
+
+                \n%c[d_purple] ・ 倍率 : 2.0x
+                %c[d_purple] ・ 状態 : 良い
+                %c[d_purple] ・ レティクルパターン : ZF-41</text>
+  </string>
+  <string id="st_addon_scope_cmore">
+    <text>C-MOREタクティカル サイト</text>
+  </string>
+  <string id="st_addon_scope_cmore_descr">
+    <text>チューブ式スコープにありがちな閉塞感やトンネルビジョンを解消し、制限されない視野を実現した高性能レッドドットサイト。レールウェイ シリーズには、標準的なレールベースがあらかじめ取り付けられており、ほとんどのウィーバー レールマウント、ピカティニー レールマウント、レシーバーなどに取り付け可能。
+
+                \n%c[d_purple] ・ 倍率 : なし（コリメーター）
+                %c[d_purple] ・ 状態 : 良い</text>
+  </string>
+  <string id="st_addon_scope_ac11090">
+    <text>AC11090レッド ドットサイト</text>
+  </string>
+  <string id="st_addon_scope_ac11090_descr">
+    <text>NATOのアサルトライフルおよびサブマシンガン、AK-12に対応した2倍率の赤いドットサイト。</text>
+  </string>
+  <string id="st_addon_sil_45">
+    <text>.45 ACPサプレッサー</text>
+  </string>
+  <string id="st_addon_sil_45_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ .45口径
+
+\n%c[ui_gray_1]使用可能な武器 : .45口径ピストル、サブマシンガン
+
+\n%c[d_purple] ・ 消音効果 : 非常に高い（ピストル）</text>
+  </string>
+  <string id="st_addon_sil_57">
+    <text>5.7×28サプレッサー</text>
+  </string>
+  <string id="st_addon_sil_57_descr">
+    <text>%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ 5.7mm口径
+
+\n%c[ui_gray_1]使用可能な武器 :  FN-P90 PDW
+
+\n\n%c[d_purple] ・ 消音性能 : 高</text>
+  </string>
+  <string id="st_addon_sil_6p9">
+    <text>6P9サプレッサー</text>
+  </string>
+  <string id="st_addon_sil_6p9_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ 9mm口径
+
+\n%c[ui_gray_1]使用可能な武器 : PBピストル
+
+\n\n%c[d_purple] ・ 消音性能 : 非常に良い</text>
+  </string>
+  <string id="st_addon_sil_9a91">
+    <text>9A-91 / VSK-94サプレッサー</text>
+  </string>
+  <string id="st_addon_sil_9a91_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ 9x39口径
+
+\n%c[ui_gray_1]使用可能な武器 :  9A-91 carbine、VSK-94
+
+\n%c[d_purple] ・ 消音性能 : 非常に高い</text>
+  </string>
+  <string id="st_addon_sil_9mm">
+    <text>9mmサプレッサー</text>
+  </string>
+  <string id="st_addon_sil_9mm_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ 9mm口径
+
+\n%c[ui_gray_1]9mmのピストルとサブマシンガンのためのサプレッサーで、9x18口径武器のための効果的で丈夫な消音抑制器。非常に古風だが、完全に効果を発揮する。本体は、1本のきつく圧縮された良質な真鍮のメッシュが含まれ、正面は弾丸が通過する程度サイズの穴が開いた一組のゴム ワイプから構成されている。通常、軽装甲の敵に対する近接戦闘、または、暗殺のために使用される。
+
+\n%c[d_purple] ・ 消音性能 : 非常に高い</text>
+  </string>
+  <string id="st_addon_sil_aps">
+    <text>APSサプレッサー</text>
+  </string>
+  <string id="st_addon_sil_aps_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ 9mm口径
+
+\n%c[ui_gray_1]使用可能な武器 : OTs-33「Pernach」。
+
+\n%c[d_purple] ・ 消音性能 : 中</text>
+  </string>
+  <string id="st_addon_sil_atg">
+    <text>ATGサプレッサー</text>
+  </string>
+  <string id="st_addon_sil_atg_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ 5.56mm、7.62ｍｍ口径
+
+\n%c[ui_gray_1]使用可能な武器 : AK-102、AK-103、AK-104
+
+\n%c[d_purple] ・ 消音性能 : 中</text>
+  </string>
+  <string id="st_addon_sil_gemtech">
+    <text>ジェムテック サプレッサー</text>
+  </string>
+  <string id="st_addon_sil_gemtech_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ 9mm、.45ｍｍ口径
+
+\n%c[ui_gray_1]使用可能な武器 : グロック、FN-FNP
+
+\n%c[d_purple] ・ 消音性能 : 高</text>
+  </string>
+  <string id="st_addon_sil_kzrzp">
+    <text>KZRZPサプレッサー</text>
+  </string>
+  <string id="st_addon_sil_kzrzp_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ 7.62ｍｍ口径
+
+\n%c[ui_gray_1]使用可能な武器 : SVDスナイパーライフル
+
+\n%c[d_purple] ・ 消音性能 : 中</text>
+  </string>
+  <string id="st_addon_sil_nato">
+    <text>NATOサプレッサー</text>
+  </string>
+  <string id="st_addon_sil_nato_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ .45mm、5.56mm、7.62ｍｍ口径
+
+\n%c[ui_gray_1]使用可能な武器 : 5.56x45mm弾のライフル
+
+\n%c[d_purple] ・ 消音性能 : 高</text>
+  </string>
+  <string id="st_addon_sil_pbs1">
+    <text>PBS-1サプレッサー</text>
+  </string>
+  <string id="st_addon_sil_pbs1_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ 7.62ｍｍ口径
+
+\n%c[ui_gray_1]使用可能な武器 :  7.62mm弾の銃
+
+\n%c[d_purple] ・ 消音性能 : 中</text>
+  </string>
+  <string id="st_addon_sil_pbs4">
+    <text>PBS-4サプレッサー</text>
+  </string>
+  <string id="st_addon_sil_pbs4_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ 5.45mm口径
+
+\n%c[ui_gray_1]使用可能な武器 : AKS-74U
+
+\n%c[d_purple] ・ 消音性能 : 中</text>
+  </string>
+  <string id="st_addon_sil_sr25">
+    <text>SR-25サプレッサー</text>
+  </string>
+  <string id="st_addon_sil_sr25_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ 7.62mm口径
+
+\n%c[ui_gray_1]使用可能な武器 :  SR-25
+
+\n%c[d_purple] ・ 消音性能 : 高</text>
+  </string>
+  <string id="st_addon_sil_tgp-a">
+    <text>TGP-Aサプレッサ</text>
+  </string>
+  <string id="st_addon_sil_tgp-a_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ 5.45mm口径
+
+\n%c[ui_gray_1]使用可能な武器 : AK系ライフル、RPK-74機関銃
+
+\n%c[d_purple] ・ 消音性能 : 中</text>
+  </string>
+  <string id="st_addon_sil_vihr">
+    <text>SR-3Mサプレッサー</text>
+  </string>
+  <string id="st_addon_sil_vihr_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ 9x39mm口径
+
+\n%c[ui_gray_1]使用可能な武器 :  SR-3M
+
+\n%c[d_purple] ・ 消音性能 : 非常に高い</text>
+  </string>
+  <string id="st_addon_silencer">
+    <text>米陸軍小口径ライフル用サプレッサー</text>
+  </string>
+  <string id="st_addon_silencer_descr">
+    <text>%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ 5.56x45mm口径
+
+\n%c[ui_gray_1]アメリカで設計 製造されたライフル用の高性能サプレッサー。高品質な鋼鉄製の本体に4つの拡張室を設け、さらにZ型のチタン製バッフルを連ねている。マズルフラッシュをほぼ完全に減少させ、発射時の音も大幅に抑えることができる。また、メンテナンスも最小限で済む。このタイプのサプレッサーは、欧米製の小口径ライフルに共通して使用されており、現在も欧米の軍隊で活躍している。
+
+\n%c[d_purple] ・ 消音性能 : 中</text>
+  </string>
+  <string id="st_addon_silencer_svu">
+    <text>SVUサプレッサー</text>
+  </string>
+  <string id="st_addon_silencer_svu_descr">
+    <text>
+%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ SVUライフル用
+
+\n%c[ui_gray_1]この特別に設計された3つのチャンバーを持つサプレッサーは、SVUライフルを完全に消音することを目的としたものではない。主な目的は、敵による発見を困難にする程度に、騒音を静めて散らすことである。このサプレッサーの特徴は、サプレッサーの先端に設置された非常に効果的なマズルブレイクであり、約40％の反動を抑えることができる。上記の機能は、銃口速度の低下を代償に、武器のダメージ出力を著しく低下させる。
+
+\n%c[d_purple] ・ 消音性能 : 低
+
+\n%c[ui_gray_1]特殊 : 
+%c[d_red] ・ 反動の低下
+%c[d_red] ・ 威力の低下</text>
+  </string>
+  <string id="st_addon_trijicon_acog">
+    <text>ACOGスコープ</text>
+  </string>
+  <string id="st_addon_trijicon_acog_descr">
+    <text>%c[ui_gray_2]使用の対象になるアイテム : 
+%c[d_cyan] ・ NATOライフルの一部
+
+\n%c[ui_gray_1]NATOライフル専用の着脱式光学スコープ。ACOGは「アドバンスド コンバット オプティカル ガンサイト」すなわち英語で「高度戦闘光学照準器」を意味する略称であり、トリジコン社が製造する銃器用スコープのシリーズを指す。このタイプのスコープは通常、高品質で、トリチウムベースのレティクル イルミネーションを内蔵している。このタイプのスコープは、モダンな「トリジコン」レティクルパターンを持ち、固定倍率は2.0倍である。
+
+\n%c[d_purple] ・ 倍率 : 2.0x
+%c[d_purple] ・ 状態 : 非常に良い
+%c[d_purple] ・ レティクルパターン : トリジコン</text>
+  </string>
+</string_table>

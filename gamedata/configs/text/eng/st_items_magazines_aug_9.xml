@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+    
+<!--
+Aug 9mm
+-->
+
+	<string id="st_mag_aug_9x19_fmj">
+		<text>9x19 Aug マガジン</text>
+	</string>
+	<string id="st_mag_aug_9x19_fmj_descr">
+		<text>
+            Aug 9mmバージョン用の32連マガジン。近接戦での生存率を高めるため、ストーカーに使用されるAugのバリエーションの一つ。
+		</text>
+	</string>
+	
+</string_table>

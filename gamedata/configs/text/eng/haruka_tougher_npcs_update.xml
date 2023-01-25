@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+
+	<string id="ui_mcm_menu_tougher_npcs">
+		<text>Tougher Npcs</text>
+	</string>
+	
+	<string id="ui_mcm_tougher_npcs_important_dmg">
+		<text>重要なNPCがほかのNPCから受けるダメージ</text>
+	</string>
+
+	<string id="ui_mcm_tougher_npcs_player_important_dmg">
+		<text>重要なNPCがプレイヤーから受けるダメージ</text>
+	</string>
+
+	<string id="ui_mcm_tougher_npcs_monster_important_dmg">
+		<text>重要なNPCがミュータントから受けるダメージ</text>
+	</string>
+
+	<string id="ui_mcm_tougher_npcs_companion_dmg">
+		<text>分隊長のコンパニオンがNPCから受けるダメージ</text>
+	</string>
+
+	<string id="ui_mcm_tougher_npcs_companion_squad_member_dmg">
+		<text>分隊メンバーコンパニオンがNPCから受けるダメージ</text>
+	</string>
+
+	<string id="ui_mcm_tougher_npcs_player_companion_dmg">
+		<text>コンパニオンがプレイヤーから受けるダメージ</text>
+	</string>
+	
+	<string id="ui_mcm_tougher_npcs_monster_companion_dmg">
+		<text>コンパニオンがミュータントから受けるダメージ</text>
+	</string>
+
+	<string id="ui_mcm_tougher_npcs_companion_hit_dmg">
+		<text>コンパニオンが与えるダメージ</text>
+	</string>
+
+</string_table>

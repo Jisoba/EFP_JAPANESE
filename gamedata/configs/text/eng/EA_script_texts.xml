@@ -1,0 +1,43 @@
+<string_table>
+	<string id="ui_mcm_menu_EA_settings">
+		<text>FDDA Settings</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_enable_animations">
+		<text>FDDA animationsを有効化</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_enable_backpack_addon">
+		<text>バックパックのアニメーションを有効化</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_enable_crouch_toggle_backpack_addon">
+		<text>バックパックのしゃがみアニメーションを有効化</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_mutant_loot">
+		<text>ミュータントの剥ぎ取りアニメーションを有効化</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_take_item_anim">
+		<text>アイテムを拾うアニメーションを有効化</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_mutant_loot_desc">
+		<text>注意:FDDA animationsがオフになっている場合、\n
+		\n 自動的にオフになります</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_take_dist">
+		<text>アイテムを拾うアニメーションを再生する距離</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_take_dist_desc">
+		<text>デフォルト - 0.12, 修正推奨値 \n
+		 マガジンアドオンバグ - 0.3-0.5</text>
+	</string>
+	
+	<string id="st_EA_ladder_item_not_allowed">
+      <text>あなたの手は今、使えない</text>
+    </string>
+</string_table>

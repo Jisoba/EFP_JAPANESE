@@ -1,0 +1,13 @@
+<!-- 
+	Anomaly Modconfiguration Menu strings
+	
+-->
+
+<string_table>
+	<string id="ui_mcm_beef_nvg_enable_anim">
+		<text>NVGsのアニメーションを有効にする</text>
+	</string>	
+	<string id="ui_mcm_beef_nvg_keybind_brightness_adjust">
+		<text>輝度調整キー</text>
+	</string>	
+</string_table>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+
+	<string id="roast_all">
+		<text>すべて焼く</text>
+	</string>
+
+	<string id="st_boil_all">
+		<text>すべて煮沸する</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="esc_2_12_stalker_trader_start_dialog_1">
+    <text>新顔だな。それとも前に会ったことがあったか？俺はここいらで装備品やらの売買をやってる者だ。もしお前さんが稼ぎたけりゃ、仕事を紹介してやることもできるぞ。汚れ仕事だけどな。
+
+\n\n野営地にいるストーカーたちと揉め事を起こさない限り、ここはいつだってお前さんの家さ。だがひとつ忠告しておく。ここにいる間はMilitaryの連中と事を構えようなんて思うのはやめることだ。連中がこの場所を取り締まらないように、俺は一生懸命働いている。もし連中に撃たれても、それはお前さんの責任だ。兵士に手を出さない限り、比較的安全なはずだ。</text>
+  </string>
+  <string id="esc_2_12_stalker_trader_start_dialog_2">
+    <text>よぉストーカー！なにか必要か？</text>
+  </string>
+  <string id="esc_2_12_stalker_trader_start_dialog_esc_m_trader_task_1_complete">
+    <text>ビジネスは滞りなく終わったか？お疲れさん。報酬を持って行きな。</text>
+  </string>
+  <string id="esc_2_12_stalker_trader_start_dialog_esc_m_trader_task_2_complete">
+    <text>お前さんは本当に優秀だな。よく言われるだろ？ほら、報酬だ。いいビジネスだったぞ。</text>
+  </string>
+  <string id="devushka_3_quest_0">
+    <text>シドロヴィッチ、約束通りヒップが請け負っていた依頼の配達品だ。彼女は俺と一緒にあんたの仕事を達成させることを信じてくれていたようだ、ほらよ。</text>
+  </string>
+  <string id="devushka_3_quest_1">
+    <text>フム、彼女はいつも少し世間知らずだった。ほら、ヒップの分の支払いだ。すぐにバーキープに会いに行くように言ってくれ。彼女は出世したいと思っているから、これはチャンスだ。バーから「防衛線」を越えたところに配達しなければならないものがある。</text>
+  </string>
+  <string id="devushka_3_quest_2">
+    <text>ありがとう。彼女に伝えておくよ。彼女は参加してくれるかな？</text>
+  </string>
+  <string id="devushka_3_quest_3">
+    <text>ヒップは長い間、ゾーンにいた。Freedomで活動していたが、彼らが陸軍倉庫に移ってからは長続きしなかった。それ以来、彼女は新人のように国境に沿って、何もしないで時間を過ごしてきた。バーキープの仕事は、いずれにしても彼女を正すだろう。</text>
+  </string>
+  <string id="st_esc_m_trader_life_ask">
+    <text>この辺で仕事はないか？</text>
+  </string>
+  <string id="st_esc_m_trader_life_1">
+    <text>さて、冬の間は、大いなる大地からスードウドッグの毛皮を求める注文が多く寄せられる。お前さんがこの冬、女性をもてなしたい、可愛い女の子を暖めてあげたいと思うなら、どこかの科学者よりも俺に毛皮を売ることだ。</text>
+  </string>
+  <string id="st_esc_m_trader_life_2">
+    <text>こんなことを言ってはいけないんだが、ここには何にでもお金を払うバカがいる。持っていると幸運に恵まれると信じている奴らから「ブラッドサッカーの歯」の依頼を何度も受けたことがある。はいはい、知ってるよってね。ああ、そうさ。そういう愚か者たちからお金を巻き上げるのは申し訳ないと思ってるよ。大体はね。</text>
+  </string>
+  <string id="st_esc_m_trader_life_3">
+    <text>ところで、俺はある日、意外な人からアーティファクトの注文を受けた。つい先日、「ストーン フラワー」アーティファクトを探しに来た宝石商がいたのさ。彼らがある女性を幸せにしてくれて、彼らが彼らの工芸品のことを承知しているなら、今頃もう･･････えー･･････その女性が「命取りになる輝き」を手に入れてないことを願うよ。</text>
+  </string>
+  <string id="st_esc_m_trader_life_4">
+    <text>詐欺師たち。ゾーンでも、詐欺師たちに悩まされることがある。例えば、俺が関わった変な奴は、俺の営業担当を名乗って他のストーカーを回っていた。俺の評判を利用して値段を安くして、二流品を渡そうとしたのさ。銃身の折れた武器、風で崩れてしまう粗末なアーマー、賞味期限切れの缶詰。
+
+\n\n奴の悪事が俺の耳に入った時点で、奴の死刑執行令状は署名されていた。俺が関係しているのではないかと、顧客からクレームが入った時点で、俺には選択の余地がなかった。奴は殺されたのさ。</text>
+  </string>
+  <string id="st_esc_m_trader_life_5">
+    <text>Militaryの士気は全体的にかなり低い。だから、ビジネスの現場では、脱走してストーカー経済に参加する脱走兵がたまに流入する。彼らのほとんどは1週間も持たないただの兵隊だが、中には政府の支配から抜け出して人生を切り開いた男もいる。
+
+\n\nだから、たまに元スペツナズの男がルーキー村のコードンをうろうろしていることもある。他の多くの人は当然不信感を抱くだろうが、ストーカーには違いないから、俺は別に気にしない。
+
+\n\n問題なのは、元兵士たちが大きな考えを持ち、俺よりも上手に俺のビジネスを運営できると考えたときだ。例えば、ギャングを集めて俺の事業をクーデターで破壊しようとした特殊部隊の男がいた。幸い、奴は寝ている間に都合よく死んでしまったから、奴の強欲な夢が実現することはなかった。</text>
+  </string>
+  <string id="st_esc_m_trader_life_6">
+    <text>ここでのビジネスのやり方に興味があるようだな。なんだ、自分もトレーダーになりたいとか、そういうことなのか？競争力のある価格で交渉したり販売したりするのに必要な人脈や信用を持っていない限り、独自の供給源を持っていない限り、俺のところに来てもらう必要がある。俺のルールに従ってもらう必要があるってことさ。
+
+\n\nしかし、今のところ、俺はトレーダーを増やす手助けをする気はない。鉄道橋の北側にいるロリスは、すでに十分なやり手だ。ハンター、暗殺者、配達人、回収人、探検者が必要なんだ。トレーダーはいらねえな。</text>
+  </string>
+  <string id="st_esc_m_trader_life_7">
+    <text>ビジネスにとって、Banditたちほど厄介なものはない。彼らは常に厄介者で、宅配便を乱暴に扱ったり、俺の仕事を請け負いそうな人たちを脅迫したり、常連の顧客の足を引っ張ったりする。言っておくが、俺にとってBanditというのは常に悪い知らせだ。だから、彼らと無駄口を叩くことはない。
+
+\n\nそれどころか、俺の仲間の邪魔をする奴には言葉もかけない。俺の手の届く範囲は広く、俺の活動を妨害したり、俺が大事にしてる人に手を出したりする野郎は、ゾーンの半分以上に渡って懸賞金がかけられることになるぜ。</text>
+  </string>
+  <string id="st_esc_m_trader_life_8">
+    <text>金儲けのためには、できるだけ多くのドアを開けておくのが一番だ、ストーカー。例えば、俺とMilitaryとの関係を見てみてみよう。誰が見ても、俺のここでの存在と活動は違法だ。しかし、俺はここに座っていて、彼らの主要な検問所の1つからほんの少し歩いたところにいる。なぜか？
+
+\n\n俺は彼らの文書を扱い、珍しいミュータントの標本を送ってやったからさ。俺は彼らの秘密を知っているが、それらは、外部に漏れたら取り返しがつかないようなものだ。それでも彼らは俺を黙らせることができねえのさ。なぜなら、そんな秘密が最終的にそのままになる原因を、俺自身が作ったからだ。そして、俺は彼らのために他の誰にもできないことをできる。
+
+\n\n俺たちは利益を交換していて、それこそが、このルーキー村のような小さな聖域が、比較的平和でいられる理由の一つなのさ。潜在的な敵を有用な資産に変えることの価値を過小評価してはいけない。武力よりも繊細さを重視することを軽視してはいけない。
+
+\n\nさて、俺も同じようにBanditたちに道理を説くことができればいいのだが･･････まあいいか。</text>
+  </string>
+  <string id="st_esc_m_trader_life_9">
+    <text>ストーカーになりたいなら、まず俺のところに来ることだ。新人には避難場所や物資、仕事を提供している。近くにMilitaryの前哨基地があるが、俺たちと協定を結んでいるから、彼らは普段ストーカーたちの邪魔をしないようにしている。ただ、彼らを怒らせないようにな。この村と前哨基地の関係は微妙な生態系みたいなものでな･･････それを台無しにするような輩は要らないんだ。とにかく、お前さんは商売で来たんだろ？仕事が欲しいのか？覚えておけよ。お前さんが俺の手助けをしてくれるんなら、俺もお前さんの手助けをしてやる。</text>
+  </string>
+  <string id="st_esc_m_trader_life_end">
+    <text>お前さんにとって、俺はどんな存在だ？大きな、太った語り手か？話は終わりだ！今はそれだけだ！何か買うか、何か役に立つことをするか、しばらく誰かを困らせるかしてこい！</text>
+  </string>
+  <string id="esc_2_12_stalker_wolf_start_dialog_1">
+    <text>よおストーカー。今日は何しにここへ来たんだ？</text>
+  </string>
+  <string id="wolf_st_1">
+    <text>俺はこの辺のリーダーだ。多くの冒険家志望の人たちが網かごや毛布を持ってピクニックに来る。自分のことをレドリック シューハート（作家ストルガツキイの小説中のキャラクター）か何かと思い込んでな。そういった考えのオタクやヒッピーたちは、もちろんゾーンに飲まれていくのさ。俺の仕事は、そんなルーキーたちが、この信じがたい場所で、初日にミュータントの餌にならないようにすることだ。簡単ではない、だろ？ルーキーたちに教えるのをファナティックが手伝ってくれたらいいのに･･････。俺は人生の大半をゾーンで過ごしてきた。昔、伝説のマークド ワン、いやストレロックと一緒に仕事をしたこともある。何度も旅をして、何度も帰ろうとしたが、いつも何かに阻まれていた。Militaryの襲撃、エミッション、儲かる仕事･･････。それで、俺は今でもここで新人たちの子守をやってんのさ。</text>
+  </string>
+  <string id="esc_2_12_stalker_fanat_start_dialog_1">
+    <text>よおストーカー。調子はどうだい。</text>
+  </string>
+  <string id="esc_2_12_stalker_fanat_start_dialog_esc_m_trader_task_2">
+    <text>何かほしいのか？ストーカーさんよ。</text>
+  </string>
+  <string id="esc_2_12_stalker_fanat_about_esc_m_trader_task_2_0">
+    <text>駐車場に始末する必要があるBanditたちがいる。シドロヴィッチはあんたならどうにかできるだろうと言っていた。</text>
+  </string>
+  <string id="esc_2_12_stalker_fanat_about_esc_m_trader_task_2_1">
+    <text>ああ。やるよ。これ以上ルーキーがやられるのは見たくない。</text>
+  </string>
+  <string id="fanatic_st_1">
+    <text>周りの人間はファナティックと俺を呼んでいる。俺は基本的にウルフの副官として、ルーキーのトレーニングを手伝っているんだ。知っているとは思うがこいつらは一握りしかいない。銃の打ち方を教えたり、別の地域への行き方、ミュータントの殺し方、軍人どもやBanditどもに坊主たちが近づかないよう教育したりな、色々なイロハを教えている。ゾーンの境界ではやることが多いんだ。だがな、俺の生徒たちが初めてアーティファクトを取ってきて、俺に見せに戻ってきたときのはしゃぎようは、見ていて微笑ましいし、不満はないよ。まるで自分自身のルーキー時代を見ているようだ。</text>
+  </string>
+  <string id="fanat_training_start_0">
+    <text>へい･･････。あんたとは初めて会うと思うんだが、新入りかな。俺はこの村の副リーダーをしているんだが、必要に応じて、ウルフと一緒にゾーンを生き残る知識を教えているんだ。最初に遭遇したミュータントとアノマリーで死なねぇようにな。</text>
+  </string>
+  <string id="fanat_training_start_1">
+    <text>準備が出来た、さぁ訓練を頼む</text>
+  </string>
+  <string id="fanat_training_start_2">
+    <text>必要ない、自分のペースで行くよ。</text>
+  </string>
+  <string id="fanat_training_start_3">
+    <text>いいぞぉ。まず最初は、ミュータントのハンティングを教えよう。近くの道路の向こう側に「ボア」の小さな群れがいる。そいつらは厚い頭蓋骨と小さな脳を持っている生き物だ、最善の対処法としては側面から攻撃を叩き込むこと、もしくは安全な場所から可愛いお尻目掛けて鉛玉をぶち込むことだ。俺たちは一緒にそこに向かうが、取り敢えず敵を引き付けてくれ、奴等はこの時期は活発になる。</text>
+  </string>
+  <string id="fanat_training_boars_death_0">
+    <text>そいつは少しクレイジーだな。</text>
+  </string>
+  <string id="fanat_training_boars_death_1">
+    <text>よくやった、お前のナイフで獲物から戦利品を取れ、ナイフの状態にも注意しろ。終わったら一番近いアノマリーゾーンに向かおう。</text>
+  </string>
+  <string id="fanat_training_anomaly_reached_0">
+    <text>さぁ、次はどうするんだ？</text>
+  </string>
+  <string id="fanat_training_anomaly_reached_1">
+    <text>そうだな、この落とし穴は重力的アノマリーがあちらこちらにある。あのアーティファクトが見えるか？あれはただのヤバいパンだ、無視しろ。この辺には「ジェリーフィッシュ」アーティファクトがある、「ジェリーフィッシュ」アーティファクトには良い面と悪い面があるんだが･･････。このアーティファクトがここにあるのは幸運だな。それじゃ、アーティファクト狩りに必要な装備の話に移ろうか。</text>
+  </string>
+  <string id="fanat_training_anomaly_reached_2">
+    <text>頼む。</text>
+  </string>
+  <string id="fanat_training_anomaly_reached_3">
+    <text>ほらよ、これがエコー探知機だ。すべての探知機はアクティブ状態ならば、近くのアーティファクトを感知して、自動的に距離を測定する。アーティファクトに近ければ近いほど、ビープ音が頻繁に反応する。それがアーティファクトを見つける上での基本的なルールだな。まぁただ、この古いモデルはすべてのタイプのアーティファクトを検出することはできんが、今回狙うアーティファクトなら問題ない。最新の探知機ならより正確な場所や、長い距離を測定できるぞ。</text>
+  </string>
+  <string id="fanat_training_anomaly_reached_4">
+    <text>悪くないな。</text>
+  </string>
+  <string id="fanat_training_anomaly_reached_5">
+    <text>次に必要なのが、鉛製の容器だ。アーティファクトがプラスとマイナスの両方の特徴を持つと言ったことを覚えているか？最近高値で取引されるアーティファクトはほぼすべてが放射線を発するやつだ。この容器は、アーティファクトを完全に密閉し、放射線を完全に遮断できるが、外界と完全に遮断されるからな、アーティファクト独自の効果を利用することは出来ん。とりあえずその容器無しじゃ、お前のお尻は次第に輝き始め、たった１つのアーティファクトを運んでいる数時間の内に被爆死するだろうな。鉛製だからな、かなり重いんだが、そいつは命のための重さだ、割り切りな。アーティファクトの特性を利用したいんならさらに高度な容器を使う必要がある。科学者たちはその装置をアーティファクト高レベル活用容器と呼んでいる。シドロヴィッチのオヤッさんはこの種類の容器を時々売ってはいるが、基本的に経験豊富なストーカー以外に販売していないみたいだな。</text>
+  </string>
+  <string id="fanat_training_anomaly_reached_6">
+    <text>わかった、取り合えずその容器がクソ重いことを頭に叩き込んでおくよ。次の訓練は？</text>
+  </string>
+  <string id="fanat_training_anomaly_reached_7">
+    <text>次はこのネミロフ ウォッカのボトルだ。さっきも言ったが、最近のアーティファクト市場で取引されているのはほとんどが放射線を発しているものでな、鉛の容器を持ってきたとしても、ほとんどのアノマリー領域は放射線で汚染されているんだ。そこでこのボトルの出番さ、こいつはお前の体からその汚染を流し去ってくれる、とりあえずそういう事なんだ。</text>
+  </string>
+  <string id="fanat_training_anomaly_reached_8">
+    <text>いいね、他には？</text>
+  </string>
+  <string id="fanat_training_anomaly_reached_9">
+    <text>ああそうだ、ボルト。アノマリー領域に飛び込んで行くのに必要不可欠なものさ。周囲のアノマリーに存在する天然の地雷を確認するために、投げながら進んでいくんだ。\nそれだけだ、さぁ行け、ここで上手く行くか見守っておこう。</text>
+  </string>
+  <string id="fanat_training_artefact_taken_1">
+    <text>よっしゃ！俺はアーティファクトを手に入れたぞ！</text>
+  </string>
+  <string id="fanat_training_artefact_taken_2">
+    <text>おやおや･･････。いつかはあんたは熟練のストーカーになるだろう。村に戻ろうぜ。訓練を続けようか。</text>
+  </string>
+  <string id="fanat_training_back_to_village_1">
+    <text>そのとおりだ･･････。</text>
+  </string>
+  <string id="fanat_training_back_to_village_2">
+    <text>疲れたか？お前は今最低限の生き残るための知識は知っているだろうが、さらに特別訓練があるんだ。</text>
+  </string>
+  <string id="fanat_training_stash_search_0">
+    <text>準備オーケーだ。何をするんだ？</text>
+  </string>
+  <string id="fanat_training_stash_search_1">
+    <text>なあ、自尊心のあるストーカーは、他の奴が秘密にしているものを見つけ出したことがないと思うか？ゾーンにある物は皆のもんさ。誰が管理してようが、何を食べていようが、ゾーン内の誰かのスタッシュ（隠し場所）を見つける技術は大切なモンだ。俺はこの村のどこかに「巣の卵」を隠した、見つけだしてみな。</text>
+  </string>
+  <string id="fanat_training_stash_found_0">
+    <text>見つけたぜ･･････。アーティファクト様をよ！</text>
+  </string>
+  <string id="fanat_training_stash_found_1">
+    <text>ほぅ･･････。よくやった、と言いたいがゾーンで誰かのスタッシュ（隠し場所）を見つけることは、今回の訓練とはレベルが違うことを忘れるな。そして、これで訓練は終わりだ。お前は確かにストーカーとして生き残っていく素質を見せてくれたな、誇りに思っていい。もう教えることはないな。</text>
+  </string>
+  <string id="fanat_training_bandit_raid_start_0">
+    <text>それで、最後にやることはなんだ？</text>
+  </string>
+  <string id="fanat_training_bandit_raid_start_1">
+    <text>知っての通り、人間の最大の敵は、いつの時代も人間だ、奇妙なことだがな。我々は長い間、車両基地からBanditたちを排除してきたんだが、奴らは何度でも戻ってくる。いつも5人から7人くらいで、ちょっとした脅威になっている。さっさと始末してしまおう。</text>
+  </string>
+  <string id="fanat_training_bandit_raid_end_0">
+    <text>はは、そのチンピラ共の数に対してこっちは2人、ヒーロータイムといこうか！</text>
+  </string>
+  <string id="fanat_training_bandit_raid_end_1">
+    <text>経験豊富なあんたのようなストーカーにヒロイズムと言ったことも当然のことだ。とにかく、村に戻ろう。</text>
+  </string>
+  <string id="fanat_training_end_0">
+    <text>いろいろ教えてくれて助かったよ。</text>
+  </string>
+  <string id="fanat_training_end_1">
+    <text>気にすんな、それが俺のここでの役割だ。ああそれと、アグロプロムからヤンターへの道についてお前がまだ何も情報を持っていないてんならいくつか情報がある。少し休んでから･･････。あぁ何が知りたいのか教えてくれないか？お前は確かに自分自身でストーカーとして素質を証明したからな、そいつを誇りにしろ。さぁ旅立ちの時だ、爽やかな放射性の空気を吸い込んで自由に羽ばたいてこい！</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_mar_base_owl_stalker_trader_task_1">
+    <text>俺にか？これを待ってたんだ。スポアは俺たちのやり取りを高度に暗号化してくれてる。ハッカーってやつだな。俺がはるか昔にClear Skyのメンバーだったなんて信じられないかもしれないが、色々あって結局今の場所に収まってる。昔の仲間はみんな死んじまったか、別の道に進んだ。過去にこだわる意味は自分でもよくわからんが、それでも俺は、今でもこうしてスポアと連絡を取り合ってる。ああ、長々と語ってすまん。報酬を忘れてたな。持って行ってくれ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_mar_base_owl_stalker_trader_task_1_about">
+    <text>あんたのために持ってきたものがある。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_no">
+    <text>あんたにふさわしい人間がいるかどうかわからない。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_about_0">
+    <text>いくつか質問に答えてもらってもいいか？</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_about_1">
+    <text>いいぞ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_about_1111">
+    <text>注文の品が準備できるまでどれくらいだ？</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_about_11111">
+    <text>どんな品物かによるね。通常は丸１日くらいだが、それ以下で済む時もある。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_about_1114">
+    <text>自己紹介を頼む。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_about_11141">
+    <text>特に面白いことは無いぜ。大抵の奴がそうであるように、いい事も悪いことも沢山ある人生だった。アノマリーに突っ込んだりBanditたちに人質にされたりさ。俺がゾーンに来たのはまだガキの頃だった。その頃は調達屋で、放射線防護服とか、AP弾とか、そういう類の物を扱ってたな。俺の尻拭いをしてくれた恩返しのために、シドロヴィッチと働いたこともあった。あの爺さんは俺に火中の栗拾いばかりさせるもんだから、さっさと独立したくてコネをつくったり技を盗んだりしたよ。これまで上手く立ち回ってこれたけど最近はそのラッキーも尽きかけているような気がしてるんだ。だが俺が築き上げて来たものをやめちまって無駄にするのは嫌だ。だからこうして今もここにいるんだ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_about_1116">
+    <text>知れてよかったよ、ありがとう。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_about_11161">
+    <text>助けになれたなら幸いだ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_0">
+    <text>注文を取りに来た。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_111">
+    <text>こいつはステップイーグル。思ったよりくせ者だったよ。強化にこだわり過ぎて、納期に間に合わないところだった。見てくれよこの手作り部品の数々。コンポーネント全部が高精度で調整されてるのが分かるだろ。完璧な狙撃用ハンドガンがあるとしたら正にこいつだね。それじゃあ、追加の2800ルーブルをいただこうか。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_1111">
+    <text>よし、受け取ってくれ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_11111">
+    <text>よしきた。素敵なビジネスになってよかった。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_1112">
+    <text>そんなに持っていないんだ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_11121">
+    <text>オーケー。あんたが金を作れるまでこいつは預からせてもらうよ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_1113">
+    <text>やっぱり買いたくないんだが。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_11131">
+    <text>キャンセルするなら、取引はもうこれっきりにさせてもらうぞ。利益とリスクが釣り合わなきゃ商売あがったりなんでな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_111311">
+    <text>だとしてもこの取引を完遂することはできない。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_1113111">
+    <text>問題ない。お似合いだよ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_1114">
+    <text>考えておく。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_11141">
+    <text>ああ、あんた次第だよ。銃はしばらく預かっておくからな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_112">
+    <text>超高精度のステップイーグルだ。2800ルーブルの追加分と引き換えだ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_121">
+    <text>このアルパインを見なよ、これこそ美しさそのものだ。ゾーン広しと探し回っても、この1丁しか存在しない特注品だと保証できる。手に入れるのは大変だった。海外の仲間にまで頼ることになったよ。超硬質スチールのバレルにフレームは強化樹脂製。拡張マガジンのオマケ付きさ。残りの2800ルーブルを支払ってくれたら、このベイベーはお前の物さ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_122">
+    <text>ほら、アルパイン ピストルと拡張マガジンだ。残りの2800ルーブルを支払ってくれたらすぐにこのベイベーはお前の物になるぜ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_131">
+    <text>見ろ、こいつはマーチという拳銃だ。元の持ち主はウルフハウンドと呼ばれる組織に所属してた伝説のMercenaryだ。装填数は多いがコンパクト。軽量化されたボルトによってブローバックは軽い。ウルフハウンドの連中はどう考えてもクズだったが、武器に関しては一流だった。そのMercenaryのお気に入りの戦法は、まず相手の四肢を撃ち貫き、最後に頭を吹っ飛ばすって方法だったらしい。とにかく追加の2800ルーブルであんたの物になるぜ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_132">
+    <text>これが預かってたマーチ ピストルだ。追加の2800ルーブルを払ってくれ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_211">
+    <text>ほらよ、こいつはカッターというサブマシンガンさ。面白い見た目をしているだろう。こいつは工廠が生んだ最新の試作機で、まだ市場に出回ってない。次世代の近距離戦闘用に必要な精度、連射、信頼性を兼ね備えるよう設計されてる。追加の8000ルーブルをくれたら取引終了だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_212">
+    <text>サブマシンガンのカッターだ。8000ルーブル追加で支払ってくれ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_221">
+    <text>キャラビナー。これはいいものだ。軍で実際に使われてるショットガンさ。優れた衝撃吸収機構のおかげで、低反動の連射を実現している。追加の8000ルーブルであんたの物だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_222">
+    <text>このキャラビナー オートショットガンが欲しけりゃ、追加の8000ルーブルを支払ってくれ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_231">
+    <text>こいつはエリミネイター。大容量マガジンに高い発射速度。こういうのが欲しかったんだろ？アフリカに出荷されることになってた最新型だったんだが、友人から特別に「サンプル」として譲ってもらったんだ。安くなかったぜ。 あと8000ルーブルでお前だけの物になるってさ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_232">
+    <text>拡張マガジン付きオートショットガンのエリミネイターだ。あと8000ルーブルでな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_311">
+    <text>よーし。こいつはストーム。マシンガンとグレネードランチャーがこれ一本。ゾーンで活動する特殊部隊向けに設計された奴を改造した物がこれだ。スラブ系兄貴たちによる最高の技、ここにありだぜ。追加の16000ルーブルであんたの物だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_312">
+    <text>ほらよ、拡張マガジンにグレネードランチャー搭載のストームだ。追加の16000ルーブルであんたの物だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_321">
+    <text>これはGP37。正に新時代のアサルトライフル。高精度で信頼性もあり、オマケにデフォルトで光学サイトが載ってる。以前は国連の査察団が使ってたものだ。査察団は調査のためにゾーン入りしたんだが、上手くいかなかったみたいだな。なぜだか銃だけここにある。追加の16000ルーブルでこのライフルはあんたの物だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_322">
+    <text>新世代アサルトライフルのGP37だ。お値段16000ルーブル。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_331">
+    <text>ヘイお待ち。これがモジュラー式FT-200M。ベルギーのガンスミスが設計した。高い精度と汎用性。右利き左利き両対応。光学サイトにグレネードランチャーと至れり尽くせりの出来だ。何名かの不運な国連査察団の方々から部品を失敬して組み立てたんだ。追加料金は16000ルーブルだぜ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_332">
+    <text>モジュラー式FT-200Mライフルだったな。16000ルーブルの追加料金だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_411">
+    <text>こいつはタイド。亜音速弾を使う、完全消音のスナイパーライフルだ。Militaryの連中がゾンビ相手に戦うために設計したって言われてるぜ。高い連射速度でゾンビを一匹ずつ確実に素早く処理できる。ただ兵士だけじゃゾンビを完全に止めるのが無理だってことが分かって来て、この武器は大量生産のラインに乗ることがなかった。この宝物は16000ルーブルでお前の物さ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_412">
+    <text>これがタイド。高いストッピングパワーを誇るスナイパーライフルだ。追加の16000ルーブルを支払ってくれたら、こいつで思う存分楽しめるぞ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_421">
+    <text>これだ。SVU2-A。高い連射力が売りのブルパップ式スナイパーライフルだ。Freedomの伝説的な護衛であるマックから購入したものだ。彼はゾーンのどこを探したってこれ以上の銃は無いと言っていた。追加の16000ルーブルであんたの物だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_422">
+    <text>SVU2-Aだ。連射速度が向上したブルパップ狙撃銃。あと16000支払えばあんたの物だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_431">
+    <text>よし。これがリンクスだ。とあるエキスパートによる手作りだ。そいつはもう死んでるから、コピーは一丁も存在しない。こいつはほかのライフルと見た目こそ変わらないが、実際撃ってみればその違いにすぐ気が付くはずだ。命中率とストッピングパワーのバランスが絶妙なんだ。この宝物は16000ルーブルでお前の物さ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_432">
+    <text>リンクスだ。精度とパワーが向上した狙撃銃。追加の16000ルーブルであんたの物だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_511">
+    <text>これだ。知り合い全員を当たってやっと手に入れた。ヘルメット付きのCS-3aだ。ヘルメット自体はありふれた物だが、改造によって高品質の暗視装置やアクティブ赤外線センサーなんかの戦術機能を導入可能だ。しかしこのスーツは本当に美しいな。弾丸やアノマリーからの優れた保護を約束してくれる上に運動性も損なわれにくい。全部で32000ルーブルかかるぞ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_512">
+    <text>戦術ヘルメット付きのCS-3aアーマーだ。合計32000ルーブルだよ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_611">
+    <text>あんたのための、特別なSEVAスーツだ。ご注文通り、閉鎖循環型呼吸装置付き。高い火炎耐性と電撃耐性も兼ね備えてる。外面には腐食防止材がコーティングされてる。内蔵されているアーティファクト用スロットも大容量。すべてのストーカー憧れの逸品だ。約束通り、24000ルーブルであんたの物だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_612">
+    <text>SEVAスーツなら24000ルーブルであんたの物だぞ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_711">
+    <text>注文の品はここにある。この強化外骨格は人生のすべてを賭けるに値する出来だ。弾丸、ミュータントの攻撃、グレネードの破片に至るまで、すべての脅威に対するゾーンで最高の防御力がある。装甲車のように、無理のない範囲で体重の負担を軽減することもできる。48000ルーブルでこのバッテリーと駆動モーターはお前の肉体になるだろう。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_712">
+    <text>そこにある。人生を賭けるに値する戦闘用強化外骨格。48000ルーブルでお前の身体になってくれるぞ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_0">
+    <text>注文したいものがある。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_1">
+    <text>いいよ。何が必要なんだ？</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_11">
+    <text>ハンドガンだ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_111">
+    <text>3500ルーブルで調達できるぜ。そのうち700ルーブルを前払いで頂くことになる。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_1111">
+    <text>よし。受け取ってくれ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_11111">
+    <text>注文の品が準備できたら、連絡するよ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_1112">
+    <text>お金が足りないな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_11121">
+    <text>ああ、お金に余裕ができたらまた来てくれ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_1113">
+    <text>なあ、気が変わったんだが。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_11131">
+    <text>いいよ。もしまた注文したくなったら、俺はいつでもここにいるからな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_112">
+    <text>悪いね。あんたはそれほど信頼できる客じゃないから、ハンドガンの調達には4200ルーブルかかるよ。その内の1400を前払いしてもらうことになるかな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_113">
+    <text>いいハンドガンは全部売れちまったよ。普通の奴ならオウェルが売ってるんだがな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_12">
+    <text>近距離戦用の武器だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_121">
+    <text>確実に用意できる。価格は10000ルーブル、その内の2000ルーブルを先払いしてくれ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_122">
+    <text>あんたにはこの前注文をキャンセルされてるからな･･････。12000ルーブルならやってもいい。前払い分は4000ルーブルだ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_123">
+    <text>あー、要求には答えられそうにないよ。力にはなれないと思う。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_13">
+    <text>アサルトライフルがほしい。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_131">
+    <text>大口径で連射ができるやつだな。20000で用意しよう。その内4000を前払いしてくれ。できるか？</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_132">
+    <text>あんたはいい客とは言えないからな。24000払ってくれるならやろう。前払い分は8000ルーブルだ。買うかい？</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_133">
+    <text>今はちょっと時期が悪くてなあ。Militaryがコードンで何かやってるみたいなんだ。なんでもこの間、誰かが前哨基地を攻撃しやがったとかで、物流を止められてるんだ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_14">
+    <text>狙撃銃が必要だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_141">
+    <text>20000もらえれば最高のやつを用意するよ。だが前払いで4000ルーブルもらわないといけないな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_142">
+    <text>あんたの仕事はリスクが大きいからなあ･･････。24000ルーブルくれるならやってみてもいいが、頭金は8000ルーブルだぜ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_143">
+    <text>すまん。今そのタイプの武器は入手困難だ。知り合いのスナイパーが今不機嫌でな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_15">
+    <text>アーマード スーツが欲しい。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_151">
+    <text>うん、なんとかできるよ。費用は40000ルーブルかかる。前金は8000ルーブル。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_152">
+    <text>ああ、考えさせてくれ･･････多分手に入る。あんたは前回の注文をキャンセルしてるから割増料金をもらう。しめて48000ルーブルだ。前金は16000ルーブル。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_153">
+    <text>あんたにはもう最高のスーツを手に入れてやったと思うぜ。それ以上の物はこの辺りには無いよ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_16">
+    <text>閉鎖循環型呼吸装置付きのスーツがほしい。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_161">
+    <text>難しい注文だな･･････。手に入れるのはたやすいことではないぞ。でかい賭けになるかもな。まあ30000ルーブルあれば心当たりはある。だが前金に6000ルーブル必要になる。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_162">
+    <text>あんたは前回の注文をキャンセルしてるから割増料金をもらうぞ。36000でなんとか手に入れられるかやってみる。頭金として12000かかるけどな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_163">
+    <text>前回の品を手に入れるためにかなり苦労したんでな。もう一度は無理だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_17">
+    <text>強化外骨格が欲しい。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_171">
+    <text>よく考えての結論なんだろうな。確かに戦闘用の奴を手に入れることはできるぜ。費用は60000ルーブル。高価だがそれだけの価値はあると思う。そして前金として12000ルーブルを今いただく。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_172">
+    <text>あんたは前回の注文をキャンセルしちまったからなあ。割増料金でならやろう。72000ルーブル頂く。前金は24000ルーブルだ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_173">
+    <text>無理だな。生産工場はもう閉鎖されちまってる。死体から強化外骨格を見つけてくる以外の入手方法はないだろうな。だが俺はそういう仕事はやらん。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_18">
+    <text>今のところは何もないな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_2">
+    <text>すまん。今は一時的に店じまい中だ。出荷に問題が発生しててな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_start_11">
+    <text>よっ。俺はニンブル。みんなは俺のところにユニークな武器を求めてやってくる。珍しいモデルや試作機、そんな感じの物だ。さらにエリート装備や防護服、戦闘服なんかも用意できるぜ。すべての品は俺が自分で点検するから品質はばっちり保証されてる。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_start_12">
+    <text>こんにちは。何か注文するかい？</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_start_13">
+    <text>やあ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_start_14">
+    <text>注文の品がもうすぐ届くぜ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_start_15">
+    <text>注文の品が到着したぞ。取りに来てくれ。</text>
+  </string>
+  <string id="army_south_mechan_mlr_st_0">
+    <text>あの古い装甲兵員輸送車を見ていたんだな。あんたは整備士か運転手かな？</text>
+  </string>
+  <string id="army_south_mechan_mlr_st_1">
+    <text>ああ、俺はこの検問所を担当する技術屋だ。</text>
+  </string>
+  <string id="army_south_mechan_mlr_st_2">
+    <text>何て呼べばいいんだ？</text>
+  </string>
+  <string id="army_south_mechan_mlr_st_3">
+    <text>俺の場合、形式的なものは必要ない。俺の仕事を考えると、俺の軍人としての地位は、実用的というより名誉的なものだ。襲撃された場合、俺が部隊を調整したり、ライフル銃で戦ったりするのを、お前が見ることはほとんどないだろう。俺の名前はセルゲイだが、セリョーガと呼んでくれ。</text>
+  </string>
+  <string id="army_south_mechan_mlr_st_4">
+    <text>よろしくセリョーガ</text>
+  </string>
+  <string id="army_south_mechan_mlr_st_5">
+    <text>こちらこそよろしく。何か直したい物があったらいつでも相談してくれ。</text>
+  </string>
+  <string id="army_south_mechan_mlr_st_6">
+    <text>現在の状況をどう捉えているんだ？</text>
+  </string>
+  <string id="army_south_mechan_mlr_st_7">
+    <text>話すことはあまりない。ここから歩いてすぐのところに不法入国者だらけの村があるが、本部はそこに対して何の行動も命じようとしない。時々、我々の兵士たちが道路をパトロールしたり、沼地を歩き回ったりしているが、大抵は我々の兵士にとっては敵対的な場所である。こことアグロプロムの前進基地の間はもちろん、こことプリピャチの間をうろついている、いわゆる「ストーカー」と呼ばれる犯罪者どもの数は驚異的だ。</text>
+  </string>
+  <string id="army_south_mechan_mlr_st_8">
+    <text>犯罪者と呼ばれる人たちは、この前哨基地を頻繁に攻撃するのか？</text>
+  </string>
+  <string id="army_south_mechan_mlr_st_9">
+    <text>いや、ここが直接襲撃されたら、絶対に地獄を見る。ここを襲えば、Militaryという存在が急速にエスカレートして取り締まりが行われることは、どんなに馬鹿なストーカーでもわかると思う。我々は眠れる熊のようなもので、誰もあまり突っ込みたくないのさ。</text>
+  </string>
+  <string id="army_south_mechan_mlr_st_10">
+    <text>覚えておくよ。</text>
+  </string>
+  <string id="guid_esc_mlr_military_0">
+    <text>ヘリが必要なんだがこいつを動かすことは可能か？</text>
+  </string>
+  <string id="guid_esc_mlr_military_1">
+    <text>動かすことはできるが、我々はお前のために燃料を消費することはない。このサービスは通常、信頼のおける経験豊富な操縦者にのみ提供される。</text>
+  </string>
+  <string id="guid_esc_mlr_military_list_0">
+    <text>どこまでなら運んでくれる？</text>
+  </string>
+  <string id="guid_esc_mlr_military_list_1">
+    <text>5000ルーブルでアグロプロムの基地まで。3000ルーブルでダークスケープのガソリンスタンド。10,000ルーブルでヤンターの移動式研究所まで運んで行ってやれるぞ。</text>
+  </string>
+  <string id="guid_esc_mlr_military_vert_0">
+    <text>運んでくれないだろうか？</text>
+  </string>
+  <string id="guid_esc_mlr_military_vert_1">
+    <text>どこへだい？</text>
+  </string>
+  <string id="guid_esc_mlr_military_vert_2">
+    <text>アグロプロムのMilitary基地へ。%c[d_orange]［5000ルーブル］</text>
+  </string>
+  <string id="guid_esc_mlr_military_vert_3">
+    <text>ダークスケープのガソリンスタンドへ。%c[d_orange]［3000ルーブル］</text>
+  </string>
+  <string id="guid_esc_mlr_military_vert_4">
+    <text>ヤンターの移動式研究所へ。%c[d_orange]［10000ルーブル］</text>
+  </string>
+  <string id="guid_esc_mlr_military_vert_5">
+    <text>気が変わった。</text>
+  </string>
+  <string id="devushka_1_start_0">
+    <text>良い日が続いている、何が必要なんだ？</text>
+  </string>
+  <string id="devushka_1_start_1">
+    <text>いくつか質問がある。</text>
+  </string>
+  <string id="devushka_1_start_2">
+    <text>仕事を探しているんじゃないなら、アタシが言えることはあまりないよ。ある男を知っている。彼はあらゆる意味での金持ちで、愚かで特権的な存在だ。彼は今、ゾーンを動物園のように楽しんでいる。彼は美術品には興味がない。彼は古い銃を集めて、それで豚を撃つことしか考えていないんだ。おまけに「ゾーンで活躍した」照準器付きのTOZをお土産にしたいんだってさ。しかも、その希望額はとんでもない額なんだよ。
+
+\n\n問題は、照準器付きTOZの入手先を知っていた最後の人物が「ハンター」で、彼は何年も前に死んじゃったことだね。「防衛線」の南にいる大物トレーダーたちも、誰も見つけようとはしていないらしくて、時間をかける価値がないと考えているみたい。でも、もし見つけて、バックショット20発と一緒にアタシのところに持ってきてくれれば、他のところで買うよりも数倍の値段で買ってもらえるよ。</text>
+  </string>
+  <string id="devushka_1_start_3">
+    <text>良い取引のように聞こえる。俺がやろう。</text>
+  </string>
+  <string id="devushka_1_start_4">
+    <text>今は興味がない</text>
+  </string>
+  <string id="devushka_1_start_6">
+    <text>この観光客の詳細を教えろ さもないと死ぬぞ？</text>
+  </string>
+  <string id="devushka_1_start_5">
+    <text>いい取引のようだな。やるよ。</text>
+  </string>
+  <string id="devushka_2_start_0">
+    <text>ほらあげる。約束通りに届いたね。</text>
+  </string>
+  <string id="devushka_2_start_1">
+    <text>残念ながら悪い知らせだよ。依頼人が亡くなった。恐ろしいことに。そんな不機嫌な顔しないでよ！彼のサバイバル能力のなさは、彼の用心深さのなさに勝るものだったってこと。ここに彼のスタッシュがあるの。</text>
+  </string>
+  <string id="devushka_2_start_2">
+    <text>なんだよ･･････死んだのか。どんな感じだ？</text>
+  </string>
+  <string id="devushka_2_start_3">
+    <text>アタシから見ると、スードウジャイアントって感じだね。そういえば、ツナ缶を買ってきてくれない？ちょうどいい大きさだし、彼の近親者はきっと遺体を何かの容器に入れて返してほしいと思っているだろうからさ。</text>
+  </string>
+  <string id="devushka_2_start_4">
+    <text>何をふざけて･･････？本気にするぞ。もし偶然ツナ缶を見つけたら･･････教えてあげようかな。お疲れ様。</text>
+  </string>
+  <string id="devushka_2_start_5">
+    <text>彼のスタッシュでは割に合わないな、ヒップ。金を出すか、血を吐くかだ。</text>
+  </string>
+  <string id="devushka_0_dialog_0">
+    <text>ほら、ヒップ。君の缶を見つけたぞ。</text>
+  </string>
+  <string id="devushka_0_dialog_1">
+    <text>うん、マグロが美味しいね。亡くなった依頼人の遺品を回収するときに、うまく抑えられるといいな。</text>
+  </string>
+  <string id="devushka_1_dialog_0">
+    <text>ちょっと聞きたいことがあるんだが。</text>
+  </string>
+  <string id="devushka_1_dialog_1">
+    <text>アタシはいくつか答えられるかもしれない。</text>
+  </string>
+  <string id="devushka_1_dialog_2">
+    <text>君は一般的な知識を知ってるか？生き残る術は？アノマリーについては？その辺どうなんだ？</text>
+  </string>
+  <string id="devushka_1_dialog_3">
+    <text>第一に、絶対にまっすぐ下を掘らないこと。第二に、首の下を狙うこと。第三に、ばかげたことをしないこと。第四に、ここでは税金がかからないということ。ゾーンの広域なアノマリーと考える。最後に、パニックにならないこと。</text>
+  </string>
+  <string id="devushka_1_dialog_4">
+    <text>それは･･････啓発的なものだったのか？</text>
+  </string>
+  <string id="devushka_2_dialog_0">
+    <text>普段から回収の仕事を請け負っているのか？</text>
+  </string>
+  <string id="devushka_2_dialog_1">
+    <text>やあ。ニンブルのことは聞いたことある？北部の船で商売をしている？自分のビジネスで金持ちになる前は、小銭のために頑張ってた？
+
+\n\nアタシはFreedomで薬物の運び屋をしていたけど･･････その仕事は安全ではなくなったと言っておこう。ミュータントやDutyの警備隊の話じゃないよ。とにかく、ニンブルが自分のグループを離れたとき、必要な人脈を作るためにここに来たと聞いた。だからアタシはここで、彼の足跡を辿ろうとしているんだ。</text>
+  </string>
+  <string id="devushka_2_dialog_2">
+    <text>それは･･････確かに意欲的だ。彼を探して、直接教えてもらったらどうだい？</text>
+  </string>
+  <string id="devushka_2_dialog_3">
+    <text>彼は「防衛線」を越えたところに住んでいて、アタシはまだ「防衛線」を越えるほどクレイジーではないからだよ。お金っていうは、使うために生きていてこそ意味があるよね？</text>
+  </string>
+  <string id="devushka_2_dialog_4">
+    <text>そうか、でも君は昔からこの辺にいるようだ。なぜまだルーキー村にいるんだい？まだ人脈を作ろうとしているのか？</text>
+  </string>
+  <string id="devushka_2_dialog_5">
+    <text>そう。シドロビッチは、この死の罠において知る価値のある人物を、文字通り全員知っている。アンタは自分のビジネスを始めたいが、強力な派閥に属していない？それなら、彼の人脈が必要だし 彼のサポートも必要だよね。そうでなければ、この辺りの貪欲な人々はアンタを引き裂いてしまうよ･･････死んだ人に群がるハゲタカのように。シドロビッチの尊敬を得るまでには長い時間がかかったんだ。</text>
+  </string>
+  <string id="devushka_2_dialog_6">
+    <text>その前は？</text>
+  </string>
+  <string id="devushka_2_dialog_7">
+    <text>まあ、以前から、嫌々ながらもアタシのことを気にかけてくれてはいた。アタシがFreedomを去った後、アタシの過去の行動のせいでDutyが嫌がらせをしないように、彼はしてくれた人なんだけど、彼はアタシがただ去ることを望んでいたと思う。彼はアタシを子供のように扱ってくれた。でも、Dutyの件の後は、アタシを子供のように守ってはくれなかった。アタシはまたBanditたちや、私にできること以上のことを求めてくるストーカーたちの心配をしなければならなくなった。
+
+\n\nゾーンはしばらくすると、人をおかしくしてしまうものだけど、ストーカーの中には見ていて思い当たる節がある人もいるね･･････。</text>
+  </string>
+  <string id="devushka_2_dialog_8">
+    <text>ノーと言われても答えられない人もいる。</text>
+  </string>
+  <string id="devushka_2_dialog_9">
+    <text>その粘り強さを、もっと価値のある目的のために取っておくべき人もいる。幸いなことに、周りにはまともな人もいるよ。ウルフはアタシを他の新人と同じように扱ってくれて、それはとても良かった。時が経つにつれ、他のストーカーたちとうまくやっていく方法を学んだの。少なくとも、ハイテンションではない人たちとはね。残念なことに、彼とファナティックを除けば、ここでの生活はほとんど長くは続かない。何人かの新しい友人が欲しいところね。</text>
+  </string>
+  <string id="devushka_2_dialog_10">
+    <text>君はツナ缶を持ってきてくれた人にも、こう言うのかい？</text>
+  </string>
+  <string id="devushka_2_dialog_11">
+    <text>ああ、お願い。自分一人でブラッドサッカーたちに気を配るのがどれだけ大変か知ってる？見た目よりずっと大変なの。約束だよ。</text>
+  </string>
+  <string id="devushka_2_dialog_16">
+    <text>その時はどこかに行く予定なのか？</text>
+  </string>
+  <string id="devushka_2_dialog_17">
+    <text>うん、アタシは日常的にアーティファクトを探さないといけないんだ。特別注文があるんだよ、よかったら一緒に来てくれない？ブラッドサッカーたちに気を配る誰かが必要なんだ、儲かるよ。50％が妥当ね。</text>
+  </string>
+  <string id="devushka_2_dialog_12">
+    <text>よし、俺を入れてくれ。</text>
+  </string>
+  <string id="devushka_2_dialog_13">
+    <text>いやいや任せるよ。多分、君と別の探索に行くと思うから。</text>
+  </string>
+  <string id="devushka_2_dialog_14">
+    <text>いいね！シドロヴィッチは「ムーンライト」アーティファクト、「ファイアボール」アーティファクト、「レンチ」アーティファクトの特別注文を持っている。これらは簡単には手に入らないので時間的な制限はないが、早ければ早いほどいい。やはり、いい評判を得られるからな。</text>
+  </string>
+  <string id="devushka_2_dialog_15">
+    <text>よし、それでは始めよう！</text>
+  </string>
+  <string id="devushka_3_quest_money_0">
+    <text>約束した50％だ、他の奴ならもっと高い値段がついたぞ。</text>
+  </string>
+  <string id="devushka_3_quest_money_1">
+    <text>たぶんね。でも約束は間違いなく守った。これで大金を手に入れたんだ、嬉しいよ。</text>
+  </string>
+  <string id="devushka_heal_0">
+    <text>この医療キットを運んでくれないか？</text>
+  </string>
+  <string id="devushka_heal_1">
+    <text>何のために？何故君のために医療キットを運ぶ必要があるんだ？君が自分で使えないなら、もう死んでいるってことだから、俺には助けられないだろ。</text>
+  </string>
+  <string id="devushka_heal_2">
+    <text>念のためだ。アタシを信じてくれ。</text>
+  </string>
+  <string id="devushka_heal_3">
+    <text>そうだな･･････それは。</text>
+  </string>
+  <string id="devushka_heal_4">
+    <text>んー、わかったよ。君を信じる。</text>
+  </string>
+  <string id="devushka_3_dialog_0">
+    <text>Freedomのアーマーを着た者にしては異例の倫理観だな。たとえ彼らがただの元Freedomのメンバーであっても。</text>
+  </string>
+  <string id="devushka_3_dialog_1">
+    <text>Freedomの初期のメンバーのほとんどはアタシの友人で、だからアタシは参加したんだ。でも、アタシは彼らのイデオロギーの転換や、彼らの派閥がどうなっていくのかがあまり好きではなかったんだ。友達と一緒に冒険したかった。どこかの人の言い訳で戦争をするのに加担したくなかったんだよ。</text>
+  </string>
+  <string id="devushka_3_dialog_2">
+    <text>俺と一緒にキャンプファイヤーまで来てくれ。良い知らせがあるんだ。</text>
+  </string>
+  <string id="devushka_4_dialog_0">
+    <text>シドロヴィッチから話があるそうだ。バーキープの配達の仕事を 確保してくれたが･･････問題は「防衛線」を越える必要があることだ。</text>
+  </string>
+  <string id="devushka_4_dialog_1">
+    <text>知らせてくれてありがとう。旧友からPDAのメッセージが来て、似たようなことを言っていたよ。今夜ここに戻ってきてくれない？アタシは旅の準備をする時間が必要なんだ、心の準備が。アタシはこの仕事のためにも、アンタにブラッドサッカーたちを観察してもらいたいから、あまり時間をかけずに戻ってきてね。</text>
+  </string>
+  <string id="devushka_4_quest_0">
+    <text>ヒップ、時間だ。バーキープの仕事に行く準備はいいか？</text>
+  </string>
+  <string id="devushka_4_quest_1">
+    <text>どうだろう。さっきのメッセージは･･････ルーカッシュからだった。ヤノフ駅の基地に薬を運ぶために、すぐに人手が必要だって。アタシはさっきFreedomのことを言ってたけど、その恩恵を受けるのは彼らだけじゃないってことはお互いわかってる。</text>
+  </string>
+  <string id="devushka_4_quest_2">
+    <text>ルーカッシュは他の誰かを探すだろう。バーキープはゾーンの最も中心的なポイントのひとつを占めている。</text>
+  </string>
+  <string id="devushka_4_quest_3">
+    <text>その場合は、アタシたちで早くルーカッシュに薬を取りに行かないと･･････。一刻も早く命を救えるかもしれない。</text>
+  </string>
+  <string id="devushka_4_quest_4">
+    <text>ふむ、そうだな。Freedomは自分のロバになる相手を見つけることができる。バーキープだ。順調なうちに行こう。</text>
+  </string>
+  <string id="devushka_4_quest_5">
+    <text>同意してくれて嬉しいよ。聞くところによると、ヤノフ駅のFreedomのリーダーは窮屈そうだな。ルーカッシュのために頼みごとをすれば、バーキープが考えていたことよりも多くの命を救えるだろう。陸軍倉庫に行く準備はできてるか？</text>
+  </string>
+  <string id="devushka_about_artefact_0">
+    <text>シドロヴィッチが欲しがってるアーティファクトはどこにある？</text>
+  </string>
+  <string id="devushka_about_artefact_1">
+    <text>「ムーンライト」アーティファクトは電気アノマリー、「レンチ」アーティファクトは渦巻アノマリー、「ファイアボール」アーティファクトはバーナー アノマリーで見つけることができるよ。</text>
+  </string>
+  <string id="devushka_about_artefact_2">
+    <text>分かった。お前がそいつらに飛び込む間、俺は見張りをするのか？</text>
+  </string>
+  <string id="devushka_about_artefact_3">
+    <text>アタシが見張りをするから飛び込んでいいよ。</text>
+  </string>
+  <string id="devushka_about_artefact_4">
+    <text>アーティファクト ハンターじゃなかったのか？</text>
+  </string>
+  <string id="devushka_about_artefact_5">
+    <text>どこにあるかは言ったでしょ？それに、その方がアンタも楽しいだろうし。</text>
+  </string>
+  <string id="devushka_about_semeckiy_0">
+    <text>やあ、ヒップ？何かネタを知ってるか？</text>
+  </string>
+  <string id="devushka_about_semeckiy_1">
+    <text>うーんと、そうだね。ユーリ セメツキーを知ってる？「ストーカー ネットワーク」で、１日に１回は死亡報告されてた人。機械の不具合かもかもしれない。でも、ユーリは「願望機」に辿り着いた最初のストーカーのひとりだと言われてた。噂では、不老不死を願ったらしいの。その結果として、彼は死んだ後、次の避けられない死の24時間前に、ランダムな別の場所で復活したんだって。彼の死亡記事の中にはひどい死に様のものもあったよ。ゾーンは美しくもあり、暗い部分もある訳だよね。</text>
+  </string>
+  <string id="devushka_about_semeckiy_2">
+    <text>それで、ユーリの死がPDAネットワークで報告されなくなった理由を知っているのか？</text>
+  </string>
+  <string id="devushka_about_semeckiy_3">
+    <text>正確ではないけど、アタシなりに推測してみた。ストーカーがブレイン スコーチャーを止めて原子力発電所に到達した直後に、彼の死が報告されなくなったのは興味深いよね。そこで何が起こったのかは分からないけど、状況は確実に変わった。何があったにせよ、ユーリはもう自由に死んだままでいられるのよ。</text>
+  </string>
+  <string id="devushka_about_semeckiy_4">
+    <text>彼がまだ生きているとは思わないのか？</text>
+  </string>
+  <string id="devushka_about_semeckiy_5">
+    <text>そうかもしれないけど、今はどんな生活をしているのかは知らない。もしかしたら、ある種の幽霊として生き続けているのかも？奇妙なことが起こって。</text>
+  </string>
+  <string id="give_devushka_medved_0">
+    <text>やあヒップ！この探知機を持っていてくれないか？</text>
+  </string>
+  <string id="give_devushka_medved_1">
+    <text>ちょうど私が欲しかったものだ、「ピー」と鳴るお高いマシン！</text>
+  </string>
+  <string id="devushka_give_present_0">
+    <text>今後はどうするんだ？</text>
+  </string>
+  <string id="devushka_give_present_1">
+    <text>一緒に旅をしていて考えたことがあるんだけど、落ち着くにはまだ時期が悪いのかもしれない。自分のビジネスを始めるのには。それがアタシの望みだと思っていたけど、本当は怖かったんだ。アタシが本当にしたいのは冒険すること。まだまだ冒険することはたくさんあると、今になって実感しているんだ。</text>
+  </string>
+  <string id="devushka_give_present_2">
+    <text>ニンブルの足跡をたどってみたらどうだろうか？</text>
+  </string>
+  <string id="devushka_give_present_3">
+    <text>じゃあ、一日中船の上で座っているだけでいいの？前はそう感じていたかもしれないけど、ここを見てよ。外に何があるか知っていながら、どうやって中に座っていられるのさ？アタシは静かな生活の準備なんてできていない。</text>
+  </string>
+  <string id="devushka_give_present_4">
+    <text>ここはほとんど死の世界だ。</text>
+  </string>
+  <string id="devushka_give_present_5">
+    <text>なのに君はここにいるよね。ほとんど毎日のように。</text>
+  </string>
+  <string id="devushka_give_present_6">
+    <text>どういう意味だ？</text>
+  </string>
+  <string id="devushka_give_present_7">
+    <text>説明するのは難しい。でも、ここなら幸せになれると思ってるんだ。ゾーンは本当に奇跡だし、もっと見てみたいの。</text>
+  </string>
+  <string id="devushka_give_present_8">
+    <text>なら、トレーダーよりもストーカーの人生を選ぶのは決まっているのか？金とコネがあっても？</text>
+  </string>
+  <string id="devushka_give_present_9">
+    <text>うん、そうだね。シドロヴィッチのように太って年を取ったら、気が変わるかもしれないよ。</text>
+  </string>
+  <string id="devushka_give_present_10">
+    <text>軽率だな。もう少し考えてみたらどうだ。</text>
+  </string>
+  <string id="devushka_give_present_12">
+    <text>決めたんだ。君にはもっと応援してほしいと思ってたんだけど？</text>
+  </string>
+  <string id="devushka_give_present_11">
+    <text>そうか、ならここにいてもいいな。ブラッドサッカーに気をつけてくれる人がいるのはいいことだ。</text>
+  </string>
+  <string id="devushka_give_present_13">
+    <text>ははっ！アタシもそう思っていたよ！これを感謝の気持ちとして受け取って欲しい。君は、私のことを何度も助けてくれたんだ。</text>
+  </string>
+  <string id="devushka_give_present_14">
+    <text>それがチームの仕事だろう？行くぞ。</text>
+  </string>
+  <string id="devushka_go_village_0">
+    <text>ヒップ、今は別れた方がいいと思う。</text>
+  </string>
+  <string id="devushka_go_village_1">
+    <text>本当に？</text>
+  </string>
+  <string id="devushka_go_village_2">
+    <text>ああ。ひとりで対処しなければならないことがある。</text>
+  </string>
+  <string id="devushka_go_village_3">
+    <text>いや、足を引っ張ってるだけだよ。</text>
+  </string>
+  <string id="devushka_go_village_4">
+    <text>分かったよ。ルーキー村にはたまに立ち寄るから、そこで会えるかも？何をするにしても、生きて帰ってきて。</text>
+  </string>
+  <string id="adventure_time_with_hip_0">
+    <text>お久しぶり、ヒップだよ。また一緒にゾーンに出掛けない？</text>
+  </string>
+  <string id="adventure_time_with_hip_1">
+    <text>聞く必要があっただけだ。</text>
+  </string>
+  <string id="st_hip_news_1">
+    <text>ヒップ : よし、じゃあ村のキャンプファイヤーに行こう。早く聞きたいよ。</text>
+  </string>
+  <string id="st_hip_news_2">
+    <text>頑張れよ、ストーカー。気をつけてね。</text>
+  </string>
+  <string id="st_hip_news_3">
+    <text>ヒップ : 他の仕事のことはあまり気にしないようにしているんだ、今頃は他の人がやってるだろうし。</text>
+  </string>
+  <string id="st_hip_news_4">
+    <text>ベアードは彼のサービスに満足しているようだ、まあ宅配便の中でも特に安全とは言えないな。生きていれば、良いビジネス関係の始まりかもしれない。</text>
+  </string>
+  <string id="st_hip_news_5">
+    <text>ヒップ : ねえ、バーキープと最初に仲良くなったのは正解だったんじゃないの！</text>
+  </string>
+  <string id="st_hip_news_6">
+    <text>ヒップ : 心から、何かをするのは簡単なことではないって、アタシは知ってる。</text>
+  </string>
+  <string id="st_hip_news_7">
+    <text>ヒップ : 本当にありがとう。ヤノフ駅のために劇的な変化をもたらす手助けをしてくれたと思うよ。</text>
+  </string>
+</string_table>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+	Ammunition
+-->
+
+<string_table>
+	
+	<string id="ammo_new_23x75_shrapnel">
+		<text>23x75mm "Shrapnel-25" シェル</text>
+	</string>
+	<string id="ammo_new_23x75_shrapnel_descr">
+		<text>23mmシェルに#00ペレットを8発詰めたもの。適用範囲は25mまで。KS-23カービンからの発射に使用される。KS-23カービンには銃身にライフリングがあるため、バックショットが広範囲に飛び、実質的に狙わずにオフハンドで射撃することができる。極めてタフなミュータント用の狩猟用弾として、KS-23と共に限定的に実戦投入された。\n</text>
+	</string>
+	<string id="ammo_new_23x75_shrapnel_s">
+		<text>23x75mm Shrapnel</text>
+	</string>
+	
+	<string id="ammo_new_23x75_barrikada">
+		<text>23x75・ "Barrikada" シェル</text>
+	</string>
+	<string id="ammo_new_23x75_barrikada_descr">
+		<text>23mm砲弾に先の尖った鋼鉄製の弾丸を搭載。エンジンブロックを破壊し、車両を強制的に停止させるために使用される。適用範囲は100mまで。超大型ミュータントの狩猟用に密猟ストーカーによって輸入されている。</text>
+	</string>
+	<string id="ammo_new_23x75_barrikada_s">
+		<text>23x75mm Barrikada</text>
+	</string>
+
+		<string id="ammo_new_9x21_sp10">
+		<text>9x21mm SP10 弾</text>
+	</string>
+	<string id="ammo_new_9x21_sp10_descr">
+		<text>貫通力を高めた弾丸を使用したピストル型弾薬。防護服で保護された人員を破壊するために設計されている。熱強化されたスチールコアのノーズ部分がシェルから突き出ているため、弾丸の貫通効果が高い。この特性は9mm 7N21、7N31の特殊弾に引き継がれている。</text>
+	</string>
+	<string id="ammo_new_9x21_sp10_s">
+		<text>9x21 SP10</text>
+	</string>
+
+	<string id="ammo_new_20x70_buck">
+		<text>20x70 Buckshot シェル</text>
+	</string>
+	<string id="ammo_new_20x70_buck_descr">
+		<text>20口径の標準的な薬莢に、6mmバックショットを5発詰めたもの。至近距離での殺傷力が高い。火薬量が少ないため、12ゲージの散弾銃に比べると威力は落ちる。反動が軽いため、初心者のハンターに人気がある。滑腔砲にのみ使用可能。</text>
+	</string>
+	<string id="ammo_new_20x70_buck_s">
+		<text>20x70 Buck</text>
+	</string>
+
+	<string id="ammo_new_23_eco">
+		<text>23x75 "Cloudkill" カートリッジ</text>
+	</string>
+	<string id="ammo_new_23_eco_descr">
+		<text>Ecologist派閥がDutyとの共同研究の一環として開発した特殊カートリッジ。このカートリッジは、中空の金属球に化学的異常から派生した液体毒素を充填したものだ。ターゲットに衝突すると、毒素は気化して化学雲となり、ターゲットを著しく弱体化させ、近くにいるターゲットにも同様の効果をもたらす。すべての対象に対して無気力と衰弱を誘発し、衝撃やその他のダメージを受けやすくする。特にミュータントに対しては、力を発揮する力を弱め、攻撃の強度を低下させる。強いミュータントを弱体化させることで、危険性の高いミュータントの襲撃から生き残る可能性を高めるために、Dutyの要望によって開発された。</text>
+	</string>
+	<string id="ammo_new_23_eco_s">
+		<text>23x75 Poison Cloud</text>
+	</string>
+	
+	<string id="st_ballistics_toxic">
+		<text>弱体化の毒の霧を生成する</text>
+	</string>
+
+
+
+	<string id="ammo_new_338_federal">
+		<text>.338 Federal FMJ 弾</text>
+	</string>
+	<string id="ammo_new_338_federal_descr">
+		<text>.338 Federalは、.308 Winchesterのケースを.33口径にネックアップしたライフル弾である。2006年にFederal Cartridge社とSako社によって作られ、軽量なライフルで適度な反動を持つ大口径弾として意図されている。</text>
+	</string>
+	<string id="ammo_new_338_federal_s">
+		<text>.338 Federal</text>
+	</string>
+	
+</string_table>

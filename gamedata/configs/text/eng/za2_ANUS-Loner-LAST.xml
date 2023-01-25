@@ -1,0 +1,3023 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+
+<string id="lname_stalker_0">
+<text>シトラス</text>
+</string>
+<string id="lname_stalker_1">
+<text>アブストラクト</text>
+</string>
+<string id="lname_stalker_2">
+<text>アブソリュート</text>
+</string>
+<string id="lname_stalker_3">
+<text>アコーディオン</text>
+</string>
+<string id="lname_stalker_4">
+<text>アカウント</text>
+</string>
+<string id="lname_stalker_5">
+<text>エース</text>
+</string>
+<string id="lname_stalker_6">
+<text>アラート</text>
+</string>
+<string id="lname_stalker_7">
+<text>アーマー</text>
+</string>
+<string id="lname_stalker_8">
+<text>アーティスト</text>
+</string>
+<string id="lname_stalker_9">
+<text>アスリート</text>
+</string>
+<string id="lname_stalker_10">
+<text>アットニー</text>
+</string>
+<string id="lname_stalker_11">
+<text>アヴィアター</text>
+</string>
+<string id="lname_stalker_12">
+<text>バブラー</text>
+</string>
+<string id="lname_stalker_13">
+<text>バーゲン</text>
+</string>
+<string id="lname_stalker_14">
+<text>バックボーン</text>
+</string>
+<string id="lname_stalker_15">
+<text>ベーグル</text>
+</string>
+<string id="lname_stalker_16">
+<text>ハゲ</text>
+</string>
+<string id="lname_stalker_17">
+<text>バナナ</text>
+</string>
+<string id="lname_stalker_18">
+<text>バンク</text>
+</string>
+<string id="lname_stalker_19">
+<text>バラバシカ</text>
+</string>
+<string id="lname_stalker_20">
+<text>バード</text>
+</string>
+<string id="lname_stalker_21">
+<text>バーマリー</text>
+</string>
+<string id="lname_stalker_22">
+<text>バロン</text>
+</string>
+<string id="lname_stalker_23">
+<text>バレル</text>
+</string>
+<string id="lname_stalker_24">
+<text>バティ</text>
+</string>
+<string id="lname_stalker_25">
+<text>バトン</text>
+</string>
+<string id="lname_stalker_26">
+<text>ビーンズ</text>
+</string>
+<string id="lname_stalker_27">
+<text>ビアード</text>
+</string>
+<string id="lname_stalker_28">
+<text>ビースト</text>
+</string>
+<string id="lname_stalker_29">
+<text>ビーコン</text>
+</string>
+<string id="lname_stalker_30">
+<text>トコジラミ</text>
+</string>
+<string id="lname_stalker_31">
+<text>ビーキーパー</text>
+</string>
+<string id="lname_stalker_32">
+<text>ベーコン</text>
+</string>
+<string id="lname_stalker_33">
+<text>ベリ</text>
+</string>
+<string id="lname_stalker_34">
+<text>ビッグタイム</text>
+</string>
+<string id="lname_stalker_35">
+<text>ビスケット</text>
+</string>
+<string id="lname_stalker_36">
+<text>ビスマルク</text>
+</string>
+<string id="lname_stalker_37">
+<text>ブラック</text>
+</string>
+<string id="lname_stalker_38">
+<text>ブレス</text>
+</string>
+<string id="lname_stalker_39">
+<text>ブライター</text>
+</string>
+<string id="lname_stalker_40">
+<text>ブリンプ</text>
+</string>
+<string id="lname_stalker_41">
+<text>ブロック</text>
+</string>
+<string id="lname_stalker_42">
+<text>ブースト</text>
+</string>
+<string id="lname_stalker_43">
+<text>バンド</text>
+</string>
+<string id="lname_stalker_44">
+<text>ボルト</text>
+</string>
+<string id="lname_stalker_45">
+<text>ボナパルト</text>
+</string>
+<string id="lname_stalker_46">
+<text>ボニー</text>
+</string>
+<string id="lname_stalker_47">
+<text>ブート</text>
+</string>
+<string id="lname_stalker_48">
+<text>ブーズ</text>
+</string>
+<string id="lname_stalker_49">
+<text>ボア</text>
+</string>
+<string id="lname_stalker_50">
+<text>ボス</text>
+</string>
+<string id="lname_stalker_51">
+<text>ボスン</text>
+</string>
+<string id="lname_stalker_52">
+<text>ボルダー</text>
+</string>
+<string id="lname_stalker_53">
+<text>バーボン</text>
+</string>
+<string id="lname_stalker_54">
+<text>ブルジョワ</text>
+</string>
+<string id="lname_stalker_55">
+<text>ボウレッグド</text>
+</string>
+<string id="lname_stalker_56">
+<text>ブレイク</text>
+</string>
+<string id="lname_stalker_57">
+<text>ブリーチ</text>
+</string>
+<string id="lname_stalker_58">
+<text>レンガ</text>
+</string>
+<string id="lname_stalker_59">
+<text>ブリガンド</text>
+</string>
+<string id="lname_stalker_60">
+<text>ブラウニー</text>
+</string>
+<string id="lname_stalker_61">
+<text>ブルーズ</text>
+</string>
+<string id="lname_stalker_62">
+<text>バディー</text>
+</string>
+<string id="lname_stalker_63">
+<text>バフィー</text>
+</string>
+<string id="lname_stalker_64">
+<text>バッファ</text>
+</string>
+<string id="lname_stalker_65">
+<text>バフーン</text>
+</string>
+<string id="lname_stalker_66">
+<text>バグ</text>
+</string>
+<string id="lname_stalker_67">
+<text>バルキン</text>
+</string>
+<string id="lname_stalker_68">
+<text>バム</text>
+</string>
+<string id="lname_stalker_69">
+<text>バマー</text>
+</string>
+<string id="lname_stalker_70">
+<text>バンパー</text>
+</string>
+<string id="lname_stalker_71">
+<text>バンドル</text>
+</string>
+<string id="lname_stalker_72">
+<text>ブレウクラット</text>
+</string>
+<string id="lname_stalker_73">
+<text>バリ</text>
+</string>
+<string id="lname_stalker_74">
+<text>ブッシュワッカー</text>
+</string>
+<string id="lname_stalker_75">
+<text>バスター</text>
+</string>
+<string id="lname_stalker_76">
+<text>ビジーボディー</text>
+</string>
+<string id="lname_stalker_77">
+<text>バット</text>
+</string>
+<string id="lname_stalker_78">
+<text>バターフィンガーズ</text>
+</string>
+<string id="lname_stalker_79">
+<text>バター</text>
+</string>
+<string id="lname_stalker_80">
+<text>キャベツ</text>
+</string>
+<string id="lname_stalker_81">
+<text>キャビー</text>
+</string>
+<string id="lname_stalker_82">
+<text>ケデット</text>
+</string>
+<string id="lname_stalker_83">
+<text>シーザー</text>
+</string>
+<string id="lname_stalker_84">
+<text>カナリア</text>
+</string>
+<string id="lname_stalker_85">
+<text>キャップ</text>
+</string>
+<string id="lname_stalker_86">
+<text>キャピタル</text>
+</string>
+<string id="lname_stalker_87">
+<text>カーバイド</text>
+</string>
+<string id="lname_stalker_88">
+<text>カルダン</text>
+</string>
+<string id="lname_stalker_89">
+<text>カーペンター</text>
+</string>
+<string id="lname_stalker_90">
+<text>キャリア</text>
+</string>
+<string id="lname_stalker_91">
+<text>カートリッジ</text>
+</string>
+<string id="lname_stalker_92">
+<text>カサノバ</text>
+</string>
+<string id="lname_stalker_93">
+<text>キャッチ</text>
+</string>
+<string id="lname_stalker_94">
+<text>ケーブマン</text>
+</string>
+<string id="lname_stalker_95">
+<text>チャンピオン</text>
+</string>
+<string id="lname_stalker_96">
+<text>チャンス</text>
+</string>
+<string id="lname_stalker_97">
+<text>チャパエフ</text>
+</string>
+<string id="lname_stalker_98">
+<text>チャパイ</text>
+</string>
+<string id="lname_stalker_99">
+<text>チャパイ</text>
+</string>
+<string id="lname_stalker_100">
+<text>チャパエフ</text>
+</string>
+<string id="lname_stalker_101">
+<text>チャフア</text>
+</string>
+<string id="lname_stalker_102">
+<text>チェブル</text>
+</string>
+<string id="lname_stalker_103">
+<text>チェブラーシカ</text>
+</string>
+<string id="lname_stalker_104">
+<text>チェスト</text>
+</string>
+<string id="lname_stalker_105">
+<text>チーフ</text>
+</string>
+<string id="lname_stalker_106">
+<text>チリ</text>
+</string>
+<string id="lname_stalker_107">
+<text>チル</text>
+</string>
+<string id="lname_stalker_108">
+<text>チリー</text>
+</string>
+<string id="lname_stalker_109">
+<text>チムニスウィープ</text>
+</string>
+<string id="lname_stalker_110">
+<text>チンガッククック</text>
+</string>
+<string id="lname_stalker_111">
+<text>チンガチュク</text>
+</string>
+<string id="lname_stalker_112">
+<text>チッパー</text>
+</string>
+<string id="lname_stalker_113">
+<text>チアー</text>
+</string>
+<string id="lname_stalker_114">
+<text>クロニック</text>
+</string>
+<string id="lname_stalker_115">
+<text>チャック</text>
+</string>
+<string id="lname_stalker_116">
+<text>サイダー</text>
+</string>
+<string id="lname_stalker_117">
+<text>クロウ</text>
+</string>
+<string id="lname_stalker_118">
+<text>クリーナー</text>
+</string>
+<string id="lname_stalker_119">
+<text>クローゼット</text>
+</string>
+<string id="lname_stalker_120">
+<text>ピエロ</text>
+</string>
+<string id="lname_stalker_121">
+<text>クラムジー</text>
+</string>
+<string id="lname_stalker_122">
+<text>コーチ</text>
+</string>
+<string id="lname_stalker_123">
+<text>コーチマン</text>
+</string>
+<string id="lname_stalker_124">
+<text>コールマイナー</text>
+</string>
+<string id="lname_stalker_125">
+<text>コニャック</text>
+</string>
+<string id="lname_stalker_126">
+<text>カラー</text>
+</string>
+<string id="lname_stalker_127">
+<text>コロネル</text>
+</string>
+<string id="lname_stalker_128">
+<text>コマンチ</text>
+</string>
+<string id="lname_stalker_129">
+<text>コム</text>
+</string>
+<string id="lname_stalker_130">
+<text>コモン</text>
+</string>
+<string id="lname_stalker_131">
+<text>コノッサー</text>
+</string>
+<string id="lname_stalker_132">
+<text>コンタクト</text>
+</string>
+<string id="lname_stalker_133">
+<text>コック</text>
+</string>
+<string id="lname_stalker_134">
+<text>コーナー</text>
+</string>
+<string id="lname_stalker_135">
+<text>コサック</text>
+</string>
+<string id="lname_stalker_136">
+<text>コテージャー</text>
+</string>
+<string id="lname_stalker_137">
+<text>カウンセラー</text>
+</string>
+<string id="lname_stalker_138">
+<text>カウント</text>
+</string>
+<string id="lname_stalker_139">
+<text>クーリエ</text>
+</string>
+<string id="lname_stalker_140">
+<text>クラッカー</text>
+</string>
+<string id="lname_stalker_141">
+<text>クランキー</text>
+</string>
+<string id="lname_stalker_142">
+<text>クレスト</text>
+</string>
+<string id="lname_stalker_143">
+<text>クリップル</text>
+</string>
+<string id="lname_stalker_144">
+<text>クレイドル</text>
+</string>
+<string id="lname_stalker_145">
+<text>クロニー</text>
+</string>
+<string id="lname_stalker_146">
+<text>クロス</text>
+</string>
+<string id="lname_stalker_147">
+<text>クロスアイ</text>
+</string>
+<string id="lname_stalker_148">
+<text>クロスタイ</text>
+</string>
+<string id="lname_stalker_149">
+<text>クルーシアン</text>
+</string>
+<string id="lname_stalker_150">
+<text>ブルーベラー</text>
+</string>
+<string id="lname_stalker_151">
+<text>カーソル</text>
+</string>
+<string id="lname_stalker_152">
+<text>シニック</text>
+</string>
+<string id="lname_stalker_153">
+<text>ダディ</text>
+</string>
+<string id="lname_stalker_154">
+<text>ダンサー</text>
+</string>
+<string id="lname_stalker_155">
+<text>ダンディ</text>
+</string>
+<string id="lname_stalker_156">
+<text>パン</text>
+</string>
+<string id="lname_stalker_157">
+<text>セール</text>
+</string>
+<string id="lname_stalker_158">
+<text>デバーター</text>
+</string>
+<string id="lname_stalker_159">
+<text>デファンクト</text>
+</string>
+<string id="lname_stalker_160">
+<text>デグリー</text>
+</string>
+<string id="lname_stalker_161">
+<text>デプティ</text>
+</string>
+<string id="lname_stalker_162">
+<text>デスポット</text>
+</string>
+<string id="lname_stalker_163">
+<text>デクスター</text>
+</string>
+<string id="lname_stalker_164">
+<text>ダイバー</text>
+</string>
+<string id="lname_stalker_165">
+<text>ドキュメント</text>
+</string>
+<string id="lname_stalker_166">
+<text>ドシル</text>
+</string>
+<string id="lname_stalker_167">
+<text>ドック</text>
+</string>
+<string id="lname_stalker_168">
+<text>ドクター</text>
+</string>
+<string id="lname_stalker_169">
+<text>ドッグマン</text>
+</string>
+<string id="lname_stalker_170">
+<text>ドリトル</text>
+</string>
+<string id="lname_stalker_171">
+<text>ダンプ</text>
+</string>
+<string id="lname_stalker_172">
+<text>ドーク</text>
+</string>
+<string id="lname_stalker_173">
+<text>ドウボーイ</text>
+</string>
+<string id="lname_stalker_174">
+<text>ドーナツ</text>
+</string>
+<string id="lname_stalker_175">
+<text>ドリンク</text>
+</string>
+<string id="lname_stalker_176">
+<text>ドリル</text>
+</string>
+<string id="lname_stalker_177">
+<text>ドリップ</text>
+</string>
+<string id="lname_stalker_178">
+<text>ドライバー</text>
+</string>
+<string id="lname_stalker_179">
+<text>ドラム</text>
+</string>
+<string id="lname_stalker_180">
+<text>ドラマー</text>
+</string>
+<string id="lname_stalker_181">
+<text>ドライ</text>
+</string>
+<string id="lname_stalker_182">
+<text>デュード</text>
+</string>
+<string id="lname_stalker_183">
+<text>デューク</text>
+</string>
+<string id="lname_stalker_184">
+<text>ダミー</text>
+</string>
+<string id="lname_stalker_185">
+<text>ダンブリング</text>
+</string>
+<string id="lname_stalker_186">
+<text>デュレマー</text>
+</string>
+<string id="lname_stalker_187">
+<text>ダイナマイト</text>
+</string>
+<string id="lname_stalker_188">
+<text>イーグルアイ</text>
+</string>
+<string id="lname_stalker_189">
+<text>イヤー</text>
+</string>
+<string id="lname_stalker_190">
+<text>イヤース</text>
+</string>
+<string id="lname_stalker_191">
+<text>エルダー</text>
+</string>
+<string id="lname_stalker_192">
+<text>エレクトリシャン</text>
+</string>
+<string id="lname_stalker_193">
+<text>エンダー</text>
+</string>
+<string id="lname_stalker_194">
+<text>エンジン</text>
+</string>
+<string id="lname_stalker_195">
+<text>エポレット</text>
+</string>
+<string id="lname_stalker_196">
+<text>エスニック</text>
+</string>
+<string id="lname_stalker_197">
+<text>エクスプローラー</text>
+</string>
+<string id="lname_stalker_198">
+<text>ファクター</text>
+</string>
+<string id="lname_stalker_199">
+<text>ファブル</text>
+</string>
+<string id="lname_stalker_200">
+<text>ファン</text>
+</string>
+<string id="lname_stalker_201">
+<text>ファング</text>
+</string>
+<string id="lname_stalker_202">
+<text>ファンタジスト</text>
+</string>
+<string id="lname_stalker_203">
+<text>ファット</text>
+</string>
+<string id="lname_stalker_204">
+<text>ファッソ</text>
+</string>
+<string id="lname_stalker_205">
+<text>ファッティ</text>
+</string>
+<string id="lname_stalker_206">
+<text>フェイバリット</text>
+</string>
+<string id="lname_stalker_207">
+<text>フリーズ</text>
+</string>
+<string id="lname_stalker_208">
+<text>ファイター</text>
+</string>
+<string id="lname_stalker_209">
+<text>ファイアボール</text>
+</string>
+<string id="lname_stalker_210">
+<text>ファイアマン</text>
+</string>
+<string id="lname_stalker_211">
+<text>ファイヤファイター</text>
+</string>
+<string id="lname_stalker_212">
+<text>フィスト</text>
+</string>
+<string id="lname_stalker_213">
+<text>ファイブ</text>
+</string>
+<string id="lname_stalker_214">
+<text>フラメン</text>
+</string>
+<string id="lname_stalker_215">
+<text>フレックド</text>
+</string>
+<string id="lname_stalker_216">
+<text>フリント</text>
+</string>
+<string id="lname_stalker_217">
+<text>フロップ</text>
+</string>
+<string id="lname_stalker_218">
+<text>フォグ</text>
+</string>
+<string id="lname_stalker_219">
+<text>フットボーラー</text>
+</string>
+<string id="lname_stalker_220">
+<text>フォレスター</text>
+</string>
+<string id="lname_stalker_221">
+<text>フォーミダブル</text>
+</string>
+<string id="lname_stalker_222">
+<text>フォーチュネイト</text>
+</string>
+<string id="lname_stalker_223">
+<text>フラグド</text>
+</string>
+<string id="lname_stalker_224">
+<text>フレーム</text>
+</string>
+<string id="lname_stalker_225">
+<text>フランティック</text>
+</string>
+<string id="lname_stalker_226">
+<text>フライデイ</text>
+</string>
+<string id="lname_stalker_227">
+<text>フーバー</text>
+</string>
+<string id="lname_stalker_228">
+<text>ガッドフライ</text>
+</string>
+<string id="lname_stalker_229">
+<text>ガファー</text>
+</string>
+<string id="lname_stalker_230">
+<text>ギャングスター</text>
+</string>
+
+<string id="lname_stalker_231">
+<text>ガーリック</text>
+</string>
+<string id="lname_stalker_232">
+<text>ジンギスカン</text>
+</string>
+<string id="lname_stalker_233">
+<text>カインド</text>
+</string>
+<string id="lname_stalker_234">
+<text>ジゴロ</text>
+</string>
+<string id="lname_stalker_235">
+<text>ジョコンダ</text>
+</string>
+<string id="lname_stalker_236">
+<text>グラディエーター</text>
+</string>
+<string id="lname_stalker_237">
+<text>グライダー</text>
+</string>
+<string id="lname_stalker_238">
+<text>グリッチ</text>
+</string>
+<string id="lname_stalker_239">
+<text>グローブ</text>
+</string>
+<string id="lname_stalker_240">
+<text>ダーク</text>
+</string>
+<string id="lname_stalker_241">
+<text>グルー</text>
+</string>
+<string id="lname_stalker_242">
+<text>グルマン</text>
+</string>
+<string id="lname_stalker_243">
+<text>ブヨ</text>
+</string>
+<string id="lname_stalker_244">
+<text>ゴッドフリー</text>
+</string>
+<string id="lname_stalker_245">
+<text>グーフィー</text>
+</string>
+<string id="lname_stalker_246">
+<text>グッドマン</text>
+</string>
+<string id="lname_stalker_247">
+<text>ゴリニッチ</text>
+</string>
+<string id="lname_stalker_248">
+<text>グラバー</text>
+</string>
+<string id="lname_stalker_249">
+<text>グラデュエート</text>
+</string>
+<string id="lname_stalker_250">
+<text>グランパ</text>
+</string>
+<string id="lname_stalker_251">
+<text>グランパ</text>
+</string>
+<string id="lname_stalker_252">
+<text>グラフ</text>
+</string>
+<string id="lname_stalker_253">
+<text>グレーター</text>
+</string>
+<string id="lname_stalker_254">
+<text>グレー</text>
+</string>
+<string id="lname_stalker_255">
+<text>グリーン</text>
+</string>
+<string id="lname_stalker_256">
+<text>グレネード</text>
+</string>
+<string id="lname_stalker_257">
+<text>グッドマン</text>
+</string>
+<string id="lname_stalker_258">
+<text>グライス</text>
+</string>
+<string id="lname_stalker_259">
+<text>グリル</text>
+</string>
+<string id="lname_stalker_260">
+<text>グラインダー</text>
+</string>
+<string id="lname_stalker_261">
+<text>グリンドストーン</text>
+</string>
+<string id="lname_stalker_262">
+<text>ライチョウ</text>
+</string>
+<string id="lname_stalker_263">
+<text>ゲスト</text>
+</string>
+<string id="lname_stalker_264">
+<text>ガンパウダー</text>
+</string>
+<string id="lname_stalker_265">
+<text>ガンスミス</text>
+</string>
+<string id="lname_stalker_266">
+<text>ハッカー</text>
+</string>
+<string id="lname_stalker_267">
+<text>ハグラー</text>
+</string>
+<string id="lname_stalker_268">
+<text>ハンディキャップ</text>
+</string>
+<string id="lname_stalker_269">
+<text>ハングマン</text>
+</string>
+<string id="lname_stalker_270">
+<text>ハードウェア</text>
+</string>
+<string id="lname_stalker_271">
+<text>ハーディ</text>
+</string>
+<string id="lname_stalker_272">
+<text>ハトラック</text>
+</string>
+<string id="lname_stalker_273">
+<text>ホーキンス</text>
+</string>
+<string id="lname_stalker_274">
+<text>ヘッド</text>
+</string>
+<string id="lname_stalker_275">
+<text>ハートスロブ</text>
+</string>
+<string id="lname_stalker_276">
+<text>ヘッジ</text>
+</string>
+<string id="lname_stalker_277">
+<text>ハーズマン</text>
+</string>
+<string id="lname_stalker_278">
+<text>ヒーロー</text>
+</string>
+<string id="lname_stalker_279">
+<text>ハイランダー</text>
+</string>
+<string id="lname_stalker_280">
+<text>ヒップスター</text>
+</string>
+<string id="lname_stalker_281">
+<text>ハイアリング</text>
+</string>
+<string id="lname_stalker_282">
+<text>ホアリー</text>
+</string>
+<string id="lname_stalker_283">
+<text>ホーボー</text>
+</string>
+<string id="lname_stalker_284">
+<text>ホーリー</text>
+</string>
+<string id="lname_stalker_285">
+<text>ホームボーイ</text>
+</string>
+<string id="lname_stalker_286">
+<text>ホームブリュー</text>
+</string>
+<string id="lname_stalker_287">
+<text>ホーマー</text>
+</string>
+<string id="lname_stalker_288">
+<text>フード</text>
+</string>
+<string id="lname_stalker_289">
+<text>ホード</text>
+</string>
+<string id="lname_stalker_290">
+<text>ホースマン</text>
+</string>
+<string id="lname_stalker_291">
+<text>ホース</text>
+</string>
+<string id="lname_stalker_292">
+<text>ホットショット</text>
+</string>
+<string id="lname_stalker_293">
+<text>ザトウクジラ</text>
+</string>
+<string id="lname_stalker_294">
+<text>ハンチバック</text>
+</string>
+<string id="lname_stalker_295">
+<text>イカロス</text>
+</string>
+<string id="lname_stalker_296">
+<text>アイス</text>
+</string>
+<string id="lname_stalker_297">
+<text>インポータント</text>
+</string>
+<string id="lname_stalker_298">
+<text>インディアン</text>
+</string>
+<string id="lname_stalker_299">
+<text>インク</text>
+</string>
+<string id="lname_stalker_300">
+<text>アイアン</text>
+</string>
+<string id="lname_stalker_301">
+<text>アイアンストーン</text>
+</string>
+<string id="lname_stalker_302">
+<text>イロコイ</text>
+</string>
+<string id="lname_stalker_303">
+<text>ジャック</text>
+</string>
+<string id="lname_stalker_304">
+<text>ジュピター</text>
+</string>
+<string id="lname_stalker_305">
+<text>ジャックストロー</text>
+</string>
+<string id="lname_stalker_306">
+<text>ジャミー</text>
+</string>
+<string id="lname_stalker_307">
+<text>ジャニター</text>
+</string>
+<string id="lname_stalker_308">
+<text>トビネズミ</text>
+</string>
+<string id="lname_stalker_309">
+<text>ジェスター</text>
+</string>
+<string id="lname_stalker_310">
+<text>ジガー</text>
+</string>
+<string id="lname_stalker_311">
+<text>ジョガー</text>
+</string>
+<string id="lname_stalker_312">
+<text>ジョイント</text>
+</string>
+<string id="lname_stalker_313">
+<text>ジャンパー</text>
+</string>
+<string id="lname_stalker_314">
+<text>ジュン</text>
+</string>
+<string id="lname_stalker_315">
+<text>ジャンク</text>
+</string>
+<string id="lname_stalker_316">
+<text>カゴール</text>
+</string>
+<string id="lname_stalker_317">
+<text>カルマ</text>
+</string>
+<string id="lname_stalker_318">
+<text>カシェイ</text>
+</string>
+<string id="lname_stalker_319">
+<text>キー</text>
+</string>
+<string id="lname_stalker_320">
+<text>カーン</text>
+</string>
+<string id="lname_stalker_321">
+<text>キッカー</text>
+</string>
+<string id="lname_stalker_322">
+<text>キング</text>
+</string>
+<string id="lname_stalker_323">
+<text>ノット</text>
+</string>
+<string id="lname_stalker_324">
+<text>コロボーク</text>
+</string>
+<string id="lname_stalker_325">
+<text>コシェイ</text>
+</string>
+<string id="lname_stalker_326">
+<text>クトゥーゾフ</text>
+</string>
+<string id="lname_stalker_327">
+<text>ラメ</text>
+</string>
+<string id="lname_stalker_328">
+<text>ラマー</text>
+</string>
+<string id="lname_stalker_329">
+<text>ランプ</text>
+</string>
+<string id="lname_stalker_330">
+<text>ランタン</text>
+</string>
+<string id="lname_stalker_331">
+<text>ロウ</text>
+</string>
+<string id="lname_stalker_332">
+<text>ラクス</text>
+</string>
+<string id="lname_stalker_333">
+<text>レアリー</text>
+</string>
+<string id="lname_stalker_334">
+<text>リーチ</text>
+</string>
+<string id="lname_stalker_335">
+<text>リーガル</text>
+</string>
+<string id="lname_stalker_336">
+<text>レガシスト</text>
+</string>
+<string id="lname_stalker_337">
+<text>レミング</text>
+</string>
+<string id="lname_stalker_338">
+<text>レシー</text>
+</string>
+<string id="lname_stalker_339">
+<text>ライフガード</text>
+</string>
+<string id="lname_stalker_340">
+<text>ライフセーバー</text>
+</string>
+<string id="lname_stalker_341">
+<text>リトルマン</text>
+</string>
+<string id="lname_stalker_342">
+<text>ローダー</text>
+</string>
+<string id="lname_stalker_343">
+<text>ブレッド</text>
+</string>
+<string id="lname_stalker_344">
+<text>ローカル</text>
+</string>
+<string id="lname_stalker_345">
+<text>ロック</text>
+</string>
+<string id="lname_stalker_346">
+<text>ロックスミス</text>
+</string>
+<string id="lname_stalker_347">
+<text>ログスプリッター</text>
+</string>
+<string id="lname_stalker_348">
+<text>ロング</text>
+</string>
+<string id="lname_stalker_349">
+<text>ロング・ジョン</text>
+</string>
+<string id="lname_stalker_350">
+<text>ルーニー</text>
+</string>
+<string id="lname_stalker_351">
+<text>ルーザー</text>
+</string>
+<string id="lname_stalker_352">
+<text>ラウドマウス</text>
+</string>
+<string id="lname_stalker_353">
+<text>ロイヤル</text>
+</string>
+<string id="lname_stalker_354">
+<text>ラックスター</text>
+</string>
+<string id="lname_stalker_355">
+<text>ラッキー</text>
+</string>
+<string id="lname_stalker_356">
+<text>マシン</text>
+</string>
+<string id="lname_stalker_357">
+<text>マシニスト</text>
+</string>
+<string id="lname_stalker_358">
+<text>マデラ</text>
+</string>
+<string id="lname_stalker_359">
+<text>マグネイト</text>
+</string>
+<string id="lname_stalker_360">
+<text>メジャー</text>
+</string>
+<string id="lname_stalker_361">
+<text>モレイ</text>
+</string>
+<string id="lname_stalker_362">
+<text>マニピュレータ</text>
+</string>
+<string id="lname_stalker_363">
+<text>マヌル</text>
+</string>
+<string id="lname_stalker_364">
+<text>マーモット</text>
+</string>
+<string id="lname_stalker_365">
+<text>マーシャン</text>
+</string>
+<string id="lname_stalker_366">
+<text>メイソン</text>
+</string>
+<string id="lname_stalker_367">
+<text>メタダー</text>
+</string>
+<string id="lname_stalker_368">
+<text>メーニー</text>
+</string>
+<string id="lname_stalker_369">
+<text>メカニック</text>
+</string>
+<string id="lname_stalker_370">
+<text>マーシャント</text>
+</string>
+<string id="lname_stalker_371">
+<text>メッセンジャー</text>
+</string>
+<string id="lname_stalker_372">
+<text>メット</text>
+</string>
+<string id="lname_stalker_373">
+<text>ミルクマン</text>
+</string>
+<string id="lname_stalker_374">
+<text>マインピッカー</text>
+</string>
+<string id="lname_stalker_375">
+<text>マイナー</text>
+</string>
+<string id="lname_stalker_376">
+<text>マインスイーパー</text>
+</string>
+<string id="lname_stalker_377">
+<text>ミノー</text>
+</string>
+<string id="lname_stalker_378">
+<text>ミザー</text>
+</string>
+<string id="lname_stalker_379">
+<text>モデレーター</text>
+</string>
+<string id="lname_stalker_380">
+<text>モヒカン</text>
+</string>
+<string id="lname_stalker_381">
+<text>モノクル</text>
+</string>
+<string id="lname_stalker_382">
+<text>ムーア</text>
+</string>
+<string id="lname_stalker_383">
+<text>ムーディ</text>
+</string>
+<string id="lname_stalker_384">
+<text>モップ</text>
+</string>
+<string id="lname_stalker_385">
+<text>モペット</text>
+</string>
+<string id="lname_stalker_386">
+<text>モレル</text>
+</string>
+<string id="lname_stalker_387">
+<text>モーター</text>
+</string>
+<string id="lname_stalker_388">
+<text>マウンテイナー</text>
+</string>
+<string id="lname_stalker_389">
+<text>ママー</text>
+</string>
+<string id="lname_stalker_390">
+<text>マッスルマン</text>
+</string>
+<string id="lname_stalker_391">
+<text>マスケット</text>
+</string>
+<string id="lname_stalker_392">
+<text>ネイル</text>
+</string>
+<string id="lname_stalker_393">
+<text>ナポレオン</text>
+</string>
+<string id="lname_stalker_394">
+<text>ネルソン</text>
+</string>
+<string id="lname_stalker_395">
+<text>ネプチューン</text>
+</string>
+<string id="lname_stalker_396">
+<text>ナーヴ</text>
+</string>
+<string id="lname_stalker_397">
+<text>ニッケル</text>
+</string>
+<string id="lname_stalker_398">
+<text>ニンジャ</text>
+</string>
+<string id="lname_stalker_399">
+<text>ヌードル</text>
+</string>
+<string id="lname_stalker_400">
+<text>ナッシング</text>
+</string>
+<string id="lname_stalker_401">
+<text>ノズル</text>
+</string>
+<string id="lname_stalker_402">
+<text>ノイザンス</text>
+</string>
+<string id="lname_stalker_403">
+<text>オールドタイマー</text>
+</string>
+<string id="lname_stalker_404">
+<text>ワン・アイド</text>
+</string>
+<string id="lname_stalker_405">
+<text>オペレーター</text>
+</string>
+<string id="lname_stalker_406">
+<text>オーダリー</text>
+</string>
+<string id="lname_stalker_407">
+<text>オスカー</text>
+</string>
+<string id="lname_stalker_408">
+<text>オーナー</text>
+</string>
+<string id="lname_stalker_409">
+<text>ペースメーカー</text>
+</string>
+<string id="lname_stalker_410">
+<text>ピースメーカー</text>
+</string>
+<string id="lname_stalker_411">
+<text>パドル</text>
+</string>
+<string id="lname_stalker_412">
+<text>パーディシャ</text>
+</string>
+<string id="lname_stalker_413">
+<text>パガン</text>
+</string>
+<string id="lname_stalker_414">
+<text>ペインター</text>
+</string>
+<string id="lname_stalker_415">
+<text>パナドール</text>
+</string>
+<string id="lname_stalker_416">
+<text>パパ</text>
+</string>
+<string id="lname_stalker_417">
+<text>パラシュート</text>
+</string>
+<string id="lname_stalker_418">
+<text>パラノイア</text>
+</string>
+<string id="lname_stalker_419">
+<text>パリア</text>
+</string>
+<string id="lname_stalker_420">
+<text>パルチザン</text>
+</string>
+<string id="lname_stalker_421">
+<text>パスター</text>
+</string>
+<string id="lname_stalker_422">
+<text>パスファインダー</text>
+</string>
+<string id="lname_stalker_423">
+<text>パトロン</text>
+</string>
+<string id="lname_stalker_424">
+<text>パチュク</text>
+</string>
+<string id="lname_stalker_425">
+<text>パティ</text>
+</string>
+<string id="lname_stalker_426">
+<text>ペブル</text>
+</string>
+<string id="lname_stalker_427">
+<text>ペドラー</text>
+</string>
+<string id="lname_stalker_428">
+<text>ピーウィー</text>
+</string>
+<string id="lname_stalker_429">
+<text>コショウ</text>
+</string>
+<string id="lname_stalker_430">
+<text>パーチャー</text>
+</string>
+<string id="lname_stalker_431">
+<text>パープ</text>
+</string>
+<string id="lname_stalker_432">
+<text>パート</text>
+</string>
+<string id="lname_stalker_433">
+<text>パイティスト</text>
+</string>
+<string id="lname_stalker_434">
+<text>ピグミー</text>
+</string>
+<string id="lname_stalker_435">
+<text>パイロット</text>
+</string>
+<string id="lname_stalker_436">
+<text>ピンプ</text>
+</string>
+<string id="lname_stalker_437">
+<text>ピノキオ</text>
+</string>
+<string id="lname_stalker_438">
+<text>ピントル</text>
+</string>
+<string id="lname_stalker_440">
+<text>ピストン</text>
+</string>
+<string id="lname_stalker_441">
+<text>ピットマン</text>
+</string>
+<string id="lname_stalker_442">
+<text>パイソン</text>
+</string>
+<string id="lname_stalker_443">
+<text>プランティン</text>
+</string>
+<string id="lname_stalker_444">
+<text>プラスチック</text>
+</string>
+<string id="lname_stalker_445">
+<text>プレイヤー</text>
+</string>
+<string id="lname_stalker_446">
+<text>プロダー</text>
+</string>
+<string id="lname_stalker_447">
+<text>プロウマン</text>
+</string>
+<string id="lname_stalker_448">
+<text>ポエット</text>
+</string>
+<string id="lname_stalker_449">
+<text>ポルカン</text>
+</string>
+<string id="lname_stalker_450">
+<text>ポーター</text>
+</string>
+<string id="lname_stalker_451">
+<text>ポストマン</text>
+</string>
+<string id="lname_stalker_452">
+<text>プリンス</text>
+</string>
+<string id="lname_stalker_453">
+<text>プロメテウス</text>
+</string>
+<string id="lname_stalker_454">
+<text>プラウド</text>
+</string>
+<string id="lname_stalker_455">
+<text>ポンプ</text>
+</string>
+<string id="lname_stalker_456">
+<text>パンプキン</text>
+</string>
+<string id="lname_stalker_457">
+<text>プッシャー</text>
+</string>
+<string id="lname_stalker_458">
+<text>プーシキン</text>
+</string>
+<string id="lname_stalker_459">
+<text>パテ</text>
+</string>
+<string id="lname_stalker_460">
+<text>クワック</text>
+</string>
+<string id="lname_stalker_461">
+<text>クォーターバック</text>
+</string>
+<string id="lname_stalker_462">
+<text>クワイエット</text>
+</string>
+<string id="lname_stalker_463">
+<text>ラック</text>
+</string>
+<string id="lname_stalker_464">
+<text>ラグド</text>
+</string>
+<string id="lname_stalker_465">
+<text>レンジャー</text>
+</string>
+<string id="lname_stalker_466">
+<text>ラスカル</text>
+</string>
+<string id="lname_stalker_467">
+<text>ラスタ</text>
+</string>
+<string id="lname_stalker_468">
+<text>レイジ</text>
+</string>
+<string id="lname_stalker_469">
+<text>ラビオリ</text>
+</string>
+<string id="lname_stalker_470">
+<text>カミソリ</text>
+</string>
+<string id="lname_stalker_471">
+<text>リアクター</text>
+</string>
+<string id="lname_stalker_472">
+<text>レッド</text>
+</string>
+<string id="lname_stalker_473">
+<text>レッドヘッド</text>
+</string>
+<string id="lname_stalker_474">
+<text>リーファー</text>
+</string>
+<string id="lname_stalker_475">
+<text>ライダー</text>
+</string>
+<string id="lname_stalker_476">
+<text>ロッキー</text>
+</string>
+<string id="lname_stalker_477">
+<text>ロビン</text>
+</string>
+<string id="lname_stalker_478">
+<text>ロブスト</text>
+</string>
+<string id="lname_stalker_479">
+<text>ロック</text>
+</string>
+<string id="lname_stalker_480">
+<text>ロケット</text>
+</string>
+<string id="lname_stalker_481">
+<text>ロッド</text>
+</string>
+<string id="lname_stalker_482">
+<text>タック</text>
+</string>
+<string id="lname_stalker_483">
+<text>ロマンチック</text>
+</string>
+<string id="lname_stalker_484">
+<text>ルーク</text>
+</string>
+<string id="lname_stalker_485">
+<text>ルート</text>
+</string>
+<string id="lname_stalker_486">
+<text>ロックフォール</text>
+</string>
+<string id="lname_stalker_487">
+<text>ラース</text>
+</string>
+<string id="lname_stalker_488">
+<text>ラウンド</text>
+</string>
+<string id="lname_stalker_489">
+<text>ラウンドボーイ</text>
+</string>
+<string id="lname_stalker_490">
+<text>ランナー</text>
+</string>
+<string id="lname_stalker_491">
+<text>ラスティ</text>
+</string>
+<string id="lname_stalker_492">
+<text>リャザンスキー</text>
+</string>
+<string id="lname_stalker_493">
+<text>セイバー</text>
+</string>
+<string id="lname_stalker_494">
+<text>セールスマン</text>
+</string>
+<string id="lname_stalker_495">
+<text>サムライ</text>
+</string>
+<string id="lname_stalker_496">
+<text>ソーンオフ</text>
+</string>
+<string id="lname_stalker_497">
+<text>スクープ</text>
+</string>
+<string id="lname_stalker_498">
+<text>スクリュー</text>
+</string>
+<string id="lname_stalker_499">
+<text>スクラブ</text>
+</string>
+<string id="lname_stalker_500">
+<text>サイシャン</text>
+</string>
+<string id="lname_stalker_501">
+<text>シークレタリー</text>
+</string>
+<string id="lname_stalker_502">
+<text>シャギー</text>
+</string>
+<string id="lname_stalker_503">
+<text>シャー</text>
+</string>
+<string id="lname_stalker_504">
+<text>シャム</text>
+</string>
+<string id="lname_stalker_505">
+<text>シャープ</text>
+</string>
+<string id="lname_stalker_506">
+<text>シャープアイ</text>
+</string>
+<string id="lname_stalker_507">
+<text>シャープトゥース</text>
+</string>
+<string id="lname_stalker_508">
+<text>シェイブド</text>
+</string>
+<string id="lname_stalker_509">
+<text>シェイブン</text>
+</string>
+<string id="lname_stalker_510">
+<text>シープハーダー</text>
+</string>
+<string id="lname_stalker_511">
+<text>シェル</text>
+</string>
+<string id="lname_stalker_512">
+<text>シェパード</text>
+</string>
+<string id="lname_stalker_513">
+<text>シフター</text>
+</string>
+<string id="lname_stalker_514">
+<text>シップボーイ</text>
+</string>
+<string id="lname_stalker_515">
+<text>シバルリー</text>
+</string>
+<string id="lname_stalker_516">
+<text>ショートストップ</text>
+</string>
+<string id="lname_stalker_517">
+<text>ショットガン</text>
+</string>
+<string id="lname_stalker_518">
+<text>シャベル</text>
+</string>
+<string id="lname_stalker_519">
+<text>シル</text>
+</string>
+<string id="lname_stalker_520">
+<text>シュリンク</text>
+</string>
+<string id="lname_stalker_521">
+<text>シーヴ</text>
+</string>
+<string id="lname_stalker_522">
+<text>シンプルトン</text>
+</string>
+<string id="lname_stalker_523">
+<text>シミュレーター</text>
+</string>
+<string id="lname_stalker_524">
+<text>シニー</text>
+</string>
+<string id="lname_stalker_525">
+<text>スキウ</text>
+</string>
+<string id="lname_stalker_526">
+<text>スキフ</text>
+</string>
+<string id="lname_stalker_527">
+<text>スキニー</text>
+</string>
+<string id="lname_stalker_528">
+<text>スリッパ</text>
+</string>
+<string id="lname_stalker_529">
+<text>スロウク</text>
+</string>
+<string id="lname_stalker_530">
+<text>スマートアレック</text>
+</string>
+<string id="lname_stalker_531">
+<text>スマータス</text>
+</string>
+<string id="lname_stalker_532">
+<text>スモーカー</text>
+</string>
+<string id="lname_stalker_533">
+<text>スナイパー</text>
+</string>
+<string id="lname_stalker_534">
+<text>ソック</text>
+</string>
+<string id="lname_stalker_535">
+<text>ソフティ</text>
+</string>
+<string id="lname_stalker_536">
+<text>ソフォモア</text>
+</string>
+<string id="lname_stalker_537">
+<text>スペース</text>
+</string>
+<string id="lname_stalker_538">
+<text>スペード</text>
+</string>
+<string id="lname_stalker_539">
+<text>スパゲッティ</text>
+</string>
+<string id="lname_stalker_540">
+<text>スパム</text>
+</string>
+<string id="lname_stalker_541">
+<text>スパークス</text>
+</string>
+<string id="lname_stalker_542">
+<text>スパンク</text>
+</string>
+<string id="lname_stalker_543">
+<text>スピル</text>
+</string>
+<string id="lname_stalker_544">
+<text>スパイン</text>
+</string>
+<string id="lname_stalker_545">
+<text>スピナー</text>
+</string>
+<string id="lname_stalker_546">
+<text>スプリフ</text>
+</string>
+<string id="lname_stalker_547">
+<text>スポーツマン</text>
+</string>
+<string id="lname_stalker_548">
+<text>スパイ</text>
+</string>
+<string id="lname_stalker_549">
+<text>スキント</text>
+</string>
+<string id="lname_stalker_550">
+<text>スキント・アイド</text>
+</string>
+<string id="lname_stalker_551">
+<text>スクワイア</text>
+</string>
+<string id="lname_stalker_552">
+<text>ステグナント</text>
+</string>
+<string id="lname_stalker_553">
+<text>スタミナ</text>
+</string>
+<string id="lname_stalker_554">
+<text>ステン</text>
+</string>
+<string id="lname_stalker_555">
+<text>スティフ</text>
+</string>
+<string id="lname_stalker_556">
+<text>スティープド</text>
+</string>
+<string id="lname_stalker_557">
+<text>ストーリーテラー</text>
+</string>
+<string id="lname_stalker_558">
+<text>スタウト</text>
+</string>
+<string id="lname_stalker_559">
+<text>ストラップ</text>
+</string>
+<string id="lname_stalker_560">
+<text>スタッド</text>
+</string>
+<string id="lname_stalker_561">
+<text>スタント</text>
+</string>
+<string id="lname_stalker_562">
+<text>丈夫な</text>
+</string>
+<string id="lname_stalker_563">
+<text>スルタン</text>
+</string>
+<string id="lname_stalker_564">
+<text>スサニン</text>
+</string>
+<string id="lname_stalker_565">
+<text>スワンク</text>
+</string>
+<string id="lname_stalker_566">
+<text>スイーパー</text>
+</string>
+<string id="lname_stalker_567">
+<text>素早い</text>
+</string>
+<string id="lname_stalker_568">
+<text>オタマジャクシ</text>
+</string>
+<string id="lname_stalker_569">
+<text>テイル</text>
+</string>
+<string id="lname_stalker_570">
+<text>テイルス</text>
+</string>
+<string id="lname_stalker_571">
+<text>タンバリン</text>
+</string>
+<string id="lname_stalker_572">
+<text>タンカー</text>
+</string>
+<string id="lname_stalker_573">
+<text>タール</text>
+</string>
+<string id="lname_stalker_574">
+<text>ターガリアン</text>
+</string>
+<string id="lname_stalker_575">
+<text>ターゲット</text>
+</string>
+<string id="lname_stalker_576">
+<text>テディ</text>
+</string>
+<string id="lname_stalker_577">
+<text>テフロン</text>
+</string>
+<string id="lname_stalker_578">
+<text>思想家</text>
+</string>
+<string id="lname_stalker_579">
+<text>ソーン</text>
+</string>
+<string id="lname_stalker_580">
+<text>思慮深い</text>
+</string>
+<string id="lname_stalker_581">
+<text>ツグミ</text>
+</string>
+<string id="lname_stalker_582">
+<text>ネクタイ</text>
+</string>
+<string id="lname_stalker_583">
+<text>タイトワッド</text>
+</string>
+<string id="lname_stalker_584">
+<text>ブリキ</text>
+</string>
+<string id="lname_stalker_585">
+<text>ティラナ</text>
+</string>
+<string id="lname_stalker_586">
+<text>トードストール</text>
+</string>
+<string id="lname_stalker_587">
+<text>タバコ</text>
+</string>
+<string id="lname_stalker_588">
+<text>トーン</text>
+</string>
+<string id="lname_stalker_589">
+<text>トーピー</text>
+</string>
+<string id="lname_stalker_590">
+<text>ツアリスト</text>
+</string>
+<string id="lname_stalker_591">
+<text>トレイルブレイザー</text>
+</string>
+<string id="lname_stalker_592">
+<text>トランプ</text>
+</string>
+<string id="lname_stalker_593">
+<text>トランスポーター</text>
+</string>
+<string id="lname_stalker_594">
+<text>トラップ</text>
+</string>
+<string id="lname_stalker_595">
+<text>トラベラー</text>
+</string>
+<string id="lname_stalker_596">
+<text>トリック</text>
+</string>
+<string id="lname_stalker_597">
+<text>トロンボーン</text>
+</string>
+<string id="lname_stalker_598">
+<text>トルーパー</text>
+</string>
+<string id="lname_stalker_599">
+<text>トルクレント</text>
+</string>
+<string id="lname_stalker_600">
+<text>チューナー</text>
+</string>
+<string id="lname_stalker_601">
+<text>タード</text>
+</string>
+<string id="lname_stalker_602">
+<text>ターキー</text>
+</string>
+<string id="lname_stalker_603">
+<text>タイクーン</text>
+</string>
+<string id="lname_stalker_604">
+<text>アンクル</text>
+</string>
+<string id="lname_stalker_605">
+<text>バキューム</text>
+</string>
+<string id="lname_stalker_606">
+<text>バガボンド</text>
+</string>
+<string id="lname_stalker_607">
+<text>ファン</text>
+</string>
+<string id="lname_stalker_608">
+<text>バーバル</text>
+</string>
+<string id="lname_stalker_609">
+<text>バイキング</text>
+</string>
+<string id="lname_stalker_610">
+<text>ビジター</text>
+</string>
+<string id="lname_stalker_611">
+<text>ヴォランド</text>
+</string>
+<string id="lname_stalker_612">
+<text>ヴォルデモート</text>
+</string>
+<string id="lname_stalker_613">
+<text>ヴィルチュ</text>
+</string>
+<string id="lname_stalker_614">
+<text>ウィナー</text>
+</string>
+<string id="lname_stalker_615">
+<text>ウィップ</text>
+</string>
+<string id="lname_stalker_616">
+<text>ワールプール</text>
+</string>
+<string id="lname_stalker_617">
+<text>ウィスキー</text>
+</string>
+<string id="lname_stalker_618">
+<text>ウィスト</text>
+</string>
+<string id="lname_stalker_619">
+<text>ホイッスル</text>
+</string>
+<string id="lname_stalker_620">
+<text>ホワイト</text>
+</string>
+<string id="lname_stalker_621">
+<text>ウィズ</text>
+</string>
+<string id="lname_stalker_622">
+<text>ウィンド</text>
+</string>
+<string id="lname_stalker_623">
+<text>ウィッチャー</text>
+</string>
+<string id="lname_stalker_624">
+<text>ウッドチャック</text>
+</string>
+<string id="lname_stalker_625">
+<text>キツツキ</text>
+</string>
+<string id="lname_stalker_626">
+<text>働き者</text>
+</string>
+<string id="lname_stalker_627">
+<text>労働者</text>
+</string>
+<string id="lname_stalker_628">
+<text>ラングラー</text>
+</string>
+<string id="lname_stalker_629">
+<text>しわ</text>
+</string>
+<string id="lname_stalker_630">
+<text>ヤッカー</text>
+</string>
+<string id="lname_stalker_631">
+<text>ジンジャー</text>
+</string>
+<string id="lname_stalker_632">
+<text>ツムール</text>
+</string>
+<string id="lname_stalker_633">
+<text>ズッキーニ</text>
+</string>
+<string id="lname_stalker_634">
+<text>ローマー</text>
+</string>
+<string id="lname_stalker_635">
+<text>シーカー</text>
+</string>
+<string id="lname_stalker_636">
+<text>ハンター</text>
+</string>
+<string id="lname_stalker_637">
+<text>アウトランダー</text>
+</string>
+<string id="lname_stalker_638">
+<text>ハイケサロット</text>
+</string>
+<string id="lname_stalker_639">
+<text>アルファ</text>
+</string>
+<string id="lname_stalker_640">
+<text>ベータ</text>
+</string>
+<string id="lname_stalker_641">
+<text>チャリオット</text>
+</string>
+<string id="lname_stalker_642">
+<text>デルタ</text>
+</string>
+<string id="lname_stalker_643">
+<text>エコー</text>
+</string>
+<string id="lname_stalker_644">
+<text>フォックストロット</text>
+</string>
+<string id="lname_stalker_645">
+<text>ゴルフ</text>
+</string>
+<string id="lname_stalker_646">
+<text>ホテル</text>
+</string>
+<string id="lname_stalker_647">
+<text>インディゴ</text>
+</string>
+<string id="lname_stalker_648">
+<text>ジュエル</text>
+</string>
+<string id="lname_stalker_649">
+<text>キロ</text>
+</string>
+<string id="lname_stalker_650">
+<text>リマ</text>
+</string>
+<string id="lname_stalker_651">
+<text>ミラー</text>
+</string>
+<string id="lname_stalker_652">
+<text>ノーベンバー</text>
+</string>
+<string id="lname_stalker_653">
+<text>オクトーバー</text>
+</string>
+<string id="lname_stalker_654">
+<text>ピクルス</text>
+</string>
+<string id="lname_stalker_655">
+<text>クォート</text>
+</string>
+<string id="lname_stalker_656">
+<text>ローバー</text>
+</string>
+<string id="lname_stalker_657">
+<text>タンゴ</text>
+</string>
+<string id="lname_stalker_658">
+<text>アンブラ</text>
+</string>
+<string id="lname_stalker_659">
+<text>ヴィーナス</text>
+</string>
+<string id="lname_stalker_660">
+<text>ウェイク</text>
+</string>
+<string id="lname_stalker_661">
+<text>ザンダー</text>
+</string>
+<string id="lname_stalker_662">
+<text>イヤー</text>
+</string>
+<string id="lname_stalker_663">
+<text>ゾーン</text>
+</string>
+<string id="lname_stalker_664">
+<text>ソレニア</text>
+</string>
+<string id="lname_stalker_665">
+<text>バスティオン</text>
+</string>
+<string id="lname_stalker_666">
+<text>エンバー</text>
+</string>
+<string id="lname_stalker_667">
+<text>スカイ</text>
+</string>
+<string id="lname_stalker_668">
+<text>イグジット</text>
+</string>
+<string id="lname_stalker_669">
+<text>いたずら好きな</text>
+</string>
+<string id="lname_stalker_670">
+<text>亡命者</text>
+</string>
+<string id="lname_stalker_671">
+<text>スター</text>
+</string>
+<string id="lname_stalker_672">
+<text>ザビエル</text>
+</string>
+<string id="lname_stalker_673">
+<text>ザライア</text>
+</string>
+<string id="lname_stalker_674">
+<text>ボルド</text>
+</string>
+<string id="lname_stalker_675">
+<text>楽観的な</text>
+</string>
+<string id="lname_stalker_676">
+<text>オブリビオン</text>
+</string>
+<string id="lname_stalker_677">
+<text>ライコネン</text>
+</string>
+<string id="lname_stalker_678">
+<text>ハラリ</text>
+</string>
+<string id="lname_stalker_679">
+<text>ブラスト</text>
+</string>
+<string id="lname_stalker_680">
+<text>ポー</text>
+</string>
+<string id="lname_stalker_681">
+<text>バレー</text>
+</string>
+<string id="lname_stalker_682">
+<text>ブーマー</text>
+</string>
+<string id="lname_stalker_683">
+<text>ノースランド</text>
+</string>
+<string id="lname_stalker_684">
+<text>サザンランド</text>
+</string>
+<string id="lname_stalker_685">
+<text>クアザール</text>
+</string>
+<string id="lname_stalker_686">
+<text>クワッド</text>
+</string>
+<string id="lname_stalker_687">
+<text>泥沼の</text>
+</string>
+<string id="lname_stalker_688">
+<text>汚れなき</text>
+</string>
+<string id="lname_stalker_689">
+<text>ウルサー</text>
+</string>
+<string id="lname_stalker_690">
+<text>ユニーク</text>
+</string>
+<string id="lname_stalker_691">
+<text>ユニファイ</text>
+</string>
+<string id="lname_stalker_692">
+<text>ユニオン</text>
+</string>
+<string id="lname_stalker_693">
+<text>醜い</text>
+</string>
+<string id="lname_stalker_694">
+<text>ユーザー</text>
+</string>
+<string id="lname_stalker_695">
+<text>キシロトール</text>
+</string>
+<string id="lname_stalker_696">
+<text>X</text>
+</string>
+<string id="lname_stalker_697">
+<text>昨日</text>
+</string>
+<string id="lname_stalker_698">
+<text>エール</text>
+</string>
+<string id="lname_stalker_699">
+<text>イッピー</text>
+</string>
+<string id="lname_stalker_700">
+<text>アンブロシア</text>
+</string>
+<string id="lname_stalker_701">
+<text>ロータス</text>
+</string>
+<string id="lname_stalker_702">
+<text>ブラックムーン</text>
+</string>
+<string id="lname_stalker_703">
+<text>ハーモニー</text>
+</string>
+<string id="lname_stalker_704">
+<text>ケーブル</text>
+</string>
+<string id="lname_stalker_705">
+<text>カーバー</text>
+</string>
+<string id="lname_stalker_706">
+<text>タレント</text>
+</string>
+<string id="lname_stalker_707">
+<text>スクィグル</text>
+</string>
+<string id="lname_stalker_708">
+<text>ビアマン</text>
+</string>
+<string id="lname_stalker_709">
+<text>スカウト</text>
+</string>
+<string id="lname_stalker_710">
+<text>ウォッチマン</text>
+</string>
+<string id="lname_stalker_711">
+<text>タワー</text>
+</string>
+<string id="lname_stalker_712">
+<text>フィールドマン</text>
+</string>
+<string id="lname_stalker_713">
+<text>放浪者</text>
+</string>
+<string id="lname_stalker_714">
+<text>弱虫</text>
+</string>
+<string id="lname_stalker_715">
+<text>ホッパー</text>
+</string>
+<string id="lname_stalker_716">
+<text>トールキン</text>
+</string>
+<string id="lname_stalker_717">
+<text>ジャバー</text>
+</string>
+<string id="lname_stalker_718">
+<text>スティッキー</text>
+</string>
+<string id="lname_stalker_719">
+<text>ライト</text>
+</string>
+<string id="lname_stalker_720">
+<text>ブリーキー</text>
+</string>
+<string id="lname_stalker_721">
+<text>生意気な</text>
+</string>
+<string id="lname_stalker_722">
+<text>ディスコード</text>
+</string>
+<string id="lname_stalker_723">
+<text>ヴァンパイア</text>
+</string>
+<string id="lname_stalker_724">
+<text>ブロード</text>
+</string>
+<string id="lname_stalker_725">
+<text>コロニー</text>
+</string>
+<string id="lname_stalker_726">
+<text>グリスウォルド</text>
+</string>
+<string id="lname_stalker_727">
+<text>リーダー</text>
+</string>
+<string id="lname_stalker_728">
+<text>アイアンスミス</text>
+</string>
+<string id="lname_stalker_729">
+<text>ブラックスミス</text>
+</string>
+<string id="lname_stalker_730">
+<text>クイックフット</text>
+</string>
+<string id="lname_stalker_731">
+<text>ロードキル</text>
+</string>
+<string id="lname_stalker_732">
+<text>スレンダー</text>
+</string>
+<string id="lname_stalker_733">
+<text>グレイザー</text>
+</string>
+<string id="lname_stalker_734">
+<text>アラスカ</text>
+</string>
+<string id="lname_stalker_735">
+<text>シールド</text>
+</string>
+<string id="lname_stalker_736">
+<text>モニター</text>
+</string>
+<string id="lname_stalker_737">
+<text>フリスク</text>
+</string>
+<string id="lname_stalker_738">
+<text>キッター</text>
+</string>
+<string id="lname_stalker_739">
+<text>インサイダー</text>
+</string>
+<string id="lname_stalker_740">
+<text>グリッド</text>
+</string>
+<string id="lname_stalker_741">
+<text>スウォーム</text>
+</string>
+<string id="lname_stalker_742">
+<text>レディング</text>
+</string>
+<string id="lname_stalker_743">
+<text>バリスター</text>
+</string>
+<string id="lname_stalker_744">
+<text>ハイブ</text>
+</string>
+<string id="lname_stalker_745">
+<text>トリックスター</text>
+</string>
+<string id="lname_stalker_746">
+<text>ゲートキーパー</text>
+</string>
+<string id="lname_stalker_747">
+<text>プロテクター</text>
+</string>
+<string id="lname_stalker_748">
+<text>ディフェンダー</text>
+</string>
+<string id="lname_stalker_749">
+<text>ガーディアン</text>
+</string>
+<string id="lname_stalker_750">
+<text>間違う</text>
+</string>
+<string id="lname_stalker_751">
+<text>ウォーリー</text>
+</string>
+<string id="lname_stalker_752">
+<text>ウォーメーカー</text>
+</string>
+<string id="lname_stalker_753">
+<text>ピースメーカー</text>
+</string>
+<string id="lname_stalker_754">
+<text>ゲーマー</text>
+</string>
+<string id="lname_stalker_755">
+<text>開発者</text>
+</string>
+<string id="lname_stalker_756">
+<text>シッター</text>
+</string>
+<string id="lname_stalker_757">
+<text>メイデン</text>
+</string>
+<string id="lname_stalker_758">
+<text>ゲイザー</text>
+</string>
+<string id="lname_stalker_759">
+<text>ニル</text>
+</string>
+<string id="lname_stalker_760">
+<text>トラバース</text>
+</string>
+<string id="lname_stalker_761">
+<text>ジャーニー</text>
+</string>
+<string id="lname_stalker_762">
+<text>エンバーゴ</text>
+</string>
+<string id="lname_stalker_763">
+<text>ディガー</text>
+</string>
+<string id="lname_stalker_764">
+<text>ヴェトー</text>
+</string>
+<string id="lname_stalker_765">
+<text>ホワイトサンド</text>
+</string>
+<string id="lname_stalker_766">
+<text>サターン</text>
+</string>
+<string id="lname_stalker_767">
+<text>マーズ</text>
+</string>
+<string id="lname_stalker_768">
+<text>ホロウ</text>
+</string>
+<string id="lname_stalker_769">
+<text>旅人</text>
+</string>
+<string id="lname_stalker_770">
+<text>バダス</text>
+</string>
+<string id="lname_stalker_771">
+<text>ラディガー</text>
+</string>
+<string id="lname_stalker_772">
+<text>ブルー</text>
+</string>
+<string id="lname_stalker_773">
+<text>オキサイド</text>
+</string>
+<string id="lname_stalker_774">
+<text>アリーズ</text>
+</string>
+<string id="lname_stalker_775">
+<text>ゾディアック</text>
+</string>
+<string id="lname_stalker_776">
+<text>エンブレム</text>
+</string>
+<string id="lname_stalker_777">
+<text>エリート</text>
+</string>
+<string id="lname_stalker_778">
+<text>怪しい</text>
+</string>
+<string id="lname_stalker_779">
+<text>敗北者</text>
+</string>
+<string id="lname_stalker_780">
+<text>ヴァリアブル</text>
+</string>
+<string id="lname_stalker_781">
+<text>だまされやすい</text>
+</string>
+<string id="lname_stalker_782">
+<text>トロール</text>
+</string>
+<string id="lname_stalker_783">
+<text>ウォッチャー</text>
+</string>
+<string id="lname_stalker_784">
+<text>一匹狼の</text>
+</string>
+<string id="lname_stalker_785">
+<text>サラダ</text>
+</string>
+<string id="lname_stalker_786">
+<text>ティンバー</text>
+</string>
+<string id="lname_stalker_787">
+<text>バーター</text>
+</string>
+<string id="lname_stalker_788">
+<text>ハルト</text>
+</string>
+<string id="lname_stalker_789">
+<text>ヘイル</text>
+</string>
+<string id="lname_stalker_790">
+<text>ジバゴ</text>
+</string>
+<string id="lname_stalker_791">
+<text>オパーマン</text>
+</string>
+<string id="lname_stalker_792">
+<text>シングレット</text>
+</string>
+<string id="lname_stalker_793">
+<text>ヴァニティ</text>
+</string>
+<string id="lname_stalker_794">
+<text>カモメ</text>
+</string>
+<string id="lname_stalker_795">
+<text>ドリーマー</text>
+</string>
+<string id="lname_stalker_796">
+<text>ウィッパー</text>
+</string>
+<string id="lname_stalker_797">
+<text>ウィンドウ</text>
+</string>
+<string id="lname_stalker_798">
+<text>バラック</text>
+</string>
+<string id="lname_stalker_799">
+<text>模倣者</text>
+</string>
+<string id="lname_stalker_800">
+<text>ミミック</text>
+</string>
+<string id="lname_stalker_801">
+<text>ティリー</text>
+</string>
+<string id="lname_stalker_802">
+<text>タッピー</text>
+</string>
+<string id="lname_stalker_803">
+<text>ハンドレッド</text>
+</string>
+<string id="lname_stalker_804">
+<text>フェロー</text>
+</string>
+<string id="lname_stalker_805">
+<text>フレンドリーな</text>
+</string>
+<string id="lname_stalker_806">
+<text>ナイスマン</text>
+</string>
+<string id="lname_stalker_807">
+<text>ニュートラル</text>
+</string>
+<string id="lname_stalker_808">
+<text>交渉者</text>
+</string>
+<string id="lname_stalker_809">
+<text>オファー</text>
+</string>
+<string id="lname_stalker_810">
+<text>スカビー</text>
+</string>
+<string id="lname_stalker_811">
+<text>ティンクル</text>
+</string>
+<string id="lname_stalker_812">
+<text>ジェロニモ</text>
+</string>
+<string id="lname_stalker_813">
+<text>フルーティー</text>
+</string>
+<string id="lname_stalker_814">
+<text>ピッピー</text>
+</string>
+<string id="lname_stalker_815">
+<text>ジュース</text>
+</string>
+<string id="lname_stalker_816">
+<text>スケール</text>
+</string>
+<string id="lname_stalker_817">
+<text>フリッピー</text>
+</string>
+<string id="lname_stalker_818">
+<text>クライマー</text>
+</string>
+<string id="lname_stalker_819">
+<text>スカイダイブ</text>
+</string>
+<string id="lname_stalker_820">
+<text>トレイン</text>
+</string>
+<string id="lname_stalker_821">
+<text>モーティブ</text>
+</string>
+<string id="lname_stalker_822">
+<text>シーケンス</text>
+</string>
+<string id="lname_stalker_823">
+<text>無実の</text>
+</string>
+<string id="lname_stalker_824">
+<text>不運な</text>
+</string>
+<string id="lname_stalker_825">
+<text>不幸な</text>
+</string>
+<string id="lname_stalker_826">
+<text>不運な</text>
+</string>
+<string id="lname_stalker_827">
+<text>バッドニュース</text>
+</string>
+<string id="lname_stalker_828">
+<text>ソーリー</text>
+</string>
+<string id="lname_stalker_829">
+<text>おっちょこちょいの</text>
+</string>
+<string id="lname_stalker_830">
+<text>事故る</text>
+</string>
+<string id="lname_stalker_831">
+<text>ミシャップ</text>
+</string>
+<string id="lname_stalker_832">
+<text>フェイタリティ</text>
+</string>
+<string id="lname_stalker_833">
+<text>ドラマクィーン</text>
+</string>
+<string id="lname_stalker_834">
+<text>ケーキ</text>
+</string>
+<string id="lname_stalker_835">
+<text>スプリント</text>
+</string>
+<string id="lname_stalker_836">
+<text>浪費癖の</text>
+</string>
+<string id="lname_stalker_837">
+<text>クォーツ</text>
+</string>
+<string id="lname_stalker_838">
+<text>八角形</text>
+</string>
+<string id="lname_stalker_839">
+<text>オタコン</text>
+</string>
+<string id="lname_stalker_840">
+<text>オオサカ</text>
+</string>
+<string id="lname_stalker_841">
+<text>ウィリー</text>
+</string>
+<string id="lname_stalker_842">
+<text>クライン</text>
+</string>
+<string id="lname_stalker_843">
+<text>ビッグフット</text>
+</string>
+<string id="lname_stalker_844">
+<text>エイリアス</text>
+</string>
+<string id="lname_stalker_845">
+<text>ズールー</text>
+</string>
+<string id="lname_stalker_846">
+<text>ゲルデン</text>
+</string>
+<string id="lname_stalker_847">
+<text>ジラーチ</text>
+</string>
+<string id="lname_stalker_848">
+<text>アンケート</text>
+</string>
+<string id="lname_stalker_849">
+<text>イコール</text>
+</string>
+<string id="lname_stalker_850">
+<text>ミドルグラウンド</text>
+</string>
+<string id="lname_stalker_851">
+<text>セイク</text>
+</string>
+<string id="lname_stalker_852">
+<text>バケット</text>
+</string>
+<string id="lname_stalker_853">
+<text>バスケット</text>
+</string>
+<string id="lname_stalker_854">
+<text>リグ</text>
+</string>
+<string id="lname_stalker_855">
+<text>セイル</text>
+</string>
+<string id="lname_stalker_856">
+<text>ノースレーン</text>
+</string>
+<string id="lname_stalker_857">
+<text>サウスウェイ</text>
+</string>
+<string id="lname_stalker_858">
+<text>フリック</text>
+</string>
+<string id="lname_stalker_859">
+<text>オットー</text>
+</string>
+<string id="lname_stalker_860">
+<text>クランスキー</text>
+</string>
+<string id="lname_stalker_861">
+<text>ユーリヒ</text>
+</string>
+<string id="lname_stalker_862">
+<text>チャイルド</text>
+</string>
+<string id="lname_stalker_863">
+<text>退職した</text>
+</string>
+<string id="lname_stalker_864">
+<text>ヒーター</text>
+</string>
+<string id="lname_stalker_865">
+<text>ガント</text>
+</string>
+<string id="lname_stalker_866">
+<text>キャスパー</text>
+</string>
+<string id="lname_stalker_867">
+<text>スイッチ</text>
+</string>
+<string id="lname_stalker_868">
+<text>クランク</text>
+</string>
+<string id="lname_stalker_869">
+<text>ディディ</text>
+</string>
+<string id="lname_stalker_870">
+<text>クロテン</text>
+</string>
+<string id="lname_stalker_871">
+<text>ポッド</text>
+</string>
+<string id="lname_stalker_872">
+<text>ポッパー</text>
+</string>
+<string id="lname_stalker_873">
+<text>フラスコ</text>
+</string>
+<string id="lname_stalker_874">
+<text>ルビックス</text>
+</string>
+<string id="lname_stalker_875">
+<text>コライダー</text>
+</string>
+<string id="lname_stalker_876">
+<text>Xレイ</text>
+</string>
+<string id="lname_stalker_877">
+<text>キップ</text>
+</string>
+<string id="lname_stalker_878">
+<text>カラゲ</text>
+</string>
+<string id="lname_stalker_879">
+<text>ドンダ</text>
+</string>
+<string id="lname_stalker_880">
+<text>ラムジー</text>
+</string>
+<string id="lname_stalker_881">
+<text>フォーク</text>
+</string>
+<string id="lname_stalker_882">
+<text>スポンジ</text>
+</string>
+<string id="lname_stalker_883">
+<text>ミル</text>
+</string>
+<string id="lname_stalker_884">
+<text>フラックス</text>
+</string>
+<string id="lname_stalker_885">
+<text>コート</text>
+</string>
+<string id="lname_stalker_886">
+<text>クロスファイア</text>
+</string>
+<string id="lname_stalker_887">
+<text>トリックス</text>
+</string>
+<string id="lname_stalker_888">
+<text>グリース</text>
+</string>
+<string id="lname_stalker_889">
+<text>貸し手の</text>
+</string>
+<string id="lname_stalker_890">
+<text>ルーティ</text>
+</string>
+<string id="lname_stalker_891">
+<text>ハマチ</text>
+</string>
+<string id="lname_stalker_892">
+<text>ヴィニー</text>
+</string>
+<string id="lname_stalker_893">
+<text>ヨーヨー</text>
+</string>
+<string id="lname_stalker_894">
+<text>リーチャー</text>
+</string>
+<string id="lname_stalker_895">
+<text>ドーパミン</text>
+</string>
+<string id="lname_stalker_896">
+<text>ティニタス</text>
+</string>
+<string id="lname_stalker_897">
+<text>フラップジャック</text>
+</string>
+<string id="lname_stalker_898">
+<text>バックフリップ</text>
+</string>
+<string id="lname_stalker_899">
+<text>サマーソルト</text>
+</string>
+<string id="lname_stalker_900">
+<text>カートホイール</text>
+</string>
+<string id="lname_stalker_901">
+<text>ジェリカン</text>
+</string>
+<string id="lname_stalker_902">
+<text>トリトン</text>
+</string>
+<string id="lname_stalker_903">
+<text>アバント</text>
+</string>
+<string id="lname_stalker_904">
+<text>レバー</text>
+</string>
+<string id="lname_stalker_905">
+<text>ケンブリッジ</text>
+</string>
+<string id="lname_stalker_906">
+<text>ソノバ</text>
+</string>
+<string id="lname_stalker_907">
+<text>ハンキー</text>
+</string>
+<string id="lname_stalker_908">
+<text>イージーショット</text>
+</string>
+<string id="lname_stalker_909">
+<text>スプランク</text>
+</string>
+<string id="lname_stalker_910">
+<text>インデント</text>
+</string>
+<string id="lname_stalker_911">
+<text>ロロ</text>
+</string>
+<string id="lname_stalker_912">
+<text>ゲシュタルト</text>
+</string>
+<string id="lname_stalker_913">
+<text>フィーバー</text>
+</string>
+<string id="lname_stalker_914">
+<text>フィジェンジール</text>
+</string>
+<string id="lname_stalker_915">
+<text>ホーヘス</text>
+</string>
+<string id="lname_stalker_916">
+<text>ミョルニル</text>
+</string>
+<string id="lname_stalker_917">
+<text>チェック</text>
+</string>
+<string id="lname_stalker_918">
+<text>ソナタ</text>
+</string>
+<string id="lname_stalker_919">
+<text>ルガー</text>
+</string>
+<string id="lname_stalker_920">
+<text>ホルモン</text>
+</string>
+<string id="lname_stalker_921">
+<text>パイオス</text>
+</string>
+<string id="lname_stalker_922">
+<text>クローン</text>
+</string>
+<string id="lname_stalker_923">
+<text>スポークン</text>
+</string>
+<string id="lname_stalker_924">
+<text>サンバ</text>
+</string>
+<string id="lname_stalker_925">
+<text>ソリティア</text>
+</string>
+<string id="lname_stalker_926">
+<text>シンフォニー</text>
+</string>
+<string id="lname_stalker_927">
+<text>ハルコネン</text>
+</string>
+<string id="lname_stalker_928">
+<text>アーバレスト</text>
+</string>
+<string id="lname_stalker_929">
+<text>エンパイア</text>
+</string>
+<string id="lname_stalker_930">
+<text>フロド</text>
+</string>
+<string id="lname_stalker_931">
+<text>ベオウルフ</text>
+</string>
+<string id="lname_stalker_932">
+<text>バーベキュー</text>
+</string>
+<string id="lname_stalker_933">
+<text>タッシー</text>
+</string>
+<string id="lname_stalker_934">
+<text>シッカリオ</text>
+</string>
+<string id="lname_stalker_935">
+<text>オセロ</text>
+</string>
+<string id="lname_stalker_936">
+<text>チェスマスター</text>
+</string>
+<string id="lname_stalker_937">
+<text>チェックメイト</text>
+</string>
+<string id="lname_stalker_938">
+<text>剥製の</text>
+</string>
+<string id="lname_stalker_939">
+<text>ハラペーニョ</text>
+</string>
+<string id="lname_stalker_940">
+<text>サチア</text>
+</string>
+<string id="lname_stalker_941">
+<text>まじめな</text>
+</string>
+<string id="lname_stalker_942">
+<text>フルート</text>
+</string>
+<string id="lname_stalker_943">
+<text>トゥーン</text>
+</string>
+<string id="lname_stalker_944">
+<text>ケース</text>
+</string>
+<string id="lname_stalker_945">
+<text>サンチョ</text>
+</string>
+<string id="lname_stalker_946">
+<text>ウェブ</text>
+</string>
+<string id="lname_stalker_947">
+<text>シルク</text>
+</string>
+<string id="lname_stalker_948">
+<text>スペクトル</text>
+</string>
+<string id="lname_stalker_949">
+<text>10トンの</text>
+</string>
+<string id="lname_stalker_950">
+<text>ギャロップ</text>
+</string>
+<string id="lname_stalker_951">
+<text>めまいがする</text>
+</string>
+<string id="lname_stalker_952">
+<text>イヤホン</text>
+</string>
+<string id="lname_stalker_953">
+<text>ソケット</text>
+</string>
+<string id="lname_stalker_954">
+<text>スプラウト</text>
+</string>
+<string id="lname_stalker_955">
+<text>ライス</text>
+</string>
+<string id="lname_stalker_956">
+<text>リケット</text>
+</string>
+<string id="lname_stalker_957">
+<text>人力車</text>
+</string>
+<string id="lname_stalker_958">
+<text>サドル</text>
+</string>
+<string id="lname_stalker_959">
+<text>むち打ちの</text>
+</string>
+<string id="lname_stalker_960">
+<text>注意深い</text>
+</string>
+<string id="lname_stalker_961">
+<text>オパキュ</text>
+</string>
+<string id="lname_stalker_962">
+<text>グレイズ</text>
+</string>
+<string id="lname_stalker_963">
+<text>グラガー</text>
+</string>
+<string id="lname_stalker_964">
+<text>ディップスティック</text>
+</string>
+<string id="lname_stalker_965">
+<text>フロシー</text>
+</string>
+<string id="lname_stalker_966">
+<text>ウーシュ</text>
+</string>
+<string id="lname_stalker_967">
+<text>バランス</text>
+</string>
+<string id="lname_stalker_968">
+<text>タクタイル</text>
+</string>
+<string id="lname_stalker_969">
+<text>フィードバック</text>
+</string>
+<string id="lname_stalker_970">
+<text>ホーン</text>
+</string>
+<string id="lname_stalker_971">
+<text>ストッパー</text>
+</string>
+<string id="lname_stalker_972">
+<text>準備完了の</text>
+</string>
+<string id="lname_stalker_973">
+<text>プレゼント</text>
+</string>
+<string id="lname_stalker_974">
+<text>イニシエーター</text>
+</string>
+<string id="lname_stalker_975">
+<text>真実の</text>
+</string>
+<string id="lname_stalker_976">
+<text>シーン</text>
+</string>
+<string id="lname_stalker_977">
+<text>ダンプトラック</text>
+</string>
+<string id="lname_stalker_978">
+<text>ラリー</text>
+</string>
+<string id="lname_stalker_979">
+<text>ホイール</text>
+</string>
+<string id="lname_stalker_980">
+<text>ウィット</text>
+</string>
+<string id="lname_stalker_981">
+<text>オシリス</text>
+</string>
+<string id="lname_stalker_982">
+<text>トート</text>
+</string>
+<string id="lname_stalker_983">
+<text>グリンゴ</text>
+</string>
+<string id="lname_stalker_984">
+<text>グロパー</text>
+</string>
+<string id="lname_stalker_985">
+<text>ワセリン</text>
+</string>
+<string id="lname_stalker_986">
+<text>ベール</text>
+</string>
+<string id="lname_stalker_987">
+<text>ヴィゴール</text>
+</string>
+<string id="lname_stalker_988">
+<text>ドレイン</text>
+</string>
+<string id="lname_stalker_989">
+<text>ゼン</text>
+</string>
+<string id="lname_stalker_990">
+<text>ジット</text>
+</string>
+<string id="lname_stalker_991">
+<text>クイーン</text>
+</string>
+<string id="lname_stalker_992">
+<text>地震</text>
+</string>
+<string id="lname_stalker_993">
+<text>親愛なる</text>
+</string>
+<string id="lname_stalker_994">
+<text>フェンス</text>
+</string>
+<string id="lname_stalker_995">
+<text>奉仕する</text>
+</string>
+<string id="lname_stalker_996">
+<text>キャット</text>
+</string>
+<string id="lname_stalker_997">
+<text>ニンバス</text>
+</string>
+<string id="lname_stalker_998">
+<text>コーズ</text>
+</string>
+<string id="lname_stalker_999">
+<text>エフェクト</text>
+</string>
+<string id="lname_stalker_439">
+<text>パイプ</text>
+</string>
+
+</string_table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

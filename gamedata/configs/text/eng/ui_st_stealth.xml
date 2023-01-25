@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+
+	<string id="ui_mcm_stealth_title">
+		<text>Stealth</text>
+	</string>
+	<string id="ui_mcm_menu_stealth">
+		<text>Stealth</text>
+	</string>
+
+		<!-- MAIN -->
+	<string id="ui_mcm_stealth_header_main">
+		<text>メイン</text>
+	</string>
+
+	<string id="ui_mcm_stealth_memory">
+		<text>記憶</text>
+	</string>
+	<string id="ui_mcm_stealth_memory_desc">
+		<text>記憶倍率。(NPCが既にターゲットを視認した場合、そのターゲットに対する視力の上昇を受け取ります。時間経過とともに減少し、初期値1.0の場合、このターゲットに対してNPCの視覚が0になるまでには現実で100秒程度かかる) \n 
+				\n 初期値: 1.0</text>
+	</string>
+
+	<string id="ui_mcm_stealth_luminocity">
+		<text>光源</text>
+	</string>
+	<string id="ui_mcm_stealth_luminocity_desc">
+		<text>光源倍率。（オブジェクトの光） \n 
+				\n 初期値: 1.0</text>
+	</string>
+
+	<string id="ui_mcm_stealth_distance">
+		<text>距離</text>
+	</string>
+	<string id="ui_mcm_stealth_distance_desc">
+		<text>距離の倍率。（オブジェクトからオブジェクトまでの距離、レンジ、FOV） \n 
+				\n 初期値: 1.0</text>
+	</string>
+
+	<string id="ui_mcm_stealth_velocity">
+		<text>速度</text>
+	</string>
+	<string id="ui_mcm_stealth_velocity_desc">
+		<text>速度倍率。（オブジェクトの速度） \n 
+				\n 初期値: 1.0</text>
+	</string>
+
+	<string id="ui_mcm_stealth_weight">
+		<text>重量</text>
+	</string>
+	<string id="ui_mcm_stealth_weight_desc">
+		<text>ウェイト倍率。（アクターの重量） \n 
+				\n 初期値: 1.0</text>
+	</string>
+
+	<string id="ui_mcm_stealth_crouch">
+		<text>しゃがみ</text>
+	</string>
+	<string id="ui_mcm_stealth_crouch_desc">
+		<text>しゃがみ倍率 \n 
+				\n 初期値: 0.4</text>
+	</string>
+
+	<string id="ui_mcm_stealth_low_crouch">
+		<text>匍匐</text>
+	</string>
+	<string id="ui_mcm_stealth_low_crouch_desc">
+		<text>匍匐倍率 \n 
+				\n 初期値: 0.25</text>
+	</string>
+
+		<!-- HUD -->
+	<string id="ui_mcm_stealth_header_hud">
+		<text>HUD</text>
+	</string>
+
+	<string id="ui_mcm_stealth_icon">
+		<text>アイコン</text>
+	</string>
+	<string id="ui_mcm_stealth_icon_desc">
+		<text>光度アイコン。(アクターが照らされている光を可視化します）</text>
+	</string>
+
+	<string id="ui_mcm_stealth_icon_type">
+		<text>アイコンタイプ</text>
+	</string>
+	<string id="ui_mcm_stealth_icon_type_desc">
+		<text>1) "ライトインジケータ "は、プレーヤーの光量を表示します。\n \n
+				2)" NPCビジョン " は、NPC（あなたに対する視力の値が最も高い）からプレイヤーがどのように見えているかを表示します。: \n
+				- 白アイコン: NPCは通常状態で、プレイヤーを視認していません。; \n
+				- 黄色アイコン: NPCが戦闘中/危険な状態にあり（視覚パラメータがアップしている）、プレイヤーの姿は視認していない; \n
+				- 赤アイコン: NPCはプレイヤーを視認している</text>
+	</string>
+
+	<string id="ui_mcm_stealth_icon_x">
+		<text>アイコン位置 X</text>
+	</string>
+
+	<string id="ui_mcm_stealth_icon_y">
+		<text>アイコン位置 Y</text>
+	</string>
+
+		<!-- Patches -->
+	<string id="ui_mcm_stealth_header_patches">
+		<text>パッチ</text>
+	</string>
+
+	<string id="ui_mcm_stealth_michiko_patch">
+		<text>Michiko weather パッチ</text>
+	</string>
+	<string id="ui_mcm_stealth_michiko_patch_desc">
+		<text>Michiko's weatherを使用している場合は、有効にすることを推奨します。</text>
+	</string>
+
+		<!-- Debug -->
+	<string id="ui_mcm_stealth_header_debug">
+		<text>デバッグ</text>
+	</string>
+
+	<string id="ui_mcm_stealth_debugx">
+		<text>デバッグ</text>
+	</string>
+	<string id="ui_mcm_stealth_debugx_desc">
+		<text>方程式変数の表示（正しい閾値のためには、カーソルを常にオブジェクトに置いておく必要があります。）: \n 
+				\n コンソール: すべての変数 \n 
+				\n ダイナミックニュース: オブジェクトがアクターを見てるかどうか \n 
+				\n 画面下部メッセージ: オブジェクトの可視性閾値 (およびMCMで変更可能な変数)</text>
+	</string>
+
+
+
+</string_table>

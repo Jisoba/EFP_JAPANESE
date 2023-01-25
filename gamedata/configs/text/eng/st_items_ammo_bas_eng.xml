@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+	Ammunition
+-->
+
+<string_table>
+	
+	<string id="ammo_23x75_shrapnel">
+		<text>"Shrapnel-25" 23x75mm (BaS)</text>
+	</string>
+	<string id="ammo_23x75_shrapnel_descr">
+		<text>散弾式弾倉。適用範囲は25mまで。KS-23カービンからの発射に使用します。KS-23カービンは銃身にライフリングが施されているため、バックショットが広範囲に飛び、実質的に狙いをつけずにオフハンドで射撃することができる。\n</text>
+	</string>
+	
+	<string id="ammo_23x75_barrikada">
+		<text>"Barrikada" 23x75・ (BaS)</text>
+	</string>
+	<string id="ammo_23x75_barrikada_descr">
+		<text>鋼鉄製の先の尖った弾丸が入った弾薬。車両にダメージを与えて強制的に停止させるために使用される。適用範囲は100mまで。KS-23カービンからの発射に使用される。\n</text>
+	</string>
+
+		<string id="ammo_9x21_sp10">
+		<text>9x21 mm SP10 (BaS)</text>
+	</string>
+	<string id="ammo_9x21_sp10_descr">
+		<text>貫通力を高めた弾丸を使用したピストル型弾頭。身体保護具に守られた人命を奪うために設計されている。熱強化された鋼鉄製芯の先端部分が砲弾から突き出ており、これによって高い貫通効果を発揮する。\n \n%c[ui_gray_2] - %c[ui_gray_2] 貫通可能アーマークラス: %c[ui_gray_1]BR4\n%c[ui_gray_2] - %c[ui_gray_2] 肉体へのダメージ量: %c[ui_gray_1]普通</text>
+	</string>
+
+	<string id="ammo_20x70_buck">
+		<text>20x70 buckshot round (BaS)</text>
+	</string>
+	<string id="ammo_20x70_buck_descr">
+		<text>6mmバックショットを内包した20口径の標準的な弾丸。至近距離での殺傷力が高い。滑腔砲にのみ使用可能\n \n%c[d_purple] ・%c[ui_gray_2] 貫通可能アーマークラス: %c[ui_gray_1]なし\n%c[d_purple] ・%c[ui_gray_2] 物理的損傷評価: %c[ui_gray_1]普通～高い\n \n%c[ui_gray_1]SPECIAL:\n \n%c[d_purple] ・%c[ui_gray_2] 高い拡散範囲、短い効果範囲。</text>
+	</string>
+	<string id="ammo_20x70_buck_s">
+		<text>20x70 shot</text>
+	</string>
+
+	<string id="ammo_23_eco">
+		<text>Ecolog-23 cartridge (BaS)</text>
+	</string>
+	<string id="ammo_23_eco_descr">
+		<text>ゾーンに配置された科学研究員のニーズに合わせて設計された専用カートリッジ。作業内容に応じて、様々な種類の溶液が充填されている。非常に慎重な取り扱いが必要。使用方法：非常にゆっくりと武器に入れる。\n \n%c[d_purple] ・%c[ui_gray_2] 貫通可能アーマークラス: %c[ui_gray_1]なし\n%c[d_purple] ・%c[ui_gray_2] 物理的損傷評価: %c[ui_gray_1]なし\n \n%c[ui_gray_1]SPECIAL:\n \n%c[d_purple] ・%c[ui_gray_2] 細いウルフラムの針で、ミュータントの皮膚に穴をあけて溶液を注入する。</text>
+	</string>
+	<string id="ammo_23_eco_s">
+		<text>Ecolog-23</text>
+	</string>
+
+	<string id="ammo_vog_30">
+		<text>VOG-30 破片手榴弾 (BaS)</text>
+	</string>
+	<string id="ammo_vog_30_descr">
+		<text>VOG-30破片手榴弾は、開けた場所にいる敵の人員と火器を破壊するために設計されている。1980年代に開発された改良型は、破片効果がより強力になり、カートリッジ内の推進剤を自律的に封じ込めることができるようになった。\n </text>
+	</string>
+	<string id="ammo_vog_30_s">
+		<text>VOG-30</text>
+	</string>
+
+	<string id="ammo_338_federal">
+		<text>.338 Federal (BaS)</text>
+	</string>
+	<string id="ammo_338_federal_descr">
+		<text>.338 Federalは、.308 Winchesterのケースを.33口径にネックアップしたライフル銃のカートリッジである。2006年にフェデラル・カートリッジ社とサコー社によって作られ、軽量ライフル用の適度な反動を持つ大物用カートリッジとして意図されている。\n \n%c[d_purple] ・%c[ui_gray_2] 貫通可能アーマークラス: %c[ui_gray_1]IV\n%c[d_purple] ・%c[ui_gray_2] 物理的損傷評価: %c[ui_gray_1]非常に高い</text>
+	</string>
+	<string id="ammo_338_federal_s">
+		<text>.338 Federal</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<string id="st_interact">
+		<text>インタラクト ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_place_popup">
+		<text>アイテムを設置する ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_far_popup">
+		<text>遠すぎる</text>
+	</string>
+	<string id="st_collision_warning">
+		<text>オブジェクトを配置できない - 何かと重なっている</text>
+	</string>
+	<string id="st_rotation_label">
+		<text>回転オフセット</text>
+	</string>
+	<string id="st_vertical_label">
+		<text>垂直オフセット</text>
+	</string>
+	<string id="st_enable_collision">
+		<text>衝突判定を有効化</text>
+	</string>
+	<string id="st_disable_collision">
+		<text>衝突判定を無効化</text>
+	</string>
+	<string id="st_pickup">
+		<text>拾う</text>
+	</string>
+    <string id="st_close">
+		<text>閉じる</text>
+	</string>
+    <string id="st_turn_on">
+		<text>起動する</text>
+	</string>
+    <string id="st_turn_off">
+		<text>停止する</text>
+	</string>
+    <string id="st_take_fuel">
+		<text>燃料をとる</text>
+	</string>
+    <string id="st_add_fuel">
+		<text>燃料を補充する</text>
+	</string>
+	<string id="st_access_stash">
+		<text>スタッシュを開く</text>
+	</string>
+	<string id="st_use_workshop">
+		<text>ワークショップを使う</text>
+	</string>
+	<string id="st_fuel">
+		<text>燃料</text>
+	</string>
+	<string id="st_duration">
+		<text>時間</text>
+	</string>
+
+	<string id="st_autoplay">
+		<text>自動演奏</text>
+	</string>
+	<string id="st_configure">
+		<text>コンフィグ</text>
+	</string>
+	<string id="st_tempo">
+		<text>テンポ</text>
+	</string>
+	<string id="st_transpose">
+		<text>音程</text>
+	</string>
+	<string id="st_volume">
+		<text>音量</text>
+	</string>
+	<string id="st_instrument">
+		<text>楽譜</text>
+	</string>
+	<string id="st_filter_by_tag">
+		<text>タグ別フィルター</text>
+	</string>
+</string_table>

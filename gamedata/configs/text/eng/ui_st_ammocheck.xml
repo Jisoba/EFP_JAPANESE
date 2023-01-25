@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+    <!-- Ammo_Check Messages -->
+    <string id="st_ac_overfull">
+        <text>過装填</text>
+    </string>
+    <string id="st_ac_plus1">
+        <text>最大 + 1</text>
+    </string>
+  <string id="st_ac_oitc">
+        <text>薬室に1発あり</text>
+	</string>
+    <string id="st_ac_just_one">
+        <text>残り1発</text>
+    </string>
+    <string id="st_ac_full">
+        <text>最大</text>
+    </string>
+    <string id="st_ac_nearly_full">
+        <text>ほぼフル</text>
+    </string>
+    <string id="st_ac_more_half">
+        <text>半分以上</text>
+    </string>
+    <string id="st_ac_about_half">
+        <text>約半分</text>
+    </string>
+    <string id="st_ac_less_half">
+        <text>半分以下</text>
+    </string>
+    <string id="st_ac_near_empty">
+        <text>残りわずか</text>
+    </string>
+    <string id="st_ac_empty">
+        <text>残弾なし</text>
+    </string>
+    <string id="st_ac_jammed">
+        <text>弾詰まりを起こした</text>
+    </string>
+    <string id="st_ac_noMag">
+        <text>マガジンが装填されてない</text>
+    </string>
+  <string id="st_ac_grenade">
+        <text>グレネード装填済み</text>
+    </string>
+    <string id="st_ac_noAmmo">
+        <text>この弾薬は使えない！</text>
+    </string>
+    <string id="st_ac_ammoLeft">
+        <text>残り</text>
+    </string>
+
+	
+    <string id="ui_mcm_menu_rax_ammo_check">
+        <text>弾薬確認</text>
+    </string>
+    <string id="ui_mm_title_rax_ammo_check">
+        <text>弾薬確認</text>
+    </string>
+
+	<string id="ui_mcm_rax_ammo_check_usecolor">
+		<text>カラーメッセージ</text>
+	</string>
+
+	<string id="ui_mcm_rax_ammo_check_hidecounter">
+		<text>弾薬カウンターを非表示にする</text>
+	</string>
+
+	<string id="ui_mcm_rax_ammo_check_hideicon">
+		<text>弾薬のアイコンを非表示にする</text>
+	</string>
+
+
+	<string id="ui_mcm_rax_ammo_check_busy_hands_fix">
+		<text>Busy Hands Fix.</text>
+	</string>
+	<string id="ui_mcm_rax_ammo_check_busy_hands_fix_desc">
+		<text>弾薬チェックの "アニメーション "が固まる場合は、このボックスにチェックを入れてください。FDDAのインストール時に発生する可能性があります。</text>
+	</string>
+
+	<string id="ui_mcm_rax_ammo_check_keybind">
+		<text>弾薬確認キー</text>
+	</string>
+
+	<string id="ui_mcm_rax_ammo_check_keybind_desc">
+		<text>このキーバインドは、キーバインドの競合を緩和するために追加のキーを必要とするように設定することができます。</text>
+	</string>
+
+	<string id="ui_mcm_rax_ammo_check_update_mcm">
+		<text>MCMをアップデートして、ここでキーバインドを変更します。キーのデフォルトはTです。</text>
+	</string>
+
+	
+
+</string_table>

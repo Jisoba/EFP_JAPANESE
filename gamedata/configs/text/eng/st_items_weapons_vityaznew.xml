@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_vityaznew">
+		<text>PP-19 Vityaz-SN</text>
+	</string>
+
+	<string id="st_wpn_vityaznew_descr">
+		<text>PP-19の変種で、2004年に設計され、9x19mm用の30発のマガジンを備えた短機関銃である。主にパトロール隊、ロシア交通警察、ロシア治安警察、MVDの部隊によって使用されている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製
+                %c[d_purple] ・ サプレッサー : PBS-1 \n</text>
+	</string>
+
+</string_table>

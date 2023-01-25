@@ -1,0 +1,208 @@
+<string_table>
+    
+		<string id="st_lootbox_note_dad">
+		<text>戦利品箱の中のメモ</text>
+	</string>
+	<string id="st_lootbox_note_dad_descr">
+		<text>Mischa、\n\n
+			私は戻れない。このアーティファクトを持って、サハロフに私の名前を言って渡してくれ、彼がママへの治療を手配する。Finchの一味に追い詰められてしまった。一か八か、やるしかない。すまない兄弟、Zlataに会ったらよろしく伝えてくれ。\n\n
+		</text>
+	</string>
+
+	<string id="st_lootbox_note_tarkov">
+		<text>保管ケース内のメモ</text>
+	</string>
+	<string id="st_lootbox_note_tarkov_descr">
+		<text>マジでここはふざけた場所だ! 今日、Eagleは犬の群れを撃退しているときにアノマリーの一つに巻き込まれて、飛び散った太ももの肉片が俺の顔に当たった。奴のドッグタグは見つからず、体の一部は少なくとも半径20ヤードの範囲に散らばっていた。Jackalも気が狂い始めているようで、変な寝言が聞こえてくる。俺たちが追いかけているTerraGroupの野郎どもが、どこかの放射能汚染されたドブで腐っていることを願うよ。俺は略奪者や資本主義者を撃つために契約したんだ、こんな奇妙なことに付き合っている暇はない。早くここから出られることを祈ろう。 \n\n
+		</text>
+	</string>
+
+	<string id="st_lootbox_note_bandit">
+		<text>ブリーフケースの中のメモ</text>
+	</string>
+	<string id="st_lootbox_note_bandit_descr">
+		<text>Flea、もしこれを読んでいるなら、最初計画したようにChiefの部下に隠れ家を明け渡すな、あいつは俺たちを殺そうとしたんだぞ!助かったのは俺とVorだけだ。奴はBorovから墓地の管理権を与えられたことで、自分が大ボスになったと思い、兄弟を裏切ることができると考えている。この戦利品を持ってスルタンの所に行け、何人かの殺し屋を雇って、あのクソ野郎に立場を教えてやろう。橋のところで会おう。 \n\n- Worm\n\n
+		</text>
+	</string>
+
+	<string id="st_lootbox_note_sniper">
+		<text>ライフルケース内のメモ</text>
+	</string>
+	<string id="st_lootbox_note_sniper_descr">
+		<text>Voron、\n\nこれを見つけたら、給水塔の中に陣取れ。チクり屋は現在Freedomと一緒に隠れている。22時に我々はネズミを追い出し、奴はチェックポイントをこっそり通過しようとするだろう。そうされる前に奴を連れ出し、フラッシュドライブを回収しろ。奴の他の部分がどうなろうが構わない。\n\n
+		</text>
+	</string>
+
+	<string id="st_lootbox_note_digger">
+		<text>ケース内のメモ</text>
+	</string>
+	<string id="st_lootbox_note_digger_descr">
+		<text>Yuri、ついに見つけた。Great Swampsにある物資の情報を得て、できる限りのものを手に入れて、なんとか無事に戻ってきた。あそこにはまだ結構な物があるから、もう一度行ってみるつもりだよ。ただBanditを見かけたからSVTを持っていくつもりだ。これが今のところの分け前だ。幸運が訪れることを願ってるよ。 \n\n- Viktor\n\n
+		</text>
+	</string>
+	
+	<string id="st_lootbox_note_birthday">
+		<text>ライフルケース内のメモ</text>
+	</string>
+	<string id="st_lootbox_note_birthday_descr">
+		<text>よう兄弟!\n\n 仲間と俺は、これまで何度も救ってくれたことに感謝してる。お前の誕生日が近いと聞いたので、色々回ってこの新しいおもちゃを用意した。お前が昔のSVUはクソだ、精度が悪い、あれやそれやと文句を言っているのは知ってるから、本物のスナイパーの武器を用意したんだ。楽しめよ！また倉庫に戻ってきたらいつでも飲みに来てくれ。\n\n- Pasha\n\n
+		</text>
+	</string>
+
+	<string id="st_lootbox_note_mikhail">
+		<text>工具箱内のメモ</text>
+	</string>
+	<string id="st_lootbox_note_mikhail_descr">
+		<text>Konstantin、\n\n この道具をマンガンの所に持っていってくれ。道具は不足しているし、ダクトテープと釣り糸でできることは限られているからな。\n\n- Mikhail\n\n
+		</text>
+	</string>
+	
+	<string id="st_lootbox_note_orders">
+		<text>野外保管容器内のメモ</text>
+	</string>
+	<string id="st_lootbox_note_orders_descr">
+		<text>
+			Patriot、\n\nお前の命令は以下の通りだ:\n\n合流地点Beta Rho Niner Two FiveにてShinobiと合流せよ。\n用意された変装道具を使って、POI Kappa Oscarに潜入せよ。通常、外には出入りを管理する軍人がいるが、支給された通貨で買収して通過しろ。\n片方のパッケージはShinobiに渡せ。もう片方は地点Charlieにある燃料タンクに届けろ。タイマーは22時間にセットすること。\n終わり次第Shinobiと再合流して、デブリーフィングのために合流地点Alpha 4に脱出せよ。\n
+		</text>
+	</string>
+
+	<string id="st_lootbox_note_vodka">
+		<text>野外保管容器内のメモ</text>
+	</string>
+	<string id="st_lootbox_note_vodka_descr">
+		<text>
+                        \nウォッカ! お前を強くする!
+			\nウォッカ! もう気分が悪くなることはない!
+			\nウォッカ! お前の目は輝く!
+			\nウォッカ! お前が真の男だ!
+			\nウォッカ! 涙をぬぐいさる!
+			\nウォッカ! 恐れを取り除く!
+			\nウォッカ! 全てが素晴らしい!
+			\nあぁ、ウォッカ!\n
+		</text>
+	</string>
+
+	<string id="st_lootbox_note_transmute">
+		<text>アーティファクトケース内のメモ</text>
+	</string>
+	<string id="st_lootbox_note_transmute_descr">
+		<text>Senior Researcher Pavel、\n\nSenior Researcher Pavel,\n\n「アワーグラス」アーティファクトの変換では、限定的な成功を収めました。「フルーツポンチ」アノマリーでのアーティファクトの反応は予想通りでしたが、続いて「フラッシュ」アーティファクトをフィールドに追加すると、予想外の急激なエネルギーの上昇が起こりました。インターンのAndreychukがひっくり返り、フィールドコンピュータの1台が液体のダメージを受けましたが、幸いにも人員や機器への被害はほとんどありませんでした。しかし残念なことに、我々のスーツやフィールド機器には消えない悪臭が漂っています。新しい装備を調達し、古いスーツはブラックマーケットで販売する予定です。ここに変換用の材料を1つ置いていますが、変換プロセスの調整が済むまでは、次の事件を起こしたくありません。 \n\nStaff Researcher Nikolai \n\n
+		</text>
+	</string>
+	<string id="st_lootbox_note_spooky">
+		<text>アーティファクトケース内のメモ</text>
+	</string>
+	<string id="st_lootbox_note_spooky_descr">
+		<text>Head Professor Sakharov、\n\昨日、Windyという名のストーカーがラボを訪れ、この非常に奇妙なアーティファクトを売ってくれました。彼はこれを「ポルターガイストのエッセンス」だと言っていました。販売者に質問しても口を閉ざしたため、出所は不明です。組成は石英の塊に似ていますが、濡れた砂のように不定形で、サンプルは静止状態では浮いており、近くにある岩などの小さな物体に軽い重力異常を示します。こちらに適切な設備がないため、このサンプルを送って詳細な分析を行ってください。\n\nStaff Researcher Nikolai \n\n
+		</text>
+	</string>
+
+	<string id="st_lootbox_note_spankbank">
+		<text>ブリーフケース内のメモ</text>
+	</string>
+	<string id="st_lootbox_note_spankbank_descr">
+		<text>おい、自分の「仕事」が終わったら、ケースを閉じて掃除をしてくれよ。もし、ページがくっついているのを見つけたら、お前のケツに「ファイアボール」を突っ込んでやるからな。\n\n 
+		</text>
+	</string>
+	
+	<string id="st_lootbox_note_grenade">
+		<text>弾薬箱内のメモ</text>
+	</string>
+	<string id="st_lootbox_note_grenade_descr">
+		<text>Andrey、\n\nこの箱はSpoonerの貯蔵物資から盗んだものだ。彼が勤務中にいつもタバコを吸っているせいで、弾薬庫がそのうち花火大会になるのは必至だからな。この「レモン」を持って、Kuznetsovが配属されている西のCordonのトンネルに行くと、そこにはアーティファクトの入った箱を持ったLonerたちがいる。LyontsovとRomanenkoを連れて行け、あいつらは信用できる。取引が終わったら、この箱を見つけた場所にアーティファクトを置いておく。\n\nSgt. Kovalenko\n\n
+		</text>
+	</string>
+
+	<string id="st_lootbox_note_deathlamp">
+		<text>Monolith保管容器内のメモ</text>
+	</string>
+	<string id="st_lootbox_note_deathlamp_descr">
+		<text>兄弟たちよ 私は光を見た それは魂を燃やし 傷つける 私はそれを聞くことができる それを閉じなければ 私たちは呪われている 光はない 希望はない 痛みと傷だけがある ああ、神よ 痛い あっちへ行け 来るな 助けてくれ 耐えられない 頼むから助けてくれ
+		</text>
+	</string>
+	<string id="st_lootbox_note_tourist">
+		<text>ショットガンロッカー内のメモ</text>
+	</string>
+	<string id="st_lootbox_note_tourist_descr">
+		<text>
+			\n\n2018/9/8
+			\nあのガイドはクソだ！Cordonの間や周りを歩いて帰るだけで料金を取るなんて、とんだぼったくり野郎だ。そのガイドは自分が賢いとでも思っているのか、Cordonのあらゆる出口で「あそこにはブラッドサッカーがいるから行かない方がいい」とか言ってやがる。失せろと言ってやった。こんなところで犬やら豚を撃ってゾーンを満喫する気はない、明日はPyotrと一緒にDarkscapeに行って、本物のミュータントを手に入れるんだ。
+		</text>
+	</string>
+	<string id="st_lootbox_note_mechanic">
+		<text>工具箱内のメモ</text>
+	</string>
+	<string id="st_lootbox_note_mechanic_descr">
+		<text>
+			\n \n Personal log of Andrei Petrenko
+			\n \n 昨日は俺の誕生日だった。俺はゾーンに住み始めてもうすぐ1年になろうとしている。時折、物資を取りに外の世界へ飛び出すこともあるが、ここでの生活が楽しくなってきた。外の世界では尊敬されることなんてなかったが、ここではまとも仕事ができ、仲間から尊敬されるようになってくにつれて、ここでの生活が楽しくなってきた。ここは何か不思議なものがあって、どうやら「テクノロジーや暴力がお嫌い」なようだ。この1年で、ガンスミスとしての10年間よりも多くの銃を洗浄し、メンテナンスしてきた。 
+		</text>
+	</string>
+<string id="st_lootbox_note_chuckecheese">
+		<text>奇妙な箱内のメモ</text>
+	</string>
+	<string id="st_lootbox_note_chuckecheese_descr">
+		<text>
+			 Dr. Arti's Fun Zone (TM)での一日を過ごしていただき、ありがとうございました！=） おみやげもご用意しております。またのお越しをお待ちしております！\n \n \n \n \n
+			*但し、Dr. Artiと Dr. Arti's社製品の不適切な使用や接触による怪我、副作用、結果、現実の永久的な変化については、当社は責任を負いかねます。鼻血、裂傷、打撲、放射線中毒、化学中毒、火傷、凍傷、細胞交換、天然痘、エボラ出血熱、寄生虫、睡眠病、赤痢、ソラナム、COVID-19、COVID-99、直腸癌、身体の一部の損失、増加、突然変異、感覚の喪失または獲得、消化不良、便秘、神化、アルコール中毒、薬物中毒、不本意な女性化または男性化、薬物依存症。薬物中毒、不本意な女性化または男性化、夜驚症、昼驚症、アブラハム的またはその他の存在の発現、平行次元への不本意な移動、平行次元からの不本意な導入、突然の恐怖または陶酔感、シミュレーションの中で生きているという認識からくる不安、または下痢。詳しくは、カスタマーサポートライン（0x12182fa31-51249）にお問い合わせいただくか、P.O. Box 25251, Ganymede NJまで郵送でお問い合わせください。
+		</text>
+	</string>
+	<string id="st_lootbox_docs_sheet">
+		<text>ばらばらの書類</text>
+	</string>
+	
+	<string id="st_lootbox_docs_sheets">
+		<text>古びた書類</text>
+	</string>
+
+	<string id="st_lootbox_docs_notebook">
+		<text>研究メモ</text>
+	</string>
+	
+	<string id="st_lootbox_docs_folder">
+		<text>書類のフォルダー</text>
+	</string>
+	
+	<string id="st_lootbox_docs_usb">
+		<text>フラッシュドライブ</text>
+	</string>
+
+<string id="st_lootbox_docs_sheet1_descr">
+		<text>軍情報部のバラバラの文書。情報は暗号化されているが、これは軍の標準的な手順であり、無線がない中でこれらの文書を輸送し、手作業か特殊な装置で復号化するのである。そのため、素人に利用価値はない。しかし、とあるグループは、軍が使用する暗号にアクセスできるという噂がある。SSUはこれを取り戻したいと思っているだろうが、他のグループもこれを大いに利用するかもしれない。</text>
+	</string>
+	
+	<string id="st_lootbox_docs_sheet2_descr">
+		<text>研究室のノートにあった古いバラバラのノート。一部の関係者には興味深いかもしれないが、それ以外には使えない。手書きで、汚く、適切でない環境で保管されていたため、所々読めなくなっている。科学者は興味を持つかもしれない。</text>
+	</string>
+
+	<string id="st_lootbox_docs_sheet3_descr">
+		<text>かなり状態の悪いバラバラの書類。複雑な実験装置のような図が描かれている。液体の染みで汚れており、テキストのほとんどが判読できなくなっているが、それでもわずかな価値はあるかもしれない。</text>
+	</string>
+
+	<string id="st_lootbox_docs_sheet4_descr">
+		<text>どの商品をどれだけの量、どの場所に輸送したかを詳細に記したバラバラの輸送伝票。見た目は新しいが、最近生産されたのか、たまたま乾燥した環境で保管されていたのかは分からない。残念ながら、品目はコードでしか参照できないが、その品目の横にある価格はなかなか興味深い。</text>
+	</string>
+
+	<string id="st_lootbox_docs_sheet5_descr">
+		<text>暗号化された2人の当事者間で行われた、何らかのタイプの通信。暗号化されたコールサインを除き、双方の識別マークは存在しない。Mercenaryは、関係者全員の絶対的な秘密と匿名性を確保するために、ワンタイムパッドやデッドドロップを使ってこの方法で情報をやり取りすることが多い。</text>
+	</string>
+	<string id="st_lootbox_docs_notebook1_descr">
+		<text>科学的な観察とスケッチを行ったフィールドノート。数ページが暗号化されている。中身の情報は、特定の人が興味を持つ可能性が高い。</text>
+	</string>
+<string id="st_lootbox_docs_notebook2_descr">
+		<text>どこかの管理棟にあった古い書類の厚い束。この中にある情報のほとんどは、給与明細やありふれた報告書、印刷物のような、どちらかといえばありふれたものである。この中には、役に立つ情報があるかもしれないが、それを見つけるにはかなりの時間と忍耐が必要だ。</text>
+	</string>
+	<string id="st_lootbox_docs_notebook3_descr">
+		<text>このノートには会計情報が記載されているが、セキュリティ上の理由から、記載内容は暗号化されている。軍か、この地域で活動する独立グループのものと思われる。このような文書が悪人の手に渡ると非常に危険である。</text>
+	</string>
+	<string id="st_lootbox_docs_notebook4_descr">
+		<text>X-Labの1つ、またはそれに隣接する場所から回収された古いノートブック。 第2次世界大戦前の活動の実態を明らかにするもので、科学者グループにとって大きな価値がある。</text>
+	</string>
+	<string id="st_lootbox_docs_folder_descr">
+		<text>実験記録、観察結果、スケッチなど、科学的な情報を含む複数の文書が入ったフォルダー。ほとんどの文書は暗号化されており、読むことはできない。 </text>
+	</string>
+	
+	<string id="st_lootbox_docs_usb_descr">
+		<text>ブリーフケースに入っていたフラッシュドライブ。大容量の情報を保存して持ち運べる一般的な方法だが、情報にアクセスするにはコンピュータが必要。</text>
+	</string>
+</string_table>

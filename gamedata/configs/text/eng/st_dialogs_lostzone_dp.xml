@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--===========================================================
+<
+< TEXT STRINGS FOR LOST TO THE ZONE: DARK PRESENCE TASK
+<	Anomaly 1.5 - Lost to the Zone: Dark Presence
+<
+<	Made by: SarisKhan
+<	Last revised: 29 October 2020
+<
+<===========================================================-->
+
+<string_table>
+
+<!-- Radogost -->
+	<string id="mil_greh_radogost_dialog_0">
+		<text>ようこそ、ストーカー。どうぞ、お座りください。</text>
+	</string>
+	
+	<string id="mil_greh_radogost_st_0">
+		<text>来てくれたことに感謝します。</text>
+	</string>
+	<string id="mil_greh_radogost_st_1">
+		<text>これは驚いた。Sinの友好的なメンバーに会えるとは思っていなかった。お前は誰だ？</text>
+	</string>
+	<string id="mil_greh_radogost_st_11">
+		<text>あんたは誰だ？教えてくれ。</text>
+	</string>
+	<string id="mil_greh_radogost_st_111">
+		<text>何を言ってる！？あんたを撃たない理由を教えてくれ！カウントダウンを始めるぞ！</text>
+	</string>
+	<string id="mil_greh_radogost_st_2">
+		<text>あなたの姿勢に希望を感じます。私の名はラドゴスト。Sinの創設メンバーの一人であり、この平和な共同体のリーダーである。私はマスターから癒しの力を授かり、あらゆる物理的なダメージを瞬時に修復することができるようになりました。その力を最大限に生かすべく、日々精進しているところです。とはいえ、困ったときはいつでも私を頼ってください。</text>
+	</string>
+	<string id="mil_greh_radogost_st_22">
+		<text>はい、もちろんです。私の名前はラドゴスト。Sinの創設メンバーの一人であり、この平和な共同体のリーダーである。私はマスターから癒しの力を授かり、あらゆる物理的なダメージを瞬時に修復することができるようになりました。その力を最大限に生かすべく、日々邁進しております。まあ、それはともかく。</text>
+	</string>
+	<string id="mil_greh_radogost_st_222">
+		<text>お願いします！暴力は必要ありません！聞いてください 私の名前はラドゴストです。私はSin創設メンバーの一人であり、この平和な共同体のリーダーです。私はマスターから癒しの力を授かり、あらゆる物理的なダメージを瞬時に修復することができるようになりました。その力を最大限に活かすべく、日々邁進しているところです。もしかしたら、あの殺戮を避けられたかもしれないのに...。</text>
+	</string>
+	
+	<string id="mil_greh_radogost_dark_presence_0">
+		<text>じゃあ、どうして俺に連絡を？あんたがあの不気味なPDAメッセージを送ってるのか？</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_1">
+		<text>もちろん、私ではないのですが、その出所がどこであるかは知っているつもりです。</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_2">
+		<text>聞いてるよ</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_3">
+		<text>ゾーンを旅して冒険している間に、あなたはマスターのしもべたちをたくさん殺しました。彼らの肉体は滅びましたが、その魂はヴァイラジに昇華しました。その温かく聖なる光は 死を重ねるごとに熱くなり、焼けつくように熱く</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_4">
+		<text>なかなか突飛な話だな。</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_5">
+		<text>理解してください。ゾーンは本当に奇跡的な場所なのです。人間の心と思考を結びつけ、反映させる全地球的規模の場の中心点なのです。その影響力は計り知れません 昔は平和な場所でしたが 今は違います\n \n私たちの父、チェルノボグはかつて優しいリーダーでした。私たちは皆、ヴァイラジの静かな領域に住んで満足していた。しかし、"ストレロック "と呼ばれる男が 我々の主人たちを殺したとき、 彼の思考は歪み、毒された。彼は怒りと憎しみに駆られ、復讐に没頭したのです。ゾーンは煮えたぎっていました。幸いにもあなたは血の聖戦を鎮め、暴力による混乱は収まりました 一時的にですが。\n \n
+やがて私は、憎しみに満ちた、抑圧的な存在を感じるようになりました。最初は不明瞭でしたが、徐々に強くなり、エネルギーがたまっていくかのように広がっていきました。 非人間的な怒りと憎しみが ゾーンに浸透し空気に電流が走るように感じた・・・血を求める地獄のような声も聞こえました。ある日、その"闇の存在 "は従順な同胞の心を奪い、残忍な奴隷と化しました。私たちだけが逃げ延びた。
+\n \n聞いてください！ゾーンが再び煮えたぎっています。想像を絶する大惨事が、待ち受けています。ダークバレーと呼ばれる地上にある施設へ行き、手遅れになる前に 闇を止めてください！</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_6">
+		<text>何を言ってるかわからないな。</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_7">
+		<text>お願いです！Dutyの戦士としてあなたはきっとこの状況の重大さを理解しているはずだ！時間が経てば闇の存在は巨大な脅威となる！</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_71">
+		<text>お願いです！これは個人的な利益を超えて、確実にあなたのキャリアへの悪影響が及びますよ！</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_72">
+		<text>お願いです！これは個人的な利益を超えて、確実にあなたの将来の冒険の障害となるでしょう!</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_73">
+		<text>お願いです！Clear skyの一員として、この事態の深刻さを理解しているはずです。時間がたてば、必ず闇の存在はゾーンを崩壊させます！</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_74">
+		<text>お願いです！Freedomの一員として、ゾーンという奇跡をこの世の地獄にするわけにはいかないでしょう！。</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_75">
+		<text>お願いです！科学者であるあなたなら、この事態の深刻さを理解しているはずです。時間が経てば、必ず闇の存在がゾーンを崩壊させます！</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_8">
+		<text>なるほど、教えてくれて感謝する。俺は状況を調査する。トラブルに巻き込まれないようおとなしくしてるんだな。</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_81">
+		<text>分かった。あんたを信用できるかどうかわからないが、調査してみるよ。その間に、もっと人里離れた場所を選んで住み着いた方がいい。そして、私があんたの存在を忘れると思わないように。</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_811">
+		<text>警告に一応感謝しとく。状況を調査しに行くが、もっと差し迫った脅威があるんでな。私が最初に対処するから、祈っててくれ。</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_9">
+		<text>ありがとうございます！これを持っていってください。 このヴァイラジの果実が 闇の存在の邪悪な影響から、私たちを守ってくれたのです。あなたの幸運を祈ります。</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_901">
+		<text>ありがとうございます。あなたが捕らわれた兄弟に慈悲を与えた時から、あなたの中に特別な善意があることは知っていました。これを持って行ってください。このヴァイラジの果実が 闇の存在の邪悪な影響から私たちを守ってくれたのです。あなたの幸運を祈ります。</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_91">
+		<text>過激な同胞が、我々の信頼を地の底に落としてしまったのでしょうね・・・。捕らわれの身の兄弟を助けたから、許してくれると思っていたのですが・・・わかりました、我らは去ります、二度と現れないように。</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_92">
+		<text>過激な同胞が、我々の信頼を地の底に落としてしまったのでしょうね・・・。わかりました、我らは去ります、二度と現れないように。</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_911">
+		<text>おそらく、私は判断を誤ったのでしょうね。結局、我々の父はより些細な悪であったのかもしれない......</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_912">
+		<text>おそらく、私は判断を誤ったのでしょうね。捕らわれの身の兄弟を殺すことを選んだのは必要性からではなく、冷酷さからだったのですね・・・結局、我々の父はより些細な悪であったのかもしれない......</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_101">
+		<text>その方がいい、じゃあな。</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_1011">
+		<text>好きなように解釈しろ。私は自分のことで精いっぱいなんでな。</text>
+	</string>
+
+	<string id="mil_greh_radogost_heal_0">
+		<text>治療が必要だ。</text>
+	</string>
+	<string id="mil_greh_radogost_heal_1">
+		<text>治療させてください。</text>
+	</string>
+	<string id="mil_greh_radogost_heal_2">
+		<text>あなたの体は完璧な状態です。病んでいるのはあなたの心かもしれません。</text>
+	</string>
+	<string id="mil_greh_radogost_heal_3">
+		<text>[続ける...]</text>
+	</string>
+	<string id="mil_greh_radogost_heal_4">
+		<text>あなたの身体の傷を癒やしました。</text>
+	</string>
+	
+	<string id="mil_greh_radogost_dark_presence_final_0">
+		<text>やあ、ラドゴスト。なかなかの体験だったが、なんとかその...アレを処理することができた。</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_final_1">
+		<text>素晴らしい！ とてもうれしいです。闇の勢力が、怒りと憎しみと敵意でゾーンを汚していたのです。これでやっと平和に暮らせます</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_final_2">
+		<text>気にするな</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_final_3">
+		<text>努力した分、報われるべきでしょう。これを感謝の印として 受け取ってください ゾーンがあなたに良い影響を与えますように。</text>
+	</string>
+	<string id="mil_greh_radogost_dark_presence_final_4">
+		<text>ありがとう、じゃあな</text>
+	</string>
+	
+	<!-- dark presence -->
+	<string id="x18_dark_presence_dialog_0">
+		<text>来たのか...当然だな...。</text>
+	</string>
+	<string id="x18_dark_presence_dialog_1">
+		<text>クソ！... だが、実体のない声で話すのは初めてじゃないな。ラドゴストが言ってた "闇の存在 "とはあんたのことか？</text>
+	</string>
+	<string id="x18_dark_presence_dialog_111">
+		<text>クソ！... だが、実体のない声で話すのは初めてじゃないな。シンのクズが喚いてた「闇の存在」ってのはお前か？</text>
+	</string>
+	<string id="x18_dark_presence_dialog_2">
+		<text>[...]</text>
+	</string>
+	<string id="x18_dark_presence_dialog_3">
+		<text>... わかった、イエスということだな。Dutyの兵士として、私の使命は、お前のような脅威を排除することだ。化け物め。</text>
+	</string>
+	<string id="x18_dark_presence_dialog_31">
+		<text>... わかった、イエスということだな。ダッシュマンからあんたを殺す契約はしていない。これは私の意志だ</text>
+	</string>
+	<string id="x18_dark_presence_dialog_32">
+		<text>... わかった、イエスということだな。ルーキー村の連中は信じないだろうが、これが終わったらお前のことを話そうと思う。</text>
+	</string>
+	<string id="x18_dark_presence_dialog_33">
+		<text>... わかった、イエスということだな。Clear skyの主な目標の1つはゾーンを制圧することだ。もちろんお前も例外じゃない。</text>
+	</string>
+	<string id="x18_dark_presence_dialog_34">
+		<text>... なるほどな、イエスととるぜ。俺は今のゾーンが気に入ってるから、あんたを停止させるぜ。</text>
+	</string>
+	<string id="x18_dark_presence_dialog_35">
+		<text>... わかった、イエスということだな。これは私の専門外のことだが、このような重大な脅威を無視することはできない。</text>
+	</string>
+	<string id="x18_dark_presence_dialog_4">
+		<text>お前... お前は...私を...我々を...止めることはできない。たとえお前が... Monolithの...敵だとしても！たとえお前が...正義の同胞の血を流しても...結局は、お前がこれを引き起こしたんだ。お前は、私の... 我々の！...創造物だ、人間よ</text>
+	</string>
+	<string id="x18_dark_presence_dialog_5">
+		<text>なんだと？どうやって？</text>
+	</string>
+	<string id="x18_dark_presence_dialog_6">
+		<text>私は、我々は、私は、我々は、アマルガム...集合体...ゲシュタルト...堕落者である。我々は昇天したのだ そして共に我々は... 強靭なMonolithの力を利用し、ヴァイラジの聖なる光で世界を浄化するのだ！</text>
+	</string>
+	<string id="x18_dark_presence_dialog_6_alt">
+		<text>私は、我々は、私は、我々は、アマルガム...集合体...ゲシュタルト...敵も味方も同じだ。我々は昇天したのだ。そして共に強靭なMonolithの力を利用し、ヴァイラジの聖なる光で世界を浄化するのだ！</text>
+	</string>
+	<string id="x18_dark_presence_dialog_7">
+		<text>ここまできたらもう後戻りはできない。お前という芽は刈り取らせてもらう。</text>
+	</string>
+	<string id="x18_dark_presence_dialog_8">
+		<text>ヤメロ！</text>
+	</string>
+	<string id="x18_dark_presence_dialog_9">
+		<text>脅しには乗らない！終止符を打つ時だ。</text>
+	</string>
+	<string id="x18_dark_presence_dialog_10">
+		<text>そうだ...そうだ... 死ね！</text>
+	</string>
+	<string id="x18_dark_presence_dialog_11">
+		<text>お先に死んでくれ。</text>
+	</string>
+
+</string_table>

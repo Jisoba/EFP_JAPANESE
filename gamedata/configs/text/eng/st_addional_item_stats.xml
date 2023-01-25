@@ -1,0 +1,8 @@
+<string_table>
+	<string id="ui_inv_thirst">
+		<text>喉の渇き度</text>
+	</string>
+	<string id="ui_inv_sleep">
+		<text>睡眠度</text>
+	</string>
+</string_table>

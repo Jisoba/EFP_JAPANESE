@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<string id="ui_mcm_menu_igi_tasks">
+		<text>Igi Tasks</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_title">
+		<text>Igi Tasks</text>
+	</string>
+
+	<string id="ui_mcm_menu_Options">
+		<text>オプション</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_Options_autocomplete">
+		<text>自動完了</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_Options_realistic_assassinations">
+		<text>(Arszi's) リアルな暗殺</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_Options_debug">
+		<text>デバッグモード(FPS低下の可能性があります)</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_Options_autosave_before">
+		<text>タスク受注時にセーブする</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_Options_autosave_after">
+		<text>タスク完了時にセーブする</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_Options_reset_all">
+		<text>タスクパックの設定をすべてリセットする</text>
+	</string>
+
+	<string id="ui_mcm_igi_tasks_disable_task">
+		<text>無効化</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_cancel_all">
+		<text>すべての進行中のクエストをクリアする</text>
+	</string>
+
+	<string id="ui_mcm_igi_tasks_task_pack_general_title">
+		<text>その他</text>
+	</string>
+
+	<string id="ui_mcm_igi_tasks_static_rewards_title">
+		<text>固定報酬</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_static_rewards_desc">
+		<text>>>> これらの値は、フレームワーク自身のランダムな報酬を置き換えるものです。</text>
+	</string>
+
+	<string id="ui_mcm_igi_tasks_rewards_modifiers_title">
+		<text>報酬の調整</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_rewards_modifiers_desc">
+		<text>>>> これらの調整は、固定報酬とランダム報酬の両方で機能します。報酬をランダムなものにせずに変更したい場合は、これらを変更します。
+		</text>
+	</string>
+
+	<string id="ui_mcm_igi_tasks_Options_money_reward_coeff">
+		<text>報酬倍率</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_Options_reward_spread_min">
+		<text>報酬のばらつき(下限)</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_Options_reward_spread_max">
+		<text>報酬のばらつき (上限)</text>
+	</string>
+
+	<string id="ui_mcm_igi_tasks_reward_money">
+		<text>報酬金</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_reward_goodwill">
+		<text>信頼度</text>
+	</string>
+
+	<string id="ui_mcm_igi_tasks_add_money">
+		<text>追加報酬金</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_mult_money">
+		<text>報酬金倍率</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_add_goodwill">
+		<text>追加信頼度</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_mult_goodwill">
+		<text>報酬信頼度倍率</text>
+	</string>
+</string_table>

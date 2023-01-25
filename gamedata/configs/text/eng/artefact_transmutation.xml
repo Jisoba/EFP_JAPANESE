@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+    <string id="st_transmutation_no_recipe_found">
+        <text>%c[d_orange][通知]:%c[default]該当するレシピが存在しない</text>
+    </string>
+
+    <string id="st_transmutation_success">
+        <text>%c[d_green][通知]:%c[default] 変成に成功 結果: %c[d_orange]$result%c[default].</text>
+    </string>
+
+    <string id="st_transmutation_low_tier">
+        <text>%c[d_red][エラー]:%c[default] この変性を行うには対象のティアが足りない</text>
+    </string>
+
+    <string id="st_transmutator_recipe_already_installed">
+        <text>%c[d_red][エラー]:%c[default] このレシピはすでにインストールされている</text>
+    </string>
+
+    <string id="st_transmutator_condition_failed">
+        <text>%c[d_red][エラー]:%c[default] 変成条件に該当しない</text>
+    </string>
+
+    <string id="st_transmutator_recipe_installed">
+        <text>%c[d_green][通知]:%c[default] レシピのインストールに成功した</text>
+    </string>
+
+    <string id="st_transmutator_scan_result_success">
+        <text>%c[d_green][通知]:%c[default] スキャン成功: \n</text>
+    </string>
+
+    <string id="st_transmutator_scan_template">
+        <text>・%s \n</text>
+    </string>
+
+	<string id="st_transmutator_scan_unknown">
+		<text>不明</text>
+	</string>
+
+    <string id="st_transmutation_scan_result_failed">
+        <text>%c[d_orange][通知]:%c[default]アノマリーが検知できなかったため、中止された</text>
+    </string>
+
+    <string id="st_transmutator">
+        <text>変成モジュール</text>
+    </string>
+
+    <string id="st_transmutator_descr">
+        <text>検出器にインストールでき、アーティファクトの変性に使用されるデバイス。</text>
+    </string>
+
+    <string id="st_transmutator_installed">
+        <text>%c[d_green]変性モジュールをインストールした \n\n</text>
+    </string>
+
+    <string id="st_transmutator_not_installed">
+        <text>%c[d_red]変性モジュールがインストールされていない \n\n</text>
+    </string>
+
+    <string id="st_transmutation_installed_recipes">
+        <text>\n\nインストール済みのレシピ:</text>
+    </string>
+
+    <string id="st_recipe_hides_all">
+        <text>皮レシピ I</text>
+    </string>
+    <string id="st_recipe_hides_all_descr">
+        <text>使い古したようなチップには、ミュータントの皮とゾーン内のアノマリーとの相互作用に関する多くのメモが含まれている。
+		/nOn これらの「レシピ」は、多くのストーカーによって書かれ、収集されたもので、そのほとんどは、元素の危険に近接したときに、ゾーンを歩き回るさまざまなミュータントの脅威との幸運とそうじゃないものの相互作用について書かれている。</text>
+    </string>
+
+    <string id="st_recipe_fire">
+        <text>炎レシピ I</text>
+    </string>
+    <string id="st_recipe_fire_descr">
+        <text>小型のチップ。内容は、一般的な炎系アーティファクトの重要な特性と、ゾーン内のさまざまな環境変化のリスクとの相互作用が記載されている。
+		/n研究資料には、高密度の火の粉を浴びて他の物質と接触したときに、アーティファクトの能力を最大限に引き出し、変性させる可能性のある一連のパターンが記されている。</text>
+    </string>
+
+    <string id="st_recipe_advanced_fire">
+        <text>炎レシピ II</text>
+    </string>
+    <string id="st_recipe_advanced_fire_descr">
+        <text>小型のチップ。特異的な反応で増幅され、変質や突然変異を引き起こす可能性のある炎系アーティファクトの内部融合の発見についての情報が含まれている。
+		/nこのチップの研究資料の内容はより高度なもので、ドキュメントに記載されている多くの用語やキーワードは理解することはできないが、アーティファクトの実験で考えられる組み合わせや結果は、それらに使われている強調文字で判断すれば理解できるだろう。</text>
+    </string>
+
+    <string id="st_recipe_expert_fire">
+        <text>炎レシピ III</text>
+    </string>
+    <string id="st_recipe_expert_fire_descr">
+        <text>小型のチップ。内部の不活性コアの研究、活性化のプロセス、そしてそのプロセスが様々な炎系アーティファクトに与えるプラスとマイナスの影響に関する様々な研究成果が含まれている。
+		/nこのチップの研究文書には、コアを活性化させる試みが何度も失敗したこと、アーティファクトの性質を強制的に変化させる実験が残した多くの結果について書かれている。
+		/nOn この実験の良い点は、人工的に活性化させたアーティファクトが、ゾーンの外の世界にも良い影響を与えたということだ。
+		/nIt 同時に、特定のアーティファクトがその元素に縛られない特性を保有していることにも触れられているが、この効果を引き起こす方法は発見されていないようだ。</text>
+    </string>
+
+    <string id="st_recipe_electra">
+        <text>電気レシピ I</text>
+    </string>
+    <string id="st_recipe_electra_descr">
+        <text>小型のチップ。低ティアの電気系アーティファクトの重要な特性や、ゾーン内のさまざまな環境変化のリスクとの相互作用が記載されている。
+		/n研究資料には、高密度の火の粉を浴びて他の物質と接触したときに、アーティファクトの能力を最大限に引き出し、変性させる可能性のある一連のパターンが記されている。</text>
+    </string>
+
+    <string id="st_recipe_advanced_electra">
+        <text>電気レシピ II</text>
+    </string>
+    <string id="st_recipe_advanced_electra_descr">
+        <text>小型のチップ。特異的な反応で増幅され、変質や突然変異を引き起こす可能性のある電気系アーティファクトの内部融合の発見についての情報が含まれている。
+		/nこのチップの研究資料の内容はより高度なもので、ドキュメントに記載されている多くの用語やキーワードは理解することはできないが、アーティファクトの実験で考えられる組み合わせや結果は、それらに使われている強調文字で判断すれば理解できるだろう。</text>
+    </string>
+
+    <string id="st_recipe_expert_electra">
+        <text>電気レシピ III</text>
+    </string>
+    <string id="st_recipe_expert_electra_descr">
+        <text>小型のチップ。内部の不活性コアの研究、活性化のプロセス、そしてそのプロセスが様々な電気系アーティファクトに与えるプラスとマイナスの影響に関する様々な研究成果が含まれている。
+		/nこのチップの研究文書には、コアを活性化させる試みが何度も失敗したこと、アーティファクトの性質を強制的に変化させる実験が残した多くの結果について書かれている。
+		/nOn この実験の良い点は、人工的に活性化させたアーティファクトが、ゾーンの外の世界にも良い影響を与えたということだ。
+		/nIt 同時に、特定のアーティファクトがその元素に縛られない特性を保有していることにも触れられているが、この効果を引き起こす方法は発見されていないようだ。</text>
+    </string>
+
+    <string id="st_recipe_chemi">
+        <text>化学レシピ I</text>
+    </string>
+    <string id="st_recipe_chemi_descr">
+        <text>小型のチップ。低ティアの電気系アーティファクトの重要な特性や、ゾーン内のさまざまな環境変化のリスクとの相互作用が記載されている。
+		/n研究資料には、高密度の火の粉を浴びて他の物質と接触したときに、アーティファクトの能力を最大限に引き出し、変性させる可能性のある一連のパターンが記されている。</text>
+    </string>
+
+    <string id="st_recipe_advanced_chemi">
+        <text>化学レシピ II</text>
+    </string>
+    <string id="st_recipe_advanced_chemi_descr">
+        <text>小型のチップ。特異的な反応で増幅され、変質や突然変異を引き起こす可能性のある化学系アーティファクトの内部融合の発見についての情報が含まれている。
+		/nこのチップの研究資料の内容はより高度なもので、ドキュメントに記載されている多くの用語やキーワードは理解することはできないが、アーティファクトの実験で考えられる組み合わせや結果は、それらに使われている強調文字で判断すれば理解できるだろう。</text>
+    </string>
+
+    <string id="st_recipe_expert_chemi">
+        <text>化学レシピ III</text>
+    </string>
+    <string id="st_recipe_expert_chemi_descr">
+        <text>小型のチップ。内部の不活性コアの研究、活性化のプロセス、そしてそのプロセスが様々な化学系アーティファクトに与えるプラスとマイナスの影響に関する様々な研究成果が含まれている。
+		/nこのチップの研究文書には、コアを活性化させる試みが何度も失敗したこと、アーティファクトの性質を強制的に変化させる実験が残した多くの結果について書かれている。
+		/nOn この実験の良い点は、人工的に活性化させたアーティファクトが、ゾーンの外の世界にも良い影響を与えたということだ。
+		/nIt 同時に、特定のアーティファクトがその元素に縛られない特性を保有していることにも触れられているが、この効果を引き起こす方法は発見されていないようだ。</text>
+    </string>
+
+    <string id="st_recipe_gravi">
+        <text>重力レシピ I</text>
+    </string>
+    <string id="st_recipe_gravi_descr">
+        <text>小型のチップ。低ティアの重力系アーティファクトの重要な特性や、ゾーン内のさまざまな環境変化のリスクとの相互作用が記載されている。
+		/n研究資料には、高密度の火の粉を浴びて他の物質と接触したときに、アーティファクトの能力を最大限に引き出し、変性させる可能性のある一連のパターンが記されている。</text>
+    </string>
+
+    <string id="st_recipe_advanced_gravi">
+        <text>重力レシピ II</text>
+    </string>
+    <string id="st_recipe_advanced_gravi_descr">
+        <text>小型のチップ。特異的な反応で増幅され、変質や突然変異を引き起こす可能性のある重力系アーティファクトの内部融合の発見についての情報が含まれている。
+		/nこのチップの研究資料の内容はより高度なもので、ドキュメントに記載されている多くの用語やキーワードは理解することはできないが、アーティファクトの実験で考えられる組み合わせや結果は、それらに使われている強調文字で判断すれば理解できるだろう。</text>
+    </string>
+
+    <string id="st_recipe_expert_gravi">
+        <text>重力レシピ III</text>
+    </string>
+    <string id="st_recipe_expert_gravi_descr">
+        <text>
+		小型のチップ。内部の不活性コアの研究、活性化のプロセス、そしてそのプロセスが様々な重力系アーティファクトに与えるプラスとマイナスの影響に関する様々な研究成果が含まれている。
+		/nこのチップの研究文書には、コアを活性化させる試みが何度も失敗したこと、アーティファクトの性質を強制的に変化させる実験が残した多くの結果について書かれている。
+		/nOn この実験の良い点は、人工的に活性化させたアーティファクトが、ゾーンの外の世界にも良い影響を与えたということだ。
+		/nIt 同時に、特定のアーティファクトがその元素に縛られない特性を保有していることにも触れられているが、この効果を引き起こす方法は発見されていないようだ。
+		</text>
+    </string>
+
+    <string id="st_recipe_compass_guide">
+        <text>
+			謎のレシピ
+		</text>
+    </string>
+    <string id="st_recipe_compass_guide_descr">
+        <text>
+			中身は不明だが、サイズや外見は他のチップと同じである謎のチップ。
+		</text>
+    </string>
+
+    <string id="st_recipe_death_bound">
+        <text>
+			謎のレシピ
+		</text>
+    </string>
+    <string id="st_recipe_death_bound_descr">
+        <text>
+			中身は不明だが、サイズや外見は他のチップと同じである謎のチップ。
+		</text>
+    </string>
+
+    <string id="st_recipe_hope_heart">
+        <text>
+			謎のレシピ
+		</text>
+    </string>
+    <string id="st_recipe_hope_heart_descr">
+        <text>
+			中身は不明だが、サイズや外見は他のチップと同じである謎のチップ。
+		</text>
+    </string>
+
+    <string id="st_recipe_pain_train">
+        <text>
+			謎のレシピ
+		</text>
+    </string>
+    <string id="st_recipe_pain_train_descr">
+        <text>
+			中身は不明だが、サイズや外見は他のチップと同じである謎のチップ。
+		</text>
+    </string>
+
+    <string id="st_transmutation_no_recipes">
+        <text>
+			%c[d_orange]この変性モジュールにはレシピがインストールされていない
+		</text>
+    </string>
+	
+	<string id="st_detach_transmutator">
+		<text>
+			変性器を取り外す
+		</text>
+	</string>
+
+
+	<string id="encyclopedia__notes_recipe_transmutation_basic_fire_text">
+		<text>
+			%c[pda_white]基本的な炎系アーティファクト変性
+			\n%c[pda_green]情報%c[ui_gray_1]
+			\nアーティファクトの特性に関する初期の科学的研究は、アーティファクトを自然の状態に近い状態にすることで、より高いレベルの効率に到達させる可能性を明らかにした。\n
+			\n高温高圧にさらされることで、アーティファクトはより強く、より強化されたものへと変異する可能性がある。\n
+			\n試行錯誤の結果、我々が「低ティア」と称するアーティファクトは、破滅的な災害を引き起こす可能性が非常に低く、扱いやすものであると考えられている。\n
+			\n%c[pda_blue]潜在的な変性組み合わせ%c[ui_gray_1]\n
+			\n・「アイ」 (「ママズビアード」+ 「ドッグ」の心臓」)
+			\n・「ファイヤボール」 (「クリスタル + 「フレッシュ」の肉)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_advanced_fire_text">
+		<text>
+			%c[pda_white]高度な炎系アーティファクト変性
+			\n%c[pda_green]情報%c[ui_gray_1]
+			\nさらにアーティファクトの実験を進めた結果、同じような性質を持つアーティファクトを融合して能力を向上させることができるようになった。\n
+			\n異なる要素のアーティファクトを組み合わせると、全く別のアーティファクトになったり、周囲のものを破壊してしまったりすることがある。\n
+			\n科学研究所の設備は十分耐えうるものだが、それ以外の環境での実験は推奨しない。\n
+			\n%c[pda_blue]潜在的な変性組み合わせ%c[ui_gray_1]\n
+			\n・「フレイム」 (「アイ」 + ブラッドサッカーの心臓 + 「ドッグの心臓」)
+			\n・「ピン」 (「ファイヤボール」 + ルーカーの尻尾 + 「フレッシュ」の肉)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_expert_fire_text">
+		<text>
+			%c[pda_white]専門的な炎系アーティファクト変性
+			\n%c[pda_green]情報%c[ui_gray_1]
+			\n最後の科学実験により、アーティファクトの核の内部にある非活性コアが発見された。このコアは起動時に大量の放射線を放出し、アーティファクトを不安定にして破壊する可能性がある。\n
+			\n我々が「変性（トランスミューテーション）」と定義するこのプロセスは、慎重に隔離された安全な環境で行うことが強く推奨されるもので、この進化をアーティファクトに強いることは非常に危険である。\n
+			\nある科学者は、対象のアーティファクトに近い要素を含む環境でこの実験を行ったと報告しているが、この説はまだ立証されていない。\n
+			\n%c[pda_blue]潜在的な変性組み合わせ%c[ui_gray_1]\n
+			\n・「ドラゴンズアイ」 (「フレイム」 + キメラの心臓 + ブラッドサッカーの心臓 + 「ドッグの心臓」)
+			\n・「イッチャー」 (「ピン」 + サイサッカーの手 + ルーカーの尻尾 + 「フレッシュ」の肉)
+			\n・「サン」 (「ランプ + スードウジャイアントの皮 + キメラの皮 + 「ボア」の皮)
+		</text>
+	</string>
+
+	<string id="encyclopedia__notes_recipe_transmutation_basic_electra_text">
+		<text>
+			%c[pda_white]基本的な電気系アーティファクト変性
+			\n%c[pda_green]情報%c[ui_gray_1]
+			\nアーティファクトの特性に関する初期の科学的研究は、アーティファクトを自然の状態に近い状態にすることで、より高いレベルの効率に到達させる可能性を明らかにした。\n
+			\n高電圧や高圧にさらされることで、アーティファクトはより強く、より強化されたものへと変異する可能性がある。\n
+			\n試行錯誤の結果、我々が「低ティア」と称するアーティファクトは、破滅的な災害を引き起こす可能性が非常に低く、扱いやすいものであると考えられている。\n
+			\n%c[pda_blue]潜在的な変性組み合わせ%c[ui_gray_1]\n
+			\n・「セル」 (「コクーン」 + 「フレッシュ」の皮)
+			\n・「スパーク」 (テープワーム + 「フレッシュ」の肉)
+			\n・「スノーフレーク」 (「メダル」 + キメラの爪)
+			\n・「ジェリーフィッシュ」 (「モス」 + 「フレッシュ」の目)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_advanced_electra_text">
+		<text>
+			%c[pda_white]高度な電気系アーティファクト変性
+			\n%c[pda_green]情報%c[ui_gray_1]
+			\nさらにアーティファクトの実験を進めた結果、同じような性質を持つアーティファクトを融合して能力を向上させることができるようになった。\n
+			\n異なる要素のアーティファクトを組み合わせると、全く別のアーティファクトになったり、周囲のものを破壊してしまったりすることがある。\n
+			\n科学研究所の設備は十分耐えうるものだが、それ以外の環境での実験は推奨しない。\n
+			\n%c[pda_blue]潜在的な変性組み合わせ%c[ui_gray_1]\n
+			\n・「バッテリー」 (「レンチ」 + ブラッドサッカーの肉+ サイサッカーの手)
+			\n・「ムーンライト」 (「ムーン」 + バーラーの皮 + バーラーの手)
+			\n・「エレクトロン」 (「スノーフレーク」 + キメラの角 + キメラの爪)
+			\n・「ランプ」 (「グラヴィ」 + キメラの皮 + 「ボア」の皮)
+			\n・「ファイヤフライ」 (「コロボック」 + ブラッドサッカーの心臓 + 「ドッグの心臓」)
+			\n・「リング」 (「スパーク」 + ルーカーの尻尾 + 「フレッシュ」の肉)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_expert_electra_text">
+		<text>
+			%c[pda_white]専門的な電気系アーティファクト変性
+			\n%c[pda_green]情報%c[ui_gray_1]
+			\n最後の科学実験により、アーティファクトの核の内部にある非活性コアが発見された。このコアは起動時に大量の放射線を放出し、アーティファクトを不安定にして破壊する可能性がある。vation emits huge amount of radiation, with the chance of destabilizing and destroying the artefact.\n
+			\n我々が「変性（トランスミューテーション）」と定義するこのプロセスは、慎重に隔離された安全な環境で行うことが強く推奨されるもので、この進化をアーティファクトに強いることは非常に危険である。orcing this evolution on the artefacts is highly dangerous.\n
+			\nある科学者は、対象のアーティファクトに近い要素を含む環境でこの実験を行ったと報告しているが、この説はまだ立証されていない。\n
+			\n%c[pda_blue]潜在的な変性組み合わせ%c[ui_gray_1]\n
+			\n・「ボール」 (「ストーンフラワー」 + バーラーの脳 + 「コントローラー」の手 + バーラーの手)
+			\n・「フラッシュ」 (「リング」 + サイサッカーの手 + ルーカーの尻尾 + 「フレッシュ」の肉)
+			\n・「セラフィム」 (「エレクトロン」 + キメラの心臓 + キメラの角 + キメラの爪)
+			\n・「ソウル」 (「ファイヤフライ」 + キメラの心臓 + ブラッドサッカーの心臓 + 「ドッグの心臓」)
+		</text>
+	</string>
+
+	<string id="encyclopedia__notes_recipe_transmutation_basic_chemi_text">
+		<text>
+			%c[pda_white]基本的な化学系アーティファクト変性
+			\n%c[pda_green]情報%c[ui_gray_1]
+			\nアーティファクトの特性に関する初期の科学的研究は、アーティファクトを自然の状態に近い状態にすることで、より高いレベルの効率に到達させる可能性を明らかにした。\n
+			\n化学物質や放射線にさらされることで、アーティファクトはより強く、より強化されたものへと変異する可能性がある。\n
+			\n試行錯誤の結果、我々が「低ティア」と称するアーティファクトは、破滅的な災害を引き起こす可能性が非常に低く、扱いやすいものであると考えられている。\n
+			\n%c[pda_blue]潜在的な変性組み合わせ%c[ui_gray_1]\n
+			\n・「ストーンブラッド」 (「ノット」 + 「ボア」の皮)
+			\n・「コロボック」 (「ハート」 + 「ドッグの心臓」)
+			\n・「サンドストーン」 (「ブレスレット」 + 「フレッシュ」の目)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_advanced_chemi_text">
+		<text>
+			%c[pda_white]高度な 化学系アーティファクト変性
+			\n%c[pda_green]情報%c[ui_gray_1]
+			\nさらにアーティファクトの実験を進めた結果、同じような性質を持つアーティファクトを融合して能力を向上させることができるようになった。\n
+			\n異なる要素のアーティファクトを組み合わせると、全く別のアーティファクトになったり、周囲のものを破壊してしまったりすることがある。\n
+			\n科学研究所の設備は十分耐えうるものだが、それ以外の環境での実験は推奨しない。\n
+			\n%c[pda_blue]潜在的な変性組み合わせ%c[ui_gray_1]\n
+			\n・「ストーンフラワー」 (「クロー」 + 「コントローラー」の手 + バーラーの手)
+			\n・「サウアプス」 (「サンドストーン」 + 「フレッシュ」の皮 + 「フレッシュ」の目)
+			\n・ミートチャンク (「ストーンブラッド」 + キメラの皮 + 「ボア」の皮)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_expert_chemi_text">
+		<text>
+			%c[pda_white]専門的な化学系アーティファクト変性
+			\n%c[pda_green]情報%c[ui_gray_1]
+			\n最後の科学実験により、アーティファクトの核の内部にある非活性コアが発見された。このコアは起動時に大量の放射線を放出し、アーティファクトを不安定にして破壊する可能性がある。vation emits huge amount of radiation, with the chance of destabilizing and destroying the artefact.\n
+			\n我々が「変性（トランスミューテーション）」と定義するこのプロセスは、慎重に隔離された安全な環境で行うことが強く推奨されるもので、この進化をアーティファクトに強いることは非常に危険である。orcing this evolution on the artefacts is highly dangerous.\n
+			\nある科学者は、対象のアーティファクトに近い要素を含む環境でこの実験を行ったと報告しているが、この説はまだ立証されていない。\n
+			\n%c[pda_blue]潜在的な変性組み合わせ%c[ui_gray_1]\n
+			\n・「バブル」 (「シスル」 + 「フレッシュ」の皮 (変性済み) + 「フレッシュ」の肉 + 「フレッシュ」の目)
+			\n・「ゴールドフィッシュ」 (「ファウンテン」 + スードウジャイアントの目 + 「ボア」の皮 + 「ボア」の肉)
+			\n・「ロブスターアイ」 (「サウアプス」 + 「フレッシュ」の肉 + 「フレッシュ」の皮 + 「フレッシュ」の目)
+			\n・「スポンジ」 (「ミートチャンク」 + スードウジャイアントの皮 + キメラの皮 + 「ボア」の皮)
+		</text>
+	</string>
+
+	<string id="encyclopedia__notes_recipe_transmutation_basic_gravi_text">
+		<text>
+			%c[pda_white]基本的な重力系アーティファクト変性
+			\n%c[pda_green]情報%c[ui_gray_1]
+			\nアーティファクトの特性に関する初期の科学的研究は、アーティファクトを自然の状態に近い状態にすることで、より高いレベルの効率に到達させる可能性を明らかにした。\n
+			\n高重力の圧力にさらされることで、アーティファクトはより強く、より強化されたものへと変異する可能性がある。\n
+			\n試行錯誤の結果、我々が「低ティア」と称するアーティファクトは、破滅的な災害を引き起こす可能性が非常に低く、扱いやすいものであると考えられている。\n
+			\n%c[pda_blue]潜在的な変性組み合わせ%c[ui_gray_1]\n
+			\n・「ブラックスプレー」 (「スパイク」 + 「フレッシュ」の皮)
+			\n・「グラヴィ」 (「ジェネレータ」 + 「ボア」の皮)
+			\n・「クロー」 (「グレープ」 + バーラーの手)
+			\n・「ビーコン」 (「チェイン」 + 「ボア」の肉)
+			\n・「ムーン」 (「スカー」 + バーラーの手)
+			\n・「レンチ」 (「シグネット」 + サイサッカーの手)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_advanced_gravi_text">
+		<text>
+			%c[pda_white]高度な 重力系アーティファクト変性
+			\n%c[pda_green]情報%c[ui_gray_1]
+			\nさらにアーティファクトの実験を進めた結果、同じような性質を持つアーティファクトを融合して能力を向上させることができるようになった。\n
+			\n異なる要素のアーティファクトを組み合わせると、全く別のアーティファクトになったり、周囲のものを破壊してしまったりすることがある。\n
+			\n科学研究所の設備は十分耐えうるものだが、それ以外の環境での実験は推奨しない。\n
+			\n%c[pda_blue]潜在的な変性組み合わせ%c[ui_gray_1]\n
+			\n・「アトム」 (「セル」 + 「ボア」の皮 + 「フレッシュ」の皮)
+			\n・「ファウンテン」 (「ビーコン」 + 「ボア」の皮 + 「ボア」の肉)
+			\n・「ナイトスター」 (「ブラックスプレー」 + 「ボア」の皮 + 「フレッシュ」の皮)
+			\n・「シスル」 (「ジェリーフィッシュ」 + 「フレッシュ」の肉 + 「フレッシュ」の目)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_expert_gravi_text">
+		<text>
+			%c[pda_white]専門的な重力系アーティファクト変性
+			\n%c[pda_green]情報%c[ui_gray_1]
+			\n最後の科学実験により、アーティファクトの核の内部にある非活性コアが発見された。このコアは起動時に大量の放射線を放出し、アーティファクトを不安定にして破壊する可能性がある。\n
+			\n我々が「変性（トランスミューテーション）」と定義するこのプロセスは、慎重に隔離された安全な環境で行うことが強く推奨されるもので、この進化をアーティファクトに強いることは非常に危険である。\n
+			\nある科学者は、対象のアーティファクトに近い要素を含む環境でこの実験を行ったと報告しているが、この説はまだ立証されていない。\n
+			\n%c[pda_blue]潜在的な変性組み合わせ%c[ui_gray_1]\n
+			\n・「ブラックエンジェル」 (「バッテリー」 + スードウジャイアントの手 + ブラッドサッカーの肉+ サイサッカーの手)
+			\n・「シェル」 (「アトム」 + スードウジャイアントの手 + 「ボア」の皮 + 「フレッシュ」の皮)
+			\n・「マイザーズスカル」 (「ムーンライト」 + バーラーの脳 + バーラーの皮 + バーラーの手)
+			\n・「ファントムスター」 (「ナイトスター」 + スードウジャイアントの手 + 「ボア」の皮 + 「フレッシュ」の皮)
+		</text>
+	</string>
+
+	<string id="encyclopedia__notes_recipe_transmutation_compass_guide_text">
+		<text>
+			手順不明の変換レシピは、説明も最終結果もよくわからない。\n
+			\nレシピに使われている材料から判断すると、強力なアーティファクトができそうだ。\n
+			\n%c[pda_blue]潜在的な変性組み合わせ%c[ui_gray_1]\n
+			\n・「ヴォラット エメラルド」 + キメラの心臓
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_hope_heart_text">
+		<text>
+			手順不明の変換レシピは、説明も最終結果もよくわからない。\n
+			\nレシピに使われている材料から判断すると、強力なアーティファクトができそうだ。\n
+			\n%c[pda_blue]潜在的な変性組み合わせ%c[ui_gray_1]\n
+			\n・「ハート」 + 「グレープ」 + 「ドッグの心臓」 + 「メダル」
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_pain_train_text">
+		<text>
+			手順不明の変換レシピは、説明も最終結果もよくわからない。\n
+			\nレシピに使われている材料から判断すると、強力なアーティファクトができそうだ。\n
+			\n%c[pda_blue]潜在的な変性組み合わせ%c[ui_gray_1]\n
+			\n・スードウジャイアントの皮 + バーラーの皮 + サイサッカーの皮 + 「ナイトスター」
+			\n・スードウジャイアントの皮 + バーラーの皮 + 「エンプティ」 + 「ファントムスター」
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_death_bound_text">
+		<text>
+			手順不明の変換レシピは、説明も最終結果もよくわからない。\n
+			\nレシピに使われている材料から判断すると、強力なアーティファクトができそうだ。\n
+			\n%c[pda_blue]潜在的な変性組み合わせ%c[ui_gray_1]\n
+			\n・「エンプティ」 + スードウジャイアントの皮 + バーラーの皮 + サイサッカーの皮
+			\n・ブラッドサッカーの心臓 + 「ハートオブオアシス」
+		</text>
+	</string>
+
+	<string id="encyclopedia__notes_recipe_transmutation_hides_all_text">
+		<text>
+			さまざまなストーカーたちによるさまざまなテストが、順不同でまとめられ、乱雑にメモられている。\n
+			\nメモに書いてある内容から重要なレシピを読み取るしかない。\n
+			\n%c[pda_blue]潜在的な変性組み合わせ%c[ui_gray_1]\n
+			\n・ブラッドサッカーの皮 (変性済み) - (ブラッドサッカーの皮 + 「シグネット」)
+			\n・「ボア」の皮 (変性済み) - (「ボア」の皮 + 「クリスタル」 + 「ジェネレータ」)
+			\n・バーラーの皮 (変性済み) - (バーラーの皮 + 「スカー」)
+			\n・キメラの皮 (変性済み) - (キメラの皮 + 「メダル」 + テープワーム)
+			\n・「コントローラー」の頭皮 (変性済み) - (「コントローラー」の頭皮 + 「スカー」 + 「グレープ」)
+			\n・「フレッシュ」の皮 (変性済み) - (「フレッシュ」の皮 + テープワーム)
+			\n・ルーカーの皮 (変性済み) - (ルーカーの皮 + 「シグネット」)
+			\n・スードウドッグの毛皮 (変性済み) - (スードウドッグの毛皮 + Mama's Beads)
+			\n・スードウジャイアントの皮 (変性済み) - (スードウジャイアントの皮 + 「スパイク」, 「シグネット」)
+			\n・サイドッグの毛皮 (変性済み) - (サイドッグの毛皮 + 「スパイク」)
+			\n・サイサッカーの皮 (変性済み) - (サイサッカーの皮, 「シグネット」)
+		</text>
+	</string>
+
+    <string id="ui_mcm_menu_transmutation">
+        <text>アーティファクトトランスミューテーション</text>
+    </string>
+    <string id="ui_mcm_transmutation_keybind_transmute">
+        <text>アーティファクト変性キー</text>
+    </string>
+    <string id="ui_mcm_transmutation_keybind_scan">
+        <text>アーティファクトスキャンキー</text>
+    </string>
+
+    <string id="encyclopedia__notes_transmutator">
+        <text>アーティファクト変性</text>
+    </string>
+    <string id="encyclopedia__notes_transmutator_text">
+        <text>
+			%c[pda_white]変成ユーザーガイド\n
+			\n%c[pda_green]情報%c[ui_gray_1]
+			\nアーティファクト・トランスミューテーター（変性器）は、アーティファクトに関する多くの実験の結果、類似した元素の粒子に触れることでその特性を変化させることができるように作られたものだ。\n
+			\nアーティファクトの特性や内部構造の実験による技術的進歩により、通常のアーティファクト検知器に装着できるコンパクトなプロトタイプを実現した。\n
+			\n%c[pda_blue]Functionality%c[ui_gray_1]\n
+			\n変性装置のデータベースは、取得したレシピを使って更新することで、より多くの変性が可能になる、それは自身の検出器に着脱できる。\n
+			\n・スキャン - アノマリーが生み出す可能性のあるアーティファクトを分析し、表示する。
+			\n・変性：アーティファクトの内部特性を活性化させる粒子のパルスを放出し、能力を向上させることが可能だ。\n
+			\nこれらの機能は、発見されたアーティファクトと検出器の性能に依存することに留意すること。
+			\nアーティファクトのリストは、レシピさえあれば、そのアノマリーで変性できる。レシピの中には特殊なものもあり、異なる環境が必要になる。
+		</text>
+    </string>
+</string_table>

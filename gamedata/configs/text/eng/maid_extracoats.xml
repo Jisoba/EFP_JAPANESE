@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+	<string id="militarycoat_outfit_name">
+		<text>Militaryジャケット</text>
+	</string>
+	<string id="merccoat_outfit_name">
+		<text>Mercenaryジャケット</text>
+	</string>
+	<string id="monolithcoat_outfit_name">
+		<text>Monolithジャケット</text>
+	</string>
+
+</string_table>

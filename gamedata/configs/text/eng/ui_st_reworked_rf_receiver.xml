@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+	MCM
+-->
+<string_table>
+	<string id="ui_mcm_reworked_rf_receiver_title">
+		<text>Reworked RF Receiver</text>
+	</string>
+	<string id="ui_mcm_menu_reworked_rf_receiver">
+		<text>Reworked RF Receiver</text>
+	</string>
+
+	<string id="ui_mcm_reworked_rf_receiver_custom_beep_volume">
+		<text>通知音の音量</text>
+	</string>
+	<string id="ui_mcm_reworked_rf_receiver_custom_beep_volume_desc">
+		<text>通知音の音量を変更できるようにしたい場合は、こちらを選択してください。</text>
+	</string>
+	
+	<string id="ui_mcm_reworked_rf_receiver_beep_volume">
+		<text>通知音量</text>
+	</string>
+	
+	<string id="ui_mcm_reworked_rf_receiver_update_sources_on_frequency_change">
+		<text>周波数変更毎にRFソースを更新（HEAVY）</text>
+	</string>
+	<string id="ui_mcm_reworked_rf_receiver_update_sources_on_frequency_change_desc">
+		<text>マイクロスタッターの原因になります</text>
+	</string>
+	
+	<string id="ui_mcm_reworked_rf_receiver_only_equip_rf">
+		<text>RFレシーバーを取り出さなくても良いようにする。</text>
+	</string>
+	<string id="ui_mcm_reworked_rf_receiver_only_equip_rf_desc">
+		<text>RFは手に持っている必要はなく、装備しているだけで機能するようにします。</text>
+	</string>
+</string_table>

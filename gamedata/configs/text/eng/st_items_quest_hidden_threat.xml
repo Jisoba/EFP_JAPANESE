@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Storyline: Hidden Threat
+	Version:   1.0
+    Autor:     Longreed
+	Last Edit: 26/10/2021
+-->
+<string_table>
+	<string id="st_sl_ht_accounting_report_name">
+		<text>会計報告書</text>
+	</string>
+	<string id="st_sl_ht_accounting_report_desc">
+		<text>ロジキン軍曹からジュロフ少佐に届ける予定の当月分の決算書が入った重たいフォルダー。</text>
+	</string>
+	<string id="st_sl_ht_spooner_quest_package_name">
+		<text>小包</text>
+	</string>
+	<string id="st_sl_ht_spooner_quest_package_desc">
+		<text>ストーカーから知人に届けるために渡された小包。中身は不明。奇妙なことに、部外者による改ざんに対するプロテクションが全くない。
+\n \n %c[ui_gray_3]特性:
+\n %c[d_blue] ・%c[ui_gray_2] 所有物
+\n %c[d_blue] ・%c[ui_gray_2] 貴重品\n </text>
+	</string>
+	<string id="st_sl_ht_walkie_talkie_name">
+		<text>軍用ラジオ</text>
+	</string>
+	<string id="st_sl_ht_walkie_talkie_desc">
+		<text>ポータブルVHFラジオ「R-002PP」。</text>
+	</string>
+	<string id="st_sl_ht_pda_isg_leader_name">
+		<text>ISG指揮官のPDA</text>
+	</string>
+	<string id="st_sl_ht_pda_isg_leader_desc">
+		<text>このPDAはロックされている。</text>
+	</string>
+	<string id="st_sl_ht_usb_quest_task_4_name">
+		<text>USBメモリースティック</text>
+	</string>
+	<string id="st_sl_ht_usb_quest_task_4_desc">
+		<text>この記憶装置には、キリロフが保存できた情報のごく一部が保存されている。</text>
+	</string>
+	<string id="st_sl_ht_case_quest_task_5_name">
+		<text>SSU諜報員のブリーフケース</text>
+	</string>
+	<string id="st_sl_ht_case_quest_task_5_desc">
+		<text>内容は不明だが、おそらくISGの活動に関する情報だと思われる。</text>
+	</string>
+	<string id="st_sl_ht_voice_recorder_task_6_name">
+		<text>ボイスレコーダー</text>
+	</string>
+	<string id="st_sl_ht_voice_recorder_task_6_desc">
+		<text>見た目はどこにでもあるような普通のボイスレコーダー。しかし、これはキリロフが改良したもので、音に反応して録音を開始するようになっている。</text>
+	</string>
+	
+	<string id="st_sl_hidden_threat_locked_door_tips">
+	    <text>別の道を探そう</text>
+	</string>
+	<string id="st_sl_hidden_threat_radio_tips_1">
+	    <text>レコーダーを隠す($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_sl_hidden_threat_radio_tips_2">
+	    <text>レコーダーを回収する($$ACTION_USE$$)</text>
+	</string>
+</string_table>

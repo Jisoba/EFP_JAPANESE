@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="drx_sl_quest_item_1_name">
+    <text>書類</text>
+  </string>
+  <string id="drx_sl_quest_item_1_desc">
+    <text>封印された文書。残念ながら、中を見ることはできないため、どれだけ重要な、または普通な、もしくは恐ろしい秘密が書かれているのか憶測することしかできない。あなたはご褒美のためにこれを持って帰るだけだ。</text>
+  </string>
+  <string id="drx_sl_quest_item_2_name">
+    <text>鍵のかかったケース</text>
+  </string>
+  <string id="drx_sl_quest_item_2_desc">
+    <text>鍵のかかったケース。中身は不明で重たいが、引きずってでも持っていく価値はありそうだ。</text>
+  </string>
+  <string id="drx_sl_quest_item_3_name">
+    <text>PDA</text>
+  </string>
+  <string id="drx_sl_quest_item_3_desc">
+    <text>暗号化されたPDA。持ち帰れば報酬を約束されている。</text>
+  </string>
+  <string id="bad_psy_helmet_desc">
+    <text>人体を「精神波の放射」から守るために科学者によって開発されたプロトタイプ型ヘルメット。未完成のため機能の調整が必要だ。
+</text>
+  </string>
+  <string id="bad_psy_helmet_name">
+    <text>未完成の「精神波の防護ヘルメット」</text>
+  </string>
+  <string id="good_psy_helmet_desc">
+    <text>科学者によって開発されたプロトタイプ型ヘルメットで、人体を「精神波の放射」から守る。</text>
+  </string>
+  <string id="good_psy_helmet_name">
+    <text>「精神波の防護ヘルメット」</text>
+  </string>
+  <string id="cit_doctors_key_short_desc">
+    <text>プリピャチにある秘密のスタッシュを示す「ドクター」の鍵。</text>
+  </string>
+  <string id="cit_doctors_key_name">
+    <text>「ドクター」の鍵</text>
+  </string>
+  <string id="cit_doctors_key_desc">
+    <text>側面に「ホテル ポリーシャ26号室 」と刻印された鍵。</text>
+  </string>
+  <string id="item_docs_hiden_pri_name">
+    <text>ストレロックの原稿</text>
+  </string>
+  <string id="item_docs_hiden_pri_desc">
+    <text>革製本のすり切れた原稿。 ストレロック自身によって書かれたもの。\n見出しだけで判断すると、ゾーンのいくつかの秘密について書かれているかもしれない。</text>
+  </string>
+  <string id="cit_doctors_pda_name">
+    <text>「ドクター」のメモ</text>
+  </string>
+  <string id="cit_doctors_pda_desc">
+    <text>老人たちの陰謀論についてのいくつかのメモ。
+
+\n\nアグロプロム研究所は2006年の事故の前の数年間、非公式で研究室の前線として使われたという噂がある。この研究室では、非常に珍しい実験が数多く行なわれた。トレーダーたちはこれらの研究所について多くの情報を掘り出してきた。私はバーキープに会い、彼はダーク バレーのX-18と呼ばれる地下金庫室に入るためにDutyのスカウトを送ったが、彼らは姿を消したと言う。「脳への精神波 」の装置に関する別の噂がある。ヤンターの近隣一帯は、そのゴミの影響下にあり、範囲内に入ってきたすべての人をゾンビに変えてしまうのだ。レッド フォレストのレーダー施設の地下には、X-19研究所と呼ばれる別の装置があり、それがブレイン スコーチャーである可能性が高い。ブレイン スコーチャーの存在が意図的に北への道を塞いでいることを示唆する証拠はあるが、それが何故なのかを正確に知る者はいない。バーキープは、ブレイン スコーチャーは人工的なものであり、これらの装置が常に最大限に機能しているわけではないと考えている。彼は、装置を冷却するために電力が低下する期間があると考えている。今こそ、ゾーン内のすべての地下研究所を訪れ、彼らが隠している秘密の探るときだ。残念だが、私は年をとりすぎてしまった。ストレロックがまだ残っていればいいのだが、何年も前に姿を消してしまった。</text>
+  </string>
+  <string id="item_decoder_desc">
+    <text>電子錠の強力な錠前破りだ。不思議なことに、これは万能の泥棒道具ではないようだ。むしろ、特定の電子錠を想定して作成されたようで、それ以外のものを上書きすることはできない。</text>
+  </string>
+  <string id="item_decoder_name">
+    <text>デコーダー</text>
+  </string>
+  <string id="pri_decoder_docs_conclusion_txt">
+    <text>原稿には、ファングとストレロックが隠された研究室にどのように侵入し、そこでの調査内容についての短いレポートが含まれている。それは、チェルノブイリ原子力発電所とその周辺の大きなMonolithの存在に言及。より具体的にはコンクリートの石棺の下で、それが彼らの活動の基盤であるかもしれないが、何かを隠す意図があると示唆している。さらに読むと、彼らは発電機の下の北にさらに隠れた実験室を発見したと述べているが、デコーダーを使用する必要があるため、執筆時点ではアクセスできなかった。</text>
+  </string>
+  <string id="item_quest_case_02_desc">
+    <text>アグロプロム近くで行われた調査に関する軍事文書と報告書が入った耐火性のブリーフケース。報告書は、同研究所から行方不明になった機器や機器の実態や、所在調査の結果が改ざんされていたことなどを詳細に説明している。</text>
+  </string>
+  <string id="item_quest_case_02_name">
+    <text>軍事文書</text>
+  </string>
+  <string id="item_doc_x18_name">
+    <text>生物学研究レポート</text>
+  </string>
+  <string id="item_doc_x18_desc">
+    <text>この報告書では、X-18研究所から送られてきた生体サンプルの研究について詳述しており、サンプルはさまざまな強度の情報フィールド効果を受けた。その報告書は、エミッションにさらされた後の生物の突然変異について詳細に記述している。</text>
+  </string>
+  <string id="item_doc_x16_desc">
+    <text>この文書は、生物研究の副次的な発見の1つである、生物が指向性の「精神波の放射」を発生させることができるという発見に言及している。生物学的「精神波の放射」発生装置であるこの巨大な脳は、X-16研究所で行われた研究の一環として成長した。</text>
+  </string>
+  <string id="item_doc_x16_name">
+    <text>精神波研究文書</text>
+  </string>
+  <string id="item_doc_x10_desc">
+    <text>この文書には、アンテナの技術的な特性と、計画された設計からどのように逸脱しているかが書かれている。裏面には、これらの文書がX-19研究所で作成されたことを示す注意書きがある。</text>
+  </string>
+  <string id="item_doc_x10_name">
+    <text>幻覚発生装置に関する書類</text>
+  </string>
+  <string id="item_doc_x8_desc">
+    <text>研究チームとすべての資料を北側の別の研究室に移し、ノウアスフィアの影響に関する研究に使用する。研究所に入るには、コードとして事故の日付を使用（ddmmyyyキー）。
+
+\n\n研究チームは、N.A.レベデフ、E.F.カランチャ、V.I.サスロフで構成されている。</text>
+  </string>
+  <string id="item_doc_x8_name">
+    <text>移動命令書</text>
+  </string>
+  <string id="item_doc_jup_ug_desc">
+    <text>ノートには「精神波の及ぶ領域」が地球の反対側へ影響を及ぼす実験の記述がある。カリブ海上にいた科学者のチームが信号を受信した。しかしながら、その信号はひずんでいた。まるで誰かによって調整されたかのように変調は不可解なひずみ方をしていたのだ。有力な仮説のひとつは、ノウアスフィア理論が真実である事を前提にしており、おそらくノウアスフィアによってこれらのひずみがもたらされたというものだ。</text>
+  </string>
+  <string id="item_doc_jup_ug_name">
+    <text>実験ノート</text>
+  </string>
+  <string id="item_doc_mon_con_name">
+    <text>試作兵器報告書</text>
+  </string>
+  <string id="item_doc_mon_con_name_desc">
+    <text>より進歩した電磁装置の作動機構および主な技術的特徴を記載した書類。\nこの報告書には次のような注記がある。「文書は中央研究所のXｰ8に返却してください。私は忙しいので、自分で届けてください。」N.レベデフ</text>
+  </string>
+  <string id="quest_package_name">
+    <text>お届け物</text>
+  </string>
+  <string id="quest_package_desc">
+    <text>このパッケージの内容は不明だ。
+
+\n%c[ui_gray_3]特性 : 
+%c[d_blue] ・ 私物
+%c[d_blue] ・ 貴重品</text>
+  </string>
+  <string id="st_jup_b32_scanner_device_name">
+    <text>アノマリー アクティブ スキャナー</text>
+  </string>
+  <string id="st_jup_b32_scanner_device_desc">
+    <text>このケースは、アーティファクト探知機、バッテリー、強力な送信機を組み合わせたものだ。機器はアノマリーをスキャンして、表示されるアーティファクトの数とタイプを判別する。これらの情報はすべて、科学者の研究所（掩体壕）に自動的に中継される。
+
+\n%c[ui_gray_3]特性 : 
+%c[d_blue] ・ 技術品</text>
+  </string>
+  <string id="mlr_strelok_item_01">
+    <text>古い手帳</text>
+  </string>
+  <string id="mlr_strelok_item_01_desc">
+    <text>おそらくストレロックが所有していた手帳。X-18という地下複合施設に入る方法が詳しく書かれている。</text>
+  </string>
+  <string id="blackbox_mlr">
+    <text>フライトレコーダー</text>
+  </string>
+  <string id="blackbox_mlr_descr">
+    <text>フライトデータレコーダー、通称「ブラックボックス」。フライトレコーダーは、内部システムや乗組員の会話の状況を記録するために使用され、事故発生時に重要な情報を残してくれる。ゾーンでは、ストーカーと軍人の両者がこの装置に興味を持っている。</text>
+  </string>
+  <string id="item_pda_map_mlr_name">
+    <text>PDA</text>
+  </string>
+  <string id="item_pda_map_mlr_descr">
+    <text>マップ間の道に関する情報が入っていると思われるPDA。</text>
+  </string>
+  <string id="strelok_notes_name">
+    <text>ストレロックのノートブック</text>
+  </string>
+  <string id="strelok_notes_desc">
+    <text>このノートは以前ストレロックのものだった。読んでみると、かなりバラバラで謎めいたメモがたくさんあることがわかる。ストーカーは数年前に自分が下した重要な決定に危機感を抱いていたらしく、ゾーンの北側で答えを求めて自分の選択を確認したかったようだ。</text>
+  </string>
+  <string id="drx_x8_documents_name">
+    <text>アンテナ設置文書</text>
+  </string>
+  <string id="drx_x8_documents_desc">
+    <text>この文書は、巨大なレーダー施設と思われるものに言及している。おそらくブレイン スコーチャーの構造とオペレーティング システムに関することだろう。</text>
+  </string>
+  <string id="drx_x16_documents_name">
+    <text>生物学的研究</text>
+  </string>
+  <string id="drx_x16_documents_desc">
+    <text>ラットや他の動物を使った実験について書かれた古い論文。
+</text>
+  </string>
+  <string id="drx_x18_documents_name">
+    <text>実験報告書 : B0-D4</text>
+  </string>
+  <string id="drx_x18_documents_desc">
+    <text>精神波の共鳴と放射についての実験に関する古い文書。</text>
+  </string>
+  <string id="drx_x19_documents_name">
+    <text>通信ログ／2006年3月21日</text>
+  </string>
+  <string id="drx_x19_documents_desc">
+    <text>研究所の科学者グループ間の無線通信の記録を印刷したもの。</text>
+  </string>
+  <string id="drx_agr_u_documents_name">
+    <text>アグロプロム研究所の文書</text>
+  </string>
+  <string id="drx_agr_u_documents_desc">
+    <text>アグロプロムに関するメモ、写真、印が付けられた地図。おそらくストレロックが書いたものだろう。</text>
+  </string>
+  <string id="drx_jup_u_documents_name">
+    <text>輸送記録</text>
+  </string>
+  <string id="drx_jup_u_documents_desc">
+    <text>これらの文書は、機械設備や工具をジュピター工場に輸送していた古い記録と東側に向かうトンネルの内部構造について言及している。</text>
+  </string>
+  <string id="lx8_history_documents_name">
+    <text>実験（2005年11月4日）</text>
+  </string>
+  <string id="lx8_history_documents_desc">
+    <text>このログには、新しいタイプの「精神波の放射装置」に関して何年も前に行われた実験の結果が記録されている。</text>
+  </string>
+  <string id="lx8_history_2_documents_name">
+    <text>実験（2005年9月24日）</text>
+  </string>
+  <string id="lx8_history_2_documents_desc">
+    <text>このログには、精神波の応用に関して何年も前に行われた実験の結果が記録されている。</text>
+  </string>
+  <string id="lx8_history_3_documents_name">
+    <text>実験（2006年5月2日）</text>
+  </string>
+  <string id="lx8_history_3_documents_desc">
+    <text>このログには、生物学的実験の結果が記録されている。</text>
+  </string>
+</string_table>

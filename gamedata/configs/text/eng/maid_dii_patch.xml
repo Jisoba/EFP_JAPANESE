@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+	<string id ="ui_mcm_menu_dii_custom_layers_maid">
+		<text>Maid Indicators</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_attachments_show">
+		<text>切替可能なアタッチメント</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_aiorepair_show">
+		<text>修理インジケーターの切り替え</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_chevrontiers_show">
+		<text>シェブロンインジケーターの切り替え</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_aiocontainers_show">
+		<text>コンテナのインジケーターの切り替え</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_aiocooking_show">
+		<text>料理のインジケーターの切り替え</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_repair_top_right_show">
+		<text>右上の修理ラベルの切り替え</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_aioexplosives_show">
+		<text>爆発物インジケーターの切り替え</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_aiomainquest_show">
+		<text>クエストアイテムインジケーターの切り替え</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_aiomanuals_show">
+		<text>クラフトレシピのインジケーターの切り替え</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_aiomap_show">
+		<text>マップインジケーターの切り替え</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_aionotes_show">
+		<text>メモインジケーターの切り替え</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_aiopartsmisc_show">
+		<text>その他アイテム切り替え</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_aiovaluable_show">
+		<text>貴重品アイテム切り替え</text>
+	</string>
+</string_table>

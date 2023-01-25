@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+    <string id="st_no_helm">
+        <text>ヘルメットは衣装と互換性がありません。</text>
+    </string>
+    <string id="st_no_helmkit">
+        <text>ヘルメットの交換には、ヘルメット修理キットが必要です。</text>
+    </string>
+    <string id="st_helm_success">
+        <text>ヘルメットの交換に成功</text>
+    </string>
+    <string id="ui_inv_max_condition">
+        <text>最大値</text>
+    </string>
+    <string id="st_part_repaired">
+        <text>%sから%s%まで修復されました。 </text>
+    </string>
+    <string id="st_dot">
+        <text>・</text>
+    </string>
+    <string id="st_ui_repair_new">
+        <text>新</text>
+    </string>
+    
+    
+    <string id="st_total_repair">
+        <text>全体的なコンディションを部品単位で修復:</text>
+    </string>
+
+    <string id="st_can_repair">
+        <text>以下の部品で修理が可能。:</text>
+    </string>
+    <string id="st_type_2">
+        <text>織物</text>
+    </string>
+    <string id="st_type_4">
+        <text>鋼板</text>
+    </string>
+    <string id="st_type_3">
+        <text>抑制剤</text>
+    </string>
+    <string id="st_type_5">
+        <text>外骨格</text>
+    </string>
+     <string id="st_type_1">
+        <text>ヘルメット</text>
+    </string>
+ <string id="st_tier_base">
+        <text>修繕向け</text>
+    </string>
+    <string id="st_tier_1">
+        <text>軽装とマスク</text>
+    </string>
+    <string id="st_tier_2">
+        <text>中装と装甲ヘルメット、マスク</text>
+    </string>
+    <string id="st_tier_3">
+        <text>重装、重装甲ヘルメット、外骨格</text>
+    </string>
+
+    
+    <string id="st_type_integrity">
+        <text>整合性:</text>
+    </string>
+     
+	<string id="ui_mcm_outfit_title">
+		<text>Outfit Parts Overhaul</text>
+	</string>
+	<string id="ui_mcm_menu_outfit">
+		<text>Outfit Parts Overhaul</text>
+	</string>
+	<string id="ui_mcm_outfit_damage">
+		<text>部品へのダメージ倍率</text>
+	</string>
+	<string id="ui_mcm_outfit_damage_desc">
+		<text>衣装のパーツが受けるダメージの倍率。</text>
+	</string>
+	<string id="ui_mcm_outfit_debug">
+		<text>Debug logging</text>
+	</string>
+	<string id="ui_mcm_outfit_debug_desc">
+		<text>Debug logging</text>
+	</string>
+
+    
+    <string id="article_opo">
+        <text>スーツのメンテナンス</text>
+    </string>
+    <string id="article_opo_text">
+        <text>
+            Outfit Parts Overhaulは、メンテナンスのあり方を変え、適切な工具や部品を使用することを重視します。\n \n
+			%c[pda_green]I. 部品とメンテナンス%c[ui_gray_1]\n
+            \n・衣装には最大コンディションがあります。これは、そのパーツの平均的な状態によって決定されます。
+            \n・衣装の修理アイテムは0％から使えますが、最大コンディションまでしか回復できません。
+            \n・重量のあるアーマーには、より強力な修理アイテムが必要です。
+            \n・技術屋はすべてのパーツを100％回復します。
+            \n・スーツは時間の経過とともにダメージを受け、最大コンディションが劣化します。パーツによって劣化のスピードが異なります。
+            \n \n
+			%c[pda_green]II. 修理・ワークショップの変更%c[ui_gray_1]\n
+            \n・特定の修理アイテム（裁縫キット、修理キット）は、スーツ内のパーツを修理します。これにより、最大コンディションが回復できます。
+            \n・基本的な縫製キットは、布地を直すことができます。上級・重縫いキットは、難燃剤や布地を修理することができます。修理キットは、ヘルメット以外を修理できます。
+            \n・各キットは、修理可能な部分を優先して、さまざまなコンディションを回復します。例えば、バリスティック、防弾、生地の各部品が同じように損傷している場合、バリスティックが優先的に修復されます。
+            \n・縫製キットや修理キット単体では、最大コンディションをほとんど回復させることができません。服のパーツは、修理のサポートアイテムとして使用することで、回復する最大コンディションを大きく向上させることができます。
+            \n・スーツに使用されている100%の部品を使用することで、部品の状態が最大限に復元されます（最大3倍！）。
+            \n・ワークショップでの部品交換は、最大限の状態を回復するものではありません。それを補うために、修理キットを使わずに、無料で行うことができます。
+			\n \n
+            %c[pda_green]III. Armor Ripper%c[ui_gray_1]\n
+            \n・衣装パーツを分解して基礎部品を入手できます!
+            \n・分解するには、適切なツールを使用するか、ツールを部品にドラッグ＆ドロップします。
+            \n・コンディションの良し悪しは、入手できる部品の量に影響します。
+            \n・衣装パーツの部品は、他の衣装パーツを組み立てるために使用されます。レシピは上級キットブックに収録されています。
+        </text>
+    </string>
+
+</string_table>

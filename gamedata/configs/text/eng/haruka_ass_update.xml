@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+	
+	<string id="ui_mcm_advanced_stamina_system_show_hud">
+		<text>バーリミッターの表示／非表示</text>
+	</string>
+	
+</string_table>

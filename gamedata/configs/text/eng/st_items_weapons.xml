@@ -1,0 +1,2292 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_trg_sako">
+    <text>Sako TRG-42</text>
+  </string>
+  <string id="st_dynamo_hand_name">
+    <text>ハンドクランク充電器</text>
+  </string>
+  <string id="st_dynamo_hand_descr">
+    <text>%c[ui_gray_1]この装置は、手動で駆動する自作のポータブル発電機である。古い電気製品の単相非同期モーターをベースにしている。出力電圧は、降圧トランスを経て、ソビエト製ダイオードD242を用いた整流器を経て、ポータブルパワーユニットに至る。発電機の自己励磁は、モーターの補助巻線に接続されたコンデンサによって起こる。充電は、ウォームギアを介してローターを公称1300~1500［rpm］で回転させることで行われる。この装置には、ウェストン エレクトリカル インストルメント社製の米国製ポイントターン電流計が搭載されている。設計上、かなりの重量はあるが、ゾーンでは非常に喜ばれる。職人がこの装置を改良できる。
+
+\n%c[ui_gray_2]特性 : 
+%c[d_cyan] ・ 技術品
+%c[d_cyan] ・ 定格電力40［W］のモーター
+%c[d_red] ・ モーターとギアボックスのベアリングの寿命は限られている</text>
+  </string>
+  <string id="st_grenade_launcher">
+    <text>GP-25「カスチョール」グレネードランチャー  </text>
+  </string>
+  <string id="st_grenade_launcher_descr">
+    <text>ワルシャワ条約加盟国で製造された、アサルトライフル用の単発、前装、アンダーバレルのグレネードランチャー。基本的な歩兵部隊の火力を大幅に増強するために設計されている。発射機構はセルフロック式で、手動のセーフティキャッチを備え、ライフルに誤って装着した場合は自動で発砲を防止する。
+
+\n%c[d_purple] ・ 銃口初速 : ~ 76［m/s］
+                %c[d_purple] ・ 有効射程 : ~ 300［m］
+                %c[d_purple] ・ 装填時間 : 遅い
+                %c[d_purple] ・ 弾薬 : VOG-25 40mmグレネード</text>
+  </string>
+  <string id="st_grenade_launcher_m203">
+    <text>M203グレネードランチャー</text>
+  </string>
+  <string id="st_grenade_launcher_m203_descr">
+    <text>M203グレネードランチャーの全長を3インチ短縮し、ピカティニーレールで武器に取り付けられるように改造したもの。このグレネードランチャーはマウントの変更により、世界中で広く使用されており、現在生産されているほとんどのライフルに装着することができる。現代的なデザインではあるが、ソビエトのグレネードランチャー「GP-25」とほぼ同じ特性を持っている。
+
+\n%c[d_purple] ・ 銃口初速 : ~ 76［m/s］
+                %c[d_purple] ・ 有効射程 : ~ 300［m］
+                %c[d_purple] ・ 装填時間 : 遅い
+                %c[d_purple] ・ 弾薬 : M203グレネード</text>
+  </string>
+  <string id="st_wpn_9a91">
+    <text>9A-91</text>
+  </string>
+  <string id="st_wpn_9a91_descr">
+    <text>9A91は、銃身の上に配置されたロングストロークのガスピストンと、4つのラグを持つ回転ボルトを利用した、ガス作動式の回転ボルト兵器である。レシーバーはスチール製で、フォアエンドとピストルグリップはポリマー製である。スチール製のストックは、使用しないときにはレシーバーの上に折りたためるようになっている。フリップアップ式のリアサイトは100mと200mの設定があるが、比較的短いサイトベースと亜音速弾の急峻な弾道により、9A-91の射程距離は100m程度に制限されている。
+
+\n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO、PSO-1M2-1
+                %c[d_purple] ・ サプレッサー : 9A-91／VSK-94</text>
+  </string>
+  <string id="st_wpn_abakan">
+    <text>AN-94</text>
+  </string>
+  <string id="st_wpn_abakan_camo">
+    <text>AN-94（迷彩仕様）</text>
+  </string>
+  <string id="st_wpn_abakan_descr">
+    <text>AN-94がAK-74から改良されたポイントは、2発のバーストモードが追加されたことである。ニコノフの設計では、発射された弾が銃身から離れるまで反動を遅らせることができ、1800［rpm］の独自の2発バースト機能と相まって、この銃の装甲貫通能力を高めている。スペツナズの隊員やDutyのメンバーが、比較的遠距離から装甲のあるターゲットを仕留めるために使用している。
+
+\n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ グレネードランチャー : GP-25（改造後に取り付け可）
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1</text>
+  </string>
+  <string id="st_wpn_abakan_worn">
+    <text>AN-94 （使い古し）</text>
+  </string>
+  <string id="st_wpn_ace21">
+    <text>ガリルACE-21</text>
+  </string>
+  <string id="st_wpn_ace21_descr">
+    <text>ガリルACEファミリーはイスラエルの武器会社IWI社によって設計、製造されている。ガリルACEは人間工学、使いやすさ、カスタマイズ、戦闘における柔軟性に重点を置いている。ガリルACEファミリーには、世界で最も一般的な三種の弾薬（5.56x45mm NATO、7.62x39mm M43およびNATO 7.62x51mm）があり、それぞれの弾薬に適合した複数の長さの銃身がある。このモデルは、5.56×45mm NATO弾を使用したコンパクトな銃身だ。ゾーンで、この銃は本当に珍しい。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製</text>
+  </string>
+  <string id="st_wpn_aek971">
+    <text>AEK-971</text>
+  </string>
+  <string id="st_wpn_aek971_camo">
+    <text>AEK-971（Duty迷彩仕様）</text>
+  </string>
+  <string id="st_wpn_aek971_camo_descr">
+    <text>内部設計とレイアウトは先のAKライフルに基づいている、更にAEK-971は、リコイル バランシング機構を備え、安定した連射性能が実現された。このライフルの少数は、ロシア内務省のために製造された。このモデルは、Dutyの象徴である赤のしみが入ったライトベージュ色で塗られている。いくつかの機構は再構成されており、より信頼できるものになっている。また、部品がよりきつく取り付けられているため、弾速も上がっている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1
+                %c[d_purple] ・ サプレッサー : TGP-A
+                %c[d_purple] ・ グレネードランチャー : GP-25</text>
+  </string>
+  <string id="st_wpn_aek971_descr">
+    <text>内部設計とレイアウトは先のAKライフルに基づいている、更にAEK-971は、リコイル バランシング機構を備え、安定した連射性能が実現された。このライフルの少数は、ロシア内務省のために製造された。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1
+                %c[d_purple] ・ サプレッサー : TGP-A
+                %c[d_purple] ・ グレネードランチャー : GP-25</text>
+  </string>
+  <string id="st_wpn_aek971_worn">
+    <text>AEK-971（使い古し）</text>
+  </string>
+  <string id="st_wpn_aek973">
+    <text>AEK-973</text>
+  </string>
+  <string id="st_wpn_aek973_descr">
+    <text>AEK-973は、コブロフ機械工場でスタニスラフ イヴァノヴィッチ コクシャロフの指示のもとに開発され、SA-006システムをベースにしたAEK-971の7.62×39mm弾バージョンだ。AEK-973は、従来のAKライフルの内部設計とレイアウトに基づいて反動を相殺する機構を備えており、より制御しやすくなっている。この銃の小ロットはロシアMVD用に製造されている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1
+                %c[d_purple] ・ サプレッサー : TGP-A
+                %c[d_purple] ・ グレネードランチャー : GP-25</text>
+  </string>
+  <string id="st_wpn_ak">
+    <text>AK-47</text>
+  </string>
+  <string id="st_wpn_ak_descr">
+    <text>AK-47は、一時代前のライフル技術のハイブリッドと言える。ミハイル カラシニコフ氏は、アメリカのM1とドイツのStG44の最も優れた特徴を組み合わせてこの自動小銃を設計した。7.62x39mmの口径を持つ銃であり、20世紀後半の最も使用された小銃である。それは多かれ少なかれコピーや改良された形で数十カ国で製造され、導入以来数百の紛争で使用されてきた。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : PBS-1
+                %c[d_red] ・ 照準器 : ダブテール マウントがないため取り付け不可
+                %c[d_purple] ・ グレネードランチャー : GP-25 （改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_ak101">
+    <text>AK-101</text>
+  </string>
+  <string id="st_wpn_ak101_camo">
+    <text>AK-101（迷彩仕様）</text>
+  </string>
+  <string id="st_wpn_ak101_descr">
+    <text>AK-101は、世界の輸出市場向けに設計された、カラシニコフ シリーズのアサルトライフルで、NATO標準の5.56x45mm NATO弾を使用している。AK-101は、5.56x45mm NATO弾の互換性と親しみやすさを､カラシニコフの伝説的な信頼性と組み合わせた銃器である。軽量化と精度向上のためにプラスチックを含む近代的な複合材料で設計されている。AK-101に見られる改良点の多くは、AK-103やその他のAK-10xシリーズのライフルにも見られる。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ グレネードランチャー : GP-25 （改造後に取り付け可）
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製、EKP-8-02コブラ、1P29、PSO-1
+                %c[d_purple] ・ サプレッサー : ATG</text>
+  </string>
+  <string id="st_wpn_ak102">
+    <text>AK-102</text>
+  </string>
+  <string id="st_wpn_ak102_descr">
+    <text>AK-102はAK-101ライフルの5.56x45mm弾バージョンだ。銃身が短くなっているため、フルサイズライフルとよりコンパクトなAKS-74Uの中間に位置している。このライフルのレシーバーはプレス加工された鋼鉄を使用し、マガジンは強化繊維ガラス、ストックは中空プラスチックでできているため、軽量化、耐久性の向上、フィールドキットの収納が可能となった。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : バースカ社製電子照準器AC10632、イーオーテック社製、EKP-8-02コブラ、PSO-1
+                %c[d_purple] ・ サプレッサー : ATG</text>
+  </string>
+  <string id="st_wpn_ak103">
+    <text>AK-103</text>
+  </string>
+  <string id="st_wpn_ak103_camo">
+    <text>AK-103（迷彩仕様）</text>
+  </string>
+  <string id="st_wpn_ak103_descr">
+    <text>AK-103アサルトライフルは、AK-74Mを改造したものでAKMやAK-47と同じ7.62×39mm弾を使用。AK-103には、レーザー、ナイトビジョン、望遠などの様々な照準器、サプレッサー、GP-25グレネードランチャーなどが装着できる。部品を木材や金属ではなく、可能な限りプラスチックを使用して軽量化を図っている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ グレネードランチャー : GP-25 （改造後に取り付け可）
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1
+                %c[d_purple] ・ サプレッサー : ATG\n</text>
+  </string>
+  <string id="st_wpn_ak104">
+    <text>AK-104</text>
+  </string>
+  <string id="st_wpn_ak104_descr">
+    <text>AK-104はAK-103ライフルの7.62x39mm弾バージョンだ。銃身が短くなっているため、フルライフルとコンパクトなAKS-74Uの中間に位置しており、ライフルの受け口はプレス加工された鋼鉄でできている。マガジンは強化ガラス繊維でできており、ストックは中空プラスチックでできているため、軽くて耐久性があり、フィールドキットを収納することができる。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1
+                %c[d_purple] ・ サプレッサー : ATG\</text>
+  </string>
+  <string id="st_wpn_ak105">
+    <text>AK-105</text>
+  </string>
+  <string id="st_wpn_ak105_descr">
+    <text>AK-105はAK-74Mライフルの5.45x39mm弾バージョンだ。AK-105はロシア軍の部隊でAKS-74Uカービン銃を置き換えている。CQC（接触もしくは接触寸前の極めて近い距離での戦闘）に最適であり、遠距離戦闘には適していない。ライフルのレシーバーは、プレスされたスチールを使用し、マガジンは強化ガラス繊維、ストックは中空プラスチックでできているため、軽くて耐久性があり、フィールドキットを収納することができる。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : EKP 1S-03「コブラ」1P29、PSO-1
+                %c[d_purple] ・ サプレッサー : TGP-A</text>
+  </string>
+  <string id="st_wpn_ak12">
+    <text>AK-12</text>
+  </string>
+  <string id="st_wpn_ak12_descr">
+    <text>ロングストローク ガスピストン、ロータリーボルト固定のカラシニコフAK-12自動小銃はイズマッシュ工場の最新作だ。国内や輸出向けの旧式である「カラシニコフAK-74M」 「AK-100」 シリーズの代替機となる。ライフルはガス作動式で、ロングストローク ガスピストンとロータリー ボルトロックを備えた従来の「カラシニコフ系」アクションを使用した選択式射撃ライフル。ボルト群を大幅に軽量化し、リコイルの低減と射撃精度の向上を図った。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製
+                %c[d_purple] ・ グレネードランチャー : GP-25
+                %c[d_purple] ・ サプレッサー : TGP-A</text>
+  </string>
+  <string id="st_wpn_ak74">
+    <text>AK-74N</text>
+  </string>
+  <string id="st_wpn_ak74_alt">
+    <text>AK-74N（部分改造）</text>
+  </string>
+  <string id="st_wpn_ak74_custom">
+    <text>AK-74N（カスタム）</text>
+  </string>
+  <string id="st_wpn_ak74_descr">
+    <text>AK-74は、1970年初めにミハイル カラシニコフ氏がAKMを置き換えるのために開発した、5.45x45mm弾を使用する自動小銃だ。1974年に導入され、アフガニスタン紛争に従事するソ連軍に初めて実戦投入された。AKMライフルは小型の5.45x45mm弾を発射できるように改造され、大型のマズルブレーキが取り付けられている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ グレネードランチャー : GP-25 （改造後に取り付け可）
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1
+                %c[d_purple] ・ サプレッサー : TGP-A \n</text>
+  </string>
+  <string id="st_wpn_ak74_eot">
+    <text>AK-74N「イーオーテック」</text>
+  </string>
+  <string id="st_wpn_ak74_eot_descr">
+    <text>AK-74は、1970年初めにミハイル カラシニコフ氏がAKMを置き換えるのために開発した、5.45x45mmの自動小銃だ。1974年に導入され、アフガニスタン紛争に従事するソ連軍に初めて実戦投入された。AKMライフルは小型の5.45x45mm弾を発射できるように改造され、大型のマズルブレーキが取り付けられている。このモデルには、イーオーテック社製 ホロサイトと45発弾倉が組み込まれている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ グレネードランチャー : GP-25 （改造後に取り付け可）
+                %c[d_purple] ・ 照準器 : イーオーテック社製（取り外し不可）
+                %c[d_purple] ・ サプレッサー : TGP-A</text>
+  </string>
+  <string id="st_wpn_ak74_modern">
+    <text>AK-74N（近代化改修）</text>
+  </string>
+  <string id="st_wpn_ak74_old">
+    <text>AK-74</text>
+  </string>
+  <string id="st_wpn_ak74_old_descr">
+    <text>AK-74は、1970年初めにミハイル カラシニコフ氏がAKMを置き換えるのために開発した、5.45x45mmの自動小銃だ。1974年に導入され、アフガニスタン紛争に従事するソ連軍に初めて実戦投入された。AKMライフルは小型の5.45x45mm弾を発射できるように改造され、大型のマズルブレーキが取り付けられている。この変種は組み立てられてから随分と時間が経っている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ グレネードランチャー : GP-25 （改造後に取り付け可）
+                %c[d_red] ・ 照準器 : ダブテール マウントがないため取り付け不可
+                %c[d_purple] ・ サプレッサー : TGP-A \n</text>
+  </string>
+  <string id="st_wpn_ak74_rusty">
+    <text>AK-74N（錆付き）</text>
+  </string>
+  <string id="st_wpn_ak74_rusty_descr">
+    <text>AK-74は、1970年初めにミハイル カラシニコフ氏がAKMを置き換えるのために開発した5.45x45mmの自動小銃だ。1974年に導入され、アフガニスタン紛争に従事するソ連軍に初めて実戦投入された。AKMライフルは小型の5.45x45mm弾を発射できるように改造され、大型のマズルブレーキが取り付けられている。このモデルはとても錆びていて信頼できない。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ グレネードランチャー : GP-25 （改造後に取り付け可）
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1
+                %c[d_red] ・ サプレッサー : 取り付け不可</text>
+  </string>
+  <string id="st_wpn_ak74_worn">
+    <text>AK-74N （使い古し）</text>
+  </string>
+  <string id="st_wpn_ak74m">
+    <text>AK-74M</text>
+  </string>
+  <string id="st_wpn_ak74m_alt">
+    <text>AK-74M（部分改造）</text>
+  </string>
+  <string id="st_wpn_ak74m_camo">
+    <text>AK-74M（迷彩仕様）</text>
+  </string>
+  <string id="st_wpn_ak74m_custom">
+    <text>AK-74M（カスタム）</text>
+  </string>
+  <string id="st_wpn_ak74m_descr">
+    <text>1991年、イズマッシュ工場はAK-74の改良型であるAK-74M攻撃用ライフルの生産を開始した。いくつかのマイナーな改善とは別に、黒いガラス繊維入りポリアミドの合成素材でできた、折りたたみ式銃床を特徴としている。また、強化されたマズル機器とダストカバーを使用し、光学部品を取り付けるためのサイドレールブラケットが取り付けられている。このAK-74Mは、ロシア連邦の新しいライフル銃として受け入れられた。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ グレネードランチャー : GP-25 （改造後に取り付け可）
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1
+                %c[d_purple] ・ サプレッサー : TGP-A \n</text>
+  </string>
+  <string id="st_wpn_ak74m_duty">
+    <text>AK-74M（Duty迷彩仕様）</text>
+  </string>
+  <string id="st_wpn_ak74m_pk-a">
+    <text>AK-74M PK-A</text>
+  </string>
+  <string id="st_wpn_ak74m_pk-a_descr">
+    <text>1991年、イズマッシュ工場はAK-74の改良型であるAK-74M攻撃用ライフルの生産を開始した。いくつかのマイナーな改善とは別に、黒いガラス繊維入りポリアミドの合成素材から作られた、折りたたみ式銃床を特徴としている。また、強化されたマズル機器とダストカバーを使用し、光学部品を取り付けるためのサイドレールブラケットが取り付けられている。このAK-74Mは、ロシア連邦の新しいライフル銃として受け入れられた。このモデルは、光学マウントMTK-83にPK-Aサイトが搭載されている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ グレネードランチャー : GP-25 （改造後に取り付け可）
+                %c[d_purple] ・ 照準器 : PK-Aレッドドッドサイト（取り外し不可）
+                %c[d_purple] ・ サプレッサー : TGP-A</text>
+  </string>
+  <string id="st_wpn_ak74m_worn">
+    <text>AK-74M （使い古し）</text>
+  </string>
+  <string id="st_wpn_ak74u">
+    <text>AKS-74UN</text>
+  </string>
+  <string id="st_wpn_ak74u_camo">
+    <text>AKS-74UN（迷彩仕様）</text>
+  </string>
+  <string id="st_wpn_ak74u_custom">
+    <text>AKS-74UN（カスタム）</text>
+  </string>
+  <string id="st_wpn_ak74u_descr">
+    <text>AKS-74U は、コンパクトで比較的強力な個々の自動小銃を必要とする特殊部隊、空挺部隊、後方支援部隊や装甲車のクルー、で主に使用する個人的な防衛兵器として開発された。AKS-74Uは、AKS-74よりも狭い場所で機動性が大幅に向上しているが、銃口速度の大幅な低下により、有効範囲が減少している。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1
+                %c[d_purple] ・ サプレッサー : PBS-4</text>
+  </string>
+  <string id="st_wpn_ak74u_old">
+    <text>AKS-74U</text>
+  </string>
+  <string id="st_wpn_ak74u_old_descr">
+    <text>AKS-74U は、コンパクトで比較的強力な個々の自動小銃を必要とする特殊部隊、空挺部隊、後方支援部隊や装甲車のクルー、で主に使用する個人的な防衛兵器として開発された。AKS-74Uは、AKS-74よりも狭い場所で機動性が大幅に向上しているが、銃口速度の大幅な低下により、有効範囲が減少している。このモデルはとても古いようだ。
+
+                \n%c[ui_gray_2]アタッチメント : 
+%c[d_red] ・ 照準器 : ダブテール マウントがないため取り付け不可
+                %c[d_purple] ・ サプレッサー : PBS-4</text>
+  </string>
+  <string id="st_wpn_ak74u_rusty">
+    <text>AKS-74UN（錆付き）</text>
+  </string>
+  <string id="st_wpn_ak74u_rusty_descr">
+    <text>AKS-74U は、コンパクトで比較的強力な個々の自動小銃を必要とする特殊部隊、空挺部隊、後方支援部隊や装甲車のクルー、で主に使用する個人的な防衛兵器として開発された。AKS-74Uは、AKS-74よりも狭い場所で機動性が大幅に向上しているが、銃口速度の大幅な低下により、有効範囲が減少している。このモデルは錆びが目立つ。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1
+%c[d_red] ・ サプレッサー : 取り付け不可
+</text>
+  </string>
+  <string id="st_wpn_ak74u_snag">
+    <text>AKS-74UNB（特注品）</text>
+  </string>
+  <string id="st_wpn_ak74u_snag_descr">
+    <text>AKS-74U は、コンパクトで比較的強力な個々の自動小銃を必要とする特殊部隊、空挺部隊、後方支援部隊や装甲車のクルー、で主に使用する個人的な防衛兵器として開発された。AKS-74Uは、AKS-74よりも狭い場所で機動性が大幅に向上しているが、銃口速度の大幅な低下により、有効範囲が減少している。この特別なモデルには、45発RPKマガジン、コブラ照準器、およびサプレッサーが改造され取り付けられている。 
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : EKP-1S-03コブラ（取り外し不可）
+                %c[d_purple] ・ サプレッサー : PBS-4（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_ak74u_worn">
+    <text>AKS-74UN（使い古し）</text>
+  </string>
+  <string id="st_wpn_akm">
+    <text>AKMN</text>
+  </string>
+  <string id="st_wpn_akm_descr">
+    <text>AKMアサルトライフルは、1950年代にミハイル カラシニコフ氏によって設計された、7.62×39mm弾を使用するAK47を改良したものだ。1959年にロシアの赤軍に導入されたAKMはAKシリーズの中で最も普及しており、旧ワルシャワ条約機構加盟国やアフリカ、アジアの同盟国で広く普及している。AKMライフルの生産はトゥーラ武器工場とイジェフスク機械工場で行われた。 
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : PBS-1
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1
+                %c[d_purple] ・ グレネードランチャー : GP-25 （改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_akm_worn">
+    <text>AKMN（使い古し）</text>
+  </string>
+  <string id="st_wpn_akms">
+    <text>AKMSN</text>
+  </string>
+  <string id="st_wpn_akms_alt">
+    <text>AKMSN（部分改造）</text>
+  </string>
+  <string id="st_wpn_akms_descr">
+    <text>AKMの変種版で、固定された木製ストックのから折りたたみ式の金属製ショルダーストックに変更されている。AKMSの金属ストックは、AK-47で使われていたフォールディングストックとは異なっており、ストックの支持アームを２つロックするように改良されたロック機構を持っている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : PBS-1
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1
+                %c[d_purple] ・ グレネードランチャー : GP-25 （改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_akms_worn">
+    <text>AKMSN（使い古し）</text>
+  </string>
+  <string id="st_wpn_aks">
+    <text>AKS-47</text>
+  </string>
+  <string id="st_wpn_aks_descr">
+    <text>この銃はAK-47の変形版で、固定された木製のストックの代わりに、下に折り畳むことができる金属製のショルダーストックを備えている。装甲車両の搭乗員や空挺兵が使用するために設計された。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : PBS-1
+%c[d_red] ・ 照準器 : ダブテール マウントがないため取り付け不可
+                %c[d_purple] ・ グレネードランチャー : GP-25 （改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_aks74">
+    <text>AKS-74N</text>
+  </string>
+  <string id="st_wpn_aks74_descr">
+    <text>AKMより正確で信頼できるライフルであるAK-74は、現在でも旧ソ連圏であった国の多くで使用されている。そして、このAKS-74はAK-74の折畳みが可能なバージョンだ。この銃の三角形の形をしたストックはAKMSの下方へ折り畳む方式と違い、レシーバーの左側に折り畳む方式に変更されている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ グレネードランチャー : GP-25（改造後に取り付け可）
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1
+                %c[d_purple] ・ サプレッサー : TGP-A</text>
+  </string>
+  <string id="st_wpn_aks74_new">
+    <text>AKS-74N（新品）</text>
+  </string>
+  <string id="st_wpn_aks74_rusty">
+    <text>AKS-74N（錆付き）</text>
+  </string>
+  <string id="st_wpn_aks74_rusty_descr">
+    <text>AKMより正確で信頼できるライフルであるAK-74は、現在でも旧ソ連圏であった国の多くで使用されている。そして、このAKS-74はAK-74の折畳みが可能なバージョンだ。この銃の三角形の形をしたストックはAKMSの下方へ折り畳む方式と違い、レシーバーの左側に折り畳む方式に変更されている。このモデルは錆びていて、あまり信頼できない。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ グレネードランチャー : GP-25（改造後に取り付け可）
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1
+                %c[d_purple] ・ サプレッサー : TGP-A</text>
+  </string>
+  <string id="st_wpn_aks74_worn">
+    <text>AKS-74N（使い古し）</text>
+  </string>
+  <string id="st_wpn_aps">
+    <text>APS</text>
+  </string>
+  <string id="st_wpn_aps_descr">
+    <text>スチェッキンAPSは、デザイナーのイーゴリ スチェッキンの名前を持つロシアの発射モードを選択可能なセレクティブ ファイア式のピストルだ。弾薬は、当初7.62×25mm弾トカレフ用の弾倉であったが、新型のマカロフに使用されていた9×18mm弾に変更された。これはソビエト軍の拳銃用に新たに採用された弾薬である。1951年には、老朽化したTT-33に代わって、マカロフとスチェッキンがソ連軍に導入された。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : APS</text>
+  </string>
+  <string id="st_wpn_aps_worn">
+    <text>APS（使い古し）</text>
+  </string>
+  <string id="st_wpn_aug">
+    <text>ステアーAUG A1</text>
+  </string>
+  <string id="st_wpn_aug_custom">
+    <text>ステアーAUG A1（カスタム）</text>
+  </string>
+  <string id="st_wpn_aug_descr">
+    <text>ステアーAUGのスタンダード形状A1タイプ（軍用グリーン）。AUGはオーストリア製のブルバップ方式を採用した5.56mm弾アサルトライフル。1960 年代にシュタイヤー マンリヒャー社（以前のシュタイヤー ダイムラー プフ社）でデザインされた。AUG（「アーミー ユニバーサル ゲヴェア」すなわちドイツ語で「軍用汎用ライフル」を意味する略称）は、7.62mm弾のStG58（FN FALのライセンス生産品）の後継として、1978年にオーストリア連邦軍歩兵用および警察向けにStG 77（シュトゥルムゲヴェール77）の制式名で採用された。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品
+                %c[d_purple] ・ 照準器 : 1.5x（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_aug_freedom">
+    <text>ステアーAUG A1（迷彩仕様）</text>
+  </string>
+  <string id="st_wpn_aug_merc">
+    <text>ステアーAUG A1（特注品）</text>
+  </string>
+  <string id="st_wpn_aug_modern">
+    <text>ステアーAUG A1（近代化改修）</text>
+  </string>
+  <string id="st_wpn_aug_modern_descr">
+    <text>ステアーAUGのスタンダード形状A1タイプ（軍用グリーン）。AUGはオーストリア製のブルバップ方式を採用した5.56mm弾アサルトライフル。1960 年代にシュタイヤー マンリヒャー社（以前のシュタイヤー ダイムラー プフ社）でデザインされた。「AUG」（「アーミー ユニバーサル ゲヴェア」すなわちドイツ語で「軍用汎用ライフル」を意味する略称）は、7.62mm弾のStG58（FN FALのライセンス生産品）の後継として、1978年にオーストリア連邦軍歩兵用および警察向けにStG 77（シュトゥルムゲヴェール77）の制式名で採用された。このモデルは7.62x51mm NATO弾を使用するよう変更されている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品
+                %c[d_purple] ・ 照準器 : 1.5x（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_aug_worn">
+    <text>ステアーAUG A1（使い古し）</text>
+  </string>
+  <string id="st_wpn_beretta">
+    <text>ベレッタ92F</text>
+  </string>
+  <string id="st_wpn_beretta_alt">
+    <text>ベレッタ92F（部分改造）</text>
+  </string>
+  <string id="st_wpn_beretta_camo">
+    <text>ベレッタ92F（迷彩仕様）</text>
+  </string>
+  <string id="st_wpn_beretta_descr">
+    <text>92Fはおそらく、伝説的なM1911に取って代わる米軍の標準ピストルとして最もよく知られている。いくつかの国で採用されている人気のサイドアームで、強力な弾薬と大容量マガジンのために犯罪者の間で特に人気がある。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 9x19mm互換品（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_beretta_modern">
+    <text>ベレッタ92F（近代化改修）</text>
+  </string>
+  <string id="st_wpn_beretta_rusty">
+    <text>ベレッタ92F（錆付き）</text>
+  </string>
+  <string id="st_wpn_beretta_rusty_descr">
+    <text>92Fはおそらく、伝説的なM1911に取って代わる米軍の標準ピストルとして最もよく知られている。いくつかの国で採用されている人気のサイドアームで、強力な弾薬と大容量マガジンのために犯罪者の間で特に人気がある。このモデルは時間とともに錆び、信頼性が低下している。
+
+                \n%c[ui_gray_2]アタッチメント : 
+%c[d_red] ・ サプレッサー : 取り付け不可</text>
+  </string>
+  <string id="st_wpn_beretta_worn">
+    <text>ベレッタ92F（使い古し）</text>
+  </string>
+  <string id="st_wpn_bizon">
+    <text>PP-19バイソン</text>
+  </string>
+  <string id="st_wpn_bizon_descr">
+    <text>このサブマシンガンは、イジェフスクの有名なイズマッシュ機械製作工場 で1990年に開発され、1993年に初めて一般に公開された。キャリコ社のサブマシンガンの影響を受けており、バイソン サブマシンガンは大容量ヘリカルマガジンに従来の外観とレイアウトを組み合わせている。バイソンはAKS-74のレシーバーを短くしたもので、プレス加工された鋼鉄で作られている。その特徴は、閉鎖されたボルトからハンマーで発射されるというシンプルブローバック方式で動作する。バイソンはセミオート射撃およびフルオート射撃が可能で、レシーバーの右側にAKタイプの銃で見られるような安全装置のレバーがある。AKS-74Uと似たような外観で、背面が上向きになっているフード付きのフロントポストがある。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1
+                %c[d_purple] ・ サプレッサー : PBS-1</text>
+  </string>
+  <string id="st_wpn_bm16">
+    <text>TOZ-66（ソードオフ）</text>
+  </string>
+  <string id="st_wpn_bm16_alt">
+    <text>TOZ-66（部分改造ソードオフ）</text>
+  </string>
+  <string id="st_wpn_bm16_descr">
+    <text>砲身を短くした二重銃身のショットガン。軽くてコンパクトなので、近距離で威力を発揮する。安価で近距離に有効な武器が必要な場合、多くの新人ストーカーは、簡単に手に入るTOZ 66の銃床と銃身をノコギリで切ってしまう。これにより、ショットガンを素早く扱えるようになる、射程距離と精度が犠牲になる。</text>
+  </string>
+  <string id="st_wpn_bm16_full">
+    <text>TOZ-66</text>
+  </string>
+  <string id="st_wpn_bm16_full_alt">
+    <text>TOZ-66（部分改造）</text>
+  </string>
+  <string id="st_wpn_bm16_full_descr">
+    <text>TOZ 66は、信頼性と有効性を兼ね備えた近距離用の強力な武器で、ストーカーにとっては手に入れやすいものである。しかし、大きくて扱いにくいため、多くのストーカーは、稼いだルーブルを最新のハンドガンに代わりに費やすことを好む。</text>
+  </string>
+  <string id="st_wpn_bm16_full_rusty">
+    <text>TOZ-66（錆付き）</text>
+  </string>
+  <string id="st_wpn_bm16_full_worn">
+    <text>TOZ-66（使い古し）</text>
+  </string>
+  <string id="st_wpn_bm16_rusty">
+    <text>TOZ-66（錆付きソードオフ）</text>
+  </string>
+  <string id="st_wpn_bm16_worn">
+    <text>TOZ-66（使い古しソードオフ）</text>
+  </string>
+  <string id="st_wpn_colt_kimber">
+    <text>キンバー デザートウォーリアー</text>
+  </string>
+  <string id="st_wpn_colt_kimber_descr">
+    <text>キンバー社によって開発されたコルトM1911A1の先進的なバリエーション。キンバー デザートウォーリアーはアメリカで特殊作戦用に製造された。</text>
+  </string>
+  <string id="st_wpn_colt1911">
+    <text>コルトM1911</text>
+  </string>
+  <string id="st_wpn_colt1911_alt">
+    <text>コルトM1911（部分改造）</text>
+  </string>
+  <string id="st_wpn_colt1911_camo">
+    <text>コルトM1911（迷彩仕様）</text>
+  </string>
+  <string id="st_wpn_colt1911_camo_descr">
+    <text>M1911は、1911年から1985年まで米軍標準装備のサイドアームとして使用されてきた。非常に信頼できる強力な武器であり、世界中の軍隊、警察と一般人が使用するために採用されており、今日に至るまで非常に人気がある銃である。このユニークなモデルは、暗いベージュ色に赤いペイントがされている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : .45 ACP（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_colt1911_custom">
+    <text>コルトM1911（カスタム）</text>
+  </string>
+  <string id="st_wpn_colt1911_descr">
+    <text>M1911は、1911年から1985年まで米軍標準装備のサイドアームとして使用されてきた。非常に信頼できる強力な武器であり、世界中の軍隊、警察と一般人が使用するために採用されており、今日に至るまで非常に人気がある銃である。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : .45 ACP（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_colt1911_duty">
+    <text>コルトM1911（Duty迷彩仕様）</text>
+  </string>
+  <string id="st_wpn_colt1911_duty_descr">
+    <text>M1911は、1911年から1985年まで米軍標準装備のサイドアームとして使用されてきた。非常に信頼できる強力な武器であり、世界中の軍隊、警察と一般人が使用するために採用されており、今日に至るまで非常に人気がある銃である。この変種は特有の造形をしている。通常の物よりパワフルなのだ。
+
+                \n%c[ui_gray_2]アタッチメント :  
+                %c[d_purple] ・ サプレッサー : .45 ACP（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_colt1911_merc">
+    <text>コルトM1911（傭兵迷彩仕様）</text>
+  </string>
+  <string id="st_wpn_colt1911_merc_descr">
+    <text>M1911は、1911年から1985年まで米軍標準装備のサイドアームとして使用されてきた。非常に信頼できる強力な武器であり、世界中の軍隊、警察と一般人が使用するために採用されており、今日に至るまで非常に人気がある銃である。このモデルは、信頼性と命中率がかなり高まっている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : .45 ACP（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_colt1911_modern">
+    <text>コルトM1911（近代化改修）</text>
+  </string>
+  <string id="st_wpn_colt1911_new">
+    <text>コルトM1911（新品）</text>
+  </string>
+  <string id="st_wpn_colt1911_rusty">
+    <text>コルトM1911（錆付き）</text>
+  </string>
+  <string id="st_wpn_colt1911_rusty_descr">
+    <text>M1911は、1911年から1985年まで米軍標準装備のサイドアームとして使用されてきた。非常に信頼できる強力な武器であり、世界中の軍隊、警察と一般人が使用するために採用されており、今日に至るまで非常に人気がある銃である。このモデルは至るところが錆びており、弾詰まりを起こす可能性が高い。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_red] ・ サプレッサー : 取り付け不可</text>
+  </string>
+  <string id="st_wpn_colt1911_worn">
+    <text>コルトM1911（使い古し）</text>
+  </string>
+  <string id="st_wpn_cz75">
+    <text>CZ-75</text>
+  </string>
+  <string id="st_wpn_cz75_auto">
+    <text>CZ-75オート</text>
+  </string>
+  <string id="st_wpn_cz75_auto_descr">
+    <text>CZ-75は、コウキー兄弟によってチェコ共和国で開発されたセミオートマチックピストルだ。初めて1975年に展示され、1976年には輸出市場を目的として生産に入った。多くの先行デザインから蓄積された最高の造形は、CZ-75に握りやすいグリップ、信頼が置ける射撃の精度と作動の確実さを与え、美術的観点からも魅力的な拳銃を誕生させた。様々なバージョンと改良品がチェコ兵器廠国営会社によって作られた。CZ-75は広くコピーされもして、クローンモデルも多く作られた。CZ-75オートは1995年のモデルであり、フルオートモードとロングバレルを備える。</text>
+  </string>
+  <string id="st_wpn_cz75_custom">
+    <text>CZ-75（カスタム）</text>
+  </string>
+  <string id="st_wpn_cz75_descr">
+    <text>CZ-75は、コウキー兄弟によってチェコ共和国で開発された。このセミオートマチックピストルは、最初に1975年に展示され、1976年には輸出市場を目的として生産に入った。多くの先行デザインから蓄積された最高の造形は、CZ-75に握りやすいグリップ、信頼が置ける射撃の精度と作動の確実さを与え、美術的観点からも魅力的な拳銃を誕生させた。様々なバージョンと改良品がチェコ兵器廠国営会社によって作られた。CZ-75は広くコピーもされ、クローンモデルも多く作られた。</text>
+  </string>
+  <string id="st_wpn_cz75_worn">
+    <text>CZ-75（使い古し）</text>
+  </string>
+  <string id="st_wpn_desert_eagle">
+    <text>デザートイーグル</text>
+  </string>
+  <string id="st_wpn_desert_eagle_custom">
+    <text>デザートイーグル（カスタム）</text>
+  </string>
+  <string id="st_wpn_desert_eagle_descr">
+    <text>IMI社製デザートイーグルは半自動式の拳銃で、マガジン式自動拳銃の中では最も大口径の部類に属する弾薬を使用していることで知られている。なぜIMI社は手首を痛めずに撃つ事ができる様々な種類の弾薬があるにもかかわらず、44マグナム弾や.50 AE弾のような大口径を採用したのかはわかっていない。本銃は射撃時の反動が非常に大きく、銃自体の質量も大きいため、殺傷力は非常に高い。世界中の軍隊や法執行機関は、このゲテモノを採用することはなかったが、ハリウッドでは、そのわかりやすいキャラクター性から、フィクション作品に頻繁に登場し、ギャングや女たらしの男が好んで使用しており、ターゲットシューティングゲームでは腕が立つことを証明するシンボルとなっている。ゾーンでは、この銃を改造したものを持ったストーカーがうろついているとの噂がある。
+</text>
+  </string>
+  <string id="st_wpn_desert_eagle_modern">
+    <text>デザートイーグル（近代化改修）</text>
+  </string>
+  <string id="st_wpn_desert_eagle_nimble">
+    <text>デザートイーグル「ステップイーグル」</text>
+  </string>
+  <string id="st_wpn_desert_eagle_nimble_descr">
+    <text>IMI社製デザートイーグルは半自動式の拳銃で、マガジン式自動拳銃の中では最も大口径の部類に属する弾薬を使用していることで知られている。なぜIMI社は手首を痛めずに撃つ事ができる様々な種類の弾薬があるにもかかわらず、44マグナム弾や.50 AE弾のような大口径を採用したのかはわかっていない。本銃は射撃時の反動は非常に大きく、銃自体の質量も大きいため、殺傷力は非常に高い。この銃は、ローガン ウィリアムズというストーカーによってゾーンに持ち込まれた。 TIME社のカメラマンになりすまして、彼は単独でプリピャチの中心部に入った。彼の現在の所在は不明だが、ゾーンに関するあらゆる事柄を専門とする情報ブローカーとして働いているとの噂がある。</text>
+  </string>
+  <string id="st_wpn_desert_eagle_worn">
+    <text>デザートイーグル（使い古し）</text>
+  </string>
+  <string id="st_wpn_fn2000">
+    <text>FN F2000</text>
+  </string>
+  <string id="st_wpn_fn2000_camo">
+    <text>FN F2000（迷彩仕様）</text>
+  </string>
+  <string id="st_wpn_fn2000_custom">
+    <text>FN F2000（特注品）</text>
+  </string>
+  <string id="st_wpn_fn2000_descr">
+    <text>F2000は、1980年後半から1990年前半にかけてFNハースタルが開発し、2001年に初めて一般に公開された。設計はコンパクトなブルパップ方式を採用し、左右どちらの手でも射撃可能で、豊富なオプションとアドオンが利用可能なモジュール式など、現代的なアサルトライフルの人気のある特徴のすべてを備えている。これまでのところ、FN F2000ライフルを導入しているのは、スロベニア軍やベルギー特殊部隊を含むごく少数である。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : FN2000（取り外し不可）
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品 \n</text>
+  </string>
+  <string id="st_wpn_fn2000_nimble">
+    <text>FN F2000 イーオーテック</text>
+  </string>
+  <string id="st_wpn_fn2000_nimble_descr">
+    <text>F2000は、1980年後半から1990年前半にかけてFNハースタルが開発し、2001年に初めて一般に公開された。設計はコンパクトなブルパップ方式を採用し、左右どちらの手でも射撃可能で、豊富なオプションとアドオンが利用可能なモジュール式など、現代的なアサルトライフルの人気のある特徴のすべてを備えている。これまでのところ、FN F2000ライフルを導入しているのは、スロベニア軍やベルギー特殊部隊を含むごく少数である。このモデルにはイーオーテック社製スコープが統合されているおり、CQC（接触もしくは接触寸前の極めて近い距離での戦闘）を対象としているため、精度はわずかに低下しているが、発射速度が増加している。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : イーオーテック社製（取り外し不可）
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品 \n</text>
+  </string>
+  <string id="st_wpn_fn2000_worn">
+    <text>FN F2000（使い古し）</text>
+  </string>
+  <string id="st_wpn_fn57">
+    <text>FNファイブセブン</text>
+  </string>
+  <string id="st_wpn_fn57_descr">
+    <text>ファイブセブンは、遅延ブローバック式の半自動火器である。FNハースタル社によってP90短機関銃のサイドアーム（補助兵器）として設計された。P90とファイブセブンは同じ弾薬、5.7x28mm SS190弾を使用する。弾薬と武器の背景にある考えは、武器の重さ、寸法、および反動を適切なレベルに保ちながら、防弾服を着用している標的に対して良好な貫通力を備えていることである。</text>
+  </string>
+  <string id="st_wpn_fnp45">
+    <text>FNP-45</text>
+  </string>
+  <string id="st_wpn_fnp45_custom">
+    <text>FNP-45（カスタム）</text>
+  </string>
+  <string id="st_wpn_fnp45_descr">
+    <text>FN FNPピストルは、FNハースタル社の一部門であるFNH USAによってサウスカロライナ州コロンビアで製造された、半自動式ポリマーフレームピストルである。2006年初頭に登場したFNPシリーズの武器は、外部エクストラクターを備え、ブローニング カムシステムを利用したハンマー方式の銃だ。トリガーモジュールは、ハンマーに接続された個別ユニットとしてポリマーフレーム内に収容されている。マガジンリリースは、左右のどちら側からでもマガジンの着脱が可能なように両側にボタンが付いている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : ジェムテック社製</text>
+  </string>
+  <string id="st_wpn_fnp45_worn">
+    <text>FNP-45（使い古し）</text>
+  </string>
+  <string id="st_wpn_fnx45">
+    <text>FNX-45タクティカル</text>
+  </string>
+  <string id="st_wpn_fnx45_alt">
+    <text>FNX-45タクティカル（部分改造）</text>
+  </string>
+  <string id="st_wpn_fnx45_custom">
+    <text>FNX-45タクティカル（カスタム）</text>
+  </string>
+  <string id="st_wpn_fnx45_descr">
+    <text>FNXシリーズは、2009年にベルギーの銃メーカーFNハースタル社の米国子会社であるFNH USAから登場した。これらの拳銃はもともと、米国の統合戦闘ピストル プログラム用に開発されたもので、軍、法執行機関、民間での使用を目的としている。すべてのFNXハンドガンは、ダブル/シングルアクショントリガーと外部ハンマー露出型を備えた半自動式ピストルだ。すべてのFNXピストルのフレームは耐衝撃性ポリマーで作られており、取り外し可能なさまざまなサイズのバックストラップが付いている。FNX-45タクティカルは、FNX-45を特殊化したバージョンであり、取り外し可能なサプレッサー、スレッドバレル、標準で取り付けられたダットサイトなどを特徴としている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : FNXタクティカル（取り外し不可）
+                %c[d_purple] ・ サプレッサー : ジェムテック社製（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_fort">
+    <text>フォート17</text>
+  </string>
+  <string id="st_wpn_fort_descr">
+    <text>フォート17のピストルは、ウクライナ国営のフォートファクトリーの最新の開発品だ。これは、初期のフォート12ピストルを改造したポリマー製のフレームであり、2つのピストルのメカニズムと特性はほとんど同じである。しかし、フォート17は以前のモデルよりも軽く、射手をピストルに適応させるために、様々なサイズにすることができる取り外し可能なグリップバックストラップを特徴とする。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 9x18mm互換品</text>
+  </string>
+  <string id="st_wpn_fort_rusty">
+    <text>フォート17（錆付き）</text>
+  </string>
+  <string id="st_wpn_fort_rusty_descr">
+    <text>M1911は、1911年から1985年まで米軍標準装備のサイドアームとして使用されてきた。非常に信頼できる強力な武器であり、世界中の軍隊、警察と一般人が使用するために採用されており、今日に至るまで非常に人気がある銃である。このモデルは至るところが錆びており、弾詰まりを起こす可能性が高い。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_red] ・ サプレッサー : 取り付け不可</text>
+  </string>
+  <string id="st_wpn_fort_snag">
+    <text>フォート17（カスタム）</text>
+  </string>
+  <string id="st_wpn_fort_snag_descr">
+    <text>フォート17のピストルは、ウクライナ国営のフォートファクトリーの最新の開発品だ。これは、初期のフォート12ピストルを改造したポリマー製のフレームであり、2つのピストルのメカニズムと特性はほとんど同じである。しかし、フォート17は以前のモデルよりも軽く、射手をピストルに適応させるために様々なサイズにすることができる、取り外し可能なグリップバックストラップを特徴とする。このモデルは、以前スナグが所有していたものだ。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 9x19mm互換品</text>
+  </string>
+  <string id="st_wpn_fort_worn">
+    <text>フォート17（使い古し）</text>
+  </string>
+  <string id="st_wpn_g3">
+    <text>G3A3</text>
+  </string>
+  <string id="st_wpn_g3_descr">
+    <text>G3A3は、1950年代にドイツの武器メーカーであるヘッケラー＆コッホ社がスペインのCETME（特殊素材技術研究センター）と共同で開発したバトルライフルだ。この銃は、7.62x51mm NATO弾を使用するように設計されており、ローラー ディレード ブローバック方式を採用している。このライフル銃の設計は、スペインのCETMEのドイツ人エンジニア、ルートヴィヒ フォルグリムラー氏がデザインしたものである。1957年、ヘッケラー＆コッホ社はこのライフルの製造ライセンスを購入し、CETMEの設計にわずかな変更を加えた。1959年にドイツ連邦軍によってG3として正式に採用され、1995年にG36に置き換えられるまで使用されたが、ドイツ軍によって正式に置き換えられたにもかかわらず、いまだ限定的に使用されている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製 \n</text>
+  </string>
+  <string id="st_wpn_g3_worn">
+    <text>G3A3（使い古し）
+</text>
+  </string>
+  <string id="st_wpn_g36">
+    <text>G36</text>
+  </string>
+  <string id="st_wpn_g36_descr">
+    <text>H&amp;amp;K G36は1990年初頭にHK-50プロジェクトとして知られていた。G11とG41計画の中止の後、取り残されて時代遅れになったG3の後継の要望に応えるべく、ヘッケラー＆コッホ社は、ドイツ軍と輸出用の新型自動小銃を開発することになった。この新型5.56×45mmアサルトライフルは1995年にドイツ連邦軍に採用され、英国警察や米国警察など世界中のさまざまな法執行機関の手に渡った。今のところ、このライフルについての苦情はほとんどない。しかし、一部のドイツ軍兵士は射撃が続いた際のハンドガードの過熱と、悪天候時に光学照準器が容易に曇ってしまうと主張している。それらを除けば、正確で、信頼性があり、メンテナンスが簡単な良い銃器である。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品 \n</text>
+  </string>
+  <string id="st_wpn_g36_camo">
+    <text>G36（迷彩仕様）</text>
+  </string>
+  <string id="st_wpn_g36_worn">
+    <text>G36（使い古し）</text>
+  </string>
+  <string id="st_wpn_g36k">
+    <text>G36K</text>
+  </string>
+  <string id="st_wpn_g36k_descr">
+    <text>G36ライフルの短縮版で、短い銃身を持ち、開放型のフラッシュサプレッサー、短いフォレンド、およびUTLフラッシュライトのような戦術的付属品を取り付けるのに使用できる底部レールを備えている。ライフルの銃身はライフルグレネード弾を発射する能力がなく、銃剣の取り付けもできない。ドイツの特殊部隊で使われているG36Kは、100口径のC-Magドラムを使用している。G36Kには2つのバリエーションがあり、1つは上部にキャリーハンドルが付いた3倍スコープを持ち、もう1つは鉄の照準器とレールが付いている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : G36（取り外し不可）
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品 \n</text>
+  </string>
+  <string id="st_wpn_g36k_worn">
+    <text>G36K（使い古し）</text>
+  </string>
+  <string id="st_wpn_g3sg1">
+    <text>G3SG1</text>
+  </string>
+  <string id="st_wpn_g3sg1_descr">
+    <text>G3の狙撃型の銃。SGは「スカーフシュッツェンゲヴェア」すなわちドイツ語で「スナイパーライフル」を意味する略称である。G3SG1は、精度のためにG3アサルトライフルの内、試射で好成績を出したものを生産ラインから選抜し、改良された。レシーバーにH&amp;amp;Kクローマウントを使用し、ツァイス社製1.5 ~ 6倍可変スコープ、ストックはわずかに拡張され、チークピースと2段階調整可能なチークレストを備えている。1ポンド（約454グラム）の力でトリガーを引くことができる特別なセット トリガー グループが使われており、精度の高い射撃が可能である。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : G3（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_g3sg1_modern_descr">
+    <text>G3の狙撃型の銃。SGは「スカーフシュッツェンゲヴェア」すなわちドイツ語で「スナイパーライフル」を意味する略称である。G3SG1は、精度のためにG3 アサルトライフルの内、試射で好成績を出したものを生産ラインから選抜し、改良された。レシーバーにH&amp;amp;Kクローマウントを使用し、ツァイス社製1.5 ~ 6倍可変スコープ、ストックはわずかに拡張され、チークピースと2段階調整可能なチークレストを備えている。1ポンド（約454グラム）の力でトリガーを引くことができる特別なセット トリガー グループが使われており、精度の高い射撃が可能である。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : G3（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_g3sg1_worn">
+    <text>G3SG1（使い古し）</text>
+  </string>
+  <string id="st_wpn_g43">
+    <text>カラビナー43</text>
+  </string>
+  <string id="st_wpn_g43_descr">
+    <text>ナチ ドイツは、ソ連のSVTライフルからシンプルなガス式メカニズムを採用して、半自動式ライフル『ゲーワー43』を開発した。1944年にカラビナ43と改称され、ZF4望遠照準器を備えた狙撃銃である。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : ZF-41（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_famas3">
+    <text>ファマスF3</text>
+  </string>
+  <string id="st_wpn_famas3_descr">
+    <text>ファマスは、フランス語で「サンテティエンヌ工場のアサルトライフル」を意味する略称だ。このライフル銃の開発は1967年にフランス人の武器デザイナー、ポール テリーによって始まった。このライフルは老朽化したMAS Mle.49 / 56半自動小銃、MAT-49サブマシンガン、MAC Mle.1929軽機関銃の置き換えを目的としていた。1971年に最初の試作機が作られ、1972年にフランス軍がこのライフルのテストを開始した一方、フランスはスイスが設計したシグSG-540 5.56mmアサルトライフルを中間的な解決策として採用した。ファマスは1978年にフランス軍に採用されて以来、軍人の間ではその形状から、「クレーロン（軍隊ラッパ）」と呼ばれ、フランス陸軍の標準的ライフルとなった。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製 </text>
+  </string>
+  <string id="st_wpn_galil">
+    <text>ガリルAR</text>
+  </string>
+  <string id="st_wpn_galil_custom">
+    <text>ガリルAR（カスタム）</text>
+  </string>
+  <string id="st_wpn_galil_descr">
+    <text>1972年にイスラエル国防軍に正式に採用されたIMI社製ガリルは、砂漠地帯での作戦を想定して設計されており、ソ連のAK-47に由来するフィンランドのRK62に基づき開発された。5.56x45mm用と7.62x51mm用のチャンバーがある。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : PBS-1
+                %c[d_purple] ・ 照準器 : ガリル4倍（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_galil_modern">
+    <text>ガリルAR（近代化改修）</text>
+  </string>
+  <string id="st_wpn_galil_worn">
+    <text>ガリルAR（使い古し）</text>
+  </string>
+  <string id="st_wpn_gauss">
+    <text>ガウス ライフル</text>
+  </string>
+  <string id="st_wpn_gauss_descr">
+    <text>ゾーンで謎の一団によって作られた、実験的でアーティファクトの力を動力源にしている非常に正確な兵器。火薬の代わりに磁石を使い、弾丸を信じられないほどの速さで発射するため、発砲声はほとんど聞こえない。また、ガウス ライフルは強力な火力にもかかわらず、反動はごくわずかである。この銃の精度と威力は、他のあらゆる小型武器を圧倒している。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : 拡張4倍（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_glock">
+    <text>グロック19</text>
+  </string>
+  <string id="st_wpn_glock_custom">
+    <text>グロック19（カスタム）</text>
+  </string>
+  <string id="st_wpn_glock_descr">
+    <text>グロック19はグロック17のコンパクトバージョンで、その小型化によって軍や警察が簡単に隠したり運んだりできるようになった。このピストルは1988年にオーストリアのグロック社が製造した。グロック17と比較して、グロック19は重いスライドで反動を抑えつつ、グリップと銃身が短くなっている。グロック19の多くの部品は、マガジンを含めてグロック17のものと交換が可能である。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : ジェムテック社製（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_glock_modern">
+    <text>グロック19（部分改造）</text>
+  </string>
+  <string id="st_wpn_glock_modern_descr">
+    <text>グロック19はグロック17のコンパクトバージョンで、その小型化によって軍や警察が簡単に隠したり運んだりできるようになった。このピストルは1988年にオーストリアのグロック社が製造した。グロック17と比較して、グロック19は重いスライドで反動を抑えつつ、グリップと銃身が短くなっている。グロック19の多くの部品は、マガジンを含めてグロック17のものと交換が可能である。このモデルはフルオート射撃ができるように改造されている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : ジェムテック社製（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_glock_worn">
+    <text>グロッグ19 （使い古し）</text>
+  </string>
+  <string id="st_wpn_grach">
+    <text>MP-443グラッチ</text>
+  </string>
+  <string id="st_wpn_grach_descr">
+    <text>MP-443は、ショートリコイル作動方式のブリーチロックピストルである。ロシア連邦軍の次期制式拳銃トライアルでは「グラッチ」（ミヤマガラス）というコードネームで呼ばれていた。この試験は1993年から始まり、軍が次期拳銃の要件を満しているものを採用するためのものである。そして、出揃った試作機の中で勝ち残ったのがウラジーミル ヤリギン氏によってイジェフスク機械工場で設計されたこの拳銃だった。当初は試験中の軍表記から6P35、あるいはMP-443「グラッチ」というイジェフスク機械工場側の呼称で知られていたが、ロシア政府が軍用および法執行機関用としてPYaの名称で採用し、すでにロシア軍の一部の部隊に支給されている。</text>
+  </string>
+  <string id="st_wpn_grach_worn">
+    <text>MP-443グラッチ（使い古し）</text>
+  </string>
+  <string id="st_wpn_groza">
+    <text>OTs-14グローザ</text>
+  </string>
+  <string id="st_wpn_groza_descr">
+    <text>OTs-14 「グローザ」（ロシア語で「雷」を意味する）モジュール式自動小銃は、1990年初頭にTSKIB SOO（スポーツおよび狩猟用火器中央設計局）で開発された。これは、ロシア陸軍および内務省のさまざまな特殊部隊を対象とした、市街戦に特化した武器である。1990年代半ばにトゥーラ武器工場で少数生産されたOTs-14は、1999年にチェチェンでの軍事作戦で実践配備されたが、あまり人気ではなかったため、現在では生産されていない。この銃の特徴は、40mmグレネードランチャーなどと交換できる取り外し可能なフォアグリップを備え、ブルパップ方式の形態を取っている。OTS-14-4Aは、スペツナズ部隊と特殊前線戦闘部隊に採用されており、ミッションに応じて4種類の兵器のうちの1つを組み立てることができる。このゾーンでのバージョンは、GP-25グレネードランチャーを装備している。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : PO 4x34
+                %c[d_purple] ・ グレネードランチャー : GP-25（取り外し不可） \n</text>
+  </string>
+  <string id="st_wpn_groza_nimble">
+    <text>OTs-14-1Aグローザ1</text>
+  </string>
+  <string id="st_wpn_groza_nimble_descr">
+    <text>OTs-14-4A の唯一の派生型である OTs-14-1A 「グローザ1」は、7.62x39mm仕様である。発射速度、平坦性とマガジン容量は、軽量化とより高速な弾薬の使用で改善されている。限られた数しか製造されていない。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : PO 4x34
+                %c[d_purple] ・ グレネードランチャー : GP-25（取り外し不可） \n</text>
+  </string>
+  <string id="st_wpn_gsh18">
+    <text>Gsh-18</text>
+  </string>
+  <string id="st_wpn_gsh18_custom">
+    <text>Gsh-18（カスタム）</text>
+  </string>
+  <string id="st_wpn_gsh18_descr">
+    <text>GSH-18はトゥーラのKBP器械製造設計局で1990年代初期に開発された9x19mm弾を使用するセミオートピストルだ。ピストルの名前は、そのデザイナーであるグレイゼフとシプノフに由来し、数字の18はマガジンの容量を表している。GSH-18は、リコイルオペレーション型ピストルだ。この武器はカム回転式で、10個のラグがついている。GSH-18は発射後にスライドが後退するときに、トリガーがハーフコックの状態になるトリガーを備えている。7N21と7N31の徹甲弾を使えば、20メートルで8ミリの鋼鉄を貫通できる。</text>
+  </string>
+  <string id="st_wpn_gsh18_worn">
+    <text>Gsh-18（使い古し）</text>
+  </string>
+  <string id="st_wpn_hk416">
+    <text>HK416</text>
+  </string>
+  <string id="st_wpn_hk416_descr">
+    <text>HK416は、M4カービンを改修するためにヘッケラー＆コッホ社と米陸軍のデルタフォースが共同で開発したアサルトライフルだ。この銃は、AR-15系統のライフルとロアレシーバー他の互換性があり、アッパーレシーバーのみを従来のものから丸ごと入れ替えることが可能である。2004年に行われたテストでは、ショートストローク ピストン式が大幅に部品の寿命を高めながら、誤動作を低減することが証明された。このプロジェクトの最初のモデルにはH&amp;amp;K M4の名称が付けられた。しかし、コルト ディフェンス社が商標権侵害訴訟を起こしたことを受け、HK416に変更された。現在は政府や軍の組織のみが使用できるため、このアサルトライフルは通常Mercenaryたちが携行している。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製
+                %c[d_purple] ・ グレネードランチャー : M203</text>
+  </string>
+  <string id="st_wpn_hpsa">
+    <text>ブローニング ハイパワー</text>
+  </string>
+  <string id="st_wpn_hpsa_alt">
+    <text>ブローニング ハイパワー（部分改造）</text>
+  </string>
+  <string id="st_wpn_hpsa_descr">
+    <text>ブローニング ハイパワーはシングルアクションの9mm半自動式拳銃だ。米国の銃器発明家ジョン ブローニングが1922年に考案し、特許を取得したもので、後にFNハースタルが特許を取得した。ブローニングは1926年に試作機の開発を終える前に亡くなったが、FN社のデュードネ ヨセフ サイーブが改良を加え、1934年に完成した。ブローニング ハイパワーは、ルガーやモーゼル1910などの現代的なピストルの2倍である13発のマガジン容量で知られている。古い設計であるにもかかわらず、いまだに世界中で人気がある。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 9x19mm互換品（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_hpsa_rusty">
+    <text>ブローニング ハイパワー（錆び付き）</text>
+  </string>
+  <string id="st_wpn_hpsa_rusty_descr">
+    <text>ブローニング ハイパワーはシングルアクションの9mm半自動ピストルだ。米国の銃器発明家ジョン ブローニングが1922年に考案し、特許を取得したもので、後にFNハースタルが特許を取得した。ブローニングは1926年に試作機の開発を終える前に亡くなったが、FN社のデュードネ ヨセフ サイーブが改良を加え、1934年に完成した。ブローニング ハイパワーは、ルガーやモーゼル1910などの現代的なピストルの2倍の13発のマガジン容量で知られている。古い設計であるにもかかわらず、いまだに世界中で人気がある。このモデルは、くぼみや腐食があるため信頼性がない。
+
+                \n%c[ui_gray_2]アタッチメント : 
+%c[d_red] ・ サプレッサー : 取り付け不可</text>
+  </string>
+  <string id="st_wpn_hpsa_worn">
+    <text>ブローニング ハイパワー（使い古し）</text>
+  </string>
+  <string id="st_wpn_k98">
+    <text>カラビナー 98 Kurz</text>
+  </string>
+  <string id="st_wpn_k98_descr">
+    <text>カラビナー98kは並外れた精度とZF39スコープを備えており、第二次世界大戦中主力小銃として運用された。これらのライフルはナチスドイツで狙撃用ライフルとして使われていました。熟練した狙撃手であれば、有効射程は1000メートルに達する。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : ZFシリーズ
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_kiparis">
+    <text>OTs-02キパリス</text>
+  </string>
+  <string id="st_wpn_kiparis_descr">
+    <text>OTs-02キパリス（糸杉）は、1972年にソ連国防省の要請を受け、ロシアのトゥーラ市にあるTSKIB SOO（スポーツおよび狩猟用火器中央設計局）の設計者によって開発されたサブマシンガンだ。外観はチェコスロバキアのサブマシンガン、スコーピオンVz.61によく似ている。本銃の自動機構はフリーボルト リコイルによって動作し、クローズドボルトから発射されるため、発射精度が向上している。また、武器の安定性を高めるために、折り畳み式ストックが使用され、レシーバーの上に折り畳むことが可能だ。ゾーンではこの武器は珍しくなく、良い武器を買う余裕のないBanditやLonerたちが愛用している。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 9x19mm互換品</text>
+  </string>
+  <string id="st_wpn_kiparis_worn">
+    <text>OTs-02キパリス（使い古し）</text>
+  </string>
+  <string id="st_wpn_l85a2">
+    <text>L85A2</text>
+  </string>
+  <string id="st_wpn_l85a2_alt">
+    <text>L85A2（部分改造）</text>
+  </string>
+  <string id="st_wpn_l85a2_custom">
+    <text>L85A2（カスタム）</text>
+  </string>
+  <string id="st_wpn_l85a2_modern">
+    <text>L85A2（近代化改修）</text>
+  </string>
+  <string id="st_wpn_l85a2_descr">
+    <text>SA80システムは、SA80IWアサルトライフルとSA80LSW軽機関銃の二つの兵器から構成されていたが、1960年後半に英国陸軍が新型ライフルの開発を決定したことから開発が始まった。これは、英国製の7.62×51mm L1 SLRタイプのFN FALに代わるものだ。当時の英国軍の標準的な個人用火器であったL85（オリジナルのA1バージョン）には、性能上の問題が数多くあった。それらを改善したL85A2は、様々な運用シナリオや気候条件に左右されず、極めて信頼性の高い作りになっている。特に標準的なSUSATスコープは信頼性が高く正確であると認識されている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : SUSAT 4倍（取り外し不可）
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品（改造後に取り付け可）
+</text>
+  </string>
+  <string id="st_wpn_l85">
+    <text>L85A1</text>
+  </string>
+  <string id="st_wpn_l85_alt">
+    <text>L85A1（部分改造）</text>
+  </string>
+  <string id="st_wpn_l85_custom">
+    <text>L85A1（カスタム）</text>
+  </string>
+  <string id="st_wpn_l85_modern">
+    <text>L85A1（近代化改修）</text>
+  </string>
+  <string id="st_wpn_l85_worn">
+    <text>L85A1（使い古し）</text>
+  </string>
+  <string id="st_wpn_l85_descr">
+    <text>SA80システムは、SA80IWアサルトライフルとSA80LSW軽機関銃の二つの兵器から構成されていたが、1960年後半に英国陸軍が新型ライフルの開発を決定したことから開発が始まった。これは、英国製の7.62×51mm L1 SLRタイプのFN FALに代わるものだ。当時の英国軍の標準的な個人用火器であったL85（オリジナルのA1バージョン）には、性能上の問題が数多くあった。それらを改善したL85A2は、様々な運用シナリオや気候条件に左右されず、極めて信頼性の高い作りになっている。特に標準的なSUSATスコープは信頼性が高く正確であると認識されている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : SUSAT（取り外し不可）
+                %c[d_purple] ・ %c[ui_gray_2] 5.56x45 互換サプレッサー（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_l96a1">
+    <text>L96A1</text>
+  </string>
+  <string id="st_wpn_l96a1_descr">
+    <text>Accuracy International Arctic Warfare Rifleは、英国の会社Accuracy Internationalが設計 製造したボルトアクション方式の狙撃銃だ。1980年代に導入されて以来、民間、警察、軍事用のライフルとして人気がある。ライフルには、極低温で性能を向上させるいくつかの特徴があり、そのような環境においても動作を損なうことはない。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : リューポルド社のマーク4（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_l96a1_worn">
+    <text>L96A1（使い古し）</text>
+  </string>
+  <string id="st_wpn_l96a1m">
+    <text>L96 AWSM </text>
+  </string>
+  <string id="st_wpn_l96a1m_descr">
+    <text>アキュラシー インターナショナル社のアークティク ウォーフェア ライフルは、英国のアキュラシー インターナショナル社が設計 製造したボルトアクション方式の狙撃銃だ。1980年代に導入されて以来、民間、警察、軍事用のライフルとして人気がある。ライフルには、極低温で性能を向上させるいくつかの特徴があり、そのような環境においても動作を損なうことはない。このL96AWSMは、.338ラプア マグナム弾を使用する。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : リューポルド社のマーク4（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_lr300">
+    <text>LR-300ML</text>
+  </string>
+  <string id="st_wpn_lr300_camo">
+    <text>LR-300ML（迷彩仕様）</text>
+  </string>
+  <string id="st_wpn_lr300_custom">
+    <text>LR-300ML（カスタム）</text>
+  </string>
+  <string id="st_wpn_lr300_descr">
+    <text>AR-15をベースにしたLR-300は、接近戦での軍事使用に適した優れた兵器システムだ。ストックを折りたたむことができるため、コンパクトでありながら強力で、発射モードの切り替えが可能な火器を必要とする建物などの突入に最適だ。優れた人間工学に基づいた設計と軽量性によりこの武器は非常に正確であるが、汚れに敏感であり、過酷な環境下における使用には向いていない。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製
+                %c[d_purple] ・ グレネードランチャー : M203（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_lr300_rusty">
+    <text>LR-300ML（錆び付き）</text>
+  </string>
+  <string id="st_wpn_lr300_rusty_descr">
+    <text>AR-15をベースにしたLR-300は、接近戦での軍事使用に適した優れた兵器システムだ。ストックを折りたたむことができるため、コンパクトでありながら強力で、発射モードの切り替えが可能な火器を必要とする建物などの突入に最適だ。優れた人間工学に基づいた設計と軽量性によりこの武器は非常に正確であるが、汚れに敏感であり、過酷な環境下における使用には向いていない。このモデルはさびで覆われているため、ゾーンの過酷な環境での信頼性がさらに低下している。
+
+                \n%c[ui_gray_2]アタッチメント : 
+%c[d_red] ・ サプレッサー : 取り付け不可
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製
+                %c[d_purple] ・ グレネードランチャー : M203（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_lr300_worn">
+    <text>LR-300ML（使い古し）</text>
+  </string>
+  <string id="st_wpn_m16">
+    <text>M16A4</text>
+  </string>
+  <string id="st_wpn_m16_descr">
+    <text>M16は、アーマライトAR-15から派生し、1960年代にコルト社によってさらに改良された。M系ライフルのファミリーであるM16/A1/A2/A3/A4のライフル群は、1960年代から米軍の主要な歩兵ライフルとして使われている。M系ライフルはその派生型と共に、NATO同盟国の15カ国で使用されており、数ある銃の中で最も生産されている銃器である。M16は軽量、5.56x45mm弾仕様、空冷式、ガス圧作動方式、弾倉式アサルトライフルで、回転式ボルトを備え、ダイレクト インピンジメント式で動作する。ライフルの本体は鋼鉄、アルミニウム、複合プラスチックでできている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製</text>
+  </string>
+  <string id="st_wpn_m16_worn">
+    <text>M16A4（使い古し）</text>
+  </string>
+  <string id="st_wpn_m16a2">
+    <text>M16A2</text>
+  </string>
+  <string id="st_wpn_m16a2_descr">
+    <text>M16A2ライフルは1980年代に実戦に投入された小口径自動小銃だ。ベルギーで設計され、NATOの標準的な弾薬であるM855/M856弾を発射するためにチャンバー化されている。M16A2は、海兵隊から要求された要素を取り入れおり、より長いストック、より重いバレル、左手用のケース デフレクター、円錐形のハンドガードなどの特徴がある。M16A2はコルト社およびFNハースタル社によって製造され、世界各地に流通している。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ グレネードランチャー : M203\n
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品 \n</text>
+  </string>
+  <string id="st_wpn_m24">
+    <text>M24 SWS「グリーン ドラゴン」</text>
+  </string>
+  <string id="st_wpn_m24_descr">
+    <text>米陸軍の狙撃銃M24スナイパー ウエポン システム（SWS）は、レミントン700に基づいており、リューポルド10x40mmスコープを装備、ステンレス製のバレルと、ケブラーグラファイトの調整可能な合成銃床を持つ。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : M24 sniper（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_m249">
+    <text>M249 SAW</text>
+  </string>
+  <string id="st_wpn_m249_descr">
+    <text>M249はベルギーのFNミニミをアメリカで改造した、ベルト式5.56x45mm軽機関銃だ。1989年の米国のパナマ侵攻以来、米国が関与するすべての大規模紛争で実戦配備されており、土や砂で詰まるという報告もあるが、兵士らはおおむね満足しているという。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製 \n</text>
+  </string>
+  <string id="st_wpn_m4">
+    <text>M4A1 RAS</text>
+  </string>
+  <string id="st_wpn_m4_descr">
+    <text>M4カービンは、アーマライトによって作られたオリジナルのAR-15をベースにしたM16直系の派生型だ。簡単に言えばM16アサルトライフルの短くて軽いバージョンで、部品の80%を共有している。M4は、5.56×45mmのNATO弾を使用し、ガス作動式、空冷式、マガジン供給式、4ポジション伸縮式ストックを備えている。多くのカービン銃と同様に手軽で、長くて重い通常のライフル銃と比べ、携帯に便利だ。アメリカ特殊作戦軍が採用しており、米陸軍特殊部隊および海軍特殊部隊の優先兵器である。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製
+                %c[d_purple] ・ グレネードランチャー : M203 </text>
+  </string>
+  <string id="st_wpn_m4_worn">
+    <text>M4A1 RAS（使い古し）</text>
+  </string>
+  <string id="st_wpn_m4a1">
+    <text>M4A1</text>
+  </string>
+  <string id="st_wpn_m4a1_camo">
+    <text>M4A1（迷彩仕様）</text>
+  </string>
+  <string id="st_wpn_m4a1_custom">
+    <text>M4A1（カスタム）</text>
+  </string>
+  <string id="st_wpn_m4a1_descr">
+    <text>CQC（接触もしくは接触寸前の極めて近い距離での戦闘）に理想的なM4A1カービンは、M16A2自動小銃のオートマチックバージョンだ。軍事用としては、現代の装甲には適さないピストル弾を発射するM3サブマシンガンに取って代わられている。M4A1はM4カービンの改良型で、フルオートまたはセミオートで発射できる。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製
+                %c[d_purple] ・ グレネードランチャー : M203（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_m4a1_freedom">
+    <text>M4A1（Freedom迷彩仕様）</text>
+  </string>
+  <string id="st_wpn_m4a1_worn">
+    <text>M4A1 （使い古し）</text>
+  </string>
+  <string id="st_wpn_m79">
+    <text>M79</text>
+  </string>
+  <string id="st_wpn_m79_descr">
+    <text>M79グレネードランチャーは、40×46mmのグレネードを発射する単発の中折れ式グレネードランチャーで、米陸軍が高低圧システムと呼ぶものを使って反動を低く抑えていた。ベトナム戦争で初めて登場した。</text>
+  </string>
+  <string id="st_wpn_m98b">
+    <text>バレットM98B「ブラボー」</text>
+  </string>
+  <string id="st_wpn_m98b_descr">
+    <text>バレットM98Bは、.338ラプア マグナム弾を使用するボルトアクション式の狙撃銃だ。M98Bは、既存のライフルを改良したものではなく、独自の設計がされている。主な特徴は、調節可能なストックとチークパッド、好みのトリガーにできる調節可能なトリガー、安定性の向上のために後部にモノポッド、前部にバイポッドを備えている。さらに照準器やライト、グリップをレールに取り付けることができ、幅広いカスタムが可能となっている。M98Bは、ユーザーが簡単に分解して掃除できるシンプルな構造でできている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ スコープ : リューポルド社のマーク4（取り外し不可）
+                %c[d_purple] ・ サプレッサー : SR-25（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_mosin">
+    <text>モシン ナガン</text>
+  </string>
+  <string id="st_wpn_mosin_descr">
+    <text>モシン ナガンの基本バージョンであり、わずかに内部が磨耗している。M1891/30は1930年から1945年までソ連の全歩兵に標準装備されていた。第二次世界大戦では、4倍PEスコープまたは3.5倍PUスコープを装備して狙撃銃として活躍した。
+
+                \n%c[ui_gray_2]アタッチメント : 
+%c[d_purple]・  照準器 : PU</text>
+  </string>
+  <string id="st_wpn_mosin_worn">
+    <text>モシン ナガン（使い古し）</text>
+  </string>
+  <string id="st_wpn_mossberg590">
+    <text>モスバーグ590A1</text>
+  </string>
+  <string id="st_wpn_mossberg590_descr">
+    <text>モスバーグ590は1970年代にO.F.モスバーグ&amp;amp;ソンズ社が、米軍採用のために、モスバーグのモデル500ショットガンを改良して開発したものだ。改良には、レシーバーの強化、バレルの周囲へのヒートシールドの設置、バヨネットラグ、拡張マガジン、プラスチック製からアルミ製に変更されたトリガーガードなどがある。表面の仕上げはパーカライジングで、本体には交換用ピストルグリップが付いているので、ユーザーによる変形が簡単にできる。1987年以来、米軍の標準的な散弾銃であった。米陸軍ではベネリM1014セミオートマチック散弾銃に取って代わられたが、モスバーグ590散弾銃は現在も米海軍で使用されている。</text>
+  </string>
+  <string id="st_wpn_mossberg590_worn">
+    <text>モスバーグ590A1（使い古し）</text>
+  </string>
+  <string id="st_wpn_mp133">
+    <text>MP-133</text>
+  </string>
+  <string id="st_wpn_mp133_descr">
+    <text>MP-133は、イジェフスク機械工場の製品である。このショットガンは先行品であるIZh-81ポンプ アクション ショットガンの発展型で、民間とセキュリティ市場を目指している。これは、2つの基本的なバージョンが設計されている : チューブマガジンを備える標準的なMP-133と、分離できるボックスマガジンを備えたMP133Kである。両方のバージョンで、様々な長さと形状の銃身、木またはポリマー製の付属品が付けられ、固定か折り畳みストック、ピストルグリップかどうかを選べる。MP-133ショットガンは、ダブルアクションバーがあるフォアエンドをスライドさせる、伝統的なポンプ アクションである。ロック機構はティルトロック部品からなり、ボルトと共にバレルエクステンションのノッチ部分に収まる。チューブマガジンから送弾が行われる。装弾数は４発だが、拡張マガジンに付け替えることで、装弾数を増やすことができる。\n</text>
+  </string>
+  <string id="st_wpn_mp133_rusty">
+    <text>MP-133（錆付き）</text>
+  </string>
+  <string id="st_wpn_mp133_worn">
+    <text>MP-133（使い古し）</text>
+  </string>
+  <string id="st_wpn_mp153">
+    <text>MP-153</text>
+  </string>
+  <string id="st_wpn_mp153_descr">
+    <text>MP-153セルフローディング ショットガンは、イジェフスク機械工場によって設計、製造された最初のセミオートショットガンだ。MP-153はポンプアクション式MP-133ショットガンと共に開発され、多くの部品やアセンブリを共有しているのが特徴だ。MP-153はロシアで最も人気のあるセミオートショットガンのひとつであり、ロシアの様々な狩猟狩ゲームで広く使用されている。また、輸出用にも販売されており、アメリカではレミントン「スパルタン」SPR-453オートローダーという名称で流通している。MP-153ショットガンはやや重いものの、頑丈で信頼性の高いことで知られている。\n\n</text>
+  </string>
+  <string id="st_wpn_mp153_rusty">
+    <text>MP-153（錆付き）</text>
+  </string>
+  <string id="st_wpn_mp153_worn">
+    <text>MP-153（使い古し）</text>
+  </string>
+  <string id="st_wpn_mp412">
+    <text>MP-412 Rex</text>
+  </string>
+  <string id="st_wpn_mp412_descr">
+    <text>MP412 REXは、ブレークアクションチャンバーと自動エジェクターを備えたロシア製ダブルアクション357マグナムリボルバーだ。輸出向けに設計されている（REXの名称はエキスパート用リボルバーに由来）が、市場が無かったため、本格的な生産には至らなかった。この武器は、マカロフPM半自動拳銃を設計 製造したロシア国営のイジェフスク機械工場によって設計された。</text>
+  </string>
+  <string id="st_wpn_mp5">
+    <text>MP5A3</text>
+  </string>
+  <string id="st_wpn_mp5_alt">
+    <text>MP5A3 （部分改造）</text>
+  </string>
+  <string id="st_wpn_mp5_custom">
+    <text>MP5A3（カスタム）</text>
+  </string>
+  <string id="st_wpn_mp5_descr">
+    <text>MP5は、このクラスで最も有名で広く普及している銃器の1つだ。そのコンパクトさ、精度と信頼性は、その数々の軍隊、法執行機関、諜報、保安機関、と世界中で人気を獲得した。MP5A3 は、伸縮式金属製銃床が装備されている。当然ながら世界中のブラックマーケットにも溢れ、結局ゾーンまで流通した。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632
+                %c[d_purple] ・ サプレッサー : 9x19mm互換品（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_mp5_nimble">
+    <text>MP5A3「フレイジャー」</text>
+  </string>
+  <string id="st_wpn_mp5_nimble_descr">
+    <text>優れたH&amp;amp;K MP5A3をベースにしたサブマシンガンのプロトタイプ。次世代の近接戦闘火器として設計されており、高い口径、発射速度、正確さを備えている。
+
+                %c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632
+                %c[d_purple] ・ サプレッサー : ジェムテック社製（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_mp5_worn">
+    <text>MP5A3（使い古し）</text>
+  </string>
+  <string id="st_wpn_mp5sd">
+    <text>MP5SD6</text>
+  </string>
+  <string id="st_wpn_mp5sd_custom">
+    <text>MP5SD6（カスタム）</text>
+  </string>
+  <string id="st_wpn_mp5sd_descr">
+    <text>統合されたサプレッサーを備えたMP5の変種。ゾーンのMercenaryは通常の変種よりもこの変種を好んで使っている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製
+                %c[d_purple] ・ サプレッサー : 特別製MP5SD（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_mp5sd_new">
+    <text>MP5SD6（新品）</text>
+  </string>
+  <string id="st_wpn_mp5sd_worn">
+    <text>MP5SD6（使い古し）</text>
+  </string>
+  <string id="st_wpn_oc33">
+    <text>OTs-33ペルナッハ</text>
+  </string>
+  <string id="st_wpn_oc33_descr">
+    <text>OTs-33「ペルナッハ」（ロシア語で「多段式メイス」を意味する）は、ロシアの小さな自動拳銃として最近登場したものだ。OTs-33はフルオートおよびセミオートモードから選択することができ、9x18mmマカロフ弾を使用するブローバック式機関拳銃である。OTs-33ペルナッハは、特殊部隊で使用されているスチェッキンAPSピストルを置き換えるために開発された。この銃の設計は、1995年にAPSの開発に携わったデザイナーで、ロシアのトゥーラ市にあるTsKIB SOO（スポーツおよび狩猟用武器中央設計局）所属のイゴーリ スチェッキンによって行われた。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : APS（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_oc33_rusty">
+    <text>OTs-33ペルナッハ（錆付き）</text>
+  </string>
+  <string id="st_wpn_oc33_rusty_descr">
+    <text>OTs-33「ペルナッハ」（ロシア語で「多段式メイス」を意味する）は、ロシアの小さな自動拳銃として最近登場したものだ。OTs-33はフルオートおよびセミオートモードから選択することができ、9x18mmマカロフ弾を使用するブローバック式機関拳銃である。OTs-33ペルナッハは、特殊部隊で使用されているスチェッキンAPSピストルを置き換えるために開発された。この銃の設計は、1995年にAPSの開発に携わったデザイナーで、ロシアのトゥーラ市にあるTSKIB SOO（スポーツおよび狩猟用火器中央設計局）所属のイゴーリ スチェッキンによって行われた。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : APS（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_oc33_worn">
+    <text>OTs-33ペルナッハ（使い古し）</text>
+  </string>
+  <string id="st_wpn_p90">
+    <text>FN P90</text>
+  </string>
+  <string id="st_wpn_p90_descr">
+    <text>FN P90短機関銃は、車両や戦車の乗組員、砲兵の乗組員などの部隊のための個人防衛火器として1980年後半に開発された。標準的な弾薬を使用したピストルと短機関銃は、防弾服を着た敵に対しては効果がないことが証明された。そのためFN設計者は、高い貫通能力を保持しつつ反動を低く抑えることができる、当初はSS90と呼ばれる新しい弾薬を開発した。しかし、FN社はさらに小口径で5.56mm NATO弾を縮小したような弾薬の開発を目指し、さらなる改良を重ねた。その結果生まれたのが、1990年にFN P90個人用防衛火器と共に登場した、5.7×28mm SS190弾だ。この改良型は、弾丸をポリマー弾芯から、より重い鋼鉄とアルミニウムのデュアル弾芯に置き換え、装甲に対する貫通力を高めている。
+
+                %c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製
+                %c[d_purple] ・ サプレッサー : 5.7x28</text>
+  </string>
+  <string id="st_wpn_pb">
+    <text>PB</text>
+  </string>
+  <string id="st_wpn_pb_custom">
+    <text>PB（近代化改修）</text>
+  </string>
+  <string id="st_wpn_pb_descr">
+    <text>ソ連軍では6P9としても知られているPB（「ピストレット ベシュムニー」すなわちロシア語で「消音拳銃」を意味する略称）は、1967年にソ連軍のスペツナズ部隊とKGB工作員のために開発された。このピストルはマカロフPMに基づいており、ユニークな半一体型サプレッサーを特徴とする。サプレッサーの前部は取り外し可能であるため、持ち運びに便利なように2つに分解することが可能である。PB半一体型サプレッサーは弾丸速度を亜音速レベル以下に低減させる。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 6P9（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_pb_worn">
+    <text>PB（使い古し）</text>
+  </string>
+  <string id="st_wpn_pkm_zulus">
+    <text>ズールーのPKM</text>
+  </string>
+  <string id="st_wpn_pkm_zulus_descr">
+    <text>この銃は元々ズールーの持ち物だった。特徴として装弾数が多く、機関部の信頼性が向上している事が挙げられる。前の持ち主には問題無かった様だが、これらの改良の結果、重量が増している。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製
+                %c[d_purple] ・ サプレッサー : 5.7x28</text>
+  </string>
+  <string id="st_wpn_pkp">
+    <text>PKPペチェネグ</text>
+  </string>
+  <string id="st_wpn_pkp_descr">
+    <text>PKP「ペチェネグ」はロシア製の7.62x54mm R弾を使用する軽機関銃だ。それは現代化されたPKM機関銃といえるだろう。ペチェネグは、ラジアル冷却リブと燃焼ガスよる生じる圧力差の作用で熱を逃し、バレルをより低温に保つためのハンドルを備えている。重くて取り外し不可能な空冷バレル仕様のため、すべての先行されている同系統の銃よりも正確であると言われている。</text>
+  </string>
+  <string id="st_wpn_pm">
+    <text>マカロフPM</text>
+  </string>
+  <string id="st_wpn_pm_actor">
+    <text>儀礼用マカロフPM</text>
+  </string>
+  <string id="st_wpn_pm_actor_descr">
+    <text>「非常に危険な国家命令の遂行、およびDutyに示された度胸と勇気」に対する報酬としてデグチャレフに与えられた往古のPM。</text>
+  </string>
+  <string id="st_wpn_pm_custom">
+    <text>マカロフPM（カスタム）</text>
+  </string>
+  <string id="st_wpn_pm_descr">
+    <text>このソ連の遺産は、ゾーンで最も一般的な拳銃であり、コンパクトな護身用ハンドガンとしては最高のもののひとつである。小型で、信頼性が高く、使いやすく、メンテナンスも簡単である。しかし、射程距離の短さ、命中率の低さ、ストッピングパワーの低さなどの欠点があり、重量やマガジンの大きさの点でも同クラスの最新のピストルに劣っている。1951年、マカロフPMが選ばれたのは、そのシンプルさ、製造の容易さ、正確さ、適度なストッピング パワーなどが評価されたからである。</text>
+  </string>
+  <string id="st_wpn_pm_rusty">
+    <text>マカロフPM（錆付き）</text>
+  </string>
+  <string id="st_wpn_pm_rusty_descr">
+    <text>このソ連の遺産は、ゾーンで最も一般的な拳銃であり、コンパクトな護身用ハンドガンとしては最高のもののひとつである。小型で、信頼性が高く、使いやすく、メンテナンスも簡単である。しかし、射程距離の短さ、命中率の低さ、ストッピングパワーの低さなどの欠点があり、重量やマガジンの大きさの点でも同クラスの最新のピストルに劣っている。1951年、マカロフPMが選ばれたのは、そのシンプルさ、製造の容易さ、正確さ、適度なストッピング パワーなどが評価されたからである。このモデルは錆ついており、信頼性がかなり低下している。</text>
+  </string>
+  <string id="st_wpn_pm_worn">
+    <text>マカロフPM（使い古し）</text>
+  </string>
+  <string id="st_wpn_pmm">
+    <text>PMM</text>
+  </string>
+  <string id="st_wpn_pmm_descr">
+    <text>最も広く知られている変種であるマカロフPMMは、1990年に技術者グループが、オリジナルの銃であるマカロフPMを再設計したものである。主にカートリッジの負荷を増やし、銃口速度が25％増加した。また、PMMマガジンはPMの8発に対して12発の装弾数を誇っている。
+</text>
+  </string>
+  <string id="st_wpn_pp2000">
+    <text>PP-2000</text>
+  </string>
+  <string id="st_wpn_pp2000_descr">
+    <text>PP-2000はロシアのトゥーラ社にあるKBP社（機器設計局）の最新の開発品だ。モスクワで開かれたインターポリテック2004で最初に公開されたが、特許は2001年に出願され、2003年に認められたものである。PP-2000は、個人防衛火器、近接戦闘火器として設計されており、特殊部隊や特殊警察部隊での運用を意図している。そのため、信頼性が高く、部品点数が少なく、メンテナンスが容易で、低コストな小型銃器だ。この銃は、特に接近戦においてその真価を発揮することだろう。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製
+                %c[d_purple] ・ サプレッサー : 9x19mm互換品</text>
+  </string>
+  <string id="st_wpn_ppsh41">
+    <text>PPSh-41</text>
+  </string>
+  <string id="st_wpn_ppsh41_new">
+    <text>PPSh-41（近代化改修）</text>
+  </string>
+  <string id="st_wpn_ppsh41_camo">
+    <text>PPSh-41（迷彩）</text>
+  </string>
+  <string id="st_wpn_ppsh41_old">
+    <text>PPSh-41（劣化）</text>
+  </string>
+  <string id="st_wpn_ppsh41_rusty">
+    <text>PPSh-41（錆付き）</text>
+  </string>
+  <string id="st_wpn_ppsh41_worn">
+    <text>PPsh-41（使い古し）</text>
+  </string>
+  <string id="st_wpn_ppsh41_descr">
+    <text>第二次世界大戦中のソ連軍の主要な歩兵兵器であったPPSh-41は、安価で入手しやすい部品で作られた、耐久性があり、維持費の低い兵器であった。7.62x25mmカートリッジを使用。</text>
+  </string>
+  <string id="st_wpn_protecta">
+    <text>アームセル プロテクタ</text>
+  </string>
+  <string id="st_wpn_protecta_aim">
+    <text>アームセル プロテクタ（近代化改修）</text>
+  </string>
+  <string id="st_wpn_protecta_aim_descr">
+    <text>ユニークなデザインのアームセル プロテクタは、回転シリンダー式12ゲージの散弾銃で、暴動鎮圧と戦闘用に開発された。この銃は、ロシアのサイガ12とアメリカのAA-12の登場によって、今となっては時代遅れのものとなってしまったが、1980年代にアパルトヘイト政府によって開発されたこのプロテクタは、当時は革命的な武器であった。この回転式散弾銃は、軍の各部隊に強大な火力を提供することを意図していた。多弾倉と射撃の高い有効率がメリットである一方、長いリロード時間、さらにはその大きさと重量が代償となる。ゾーンに於いて目にすることは稀で、主として閉鎖空間でミュータントを排除する目的に使用される。このモデルの変種は高度に近代化されており、内部の細部が互いにしっかりとフィットされ、銃身内の圧力が高くなることで、威力が大幅に増加している。また、射撃速度を犠牲にして、ストッピングパワーの向上が図られている。このモデルにはスウェーデンの会社であるエイムポイントAB社製の照準器が取り付けられている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : エイムポイント社製（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_protecta_camo">
+    <text>アームセル プロテクタ（迷彩仕様）</text>
+  </string>
+  <string id="st_wpn_protecta_custom">
+    <text>アームセル プロテクタ（特注品）</text>
+  </string>
+  <string id="st_wpn_protecta_descr">
+    <text>ユニークなデザインのアームセル プロテクタは、回転シリンダー式12ゲージの散弾銃で、暴動鎮圧と戦闘用に開発された。この銃は、ロシアのサイガ12とアメリカのAA-12の登場によって、今となっては時代遅れのものとなってしまったが、1980年代にアパルトヘイト政府によって開発されたこのプロテカは、当時は革命的な武器であった。この回転式散弾銃は、軍の各部隊に強大な火力を提供することを意図していた。多弾倉と射撃の高い有効率がメリットである一方、長いリロード時間、さらにはその大きさと重量が代償となる。ゾーンに於いて目にすることは稀で、主として閉鎖空間でミュータントを排除する目的に使用される。</text>
+  </string>
+  <string id="st_wpn_protecta_nimble">
+    <text>アームセル プロテクタ（カスタム）</text>
+  </string>
+  <string id="st_wpn_protecta_nimble_descr">
+    <text>ユニークなデザインのアームセル プロテクタは、回転シリンダー式12ゲージの散弾銃で、暴動鎮圧と戦闘用に開発された。この銃は、ロシアのサイガ12とアメリカのAA-12の登場によって、今となっては時代遅れのものとなってしまったが、1980年代にアパルトヘイト政府によって開発されたこのプロテカは、当時は革命的な武器であった。この回転式散弾銃は、軍の各部隊に強大な火力を提供することを意図していた。多弾倉と射撃の高い有効率がメリットである一方、長いリロード時間、さらにはその大きさと重量が代償となる。ゾーンに於いて目にすることは稀で、主として閉鎖空間でミュータントを排除する目的に使用される。ある情報源によると、このモデルはかつて「タンク」が所有していたようだが、彼のことを知っている者はほとんどいない。</text>
+  </string>
+  <string id="st_wpn_protecta_rusty">
+    <text>アームセル プロテクタ（錆付き）</text>
+  </string>
+  <string id="st_wpn_protecta_worn">
+    <text>アームセル プロテクタ（使い古し）</text>
+  </string>
+  <string id="st_wpn_rg6">
+    <text>RG-6</text>
+  </string>
+  <string id="st_wpn_rg6_descr">
+    <text>RG-6（6G30）は、1993年から1994年にかけてTSKIB SOO（スポーツおよび狩猟用火器中央設計局）によって開発された。この単独で動作する新しい速射式マルチショット ランチャーは、チェチェン紛争などの近年の小規模な紛争により、市街戦での歩兵の火力を高めるために必要とされた。RG-6は1990年代半ばまでに限定生産され、現在ではロシア陸軍の様々な部隊や特殊部隊、ロシア内務省の特殊部隊などで使用されている。RG-6は、GP-25やGP-30などの一般的なアンダーバレル グレネードランチャーで使用可能な、標準的な40mmグレネード弾をすべて発射できるように設計されている。これらの弾には、VOG-25グレネード弾、VOG-25Pバウンシング グレネード弾などがあり、「グヴォズド（爪）」と呼ばれる暴動鎮圧用の非致死性催涙弾もある。また、ドラムマガジンは前部装填式だ。敵の射撃位置を迅速に制圧したり、開けた場所では防御された固定目標を攻撃したり、特に手強いミュータントとの戦いに広く使われている。</text>
+  </string>
+  <string id="st_wpn_rp">
+    <text>PKM</text>
+  </string>
+  <string id="st_wpn_rp_descr">
+    <text>合板で作られたヒンジ付きの銃床は大きく穴が開けられて軽量化されており、木製のピストルグリップが付いている。銃床の後部にはクリーニングキットが収納されており、分解されたクリーニングロッドはバイポッドの右脚に収納されている。非常に信頼性の高い機関銃である。</text>
+  </string>
+  <string id="st_wpn_rpd">
+    <text>RPD</text>
+  </string>
+  <string id="st_wpn_rpd_descr">
+    <text>RPD（デグチャレフ手持ち機関銃）は、ヴァシーリー デグチャレフによってソビエト連邦で開発された軽機関銃で7.62x39mm M43弾を使用する。</text>
+  </string>
+  <string id="st_wpn_rpg7">
+    <text>RPG-7</text>
+  </string>
+  <string id="st_wpn_rpg7_descr">
+    <text>RPG-7は、従来のRPG-2対戦車擲弾発射器をさらに発展させたものである。RPG-7は、RPG-7Vとして知られているものの初期のバージョンで、1961年にソ連軍によって採用され、ロシアと少なくとも50以上の国で配備されている。RPG-7は、史上最も成功した対戦車擲弾発射器の1つと考えられている。当初は対戦車兵器と考えられていたが、その後、対歩兵用の破片榴弾や多目的サーモバリック/FAEなどの様々なタイプの弾頭が導入された。RPG-7は肩撃ち、単発、滑腔式無反動砲であり、弾頭は前方から装填し、銃身の後方にベンチュリノズルが取り付けられている。無反動設計のため、バックブラスト（後方爆風）には注意が必要だ。RPG-7は、PGO-7と呼ばれる2.7倍の固定倍率の光学照準器が用いられている。シンプルで安価だが、現代の戦車に対する高い脅威を持ち、様々な用途で使用することが出来る柔軟な武器だ。</text>
+  </string>
+  <string id="st_wpn_rpk">
+    <text>RPK</text>
+  </string>
+  <string id="st_wpn_rpk_descr">
+    <text>RPKは、1961年にミハイル カラシニコフ氏がカラシニコフ製の自動小銃をもとに開発したソ連製の軽機関銃。ソ連が赤軍の軍備の標準配備を目指し開発されたRPKは、RPDに取って代わり現在も使用されている。</text>
+  </string>
+  <string id="st_wpn_rpk_worn">
+    <text>RPK（使い古し）</text>
+  </string>
+  <string id="st_wpn_rpk74">
+    <text>RPK-74N</text>
+  </string>
+  <string id="st_wpn_rpk74_descr">
+    <text>RPK（カラシニコフの手持ち機関銃）は、1950年代後半にミハイル カラシニコフ氏によって開発された5.45x45mm軽機関銃だ。これは赤軍の銃火器の部品などの互換性を高め、軽機関銃の運用や補給の効率化を図るためのプログラムの一環として作られ、7.62x39mmのRPD軽機関銃に取って代わった。ポーランド軍は1974年にこの武器を採用し、空挺部隊、偵察隊、特殊作戦部隊で使用していた。また、ブルガリアおよびルーマニアにおいてもライセンスに基づいて製造された。現在、RPKは旧ソ連諸国、一部のアフリカ諸国、アジア諸国の軍隊によって使用され続けている。
+
+                \n%c[ui_gray_2]アタッチメント : \n
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1 \n
+                %c[d_purple] ・ サプレッサー : TGP-A</text>
+  </string>
+  <string id="st_wpn_rpk74_worn">
+    <text>RPK-74N（使い古し）</text>
+  </string>
+  <string id="st_wpn_saiga12s">
+    <text>サイガ12S</text>
+  </string>
+  <string id="st_wpn_saiga12s_descr">
+    <text>サイガ12は、イズマッシュ社製、カラシニコフ系列の12ゲージコンバットショットガンだ。カラシニコフの設計によりレシーバーの右側に大きなセイフティレバー、左側に光学マウントレール、リコイルスプリングアセンブリの後部側の上部には大きなダストカバーが取り付けられている。この銃は、ゾーンにおいてその致死性で名声を得ており、近距離（50メートル以下）や狭い場所での標的との交戦を目的としている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1
+                %c[d_purple] ・ サプレッサー : PBS-1</text>
+  </string>
+  <string id="st_wpn_saiga12s_worn">
+    <text>サイガ12S（使い古し）</text>
+  </string>
+  <string id="st_wpn_scar">
+    <text>FNスカーH</text>
+  </string>
+  <string id="st_wpn_scar_custom">
+    <text>FNスカーH（迷彩仕様）</text>
+  </string>
+  <string id="st_wpn_scar_descr">
+    <text>SCAR（「スペシャル フォーセズ コンバット アサルト ライフル」すなわち英語で「特殊作戦部隊戦闘アサルトライフル」を意味する略称）は、FNハースタル社がアメリカ特殊作戦軍のために製造したモジュール式自動小銃だ。このライフルはスカーHとスカーLの二つのタイプから成り、スカーH（ヘビー）は7.62x51mm NATO弾を使用する。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製
+                %c[d_purple] ・ グレネードランチャー : M203</text>
+  </string>
+  <string id="st_wpn_scar_new">
+    <text>FNスカーH（新品）</text>
+  </string>
+  <string id="st_wpn_scar_worn">
+    <text>FNスカーH（使い古し）</text>
+  </string>
+  <string id="st_wpn_sig220">
+    <text>シグP220</text>
+  </string>
+  <string id="st_wpn_sig220_custom">
+    <text>シグP220（カスタム）</text>
+  </string>
+  <string id="st_wpn_sig220_descr">
+    <text>1970年代後半にJ.P.ザウエル&amp;amp;ゾーン社で製造されたシグ ザウエルP220 は、最高の.45口径ダブルアクションピストルと考えられている。このP220はスイスと日本の自衛隊、そして多くのヨーロッパの警察組織に採用されてきた。米国への流通は、初めはユタ州のブローニング アームズ社を経て、1980年以降はニューハンプシャー州のシグ ザウエル社経由で進出した。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : .45 ACP</text>
+  </string>
+  <string id="st_wpn_sig220_nimble">
+    <text>シグP220「アルパイン」</text>
+  </string>
+  <string id="st_wpn_sig220_nimble_descr">
+    <text>シグ ザウエルP220の改良型。不詳の特殊部隊向けに少数製造されたものの一部である。多弾数、高耐久性銃身、高耐久性ポリマーフレームの恩恵を得られる。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : .45 ACP</text>
+  </string>
+  <string id="st_wpn_sig220_rusty">
+    <text>シグP220（錆付き）</text>
+  </string>
+  <string id="st_wpn_sig220_rusty_descr">
+    <text>1970年代後半にJ.P.ザウエル&amp;amp;ゾーン社で製造されたシグ ザウエルP220は、最高の.45口径ダブルアクションピストルと考えられている。このP220はスイスと日本の自衛隊、そして多くのヨーロッパの警察組織に採用されてきた。米国への流通は、初めはユタ州のブローニング アームズ社を経て、1980年以降はニューハンプシャー州のシグ ザウエル社経由で進出した。このモデルはさびで覆われているため、戦闘での効率が低下している。
+
+                \n%c[ui_gray_2]アタッチメント : 
+%c[d_red] ・ サプレッサー : 取り付け不可</text>
+  </string>
+  <string id="st_wpn_sig220_worn">
+    <text>シグP220（使い古し）</text>
+  </string>
+  <string id="st_wpn_sig550">
+    <text>シグSG550</text>
+  </string>
+  <string id="st_wpn_sig550_camo">
+    <text>シグSG550（迷彩仕様）</text>
+  </string>
+  <string id="st_wpn_sig550_custom">
+    <text>シグSG550（カスタム）</text>
+  </string>
+  <string id="st_wpn_sig550_descr">
+    <text>その高い生産品質と優れたパフォーマンスで有名なシグSG 550は、これまでに作られた最高の5.56mmライフル銃としばしば呼ばれている。それは、サイド折り畳み式スケルトン銃床と、下位ハンドガードの溝に折り畳まれる軽量アルミ製バイポッドを持っている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製
+                %c[d_purple] ・ グレネードランチャー : M203</text>
+  </string>
+  <string id="st_wpn_sig550_rusty">
+    <text>シグSG550（錆付き）</text>
+  </string>
+  <string id="st_wpn_sig550_rusty_descr">
+    <text>その高い生産品質と優れたパフォーマンスで有名なシグSG550は、これまでに作られた最高の5.56mmライフル銃としばしば呼ばれている。それは、サイド折り畳み式スケルトン銃床と、下位ハンドガードの溝に折り畳まれる軽量アルミ製バイポッドを持っている。このモデルはさびで覆われて、劣化している。
+
+                \n%c[ui_gray_2]アタッチメント : 
+%c[d_red] ・ サプレッサー : 取り付け不可
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製
+                %c[d_purple] ・ グレネードランチャー : M203</text>
+  </string>
+  <string id="st_wpn_sig550_sniper">
+    <text>シグSG550-1スナイパー</text>
+  </string>
+  <string id="st_wpn_sig550_sniper_descr">
+    <text>この人気のある銃は、スイス製アサルトライフルのマークスマン ライフル（狙撃銃と突撃銃のいずれの使用も想定して設計されたもの）であり、スナイパーライフルとアサルトライフルの長所を併せ持つ、まさに中間的な存在である。一方で、スナイパーライフルとしてのストッピングパワーや精度が少々足りない事や、連射が出来ない、などの欠点もある。それでも、ゾーンで使用可能な武器の中ではトップクラスの性能を誇る。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品
+                %c[d_purple] ・ 照準器 : カーレスZF95（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_sig550_strelok">
+    <text>シグSG550アロー</text>
+  </string>
+  <string id="st_wpn_sig550_strelok_descr">
+    <text>スイス製のシグSG-550アサルトライフル。新しくはないが、以前の所有者が良く手入れをしていたのは明らかである。この銃は一度分解され、全ての部品が磨り合わせられ、威力を増している。ストックには「S」の文字が 16 個の溝と共に彫ってある。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製
+                %c[d_purple] ・ グレネードランチャー : M203</text>
+  </string>
+  <string id="st_wpn_sig550_worn">
+    <text>シグSG550（使い古し）</text>
+  </string>
+  <string id="st_wpn_sig552">
+    <text>シグSG552コマンドー</text>
+  </string>
+  <string id="st_wpn_sig552_descr">
+    <text>シグ552コマンドーはCQC（接触もしくは接触寸前の極めて近い距離での戦闘）のために設計されており、シグの有名なシグ550シリーズの最もコンパクトな銃である。この銃は、その近接戦闘能力を強化するため イーオーテック社製ホログラフィックサイトを備えている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製 \n</text>
+  </string>
+  <string id="st_wpn_sig552_worn">
+    <text>シグSG552コマンドー（使い古し）</text>
+  </string>
+  <string id="st_wpn_sks">
+    <text>SKS</text>
+  </string>
+  <string id="st_wpn_sks_descr">
+    <text>SKSは、7.62x39mm弾を使用する最初の武器の1つだ。1950年初頭にソ連の前線でAK-47に取って代わられた。現在では儀式用の武器として使われている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+%c[d_purple] ・ 照準器 : PU</text>
+  </string>
+  <string id="st_wpn_sks_modern">
+    <text>SKS（近代化改修）</text>
+  </string>
+  <string id="st_wpn_sks_worn">
+    <text>SKS（使い古し）</text>
+  </string>
+  <string id="st_wpn_spas12">
+    <text>スパス12</text>
+  </string>
+  <string id="st_wpn_spas12_custom">
+    <text>スパス12（カスタム）</text>
+  </string>
+  <string id="st_wpn_spas12_descr">
+    <text>スパス12は、戦闘や暴動対策用に設計されたデュアルモードのショットガンだ。世界中の多くの特殊部隊や警察部隊で採用されている。スパス12は、独特の熱シールドと折り畳み式ストックを備えおり、信頼性と戦術的な柔軟性に優れている。その重さ、複雑なメカニズム、そして高いコストにもかかわらず、ミュータントに対するその有効性のためにゾーンで需要がある。</text>
+  </string>
+  <string id="st_wpn_spas12_nimble">
+    <text>スパス12（近代化改修）</text>
+  </string>
+  <string id="st_wpn_spas12_nimble_descr">
+    <text>アサルトユニット専用に設計された軍用ショットガンで、フランチ スパス12をベースに開発された。以前のモデルと同様に自動式である。バランスのとれたショックフリーシステムにより、反動が低減した。</text>
+  </string>
+  <string id="st_wpn_spas12_rusty">
+    <text>スパス12（錆付き）</text>
+  </string>
+  <string id="st_wpn_spas12_worn">
+    <text>スパス12（使い古し）</text>
+  </string>
+  <string id="st_wpn_sr25">
+    <text>SR-25</text>
+  </string>
+  <string id="st_wpn_sr25_descr">
+    <text>SR-25、ストーナーライフル、モデル25はナイツ アーマメント社のオーナーであるリード ナイト氏とユージン ストーナー氏によって開発された。SR-25は、7.62x51mm NATO弾または.308弾を発射するために口径拡大されたAR-15ライフルで、狩猟用として民間で、狙撃用として米軍で人気がある。このSR-25はAR-15/M16システムを共有しており、部品の60%はAR-15のものと交換できる。レシーバーから後方に延びるAR-15式のリコイルバッファーのため、折り畳み式ストックではなく伸縮式ストックが取り付けられている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : SR-25スペシャル
+                %c[d_purple] ・ スコープ : リューポルド社のマーク4（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_sv98">
+    <text>SV98</text>
+  </string>
+  <string id="st_wpn_sv98_custom">
+    <text>SV98（カスタム）</text>
+  </string>
+  <string id="st_wpn_sv98_descr">
+    <text>SV-98（「スナイパースカヤ ヴィントフカ モデル1998」すなわちロシア語で「スナイパーライフル1998年モデル」を意味する略称）は、ウラジミール ストロンスキー氏によって設計されたロシアのボルトアクション狙撃銃だ。2003年、特殊部隊は、SV-98狙撃銃（GRAUコード : 6V10）と7N14スナイパー強化貫通弾を組み合わせた7.62mm 6S11狙撃システムで武装し、チェチェンでの戦闘において活躍した。
+
+                %c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : PKS-07（取り外し不可） \n</text>
+  </string>
+  <string id="st_wpn_sv98_worn">
+    <text>SV98（使い古し）</text>
+  </string>
+  <string id="st_wpn_svd">
+    <text>SVD</text>
+  </string>
+  <string id="st_wpn_svd_custom">
+    <text>SVD（特注品）</text>
+  </string>
+  <string id="st_wpn_svd_descr">
+    <text>もともと、ドラグノフSVDは一般的なソ連歩兵部隊の射撃手のために作られたもので、特殊な狙撃チームのために作られたものではない。狙撃銃にしては軽いが、バランスが良く、半自動射撃が可能で、精度は良いが、抜群ではない。最大有効距離は800メートル。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1
+                %c[d_purple] ・ サプレッサー : KZRZP（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_svd_nimble">
+    <text>SVD「リンクス」</text>
+  </string>
+  <string id="st_wpn_svd_nimble_descr">
+    <text>SVDM-2狙撃銃の手で組み立てたバージョンで、より平らになるように改良されている。外観の違いはほとんどないが、精度と抑止力の理想的な組み合わせを提供する。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : 1P59 「ハイペロン」（取り外し不可）
+                %c[d_purple] ・ サプレッサー : KZRZP</text>
+  </string>
+  <string id="st_wpn_svd_rusty">
+    <text>SVD（錆付き）</text>
+  </string>
+  <string id="st_wpn_svd_rusty_descr">
+    <text>もともと、ドラグノフSVDは一般的なソ連歩兵部隊の射撃手のために作られたもので、特殊な狙撃チームのために作られたものではない。狙撃銃にしては軽いが、バランスが良く、半自動射撃が可能で、精度は良いが、抜群ではない。最大有効距離は800メートル。この銃の別型は状態が悪いため、不発になる可能性が高くなる。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1
+%c[d_red] ・ サプレッサー : 取り付け不可</text>
+  </string>
+  <string id="st_wpn_svd_worn">
+    <text>SVD（使い古し）</text>
+  </string>
+  <string id="st_wpn_svt40">
+    <text>SVT-40</text>
+  </string>
+  <string id="st_wpn_svt40_descr">
+    <text>SVT-40は、7.62x54mm R弾を使用する、半自動小銃だ。第二次世界大戦中、赤軍とドイツ国防軍で広く使用されていた。
+
+                \n%c[ui_gray_2]アタッチメント : 
+%c[d_purple] ・ 照準器 : PU</text>
+  </string>
+  <string id="st_wpn_svt40_modern">
+    <text>SVT-40（近代化改修）</text>
+  </string>
+  <string id="st_wpn_svt40_rusty">
+    <text>SVT-40（錆付き）</text>
+  </string>
+  <string id="st_wpn_svt40_worn">
+    <text>SVT-40（使い古し）</text>
+  </string>
+  <string id="st_wpn_svu">
+    <text>OTs-03 SVU</text>
+  </string>
+  <string id="st_wpn_svu_alt">
+    <text>OTs-03 SVU（部分改造）</text>
+  </string>
+  <string id="st_wpn_svu_descr">
+    <text>OTs-03 SVUは、SVD狙撃銃の小型バージョンで、空挺兵用に作られたが、後に主にロシア内務省が使用した。SVDとの主な違いは、そのコンパクトなサイズにあり、ブルップアップ構成と短縮されたバレルのおかげで操作性が向上しており、ゾーン内のストーカーから注目されている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1 
+                %c[d_purple] ・ グレネードランチャー : M203</text>
+  </string>
+  <string id="st_wpn_svu_nimble">
+    <text>OTs-03A SVU-A</text>
+  </string>
+  <string id="st_wpn_svu_nimble_descr">
+    <text>SVU-Aは、ロシア内務省の要請で設計された、フルオート射撃が可能なSVUライフルの変種だ。この武器は一般的に接近戦の状況には適していないが、フルオート機能により接近で危険にさらされた場合でも対処できることが証明されている。SVU-Aのこのモデルは、Freedomの伝説的な守護者であるマックスのものだった。
+
+                %c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1 \n</text>
+  </string>
+  <string id="st_wpn_svu_worn">
+    <text>OTs-03 SVU（使い古し）</text>
+  </string>
+  <string id="st_wpn_toz194">
+    <text>TOZ-194</text>
+  </string>
+  <string id="st_wpn_toz194_descr">
+    <text>TOZ-194はトゥーラ造兵廠で製造された12ゲージ ポンプアクション ショットガンである。ソビエト連邦の最後の年に設計され、崩壊の後に製造された。それ以来ロシアとヨーロッパの民間人射手の間で一定の人気を獲得している。</text>
+  </string>
+  <string id="st_wpn_toz194_rusty">
+    <text>TOZ-194（錆付き）</text>
+  </string>
+  <string id="st_wpn_toz194_worn">
+    <text>TOZ-194（使い古し）</text>
+  </string>
+  <string id="st_wpn_toz34">
+    <text>TOZ-34</text>
+  </string>
+  <string id="st_wpn_toz34_custom">
+    <text>TOZ-34（カスタム）</text>
+  </string>
+  <string id="st_wpn_toz34_decor">
+    <text>TOZ-34（装飾）</text>
+  </string>
+  <string id="st_wpn_toz34_descr">
+    <text>TOZ-34は狩猟用にプロ アマチュア両方のために設計された上下二連散弾銃である。たった2発の装弾容量しかないが、その高い射撃精度はハイグレードの散弾銃に匹敵する。 TOZ-34は、1965年にN.I.コロビヤコフとV.P.オクネフによって設計された。その正確さとストッピングパワーのおかげでミュータントに対して特に有用である。</text>
+  </string>
+  <string id="st_wpn_toz34_bull">
+    <text>TOZ-34「ブル」</text>
+  </string>
+  <string id="st_wpn_toz34_bull_descr">
+    <text>おそらく戦車をも止めることができる特別に作られた「ブル」弾薬のみを使用するTOZ-34の手作りの改良版だ。改良点は主に銃の強さに関連しており、一見すると、装飾されただけのTOZ-34のように見える。しかし、よく見るとバレルはユニークな金属で作られており、素材も「F」の文字が刻まれた何らかの炭素繊維で作られていることがわかる。誰がそれを作り、どのようにそれがゾーンに行き着いたのかを知ることは困難だ･･････。</text>
+  </string>
+  <string id="st_wpn_toz34_mark4">
+    <text>TOZ-34「バイソン」</text>
+  </string>
+  <string id="st_wpn_toz34_mark4_descr">
+    <text>プロやアマチュアの狩猟を目的としたTOZ-34は、オーバー／アンダーショットガンだ。わずか2発の装弾数は心細いが、命中精度はハイグレードのショットガンに匹敵する。TOZ34は、1965年にN.I.コロビヤコフとV.P.オクネフによって設計された。価格が手頃で、高い損傷率と両方の弾を瞬時に発射する能力を備え、正確さとストッピングパワーのおかげでミュータントに対して特に有用である。このためTOZは、ゾーンの郊外に住むルーキーの間で人気のある武器となっている。このモデルにはリューポルド社のマーク4のスコープが付属している。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : リューポルド社のマーク4（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_toz34_obrez">
+    <text>TOZ-34（ソードオフ）</text>
+  </string>
+  <string id="st_wpn_toz34_obrez_custom">
+    <text>TOZ-34（カスタムソードオフ）</text>
+  </string>
+  <string id="st_wpn_toz34_obrez_decor">
+    <text>TOZ-34（装飾 ソードオフ）</text>
+  </string>
+  <string id="st_wpn_toz34_obrez_descr">
+    <text>TOZ-34は狩猟用にプロ アマチュア両方のために設計された上下二連散弾銃である。改造によってバレルとストックの大部分を切り落としたことにより、このショットガンはコンパクトで持ち運びやすくなっている。トレンチコートで簡単に隠すことができるため、新米とBanditに人気がある。</text>
+  </string>
+  <string id="st_wpn_toz34_obrez_rusty">
+    <text>TOZ-34（錆付き ソードオフ）</text>
+  </string>
+  <string id="st_wpn_toz34_obrez_worn">
+    <text>TOZ-34（使い古し ソードオフ）</text>
+  </string>
+  <string id="st_wpn_toz34_rusty">
+    <text>TOZ-34（錆付き）</text>
+  </string>
+  <string id="st_wpn_toz34_worn">
+    <text>TOZ-34（使い古し）</text>
+  </string>
+  <string id="st_wpn_trg_descr">
+    <text>TRG-42は既存のライフルの改良版ではないが、当初から狙撃ライフルとして開発されていた。その一貫した高い精度と信頼性は、長距離の競技と軍事狙撃作戦の両方で人気を得ている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : フィンドット（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_tt33">
+    <text>TT-33</text>
+  </string>
+  <string id="st_wpn_tt33_modern">
+    <text>TT-33（近代化改修）</text>
+  </string>
+  <string id="st_wpn_tt33_rusty">
+    <text>TT-33（錆付き）</text>
+  </string>
+  <string id="st_wpn_tt33_worn">
+    <text>TT-33（使い古し）</text>
+  </string>
+  <string id="st_wpn_type63">
+    <text>Type 63</text>
+  </string>
+  <string id="st_wpn_type63_descr">
+    <text>63型は、しばしば西側の情報源から誤って68型と呼ばれ、SKSに類似した中国製ライフルである。この銃器はSKSのティルトボルト式の代わりにAK-47ライフルの回転ボルト式を使用する。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : PU</text>
+  </string>
+  <string id="st_wpn_ump45">
+    <text>UMP45</text>
+  </string>
+  <string id="st_wpn_ump45_custom">
+    <text>UMP45（カスタム）</text>
+  </string>
+  <string id="st_wpn_ump45_descr">
+    <text>UMPは1990年代にH&amp;amp;K社によって開発され、1999年に初めて市場に登場した。MP5よりも安価で、かつ高性能のサブマシンガンの開発を目標としていた。のちに米国の法執行機関の要請により、9x19mmパラベラム弾仕様のUMP9や、.40SW弾仕様のUMP40も投入されている。UMP45はMP5よりも大きな阻止能を提供し、またより多くの反動ももたらす。そのため、フルオート射撃を制御することがより困難になり、この問題に対処するため、発射速度を大幅に引き下げた。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製
+                %c[d_purple] ・ サプレッサー : ジェムテック社製 \n</text>
+  </string>
+  <string id="st_wpn_ump45_worn">
+    <text>UMP45（使い古し）</text>
+  </string>
+  <string id="st_wpn_usas12">
+    <text>USAS-12</text>
+  </string>
+  <string id="st_wpn_usas12_descr">
+    <text>大宇精密工業のUSAS−12（万能フルオート12ゲージ散弾銃）は、1980年代に大宇精密工業が韓国で製造した、フルオート射撃可能なショットガンだ。どうやって韓国の銃がウクライナに入ったのかは定かではない。もしかすると、どこかにK2ライフルもあるかもしれない。\n\n</text>
+  </string>
+  <string id="st_wpn_usp">
+    <text>USP45</text>
+  </string>
+  <string id="st_wpn_usp_alt">
+    <text>USP45（部分改造）</text>
+  </string>
+  <string id="st_wpn_usp_custom">
+    <text>USP45（カスタム）</text>
+  </string>
+  <string id="st_wpn_usp_descr">
+    <text>もともとアメリカ市場向けに設計されたUSP（万能自動装填拳銃）は、正確で信頼性の高い拳銃として知られている。米国の法執行機関と軍は、USPの設計基準の多くを提供した。これは、軍用自動拳銃である政府モデル1911ピストルのような有名な設計の影響を受けているためだ。USPは、応力と摩擦の影響を受ける部分をステンレス鋼の挿入材で補強した、繊維強化ポリマーフレームを使用している。USPコンパクト.45は、いくつかの成功した拳銃の設計要素を取り入れた、H&amp;amp;K社により設計された拳銃USPシリーズの一部である。極度の酷使と悪条件に耐える事から、数カ国の警察や特殊部隊ユニットで使用されている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : .45 ACP（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_usp_match">
+    <text>USPマーチ</text>
+  </string>
+  <string id="st_wpn_usp_match_descr">
+    <text>H&amp;amp;社が強化したこのUSPは、射撃競技において魅力的なものとなっている。Mark 23にも採用されていたオーリング バレルや、射撃時の跳ね上がりを軽減するための補正器を備えている。また、多角形のライフリング、トリガーストップ機能、調整可能なリアサイトなども特徴的だ。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : ジェムテック社製（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_usp_nimble">
+    <text>USP「マーチ」</text>
+  </string>
+  <string id="st_wpn_usp_nimble_descr">
+    <text>軽量かつ狭い稼動範囲である遊底をもつ小型で大口径の拳銃。元々は、ウルフハウンドと呼ばれるMercenaryの持ち物で、UDPコンパクト拳銃の改良品のようだ。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : ジェムテック社製（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_usp_worn">
+    <text>USP45（使い古し）</text>
+  </string>
+  <string id="st_wpn_val">
+    <text>ASヴァル</text>
+  </string>
+  <string id="st_wpn_val_descr">
+    <text>ASヴァルは、ロシア軍偵察部隊のほか、MVD（総務省）やFSB（連邦保安局）特殊部隊でも広く使用されている。ASヴァルはガス作動式で完全に抑制された銃火器だ。レシーバーは強度を向上させるために、鋼鍛造から製造されている。光学、暗視、レッドドットスコープ用のサイドマウントレールを備えているが、銃剣やグレネードランチャーを取り付けることはできない。一体型サプレッサーは、メンテナンス、修理、または収納のために容易に取り外すことができるが、安全性および信頼性の問題のためにサプレッサーを取り外した状態でライフルを発射すべきではない。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、 PSO-1M2-1
+                %c[d_purple] ・ サプレッサー : VSS（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_val_modern">
+    <text>ASヴァル（近代化改修）</text>
+  </string>
+  <string id="st_wpn_val_modern_descr">
+    <text>ASヴァルは、ロシア軍偵察部隊のほか、MVD（総務省）やFSB（連邦保安局）特殊部隊でも広く使用されている。ASヴァルはガス作動式で完全に抑制された銃火器だ。レシーバーは強度を向上させるために、鋼鍛造から製造されている。光学、暗視、レッドドットスコープ用のサイドマウントレールを備えているが、銃剣やグレネードランチャーを取り付けることはできない。一体型サプレッサーは、メンテナンス、修理、または収納のために容易に取り外すことができるが、安全性および信頼性の問題のためにサプレッサーを取り外した状態でライフルを発射すべきではない。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1
+                %c[d_purple] ・ サプレッサー : VSS（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_val_worn">
+    <text>ASヴァル（使い古し）</text>
+  </string>
+  <string id="st_wpn_vepr12">
+    <text>ヴァープル12「ハンマー」</text>
+  </string>
+  <string id="st_wpn_vepr12_descr">
+    <text>Vepr-12はモロト オルジェ社によって作られたセミオートマチック式散弾銃だ。レシーバー部はRPK軽機関銃の機関部を流用し、カラシニコフ製の小銃と同じである回転式ボルト閉鎖方式、ガス圧作動方式で構成されており、10発装填できる弾倉を備えている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1
+                %c[d_purple] ・ サプレッサー : PBS-1 \n</text>
+  </string>
+  <string id="st_wpn_vihr">
+    <text>SR-3Mヴィカール</text>
+  </string>
+  <string id="st_wpn_vihr_descr">
+    <text>SR-3「ヴィカール」（ロシア語で「つむじ風」を意味する）小型アサルトライフルはロシア国営CNIIトーチマッシュ社で開発され、トゥーラ造兵廠で製造された。当初は「MA」（「マロガバリトニー アフトマット」すなわちロシア語で「小型アサルトライフル」を意味する略称）として知られていた。ASヴァル消音アサルトライフルをベースに作られており、9x39mm弾を使用する。このSR-3Mヴィカールは、特別な重要人物保護チームや国家治安部隊による秘匿搬送を意図したものとなっており、SR-3、AS VAL、VSSヴィントレスの特性を組み合わせている。また、SR-3Mは30発の装弾が可能な大容量弾倉を備えており、フルオート射撃時の信頼性が向上している。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1、PSO-1M2-1
+                %c[d_purple] ・ サプレッサー : SR-3M</text>
+  </string>
+  <string id="st_wpn_vintorez">
+    <text>VSSヴィントレス</text>
+  </string>
+  <string id="st_wpn_vintorez_1pn93_descr">
+    <text>ロシア国営TsNIIトーチマッシュ社でピーター セルデュコフと彼のチームによって設計されたこの新しいライフルは、ソ連軍、KGB、MVDの様々なスペツナズ部隊の配備を想定していた。VSSはステルス機能と大きな致命性を与えることができる9x39mm弾の使用により、非常に人気があるが、有効射程範囲は300 ~ 400メートルに制限されている。照準器は、4倍PSO-1M2-1スコープがレシーバー上のサイドレールに取り付けられており、その他のスコープまたは暗視装置は、マウントに対応したものを取り付けることができる。バックアップ アイアンサイトは、フロントサイト ブレードとリアタンジェント サイトで構成されている。リアサイトには、最大400メートル目盛が付いている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : 1PN93「Tot」（取り外し不可）
+                %c[d_purple] ・ サプレッサー : VSS（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_vintorez_alt">
+    <text>VSSヴィントレス（部分改造）</text>
+  </string>
+  <string id="st_wpn_vintorez_descr">
+    <text>ロシア国営TsNIIトーチマッシュ社でピーター セルデュコフと彼のチームによって設計されたこの新しいライフルは、ソ連軍、KGB、MVDの様々なスペツナズ部隊の配備を想定していた。VSSはステルス機能と大きな致命性を与えることができる9x39mm弾の使用により、非常に人気があるが、有効射程範囲は300 ~ 400メートルに制限されている。照準器は、4倍PSO-1M2-1スコープがレシーバー上のサイドレールに取り付けられており、その他のスコープまたは暗視装置は、マウントに対応したものを取り付けることができる。バックアップ アイアンサイトは、フロントサイト ブレードとリアタンジェント サイトで構成されている。リアサイトには、最大400メートル目盛が付いている。
+
+                %c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1M2-1
+                %c[d_purple] ・ サプレッサー : VSS（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_vintorez_nimble">
+    <text>VSSヴィントレス「タイド」</text>
+  </string>
+  <string id="st_wpn_vintorez_nimble_descr">
+    <text>有名なVSSスナイパーライフルの特殊な変種。このモデルは多くの改造がされている。その内部機構をより良いものに交換されており、その結果、発射速度と精度が向上している。また、最大有効射程も600mまで増加している。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : PSO-1（取り外し不可）
+                %c[d_purple] ・ サプレッサー : VSS（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_vintorez_worn">
+    <text>有名なVSSスナイパーライフルの特殊な変種。このモデルは多くの改造がされている。その内部機構をより良いものに交換されており、その結果、発射速度と精度が向上している。また、最大有効射程も600mまで増加している。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : PSO-1（取り外し不可）
+                %c[d_purple] ・ サプレッサー : VSS（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_vityaz">
+    <text>PP-19-01ビティアス</text>
+  </string>
+  <string id="st_wpn_vityaz_descr">
+    <text>PP-19の変種で、2004年に設計され、9x19mm用の30発のマガジンを備えた短機関銃である。主にパトロール隊、ロシア交通警察、ロシア治安警察、MVDの部隊によって使用されている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、イーオーテック社製
+                %c[d_purple] ・ サプレッサー : PBS-1 \n</text>
+  </string>
+  <string id="st_wpn_vsk94">
+    <text>VSK-94</text>
+  </string>
+  <string id="st_wpn_vsk94_descr">
+    <text>VSK-94は、VSSライフルに代わる低コストの代替品として、9A-91カービンをベースに、ロシアのKBP器械製造設計局によって開発された9x39mm狙撃銃である。VSK-94は、最大400mの範囲で、装甲されていない標的に正確に命中させるように設計された。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : EKP-8-02コブラ、1P29、PSO-1M2-1
+                %c[d_purple] ・ サプレッサー : 9A-91/VSK-94（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_vsk94_worn">
+    <text>VSK-94（使い古し）</text>
+  </string>
+  <string id="st_wpn_vssk">
+    <text>VSSKヴァイクロップ</text>
+  </string>
+  <string id="st_wpn_vssk_descr">
+    <text>VSSKはロシア製のブルパップ方式で、12.7x55mmの亜音速弾のチャンバーを備えた、ボルトアクションの狙撃銃だ。この武器は別名、ヴァイクロップとしても知られている。FSBの特殊部隊用に2002年に開発された。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : PKS-07（取り外し不可）</text>
+  </string>
+  <string id="st_wpn_vz61">
+    <text>スコーピオンvz.61</text>
+  </string>
+  <string id="st_wpn_vz61_alt">
+    <text>スコーピオンvz.61（部分改造）</text>
+  </string>
+  <string id="st_wpn_vz61_camo">
+    <text>スコーピオンvz.61（迷彩仕様）</text>
+  </string>
+  <string id="st_wpn_vz61_descr">
+    <text>1961年にチェコスロバキア軍に採用された時、.32ACP弾スコーピオンvz.68は大量生産に至らなかったが、それでも多数の運用前のvz.68モデルが、ゾーンに流れてきた。
+
+                %c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 9x19mm互換品（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_vz61_freedom">
+    <text>スコーピオンvz.61（Freedom迷彩仕様）</text>
+  </string>
+  <string id="st_wpn_vz61_rusty">
+    <text>スコーピオンvz.61（錆付き）</text>
+  </string>
+  <string id="st_wpn_vz61_rusty_descr">
+    <text>1961年にチェコスロバキア軍に採用された時、.32ACP弾スコーピオンvz.68は大量生産に至らなかったが、それでも多数の運用前のvz.68モデルが、ゾーンに流れてきた。このモデルは錆びていて信頼性が低く、サプレッサーを取り付けることができない。
+
+                \n%c[ui_gray_2]アタッチメント : %c[d_red] ・ サプレッサー : 取り付け不可</text>
+  </string>
+  <string id="st_wpn_vz61_worn">
+    <text>スコーピオンvz.61（使い古し）</text>
+  </string>
+  <string id="st_wpn_walther">
+    <text>ワルサーP99</text>
+  </string>
+  <string id="st_wpn_walther_custom">
+    <text>ワルサーP99（カスタム）</text>
+  </string>
+  <string id="st_wpn_walther_descr">
+    <text>人間工学を重視して設計されたワルサーP99は、ガラス繊維製のポリマーフレームを採用したリコイル式のピストルだ。法執行機関や民間の射撃市場向けに開発されたこの銃は、多くの国の警察で使用されている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 9x19mm互換品</text>
+  </string>
+  <string id="st_wpn_walther_worn">
+    <text>ワルサーP99（使い古し）</text>
+  </string>
+  <string id="wpn_tt33_descr">
+    <text>TT-33はロシア製7.62×25mmピストルである。これは1930年初頭に、ナガンM1895リボルバーに代わってソビエト軍が使用するピストルとして、フョードル トカレフ氏によって開発された。多くの共産主義国やソ連圏の国々によって様々なバリエーションのTT-33が登場したが、最終的には1952年に9x18mmのマカロフPMに置き換えられ、ソ連におけるTT-33の生産は1954年に終了した。</text>
+  </string>
+  <string id="st_wpn_umirotvoritel">
+    <text>未確認兵器</text>
+  </string>
+  <string id="st_wpn_umirotvoritel_descr">
+    <text>未知の武器で、その発射メカニズムは不明である。この武器は故障しているようで、引き金を引いても何も起きない。非常に重く、ハイテクであることは間違いない。注目すべきは、発火による弾丸の発射ではなさそうということだ。おそらく、電磁気の力で弾を発射しているのだろう。いったいどんな破壊力を持っているのだろうか。</text>
+  </string>
+  <string id="st_wpn_ash12">
+    <text>ASh-12.7</text>
+  </string>
+  <string id="st_wpn_ash12_descr">
+    <text>Ash-12.7（「アフトマット ストムーボイ12.7mm」すなわちロシア語で「アサルトサイフル12.7mm」を意味する略称）アサルトライフルは、ロシア連邦保安庁の要請により、ロシアのトゥーラ市にあるKBP開発局の子会社であるTSKIB SOO（スポーツおよび狩猟用武器の中央設計研究局）によって開発された、CQB（市街地や建物内など狭い場所での戦闘）／市街地戦の専用武器である。この武器は、重武装で組織化されたギャングやテロリストを一掃するためや、市街地で活動するロシア連邦保安庁の特殊部隊の使用を想定しているため、非常に短距離のストッピングパワーを念頭に置いて設計されている。ロシアの報道によると、ASh-12.7アサルトライフルの最初のロットはロシア連邦保安庁に引き渡されたと言われている。
+
+                %c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、シーモア社製レールウェイ タクティカル、イーオーテック社製</text>
+  </string>
+  <string id="st_wpn_aug_a3">
+    <text>シュタイヤーAUG A3</text>
+  </string>
+  <string id="st_wpn_aug_a3_descr">
+    <text>シュタイヤーAUG（アーミー ユニバーサル ゲーヴァー）はオーストリア製の5.56x45mm NATO弾を使用する、ブルパップ方式のアサルトライフルだ。1960年代にシュタイヤー ダイムラー プフ社によって設計され、現在はシュタイヤー マリンヒャー社によって製造されている。従来のモデルと大きく異なる点は、四つのピカティニー スラットが存在することだ。上部は照準器の取り付けに使用され、底部はグレネードランチャーまたは垂直フロントハンドルが底部に取り付けられ、側面にはレーザーポインターまたは他の必要な追加機器が取り付けることができるようになっている。
+
+                %c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、シーモア社製レールウェイ タクティカル、イーオーテック社製</text>
+  </string>
+  <string id="st_wpn_mk14">
+    <text>マーク14 EBR</text>
+  </string>
+  <string id="st_wpn_mk14_descr">
+    <text>「アメリカ海軍海軍マーク14強化型バトルライフル」はM14ライフルをベースに米特殊作戦軍を向けに製作された、マークスマン ライフル（狙撃銃と突撃銃のいずれの使用も想定して設計されたもの）である。SEALを含む海軍のいくつかの特殊部隊で使用されている。
+
+                %c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、シーモア社製レールウェイ タクティカル、イーオーテック社製</text>
+  </string>
+  <string id="st_wpn_fal">
+    <text>FN FAL</text>
+  </string>
+  <string id="st_wpn_fal_descr">
+    <text>FN FALはFNハースタル社によってベルギーで生産された、最も有名で人気のある自動小銃のひとつだ。当初FN FALは、第二次世界大戦中にドイツで使用されていた7.92x33mm弾や.280ブリティッシュ弾の使用を前提に設計が進められていたが、7.62x51mm弾がNATO標準弾として採用されたため、これを用いるよう再設計することを余儀なくされた。また、この銃器は冷戦中に「自由世界の右手」というニックネームが付けられたことでも知られている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、シーモア社製レールウェイ タクティカル、イーオーテック社製</text>
+  </string>
+  <string id="st_wpn_fort500">
+    <text>フォート500</text>
+  </string>
+  <string id="st_wpn_fort500_descr">
+    <text>フォート500滑腔砲は、1990年代後半にウクライナ内務省のフォートNGOによって開発され、内務省とウクライナ保安庁の職員の武装を意図していた。現在、限定生産されているフォート500ライフルは、ウクライナ内務省特別部隊によって使用されており、狩猟用として民間でも販売されている。</text>
+  </string>
+  <string id="st_wpn_m82">
+    <text>バレットM82</text>
+  </string>
+  <string id="st_wpn_m82_descr">
+    <text>バレットM82は、バレット ファイアーアームズ社によって製造され、世界のいくつかの国で使用されている大口径のセミオート式狙撃銃だ。アメリカ陸軍ではM107という名称で呼ばれている。 このライフルの自動射撃部分はバタフライ バルブをベースに作られている。この銃は「対物ライフル」に属するが、敵歩兵に対する武器として使われることが多い。</text>
+  </string>
+  <string id="st_wpn_remington700">
+    <text>レミントン700</text>
+  </string>
+  <string id="st_wpn_remington700_descr">
+    <text>このライフルのカートリッジは様々なバリエーションが存在しており、このモデルは7.62x51mm NATO弾(.308 ウィンチェスター弾)を使用する。構造は、前後にスライドする回転ボルトが付いたマガジンライフルを備えている。装弾可能な弾数は口径にもよるが、3発から5発まであり、レミントン アームズ社製品の中ではトップクラスの装弾数である。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : KZRZP（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_remington870">
+    <text>レミントン870</text>
+  </string>
+  <string id="st_wpn_remington870_descr">
+    <text>レミントン870は、1950年にレミントン アームズ社によって開発されたポンプアクション式散弾銃で、ポンプアクション式ショットガンの定番として世界で最も有名な銃のひとつだ。 この銃は、様々なバージョンが作られており、軍用、警察用、狩猟用、競技用、そして護身用など幅広い用途で使われ続けている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ 照準器 : バースカ社製電子照準器AC10632、シーモア社製レールウェイ タクティカル、イーオーテック社製</text>
+  </string>
+  <string id="st_wpn_wa2000">
+    <text>ワルサーWA 2000</text>
+  </string>
+  <string id="st_wpn_wa2000_descr">
+    <text>ワルサーWA 2000はカール ワルサー社によって1982年から1988年まで製造された三種類の異なる口径をもったブルパップ方式のセミオートマチック式狙撃銃だ。この銃の生産は限られており、広範な販売をするには費用がかかりすぎ、狙撃銃としての軍事用途には十分な強度がなかったため、すぐに生産が中止された。コストの高さから製造されたのはわずか176丁で、これまでに製造された中で最も希少で需要の高い銃のひとつとなっている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : KZRZP（改造後に取り付け可）</text>
+  </string>
+  <string id="st_wpn_apb">
+    <text>APB消音版</text>
+  </string>
+  <string id="st_wpn_apb_descr">
+    <text>APB（「アフトマティチェスキー ピストレット ベシュムニー」すなわちロシア語で「自動消音拳銃」を意味する略称）は、スチェッキンAPS自動ピストルの改良型だ。サイレンサーが取り付けられたAPBは、消音器の無い.22口径ピストルと同じ大きさになっている。APBはソ連のスペツナズとKGBの部隊用に1972年までに開発され、アフガニスタンとその後の紛争で広く使われてきた。このショルダーストック付き22口径ピストルは非常に正確な制御が可能である。</text>
+  </string>
+  <string id="st_wpn_cz52">
+    <text>CZ 52</text>
+  </string>
+  <string id="st_wpn_cz52_descr">
+    <text>CZ 52は1952年にチェコスロバキア軍に採用された制式名vz. 52（「ブイズィーオアー1952」すなわちチェコ語で「1952年モデル」を意味する略称）でも知られている軍用半自動拳銃だ。1950年代初期にジャンとヤロスラフ クラトフヴィルの兄弟によって設計され、1952年から1954年にかけてストラコニツェ市のチェスカー ズブロヨフカ ウヘルスキブロッド社で開発された。最終的に生産された総数は約200,000丁にもおよぶ。チェコスロバキア軍はこの7.62x25mm弾を使用したvzが標準配備される前は、国内外の三種類の異なる口径の拳銃を使用していた。</text>
+  </string>
+  <string id="st_wpn_fnc">
+    <text>FN FNC</text>
+  </string>
+  <string id="st_wpn_fnc_descr">
+    <text>FNC（「ファブリック ナショナル カラバイン」すなわちフランス語で「国産カービン銃」を意味する略称）は、ベルギーの武器メーカーのFNハースタル社によって開発され、1970年代後半に導入された5.56x45mm NATO弾を使用するアサルトライフルだ。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品</text>
+  </string>
+  <string id="st_wpn_hk417">
+    <text>HK417</text>
+  </string>
+  <string id="st_wpn_hk417_descr">
+    <text>HK417はドイツのヘッケラー＆コッホ社によって設計、製造されたバトルライフルである。これはHK416の大口径バージョンであり、7.62x51mm NATO弾を使用する。回転ボルトを備えたガス作動式ライフル銃で、7.62x51mm弾の貫通力、ストッピングパワー、および射程が必要な場面での使用を目的としている。多くの軍隊、特殊部隊、警察組織で採用されている。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品
+                %c[d_purple] ・ 照準器 : ACOG、イーオーテック社製</text>
+  </string>
+  <string id="st_wpn_m60">
+    <text>M60</text>
+  </string>
+  <string id="st_wpn_m60_descr">
+    <text>M60（公式には「アメリカ製7.62mm口径マシンガン」）は、M13金属製分割式リンクベルトから7.62x51mm NATO弾を発射するアメリカの汎用機関銃シリーズだ。M60で使用が認められている弾薬には、通常弾、曳光弾、徹甲弾などがある。</text>
+  </string>
+  <string id="st_wpn_mp7">
+    <text>MP7</text>
+  </string>
+  <string id="st_wpn_mp7_descr">
+    <text>MP7（「マシュナンピストリー7」すなわちドイツ語で「サブマシンガン7」を意味する略称）はヘッケラー＆コッホ社によって設計 製造され、HK 4.6x30mm弾用にチャンバー化されたドイツの個人用防衛火器だ。この新しい弾薬は、1989年に発表されたNATOの個人用防衛火器での使用のために設計されており、通常のピストル弾を使用する現行の兵器よりも防護服を貫通する能力が高い。MP7は2001年に製品化された。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 9x19mm互換品
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、シーモア社製レールウェイ タクティカル、イーオーテック社製</text>
+  </string>
+  <string id="st_wpn_xm8">
+    <text>XM8</text>
+  </string>
+  <string id="st_wpn_xm8_descr">
+    <text>XM8は、1990年後半から2000年前半にかけて開発が進められていた軽量の自動小銃だ。このライフルはドイツの小型武器メーカーであるヘッケラー＆コッホ社
+が設計したもので、G36ライフルとデザインや技術を共有している。XM8の設計は当初、OICW（次世代個人携行戦闘火器）の一環であり、このプログラムは、ライフル銃とグレネードランチャー同士を横隣に装着する「スマート」グレネードランチャー システムを開発していた。しかし、重量、サイズ、砲弾の威力不足といった様々な問題が足かせとなり、計画は最終的にキャンセルされた。その結果、OICW（次世代個人携行戦闘火器）の2つの部分が分離され、XM8プロジェクトとXM25プロジェクトが生まれた。
+
+                \n%c[ui_gray_2]アタッチメント : 
+                %c[d_purple] ・ サプレッサー : 5.56x45mm互換品
+                %c[d_purple] ・ 照準器 : ACOG、バースカ社製電子照準器AC10632、シーモア社製レールウェイ タクティカル、イーオーテック社製</text>
+  </string>
+  <string id="st_grenade_f1">
+    <text>F1手榴弾
+</text>
+  </string>
+  <string id="st_grenade_f1_descr">
+    <text>標準的な防弾ベストを貫通する破片を撒き散らす防御用の手榴弾。半径約4mの殺傷範囲を持つ。ストーカーたちは軍との裏取引で F1手榴弾を手に入れ、ミュータントを撃破するために使っている
+
+                \n%c[d_purple] ・ 爆発力 : 高い
+                %c[d_purple] ・ 爆発半径 : 4.2［m］
+                %c[d_purple] ・ 破片の飛散する半径 : 48［m］
+                %c[d_purple] ・ 平均的な飛散する破片数 : 380 （小さな破片）
+                %c[d_purple] ・ 爆発までの遅延時間 : ~ 4［秒］</text>
+  </string>
+  <string id="st_grenade_rgd5">
+    <text>RGD-5手榴弾</text>
+  </string>
+  <string id="st_grenade_rgd5_descr">
+    <text>半径約3メートルの殺傷範囲を持った攻撃用手榴弾。比較的安価なため、しばしばミュータントをいぶし出すためにストーカーたちに使用される。
+
+                \n%c[d_purple] ・ 爆発力 : 普通
+                %c[d_purple] ・ 爆発半径 : 3.2［m］
+                %c[d_purple] ・ 破片の飛散する半径 : 43［m］
+                %c[d_purple] ・ 平均的な飛散する破片数 : 240（小さな破片）
+                %c[d_purple] ・ 爆発までの遅延時間 : ~ 4［秒］</text>
+  </string>
+  <string id="st_grenade_smoke">
+    <text>発煙手榴弾</text>
+  </string>
+  <string id="st_grenade_smoke_descr">
+    <text>手投げの発煙弾。煙幕を張るために使用される。投擲後10秒で煙幕が展開する。</text>
+  </string>
+  <string id="st_grenade_thermite">
+    <text>焼夷手榴弾</text>
+  </string>
+  <string id="st_grenade_thermite_descr">
+    <text>焼夷手榴弾（もしくはテルミット手榴弾）は、化学反応により強烈な熱を作り出す。充填剤は600 ~ 800グラムのテルミットで、熱を生成する化学反応は、テルミット反応と呼ばれている。その反応とは、金属酸化物とアルミニウムとの粉末混合物に着火した場合、アルミニウムは金属酸化物を還元しながら高温を発生するというものである。その反応で2,200度（華氏3,992度）もの途方もない熱量が発生する。
+
+                \n%c[d_purple] ・ 爆発力 : 普通 （熱ダメージ）
+                %c[d_purple] ・ 爆発半径 : 4.6［m］
+                %c[d_purple] ・ 破片の飛散する半径 : 無し
+                %c[d_purple] ・ 平均的な飛散する破片数 : 無し
+                %c[d_purple] ・ 爆発までの遅延時間 : ~  4［秒］</text>
+  </string>
+  <string id="st_knife_combat">
+    <text>M9銃剣</text>
+  </string>
+  <string id="st_knife_combat_descr">
+    <text>頑丈なゴム製のハンドルを持つ大型の狩猟ナイフ、鋭くよく手入れがされている。のこぎり歯付きブレードは、防弾チョッキの貫通は得意ではないが、人体に重度の出血傷を負わせるには理想的である。これは動物に直面した時や、すでに負傷している敵に止めを刺す場合に、特に最適な選択肢となる。</text>
+  </string>
+  <string id="st_knife_6x4">
+    <text>6H4銃剣</text>
+  </string>
+  <string id="st_knife_6x4_descr">
+    <text>AKライフル用に設計されたソビエトの銃剣。非常に耐久性が高いが、特に突き刺す以外の能力はない。
+
+                \n%c[d_red] ・ 厚い皮のミュータントの切断には適していない</text>
+  </string>
+  <string id="st_knife_hunting">
+    <text>狩猟用ナイフ</text>
+  </string>
+  <string id="st_knife_hunting_descr">
+    <text>ステンレス鋼の大型刃で、非常に耐久性のある狩猟ナイフ。より大きな動物や、肉や厚い皮を処理するために理想的で、それは重度の出血傷を引き起こす事もできる。その欠点は、厚い防弾チョッキを貫通しない事だ。</text>
+  </string>
+  <string id="st_knife_m">
+    <text>ミリタリーナイフ</text>
+  </string>
+  <string id="st_knife_m_descr">
+    <text>一般的な軍用ナイフ</text>
+  </string>
+  <string id="st_knife_needle">
+    <text>ソビエト コンバットナイフ</text>
+  </string>
+  <string id="st_knife_needle_descr">
+    <text>このソ連の鋼鉄ナイフは、クリップポイントと大型のチョイル、黒い木製のハンドル、およびS字ガードを備えた152mmの刃を持っている。標準的なソ連陸軍のグリップが、自分自身の方へエッジを向けてナイフを保持する形になるので、ガードは「逆にされた」。ハンドルは良いグリップのために頑丈な布で強化されている。ナイフは比較的小さく、深い傷を負わせるのには向かないが、近代的な防弾チョッキの隙間を狙えるように意図してデザインされている。
+
+                \n%c[d_red] ・ 厚い皮のミュータントの切断には適していない</text>
+  </string>
+  <string id="st_knife_nr40">
+    <text>NR-40</text>
+  </string>
+  <string id="st_knife_nr40_descr">
+    <text>歴史的に名高い、象徴的価値の希少なソ連の軍用ナイフ。木製のハンドル上に、第二次世界大戦時のパラシュート部隊の鉄の紋章が飾られている。これらの1つを所持しているあらゆるストーカーは、それが初心者かベテランかに関わらず、ゾーン中どこでも、特に各自の派閥内で非常に尊敬される。通常、任務中の非常に優れた功績に対して授与される（例えば、派閥のリーダーを特定の死から救う等）</text>
+  </string>
+  <string id="st_knife_swat">
+    <text>スペツナズ弾道ナイフ</text>
+  </string>
+  <string id="st_knife_swat_descr">
+    <text>偵察兵に最適で、よく手入れされたスペツナズのミリタリーナイフ。スペツナズの部隊は、ヨーロッパの作戦区域で計画された大規模な核攻撃の数日前に、MRBMの発射場の乗組員の喉を切り裂くためにこれを使用したと言われている。これは凶器であり、ゾーン内では唯一のナイフであり、アーマーを貫通させることと大きな組織損傷を与えることの両方に優れている。これはまさに究極の近接兵器と言えるだろう。</text>
+  </string>
+  <string id="st_axe">
+    <text>斧</text>
+  </string>
+  <string id="st_axe_descr">
+    <text>斧は木材、武器、儀式や紋章のシンボルとして木を形作り、分割し、切断するために何千年と使われてきた道具だ。斧には多くの形があり、一般的にハンドル付きの柄などで構成されている。ゾーンではその汎用性から、斧の存在は所有者の生存率を上げるだろう。
+
+                \n%c[ui_gray_1]特性 : 
+                %c[d_cyan] ・ 近接武器
+                %c[d_cyan] ・ 日用品
+                %c[d_red] ・ ミュータントの解体には適さない</text>
+  </string>
+  <string id="st_axe2">
+    <text>消防斧</text>
+  </string>
+  <string id="st_axe2_descr">
+    <text>消防士に最もよく使われているこの重い斧は、ストーカーが木を伐採するためによく使用される。あらゆる大事に対して使われ、敵の生死の確認のために使われることもある。したがって、熟練ストーカーがこの武器を使用すると、手に負えない武器となり得る。
+
+                \n%c[ui_gray_1]特性 : 
+                %c[d_cyan] ・ 近接武器
+                %c[d_cyan] ・ 日用品
+                %c[d_red] ・ ミュータントの解体には適さない</text>
+  </string>
+  <string id="st_axe3">
+    <text>狩猟用斧</text>
+  </string>
+  <string id="st_axe3_descr">
+    <text>この便利な斧は、何千年もの間、木を切ったり、肉を切ったり、儀式の道具としても使われてきた。ゾーンのような場所では、この斧は生と死の両方を意味する。
+
+                \n%c[ui_gray_1]特性 : 
+                %c[d_cyan] ・ 近接武器
+                %c[d_cyan] ・ 日用品
+                %c[d_red] ・ ミュータントの解体には適さない</text>
+  </string>
+  <string id="st_grenade_light">
+    <text>M68手榴弾</text>
+  </string>
+  <string id="st_grenade_light_descr">
+    <text>M68は軽量の手榴弾で、かなりの量の破片が入っており、空挺部隊や海兵隊、NATOの特殊部隊で人気がある。M213ヒューズと一体になっており、トリガーレバーを装置ベルトに引っ掛けることで、素早い着脱が可能だ。</text>
+  </string>
+  <string id="st_wpn_flamewerfer">
+    <text>火炎放射器</text>
+  </string>
+  <string id="st_wpn_flamewerfer_descr">
+    <text>自家製の火炎放射器で、詰まりやすく、射程が短い。この行き当たりばったりなデザインは、様々なストーカーにより、ゾーン内で作成されたことを示している。</text>
+  </string>
+</string_table>

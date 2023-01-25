@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sultan (Bandit Honcho) Mob Hit Task -->
+
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_bs_kill_stalker_nearby_title">
+		<text>モブ・ヒット</text>
+	</string>
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_bs_kill_stalker_nearby_descr">
+		<text>スルタンの命令で、あるクズを退治することになった。終わったら報酬をもらおう。</text>
+	</string>
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_bs_kill_stalker_nearby_job_descr">
+		<text>このリストを見てくれ 。これは駆除してほしいネズミどものリストだ。\n \n...借金を返すより、切り上げて逃げることを選んだバカなやつらだ。\n \n...うちのもんがパンをねだると、弾丸で応えてくれたくそったれ。\n \n...ロストクやシドロヴィッチに媚びてダークバレーを去った裏切り者どもだ\n \nみんなくたばっちまえ 俺のリストから1人消してくれ いつ消せるか教えてほしい。</text>
+	</string>
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_bs_kill_stalker_nearby_finish">
+		<text>ああ、大満足だ。スムーズにいくのはいいことだ ほら、報酬だ</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sultan (Bandit Honcho) Eliminate Military Presence Dynamic Task -->
+
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_2_title">
+		<text>駐留するMilitaryを排除せよ</text>
+	</string>
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_2_descr">
+		<text>スルタンは、その場所の軍人たちを排除することを望んでる。</text>
+	</string>
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_2_job_descr">
+		<text>Militaryの奴らがまた忍び寄ってる。うちの敷地に侵入してくるか、近くの研究所を襲うか...\n \n...バカどもだ あのバカどもはすでに死人同然だが、そのバカが知り合いに危害を加える前に、金を払ってでも排除してくれ。</text>
+	</string>
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_2_finish">
+		<text>感動したぞ、ストーカー。この辺の連中もそのくらいの気概が欲しいもんだ。</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sultan (Bandit Honcho) Stalker Elimination Dynamic Task -->
+
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_3_title">
+		<text>ストーカー排除作戦n</text>
+	</string>
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_3_descr">
+		<text>スルタンが私を送った。彼の部下に危害を加えたストーカーに復讐するために。</text>
+	</string>
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_3_job_descr">
+		<text>いいか、よく聞け。少し前にストーカー集団が うちの部下に集団で襲いかかったんだ 幸いにも彼は逃げ出し 医療倉庫で療養中だが... そんな舐めた真似を許すわけにはいかねえ。そんなことをしたらどうなるか、教えてやれ。</text>
+	</string>
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_3_finish">
+		<text>終わったか・・・？よし。</text>
+	</string>
+	
+	
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_bs_fetch_patches_title">
+		<text>ワッペンを収集する</text>
+	</string>
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_bs_fetch_patches_descr">
+		<text>スルタンからワッペン集めを頼まれた</text>
+	</string>
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_bs_fetch_patches_job_descr">
+		<text>Banditの恐ろしさを思い知らせる時だ。どうするかは考えてある。ワッペンをはがして持ってきてくれれば、あとは俺がやる。</text>
+	</string>
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_bs_fetch_patches_finish">
+		<text>もってきたか？よくやった！ほら、報酬だ。</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sultan (Bandit Honcho) Unwelcome in the Hood Task -->
+	
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_5_title">
+		<text>歓迎されざる者</text>
+	</string>
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_5_descr">
+		<text>スルタンは、農場からストーカーを排除したいと考えている。</text>
+	</string>
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_5_job_descr">
+		<text>仕事だ。ストーカーが近くの農場に野営地を設置しているが、俺たちにショバ代も払わねえで居座っていやがる。お前達はそこに行って、奴らを丁寧にエスコートして来るんだ。</text>
+	</string>
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_5_finish">
+		<text>弾丸で払おうとしたのか？典型的なタダ乗り野郎だったな</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sultan (Bandit Honcho) Night Terror Task -->
+	
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_6_title">
+		<text>夜の恐怖</text>
+	</string>
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_6_descr">
+		<text>スルタンは危険なモンスターを退治したいと考えている。</text>
+	</string>
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_6_job_descr">
+		<text>またしても悪夢が現地の研究所から這い出てきた。若い連中を襲っている。最後に確認された場所を教えよう。見つけ出してケツを蹴飛ばしてやれ。</text>
+	</string>
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_6_finish">
+		<text>これでバカなミュータントに手出しをさせないよう 教えることができるだろう。とにかく、これが報酬だ。</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Olivius (Bandit Trader) Eliminate Mutants Task- -->
+
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_assault_monster_online_title">
+		<text>ダークバレーのミュータントの脅威を退治せよ</text>
+	</string>
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_assault_monster_online_descr">
+		<text>この場所の近くでミュータントが発見されており、危険視されている。地域内のミュータントを排除し、オビリアスに報告する。</text>
+	</string>
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_assault_monster_online_job_descr">
+		<text>俺たちはミュータントを一掃できる度胸のある者を探している。ストーカーたちが怖がってここに来やしないんだ。このままだと商品を借りる奴がいなくなって、俺はこの縄張りから出て行くしかなくなっちまうんだ･･････。</text>
+	</string>
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_assault_monster_online_finish">
+		<text>素晴らしい！これが報酬だ。アンタの活躍をちゃんとボスに報告しといてやるよ。</text>
+	</string>
+
+
+
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_assault_stalker_online_title">
+		<text>縄張り内の脅威の排除</text>
+	</string>
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_assault_stalker_online_descr">
+		<text>オビリアスのストーカーキャンプを張ることに同意した。彼は仲間を連れてくる必要があるかもしれないと言っていた。</text>
+	</string>
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_assault_stalker_online_job_descr">
+		<text>こいつは朝飯前な仕事だぜ。スルタンは、近くのストーカーのキャンプを揺さぶって、事態を混乱させ、誰がこの辺りのボスか思い出させるつもりだ。このために自分のチームを編成する必要があるだろうが、成功すれば大きな見返りがある。</text>
+	</string>
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_assault_stalker_online_finish">
+		<text>ハッ！よくやった！戦利品を全部もぎ取ったと思うが、これは俺からのおまけだ。</text>
+	</string>
+
+
+
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_3_title">
+		<text>チキ ブリキ対ダムケ</text>
+	</string>
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_3_descr">
+		<text>陽気な連中が満足するように、地元のストーカーに有益を与えて優位に立て。</text>
+	</string>
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_3_job_descr">
+		<text>ここ最近、仲間を探してるやつが何人かいる。彼等は、主要ターゲットを連れ出してくれるやつをスカウトしてる。仕事が完了したら、金を払ってくれるだろう。</text>
+	</string>
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_3_finish">
+		<text>楽しめたか？こいつが取り分だ。</text>
+	</string>
+
+
+	<!-- ASSASSINATION FOR OLIVIUS TASK -->
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_kill_stalker_nearby_title">
+		<text>殺し屋</text>
+	</string>
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_kill_stalker_nearby_descr">
+		<text>オビリアスはあなたに殺しを命じた。ターゲットを見つけて排除し、彼の元に戻り報酬を得よ。</text>
+	</string>
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_kill_stalker_nearby_job_descr">
+		<text>俺の神経を逆撫でするヤツらのリストをまとめてある。お前にそいつらの神経を撫で返してきてもらいたい。どうだ？</text>
+	</string>
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_kill_stalker_nearby_finish">
+		<text>いいぞ、あのクソ野朗を始末したな！こいつが約束の報酬だ。</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+	<!-- (Bandit Medic) -->
+	<string id="igi_task_text_bandit_main_base_medic_mlr_task_1_title">
+		<text>薬品製造キットを探せ</text>
+	</string>
+	<string id="igi_task_text_bandit_main_base_medic_mlr_task_1_descr">
+		<text>Banditの医療従事者は医療物資を作成するために薬品製造キットを必要としている。見つけ出し、彼に持っていこう。</text>
+	</string>
+	<string id="igi_task_text_bandit_main_base_medic_mlr_task_1_job_descr">
+		<text>今ある医療品の在庫で、日々出てくる怪我人を治療していけるか心配だ。いずれ包帯と医療キットが無くなっちまう。薬品製造ツールを探してきてくれよ。必ず役に立つだろうからな。</text>
+	</string>
+	<string id="igi_task_text_bandit_main_base_medic_mlr_task_1_fetch_job_descr">
+		<text>薬品製造キットをそこら中探し回ってんだ。中には治療するための、錠剤やアンプルが入ってるはずだ。持ってきてくれるなら、金を払うぜ。</text>
+	</string>
+	<string id="igi_task_text_bandit_main_base_medic_mlr_task_1_fetch_finish">
+		<text>いいぞ！デカイ借りができたな。</text>
+	</string>
+
+</string_table>

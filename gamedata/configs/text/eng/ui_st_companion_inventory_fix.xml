@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+
+	
+    <string id="ui_mcm_menu_companion_inv">
+        <text>Companion Inventory Unlock</text>
+    </string>
+
+	<string id="ui_mcm_companion_inv_show_all">
+		<text>コンパニオンのインベントリにあるすべてのアイテムを表示します。</text>
+	</string>
+
+	<string id="ui_mcm_companion_inv_show_all_desc">
+		<text>[Cheaty]このオプションは、技術的なアイテムや アニメーションアイテムも含めて、すべてのアイテムを表示します。このオプションは、表示されるアイテムを赤色にします。</text>
+	</string>
+	<string id="ui_mcm_companion_inv_show_klep">
+		<text>コンパニオンが獲得したアイテムを表示します。</text>
+	</string>
+
+	<string id="ui_mcm_companion_inv_show_klep_desc">
+		<text>このオプションは、コンパニオンが最初に持っていたアイテム以外を表示します。他の方法では隠されているはずのアイテムが表示されます。このオプションは、表示されるアイテムを金色で表示します。</text>
+	</string>
+
+
+
+
+</string_table>

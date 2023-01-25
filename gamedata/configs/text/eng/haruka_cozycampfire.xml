@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+	<string id="ui_mcm_menu_cozy_campfire">
+		<text>Campfire Regens</text>
+	</string>
+	<string id="ui_mcm_cozy_campfire_health">
+		<text>HPリジェネ量</text>
+	</string>
+	<string id="ui_mcm_cozy_campfire_rad">
+		<text>放射線除去量</text>
+	</string>
+	<string id="ui_mcm_cozy_campfire_psy">
+		<text>精神回復量</text>
+	</string>
+</string_table>

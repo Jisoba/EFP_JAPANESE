@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<string id="st_placeable_gas_lamp">
+		<text>ガス灯</text>
+	</string>
+	<string id="st_placeable_gas_lamp_descr">
+		<text>灯油を染み込ませた芯に点火することで明かりを灯す。ランタンはストーカーの間では珍しい光源で、燃料が重くなり、弾薬や貴重な品々を入れるリュックのスペースを取ってしまうからだ。このランプを隠れ家で使うのは、普段からあまり道を歩かないベテランのストーカーたちだ。このランプは、長年にわたってかなり磨耗しており、ガラスのランプシェードが失われているように見える。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] ・%c[ui_gray_2] 技術品\n
+		%c[d_blue] ・%c[ui_gray_2] 設置可能アイテム\n
+		%c[d_blue] ・%c[ui_gray_2] 低燃費\n
+		%c[d_blue] ・%c[ui_gray_2] 燃料:灯油\n</text>
+	</string>
+
+	<string id="st_placeable_metal_torch">
+		<text>金属製トーチ</text>
+	</string>
+	<string id="st_placeable_metal_torch_descr">
+		<text>ソビエト時代の携帯用懐中電灯。金属製の容器にかさばるように設置されているため、電池を効率的に使用でき、隠れ家を照らすにはより有効である。このライトは現場でも組み立てられるが、円錐形のライトのため使い勝手が悪い。ベテランのストーカーは、これをうまく利用して、自分の身を隠しながら侵入者を照らす。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] ・%c[ui_gray_2] 技術品\n
+		%c[d_blue] ・%c[ui_gray_2] 設置可能アイテム\n
+		%c[d_blue] ・%c[ui_gray_2] 低電力\n
+		%c[d_blue] ・%c[ui_gray_2] 電源:電池\n</text>
+	</string>
+
+	<string id="st_placeable_light_altar">
+		<text>コンパクトなPsiライト</text>
+	</string>
+	<string id="st_placeable_light_altar_descr">
+		<text>起源も目的も不明な物体。元々は致死性の精神波が出る不思議な物体で、北方領土に侵入した多くの無防備なストーカーを死に至らしめた。これをサハロフが改良し、いくつかのアーティファクトの助けを借りて、無限の光と精神力の源としたものである。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] ・%c[ui_gray_2] 技術品\n
+		%c[d_blue] ・%c[ui_gray_2] 設置可能アイテム\n
+		%c[d_blue] ・%c[ui_gray_2] 高価\n
+		%c[d_blue] ・%c[ui_gray_2] 低電力\n
+		%c[d_blue] ・%c[ui_gray_2] 「ムーンライト」アーティファクトを使用\n
+		%c[d_blue] ・%c[ui_gray_2] 電源:ガウスバッテリー\n</text>
+	</string>
+
+	<string id="st_placeable_case">
+		<text>ガンケース</text>
+	</string>
+	<string id="st_placeable_case_descr">
+		<text>武器が一切入っていない空のガンケース。重量を犠牲にして、従来のバックパックより広いスペースを確保している。\n \n
+			%c[ui_gray_1]特性:\n
+			%c[d_blue] ・%c[ui_gray_2] アイテム保管可能\n
+			%c[d_blue] ・%c[ui_gray_2] 設置可能アイテム\n
+			%c[d_blue] ・%c[ui_gray_2] 中程度の容量\n
+			%c[0,100,255,150] ・%c[ui_gray_2] スタッシュとして使用可能\n</text>
+	</string>
+
+	<string id="st_placeable_blue_box">
+		<text>金属製の箱</text>
+	</string>
+	<string id="st_placeable_blue_box_descr">
+		<text>広々とした金属製の収納専用ボックス。最も広いスペースを確保できる反面、容器がかさばるため持ち運びが大変。\n \n
+			%c[ui_gray_1]特性:\n
+			%c[d_blue] ・%c[ui_gray_2] アイテム保管可能\n
+			%c[d_blue] ・%c[ui_gray_2] 設置可能アイテム\n
+			%c[d_blue] ・%c[ui_gray_2] 大容量\n
+			%c[0,100,255,150] ・%c[ui_gray_2] スタッシュとして使用可能\n</text>
+	</string>
+
+	<string id="st_placeable_exo_kit">
+		<text>空の外骨格補修キット</text>
+	</string>
+	<string id="st_placeable_exo_kit_descr">
+		<text>有用なものを一切取り除いた空のケース。多くのストーカーはハイテクスーツの手入れをした後、この修理キットを簡単に捨ててしまうが、この容量と大きさは収納として再利用すると便利である。\n \n
+			%c[ui_gray_1]特性:\n
+			%c[d_blue] ・%c[ui_gray_2] アイテム保管可能\n
+			%c[d_blue] ・%c[ui_gray_2] 設置可能アイテム\n
+			%c[d_blue] ・%c[ui_gray_2] 中程度の容量\n
+			%c[0,100,255,150] ・%c[ui_gray_2] スタッシュとして使用可能\n</text>
+	</string>
+
+	<string id="st_placeable_sumka6">
+		<text>小型バックパック</text>
+	</string>
+	<string id="st_placeable_sumka6_descr">
+		<text>小さな布のシートを縫い合わせて作った簡易袋。常設の拠点では特に役立たないが、いざという時の小さな隠し場所として活躍する。\n \n
+			%c[ui_gray_1]特性:\n
+			%c[d_blue] ・%c[ui_gray_2] アイテム保管可能\n
+			%c[d_blue] ・%c[ui_gray_2] 設置可能アイテム\n
+			%c[d_blue] ・%c[ui_gray_2] 小程度の容量\n
+			%c[0,100,255,150] ・%c[ui_gray_2] スタッシュとして使用可能\n</text>
+	</string>
+
+	<string id="st_placeable_workshop">
+		<text>携帯型ワークショップ</text>
+	</string>
+	<string id="st_placeable_workshop_descr">
+		<text>展開可能なテーブル、ワークショップツール、そして統合されたスタッシュの組み合わせ。重さがネックとなり、外出先での工作は難しいが、ストーカーが自給自足できる。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] ・%c[ui_gray_2] 技術品\n
+		%c[d_blue] ・%c[ui_gray_2] 高価\n
+		%c[d_blue] ・%c[ui_gray_2] 大容量 (内臓)\n
+		%c[d_orange] ・%c[ui_gray_2]装備を修理するのに使用可能\n</text>
+	</string>
+
+	<string id="st_placeable_radio">
+		<text>ラジオ</text>
+	</string>
+	<string id="st_placeable_radio_descr">
+		<text>正常に作動するラジオ。ゾーン内の多くの基地で聞こえるのと同じ信号を受信することができる。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] ・%c[ui_gray_2] 技術品\n
+		%c[d_blue] ・%c[ui_gray_2] 設置可能アイテム\n
+		</text>
+	</string>
+
+	<string id="st_placeable_piano">
+		<text>キーボード</text>
+	</string>
+	<string id="st_placeable_piano_descr">
+		<text>ゾーンではあまり見かけない豪華な楽器。ミュータントや敵対するストーカーから身を守ることはできないが、ゾーンの脅威から少しだけリラックスできる。難易度の異なる楽譜と、合成音の楽器が多数置かれている。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] ・%c[ui_gray_2] 技術品\n
+		%c[d_blue] ・%c[ui_gray_2] 設置可能アイテム\n
+		%c[d_blue] ・%c[ui_gray_2] 高価\n</text>
+	</string>
+
+
+    <string id="st_place_furniture">
+		<text>アイテムを置く</text>
+	</string>
+</string_table>

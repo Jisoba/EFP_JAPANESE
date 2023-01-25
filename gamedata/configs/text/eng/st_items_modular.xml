@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+
+<!-- Upgrade Parts -->
+	<string id="st_cryechops">
+		<text>Crye Airframe Chops</text>
+	</string>
+	<string id="st_cryechops_descr">
+		<text>耳や顎の部分を破片や小口径の跳ね返りから保護するためのものAirframeヘルメットの追加パーツ。</text>
+	</string>
+
+	<string id="st_fshield">
+		<text>Multi-hit ballistic face シールドバイザー</text>
+	</string>
+	<string id="st_fshield_descr">
+		<text>特殊部隊の突撃隊が使用する、特殊高強度防弾バイザー。</text>
+	</string>	
+
+	<string id="st_visor">
+		<text>Ops-Core FAST バイザー</text>
+	</string>
+	<string id="st_visor_descr">
+		<text>FASTバイザーは、あらゆる種類の戦闘行動において、砲弾の破片、地雷、手榴弾、化学的攻撃性の高い液体や油の滴下、分散性の高い噴霧、熱要因、大気の影響、機械的損傷から軍人の眼と顔の一部を保護するために設計されている。</text>
+	</string>	
+	
+	<string id="st_slaap">
+		<text>SLAAP アーマープレート</text>
+	</string>
+	<string id="st_slaap_descr">
+		<text>特殊ポリエチレンプレート（プロテクションクラス5）を使用したOps-Core FASTヘルメット用の追加装甲。</text>
+	</string>
+	
+	<string id="st_altyn_fshield">
+		<text>Altyn フェイスシールド</text>
+	</string>
+	<string id="st_altyn_fshield_descr">
+		<text>重量級ヘルメットAltyn用の特殊装甲フェイスシールド。弾丸や榴散弾の衝撃から生き残る可能性を高める。</text>
+	</string>	
+
+	<string id="st_maska_fshield">
+		<text>Maska 1Sch フェイスシールド</text>
+	</string>
+	<string id="st_maska_fshield_descr">
+		<text>Maska 1Sch ヘルメット用の特殊なフェイスシールド</text>
+	</string>	
+
+	<string id="st_mandible">
+		<text>Ops-Core Fast GUNSIGHT Mandible</text>
+	</string>
+	<string id="st_mandible_descr">
+		<text>Ops-Core FASTヘルメット用の特別な追加弾道プロテクターで、サイドアーマー部に装着する。(LZShライトヘルメットにも装着可能。）</text>
+	</string>	
+
+	<string id="st_trooper_fshield">
+		<text>Tac-Kek Heavy Trooper mask</text>
+	</string>
+	<string id="st_trooper_fshield_descr">
+		<text>映画で有名な宇宙をモチーフにしたOps Coreタイプの追加ヘルメット・バリスティックマスク型モジュール「Tac-Kek Heavy Trooper（タックケック・ヘビートルーパー）」。われらの道。</text>
+	</string>	
+
+	<string id="st_helm_gssh">
+		<text>GSSh-01 アクティブヘッドセット</text>
+	</string>
+	<string id="st_helm_gssh_descr">
+		<text>GSSh-01ヘッドセットはロシアのRatnik軍用装備に使用されている。</text>
+	</string>	
+
+<!-- Modular Helmets -->
+
+	<string id="st_helm_crye">
+		<text>Crye Precision Airframe Tan</text>
+	</string>
+	<string id="st_helm_crye_descr">
+		<text>%c[ui_gray_1]AirFrameバリスティック・ヘルメットは、保護性能、快適性、モジュール性において標準を打ち立てています。AirFrameのユニークな重複した殻構造は、受動的な冷却効果を提供し、爆発的な爆風波の有害な影響を軽減することができる統合された空気穴を生成する。\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_altyn">
+		<text>Altynヘルメット</text>
+	</string>
+	<string id="st_helm_altyn_descr">
+		<text>%c[ui_gray_1]"Altyn" は、アフガニスタンやチェチェンでの実戦テストをクリアし、現在もロシア連邦内務省や陸軍特殊部隊で活躍中だ。装甲バイザーシールドの取り付けが可能。\n \n
+		</text>
+	</string>
+	
+	<string id="st_helm_maska">
+		<text>Maska 1Sch ヘルメット</text>
+	</string>
+	<string id="st_helm_maska_descr">
+		<text>%c[ui_gray_1]1991年、「Maska-1」ヘルメットは「Sphere」ヘルメットの後継として登場した。\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_lzsh">
+		<text>LZSh light ヘルメット</text>
+	</string>
+	<string id="st_helm_lzsh_descr">
+		<text>%c[ui_gray_1]ロシア製の軽量プロテクトヘルメット。実はOps-core Fastヘルメットのコピーなのだが、より低品質になっている。\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_tackek">
+		<text>Tac-Kek Fast MT ヘルメット</text>
+	</string>
+	<string id="st_helm_tackek_descr">
+		<text>%c[ui_gray_1]Tac-Kekのヘルメット「Ops-Core Fast」の非防弾レプリカ。様々なパーツで改造が可能。\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_gallet">
+		<text>MSA Gallet TC 800 High Cut コンバットヘルメット</text>
+	</string>
+	<string id="st_helm_gallet_descr">
+		<text>%c[ui_gray_1]警察特殊部隊の戦術チームによる戦闘および偵察作戦用に設計された防弾ヘルメットMSA TC 800。様々な部品で改造することができます。\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_ops">
+		<text>Ops-Core Fast MT SUPER HIGH CUT ヘルメット</text>
+	</string>
+	<string id="st_helm_ops_descr">
+		<text>%c[ui_gray_1]世界中の特殊部隊で人気の高いOps-Core Fast防弾ヘルメット。様々な部品で改造可能。カラーはブラックとタンの2色。\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_kiver">
+		<text>Kiver-M ヘルメット</text>
+	</string>
+	<string id="st_helm_kiver_descr">
+		<text>%c[ui_gray_1]防弾ヘルメット\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_wendy">
+		<text>Team Wendy EXFIL バリスティックヘルメット</text>
+	</string>
+	<string id="st_helm_wendy_descr">
+		<text>%c[ui_gray_1]豊富なカスタマイズ機能を備えた、最新のタクティカルバリスティックヘルメットの一つ。カラーはブラックとコヨーテタン。\n \n
+		</text>
+	</string>
+
+</string_table>

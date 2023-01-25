@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="ui_mcm_menu_toggle_scope">
+		<text>スコープ切替</text>
+	</string>
+	<string id="ui_mcm_toggle_scope_key_bind_toggle">
+		<text>スコープの切り替え・起動方法</text>
+	</string>
+	<string id="ui_mcm_toggle_scope_key_bind_toggle_desc">
+        <text>%c[d_green]・c[DEFAULT] シングル: 現在のスコープを着脱する。
+            \n\n%c[d_green]・c[DEFAULT] ダブル: 次の互換のあるスコープに切り替える。
+        </text>
+	</string>
+	<string id="ui_mcm_toggle_scope_keybind_toggle_scope">
+		<text>スコープ切替・起動キー</text>
+	</string>
+
+</string_table>

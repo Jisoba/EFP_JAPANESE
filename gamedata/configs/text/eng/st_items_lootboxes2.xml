@@ -1,0 +1,82 @@
+<string_table>
+    
+	<string id="st_lootbox_toolbox">
+		<text>ツールセット</text>
+	</string>
+	<string id="st_lootbox_toolbox_descr">
+		<text>
+			持ち手部分に鍵が付いた工具セット。メカニックが工具やメンテナンス用品を整理して持ち運ぶのによく使われる。工具を収納するため、修理用具、スペアパーツ、そして煙草以外は収納できない。このような優れた工具は、多くのメカニックにとって需要が高いため、これは適切な品質のロックで保護されている。\n
+		</text>
+	</string>
+	<string id="st_lootbox_medbox">
+		<text>医療用ケース</text>
+	</string>
+	<string id="st_lootbox_medbox_descr">
+		<text>
+			大量の救急用品を収納できるよう設計された、無菌の多収納ケース。鍵はアフターマーケットの高品質なものを使用し、ケースをしっかり閉じられるようになっている。医療従事者にとっては非常に価値のあるものだ。もちろん、医療用品はたくさん持っていて損はないが......。\n
+		</text>
+	</string>
+	<string id="st_lootbox_ammocase">
+		<text>弾薬ケース</text>
+	</string>
+	<string id="st_lootbox_ammocase_descr">
+		<text>
+			武器のマガジンや弾薬の保管に使用する防水ケース。ハンターや裕福な市民がよく使う。通常、観光客はこのケースと高品質の弾薬を大量に持ち込み、空調管理によって中の弾薬が清潔で乾燥した状態に保たれるようになっている。ゾーンの弾薬のほとんどは古く、損傷しており、最悪の場合、経験の浅い職人が劣悪な設備で手詰めしたもので、そのため保存状態の良い弾丸は珍しく、かなり貴重なのだ。\n \n
+		</text>
+	</string>
+	<string id="st_lootbox_foodbox">
+		<text>金属製の食品箱</text>
+	</string>
+	<string id="st_lootbox_foodbox_descr">
+		<text>
+			生ものを入れるために作られた断熱性のある金属製の箱。ゾーン内では珍しく、主にSSUの職員が食料を運ぶために使用する。酒を冷やすことができるため、需要が多い。\n \n
+		</text>
+	</string>
+	<string id="st_lootbox_junkbox">
+		<text>スカベンジャーのジャンクボックス</text>
+	</string>
+	<string id="st_lootbox_junkbox_descr">
+		<text>
+			大きなコンテナの中には、大量の物が入っている音がしており、鍵がかかっている。予備部品入れか、値打ち品を入れていたのだろう。何か役に立つものがあるかもしれない\n \n
+		</text>
+	</string>
+	<string id="st_lootbox_devicecase">
+		<text>野外用機材ケース</text>
+	</string>
+	<string id="st_lootbox_device_descr">
+		<text>
+			Ecologistsが機材やサンプルの運搬に使用する防水・耐EMPケース。科学省は、アノマリーの中で現場機材を「落とす」事件が多発したため、現場での機材運搬に専用のケースを使用することを義務付けた。これらのケースには様々な高度な電子機器が収納されており、雇われたMercenaryが機密性の高い機器や余分なアーマーを収納するためにも使用される。また、フィールドサンプルを保管するための特別な収容場所もついている。\n \n
+		</text>
+	</string>
+	<string id="st_lootbox_coinbox">
+		<text>コイン式ボックス</text>
+	</string>
+	<string id="st_lootbox_coinbox_descr">
+		<text>
+			上部に奇妙な記号が描かれた封印された箱。箱は非常に頑丈に作られており、重い。鍵穴の代わりに、何らかのコインを入れるための溝がある。ルーブル硬貨を入れるには大きすぎる。どうやって開けるのだろうか？\n \n
+		</text>
+	</string>
+	<string id="st_tokens">
+		<text>奇妙なコイン</text>
+	</string>
+	<string id="st_tokens_descr">
+		<text>奇妙なシンボルが刻まれた大きな銀貨。金銭的な価値はないが、好奇心を刺激される。表層的にはキリル文字のような、あるいは日本語のような文字が書かれている。\n \n</text>
+	</string>
+	<string id="st_lootbox_ammocase_bad">
+		<text>古い弾薬箱</text>
+	</string>
+	<string id="st_lootbox_ammocase_bad_descr">
+		<text>
+			弾薬を入れるための鉄の箱。軍の払い下げ品で、ゾーンが立ち入り禁止区域となった当初は大量に残されていた。箱を揺らすと大きな音がする。簡単な鍵で固定されている。\n \n
+		</text>
+	</string>
+	
+	<string id="st_lootbox_tacklebox">
+		<text>南京錠付きタックルボックス</text>
+	</string>
+	<string id="st_lootbox_tacklebox_descr">
+		<text>
+			タックルボックスを再利用した収納ボックス。このゾーンには魚がいない（少なくともEcologistsはそう思っている）ので、中には餌や道具よりも役に立つものが見つかる可能性が高いだろう。\n \n 
+		</text>
+	</string>
+</string_table>

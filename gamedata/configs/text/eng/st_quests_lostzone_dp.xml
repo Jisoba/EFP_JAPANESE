@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!--===========================================================
+<
+< TEXT STRINGS FOR LOST TO THE ZONE: DARK PRESENCE TASK
+<	Anomaly 1.5 - Lost to the Zone: Dark Presence
+<
+<	Made by: SarisKhan
+<	Last revised: 29 October 2020
+<
+<===========================================================-->
+
+<string_table>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Dark Presence Task -->
+	<string id="lttz_dp_noosphere_voice_name">
+		<text>闇の存在:ヌースフィアの声</text>
+	</string>
+	
+	<string id="lttz_dp_noosphere_voice_text">
+		<text>Sinの謎の生き残りから招待状が来ている。彼に会おう。</text>
+	</string>
+	<string id="lttz_dp_noosphere_voice_text2">
+		<text>ダークバレーで何か不吉なことが起こっている。調査せよ。</text>
+	</string>
+	<string id="lttz_dp_noosphere_voice_text3">
+		<text>ダークバレーにある古い工場に到達する。</text>
+	</string>
+	<string id="lttz_dp_noosphere_voice_text4">
+		<text>X18研究室まで移動。</text>
+	</string>
+	<string id="lttz_dp_noosphere_voice_text5">
+		<text>「闇の存在」と対峙する。</text>
+	</string>
+	<string id="lttz_dp_noosphere_voice_text6">
+		<text>あなたは「闇の存在」を打ち負かした。ラドゴストに成功を報告せよ。</text>
+	</string>
+	
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+</string_table>

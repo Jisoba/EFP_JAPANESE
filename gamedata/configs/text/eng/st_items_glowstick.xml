@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<string id="st_device_glowstick">
+		<text>グロースティック（緑）</text>
+	</string>
+	<string id="st_device_glowstick_descr">
+		<text>化学反応により光を発生させるケミカルライトは、緊急時など他の光源が確保できない場合の自律光源として、ストーカーに広く利用されている。完全自給自足で、耐久性、耐火性、防水性、長期保存に適しており、その応用範囲は極めて広い。
+\nこのバリエーションは緑色の光を発し、バランスのとれた範囲と照度を持っており、すべての用途に適している。\n \n%c[0,140,140,140]特性:\n%c[0,153,255,255] ・%c[0,140,140,140] 技術品\n%c[0,153,255,255] ・%c[0,140,140,140] 現実時間で40分点灯する \n%c[0,153,255,255] ・%c[0,140,140,140] 距離: 12 メートル</text>
+	</string>
+	<string id="st_device_glowstick_red">
+		<text>グロースティック (赤)</text>
+	</string>
+	<string id="st_device_glowstick_red_descr">
+		<text>化学反応により光を発生させるケミカルライトは、緊急時など他の光源が確保できない場合の自律光源として、ストーカーに広く利用されている。完全自給自足で、耐久性、耐火性、防水性、長期保存に適しており、その応用範囲は極めて広い。 
+\nこのタイプはレッドライトで、より多くの光が届くが、照度は低く、兵士に人気がある。 \n \n%c[0,140,140,140]特性:\n%c[0,153,255,255] ・%c[0,140,140,140] 技術品\n%c[0,153,255,255] ・%c[0,140,140,140] 現実時間で60分点灯する \n%c[0,153,255,255] ・%c[0,140,140,140] 距離: 24 メートル</text>
+	</string>
+	<string id="st_device_glowstick_orange">
+		<text>グロースティック (オレンジ)</text>
+	</string>
+	<string id="st_device_glowstick_orange_descr">
+		<text>化学反応により光を発生させるケミカルライトは、緊急時など他の光源が確保できない場合の自律光源として、ストーカーに広く利用されている。完全自給自足で、耐久性、耐火性、防水性、長期保存に適しており、その応用範囲は極めて広い。 
+\nオレンジ色の光を発するこのタイプは、グリーンタイプとほぼ同じ光量だが、照度が低く、目が敏感な人に適している。\n \n%c[0,140,140,140]特性:\n%c[0,153,255,255] ・%c[0,140,140,140] 技術品\n%c[0,153,255,255] ・%c[0,140,140,140] 現実時間で40分点灯する \n%c[0,153,255,255] ・%c[0,140,140,140] 距離: 10 メートル</text>
+	</string>
+	<string id="st_device_glowstick_blue">
+		<text>グロースティック (シアン)</text>
+	</string>
+	<string id="st_device_glowstick_blue_descr">
+		<text>化学反応により光を発生させるケミカルライトは、緊急時など他の光源が確保できない場合の自律光源として、ストーカーに広く利用されている。完全自給自足で、耐久性、耐火性、防水性、長期保存に適しており、その応用範囲は極めて広い。 
+\nこのバリアントはシアンライトを発し、平均よりかなり低い範囲ながら、可能な限り最高の照度を持っている。地下街はもちろん、白昼でも、影になっているかどうかにかかわらず、見づらい隅を照らすのに最適だ。\n \n%c[0,140,140,140]特性:\n%c[0,153,255,255] ・%c[0,140,140,140] 技術品\n%c[0,153,255,255] ・%c[0,140,140,140] 現実時間で30分点灯する \n%c[0,153,255,255] ・%c[0,140,140,140] 距離: 6 メートル</text>
+	</string>
+	<string id="ui_mcm_menu_glowsticks">
+		<text>Glowsticks</text>
+	</string>
+	<string id="ui_mcm_glowsticks_enable_bs_mm_flicker">
+		<text>Brain ScorcherとMiracle Machineのちらつき</text>
+	</string>
+	<string id="ui_mcm_glowsticks_enable_bs_mm_flicker_desc">
+		<text>ブレイン・スコーチャーとミラクル・マシンが作動している間、ランプと懐中電灯がちらつくようになり、グロースティックを使用する理由を提供します。</text>
+	</string>
+	<string id="ui_mcm_glowsticks_throw_force">
+        <text>グロースティックの投擲距離</text>
+    </string>
+	<string id="ui_mcm_glowsticks_stash_chance">
+        <text>グロースティックのスタッシュ内出現確率</text>
+    </string>
+	<string id="ui_mcm_glowsticks_stash_chance_desc">
+        <text>隠し場所からグロースティックを見つけられる確率。</text>
+    </string>
+	<string id="ui_mcm_glowsticks_loot_chance">
+        <text>グロースティックルート確立</text>
+    </string>
+	<string id="ui_mcm_glowsticks_loot_chance_desc">
+        <text>死体からグロースティックを発見する確率。</text>
+    </string>
+	<string id="ui_mcm_glowsticks_throw_key">
+        <text>投擲キー</text>
+    </string>
+    <string id="ui_mcm_glowsticks_throw_key_desc">
+        <text>グローティックを投擲する際に使用するキー。</text>
+    </string>
+</string_table>

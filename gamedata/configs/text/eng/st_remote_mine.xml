@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+
+	<string id="st_plant_remote">
+		<text>リモートトリガー付きプラント</text>
+	</string>
+	
+	<string id="st_remove_det">
+		<text>リモートトリガーを外す</text>
+	</string>
+	
+	<string id="ui_st_disarmed">
+		<text>地雷を解除:</text>
+	</string>
+	
+	<string id="st_detonator_homemade">
+		<text>即席起爆装置</text>
+	</string>
+	<string id="st_detonator_homemade_desc">
+		<text>ラジオを改造し、コンデンサーと銅線を追加して信号を増幅させた即席の起爆装置。強力な中距離電波を発生させ、遠隔地の爆発物を起動させることができるが、必ずしもタイムリーに起動できるわけではない。</text>
+	</string>
+	<string id="st_detonator">
+		<text>遠隔起爆装置</text>
+	</string>
+	<string id="st_detonator_desc">
+		<text>軍用爆薬トリガー。仕掛けられた爆薬の遠隔トリガーを作動させる遠距離信号を発する。高品質で、爆薬を素早く爆発させる。</text>
+	</string>
+	
+	<string id="st_detonator_disarm">
+		<text>遠隔地雷解除装置</text>
+	</string>
+	<string id="st_detonator_disarm_desc">
+		<text>この装置は電磁パルスを発し、仕掛けられた地雷を解除し、安全に地雷を回収することができる。このパルスはリモートトリガーで作動する。</text>
+	</string>
+
+	<string id="st_remote_ied_rpg">
+		<text>遠隔IED（OG-7V弾頭ベース）</text>
+	</string>
+	<string id="st_remote_ied_rpg_descr">
+		<text>%c[yellow]このIEDのトリガー機構は、遠隔起爆装置に置き換えられている。%c[white]\n
+OG-7V弾頭と車のバッテリーの部品をベースにした即席の爆発装置。かなり前から携帯されていたようで、今にも爆発しそうだ。幸い、弾丸が直接当たったり、強力な圧力が加わったりしない限り、爆発しない仕組みになっている。ゾーンでは、IEDは非常に人気があり、閉じられたエリアへのアクセスから待ち伏せまで、さまざまな目的でIEDは使用されている。また、地雷の隣に設置することで、爆発の威力を増幅させることもできる。IEDは効率的に隠すことができ、相手から見えることはない。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] ・%c[ui_gray_2] 爆発物\n
+		%c[d_blue] ・%c[ui_gray_2] 軍用品\n
+		%c[d_blue] ・%c[ui_gray_2] 地面に置かれてても気づかれない\n
+		%c[d_purple] ・%c[ui_gray_2] トリガー機構: %c[ui_gray_1]真近\n
+		%c[d_purple] ・%c[ui_gray_2] 爆発力: %c[ui_gray_1]高い\n
+		%c[d_purple] ・%c[ui_gray_2] 爆破範囲: %c[ui_gray_1]7.8 m\n
+		%c[d_purple] ・%c[ui_gray_2] 破片の飛翔範囲: %c[ui_gray_1]56 m\n
+		%c[d_purple] ・%c[ui_gray_2] 平均的な破片数: %c[ui_gray_1]440 (榴散弾)\n
+		%c[d_purple] ・%c[ui_gray_2] 爆破までの遅延: %c[ui_gray_1]なし\n
+		</text>
+	</string>
+	
+	<string id="st_remote_ied">
+		<text>遠隔操作型IED（化学物質ベース）</text>
+	</string>
+	<string id="st_remote_ied_descr">
+		<text>%c[yellow]このIEDのトリガー機構は、遠隔起爆装置に置き換えられている。%c[white]\n
+様々な化学物質から作られた即席の爆発装置で、壊れた電気点火装置と鋼球の容器に入っている。使用されている化学物質は強烈な臭いを発し、毒性も強い。このIEDは、より一般的なOG-7Vバージョンよりもかなり強力である。ゾーンでは、IEDは非常に人気があり、閉じられたエリアへのアクセスから待ち伏せまで、さまざまな目的でIEDは使用されている。また、地雷の隣に設置することで、爆発の威力を増幅させることもできる。IEDは効率的に隠すことができ、相手から見えることはない。
+%c[ui_gray_3]特性:\n
+		%c[d_blue] ・%c[ui_gray_2] 爆発物\n
+		%c[d_blue] ・%c[ui_gray_2] 軍用品\n
+		%c[d_blue] ・%c[ui_gray_2] 地面に置かれてても気づかれない\n
+		%c[d_purple] ・%c[ui_gray_2] トリガー機構: %c[ui_gray_1]真近\n
+		%c[d_purple] ・%c[ui_gray_2] 爆発力: %c[ui_gray_1]非常に高い\n
+		%c[d_purple] ・%c[ui_gray_2] 爆破範囲: %c[ui_gray_1]12.9 m\n
+		%c[d_purple] ・%c[ui_gray_2] 破片の飛翔範囲: 
+		%c[ui_gray_1]74 m\n
+		%c[d_purple] ・%c[ui_gray_2] 平均的な破片数: %c[ui_gray_1]580 (鋼玉)\n
+		%c[d_purple] ・%c[ui_gray_2] 爆破までの遅延: %c[ui_gray_1]なし\n
+		</text>
+	</string>
+</string_table>

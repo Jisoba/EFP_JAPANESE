@@ -1,0 +1,187 @@
+<!-- 
+	Anomaly Mod Configuration Menu strings
+	
+-->
+
+<string_table>
+
+	<string id="ui_mcm_desc_mcm">
+		<text>Anomaly Mod 設定メニューへようこそ。MCM単体では何もしません。MCMは他のMOD/アドオンが設定UIを表示するための場所を提供します。
+		\n左側には、そのためにMCMを使用しているMOD/Addonのリストが表示されます。</text>
+	</string>
+	<string id="ui_mcm_desc_mcm2">
+		<text>MCMのバグやログにui_cm.scriptがあるクラッシュは、MCMを使用しているMOD/Addonのいずれかに原因がある可能性が高いので、そのMOD/Addonの作者に報告する必要があります。</text>
+	</string>
+	<string id="ui_mm_menu_mcm">
+		<text>Mod設定メニュー</text>
+	</string>
+
+	<string id="ui_mcm_menu_mcm">
+		<text>MCM</text>
+	</string>
+	<string id="ui_mcm_menu_mcm_about">
+		<text>説明</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_about_reset">
+		<text>全メニューの再読み込み</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_about_reset_desc">
+		<text>これをチェックして適用を押すと、MCMはすべてのメニューを再読み込みします。これはデバッグのためのツールであり、通常では必要ないはずです。</text>
+	</string>
+
+
+	<string id="ui_mcm_menu_mcm_log">
+		<text>ログ出力</text>
+	</string>
+	<string id="ui_mcm_mcm_desc_log">
+		<text>これは、アドオン製作者のために、xrayログやゲームコンソールからログを出力させるためのユーティリティです。
+		\n遅延やSSDの書き込みサイクルに関するお客様の懸念を尊重し、ログの動作を調整できるよう、いくつかのオプションを用意しました。
+		\nログは、ログを作成したスクリプトとMCMのセッションID番号にちなんで命名されます。ログは、appdata/logs/cm/に作成されます。</text>
+	</string>
+
+	<string id="ui_mcm_mcm_mcm_log_enable">
+		<text>MCMログユーティリティを有効にする。</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_enable_desc">
+		<text>チェックを外すと、新しいログが作成・更新されなくなります。(新しいセーブゲームがロードされるまで、変更が反映されない場合があることに注意してください)。</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_numlogs">
+		<text>ログセッションを保持する数。</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_numlogs_desc">
+		<text>スクリプトによって作成されたログの数がこの数を超えると、古いログは削除されます。(ゲームがクラッシュした場合は、ログの削除は行われませんのでご注意ください)</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_continuous">
+		<text>ファイルの連続書き込みを許可する。</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_continuous_desc">
+		<text>ログファイルは通常、一括して更新されます。このため、ゲームがクラッシュした場合、一部の情報が失われる可能性があります。アドオン製作者は、このボックスにチェックを入れて、ログをすぐに更新するように要求することがあります。</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_savefreq">
+		<text>ログ自動保存の間隔（ミリ秒）。</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_savefreq_desc">
+		<text>ここで何を設定しても、各種UI画面に入るときやゲームのセーブ・ロード時にログは保存されます。</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_timestamp">
+		<text>Xrayログのタイムスタンプの頻度。</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_timestamp_desc">
+		<text>MCM は、mcm ログと xray ログ間のイベントの調整を容易にするために、xray ログにタイムスタンプを追加します。これは、これらのタイムスタンプ間の最小時間です。コンソールに何も表示されない場合、mcm も表示されません。</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_debug_logging2">
+		<text>Enable Debug logging.</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_debug_logging2_desc">
+		<text>これはMCM自身のデバッグログを有効にするもので、MCMでバグを報告する前に有効にしておく必要があります。他のアドオンもこの設定を使用して、独自のログを有効にすることができます。</text>
+	</string>
+
+
+	<string id="ui_mcm_menu_mcm_kb">
+		<text>MCM キーバインド</text>
+	</string>
+	<string id="ui_mcm_menu_mcm_kb_main">
+		<text>メイン設定</text>
+	</string>
+
+	<string id="ui_mcm_mcm_desc_kb">
+		<text>MCMキーバインドはMinecraftのように機能します：ボックスをクリックしてから、キーを押してください。クリックまたはEscapeキーでキャンセルされます。
+		\nもし、表示されているキーが押したキーと一致しない場合や、MCMがいくつかのキーを無視しているような場合は、おそらくmcm_key_localization.ltxを修正してキーボードレイアウトを反映させる必要があります。
+		\n複数のMCMキーバインドまたはエンジンキーバインドに割り当てられているキーは、赤くハイライト表示されます。</text>
+	</string>
+	<string id="ui_mcm_mcm_desc_kb2">
+		<text>赤色の競合するキーのカラーリングについて、いくつか注意点を挙げます。
+		\n1. それは重要ではないかもしれません。キーが2つの異なるUIで使用されている場合、または1つのキーバインディングがシフトを押したときのみトリガーされる場合、そのキーが2回使用されていても修正する必要はありません。
+		\n2. MCM は、アドオンがキーで何をしているかを知りません。アドオンがキーをどのように使用しているかを理解することで、競合が発生するかどうかを知ることができます。
+		\n3. 保留中の変更が1つの場合は色が正しく更新されますが、保留中の変更が複数ある場合は更新されないことがあります。変更を適用して、MCMを再度開き、競合の状態が正しいかどうか確認してください。</text>
+	</string>
+
+	<string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_presstime">
+		<text>長押しとして判定に要する時間</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_presstime_desc">
+		<text>ダブルタップ・ウィンドウに適用される乗数で、長押しとしてカウントするためにキーを押し続ける必要がある時間を決定します。MCMを使用してキーの長押しを識別するアドオンにのみ適用されます。</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_dtaptime1">
+		<text>ダブルタップ判定時間</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_dtaptime1_desc">
+		<text>キーを2回押したとカウントするために、1回目のキーの後に2回目のキーを押すのに必要な時間を設定します。MCMを使用してダブルクリックを識別するアドオンにのみ適用されます。この時間は、いくつかのシングルキー押下イベントの入力遅延に影響することがあるので、できるだけ小さく設定する必要があります。</text>
+	</string>
+
+	<string id="ui_mcm_menu_mcm_all_kb">
+		<text>全てのキーバインド</text>
+	</string>
+	<string id="ui_mcm_mcm_desc_kb_all">
+		<text>このパネルは、すべてのMCMキーバインドを一箇所に集め、それを追加するアドオンが左側に表示されるのと同じ順序で表示します。
+		\nただし、このリストには、このキーの動作に影響を与える可能性のあるアドオンパネルの追加設定を含めることはできません。
+		\nキーバインドを設定したアドオンパネルとそのアドオンの説明を必ず確認してください。</text>
+	</string>
+	<string id="ui_mcm_mcm_desc_kb_all2">
+		<text>他のパネルで保留中の変更はこのパネルには反映されず、このパネルで保留中の設定も他のパネルに反映されません。
+		\nこのパネルを使用する前と後に、変更内容を適用してください。そうしないと、望ましくない動作になることがあります。
+		\n\n赤色の競合するキーのカラーリングについて、いくつか注意点を挙げます。
+		\n1. それは重要ではないかもしれません。キーが2つの異なるUIで使用されている場合、または1つのキーバインディングがシフトを押したときのみトリガーされる場合、そのキーが2回使用されていても修正する必要はありません。
+		\n2.MCM は、アドオンがキーで何をしているかを知りません。アドオンがキーをどのように使用しているかを理解することで、競合が発生するかどうかを知ることができます。
+		\n3.保留中の変更が1つの場合は色が正しく更新されますが、保留中の変更が複数ある場合は更新されないことがあります。変更を適用して、MCMを再度開き、競合の状態が正しいかどうか確認してください。</text>
+	</string>
+	<string id="ui_mcm_menu_mcm_kb_conflicts">
+		<text>キーバインド競合</text>
+	</string>
+	<string id="ui_mcm_mcm_desc_kb_conflicts">
+		<text>このパネルでは、競合するとしてマークされたすべてのMCMキーバインドを1つの場所に集め、キーごとにソートします。
+		\nキーがこのリストに一度だけ表示される場合、エンジンのキーバインドと競合している可能性があります。これらは通常のAnomalyオプションにリストアップされています。
+		\nただし、このリストには、このキーの動作に影響を与える可能性のあるアドオンパネルの追加設定を含めることはできません。
+		\nキーバインドを設定したアドオンパネルとそのアドオンの説明を必ず確認してください。 </text>
+	</string>
+
+	
+	
+	<string id="ui_mcm_mcm_kb_modifier">
+		<text>モディファイアキー</text>
+	</string>
+	<string id="ui_mcm_mcm_kb_modifier_desc">
+		<text>上記のキーバインドは、このキーも押されている場合にのみ有効になります。</text>
+	</string>
+
+	<string id="ui_mcm_lst_mcm_kb_mod_none">
+		<text>モディファイアなし。</text>
+	</string>
+	<string id="ui_mcm_lst_mcm_kb_mod_ctrl">
+		<text>CTRLキー</text>
+	</string>
+	<string id="ui_mcm_lst_mcm_kb_mod_shift">
+		<text>Shiftキー</text>
+	</string>
+	<string id="ui_mcm_lst_mcm_kb_mod_alt">
+		<text>Altキー</text>
+	</string>
+
+
+
+	
+	<string id="ui_mcm_mcm_kb_mode">
+		<text>入力モード</text>
+	</string>
+	<string id="ui_mcm_mcm_kb_mode_desc">
+		<text>このようにキーが入力されると、上記のキーバインドが有効になります。</text>
+	</string>
+	
+	<string id="ui_mcm_lst_mcm_kb_mode_press">
+		<text>1回押し</text>
+	</string>
+	<string id="ui_mcm_lst_mcm_kb_mode_dtap">
+		<text>2回押し</text>
+	</string>
+	<string id="ui_mcm_lst_mcm_kb_mode_hold">
+		<text>長押し</text>
+	</string>
+	
+
+
+
+
+
+</string_table>
+
+

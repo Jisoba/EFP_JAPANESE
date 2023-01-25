@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+  <string id="st_rotten_meat">
+      <text>腐った肉</text>
+    </string>
+  <string id="st_rotten_meat_raw_descr">
+		<text>ゾーン製の、調理が間に合わなかった生肉。2日も経つと、この臭い肉の塊は救いようがない。もう犬も食べないだろう。この匂いにつられて、あまり好まない生き物も出てくるかもしれないので、早めに処分するのが一番です...。</text>
+	</string>
+  <string id="st_rotten_meat_cooked_descr">
+		<text>ゾーン製のこの食品は、時間内に消費されなかった。5日も経つと、この臭い残飯は救いようがない。なんともったいないことか。この匂いにつられて、食わず嫌いの生物も出てくるかもしれないので、早めに処分するのが一番なのだが...。</text>
+	</string>
+  <string id="st_rotten_meat_snork_descr">
+    <text>調理が間に合わなかったスノークの腐った手。もっといい時期があったに違いない。もう使い道がないのだから、なるべく遠くに投げて、確実に這い上がれないようにするのが一番なのだが......。</text>
+  </string>
+ <string id="ui_mcm_menu_arszi_rotten_meat">
+    <text>Rotten Meat</text>
+  </string>
+  <string id="ui_mcm_arszi_rotten_meat_expiration_hours_cooked">
+    <text>調理した肉が腐るまでの時間</text>
+  </string>
+  <string id="ui_mcm_arszi_rotten_meat_expiration_hours_raw">
+    <text>生肉が腐るまでの時間</text>
+  </string>
+</string_table>

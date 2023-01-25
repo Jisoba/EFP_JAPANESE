@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_itm_repairkit_tier_1_name">
+    <text>ベーシック ツール</text>
+  </string>
+  <string id="st_itm_basickit_name">
+    <text>ベーシック ツール</text>
+  </string>
+  <string id="st_itm_basickit_descr">
+    <text>基本的な修理用ツールキット。高度なメンテナンスには向かないが、やりくり上手な技術屋の手にかかれば役に立つ。様々な種類と寸法のペンチ、ネジ、接着剤と多彩な留め金具が含まれる。十分な知識と経験があれば、このキットで基本的な装備を作成することができる。
+
+                \n%c[ui_gray_3]メモ : 
+                %c[0,250,250,0] ・ 技術屋は武器やアーマーを改造するためこれを必要とする。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_purple] ・ 技術屋の作業場でクラフトするために使用可能。
+                %c[d_blue] ・ 貴重品
+                %c[d_red] ・ 適切な材料が必要</text>
+  </string>
+  <string id="st_itm_repairkit_tier_2_name">
+    <text>アドバンスド ツール</text>
+  </string>
+  <string id="st_itm_advancedkit_name">
+    <text>アドバンスド ツール</text>
+  </string>
+  <string id="st_itm_advancedkit_descr">
+    <text>古いが適切なツールを備えているセット。だいぶ年月を経ているようだが、これらは良い状態を保っているようだ。一揃いの小型ペンチ、先が細いピンセット、プローブ、ピックなどがセットになっている。十分な知識と経験があれば、このキットでより良い装備を作成することができる。
+
+                \n%c[ui_gray_3]メモ : 
+                %c[0,250,250,0] ・ 技術屋は武器やアーマーを改造するためこれを必要とする。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_purple] ・ 技術屋の作業場でクラフトするために使用可能。
+                %c[d_blue] ・ 貴重品
+                %c[d_red] ・ 適切な材料が必要</text>
+  </string>
+  <string id="st_itm_repairkit_tier_3_name">
+    <text>エキスパート ツール</text>
+  </string>
+  <string id="st_itm_expertkit_name">
+    <text>エキスパート ツール</text>
+  </string>
+  <string id="st_itm_expertkit_descr">
+    <text>この専門職用セットは精密調整用の高品質なツールである。内容品にはドリルビット セット、精密ピンセット、はんだごて、4mmのスクリュードライバービットと回路計が含まれる。十分な知識と経験があれば、このキットで高度な装備を作成することができる。
+
+                \n%c[ui_gray_3]メモ : 
+                %c[0,250,250,0] ・ 技術屋は武器やアーマーを改造するためこれを必要とする。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_purple] ・ 技術屋の作業場でクラフトするために使用可能。
+                %c[d_blue] ・ 貴重品
+                %c[d_red] ・ 適切な材料が必要
+</text>
+  </string>
+  <string id="st_itm_drugkit">
+    <text>薬品製造ツール</text>
+  </string>
+  <string id="st_itm_drugkit_descr">
+    <text>薬を生産し管理するための、小さなケースと様々な金属製品がキットを構成している。若干のプラスチックのパッケージ、錠剤とアンプルも入っている。
+
+                \n%c[ui_gray_3]メモ : 
+                %c[0,250,250,0] ・ 医療従事者は、薬と医療を作る際にこれを必要とする。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_purple] ・ 技術屋の作業場でクラフトするために使用可能。
+        %c[d_blue] ・ 高品質
+                %c[d_blue] ・ 貴重品
+                %c[d_red] ・ 適切な材料が必要</text>
+  </string>
+  <string id="st_itm_ammokit">
+    <text>ガンスミス ツール</text>
+  </string>
+  <string id="st_itm_ammokit_descr">
+    <text>古いガンスミスのツールとアクセサリーのきちんとしたセットである。ピンポンチセット、ハンマー、プレス工具、黒色火薬計量器が入っている。充分な知識と経験があれば、破損した弾薬のリサイクルや、より良い弾薬の製造にも利用できる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_purple] ・ 技術屋の作業場でクラフトするために使用可能。
+        %c[d_blue] ・ 高品質
+                %c[d_blue] ・ 貴重品
+                %c[d_red] ・ 適切な材料が必要</text>
+  </string>
+  <string id="st_binocular_name">
+    <text>軍用双眼鏡</text>
+  </string>
+  <string id="st_binocular_descr">
+    <text>ウクライナ軍に支給される軍用双眼鏡。遠距離から監視ができるという事はゾーンでは重要であり重宝されている。非常に頑丈である。</text>
+  </string>
+  <string id="st_con_checker_name">
+    <text>装備の状態が書かれた紙</text>
+  </string>
+  <string id="st_con_checker_descr">
+    <text>この使い古しの紙切れには自分の装備品の状態がメモしてある。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                %c[d_orange] ・ 使用可能な用途 : 装備品の状態を確認</text>
+  </string>
+  <string id="st_container_tool_name">
+    <text>アーティファクト取り扱いツール</text>
+  </string>
+  <string id="st_container_tool_descr">
+    <text>硬化鋼製のトングで、アーティファクトを取り扱うための専用品。特殊な動作原理により、容器からアーティファクトを取り出すには、正式にはこれ以外の方法はない。このトングを使えば、素手でアーティファクトに触れたときの火傷を避けることができるが、アーティファクトによる精神や神経系への影響を防ぐことはできない。ゾーンの真のアーティファクト ハンターなら、このような道具を持たずに基地を出発することはありえない。
+
+                \n%c[ui_gray_3]特性
+                %c[d_blue] ・ 技術品
+                %c[ui_white] ・ アーティファクトを扱うために使用する
+                %c[ui_white] ・ アーティファクト保管装置の内容物を取り扱うのに必要なアイテム</text>
+  </string>
+  <string id="st_lead_box_name">
+    <text>アーティファクト完全隔離容器（カラ）</text>
+  </string>
+  <string id="st_lead_box_descr">
+    <text>内部に鉛の表面処理をされたこの容器は、金属製の箱に厚い壁と発泡スチロールを入れ、さらに圧力密閉機構を備えた重い蓋を付けたシンプルな容器である。放射性物質を輸送するために設計されたもので、ゾーンではアーティファクトの保管や輸送のために使用されることが多い。放射性物質の漏洩を完全に防ぐことができるため、アーティファクトを持ち歩く際の安全性を確保することができる。ただし、この装置はベルトに装備することができないため、アーティファクトの持つ良い特性も悪い特性も適用されない。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[ui_white] ・ アーティファクト保管装置
+                %c[ui_white] ・ 最大容量 : 1
+                %c[ui_white] ・ 状態 : 空
+
+                \n%c[d_red]警告 : 売却前に必ずアーティファクトを取り除くこと。</text>
+  </string>
+  <string id="st_lead_box_half_name">
+    <text>アーティファクト完全隔離容器（満杯ではない）</text>
+  </string>
+  <string id="st_lead_box_half_descr">
+    <text>内部に鉛の表面処理をされたこの容器は、金属製の箱に厚い壁と発泡スチロールを入れ、さらに圧力密閉機構を備えた重い蓋を付けたシンプルな容器である。放射性物質を輸送するために設計されたもので、ゾーンではアーティファクトの保管や輸送のために使用されることが多い。放射性物質の漏洩を完全に防ぐことができるため、アーティファクトを持ち歩く際の安全性を確保することができる。ただし、この装置はベルトに装備することができないため、アーティファクトの持つ良い特性も悪い特性も適用されない。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[ui_white] ・ アーティファクト保管装置
+                %c[ui_white] ・ 最大容量 : 1
+                %c[ui_white] ・ 状態 : 満杯ではない
+
+                \n%c[d_red]警告 : 売却前に必ずアーティファクトを取り除くこと。</text>
+  </string>
+  <string id="st_lead_box_closed_name">
+    <text>アーティファクト完全隔離容器（満杯）</text>
+  </string>
+  <string id="st_lead_box_closed_descr">
+    <text>内部に鉛の表面処理をされたこの容器は、金属製の箱に厚い壁と発泡スチロールを入れ、さらに圧力密閉機構を備えた重い蓋を付けたシンプルな容器である。放射性物質を輸送するために設計されたもので、ゾーンではアーティファクトの保管や輸送のために使用されることが多い。放射性物質の漏洩を完全に防ぐことができるため、アーティファクトを持ち歩く際の安全性を確保することができる。ただし、この装置はベルトに装備することができないため、アーティファクトの持つ良い特性も悪い特性も適用されない。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[ui_white] ・ アーティファクト保管装置
+                %c[ui_white] ・ 最大容量 : 1
+                %c[ui_white] ・ 状態 : 満杯
+
+                \n%c[d_red]警告 : 売却前に必ずアーティファクトを取り除くこと。</text>
+  </string>
+  <string id="st_crowbar">
+    <text>バール（再利用可能）</text>
+  </string>
+  <string id="st_crowbar_descr">
+    <text>本来は「鍵開け」や「ドア開け」に最適なツール。工業地帯でよく見かける。ストーカーの中には、その重さにもかかわらず、理由はわからないが在庫として持っている者もいる。価値は低い。有名なストーカーは、「ブラックメサの所有物」と書かれたユニークなバールを持ち歩いていた。まるで貴重品を探すかのように探しているストーカーもいるほど、求められている。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                %c[d_orange] ・ 使用回数の制限なし</text>
+  </string>
+  <string id="st_bolts_pack">
+    <text>ボルトの入った袋</text>
+  </string>
+  <string id="st_bolts_pack_descr">
+    <text>ボルトは安価で一般的であるため、アノマリーのナビゲーションの安価な代替手段として使用される。トレーダーや店を訪れれば、常に少数のボルトと空の弾丸を含む小さなパックが見つかる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                %c[d_orange] ・ 20 ~ 30個のボルトが含まれている</text>
+  </string>
+  <string id="st_swiss">
+    <text>スイスナイフ</text>
+  </string>
+  <string id="st_swiss_descr">
+    <text>食料の缶を開け、装備の機械類を締めなおし、ロープを切ったり、弾丸を鋭くして最高に仕上げたい？それならば万能で優雅なこのスイスナイフを使うべきだ。ゾーンでは時折ポケットや小さな箱に入ったものが見つかる。値段も手頃である。しかしながら、武器とスーツの両方を修理する際に補助材料として利用できる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                %c[d_purple] ・ アイテム分解用ツール</text>
+  </string>
+  <string id="st_grooming">
+    <text>グルーミングキット</text>
+  </string>
+  <string id="st_grooming_descr">
+    <text>このグルーミングキットは、強化ナイロン製のトラベルケースとあごひげ用のクシ、顔用のハサミで構成されている。男性用の指にフィットする持ち手はゴムで滑止めされており、刃は切れ味が非常に鋭いので、精密なトリミングが可能だ。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                %c[d_purple] ・ アイテム分解用ツール</text>
+  </string>
+  <string id="st_drugs_kit">
+    <text>薬剤調合キット</text>
+  </string>
+  <string id="st_drugs_kit_descr">
+    <text>小さな箱と様々な金属の物体は薬を管理し調合するための道具で構成されている。少しだけビニール袋に詰まった錠剤とハーブが入っている。
+                \n%c[ui_gray_3]]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 希少価値
+                %c[d_red] ・ 使用不可</text>
+  </string>
+  <string id="st_itm_sleepbag_name">
+    <text>寝袋</text>
+  </string>
+  <string id="st_itm_sleepbag_descr">
+    <text>休息が必要になった時、暖かく快適な睡眠を提供してくれる軽い寝袋。避難経路が確保された安全な場所で使うこと。睡眠から目覚めた後、又は「キャンセル」をクリックすることにより、バックパックに収納される。
+
+                \n%c[d_cyan]警告 : 
+                %c[ui_gray_1]野営の際は捕食動物に対し細心の注意を払うこと。放射線からの防護は出来ない。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 簡易ベッドを設置
+                %c[d_blue] ・ 無制限に使用可能
+                %c[d_blue] ・ 日用品</text>
+  </string>
+  <string id="st_compression_bag">
+    <text>圧縮バッグ</text>
+  </string>
+  <string id="st_compression_bag_descr">
+    <text>小さな寝袋や衣類を収納するのに用いる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 格納したい寝袋の近くで使用
+                %c[d_blue] ・ 日用品</text>
+  </string>
+  <string id="st_itm_tent_bag">
+    <text>キャンプ用テントの空バック</text>
+  </string>
+  <string id="st_itm_tent_bag_descr">
+    <text>キャンプ用テントの収納や運搬するためのバッグ。分解や梱包には時間がかかる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                %c[d_orange] ・ テントの収納に使用
+                %c[d_blue] ・ 使用回数の制限なし</text>
+  </string>
+  <string id="st_itm_tent_name">
+    <text>キャンプ用テント入りバッグ</text>
+  </string>
+  <string id="st_itm_tent_descr">
+    <text>雨風をしのぐためのキャンプ用テントが入ったバッグ。組み立てや設置には時間がかかる。ゾーン内では、危険に備えて避難経路が確保された安全な場所で使うことが望ましい。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                %c[d_orange] ・ テントの展開に使用
+                %c[d_blue] ・ 使用回数の制限なし</text>
+  </string>
+  <string id="st_lighter">
+    <text>ライター</text>
+  </string>
+  <string id="st_lighter_descr">
+    <text>炊事だけでなく、「コントローラー」との戦いの前に一服するためにも、ゾーンでは信頼できる防水性の高い火元が不可欠だ。この丈夫な金属製のガスライターは、ゾーンの有害な環境を考慮した完璧な選択である。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_orange] ・ 使用可能な用途 : 料理、喫煙</text>
+  </string>
+  <string id="st_lighter_refillers_descr">
+    <text>せっかくライターを持っていても、何もできないのでは意味がない。経験豊富なストーカーは、ゾーンの奥深くに行く前に、必ずライターに燃料を入れて出発する。「カーシノリウム」と呼ばれる一般的なライター燃料は、比較的安価であり、十分な機能を備えている。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_orange] ・ 使用可能な用途 : ライターの燃料補給</text>
+  </string>
+  <string id="st_lighter_refiller5">
+    <text>ライターオイル（133 ml left）</text>
+  </string>
+  <string id="st_lighter_refiller4">
+    <text>ライターオイル（107 ml left）</text>
+  </string>
+  <string id="st_lighter_refiller3">
+    <text>ライターオイル（80 ml left）</text>
+  </string>
+  <string id="st_lighter_refiller2">
+    <text>ライターオイル（54 ml left）</text>
+  </string>
+  <string id="st_lighter_refiller1">
+    <text>ライターオイル（27 ml left）</text>
+  </string>
+  <string id="st_itm_mapkit">
+    <text>アノマリーのマップ</text>
+  </string>
+  <string id="st_itm_mapkit_descr">
+    <text>数枚の手書きの紙切れと、個人的な写真、よれよれになった記事からなる無題の書類だ。
+いくつかのロケーションに印がつけられた大きな印刷された地図以外には特別な物は特に無い。
+どうやら以前の所有者はアーティファクト ハンターだったようだ。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_cyan] ・ 個人的な私物
+                %c[d_green] ・ 情報源</text>
+  </string>
+  <string id="st_itm_mapkit_1">
+    <text>アノマリーのマップ（陸軍倉庫）</text>
+  </string>
+  <string id="st_itm_mapkit_2">
+    <text>アノマリーのマップ（ヤンター）</text>
+  </string>
+  <string id="st_itm_mapkit_3">
+    <text>アノマリーのマップ（レッド フォレスト）</text>
+  </string>
+  <string id="st_itm_mapkit_4">
+    <text>アノマリーのマップ（デッド シティー）</text>
+  </string>
+  <string id="st_itm_mapkit_5">
+    <text>アノマリーのマップ（トラック墓地）</text>
+  </string>
+  <string id="st_itm_mapkit_6">
+    <text>アノマリーのマップ（ジュピター）</text>
+  </string>
+  <string id="st_itm_mapkit_7">
+    <text>アノマリーのマップ（ザトン）</text>
+  </string>
+  <string id="st_itm_mapkit_8">
+    <text>アノマリーのマップ（ガベージ）</text>
+  </string>
+  <string id="st_itm_mapkit_9">
+    <text>アノマリーのマップ（アグロプロム）</text>
+  </string>
+  <string id="st_ammo_box">
+    <text>弾薬箱</text>
+  </string>
+  <string id="st_ammo_box_descr">
+    <text>あらゆるストーカーは信頼できる武器の重要性を認識している。だからこそ、毎日徹底的に銃を検査することが、生き残るために不可欠だ。ストーカーはしばしば弾薬を数え、戦闘の最中に武器が詰まる危険性を最小限に抑えるために、掃除をしている。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品</text>
+  </string>
+  <string id="st_itm_sleepbag_name">
+    <text>寝袋</text>
+  </string>
+  <string id="st_itm_sleepbag_desc">
+    <text>夜でも暖かく隠れるようにデザインされた携帯用寝袋。
+
+\n%c[255,255,255,0]ダブルクリックで地面に配置。</text>
+  </string>
+  <string id="st_itm_gunsmith_toolkit">
+    <text>ガンスミスキット</text>
+  </string>
+  <string id="st_itm_gunsmith_toolkit_descr">
+    <text>基本的な火器のメンテナンスに使用されるオイルとツールを含むキット。探検の時に便利だが、かなり重い。
+
+\n%c[255,255,255,0]修復するアイテムにドラッグする。</text>
+  </string>
+  <string id="st_itm_outfit_toolkit">
+    <text>裁縫セット</text>
+  </string>
+  <string id="st_itm_outfit_toolkit_descr">
+    <text>衣類のメンテナンスに必要な裁縫道具や予備の材料を集めたキット。スーツの穴や破れを補修するのに役立つ。
+
+\n%c[255,255,255,0]修復するアイテムにドラッグする。</text>
+  </string>
+  <string id="st_itm_tent_name">
+    <text>軍用テント</text>
+  </string>
+  <string id="st_itm_tent_desc">
+    <text>軍用品。これにより厳しい天気に耐えられる。テントを置くために、開いた場所を選ぶこと。</text>
+  </string>
+  <string id="st_itm_lantern_name">
+    <text>LEDランタン</text>
+  </string>
+  <string id="st_itm_lantern_desc">
+    <text>リチウムイオンバッテリーで動作する、大きくて耐久性のある強力なランプ。据え置きの場合は、地面に置く。</text>
+  </string>
+  <string id="st_itm_artefact_container_name">
+    <text>アーティファクト容器</text>
+  </string>
+</string_table>

@@ -1,0 +1,38 @@
+<string_table>
+	<string id="ui_mcm_ut_skill_system_exp_multiplier_medicine">
+        <text>医療スキル経験値倍率</text>
+    </string>
+    <string id="ui_mcm_ut_skill_system_exp_multiplier_insanity">
+        <text>精神力スキル経験値倍率</text>
+    </string>
+    <string id="ui_mcm_ut_skill_system_exp_multiplier_tinkering">
+        <text>技術スキル経験値倍率</text>
+    </string>
+    <string id="ui_mcm_ut_skill_system_exp_multiplier_bartering">
+        <text>取引スキル経験値倍率</text>
+    </string>
+	<string id="ui_mcm_ut_skill_system_exp_multiplier_reloading">
+        <text>武器ハンドリングスキル経験値倍率</text>
+    </string>
+	<string id="ui_mcm_ut_skill_system_exp_multiplier_magloading">
+        <text>リローディングスキル経験値倍率</text>
+    </string>
+    <string id="ui_mcm_ut_skill_system_exp_multiplier_lockpicking">
+        <text>ピッキングスキル経験値倍率</text>
+    </string>
+	<string id="ui_mcm_ut_skill_system_traits_gain_mult">
+        <text>特性ポイント取得倍率</text>
+    </string>
+    <string id="ui_mcm_ut_skill_system_title">
+        <text>Skills Expansion 構成</text>
+    </string>
+     <string id="ui_mcm_menu_ut_skill_system">
+        <text>Skills Expansion</text>
+    </string>
+	<string id="ui_mcm_ut_skill_system_traits_keybind">
+        <text>Traits UIキーバインド</text>
+    </string>
+	<string id="ui_mcm_ut_skill_system_purge_ut_skills">
+        <text>Skills Expansionをアンインストールする</text>
+    </string>
+</string_table>

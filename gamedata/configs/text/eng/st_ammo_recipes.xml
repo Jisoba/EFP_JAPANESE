@@ -1,0 +1,59 @@
+<string_table>
+    
+	<string id="st_ammo_recipe_ru1">
+		<text>GRAU小型武器報告書 その１</text>
+	</string>
+	<string id="st_ammo_recipe_ru1_desc">
+		<text>ロシアの研究所から盗まれ、一時的にゾーンに移され隠匿されていた機密文書。ロシアの現行弾と実験弾の仕様、弾の性能に関する実証試験データなどを収録。第1巻では、軍や警察で使用される標準弾と特殊弾（群集心理を含む）のみを扱っている。情報セキュリティの問題から、徹甲弾の設計図はよりセキュリティの高い文書に移されている。</text>
+	</string>
+    
+	<string id="st_ammo_recipe_ru2">
+		<text>GRAU小型武器報告書 その２</text>
+	</string>
+	<string id="st_ammo_recipe_ru2_desc">
+		<text>ロシアの研究所から盗まれ、一時的にゾーンに移され隠匿されていた機密文書。ロシアの様々な口径の徹甲弾実験弾の仕様と、弾の性能に関する実証試験データを収録。この巻では徹甲弾に特化し、貫通体コアの材料分析や、装甲を破った後のダメージを最大化するための様々なメカニズムの詳細が紹介されている。焼夷弾に関するページは、不思議なことに破られている。</text>
+	</string>
+    
+	<string id="st_ammo_recipe_pistol">
+		<text>自己防衛のための拳銃</text>
+	</string>
+	<string id="st_ammo_recipe_pistol_desc">
+		<text>拳銃を護身用に使用する際の様々な細かい点を詳細に説明したアメリカ産の書籍。32ACPから実用的でないマグナム弾まで、一般的な拳銃とその弾薬が網羅されている。また、この本には極めて怪しげな「体験談」が散りばめられているが、これは、撃ち返したり噛み付いてきたりするような標的に銃を向けたことがない人たちによって書かれたものである可能性が高い。</text>
+	</string>
+    
+	<string id="st_ammo_recipe_shotgun">
+		<text>Biggest Game:大型陸上動物を仕留める編</text>
+	</string>
+	<string id="st_ammo_recipe_shotgun_desc">
+		<text>競技用射撃や大型動物の狩猟などのスポーツに関する詳細な書籍。様々な種類の弾薬とその用途が、様々な条件下での性能と終末弾道に関する詳細なチャートとともに紹介されている。また、いくつかの大型動物の解剖図が掲載されており、効率的なキルショットを行うための注意事項が書かれている。残念ながら、これらの通常の生物はゾーンには存在しない。</text>
+	</string>
+
+	<string id="st_ammo_recipe_nato">
+		<text>MIL-STD-1168C マニュアル M-5</text>
+	</string>
+	<string id="st_ammo_recipe_nato_desc">
+		<text>NATO規格の現代小火器弾薬の仕様と寸法を網羅した総合技術書。また、その歴史や特殊部隊のオペレーターのコメントも掲載されている。</text>
+	</string>
+    
+	<string id="st_ammo_recipe_arty1">
+		<text>小型武器に関するアーティファクトの応用例 改訂3版</text>
+	</string>
+	<string id="st_ammo_recipe_arty1_desc">
+		<text>科学省が様々なストーカーグループの協力を得て作成した研究論文。20種類以上の実験が掲載されており、そのほとんどが壊滅的なレベルの失敗に終わっている。</text>
+	</string>
+
+	<string id="st_ammo_recipe_arty2">
+		<text>Sinの儀式本</text>
+	</string>
+	<string id="st_ammo_recipe_arty2_desc">
+		<text>手書きの紙を何枚か重ねて作ったと思われる、著者も印もない不思議な本。中に書かれている情報は驚くほど詳細で有用であり、まるで野生動物ガイドを読んでいるようである。ゾーンの多くの「贈り物」について、ミュータントの解剖学、異常の構造、アーティファクトの特性など、かなりのデータが掲載されている。例えば、「肉」のどの部分を抽出すれば血液再生血清ができるのか、あるいはフルーツポンチのアノマリーを利用すれば衣服の汚れを非常に丁寧に落とすことができるのか、などゾーンの「贈り物」の様々な有用な利用法が情報として記載されている。</text>
+	</string>
+    
+	<string id="st_ammo_recipe_fire">
+		<text>放火魔の「料理」本</text>
+	</string>
+	<string id="st_ammo_recipe_fire_desc">
+		<text>細かい灰の跡がついたノート。バーナーアノマリー、ファイアボール、焼夷弾、手榴弾など、火にまつわる情報のみを、印刷物や手書きなど様々な資料から集積している。</text>
+	</string>
+
+</string_table>

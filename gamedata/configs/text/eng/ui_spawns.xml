@@ -1,0 +1,13 @@
+
+<string_table>
+	<string id="ui_st_pumping_station">
+		<text>ポンプ場 (グレートスワンプ)</text>
+	</string>
+	<string id="ui_st_train_hangar">
+		<text>列車格納庫(ガベージ)</text>
+	</string>
+	<string id="ui_st_village_ruins">
+		<text>廃村(陸軍倉庫)</text>
+	</string>
+
+</string_table>

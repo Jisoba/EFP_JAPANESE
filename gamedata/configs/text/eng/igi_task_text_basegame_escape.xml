@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sidorovich (Loner Trader) Eliminate Car Park Bandits Task -->
+
+	<string id="igi_task_text_esc_m_trader_task_1_title">
+		<text>駐車場を襲撃しろ</text>
+	</string>
+	<string id="igi_task_text_esc_m_trader_task_1_descr">
+		<text>駐車場に攻撃を仕掛け、その場所を占領しているBanditたちを排除しろ。</text>
+	</string>
+	<string id="igi_task_text_esc_m_trader_task_1_job_descr">
+		<text>Banditたちが古い駐車場を占領している。あのチンピラ共は、野営地に出入りする道を通る者を、襲うか殺すかしてる。俺の依頼主と野営地に避難するストーカーたちの活動を邪魔してる。ビジネスに支障をきたしてるんだ！お前さんに奴等を「処理」してほしい。助けが必要なら、ファナティックに相談してみると良い。</text>
+	</string>
+	<string id="igi_task_text_esc_m_trader_task_1_finish">
+		<text>よくやった、ストーカー！俺たちは親友になれるかもな！これが約束の物だ。</text>
+	</string>
+
+	<string id="igi_task_text_esc_m_trader_task_bs_kill_stalker_nearby_title">
+		<text>殺人請負人</text>
+	</string>
+	<string id="igi_task_text_esc_m_trader_task_bs_kill_stalker_nearby_descr">
+		<text>シドロヴィッチの邪魔者を排除することに同意した。それが済んだら、報酬を受け取りに戻らなければならない。</text>
+	</string>
+	<string id="igi_task_text_esc_m_trader_task_bs_kill_stalker_nearby_job_descr">
+		<text>俺は、処理をする必要がある賞金首の一覧を持っている。こいつらは、不快な策士、詐欺師、誹謗中傷者･･････過去に俺の運び屋を乱暴に扱ったり、観光客に嫌がらせをしたりした奴も多い。つまり、商売にならない奴らなのさ。
+
+\n\n俺の不幸の元凶を始末してくれないか？俺は嬉しいし、ゾーンはきれいになるし、お前さんは報酬を十分に得られる。みんなが得をするんだよ。</text>
+	</string>
+	<string id="igi_task_text_esc_m_trader_task_bs_kill_stalker_nearby_finish">
+		<text>の薄汚い変人どもを追い出したのか？ざまあみろ！これが約束したものだ。シドロヴィッチおじさんは良い仕事に報いない、と言わせてなるものか。</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sidorovich (Loner Trader) Decimate the Enemy Task -->
+
+	<string id="igi_task_text_esc_m_trader_task_3_title">
+		<text>マフィア狩り</text>
+	</string>	
+	<string id="igi_task_text_esc_m_trader_task_3_descr">
+		<text>シドロヴィッチはBanditのリーダーたちにメッセージを送りたいと考えている。彼に協力してワッペンを集めることに同意した。</text>
+	</string>		
+	<string id="igi_task_text_esc_m_trader_task_3_job_descr">
+		<text>聞いてくれ。ここは新人たちがゾーンを知るための安全な場所のはずだ。だが、代わりにBanditたちから銃口を向けられてる。彼奴らは俺たちの取引ルートを邪魔し戦利品を盗んでいきやがる。彼奴らに教えてやってくれないか？</text>
+	</string>		
+	<string id="igi_task_text_esc_m_trader_task_3_fetch_job_descr">
+		<text>最近、ダーク バレーのダンディなBanditが、俺のビジネスに別の手を打とうとしている。スルタンとかいうバカな名前を名乗っている。次は何だ？ リースリングか？マスカディンか？ 
+\n\nブドウみたいな名前のあのデカブツ野郎にメッセージを送ろう。本当のボスが誰なのか思い出させるんだ。奴の部下がコソコソしているのは知っている。ダークスケープやメドウを通ってコードンまでやってきて、ルーキーたちに嫌がらせをしたり。俺の取引ルートを妨害したりするんだ。お前さんには、奴らの何人かを殺してもらいたい。その後、奴らの%sを持ってくれば、残りの部分は俺が解決する。</text>
+	</string>		
+	<string id="igi_task_text_esc_m_trader_task_3_fetch_finish">
+		<text>やっと戻ってきたか。派閥ワッペンを手に入れたのか？よし、これがお前さんの報酬だ。あとは俺に任せろ。</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Wolf (Loner Honcho) -->
+	
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_bs_assault_monster_online_title">
+		<text>コードンからミュータントの脅威を排除しろ</text>
+	</string>
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_bs_assault_monster_online_descr">
+		<text>ウルフのためにミュータントの巣を片付けることに同意した。これでコードンのストーカーたちは間違いなく楽になるだろう。仕事が完了したら、支払いのために彼のところに戻らなければならない。</text>
+	</string>
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_bs_assault_monster_online_job_descr">
+		<text>ここはゾーンの境界だが、初心者にはここでさえきつい。Banditたちはロシア語を理解しているから、問題は半分だけさ。しかし、ミュータントの場合は本当に難しい。もしお前さんが有能なハンターなら、ここから遠くないところに、片付けないといけないミュータントの巣がある。お前さんがこれをどうにかできたら、俺は恩に着るよ。</text>
+	</string>
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_bs_assault_monster_online_finish">
+		<text>ありがとうな、ストーカー。この機会に、この辺の新人たちも、豚の餌になる前に、いろいろと勉強してくれるかもしれねえな。ああ、そういえば、恩に着ると言ったよな。これがその報酬だ。</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Wolf (Loner Honcho) Stalker Search and Rescue Dynamic Task -->
+
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_2_title">
+		<text>運び屋の救出</text>
+	</string>
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_2_descr">
+		<text>シドロヴィッチの新しい運び屋の一人が盗賊に誘拐された。彼を救出し、ウルフの元へ連れて行くことを約束した。</text>
+	</string>
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_2_job_descr">
+		<text>シドロヴィッチの新しい運び屋の一人がトラブルに巻き込まれたので、彼の救出を依頼された。彼がどこに監禁されているかは知っているが、悪党どもから彼を解放し、安全に野営地に連れ戻すためには、有能な戦士が必要だ。やってくれないか？そうでなければ、俺が行かねばならないし、ルーキー村を中途半端な警備のままにしておきたくはない。</text>
+	</string>
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_2_finish">
+		<text>お疲れさん、ストーカー。シドロヴィッチのパシリは酷くボロボロってわけでもないようだ。彼がボスと仕事をする時が来たな。君に関しては、仕事は終わった。これが君の報酬だ。</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Wolf (Loner Honcho) Stalker Guide Dynamic Task -->
+
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_3_title">
+		<text>動物園観光</text>
+	</string>
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_3_descr">
+		<text>ウルフに信頼されて、ミュータント狩りの観光客を案内することになった。</text>
+	</string>
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_3_job_descr">
+		<text>外国人観光客の中には、シドロヴィッチに大金を払って、ゾーン内のちょっとした狩りに出かける連中もいる。彼らは射撃の腕は悪くないんだが、アノマリーやミュータントのことを全然知らない。これでは人のお守りをしているようなものだ。
+
+\n\nあんた、彼らのガイド役をしてくれないか？派手なものではないが、こういう人たちはコードンの中をちょっと散歩して、最後に撮影するくらいでだいたい満足する。その連中が馬鹿な真似をしないようにだけは気を付けろよ。俺の頭痛の種も減るし、簡単な仕事でも十分な報酬になる。</text>
+	</string>
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_3_finish">
+		<text>さて、観光客は求めていたことを得られたようだ。シドロヴィッチも喜ぶだろう。あんたの取り分はこれだ。</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Nimble (Loner Trader) Find Weapon Task -->
+
+	<string id="igi_task_text_esc_2_12_stalker_nimble_task_1_title">
+		<text>銃を探せ</text>
+	</string>
+	<string id="igi_task_text_esc_2_12_stalker_nimble_task_1_descr">
+		<text>ニンブルは特定の銃器を見つけるようあなたに頼んだ。新品同様でなければならない。彼が探しているものを見つけて彼のところに戻れ。</text>
+	</string>
+	<string id="igi_task_text_esc_2_12_stalker_nimble_task_1_job_descr">
+		<text>特定の銃を欲しがる顧客がいるんだが、その目的の銃を探してくれる奴を募集しているんだ。興味があるんなら詳細を詳しく伝えるよ。あんたはどうだい？</text>
+	</string>
+	<string id="igi_task_text_esc_2_12_stalker_nimble_task_1_fetch_job_descr">
+		<text>特定の銃が必要なんだが、新品と変わらない状態じゃないとだめだ。顧客は既に全額払っているからな、あたりまえだが、さび付いたゴミなんて欲しがらない。この仕事は目的のブツを探してくれる奴が主体の仕事だからな、利益のほとんどを支払うつもりさ。見つけたら戻って来てくれ</text>
+	</string>
+	<string id="igi_task_text_esc_2_12_stalker_nimble_task_1_fetch_finish">
+		<text>こいつはいいブツだな。これなら顧客も満足してくれるはずだ。ほら、約束の報酬だ。</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Nimble (Loner Trader) Retrieve PDA Dynamic Task -->
+
+	<string id="igi_task_text_esc_2_12_stalker_nimble_task_2_title">
+		<text>ニンブルのためにPDAを入手しろ</text>
+	</string>
+	<string id="igi_task_text_esc_2_12_stalker_nimble_task_2_descr">
+		<text>ニンブルは、あるPDAを欲しがっている。</text>
+	</string>
+	<string id="igi_task_text_esc_2_12_stalker_nimble_task_2_job_descr">
+		<text>俺のためにPDAを手に入れる必要がある。ここから少し離れた場所で見つかる。</text>
+	</string>
+	<string id="igi_task_text_esc_2_12_stalker_nimble_task_2_finish">
+		<text>ありがとうな、ストーカー！</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+<!-- (Military Trader - Southern Outpost) -->
+	<string id="igi_task_text_esc_3_16_military_trader_task_bs_fetch_patches_title">
+		<text>コードンの取り締まり</text>
+	</string>
+	<string id="igi_task_text_esc_3_16_military_trader_task_bs_fetch_patches_descr">
+		<text>検問所の司令官であるズーロフ少佐から、ワッペンを持ってくるように頼まれた。誰が責任者なのか、ストーカーたちに思い知らせるのに役立つはずだ。</text>
+	</string>
+	<string id="igi_task_text_esc_3_16_military_trader_task_bs_fetch_patches_job_descr">
+		<text>層部が非公式の計画を開始した、お前も参加するか？証拠として、犯罪者のワッペンが必要だ。</text>
+	</string>
+	<string id="igi_task_text_esc_3_16_military_trader_task_bs_fetch_patches_finish">
+		<text>お前がとった行動は、職務上の義務を超えたものだ。ここで、表彰状を受け取り、今日のことを誇りに思え</text>
+	</string>
+	
+<!-- Fanatic -->
+	<string id="igi_task_text_esc_2_12_stalker_fanat_task_bs_assault_monster_online_title">
+		<text>ミュータントの巣を破壊しろ</text>
+	</string>
+	<string id="igi_task_text_esc_2_12_stalker_fanat_task_bs_assault_monster_online_descr">
+		<text>コードンのストーカーたちのために、ミュータントの巣を破壊することをファナティックと合意した。</text>
+	</string>
+	<string id="igi_task_text_esc_2_12_stalker_fanat_task_bs_assault_monster_online_job_descr">
+		<text>ちょっとした問題を解決しなければならない。コードンはゾーンの中でも最も安全な場所の一つであるはずなのに、ここからそれほど遠くない場所に新しいミュータントの隠れ家ができてしまったのだ。あまり大きくならないうちに片付ける必要がある。そうしないと、ここのルーキーたちは死ぬような思いをすることになる。さて、どうする？やってくれるか？</text>
+	</string>
+	<string id="igi_task_text_esc_2_12_stalker_fanat_task_bs_assault_monster_online_finish">
+		<text>素晴らしい仕事をしてくれたな。あんたのおかげで、新人たちは深みにはまることなく、もっと余裕を持って活動ができるだろう。ここにあんたへの報酬がある。皆が少しずつ出してくれた。</text>
+	</string>
+
+	<string id="igi_task_text_esc_2_12_stalker_fanat_task_2_title">
+		<text>ファナティックのために「バッテリー」アーティファクトを見つけろ</text>
+	</string>
+	<string id="igi_task_text_esc_2_12_stalker_fanat_task_2_descr">
+		<text>ファナティックは、旧友たちがゾーンから抜け出すために賄賂を贈る、ということを手助けするので、「バッテリー」アーティファクトを必要としている。</text>
+	</string>
+	<string id="igi_task_text_esc_2_12_stalker_fanat_task_2_fetch_job_descr">
+		<text>で、ここからが本題だ。この村が地元の兵隊たちに襲われないようにするためには、様々な汚れ仕事が必要なのだ。シドロヴィッチはそうやって村自体の安全を確保しているが、出て行きたい友人が俺には何人かいるし、彼らには本当の意味での出口はない。
+
+\n\nMilitaryの国境警備隊の特徴は、人が入ってこないようにすることにはあまり気を使わないことだ。しかし、彼らは人を外に逃がすくらいなら、冷酷に殺してしまう。だから、俺の友人はここで立ち往生している。</text>
+	</string>
+	<string id="igi_task_text_esc_2_12_stalker_fanat_task_2_fetch_finish">
+		<text>ああ、「バッテリー」アーティファクトを見つけたんだな。すばらしい！仲間にも知らせておこう。寂しくなるが、彼らは普通の生活に戻れるはずだ。ありがとう、ストーカー。</text>
+	</string>
+
+	<!-- Seryoga --> 
+	<string id="igi_task_text_army_south_mechan_mlr_task_4_job_descr">
+		<text>何人かのバカがスピーカーを撃ち続けている。ルーキー村からのストーカーなのか、ここにいる誰かなのか、見当もつかない。とにかく、修理するための部品が必要なんだ。探してくれないか？</text>
+	</string>
+	<string id="igi_task_text_army_south_mechan_mlr_task_4_title">
+		<text>セリョーガのために修理部品を見つけろ</text>
+	</string>
+	
+</string_table>

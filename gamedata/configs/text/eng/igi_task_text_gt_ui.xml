@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<!-- Mutant -->
+	<string id="igi_task_text_gt_zombie">
+		<text>ゾンビ</text>
+	</string>
+	<string id="igi_task_text_gt_flesh">
+		<text>「フレッシュ」</text>
+	</string>
+	<string id="igi_task_text_gt_boar">
+		<text>「ボア」</text>
+	</string>
+	<string id="igi_task_text_gt_snork">
+		<text>スノーク</text>
+	</string>
+	<string id="igi_task_text_gt_psy_dog">
+		<text>サイドッグ</text>
+	</string>
+	<string id="igi_task_text_gt_lurker">
+		<text>ルーカー</text>
+	</string>
+	<string id="igi_task_text_gt_chimera">
+		<text>キメラ</text>
+	</string>
+	<string id="igi_task_text_gt_bloodsucker">
+		<text>ブラッドサッカー</text>
+	</string>
+	<string id="igi_task_text_gt_burer">
+		<text>バーラー</text>
+	</string>
+	<string id="igi_task_text_gt_controller">
+		<text>コントローラー</text>
+	</string>
+	<string id="igi_task_text_gt_poltergeist">
+		<text>ポルターガイスト</text>
+	</string>
+	<string id="igi_task_text_gt_gigant">
+		<text>スードウジャイアント</text>
+	</string>
+	
+	<!-- Heavy -->
+	<string id="igi_task_text_gt_heavy">
+		<text>熟練ストーカー</text>
+	</string>
+</string_table>

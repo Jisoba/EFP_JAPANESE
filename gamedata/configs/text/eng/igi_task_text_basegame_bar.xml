@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Voronin (Duty Honcho) Decimate the Enemy Task -->
+	
+	<string id="igi_task_text_bar_dolg_leader_task_bs_fetch_patches_title">
+		<text>クラック・ダウン</text>
+	</string>	
+	<string id="igi_task_text_bar_dolg_leader_task_bs_fetch_patches_descr">
+		<text>ヴォロニン将軍はdutyの敵の取り締まりを進めている。ワッペンを渡すことで報酬が得られる。</text>
+	</string>		
+	<string id="igi_task_text_bar_dolg_leader_task_bs_fetch_patches_job_descr">
+		<text>よく聞け ストーカー。ゾーンを駆逐するために努力する一方で、罪のない人々への義務を無視することはできない。ゾーンを撲滅するために努力する一方で、罪のない人々への義務を無視することはできません。ストーカー達は、欲望と妄想に駆られた無法者と過激派に悩まされています。ゾーンこそが真の敵だが、ストーカーを放置することはできない。 彼らに危害を加える者たちを、倒してきてくれ。 </text>
+	</string>		
+	<string id="igi_task_text_bar_dolg_leader_task_bs_fetch_patches_fetch_finish">
+		<text>よくやった、ストーカー。君のおかげで、人類にとって最も古い宿敵である「自分自身」から、罪のない人々を守ることができた。</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Voronin (Duty Honcho) Night Terror Task -->
+	
+	<string id="igi_task_text_bar_dolg_leader_task_2_title">
+		<text>ナイトテラー</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_leader_task_2_descr">
+		<text>ヴォロニン将軍はトラック墓地に出没する危険なミュータントを退治してほしいと言った。私は退治すると約束した。</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_leader_task_2_job_descr">
+		<text>パトロール隊から危険なミュータントの兆候が報告された。トラック墓地に出没しているとのことだ。 その怪物はすでに数人の犠牲を出しているが、日中に捕らえるチャンスはない。この恐怖を直ちに止めなければならない。 行け、獣がおとなしくなる夕暮れまで待つのだ。そして、この忌まわしいものを追い詰め、破壊するのだ。</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_leader_task_2_finish">
+		<text>目標を達成するための新たな一歩だった。感謝する。</text>
+	</string>
+	
+	<!-- Voronin (Duty Honcho) Mortal Sin Unquenchable Flame Task -->
+	<string id="igi_task_text_bar_dolg_leader_task_3_job_descr">
+		<text>我々がすでにSinに決定的な 打撃を与えたにもかかわらずSinの信奉者は降伏を拒否している。信頼できる情報提供者によると、奴らの生き残りが、ザトンの放棄された変電所に集まっているらしい。 我々は奴らを集結させるわけにはいかない。今こそ奴らを一網打尽にする時だ。</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_leader_task_3_finish">
+		<text>よくやった！またあの紛争を引き起こすわけにはいかない。</text>
+	</string>
+	
+	<!-- Voronin (Duty Honcho) From Ukraine With Love Task -->
+	<string id="igi_task_text_bar_dolg_leader_task_4_title">
+		<text>ウクライナから愛をこめて</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_leader_task_4_descr">
+		<text>潜入捜査官を敵の派閥から救出しなくてはいけない。他の隊員を殺し、基地に護送する必要がある。スパイはSVDを所持している。</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_leader_task_4_job_descr">
+		<text>元スペツナズの物資を陸軍倉庫から盗み出すことに成功したが、スパイの1人が疑われているようだ。彼は定期連絡を最後に連絡が取れなくなった。監視下に置かれているようで処分が決まるまで、おとなしくしているしかないようだ。彼を引き離す必要がある。近くにいるようだが、他のストーカーと一緒のようだ。彼らを排除し、スパイを生きたまま護送する必要がある。彼はSVDを所持している。あなたがグループを攻撃するとき、彼は体裁を保つために君を撃つだろうが、臨機応変に対応せよ。</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_leader_task_4_finish">
+		<text>素晴らしい、すぐに報告させよう。</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_leader_task_4_msg_join">
+		<text>撃つな！俺は潜入中のスパイだ！発砲したことはすまない。あいつらにバレてはいけなかったからな。あんたに当たってないといいんだが...？とにかくロストクに戻ろう。一緒に行くのが一番だ</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_leader_task_4_msg_leave">
+		<text>安全に護衛してくれてありがとう。報告書を作成する際に、将軍にあんたの活躍を伝えておこう。</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Petrenko (Duty Trader) Payoff Change Factions Task -->
+
+	<string id="igi_task_text_drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_title">
+		<text>Dutyに参加する</text>
+	</string>
+	<string id="igi_task_text_drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_descr">
+		<text>12,000ルーブルを集めて、ペトレンコ大佐にDutyへの献身の証として持ってくるように言われた。</text>
+	</string>
+	<string id="igi_task_text_drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_job_descr">
+		<text>それでは、あんたをDutyに参加させてやろうか？名誉を求めてるようだしな。ゾーンの恐怖から世界を守るために、自分にはそれができると思うか？ゾーンの恐怖から世界を守るために。犯罪者や無政府主義者に、単独であろうと集団であろうと、どこであろうと立ち向かうことができるか？自分のことよりも、罪のない人々やDuty全体の価値や安全を優先させることができるか？俺たちは、誰もやらない重荷を背負っているのだ。本気でやる気があるなら、その証として12,000ルーブルを持ってきてくれれば、俺があんたのために将軍に推薦状を出してやろう。</text>
+	</string>
+	<string id="igi_task_text_drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_finish">
+		<text>よし、これで君はDutyの正式なメンバーとなった。我々の責務と名誉を損なうようなことはするんじゃないぞ。</text>
+	</string>
+
+
+	<!-- Petrenko (Duty Trader) Defend Rostok Task -->
+	
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_assault_stalker_online_title">
+		<text>ロストク防衛作戦</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_assault_stalker_online_descr">
+		<text>ペトレンコ大佐から、Dutyを脅かすストーカーのグループの排除を依頼された。</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_assault_stalker_online_job_descr">
+		<text>状況は不利になっている。ゾーンのあちこちに敵が集まっている。敵が攻撃を仕掛ける前に、いくつかの敵の集結地に部下を送り込むが、これをやってくれるか？</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_assault_stalker_online_finish">
+		<text>卓越した働きだった。お前の成果はお前の評判になるだろう。</text>
+	</string>
+
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_2_title">
+		<text>敵の嵐y</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_2_descr">
+		<text>俺はDutyのために敵地を襲撃する任務を与えられている。しっかりとした準備をしなければならない。成功したらペトレンコ大佐は確認したいだろう。</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_2_job_descr">
+		<text>かなりの手数料を用意している。無政府主義者どもや反抗者どもが、旧スペツナズの領域を長く保持している。お前が奴らの支配力を弱めるための攻撃を計画し、準備し、指揮することができれば、十分な報酬を得ることができるだろう。</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_2_finish">
+		<text>ありがとう、ストーカー。Dutyはお前に借りができたな。</text>
+	</string>
+
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_kill_stalker_nearby_title">
+		<text>ペトレンコのターゲットの無力化</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_kill_stalker_nearby_descr">
+		<text>ペトレンコ大佐はあなたに標的の発見と殺害を命じた。</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_kill_stalker_nearby_job_descr">
+		<text>排除が必要な対象者がいくつかある。標的は通常、殺人者、強姦者、離反者、敵の工作員や戦略家だ。この対象は現在最も緊急を要するものである。お前が奴を排除すれば、Dutyだけでなく、ゾーンで働く心ある人々を助けることになる。</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_kill_stalker_nearby_finish">
+		<text>素晴らしい！俺たちはお前を誇りに思う。このような尽力が報われないことはないだろう。</text>
+	</string>
+	
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_4_title">
+		<text>知ることは戦いの半分である</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_4_descr">
+		<text>ペトレンコ大佐は、Dutyが研究するためのミュータントの部位を見つけてほしいと言った。</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_4_job_descr">
+		<text>将軍はDutyの隊員たちに、彼らが殺すであろう恐怖の対象について、より多くの知識を得てほしいと考えている。そのためには、分析のための新鮮なサンプルが必要だ。その手伝いをしてくれないか？</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_4_fetch_job_descr">
+		<text>将軍はDutyの隊員たちに、彼らが殺すであろう恐怖の対象について、より多くの知識を得てほしいと考えている。そのためには、分析のための新鮮なサンプルが必要だ。その手伝いをしてくれないか？ ミュータントの部位を持ち帰れば、十分な報酬が得られるだろう。</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_4_fetch_finish">
+		<text>お前は我々の感謝の念を得た、戦士よ。これがお前の報酬だ</text>
+	</string>
+	
+
+	<!-- Mangun (Duty Mechanic) -->
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_1_title">
+		<text>マンガンのためにベーシックキットを探せ</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_1_descr">
+		<text>ベーシックツールは装備の改造のため、基本的なアップグレード用の機器をマンガンから要求されている。手持ちにあるのなら、彼に渡そう。</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_1_job_descr">
+		<text>そうだな。北にはFreedom、南東にはBandit、西にはMercenaryがいる。敵の数が多いから、装備面でもDutyが有利になるようにしなければならない。新しい道具があればいいのだが、今のところ基本的なものでも役に立つ。もしお前が何か持ってきてくれたら、アップグレードの商売がどういうものかを教えてあやろう。お前は投資に見合った見返りが得られるから、心配するな。</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_1_fetch_job_descr">
+		<text>やったのか？もちろんだ！急いで戻ってきてくれ。Dutyにはこれが必要なんだ！</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_1_fetch_finish">
+		<text>ようやくだな！ただの保守作業や死ぬまで飲み続けることではない、何かをしたい。</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_2_title">
+		<text>マンガンのためにアドバンスツールを探せ</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_2_descr">
+		<text>アドバンスツールは、装備の改造のためにマンガンから高度なアップグレード機器を用意するように言われている。発見したら持ち帰ったほうがいい。</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_2_job_descr">
+		<text>前回、お前が持ってきてくれたものを見て、少し欲が出てきた。前に持ってきてくれた道具は長持ちするけど、今求めているのはもっと高度なものなんだ。で、どうなんだ？</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_2_fetch_job_descr">
+		<text>あ、やったのか？すばらしい！冷たくて硬い金属の感触が手に伝わってくる。</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_2_fetch_finish">
+		<text>ハッハー！、よっしゃー！。腕が震えてる？酒のせいじゃないよな！？</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_3_title">
+		<text>マンガンのためにエキスパートツールを探せ</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_3_descr">
+		<text>エキスパートツールは、マンガンが専門的な機器のアップグレードを組み込むために必要としているので、見つけたら彼のところに持って帰ったほうがいい。</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_3_job_descr">
+		<text>お前がしてくれたこと本当に最高だ、ストーカー！周りの中立派の連中も、今では俺のところにアップグレードを求めてくる。だが、心の中では自分の力不足を感じている。もっといい道具があれば･･････。いいか、ストーカー。専門家レベルの道具を持ってきてくれれば、俺はお前に借りができる。お前の銃を傑作にすることができるぞ。もちろんタダでは無理だけど、何らかのお返しを考えておくよ。</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_3_fetch_job_descr">
+		<text>ありがとう、ストーカー。もしお前が成功したら、そのことをきっと将軍に知らせるよ。</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_3_fetch_finish">
+		<text>Dutyメンバーの言葉は彼らの絆だ。お前は技術屋の心得があるか？もしそうじゃないなら、野外で道具を維持するためのコツを教えてやろう。</text>
+	</string>
+	
+	
+	<!-- Barkeep -->
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_1_title">
+		<text>アーティファクトを見つけろ</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_1_descr">
+		<text>私はバーキープの密輸ビジネスのために。アーティファクトを見つけることにした。</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_1_job_descr">
+		<text>俺はアーティファクトに興味があってな。あるアーティファクトが存在する座標を教えるから、そいつを持ってきてくれ。もちろん報酬も出るぜ、どうだい？</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_1_fetch_job_descr">
+		<text>外部の依頼主のために俺はアーティファクトが必要なんだ。心配いらない、彼らはどちらかといえば立派な種類の人間だ。牧師、医者、外部の科学者、そういう連中だ。とにかく、彼らはアーティファクトを探している。やるか？</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_1_fetch_finish">
+		<text>よくやった、ストーカー。これが報酬だ。</text>
+	</string>
+	
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_kill_stalker_nearby_title">
+		<text>ストーカー殺し</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_kill_stalker_nearby_descr">
+		<text>バーキープのためにストーカー対策をすることになった。</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_kill_stalker_nearby_job_descr">
+		<text>このあたりの常連客の一人が、心の底から腐ってることがわかった。ロストクは、彼の墓に花を飾るために喜んで金を払うだろう。俺の意図を理解してほしい。それで、あんたはやる気があるのか？</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_kill_stalker_nearby_finish">
+		<text>ここに報酬がある。お節介なアドバイスだろうが、汚れ仕事はほどほどにな。</text>
+	</string>
+	
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_assault_monster_online_title">
+		<text>ミュータント退治</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_assault_monster_online_descr">
+		<text>バーキープに雇われて、ミュータントの巣を片付けることになった。</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_assault_monster_online_job_descr">
+		<text>探検から帰ってきた仲間たちがミュータントにひどい目に遭ったんだ。Dutyは報復のために1つの巣を破壊したが、近くに別の巣があり、対処する必要がある。俺のために引き受けてくれないか？</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_assault_monster_online_finish">
+		<text>いい報復だったぜ。お疲れさん、金を持ってけ。</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Barkeep (Loner Trader) New Tasks -->
+	
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_4_title">
+		<text>バーキープにアーティファクトを持っていけ </text>
+	</string>
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_4_descr">
+		<text>バーキープが、アーティファクトを持ってきたら報酬を支払ってくれる</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_4_job_descr">
+		<text>俺の依頼主のひとりがあるミュータントの戦利品を欲しがっている。興味あるかい？</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_4_fetch_job_descr">
+		<text>ゾーンには、優れた革職人や宝石職人がいることを知ってるか？頭蓋骨、爪、牙、毛皮、腎臓結石など、どんなパーツでも良いものを作ってくれるのさ。あんたが彼らを助けることに興味があるなら、%sを持ってきてくれれば、あんたのポケットに現金が入ることになる。</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_4_fetch_finish">
+		<text>でかした。ほら、報酬だ。</text>
+	</string>
+	
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_5_title">
+		<text>暗号化された文書の取得</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_5_descr">
+		<text>暗号化化された書類が無事にバーキープの手に渡るようにすると、彼が報酬を支払ってくれる。</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_5_job_descr">
+		<text>最近、ストーカーがスタッシュの情報を漏らしたんだが、それがかなり興味深い文書につながっているらしい。座標を教えるから、書類を届けたら、代わりに十分な報酬を与えよう。他に見つけたものはあんたが持っててもいい。</text>
+	</string>
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_5_finish">
+		<text>いいぞ、ストーカー。.</text>
+	</string>
+
+<!-- Aspirin (Duty Medic) -->
+	<string id="igi_task_text_bar_dolg_medic_task_1_title">
+		<text>アスピリンのために薬物製造キットを探せ</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_medic_task_1_descr">
+		<text>アスピリンは医薬品を作成するために薬物製造キットを必要としている。見つけた場合、彼に届けよう。</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_medic_task_1_job_descr">
+		<text>毎日これだけの数の負傷者を治療しなければならないのに、保管庫の医薬品を維持するのも大変なんだ。まもなく包帯と医療キットも使い果たしてしまう。古い薬剤製造キットを見つけて欲しい。それがあればかなり重宝するんだ。</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_medic_task_1_fetch_job_descr">
+		<text>うん、あるぞ。Dutyはロストクに安価な医療を提供することを理想としている。ゾーンの状態を考えると、少しでも多くのものが必要となる。そこで、もしお前が%sを見つけたら、それを俺のところに持ってきてくれ。報酬が得られるだけでなく、俺が効率的に合成できる薬の種類を増やすことができるから、みんなのためになる。</text>
+	</string>
+	<string id="igi_task_text_bar_dolg_medic_task_1_fetch_finish">
+		<text>待ちかねたぜ。ロストクの連中はお前に感謝するだろう。</text>
+	</string>
+	
+<!-- Snitch (100 Rads) -->
+	<string id="igi_task_text_top_10_task_title">
+		<text>上層部たち : #$num。$name</text>
+	</string>
+	<string id="igi_task_text_top_10_task_description">
+		<text>スニッチ : 現在のターゲットは、$nameという名前で知られる$commだ。彼は最近$mapで目撃された。幸運を。</text>
+	</string>
+	<string id="igi_task_text_top_10_task_name_finish">
+		<text>上層部たち : 報酬を得るためにスニッチのところに戻れ。</text>
+	</string>
+	<string id="igi_task_text_top_10_task_description_finish">
+		<text>スニッチ : やっぱりやってくれたんだな？ブラボー！100ラズに戻って、報酬を受け取ってくれよな！</text>
+	</string>
+	<string id="igi_task_text_st_task_info_awaiting">
+		<text>情報を待て。.</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="bar_visitors_barman_stalker_trader_start_dialog_11">
+    <text>おう、どうした？</text>
+  </string>
+  <string id="bar_visitors_barman_stalker_trader_start_dialog_12">
+    <text>何が必要だい、ストーカー？</text>
+  </string>
+  <string id="bar_visitors_barman_stalker_trader_start_dialog_13">
+    <text>へい、ストーカー。一杯飲むかい？その不機嫌な顔が治るかもしれないぞ。</text>
+  </string>
+  <string id="barkeep_100rads_0">
+    <text>この場所について教えてくれ。</text>
+  </string>
+  <string id="barkeep_100rads_1">
+    <text>地獄の一角にあるささやかなオアシス、100ラズ バーにようこそ。Dutyのおかげでゾーンの中でも隣近所まで唯一安全な場所さ。冷静でいられる間は、あんたも安全だ。いろんな場所からやって来たストーカーたちがここで食事、休憩、お喋りついでの情報交換、そして仕事を探しに来る。それで、あんたはどんな望みがあってここにたどり着いたんだ？この年老いたバーキープがあんたの望みに協力出来ればいいんだが。</text>
+  </string>
+  <string id="information_about_stash_barmen_0">
+    <text>スタッシュの情報は売っているのか？</text>
+  </string>
+  <string id="information_about_stash_barmen_1">
+    <text>ふん、そうさな･･････。時々、そこらで酒瓶を掴んでるストーカーが、スタッシュの情報をポロッと漏らすことがある。呑み過ぎってやつだな。あいつらがそこに何を保管しているのかは知らんが、こっちはその価値を知ってる。7,000、それで全てあんたのもんだ。</text>
+  </string>
+  <string id="information_about_stash_barmen1_0">
+    <text>もちろん、ここにある。%c[d_orange]［7,000ルーブル］</text>
+  </string>
+  <string id="information_about_stash_barmen1_1">
+    <text>ご苦労さん。</text>
+  </string>
+  <string id="devushka_4_help_0">
+    <text>やぁバーキープ。あんたが会いたそうな奴を連れてきたんだが。</text>
+  </string>
+  <string id="devushka_4_help_1">
+    <text>あぁヒップか、友人さん、ここでゆっくり飲みながら休んでてくれ、彼女に個人的な話があってな。</text>
+  </string>
+  <string id="devushka_help_0">
+    <text>どうも、俺はここで待ってるとしよう･･････。</text>
+  </string>
+  <string id="devushka_help_1">
+    <text>･･････いいだろう。ヒップが自分のすべきことを理解し、準備が整うまでの間、あんたに伝えたいことがある。彼女は「防衛線」を越えてザトンに行き、ベアードのためにアーテファクトの容器を置いてくる。アーティファクトはスカドフスクの生命線だ。聞いているかもしれないがな。それと、ヒップはあんた抜きでの配達を拒否しているらしい。さあ、準備はいいかい？</text>
+  </string>
+  <string id="devushka_help_2">
+    <text>ああ、いいよ。そのブツを渡してくれ。</text>
+  </string>
+  <string id="devushka_help_3">
+    <text>少し時間をくれ、そこまで待たせないからよ。</text>
+  </string>
+  <string id="request_go_to_nimble_0">
+    <text>ここを通る必要があるんだが。</text>
+  </string>
+  <string id="story_dolg_0">
+    <text>どんな状況ですか？</text>
+  </string>
+  <string id="story_dolg_1">
+    <text>現在、作戦上の敵は、Freedom、Monolith、Mercenary、Banditの4つだ。その中でも特に心配なのはMonolithとBanditで、後者は日に日に組織化されてきている。その数の多さと人間性の欠如から、深刻な脅威となる可能性がある。
+
+\n\nMonolithについては、最近、驚くべき速さで復活している。今年の初めに奴らが復活したことで、ヤノフ駅での我らの存在感が損なわれ、ロストクの全体的な安全性を確保するために、いくつかの重大な犠牲を払わなければならなかった。
+
+\n\n今では、FreddomとMercenaryに関しては、懸念していない。誤解を恐れずに言えば、奴らは立派な敵であり、我らのスパイは奴らを注意深く見守らなければならない。しかし、今のところ我らや同盟派閥に直接対抗する動きはないので、少し余裕がある。</text>
+  </string>
+  <string id="story_dolg_2">
+    <text>Dutyはどうですか？</text>
+  </string>
+  <string id="story_dolg_3">
+    <text>Dutyの最新の新兵採用についてか？5点満点中3点と言ったところだろうか、可もなく不可もなくといったところだ。ペトレンコのおかげで新兵は順調に増えているが、これまでの常識のなさには少しがっかりしているのも事実だ。
+
+\n\n規律はもっと良くなるはずだし、経験の浅いメンバーのために愚かな新兵たちの振る舞いを訓練できる幹部が不足している。そのうち、Dutyは完全に回復すると思うが、時間がかかりそうだ。</text>
+  </string>
+  <string id="story_dolg_4">
+    <text>ヤノフ駅をどうやって失ったのか、聞いてもいいですか？</text>
+  </string>
+  <string id="story_dolg_5">
+    <text>･･････隠す必要はないか。我らには弱点があった。裏切り者だ。モーガンという名の愚かな将校だ。彼は我らが退治しようとしているBanditどもに武器を売っていた。そして、その状況はそれほど悪くなかったが、彼を捕らえたのは、我らDuty幹部たちではなく中立派のグループだった。その結果、失った信頼を取り戻すのに何年もかかった。すべては一人の男のせいである。
+
+\n\nその結果、Monolithの復活に対抗するために、我らは最悪の状態に陥った。俺がヤノフ駅に任命した勇敢な指揮官、シュルガ中佐は、数々の厳しい犠牲を払い、最終的に命を落とした。彼が率いた全部隊の中で、ガブリレンコだけが無事にロストクに帰れたのだ。
+
+\n\n哀れな彼は到着した時、ほとんど話すことができなかった。そして、彼が最終的に報告したことは･･････気がかりなことだった。もし彼を見かけても、放っておいたほうがいいぞ。</text>
+  </string>
+  <string id="story_dolg_6">
+    <text>わかりました。了解しました。</text>
+  </string>
+  <string id="st_bar_dolg_leader_life_ask">
+    <text>Dutyが行っている軍事作戦を教えてください。</text>
+  </string>
+  <string id="st_bar_dolg_leader_life_1">
+    <text>ふむ、何を話せばいいのかな？我らの下で働く者は皆、制服を着たり、バッジをつけたりしているわけではない。Dutyは中立的なストーカーたちを援助者や情報提供者として雇うことが多い。我らの目的は広範囲に及ぶが、我らの数は限られており、一度にどこにでも行けると考えるのは傲慢である。系統に関係なく、ストーカーには食事が必要だ。人類の未来を守るために私たちと一緒に働くことが、彼らの糧になるのであれば、それに越したことはない。
+
+\n\nもし仕事を探している人がいたら、必ずペトレンコ大佐に伝えるんだ。彼は名誉ある生活を送るための手助けを喜んでするだろう。</text>
+  </string>
+  <string id="st_bar_dolg_leader_life_2">
+    <text>ゾーンを憎んでいるとは思えないほど、DutyはEcologistと特別な関係にある。我らが戦っているのは、他に類を見ない敵であり、軍隊としてではなく、忌まわしい自然の力として存在する敵なのである。知識がなければどんな戦争にも勝てないし、ましてやこのような戦争では、エコロジストたち以上に敵のことを知っている人はいないだろう。彼らはゾーンを人類のために使おうとしているが、Freedomのように騙されているわけではなく、いつの日かゾーンを破壊することが唯一の選択肢であることに気づくだろう。彼らの膨大な知識と、Dutyの勇気と腕前が、いつか必ずゾーンを終わらせるだろう。
+
+\n\nそれまでの間、科学者たちが必要とするものを提供することは、人類の利益となる。例えば、研究のために寄贈されたアーティファクトを容器に詰めたり、犯罪者から彼らを守るために武装した護衛を派遣したりすることである。今は静かだが、昔はFreedomやMercenaryが政府の科学者たちを狙い撃ちにしていたのだ。現在、この3つの派閥の間に平和が保たれているのは、Dutyの報復という脅威があるからである。</text>
+  </string>
+  <string id="st_bar_dolg_leader_life_3">
+    <text>さて、お前も我らの制服について気になっているのではないか？まともな兵士がなぜ黒と赤の服を着て戦場に行くのか、と。我々の真の敵が誰なのか、少し考えてみてほしいのだ。Mercenaryども？Banditども？迷惑な存在だが、違う。Freedomども？奴らは危険な愚か者だが、やはり違う。Monolithどもすら我らの真の敵ではない。真の敵はゾーンそのものなのである。
+
+\n\n教えてくれ。心臓の鼓動を感じられるブラッドサッカーどもを迷彩服で誤魔化せると思うかね？匂いや反響定位を使う「ドッグ」どもはどうだろう？あるいは、お前の思考を読み取るだけでよい「コントローラー」どもはどうだろうか？
+
+\n\n真の敵に対しては、迷彩服は役に立たない。このような場合、俺はむしろ、仲間を見分けることのできる鮮明な色の服を着せたい･･････黒と赤は特に、彼らをより勇敢に、より激しく戦わせる。ミュータントに比べれば、他のことはただの散歩にすぎない。
+
+\n\n確かに、人間の敵と戦うときには、見えないものは殺せないので、迷彩服がいいと思う人もいるだろう。我らが通った後の地獄絵図によって、犯罪者どもは我らが見えることに恐怖を覚えるようになるとDutyは信じている。</text>
+  </string>
+  <string id="st_bar_dolg_leader_life_4">
+    <text>FreedomとDutyの違いを教えるために、ちょっとした話をしよう。
+
+\n\n2006年、ロストクは荒れた場所だった。それに比べれば、今のワイルド テリトリーは飼いならされたものに見えるだろう。しかし、Dutyはそこで野営をすることにした。なぜならば、ロストクがかつて大規模工場であったことを知っており、それを復元することに固執していたからである。
+
+\n\n到着してみると、「ドッグ」の群れから足を引きずりながら必死に生きているストーカーがいた。俺たちは彼を助け、手当てをして、彼に「息子よ、君のような若者がこんなところで何をしているんだ」と尋ねた。
+
+\n\nすると彼は「バーテンダーだったんですが、脅迫犯に搾り取られ、生き延びるためにここに来ました。」と言った。
+
+\n\n俺はその少年が銃を持つこともできないほど手が震えているのを見て、「君は正しい場所にいるんだよ」と言った。
+
+\n\nこの少年は後にバーキープとなり、俺と一緒にロストクを現在のように回復させた。俺たちはストーカーたちと協力して、彼らの能力を最大限に引き出し、ゾーンに残されているわずかな良いものを取り戻すのだ。
+
+\n\nさて、ここで気になるのがFreedomの存在である。2011年、Freedomはすでに古い基地を壊していたので、新しい基地を盗みに行くことにした。奴らは、ロストクがアノマリーによって他の地域から切り離されるのを待ち、その機会を利用して政府の支配領域である陸軍倉庫を襲撃し、正当な所有者の手からそれを奪い取ったのである。その後、陸軍倉庫はどうなったのか？Freedomが支配するようになってから、かつての誇り高き砦は、銃弾と無秩序だけになり、未知の世界に挑んでいた探検車は、とっくに錆びついてしまっているのだ。
+
+\n\nFreedomは自由を約束するが、長い目で見れば破滅しかもたらさない。奴らが燃え尽きるのも時間の問題である。</text>
+  </string>
+  <string id="st_bar_dolg_leader_life_5">
+    <text>Dutyの誓いについて少し説明しよう。それは実にシンプルなものだ。
+
+\n\n「私、ヴォロニンとして知られるストーカーは、
+\nDutyの目標と理想を守ることを誓う。
+\nゾーンの危険から地球を守り、ゾーンが産み出したものを国境の内外で探し出して破壊する。
+\n個人のストーカーであれ、グループであれ、非協力者と戦うために。
+\nそして、地球の正義と秩序のために、私の命を捧げる！」
+
+\n\nこの言葉は、俺が加入したずいぶん昔に、ペトレンコと一緒に誓った言葉だ。だからこそ、私たちは自分たちの利益のためにアーティファクトを求めず、責任を持ってアーティファクトの取引を任せられる唯一の存在であるバーキープやエコロジストにアーティファクトを渡しているのだ。そのため、俺たちはBanditどもやMercenaryども、Freedomどもと戦う。奴らは皆、罪のない人々から搾取しようとしたり、ゾーンの「贈り物」を無用心に広めようとする。一般のストーカーたちも例外ではないが、彼らの場合は、クズネツォフの命令で引き金を引く犬どもとは違い、有罪が証明されるまでは無罪であると我らは信じている。
+
+\n\nしかし、誤った方向へ導びかれた奴らとの戦いは、我らの真の目的である「ゾーンを封じ込め、それを押し戻す」ことの二次的なものに過ぎない。つまり、ゾーンが生み出すミュータントを殺し、最も危険なアーティファクトを破壊し、可能な限りアノマリーを消滅させることだ。
+
+\n\n将来の世代のために、我らは意欲的なトレーダーがアーティファクトの取り扱いを適正化し、リスクを軽減するための基準を守ることを支援する･･････手抜きをするMercenaryどもが自分の利益のために無視する基準のことさ。 我らの誓いの最後の部分は、人類全体の中での個人の位置を強調している。我らは皆、より高い目的のためにDutyに取り組んでおり、人類の防衛のために命を捧げることは甘美で、ふさわしいことなのである。
+
+\n\nシュルガ中佐は、この最後の部分を誰よりもよく理解していたぞ。</text>
+  </string>
+  <string id="st_bar_dolg_leader_life_6">
+    <text>我らの北にいる無政府主義者どもとは異なり、Dutyは自己管理の価値を理解しており、昇進を希望するメンバーは全員、規律と組織内の誠実さに対する確固たる信念を植え付けられている。
+
+\n\n我らの目には、悪い行為が良い行為を消し去ることはなく･･････良い行為が悪い行為を消し去ることもない。両者は並存しており、それぞれを判断しなければならないのである。
+
+\n\nだからこそ、何年も前にザトンで起きた恥ずべき事件のように、自分たちがつまずき、自分たちを律することができなかったとき、我らはできる限りの償いをし、自らに責任を課すのである。場合によっては、敵に対してさえもだ。
+
+\n\n何年も前、優秀なDutyの分隊がFreedomのグループの若者を捕虜にし、尋問のためにロストクに送り返したことがあった。関与したDutyたちはその狡猾さを称賛されていた･･････それは、我らの派閥の調査員が隊内での重大な不正行為を発見するまでのことだ。確かにDutyとFreedomは戦争中だが、あの分隊が捕虜にしたことは･･････あのウジ虫どもがしたことは許されることではない。
+
+\n\n関与したDutyたちは全員不名誉除隊となった。我らは、彼らが記録した捕虜に関する偽りの汚点を、PDAネットワークから削除するために最善を尽くし、正義は果たされた。Dutyは信頼される立場にあり、それは、時には戦略上の都合を犠牲にしても、正しいことをしようとする意志によって得られる立場なのである。ゾーンは我らの中にある悪を反映している。もし、我らが自らの中にある悪に餌を与えるようなことを選択してしまったら、ゾーンに対抗することなどできない。</text>
+  </string>
+  <string id="st_bar_dolg_leader_life_7">
+    <text>時折、皮肉屋が「なぜDutyはまだ兵士を必要としているのか」「なぜ我らはまだこの世界に必要とされているのか」とつぶやくのを耳にすることがある。この質問を聞いたとき、俺はいつも同じ答えを出す･･････。
+
+\n\n以前は、最も危険なミュータントは地下に潜っているだけで、伝説の存在でしかなかった。今では、ダーク バレーのスノーク、地表を歩く「コントローラー」、コードンのブラッドサッカーなどが報告されている。ゾーンは拡大を続けており、その拡大を抑えなければ、その恐怖は病気のように世界中に広がるだろう。
+
+\n\nMilitaryは、ゾーンの境界を侵さないことを誓っているが、ほとんどの兵士たちは真の脅威と戦うことなく、無害なストーカーたちに嫌がらせをすることに時間を費やしている。我が国の防衛力はますます低下しており、ゾーンから世界を守る責任は我らにかかっているのだ。我らではないとすれば、他に誰がいるだろうか？</text>
+  </string>
+  <string id="st_bar_dolg_leader_life_end">
+    <text>現時点で言うことは何もないな。</text>
+  </string>
+  <string id="story_dolg_m_0">
+    <text>あんたの事を教えてくれ。</text>
+  </string>
+  <string id="story_dolg_m_1">
+    <text>ああ、そうだな。なんでだ？
+
+\n\n俺は昇進する前はアグロプロム研究所に常駐していたんだ。ゾーンが発生する前は車の整備士をしていてね、しばらくたってからDutyは俺の便利屋としてのスキルに気づいてな、ここで技術屋として仕事することになったんだ。重火器や歩兵火器を弄り回すのは好きだよ･･････。まぁスナイパー、特にNATO製は好みじゃないがな。</text>
+  </string>
+  <string id="story_dolg_m_2">
+    <text>それと、この匂いは何だろう？Dutyが大酒飲みを許すとは思えないね。</text>
+  </string>
+  <string id="story_dolg_m_3">
+    <text>飲んでなきゃやってらねぇんだよ。少量でもな。Monolithが攻撃されたとき、ヤノフ駅で助けてやれたらよかったんだが･･････でも、ここで待機するように命令されていなかったら、俺は生きていなかったかもしれねぇな。あの場所を守るために多くの色男たちが大勢逝っちまった･･････。ふぅ、話がそれたな。とにかくだ、修理が必要な場合は恥ずかしがらずにあんたのおもちゃを見せてくれよ。</text>
+  </string>
+  <string id="story_dolg_m_4">
+    <text>何が有るか見てみなよ。</text>
+  </string>
+  <string id="talk_to_inf_trader_0">
+    <text>あんたは？</text>
+  </string>
+  <string id="talk_to_inf_trader_1">
+    <text>俺はここら辺の情報屋さ、あらゆる種類のサービスを提供できるぜ。現時点は様々な種類の情報と、いろんな場所へ繋がる地図も持っている。俺の情報はゾーンで最も信頼度が高いと自負しているが、どこから情報を仕入れているかは聞かないでくれ、まぁ教える気もないんだが。</text>
+  </string>
+  <string id="talk_to_maps_0">
+    <text>この辺りの地域に関するタダの情報はないか。</text>
+  </string>
+  <string id="talk_to_maps_1">
+    <text>俺は情報で食ってるから普段はこんなことは教えないんだがな、現状は静かなもんだから、ちょっとくらいなら教えてやるよ。タダでな。</text>
+  </string>
+  <string id="talk_to_maps_2">
+    <text>聞いてるぜ</text>
+  </string>
+  <string id="talk_to_maps_3">
+    <text>さて、あんたはおそらくだが南部の地域には精通しているだろうが、今あんたがいるロストクはDutyの保護下にあるから、彼等と関係が良好ならゾーンでは一番安全なところさ。東部にはトラック墓地、まぁガベージのようなゴミ捨て場だな、と言ってもかなり広いし、放射線源があちらこちらにあるし、危険な場所だ。西部のワイルド テリトリーはロストクの一部だが、Dutyでも定期的にはパトロールすることが出来ない場所だな。あそこはかなりの危険地帯でな、Yanterに用事でもない限りはほとんどのストーカーはあそこには寄り付かないねぇ。北部は Duty の無二の「宿敵」Freedomが所有する陸軍倉庫がある。そこよりさらに北はMonolithのテリトリーでな、頭のおかしい狂信者共と、脳を溶かす異状な荒野が「何か」を守っていると言われている。</text>
+  </string>
+  <string id="talk_to_maps_4">
+    <text>Monolithについて知っていることはあるか？</text>
+  </string>
+  <string id="talk_to_maps_5">
+    <text>言い伝えでは、奴等は古代の異質のクリスタル、「願望機」と言われるゾーンを生み出したものの守護者らしい。Monolithたちはそのクリスタルがゾーンを生み出し、願い事を叶えてくれると信じており、北の防衛線である陸軍倉庫から先に進もうとする者から、この水晶を厳重に守っている。もちろんその願望機に相応しい者たちが見つかるとの伝説もあるが、そりゃ全部デタラメだろうな。金持ちになりてぇんならもっと簡単な方法があるしな。じゃあそれならとミュータントが消えるよう願ったり、病気を治したり、世界平和を願うことが出来るかも、と考えるのかもな･･････。はぁ。とにかくだ、あまり自分の都合のいいように解釈して周りに言いふらさないでくれ、あんたがその願望機を確認しない限りはな。</text>
+  </string>
+  <string id="talk_to_maps_6">
+    <text>情報に感謝するよ。</text>
+  </string>
+  <string id="buy_information_from_trader_0">
+    <text>新しい情報はあるかい？</text>
+  </string>
+  <string id="buy_information_from_trader_1">
+    <text>俺は沼地にいる「ドクター」についての情報を持っているぞ。伝説と言われるほどクレイジーな癒しの力を持った老人の事は知っているかい？7,000ルーブルであんたに真実を教えてやるぜ。</text>
+  </string>
+  <string id="buy_information_from_trader_6">
+    <text>聞いてるぜ。</text>
+  </string>
+  <string id="buy_information_from_trader_11">
+    <text>知っているかもしれんが、彼はグレート スワンプに住んでいるよ。どうやら古い友人のストレロックを待っているようだな。ストレロックがゾーンに戻って来ているって噂から「ドクター」に会いたがる奴等が増えているみたいだが、「ドクター」を見つけられた者はほとんど聞かないな。まぁ実は会うのは簡単でな、グレート スワンプの北西にあるフェンスが破れているところから進んで、道に沿って移動しな。ただ放射線とアノマリーには注意した方がいいぞ。</text>
+  </string>
+  <string id="buy_information_from_trader_2">
+    <text>チェルノブイリ電子力発電所が最近あるストーカーに襲撃されたらしいが、そいつらの情報を仕入れたぜ。</text>
+  </string>
+  <string id="buy_information_from_trader_7">
+    <text>聞いてるぜ。</text>
+  </string>
+  <string id="buy_information_from_trader_12">
+    <text>Monolithが再び怒り出し、本格的に立ち上がる前に、このストーカーは戦利品を求めて石棺を探索していた。そこで彼は、完全に唯一無二なアーティファクトを手に入れたらしい。どうやらそれは、あの噂の願望機の破片だったみてぇだ！まぁMonolithがそれを何がなんでも阻止しようとしてくるのは明らかだったらしくてな、追跡を振り切るために泣く泣くその破片を残さざるを得なかったみたいだな。まぁその石っころにどんな価値があるかは疑問だがな･･････。</text>
+  </string>
+  <string id="buy_information_from_trader_3">
+    <text>俺はストレロックのグループの情報を提供できるぜ、ただ15,000ルーブルからびた一文まけるつもりはないがな。</text>
+  </string>
+  <string id="buy_information_from_trader_8">
+    <text>そいつをくれ。</text>
+  </string>
+  <string id="buy_information_from_trader_13">
+    <text>ストレロックが最近新しいチームを結成したのは誰もが知っているだろうが、彼等が何者なのか知る奴はいないだろうな。スティッチ、「パスファインダー」、ローグ、「スコープ」という個人個人がユニークなスキルを持っているバンドメンバーで衛生兵、才能のあるガイド役、軍の脱走兵、一流の狙撃兵と選り取り見取りのようだな。このグループが今どこにいるかまでは分からんが。</text>
+  </string>
+  <string id="buy_information_from_trader_4">
+    <text>2,4000ルーブルでジェネレーターを探索した謎のストーカーの情報をくれてやれるぜ。</text>
+  </string>
+  <string id="buy_information_from_trader_9">
+    <text>ほら、これだ。</text>
+  </string>
+  <string id="buy_information_from_trader_14">
+    <text>あんたはジェネレーターについてどれだけ知っているかな？最近までそこはただの伝説でしかなかったんだ･･････だがストレロックがゾーンの中心に2回目の遠征に向かったことから、それが真実である可能性が高いことが分かったんだ。それが何なのかの論争は絶えなかったが、古い衛星画像が、ある種の奇妙な施設を表していたらしく、それでその場所がジェネレーターと呼ばれるようになったみたいだな。おそらくだが、そこはMonolithがゾーン内で重要な何かを実行する場所なんだろう。ストレロックたちはすでにゾーンの中心に行ってきたからな、おそらく真剣にあそこに何かがあると睨んでいるんだろう。彼らのゾーンへの介入は何かしらの影響を及ぼすかもな。いくつかの派閥のリーダーは、この情報にはあまりいい反応はしていなかったな。</text>
+  </string>
+  <string id="buy_information_from_trader_5">
+    <text>今のところ必要はないな。</text>
+  </string>
+  <string id="buy_information_from_trader_10">
+    <text>興味がない。</text>
+  </string>
+  <string id="st_top_10_task_about_dialog_0">
+    <text>それで、あんたは何が楽しくてここにいるんだ？</text>
+  </string>
+  <string id="st_top_10_task_about_dialog_1">
+    <text>楽しい？ここ最近は退屈なことが多いんだよ。最近の客のほとんどは、新入りの団体がアーティファクトの情報が何だのと、何の面白みのないものしか求めてこないからな。俺が言いたい意味分かるよな？</text>
+  </string>
+  <string id="st_top_10_task_about_dialog_2">
+    <text>それはまぁそうじゃないか？</text>
+  </string>
+  <string id="st_top_10_task_about_dialog_3">
+    <text>そうだけどよ、ロマンって言うのかな、誰もが皆、伝説的な何かを求めることを期待しねぇか？あんたのようによ。あんたは色々と経験があるようだしな。何ていうかよ、誰もが成しえないことを追い求めようとは思わないかい？</text>
+  </string>
+  <string id="st_top_10_task_about_dialog_4">
+    <text>続けてくれ･･････。</text>
+  </string>
+  <string id="st_top_10_task_about_dialog_5">
+    <text>俺にはある10人のストーカーを倒せば、沢山の報酬を提供する連絡相手を知っているんだ。多額の報酬金にプラスアルファのお菓子なんてシンプルな報酬だ、なぁ？あんたが興味を示す情報は次のとおり、ゾーン内のトップ10のストーカーたちがあんたのターゲットさ。つまりは常連、Duty、Mercenary、そしてキチガイMonolithたちを狩って回ることが依頼の内容だ。必要に応じてPDAにリストを表示できる、この依頼者はターゲットの始末を望んでいる、好きにやってくれ。</text>
+  </string>
+  <string id="st_top_10_task_about_dialog_61">
+    <text>何だと？頭でも膿んでのか！なんでこんなことを依頼するんだ？</text>
+  </string>
+  <string id="st_top_10_task_about_dialog_62">
+    <text>俺も加えておけ。</text>
+  </string>
+  <string id="st_top_10_task_about_dialog_63">
+    <text>まだ、これからだ。</text>
+  </string>
+  <string id="st_top_10_task_about_dialog_7">
+    <text>俺もこの依頼者に似たような質問をしたんだが、どうやらこいつは、高価な武器とスーツを装備した、歩くドレッドノート（イギリスの戦艦）と化したストーカーにうんざりしているような感じだったな。何というか、他のストーカーたちにもっとチャンスを与えたい的なことを言っていたな。まぁともかく、報酬は信じられんほどの額だ、誰が気にするってんだ？</text>
+  </string>
+  <string id="st_top_10_task_about_dialog_8">
+    <text>素晴らしい！最初のターゲットの場所をPDAにアップデートしておくよ。ターゲットを片付けていく度に、次のターゲットの場所を表示していくよ、まぁ楽しんでいきな。</text>
+  </string>
+  <string id="st_top_10_task_about_dialog_9">
+    <text>あんた次第だ、気が変わったらまた来な。</text>
+  </string>
+  <string id="st_top_10_task_finish_dialog_0">
+    <text>オーケーだスニッチ、仕事は完了だ。10人のターゲットは良い死にざまだったぜ。</text>
+  </string>
+  <string id="st_top_10_task_finish_dialog_1">
+    <text>素晴らしい仕事ぶりだ、友よ！依頼者はこの仕事ぶりにとても満足していた。ほらこれが約束の報酬だ、結局のところ、まんざらでもないだろう、あんたもよ。俺にもあんたの殺しが他のストーカーから感謝されているのを感じるよ。あんたこそ伝説の殺し屋さ！これでゾーン内の状況が変わるだろうな、へへ･･････。</text>
+  </string>
+  <string id="inf_trader_buy_transitions_0">
+    <text>いくつかの道に関する情報を買いたい。</text>
+  </string>
+  <string id="inf_trader_buy_transitions_1">
+    <text>もちろんだ。これが今ある情報だ。</text>
+  </string>
+  <string id="inf_trader_buy_transitions_2">
+    <text>陸軍倉庫からレーダー施設まで。%c[d_orange]［7,000ルーブル］</text>
+  </string>
+  <string id="inf_trader_buy_transitions_9">
+    <text>それで、金は持ってるんだろうな？</text>
+  </string>
+  <string id="inf_trader_buy_transitions_11">
+    <text>もちろんだ。どうぞ。</text>
+  </string>
+  <string id="inf_trader_buy_transitions_3">
+    <text>レーダー施設から研究所（掩体壕）まで。%c[d_orange]［[11,000ルーブル］</text>
+  </string>
+  <string id="inf_trader_buy_transitions_12">
+    <text>現ナマは持ってんだろうな？</text>
+  </string>
+  <string id="inf_trader_buy_transitions_13">
+    <text>もちろんだ。ほら。</text>
+  </string>
+  <string id="inf_trader_buy_transitions_4">
+    <text>レーダー施設からプリピャチまで。%c[d_orange]［9,000ルーブル］</text>
+  </string>
+  <string id="inf_trader_buy_transitions_14">
+    <text>キャッシュで頼むぜ？</text>
+  </string>
+  <string id="inf_trader_buy_transitions_15">
+    <text>持ってきな。</text>
+  </string>
+  <string id="inf_trader_buy_transitions_5">
+    <text>プリピャチ中心地からプリピャチ郊外まで。%c[d_orange]［9,000ルーブル］</text>
+  </string>
+  <string id="inf_trader_buy_transitions_16">
+    <text>俺は紙幣が必要でな。さっさとしな。</text>
+  </string>
+  <string id="inf_trader_buy_transitions_17">
+    <text>ああ、ここにある。</text>
+  </string>
+  <string id="inf_trader_buy_transitions_6">
+    <text>プリピャチから チェルノブイリ原子力発電所まで。%c[d_orange]［30,000ルーブル］</text>
+  </string>
+  <string id="inf_trader_buy_transitions_18">
+    <text>どれくらい金は持ってる？</text>
+  </string>
+  <string id="inf_trader_buy_transitions_19">
+    <text>ああ、これだけあるよ。</text>
+  </string>
+  <string id="inf_trader_buy_transitions_7">
+    <text>チェルノブイリ原子力発電所の南部と北部の間。%c[d_orange]［35,000ルーブル］</text>
+  </string>
+  <string id="inf_trader_buy_transitions_20">
+    <text>金が先だろ。</text>
+  </string>
+  <string id="inf_trader_buy_transitions_21">
+    <text>どうぞ。</text>
+  </string>
+  <string id="inf_trader_buy_transitions_10">
+    <text>金を持ってないんだ。</text>
+  </string>
+  <string id="inf_trader_buy_transitions_8">
+    <text>気が変わった。</text>
+  </string>
+  <string id="meet_guid_bar_0">
+    <text>あんたがガイド役か？</text>
+  </string>
+  <string id="meet_guid_bar_1">
+    <text>うん、ナビゲーターってのは名前だ。手頃な料金でいくつかの場所に行けるぜ。ほとんどの場合、ルーキーが顧客だが、経験豊富なストーカーを先導することもある。恥ずかしいことじゃない。わかりやすく説明すれば、あんたはカネを払う。俺はあんたの望む場所に連れて行く。そしてまたここへ帰ってくる。以上。ヤンター、グレート スワンプ、陸軍倉庫、ガベージ、コードンそしてジュピターまでなら先導できるぜ。</text>
+  </string>
+  <string id="meet_guid_bar_list_0">
+    <text>なあ、どこまで案内してくれるんだ？</text>
+  </string>
+  <string id="meet_guid_bar_list_1">
+    <text>ガベージが700、陸軍倉庫は1,000、コードンのルーキー村は3,000、ヤンターは3,500、ジュピターのヤノフ駅は 6,000、そしてグレート スワンプは6,000。</text>
+  </string>
+  <string id="travel_guid_bar_0">
+    <text>案内が必要だ。</text>
+  </string>
+  <string id="travel_guid_bar_1">
+    <text>いいぜ、どこまでだ？</text>
+  </string>
+  <string id="travel_guid_bar_2">
+    <text>コードンまで。%c[d_orange]［3,000ルーブル］</text>
+  </string>
+  <string id="travel_guid_bar_3">
+    <text>ガベージまで。%c[d_orange]［700ルーブル］</text>
+  </string>
+  <string id="travel_guid_bar_4">
+    <text>陸軍倉庫まで。%c[d_orange]［1,000ルーブル］</text>
+  </string>
+  <string id="travel_guid_bar_5">
+    <text>ヤンターまで。%c[d_orange]［3,500ルーブル］</text>
+  </string>
+  <string id="travel_guid_bar_6">
+    <text>ジュピターまで。%c[d_orange]［6 000ルーブル］</text>
+  </string>
+  <string id="travel_guid_bar_7">
+    <text>グレート スワンプまで。%c[d_orange]［6,000ルーブル］</text>
+  </string>
+  <string id="travel_guid_bar_8">
+    <text>気が変わった。</text>
+  </string>
+  <string id="bar_dolg_medic_talking_0">
+    <text>あんたは？</text>
+  </string>
+  <string id="bar_dolg_medic_talking_1">
+    <text>俺は地元の外科医だが、以前はただの救急隊員だった。ソストラドフ中尉という名前だが、この辺のストーカーたちは俺をアスピリンと呼ぶんだ。うん、そうだな。俺は長年にわたり、様々な病気や怪我を治療することに長けている。それに、常駐の薬剤師としても活動している。結局のところ、適切な治療のために生きて帰ることを望むなら、現場ではいくつかの薬が必要だ。</text>
+  </string>
+  <string id="bar_dolg_medic_talking_2">
+    <text>どういう経緯でDutyの医療従事者になったんだ？</text>
+  </string>
+  <string id="bar_dolg_medic_talking_3">
+    <text>どうやってDutyになるのかって？ゾーンはお前から何かを奪うのさ。それからまた奪い、その上繰り返す。ゾーン以外は何もなくなるまでな。医療従事者であろうとなかろうと、ストーカーはそうやってDutyに入ってくるのだ。俺たちは、この地獄のような場所で全てを失いながらも、同じ運命を辿らないように立ち向かっていくんだ。もちろん、多くのDutyたちはゾーンを殺すことで人々を守ることを選ぶ。それは俺ではない。俺は、ゾーンが人々に残した傷を元に戻すためにここにいるのさ。この街のストーカーたちが、どんなに愚かな遠征をして、彼らの血まみれの体を、彼らの仲間たちに道で引きずられても、また生きていけるようにするためだ。お前だって生きて帰ってくれば、新品同様にしてやる。この辺のトレーダーと違って過剰請求もしないよ。</text>
+  </string>
+  <string id="bar_dolg_medic_talking_4">
+    <text>感謝する。</text>
+  </string>
+  <string id="bar_arena_man_job_0">
+    <text>誰が相手なんだ？</text>
+  </string>
+  <string id="bar_arena_man_job_11">
+    <text>あんたと同じような形をした肉片が相手さ。彼は借金のためにここにいるんだが、選択肢は2つしかない。ここに出てきて戦うか、近くのアノマリーに飛び込むかだ。彼はまるで追い詰められた動物のように戦うだろう。今日の装備は..うーん･･････。ピストルを使うのはどうだ、弾薬は二箱あれば十分だろう。あんたは彼のケツを蹴りあげるか犬の餌になるかだ。選択の余地はない。さあ続けよう。</text>
+  </string>
+  <string id="bar_arena_man_job_111">
+    <text>準備は出来てる。</text>
+  </string>
+  <string id="bar_arena_man_job_112">
+    <text>もう少し待ってくれ。</text>
+  </string>
+  <string id="bar_arena_man_job_12">
+    <text>あんたの最後の死合は悪くはなかったぜ。だがな、まだ他の生贄ちゃんたちとあまり立ち位置は変わらん、まともな頭のある奴なら、雑誌一冊すら賭けねぇだろうな。もし今すぐに金が必要ってんならアリーナで少し小遣い稼ぎはどうだい。次の相手も最初の殺し合いを終えたばかりでな、しかもあんたよりギリギリの状況で生き残ったんだ。ぶっちゃけるとよ、俺はアイツを好かねぇんだ。あの野郎、相手を早く殺っちまうもんでな、盛り上がる前に終わらせちまうんだよ。でだ、あんたがこいつを倒せるかを見せてもらいたい！この死合で勝ち残れば掛け金がガッポガッポだぜ、だがすぐには殺すなよ、さぁ急ごうぜ！</text>
+  </string>
+  <string id="bar_arena_man_job_121">
+    <text>準備は出来ている。</text>
+  </string>
+  <string id="bar_arena_man_job_122">
+    <text>もう少し待ってくれ。</text>
+  </string>
+  <string id="bar_arena_man_job_13">
+    <text>おやおや･･････。最初の子猫のような雰囲気とは違ってきたじゃないか。さぁて、それじゃあんたを試してみるとしよう、ここからが本当の闘いだな。今回の相手は2人の男たちだ。ひとり目はスウェードと呼ばれているが、二人目の名前は忘れた。ほっとけば奴等は殺し合いしそうなくらいお互いを憎んでいるようだな、まぁそれが分かってて意図的にチームとして組まれているんだが。今日はライフルの日だからな、交戦距離には注意しな。オッズは10対1だから、かなりの金を稼げるな、まぁ勝てばの話だが。さぁどうする！</text>
+  </string>
+  <string id="bar_arena_man_job_131">
+    <text>準備は出来てる。</text>
+  </string>
+  <string id="bar_arena_man_job_132">
+    <text>もう少し待ってくれ。</text>
+  </string>
+  <string id="bar_arena_man_job_14">
+    <text>さて俺はな、今のあんたがファイター、本当のファイターだと自信を持って言える。それで今回の死合の話だが、あんたは2人のルーキーのお守りをしなきゃならん。あの二人はまだここで戦ったことがなくてな、人数合わせのためにチームアップせざるを得なかったんだ。俺があんたなら、あのヒヨコ共の助けは期待しないな。相手は経験豊富なチームでな、近シーズンの優勝候補さ、危険な賭けだな。彼らはひとりひとり別々の武器を装備しているが、その中のひとりはオートマチックショットガンを持っている、特に注意することだ。幸運を祈るよ。</text>
+  </string>
+  <string id="bar_arena_man_job_141">
+    <text>準備は出来ている。</text>
+  </string>
+  <string id="bar_arena_man_job_142">
+    <text>もう少し待ってくれ。</text>
+  </string>
+  <string id="bar_arena_man_job_15">
+    <text>今日は特別な日だ、軍でさえあんたの事は知っているぜ。驚くなよ、今回の相手は奴等さ、客席に将軍様まで来ているそうだ。相手はスペツナズかオモン（ロシアの特殊部隊）の隊員らしい。相手は最新の装備とボディアーマーを装備している。だが心配するな、何もあんたを防風雨の中裸で突っ込ませるつもりはない。Freedomの正式装備のボディアーマーを用意してある、軽くて動きやすいはずだ。あんたが運のない肉袋でないことを教えてやれ、グッドラック！</text>
+  </string>
+  <string id="bar_arena_man_job_151">
+    <text>準備は出来ている。</text>
+  </string>
+  <string id="bar_arena_man_job_152">
+    <text>もう少し待ってくれ。</text>
+  </string>
+  <string id="bar_arena_man_job_16">
+    <text>自分の力を発揮する時が来たのだ。Dutyはロストク近郊でストーカーたちと問題を起こしていたBanditたちのグループを捕らえた。夜間に捕獲したため、ほとんどのBanditたちは生きたまま捕らえられた。奴らはいずれも処刑される予定だったので、チャンスを与えるようにDutyを説得した。生き残った者はゾーンの外の缶詰に入れているが、ここで死ぬよりはマシだろう。奴らは装備もしっかりしているし、6人もいるから気をつけろよ。頑張れ！</text>
+  </string>
+  <string id="bar_arena_man_job_161">
+    <text>準備は出来ている。</text>
+  </string>
+  <string id="bar_arena_man_job_162">
+    <text>もう少し待ってくれ。</text>
+  </string>
+  <string id="bar_arena_man_job_17">
+    <text>さあて、あんたはもうほとんど決勝戦にいるようなもんだ。今回の相手は生粋のプロのストーカーだ。相手はひとりだが、アサルトライフルと防護服を装備している。不用意に身をさらけ出すな、ただじゃ済まないはずだ。まだあんたに伝えきれていないサプライズがあるだろうな･･････。とにかくだ、備えろ。結果がどうなるか全く予想できないが、勝った方が決勝に進むことが出来る、デスマッチを楽しみな！</text>
+  </string>
+  <string id="bar_arena_man_job_171">
+    <text>準備は出来ている。</text>
+  </string>
+  <string id="bar_arena_man_job_172">
+    <text>もう少し待ってくれ。</text>
+  </string>
+  <string id="bar_arena_man_job_18">
+    <text>おめでとう、ついに決勝戦だな！ひとつアドバイスだ、死ぬ気で行け。すべてのストーカーがこの一戦に注目している。アリーナには4人のストーカーがいる。全員が強化外骨格を装備したプロだが、今回あんたにも全く同じ装備を支給しよう。ただ唯一注意しなきゃならんのは、あんたはこの死闘に医療キットや包帯を持っていけないことだな。準備はいいか？あんたが最強であることを証明してくれ、ＧＯ！</text>
+  </string>
+  <string id="bar_arena_man_job_181">
+    <text>準備は出来ている。</text>
+  </string>
+  <string id="bar_arena_man_job_182">
+    <text>もう少し待ってくれ。</text>
+  </string>
+  <string id="bar_arena_man_start_111112">
+    <text>よう！見せつけてくれたな、まさに楽勝だな！</text>
+  </string>
+  <string id="bar_arena_man_start_11">
+    <text>よう！あんたに新しい試合を紹介できるぜ。</text>
+  </string>
+  <string id="bar_arena_man_start_21">
+    <text>何か飲んで時間を潰してくれ、アリーナの準備がまだなんだ。</text>
+  </string>
+  <string id="bar_arena_man_start_31">
+    <text>あたはもう立派なプロさ！</text>
+  </string>
+  <string id="bar_arena_man_start_41">
+    <text>あんたの勝ちだ！ほらよ報酬だ。</text>
+  </string>
+  <string id="bar_arena_man_start_51">
+    <text>あんたにはこの試合を受けるだけの経験値が足りないな。</text>
+  </string>
+  <string id="bar_arena_manager_game_0">
+    <text>どんなチャレンジがあるんだ？</text>
+  </string>
+  <string id="bar_arena_manager_game_1">
+    <text>今は獲物がいないんだ。後で来てくれミュータントを補充しておこう。</text>
+  </string>
+  <string id="bar_arena_manager_game_100">
+    <text>参加するには1,000ルーブル必要だ。</text>
+  </string>
+  <string id="bar_arena_manager_game_101">
+    <text>いいだろう、ほらよ。</text>
+  </string>
+  <string id="bar_arena_manager_game_105">
+    <text>金がないな。</text>
+  </string>
+  <string id="bar_arena_manager_game_1051">
+    <text>ここから出ていけストーカー。</text>
+  </string>
+  <string id="bar_arena_manager_game_110">
+    <text>参加料は2,000ルーブルだ。</text>
+  </string>
+  <string id="bar_arena_manager_game_111">
+    <text>ほらよ、金だ。</text>
+  </string>
+  <string id="bar_arena_manager_game_11111112">
+    <text>とっくに支払ったぞ！</text>
+  </string>
+  <string id="bar_arena_manager_game_115">
+    <text>金が足りない。</text>
+  </string>
+  <string id="bar_arena_manager_game_1151">
+    <text>では質問を止めてくれ。</text>
+  </string>
+  <string id="bar_arena_manager_game_120">
+    <text>3,000ルーブル支払えば、ブラッドサッカーと二人きりで戯れるぜ。</text>
+  </string>
+  <string id="bar_arena_manager_game_121">
+    <text>ほらよ、金だ。</text>
+  </string>
+  <string id="bar_arena_manager_game_125">
+    <text>金が足りない。</text>
+  </string>
+  <string id="bar_arena_manager_game_1251">
+    <text>俺の時間を無駄遣いさせないでくれよ。</text>
+  </string>
+  <string id="bar_arena_manager_game_130">
+    <text>ちょい待ちな。参加には5,000ルーブル必要だ。</text>
+  </string>
+  <string id="bar_arena_manager_game_131">
+    <text>いいだろう、ほらよ。</text>
+  </string>
+  <string id="bar_arena_manager_game_135">
+    <text>金がない。</text>
+  </string>
+  <string id="bar_arena_manager_game_1351">
+    <text>乞食の振りをするのはやめろ。</text>
+  </string>
+  <string id="bar_arena_manager_game_140">
+    <text>5,000ルーブル必要だ。</text>
+  </string>
+  <string id="bar_arena_manager_game_141">
+    <text>分かった、金だ。</text>
+  </string>
+  <string id="bar_arena_manager_game_145">
+    <text>金がない。</text>
+  </string>
+  <string id="bar_arena_manager_game_1451">
+    <text>当ててやるよ、誰かに金を盗まれたんだな？</text>
+  </string>
+  <string id="bar_arena_manager_game_2">
+    <text>スードウドッグだ、大きな見本だが、かなり傷だらけかつ、まるで俺のオフクロのように凄まじい顔付きだな。</text>
+  </string>
+  <string id="bar_arena_manager_game_200">
+    <text>引き合いとしてだ、戦う前に、こいつを殺すまでに必要な時間を賭けてくれ。あんたが指定した条件をクリアするば、余分に報酬がもらえるぞ。</text>
+  </string>
+  <string id="bar_arena_manager_game_201">
+    <text>30秒、トリプル勝利。</text>
+  </string>
+  <string id="bar_arena_manager_game_202">
+    <text>1分半、ダブル勝利。</text>
+  </string>
+  <string id="bar_arena_manager_game_203">
+    <text>時間制限なし。ハーフステーク勝利。</text>
+  </string>
+  <string id="bar_arena_manager_game_204">
+    <text>気が変わった。</text>
+  </string>
+  <string id="bar_arena_manager_game_2041">
+    <text>残念だな。既に支払い終わっている。</text>
+  </string>
+  <string id="bar_arena_manager_game_21">
+    <text>いいぜやってやる、そのワンころと闘ってやるよ。</text>
+  </string>
+  <string id="bar_arena_manager_game_22">
+    <text>犬だと？それだけか？</text>
+  </string>
+  <string id="bar_arena_manager_game_221">
+    <text>なんだこのかわいいワンコにびびってんのか？心配すんなって。</text>
+  </string>
+  <string id="bar_arena_manager_game_3">
+    <text>スノークって呼ばれる、ガスマスク野郎がいる。弱弱しく見えるが、かなり素早いぞ。</text>
+  </string>
+  <string id="bar_arena_manager_game_300">
+    <text>準備万端だ。アリーナに向かおう。</text>
+  </string>
+  <string id="bar_arena_manager_game_31">
+    <text>やってやるよ、スノークと戦う。</text>
+  </string>
+  <string id="bar_arena_manager_game_32">
+    <text>絶対に嫌だ、奴等は胸糞わるくなる。</text>
+  </string>
+  <string id="bar_arena_manager_game_321">
+    <text>なんだ、半分腐ったようなガスマスク野郎が怖いのか？</text>
+  </string>
+  <string id="bar_arena_manager_game_4">
+    <text>今回はラッキーだった、若いブラッドサッカーを捕まえたぜ。まだマヌケだし、マナーはよろしくないな。</text>
+  </string>
+  <string id="bar_arena_manager_game_41">
+    <text>さぁ、準備してくれ。</text>
+  </string>
+  <string id="bar_arena_manager_game_42">
+    <text>ブラッドサッカーだと？糞くらえ！</text>
+  </string>
+  <string id="bar_arena_manager_game_421">
+    <text>何？あんたブラッドサッカーが好きなのか？いつの間にFreedomになったんだ？</text>
+  </string>
+  <string id="bar_arena_manager_game_5">
+    <text>今回はバーラーと呼ばれる、黒いマントを着た太った小人が相手だ。</text>
+  </string>
+  <string id="bar_arena_manager_game_51">
+    <text>ちびデブだって？楽勝じゃないか、やってやろう。</text>
+  </string>
+  <string id="bar_arena_manager_game_52">
+    <text>俺はそいつの良からぬ噂を知っている、パスするよ。</text>
+  </string>
+  <string id="bar_arena_manager_game_521">
+    <text>やつはあんたの腰ほどもないくらい小さいんだが、それでも怖いってか？</text>
+  </string>
+  <string id="bar_arena_manager_game_6">
+    <text>今日は特別の日だ。どこで奴を見つけたかはしらんが･･････これだけは言える、あれは本物の獣だ。</text>
+  </string>
+  <string id="bar_arena_manager_game_61">
+    <text>いいだろう、奴を苦しみから解放してやろう。</text>
+  </string>
+  <string id="bar_arena_manager_game_62">
+    <text>進んで死にに行きたくはないんでな、他の奴に頼んでくれ。</text>
+  </string>
+  <string id="bar_arena_manager_game_621">
+    <text>まぁ、ぶっちゃけ俺だって獣は怖いさ。アリーナでだって闘りたくはねぇよ。ただな、誰が気にするってんだ？</text>
+  </string>
+  <string id="bar_arena_manager_info_0">
+    <text>いくつか質問がある。</text>
+  </string>
+  <string id="bar_arena_manager_info_1">
+    <text>どうぞ。</text>
+  </string>
+  <string id="bar_arena_manager_info_10">
+    <text>気にしないでくれ。</text>
+  </string>
+  <string id="bar_arena_manager_info_11">
+    <text>ここは何の施設だ？</text>
+  </string>
+  <string id="bar_arena_manager_info_111">
+    <text>ここはアリーナ、俺の小さなビジネスの場さ。ストーカーたちがゾーンの恐怖の象徴たちと戦って、自分の価値を証明し、名声を得ることが出来る場所だ。</text>
+  </string>
+  <string id="bar_arena_manager_info_12">
+    <text>ここではどうやってミュータント共を捕まえているんだ？</text>
+  </string>
+  <string id="bar_arena_manager_info_121">
+    <text>俺たちはDutyと取引していてな、彼らが見つけた弱ったミュータントを現金で買い取っているのさ。Dutyたちは金がもらえる、ミュータント共の数は減る、そして俺たちにはアリーナで見世物代金が入る、まさに皆でウィンウィンなのさ。</text>
+  </string>
+  <string id="bar_arena_manager_info_13">
+    <text>あんたはどこから来たんだ？</text>
+  </string>
+  <string id="bar_arena_manager_info_131">
+    <text>どこからって、しいて言えばいろんな場所からかな。俺はこの小さな僻地で金稼ぎが出来るってのが分かったからここにいるのさ。</text>
+  </string>
+  <string id="bar_arena_manager_rules_0">
+    <text>どんなルールがある？</text>
+  </string>
+  <string id="bar_arena_manager_rules_1">
+    <text>あぁ、ルールはシンプルさ、ここの装置は自分で発明したんだが、中には檻があってなその中にミュータントが入れられる。金を払った後に、化物を殺すのに必要な時間んを教えてくれ。もしあんたがその時間内に獲物を始末出来ればその分に応じて報酬を渡そう。しかしそいつはあくまでもおまけさ、メインはDutyに捕らえられたBanditみたいな奴等が恩赦を得るため殺しあう仕合にある。他にいるのは一部の戦闘狂のストーカーさ。</text>
+  </string>
+  <string id="bar_arena_manager_start_11">
+    <text>会えて嬉しいよストーカー、アリーナにようこそ。</text>
+  </string>
+  <string id="bar_arena_manager_start_21">
+    <text>何を待ってるんだ？ケージの中に入りたいのか？</text>
+  </string>
+  <string id="bar_arena_manager_start_31">
+    <text>悪いが、新しい獲物がいなくてな、1日か2日後くらいにまた来てくれ。</text>
+  </string>
+  <string id="bar_arena_manager_start_41">
+    <text>さぁほらよ！よくやった！これがあんたの勝ち分だ。また金が欲しくなったらここに来な。</text>
+  </string>
+  <string id="bar_arena_manager_start_51">
+    <text>すまんがあんたの負けだ。興味があるんならまた来てくれ。</text>
+  </string>
+  <string id="bar_visitors_stalker_mechanic_start_dialog_1">
+    <text>また、ストーカーがマンガン爺さんを訪ねてきたのか？うーん、わかった。壊れているところを見せてくれれば直してやるよ。ただ、部品代は払ってくれよな。</text>
+  </string>
+</string_table>

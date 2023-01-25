@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<string id="lname_woman_0">
+		<text>イワノワ</text>
+	</string>
+	<string id="lname_woman_1">
+		<text>ドゥビニナ</text>
+	</string>
+	<string id="lname_woman_2">
+		<text>シロドワ</text>
+	</string>
+	<string id="lname_woman_3">
+		<text>スネーク</text>
+	</string>
+	<string id="lname_woman_4">
+		<text>ヴァイパー</text>
+	</string>
+	<string id="lname_woman_5">
+		<text>アロー</text>
+	</string>
+	<string id="lname_woman_6">
+		<text>ライトニング</text>
+	</string>
+	<string id="lname_woman_7">
+		<text>アマリエバ</text>
+	</string>
+	<string id="lname_woman_8">
+		<text>ヴァリシエフ</text>
+	</string>
+	<string id="lname_woman_9">
+		<text>ポタポワ</text>
+	</string>
+	<string id="lname_woman_10">
+		<text>ブラッドハウンド</text>
+	</string>
+	<string id="lname_woman_11">
+		<text>オッド</text>
+	</string>
+	<string id="lname_woman_12">
+		<text>ストーカー</text>
+	</string>
+	<string id="lname_woman_13">
+		<text>チュマコバ</text>
+	</string>
+	<string id="lname_woman_14">
+		<text>マトヴェーバ</text>
+	</string>
+	<string id="lname_woman_15">
+		<text>ピスティレンス</text>
+	</string>
+	<string id="lname_woman_16">
+		<text>リーパー</text>
+	</string>
+	<string id="lname_woman_17">
+		<text>ペトロヴァ</text>
+	</string>
+	<string id="lname_woman_18">
+		<text>ストレンジ</text>
+	</string>
+	<string id="lname_woman_19">
+		<text>エクスペリエンスド</text>
+	</string>
+	<string id="lname_woman_20">
+		<text>コズロヴァ</text>
+	</string>
+	<string id="lname_woman_21">
+		<text>バラノヴァ</text>
+	</string>
+	<string id="lname_woman_22">
+		<text>ソボレヴァ</text>
+	</string>
+	<string id="lname_woman_23">
+		<text>スキルド</text>
+	</string>
+	<string id="lname_woman_24">
+		<text>ザイキナ</text>
+	</string>
+	<string id="lname_woman_25">
+		<text>クリコヴァ</text>
+	</string>
+	<string id="lname_woman_26">
+		<text>ヴィレッジャー</text>
+	</string>
+	<string id="lname_woman_27">
+		<text>ゾリナ</text>
+	</string>
+	<string id="lname_woman_28">
+		<text>サヴェレヴァ</text>
+	</string>
+	<string id="lname_woman_29">
+		<text>フェロシウス</text>
+	</string>
+	<string id="lname_woman_30">
+		<text>シモノヴァ</text>
+	</string>
+	<string id="lname_woman_31">
+		<text>ストリクト</text>
+	</string>
+	<string id="lname_woman_32">
+		<text>コルネヴァ</text>
+	</string>
+	<string id="lname_woman_33">
+		<text>スカーレット</text>
+	</string>
+	<string id="lname_woman_34">
+		<text>アリヤノワ</text>
+	</string>
+	<string id="lname_woman_35">
+		<text>ウルフ</text>
+	</string>
+	<string id="lname_woman_36">
+		<text>サーガント</text>
+	</string>
+	<string id="lname_woman_37">
+		<text>シシキン</text>
+	</string>
+	<string id="lname_woman_38">
+		<text>フォックス</text>
+	</string>
+	<string id="lname_woman_39">
+		<text>ヒュリー</text>
+	</string>
+	<string id="lname_woman_40">
+		<text>ウォリアー</text>
+	</string>
+	<string id="lname_woman_41">
+		<text>バーバリアン</text>
+	</string>
+	<string id="lname_woman_42">
+		<text>マーメイド</text>
+	</string>
+	<string id="lname_woman_43">
+		<text>デミドフ</text>
+	</string>
+	<string id="lname_woman_44">
+		<text>コブラ</text>
+	</string>
+	<string id="lname_woman_45">
+		<text>コルネーバ</text>
+	</string>
+	<string id="lname_woman_46">
+		<text>ストーケレット</text>
+	</string>
+	<string id="lname_woman_47">
+		<text>ウェールダ</text>
+	</string>
+	<string id="lname_woman_48">
+		<text>ラム</text>
+	</string>
+	<string id="lname_woman_49">
+		<text>バリノヴァ</text>
+	</string>
+	<string id="lname_woman_50">
+		<text>ヴェルキナ</text>
+	</string>
+	<string id="lname_woman_51">
+		<text>ヴァルキナ</text>
+	</string>
+	<string id="lname_woman_52">
+		<text>ウィックド</text>
+	</string>
+	<string id="lname_woman_53">
+		<text>カインド</text>
+	</string>
+	<string id="lname_woman_54">
+		<text>サハロフ</text>
+	</string>
+	<string id="lname_woman_55">
+		<text>エピフォノバ</text>
+	</string>
+	<string id="lname_woman_56">
+		<text>ポタホワ</text>
+	</string>
+	<string id="lname_woman_57">
+		<text>ウルフ</text>
+	</string>
+	<string id="lname_woman_58">
+		<text>メイド</text>
+	</string>
+	<string id="lname_woman_59">
+		<text>サーペント</text>
+	</string>
+	<string id="lname_woman_60">
+		<text>ベレゾワ</text>
+	</string>
+	<string id="lname_woman_61">
+		<text>パッキング</text>
+	</string>
+	<string id="lname_woman_62">
+		<text>シンプル</text>
+	</string>
+	<string id="lname_woman_63">
+		<text>トリックスター</text>
+	</string>
+	<string id="lname_woman_64">
+		<text>アスレット</text>
+	</string>
+	<string id="lname_woman_65">
+		<text>ジムナスト</text>
+	</string>
+	<string id="lname_woman_66">
+		<text>プロコフィエバ</text>
+	</string>
+	<string id="lname_woman_67">
+		<text>グルシェバ</text>
+	</string>
+	<string id="lname_woman_68">
+		<text>リュード</text>
+	</string>
+	<string id="lname_woman_69">
+		<text>ドー</text>
+	</string>
+	<string id="lname_woman_70">
+		<text>フィジー</text>
+	</string>
+	<string id="lname_woman_71">
+		<text>ユニーク</text>
+	</string>
+	<string id="lname_woman_72">
+		<text>ビリュコヴァ</text>
+	</string>
+	<string id="lname_woman_73">
+		<text>マリニナ</text>
+	</string>
+	<string id="lname_woman_74">
+		<text>チャンピオン</text>
+	</string>
+</string_table>

@@ -1,0 +1,14 @@
+<string_table>
+	<string id="ui_mcm_menu_clear_jam">
+		<text>弾詰まりを直す キーバインド</text>
+	</string>
+	<string id="ui_mcm_clear_jam_keybind">
+		<text>弾詰まりを直すキー</text>
+	</string>
+    <string id="ui_mcm_clear_jam_keybind_desc">
+		<text>Unjam（弾詰まりを直す事）に使用するキーを変更します。デフォルトのキーはZです。キーの動作は、関連するMCMタブで変更することができます。</text>
+	</string>
+    <string id="ui_mcm_clear_jam_mcm">
+		<text>MCMをアップデートすると、この機能が表示されます。キーのデフォルトはZ</text>
+	</string>
+</string_table>

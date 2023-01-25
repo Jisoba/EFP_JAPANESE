@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+    <string id="st_paintkit_sunrise">
+        <text>'サンライズ' カモフラージュMODキット</text>
+    </string>
+    <string id="st_paintkit_sunrise_descr">
+        <text>Lonerの技術屋が丁寧に組み立てた特殊なスーツの素材のパッケージ。各種断熱材、ケブラー生地、アーマーアクセサリー、ウッドランドカラーの布製塗料などが入っている。ストーカーは手に入る限りの材料でサンライズスーツを改造し、パーツを追加、交換、修理しながら使用することが多い。ベテランになると、少なくとも一度は全パーツを交換することもある。</text>
+    </string>
+
+    <string id="st_paintkit_lcs">
+        <text>Mercenary ライトアーマーMODキット</text>
+    </string>
+    <string id="st_paintkit_lcs_descr">
+        <text>
+            Mercenaryの派閥色に塗装された、様々なアーマーパーツ、ポーチ、ストラップが入ったパッケージ。Mercenaryはゾーンに長く滞在することはなく、少なくともより良い装備に多額の投資をするほど長くは滞在しない。そのため、LCSの標準的なスーツはモジュール化されており、ゾーンの特殊な環境に適応できるよう迅速に改造できるように設計されている。
+        </text>
+    </string>
+    <string id="st_paintkit_dooty">
+        <text>Duty PS5 アーマーMODキット</text>
+    </string>
+    <string id="st_paintkit_dooty_descr">
+        <text>
+            Dutyがスーツをカスタマイズする際によく使用する、様々な防弾・保温用の生地が入ったパッケージ。Dutyはゾーンに長く滞在し、ロストクで比較的安定した地位を築いているため、様々な種類の物理的・環境的保護について実験することができる。そのため、PS5スーツを支給された新兵は、自身のニーズに合わせた装備をカスタマイズを施す。
+        </text>
+    </string>
+
+    <string id="st_paintkit_eco">
+        <text>SSP 断熱キット"ジェムストーン"</text>
+    </string>
+    <string id="st_paintkit_eco_descr">
+        <text>
+            科学省の公印が押された、とても大きくてカラフルな断熱材セット。これらのセットは、標準的なSSP環境保護スーツを維持・改造するためのものである。公式には複数のSSPスーツをメンテナンスするための修理キットだが、実際にはこれらのキットを使って、特定の状況に合わせたSSPスーツを改造・変更することもできる。断熱材に加え、SSP生命維持装置のリセット方法を記したガイドも付属している。
+        </text>
+    </string>
+    <string id="st_paintkit_exo">
+        <text>外骨格 取り付けキット</text>
+    </string>
+    <string id="st_paintkit_exo_descr">
+        <text>このパッケージには、外骨格フレームと電源システム、そして対応する衣装にマウントポイントを取り付けるための専用工具が含まれており、使用者は特定のスーツを外骨格に改造することができるようになる。外骨格の取り付けには重機が必要なため、通常は工場で行われるが、ゾーンの技術屋は一般的な工具と外骨格フレームシステムを「リサイクル」することで、さまざまな衣装に改造して取り付けられるようにした。取り付けの際には、フレームを服に永久的に固定するため、このプロセスは元に戻すことができない。電源は含まれていない。</text>
+    </string>
+    
+    <string id="st_paintkit_noso">
+        <text>'ライノ' ヘビーアサルトパッケージ</text>
+    </string>
+    <string id="st_paintkit_noso_descr">
+        <text>CZ-M10ヘルメットと特殊な形状のアーマープレート、および取り付け用工具が含まれたパッケージ。ヘルメットを交換し、取り外し不可能な装甲板を外骨格フレームと外装の一部に移植することで、特定のタイプの外骨格をアップグレードする。このプロセスにより、純粋な人体保護という点では他に追随を許さないボディアーマーが完成するが、非常に重く、コストも高い。</text>
+    </string>
+
+    <string id="st_paintkit_seva">
+        <text>'パスファインダー' SEVA アップグレードキット</text>
+    </string>
+    <string id="st_paintkit_seva_descr">
+        <text>
+            SEVAのボディスーツを強化するために使用される特別なツールキット。ノビコフの数十年にわたるゾーン用防護服の設計・製作経験を生かして、Clear skyが独自に製作したセットで、極めて限定的に販売されている。ここに使われている素材は非常に高価で入手が困難だが、その軽量さと優れた断熱性により、アノマリーへの防護の面では他のものに引けを取らない。このセットで、特定のSEVAスーツを「パスファインダー」ヴァリアントにアップグレードすることができる。
+        </text>
+    </string>
+
+    <string id="st_paintkit_ace">
+        <text>'エース' SEVA アップグレードキット</text>
+    </string>
+    <string id="st_paintkit_ace_descr">
+        <text>
+            SEVAのボディスーツを強化するための特別なツールキット。このキットは、ノビコフがMercenaryの顧客のために、費用を惜しまず最高の科学スーツを作るという特別な契約によって製作されたキットである。素材は最高級品で 軽量、通気性、耐久性、防護性に優れている。しかし、（あなたにとっては）幸いなことに、そのMercenaryの顧客はスーツを回収する前にキメラの爪で最期を迎えてしまったため、このアップグレードキットを手に入れることができた。
+        </text>
+    </string>
+    
+    <string id="ui_mcm_menu_armormod">
+        <text>Armor Modkits</text>
+    </string>
+    <string id="ui_mcm_armormod_title">
+        <text>Armor Modkit 設定</text>
+    </string>
+    <string id="ui_mcm_armormod_salvage_chance">
+        <text>アップグレードの回収確率</text>
+    </string>
+    <string id="ui_mcm_armormod_salvage_chance_desc">
+        <text>装備をアップグレードする際に、アップグレードの何パーセントがプレイヤーに還元されるかを設定します。還元はランダムで行われるため、保証はありません。</text>
+    </string>
+    <string id="st_ui_itm_upgrade_base">
+        <text>改造可能な装備</text>
+    </string>
+    <string id="st_ui_itm_upgrade_choice">
+        <text>改造の選択肢</text>
+    </string>
+    <string id="st_ui_mm_modify">
+        <text>改造</text>
+    </string>
+
+</string_table>

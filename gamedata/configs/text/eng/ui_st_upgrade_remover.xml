@@ -1,0 +1,8 @@
+<string_table>
+	<string id="st_haru_no_tool">
+		<text>%sこのアイテムからアップグレードを回収するには、[$tool_name]を持っている必要がある</text>
+	</string>
+	<string id="st_remove_upgrades">
+		<text>アップグレードを回収する[!]</text>
+	</string>
+</string_table>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_aug_a1">
+		<text>Steyr AUG A1</text>
+	</string>
+	<string id="st_wpn_aug_a1_descr">
+		<text>オーストリア陸軍の標準的なライフル仕様のSteyr AUG A1(タンカラー)。AUGは、1960年代にSteyr Mannlicher GmbH &amp; Co KG（旧Steyr-Daimler-Puch）が設計したオーストリアのブルパップ式5.56mmアサルトライフルである。AUG（Armee-Universal-Gewehr "universal army rifle"）は、オーストリア陸軍が7.62mm自動小銃StG 58（ライセンス生産されたFN FAL）に代わって1978年にStG 77（Sturmgewehr77）として採用した。1978年から生産され、オーストリア連邦軍や各国の警察部隊の標準小銃として採用されている。銃の愛好家は、スコープを内蔵したこのライフルを好んで使用する。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] 5.56x45口径対応のサプレッサー\n
+		%c[d_purple] ・%c[ui_gray_2] 1.5x スコープ （内蔵）.\n \n</text>
+	</string>
+
+	<string id="st_wpn_aug_a2">
+		<text>Steyr AUG A2</text>
+	</string>
+	<string id="st_wpn_aug_a2_descr">
+		<text>AUG A2は1997年に登場したA1の改良型で、大きな違いのひとつは、一体型のスコープがピカティニーレールに変更され、スコープだけでなく、あらゆる種類のアイアンサイトやリフレックスサイトを装着できるようになったことである。闇市場でよく見かけるライフルで、非常に信頼性の高いライフルである。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] 5.56x45口径対応のサプレッサー\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, C-more Railway Tactical スコープ\n \n</text>
+	</string>
+
+	<string id="st_wpn_aug_a3">
+		<text>Steyr AUG A3</text>
+	</string>
+	<string id="st_wpn_aug_a3_descr">
+		<text>Steyr AUG A3は、A1とA2の両方をさらに改良し、2005年に登場した。A1、A2に代わり、オーストリア陸軍の標準小銃として採用されている。A2と同じピカティニーレイルを全長に装備し、マグウェル上部に外部ボルトリリースを装備しているため、あらゆるアイアンサイトやリフレックスサイト、スコープを容易に装着することができる。AUGの現代版であり、最も一般的なライフルであるが、ゾーンではあまり出回っていない。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] 5.56x45口径対応のサプレッサー\n
+		%c[d_purple] ・%c[ui_gray_2] スコープ:すべてのピカティニー/ウィーバーレール式(except of Red Dot Sights with low mount: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (low mount), Docter Sight, 1P76 Rakurs (low mount) and OKP-7.\n \n</text>
+	</string>
+
+	<string id="st_wpn_aug_thales">
+		<text>Thales F90</text>
+	</string>
+	<string id="st_wpn_aug_thales_descr">
+		<text>タレスF90、通称EF88は、オーストラリア版AUGであるF88 Austeyrを改良したものだ。F88の後継機として2012年に生産された本機は、F88の性能をベースに多くの改良が加えられ、人間工学と信頼性が向上した最新のAUGである。独自のバレルによりリコイルコントロールと命中精度が格段に向上し、カスタムフォアグリップにより操作性が向上している。元オーストラリアのスペックオプスが持ち込んだ非常に珍しい銃で、そのため価格も適正である。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] 5.56x45口径対応のサプレッサー\n
+		%c[d_purple] ・%c[ui_gray_2] スコープ:すべてのピカティニー/ウィーバーレール式(except of Red Dot Sights with low mount: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (low mount), Docter Sight, 1P76 Rakurs (low mount) and OKP-7.\n \n</text>
+	</string>
+
+	<string id="st_wpn_aug_9mm">
+		<text>Steyr AUG A3 9mm XS</text>
+	</string>
+	<string id="st_wpn_aug_9mm_descr">
+		<text>A3には、ピカティニーレールがなく、銃身やスコープ、フォアグリップが一体となったオリジナルモデルも存在する。AUG 9mmは、1988年から生産されているAUGの9x19パラベラムを使用したサブマシンガンである。銃身、ボルト、マガジンが異なるが、TMPマガジンは装着可能である。パラトルーパー（落下傘兵）のために作られた。AUG A3をAUG 9mmに、AUG 9mmをViceversaに改造するキットが存在する。ブルパップ式のサブマシンガンとして信頼性が高く、Freedomの間でも人気がある。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] 9x19口径対応のサプレッサー\n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, C-more Railway Tactical scopes.\n \n</text>
+	</string>
+
+</string_table>

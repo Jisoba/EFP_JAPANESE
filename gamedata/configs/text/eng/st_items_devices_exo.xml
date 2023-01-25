@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!--
+	Devices
+-->
+
+<string_table>
+
+	<string id="st_itm_exo_psu_name">
+		<text>即席の外骨格用電源</text>
+	</string>
+	<string id="st_itm_exo_psu_descr">
+		<text>外骨格に搭載される補助電源で、エネルギー容量を増加させることができる。標準的な外骨格に搭載されているパワーシステムはかなり非効率的であるため、ほとんどのストーカーに人気がある。外骨格の上にドラッグすることで装備できる。\n \n
+このタイプの電源は、無造作に組み上げられ、かなり効率が悪い。軽量ではあるが、エネルギー容量にはわずかな恩恵しかない。多くの外骨格が持つ大きな欠点の1つは、短期間での使用を想定していることで、通常は戦闘中に基地に戻って補給を受けなければならないことだ。このような外部電源は、この問題を部分的に軽減することができるが、この外部電源の通り、必ずしもうまく機能するとは限らない。\n\n
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] ・%c[ui_gray_2] 技術品\n
+		%c[d_blue] ・%c[ui_gray_2] バッテリー容量上昇量： 50%\n
+		</text>
+	</string>
+
+	<string id="st_itm_exo_psu_mili_name">
+		<text>軍用外骨格用電源</text>
+	</string>
+	<string id="st_itm_exo_psu_mili_descr">
+		<text>外骨格に搭載される補助電源で、エネルギー容量を増加させることができる。標準的な外骨格に搭載されているパワーシステムはかなり非効率的であるため、ほとんどのストーカーに人気がある。外骨格の上にドラッグすることで装備できる。\n \n
+このモデルは工場で専門的に作られたもので、外骨格にシームレスに取り付けられるようになっている。重さはあるものの、非常に耐久性が高く、エネルギー効率もかなり高いため、エネルギー容量が大幅にアップし、エネルギー効率も向上する。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] ・%c[ui_gray_2] 技術品\n
+		%c[d_blue] ・%c[ui_gray_2] 軍用品\n
+		%c[d_blue] ・%c[ui_gray_2] バッテリー容量上昇量： 100%\n
+		%c[d_blue] ・%c[ui_gray_2] バッテリー消費減少量： 30%\n
+		</text>
+	</string>
+	
+	<string id="st_itm_exo_psu_sci_name">
+		<text>試作外骨格用電源 "リアクター"</text>
+	</string>
+	<string id="st_itm_exo_psu_sci_descr">
+		<text>外骨格に搭載される補助電源で、エネルギー容量を増加させることができる。標準的な外骨格に搭載されているパワーシステムはかなり非効率的であるため、ほとんどのストーカーに人気がある。外骨格の上にドラッグすることで装備できる。\n \n
+このモデルは、Ecologistから入手した設計図に基づいて作られたプロトタイプで、「バッテリー」アーティファクトの潜在的な帯電特性を利用して、無限の電力を生成することができる。内蔵されたアーティファクトのフィードバック・ループが継続的に少量の電力を生成し、既存の外骨格の電源を受動的に充電できる。ほぼ無限の電力源だが、バックパックに内蔵された大型の放射能隔離容器のために、耐えられないほど重くなっている。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] ・%c[ui_gray_2] 技術品\n
+		%c[d_blue] ・%c[ui_gray_2] 試作品\n
+		%c[d_blue] ・%c[ui_gray_2] バッテリー容量上昇量： 200%\n
+		%c[d_blue] ・%c[ui_gray_2] バッテリー消費減少量： 80%\n
+		%c[d_blue] ・%c[ui_gray_2] 静止してる間外骨格のバッテリーを充電できる\n
+		%c[d_blue] ・%c[ui_gray_2] $$ACTION_SPRINT_TOGGLE$$ 二回押しでエレクトリック・ノヴァを発射できる。\n
+		</text>
+	</string>
+	
+	<string id="st_itm_exo_psu_tank_name">
+		<text>試作外骨格用電源 "ストロングホールド"</text>
+	</string>
+	<string id="st_itm_exo_psu_tank_descr">
+		<text>外骨格に搭載される補助電源で、エネルギー容量を増加させることができる。標準的な外骨格に搭載されているパワーシステムはかなり非効率的であるため、ほとんどのストーカーに人気がある。外骨格の上にドラッグすることで装備できる。\n \n
+このモデルは、Ecologistから入手した設計図に基づいて作られたプロトタイプで、激しい銃撃戦の中で前進しなくてはならない前線部隊を補助するために設計された。「エンプティ」アーティファクトの重力特性を利用し、起動時に局所的にアノマリーゾーンを生成する。このアノマリーゾーンは使用者を中心とし、高速の弾丸や榴弾を効果的に減速させるとともに、ミュータントの攻撃も無効となる。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] ・%c[ui_gray_2] 技術品\n
+		%c[d_blue] ・%c[ui_gray_2] 試作品\n
+		%c[d_blue] ・%c[ui_gray_2] バッテリー容量上昇量： 100%\n
+		%c[d_blue] ・%c[ui_gray_2] バッテリー消費減少量： 30%\n
+		%c[d_blue] ・%c[ui_gray_2] $$ACTION_SPRINT_TOGGLE$$ 二回押しでダメージを大幅に軽減できる\n
+		%c[d_blue] ・%c[ui_gray_2] エネルギー消費量20、効果時間8秒、クールダウン20秒\n
+		</text>
+	</string>
+
+	<string id="st_itm_exo_psu_sprint_name">
+		<text>試作外骨格用電源 "エンジン"</text>
+	</string>
+	<string id="st_itm_exo_psu_sprint_descr">
+		<text>外骨格に搭載される補助電源で、エネルギー容量を増加させることができる。標準的な外骨格に搭載されているパワーシステムはかなり非効率的であるため、ほとんどのストーカーに人気がある。外骨格の上にドラッグすることで装備できる。\n \n
+このモデルは、Ecologistから入手した設計図に基づいて作られたプロトタイプで、ショックトルーパーの機動性を高めるために設計された。「フラッシュ」アーティファクトの容量特性を利用し、カスタマイズしたサーボモーターを搭載している。「フラッシュ」アーティファクトを一時的に起動することで、機動力を飛躍的に向上させることができる。また、移動速度の大幅な向上により、視界に入った生物や人間に大ダメージを与えることができる。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] ・%c[ui_gray_2] 技術品\n
+		%c[d_blue] ・%c[ui_gray_2] 試作品\n
+		%c[d_blue] ・%c[ui_gray_2] バッテリー容量上昇量： 100%\n
+		%c[d_blue] ・%c[ui_gray_2] バッテリー消費減少量： 30%\n
+		%c[d_blue] ・%c[ui_gray_2] 低消費電力\n
+		%c[d_blue] ・%c[ui_gray_2] $$ACTION_SPRINT_TOGGLE$$ 二回押しで移動速度上昇\n
+		%c[d_blue] ・%c[ui_gray_2] 敵にダッシュすることで突撃ダメージを与えられる\n
+		%c[d_blue] ・%c[ui_gray_2] エネルギー消費量20、効果時間8秒、クールダウン20秒\n
+		</text>
+	</string>
+
+	<string id="st_batteries_ccell">
+		<text>軍用バッテリーユニット</text>
+	</string>
+	<string id="st_batteries_ccell_descr">
+		<text>外骨格に電力を供給するための重量のある軍用規格のバッテリー。ウクライナの研究機関がゾーンの研究を基に開発した高密度パワーパックで、外骨格のパワーシステムで使用済みのセルを交換したり、搭載されたユニットに電力を転送したりすることができる。外骨格の上にドラッグすると、電力を再充電することができる。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] ・%c[ui_gray_2] 技術品\n
+		%c[d_blue] ・%c[ui_gray_2] 外骨格に電力を供給できる\n
+		</text>
+	</string>
+
+	
+	<string id="st_exo_recipe_1">
+		<text>「バッテリー」アーティファクトの人工電磁場下での挙動</text>
+	</string>
+	<string id="st_exo_recipe_1_descr">
+		<text>V.R. SolenovとR.R. Romanovichによって書かれた科学論文で、様々な強さの電磁場にさらされたときの「バッテリー」アーティファクトの挙動とその効果について詳述されている。特定のVPMレベルにおいて、アーティファクトから短時間の強い直流電流を放出し、その効果はフィールドの強さとは相関がないことが記録されている。この報告書は非常に冗長で、文章と数式に付随して、いくつかのグラフ、白黒写真、テストログが掲載されている。紙の裏には、「バッテリー」アーティファクトに正の電流を流したときに、より多くの電圧を出力させるための方法が図解されている。このノートには、ウクライナ科学省の公式印が押されている。\n\n
+			%c[ui_gray_3]特性:\n
+			%c[d_green] ・%c[ui_gray_2]資料\n
+			%c[d_blue] ・%c[ui_gray_2]クラフトレシピ\n
+			%c[d_blue] ・%c[ui_gray_2]高価値\n</text>
+	</string>
+	
+	<string id="st_exo_recipe_2">
+		<text>「フルエンプティ」アーティファクトの投影による重力シェルの観測と解析</text>
+	</string>
+	<string id="st_exo_recipe_2_descr">
+		<text>A.N. PerchenovとV.R. Solenovによって書かれた科学論文で、「フルエンプティ」アーティファクトの特異な重力効果の観察について詳述されている。その論文によると、エンプティディスクの間の空間は、2枚のディスクが互いの位置に対して部分的に時空を歪ませ、小さな重力異常を作り出した結果であるという。「フルエンプティ」の「フル」部分が何であるかは不明のままであり、高度に励起されたゼロ点エネルギーで帯電した空気粒子が目に見える形になっていると推測されている。真空状態で一定のアンペア数の交流電流を流すと、内容物は一時的に消滅し、2つの円盤の間に含まれる重力異常が拡大して、ほぼ不浸透性の「殻」を作り、その空間に入るあらゆる固形物体を捕らえて元の軌道から偏向させる。この現象を発見したとき、4人のインターンと2人の実験助手が負傷したという。実験記録には、この挙動を再現するために必要な真空封じ込め装置の図がある。\n\n
+			%c[ui_gray_3]特性:\n
+			%c[d_green] ・%c[ui_gray_2]資料\n
+			%c[d_blue] ・%c[ui_gray_2]クラフトレシピ\n
+			%c[d_blue] ・%c[ui_gray_2]高価値\n</text>
+	</string>
+	
+	<string id="st_exo_recipe_3">
+		<text>「フラッシュ」アーティファクトフィールドのエンジン出力への応用</text>
+	</string>
+	<string id="st_exo_recipe_3_descr">
+		<text>R.R. RomanovichとA.N. Perchenovによって書かれた科学論文で、「フラッシュ」アーティファクトが電気駆動の機械に与える奇妙な効果について詳述されている。「フラッシュ」アーティファクトに真空中で正の電流を流すと、様々な大きさの異常磁場が発生し、モーターが速く回り、CPUがオーバークロックし、機械式時計さえも速く動くようになる。実験記録には、異常磁場を長時間維持すると高熱と摩擦が発生し、機械が焼損する傾向があると記されており、論文の大部分は、このような挙動を引き起こす原因についての推測にとどまっている。最近の有力な説は、量子レベルの影響により電気の流れや磁気の強さが増すというものだ。しかし、このような説は未確認である。論文の真ん中には、実験に使われたアーティファクトの格納庫の構造を詳しく説明した図が掲載されている。\n\n
+			%c[ui_gray_3]特性:\n
+			%c[d_green] ・%c[ui_gray_2]資料\n
+			%c[d_blue] ・%c[ui_gray_2]クラフトレシピ\n
+			%c[d_blue] ・%c[ui_gray_2]高価値\n</text>
+	</string>
+	
+	<string id="st_power">
+		<text>残電力:</text>
+	</string>
+	<string id="st_equipped_supply">
+		<text>装備中の補助電源:</text>
+	</string>
+	<string id="st_equipped_none">
+		<text>なし</text>
+	</string>
+	<string id="st_charge_exo">
+		<text>外骨格を充電する</text>
+	</string>
+	<string id="st_install_psu">
+		<text>インストール</text>
+	</string>
+	<string id="st_remove_psu">
+		<text>外骨格用電源を取り外す</text>
+	</string>
+	<string id="kb_power">
+		<text>パワーを起動</text>
+	</string>
+	
+	<string id="st_dot">
+		<text>・</text>
+	</string>
+	<string id="article_exo">
+		<text>稼働中の外骨格</text>
+	</string>
+	<string id="article_exo_text">
+		<text>
+			%c[pda_white]Powered Exoskeletons \n \n %c[ui_gray_1] 
+			外骨格はそれぞれ独自の電源を持つようになります。外骨格が効果的に動き回るためには、パワーレベルを維持する必要があります。
+			\n \n%c[pda_blue]外骨格バッテリー%c[ui_gray_1]
+			\n 外骨格の電源は、商人から購入したり、世界で見つけたバッテリーで充電することができます。バッテリーはデフォルトで電力を100％回復させるため、アップグレードされていない外骨格を完全に充電するのに十分です。
+			\n 外骨格のパワーは移動に伴って消耗し、スプリントするとより速くなります。パワーが0％になると、外骨格を外さない限りスピードが出なくなります。
+			\n \n%c[pda_green]外部電源%c[ui_gray_1]
+			\n 外骨格は、購入やクラフト、戦利品から得られる外部電源でアップグレードできます。
+			\n 電源を装備するには、電源をアーマーにドラッグ＆ドロップするか、外骨格が装備されている状態で電源を右クリックします。
+			\n 外部電源は、外骨格のエネルギー容量を100％以上増加させ、高レベルのバージョンは、ユニークな利点と力を付与します。
+		</text>
+	</string>
+	
+	<string id="st_err_none">
+		<text>[SYSCTL] 注意: 機能が見つかりません</text>
+	</string>
+	<string id="st_err_power">
+		<text>[SYSCTL] 注意: 電力不足</text>
+	</string>
+	<string id="st_err_cooldown">
+		<text>[SYSCTL] 注意: システム温度が安全なしきい値を超えています</text>
+	</string>
+	<string id="st_ok_cooldown">
+		<text>[SYSCTL] 報告: システム温度が安全なしきい値以下です</text>
+	</string>
+	<string id="st_act_tank">
+		<text>[SYSCTL] 報告: 重力バリア作動</text>
+	</string>
+	<string id="st_act_sprint">
+		<text>[SYSCTL] 報告: モーターオーバークロック作動</text>
+	</string>
+
+	<string id="st_low_power">
+		<text>[SYSCTL] 注意: バッテリー残りわずか</text>
+	</string>
+	
+	<string id="ui_mcm_menu_exo">
+		<text>Powered Exos</text>
+	</string>
+	<string id="ui_mcm_exo_title">
+		<text>Powered Exoskeletons</text>
+	</string>
+	<string id="ui_mcm_exo_drain">
+		<text>外骨格の電源消費量</text>
+	</string>
+	<string id="ui_mcm_exo_sprint_drain">
+		<text>外骨格のスプリント時の電源消費量</text>
+	</string>
+	<string id="ui_mcm_exo_debug">
+		<text>デバッグのログ出力</text>
+	</string>
+	<string id="ui_mcm_exo_drain_desc">
+		<text>外骨格の電源消費倍率</text>
+	</string>
+	<string id="ui_mcm_exo_sprint_drain_desc">
+		<text>外骨格のスプリント時の電源消費倍率</text>
+	</string>
+	<string id="ui_mcm_exo_debug_desc">
+		<text>コンソールにデバッグログを出力する</text>
+	</string>
+
+	<string id="ui_mcm_menu_exo_power">
+		<text>外骨格電源のスイッチ</text>
+	</string>
+	<string id="ui_mcm_exo_power_keybind">
+		<text>外骨格関連パワーをONにするキー</text>
+	</string>
+	<string id="ui_mcm_exo_power_keybind_desc">
+		<text>外骨格関連のパワーを発動するために使用します。</text>
+	</string>
+</string_table>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_glock17">
+		<text>Glock 17, Gen 4</text>
+	</string>
+	<string id="st_wpn_glock17_short">
+		<text>Glock 17</text>
+	</string>
+	<string id="st_wpn_glock17_descr">
+		<text>ポリマーフレームの短反動式拳銃の名作、グロック17は、オーストリアのメーカー、グロックGes.m.b.Hが設計・製造したGen4のバリエーションで、信頼性と安全性のテストでトップ成績を収め、1982年までオーストリアの軍や警察で使用された銃器である。それ以来、ウクライナの特殊部隊用をはじめ、多くの国に輸出されている。軽量で反動が少なく、口径が9mmであることから、各派閥で非常に人気の高いピストルである。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] GemTech サプレッサー (改造後に装着可能)</text>
+	</string>
+
+	<string id="st_up_glock17_45acp_name">
+		<text>Change of calibre to .45 ACP</text>
+	</string>
+
+	<string id="st_wpn_xd9">
+		<text>Springfield Armory XD Mod.2 Sub-Compact</text>
+	</string>
+	<string id="st_wpn_xd9_short">
+		<text>XD9</text>
+	</string>
+	<string id="st_wpn_xd9_descr">
+		<text>Springfield Armory XDは、クロアチアのHS Produkt社が製造するポリマーフレーム、ストライカーファイヤーのHS2000のアメリカ版といえるモデルだ。このモデルは、HS2000自体を小型化し、隠し持つのに適したバージョンMod.2、サブコンパクトバリエーションである。このモデルは、オリジナルと比較して大きく変わった点として、「グリップゾーン」という人間工学に基づいた改良が施されていることが挙げられる。小型で小容量の銃でありながら、低反動で正確な射撃が可能なこの銃は、多くの人に好まれている。 \n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] GemTech サプレッサー</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,26 @@
+<string_table>
+    <string id="ui_mcm_menu_haru_quick_melee">
+        <text>クイックメレー</text>
+    </string>
+    <string id="ui_mcm_haru_quick_melee_keybind_knife">
+        <text>クイックメレーキー</text>
+    </string>
+    <string id="ui_mcm_haru_quick_melee_keybind_desc">
+        <text>クイックメレーに使用するキーを変更します。デフォルトのキーはCです。キーの動作は関連するMCMタブで変更することができます。</text>
+    </string>
+    <string id="ui_mcm_haru_quick_melee_mcm">
+        <text>MCMをアップデートすると、この機能が表示されます。キーのデフォルトはC</text>
+    </string>
+    <string id="ui_mcm_haru_quick_melee_use_only_fav">
+        <text>お気に入りに設定した接近武器のみ使用する</text>
+    </string>
+    <string id="ui_mcm_haru_quick_melee_use_only_fav_desc">
+        <text>インベントリから近接武器を使用できるオプションを有効にしている場合、お気に入りとしてマークされているナイフのみが選択されるようにします。</text>
+    </string>
+    <string id="ui_mcm_haru_quick_melee_work_from_inv">
+        <text>近接武器をインベントリから使用する</text>
+    </string>
+    <string id="ui_mcm_haru_quick_melee_work_from_inv_desc">
+        <text>スロットに接近武器が存在しない場合、インベントリ内から接近武器を使用するようにします。</text>
+    </string>
+</string_table>

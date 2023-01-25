@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<string id="st_brewed_coffee">
+		<text>淹れたてのコーヒー</text>
+	</string>
+	<string id="st_brewed_coffee_descr">
+		<text>淹れたてのコーヒー、まだ熱いうちに飲もう。\n \n
+		%c[ui_gray_3]特性:\n
+		</text>
+	</string>
+	
+</string_table>

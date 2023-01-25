@@ -1,0 +1,32 @@
+<string_table>
+	<string id="st_player_skills_strength">
+		<text>筋力スキル</text>
+	</string>
+	<string id="st_player_skills_endurance">
+		<text>持久力スキル</text>
+	</string>
+	<string id="st_player_skills_survival">
+		<text>サバイバルスキル</text>
+	</string>
+	<string id="st_player_skills_scavenging">
+		<text>スカベンジスキル</text>
+	</string>
+    <string id="st_haruka_skills_main">
+		<text>キャラクタースキル</text>
+	</string>
+	<string id="st_new_level_endurance">
+		<text>$clr_green・$clr_whiteスタミナ消費量の改善\n$clr_cyan・$clr_white移動速度の向上</text>
+	</string>
+	<string id="st_new_level_strength">
+		<text>$clr_red・$clr_white近接攻撃ダメージの向上\n$clr_yellow・$clr_white最大荷重の上昇</text>
+	</string>
+	<string id="st_new_level_scavenging">
+		<text>$clr_purple・$clr_whiteスカベンジングスキルが向上</text>
+	</string>
+	<string id="st_new_level_survival">
+		<text>$clr_cyan・$clr_white耐性の向上\n$clr_purple・$clr_whiteハンティングスキルの向上</text>
+	</string>
+	<string id="st_new_level_header">
+		<text>$nameはlvl.$levelになった</text>
+	</string>
+</string_table>

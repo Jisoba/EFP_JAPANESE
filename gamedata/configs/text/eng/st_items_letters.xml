@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_recipe_basic_1">
+    <text>サバイバルガイド（第1号）</text>
+  </string>
+  <string id="st_recipe_basic_2">
+    <text>サバイバルガイド（第2号）</text>
+  </string>
+  <string id="st_recipe_basic_3">
+    <text>サバイバルガイド（第3号）</text>
+  </string>
+  <string id="st_recipe_basic_4">
+    <text>サバイバルガイド（第4号）</text>
+  </string>
+  <string id="st_recipe_basic_descr">
+    <text>このガイドでは、基本的なサバイバルスキルについて詳しく説明し、一般的なサバイバルキットの概要が記載されており後の章では、一般的な素材から基本的な装備品を作成する方法について説明がある。
+
+               \n%c[ui_gray_3]特性 : 
+                %c[d_green] ・ 参考情報
+                %c[d_blue] ・ クラフトレシピ
+                %c[d_blue] ・ 貴重品</text>
+  </string>
+  <string id="st_recipe_advanced_1">
+    <text>機械工学マニュアル（第1版）</text>
+  </string>
+  <string id="st_recipe_advanced_2">
+    <text>機械工学マニュアル（第2版）</text>
+  </string>
+  <string id="st_recipe_advanced_3">
+    <text>機械工学マニュアル（第3版）</text>
+  </string>
+  <string id="st_recipe_advanced_4">
+    <text>機械工学マニュアル（第4版）</text>
+  </string>
+  <string id="st_recipe_advanced_descr">
+    <text>機械工学マニュアル。このような本を読んで専門知識を広げ、ゾーン内の施設や工場についてもっと学ぶ者もおり基本的な機械および電気機器に関する詳細が書かれている。
+
+               \n%c[ui_gray_3]特性 : 
+                %c[d_green] ・ 参考情報
+                %c[d_blue] ・ クラフトレシピ
+                %c[d_blue] ・ 貴重品</text>
+  </string>
+  <string id="st_recipe_expert_1">
+    <text>産業工学マニュアル（第1版）</text>
+  </string>
+  <string id="st_recipe_expert_2">
+    <text>産業工学マニュアル（第2版）</text>
+  </string>
+  <string id="st_recipe_expert_3">
+    <text>産業工学マニュアル（第3版）</text>
+  </string>
+  <string id="st_recipe_expert_4">
+    <text>産業工学マニュアル（第4版）</text>
+  </string>
+  <string id="st_recipe_expert_descr">
+    <text>産業工学マニュアルはかなり有益で、オペアンプ、半導体ダイオード、バイポーラ接合トランジスタ、電界効果トランジスタといった現代の電子機器の動作について説明が記載されているこのマニュアルの後半部分では、電気機器のトラブルシューティングについて記載されている。
+
+               \n%c[ui_gray_3]特性 : 
+                %c[d_green] ・ 参考情報
+                %c[d_blue] ・ クラフトレシピ
+                %c[d_blue] ・ 貴重品</text>
+  </string>
+  <string id="st_recipe_drug_1">
+    <text>ドラッグレシピ#1</text>
+  </string>
+  <string id="st_recipe_drug_2">
+    <text>ドラッグレシピ#2</text>
+  </string>
+  <string id="st_recipe_drug_3">
+    <text>ドラッグレシピ#3</text>
+  </string>
+  <string id="st_recipe_drug_4">
+    <text>ドラッグレシピ#4</text>
+  </string>
+  <string id="st_recipe_drug_descr">
+    <text>本から切り取られた2、3のページ。青いインクで手書きされ環境要因の影響で汚くなっているため、テキストが非常にわかりにくくなっている。手書きのメモには、一般的な医薬品を使用してさまざまな種類のドラッグや医薬品を作成する方法が記載されている。
+
+               \n%c[ui_gray_3]特性 : 
+                %c[d_green] ・ 参考情報
+                %c[d_blue] ・ クラフトレシピ
+                %c[d_blue] ・ 貴重品</text>
+  </string>
+  <string id="st_recipe_ammo_1">
+    <text>弾薬安全ガイド（第1版）</text>
+  </string>
+  <string id="st_recipe_ammo_2">
+    <text>弾薬安全ガイド（第2版）</text>
+  </string>
+  <string id="st_recipe_ammo_3">
+    <text>弾薬安全ガイド（第3版）</text>
+  </string>
+  <string id="st_recipe_ammo_4">
+    <text>弾薬安全ガイド（第4版）</text>
+  </string>
+  <string id="st_recipe_ammo_descr">
+    <text>すべてのストーカーは、銃の選び方だけでなく、弾薬の選び方も知っておくべきである。この手引書では、さまざまな種類の弾薬についての情報と、カートリッジの基本的な構成要素についての詳細な見解を提供している。
+
+               \n%c[ui_gray_3]特性 : 
+                %c[d_green] ・ 参考情報
+                %c[d_blue] ・ クラフトレシピ
+                %c[d_blue] ・ 貴重品</text>
+  </string>
+  <string id="st_recipe_cooking_1">
+    <text>シェフのノート</text>
+  </string>
+  <string id="st_recipe_cooking_descr">
+    <text>見開きに手書きされた用紙には、ある特定温度でミュータントの肉をアルコールに漬け込む詳細なレシピが記されている。このノートによれば、放射能汚染された肉の悪影響を低減する。この著者は熟練のゾーン生活者の様に見える。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_green] ・ 参考情報
+                %c[d_blue] ・ クッキングレシピ
+                %c[d_blue] ・ 貴重品</text>
+  </string>
+  <string id="st_memoirs_1_of_2_name">
+    <text>ストーカーの日記（1/2）</text>
+  </string>
+  <string id="st_memoirs_1_of_2_desc">
+    <text>古く色あせたノートは、損傷から保護するためカバーが掛けられていた。しかし、結局は時間の経過に耐えることができず、現在はテキストのごく一部しか判読できない。
+
+               \n%c[ui_gray_2]特性 : 
+                %c[d_cyan] ・ 私物</text>
+  </string>
+  <string id="st_memoirs_2_of_2_name">
+    <text>ストーカーの日記（2/2）</text>
+  </string>
+  <string id="st_memoirs_2_of_2_desc">
+    <text>古く色あせたノートは、損傷から保護するためカバーが掛けられていた。しかし、結局は時間の経過に耐えることができず、現在はテキストのごく一部しか判読できない。
+
+               \n%c[ui_gray_2]特性 : 
+                %c[d_cyan] ・ 私物</text>
+  </string>
+  <string id="st_freedom_manual_1_of_2_name">
+    <text>尋問のテクニック : 基本編（1/2）</text>
+  </string>
+  <string id="st_freedom_manual_1_of_2_desc">
+    <text>この教育用折りたたみ冊子は、右上隅に大きくFreedamの記章が印刷され、ひざまずいている人物に拳銃を突付けているシンプルなイラストが描かれている。「尋問のテクニック : 基本編」と題され、派閥の典型的でゆったりとしたスラングで記述されている。
+
+               \n%c[ui_gray_2]特性 : 
+                %c[d_cyan] ・ 私物</text>
+  </string>
+  <string id="st_freedom_manual_2_of_2_name">
+    <text>尋問のテクニック : 基本編（2/2）</text>
+  </string>
+  <string id="st_freedom_manual_2_of_2_desc">
+    <text>この教育用折りたたみ冊子は、右上隅に大きくFreedamの記章が印刷され、ひざまずいている人物に拳銃を突付けているシンプルなイラストが描かれている。「尋問のテクニック : 基本編」と題され、派閥の典型的でゆったりとしたスラングで記述されている。
+
+               \n%c[ui_gray_2]特性 : 
+                %c[d_cyan] ・ 私物</text>
+  </string>
+  <string id="st_stalker_letter_1_of_2_name">
+    <text>回顧録（1/2）</text>
+  </string>
+  <string id="st_stalker_letter_1_of_2_desc">
+    <text>回想録から破りとられた数枚のページ。青いインクで手書きされているが過酷な環境のせいかシミだらけで汚れ、そのせいで内容は非常に読みづらい。作者不明。
+
+               \n%c[ui_gray_2]特性 : 
+                %c[d_cyan] ・ 私物</text>
+  </string>
+  <string id="st_stalker_letter_2_of_2_name">
+    <text>回顧録（2/2）</text>
+  </string>
+  <string id="st_stalker_letter_2_of_2_desc">
+    <text>回想録から破りとられた数枚のページ。青いインクで手書きされているが過酷な環境のせいかシミだらけで汚れ、そのせいで内容は非常に読みづらい。作者不明。
+
+               \n%c[ui_gray_2]特性 : 
+                %c[d_cyan] ・ 私物</text>
+  </string>
+  <string id="st_ecologist_report_1_of_3_name">
+    <text>歩く死体の調査報告書39B改訂2版（3ページのうちの1ページ目）</text>
+  </string>
+  <string id="st_ecologist_report_1_of_3_desc">
+    <text>機械印刷された書類で、Ecologist調査チームの記章が押印されている。厳密に機密として分類され、以下によって署名された。
+
+               \n%c[ui_gray_2]特性 : 
+                %c[d_cyan] ・ 科学的アイテム
+                %c[d_cyan] ・ 私物</text>
+  </string>
+  <string id="st_ecologist_report_2_of_3_name">
+    <text>歩く死体の調査報告書39B改訂2版（3ページのうちの2ページ目）</text>
+  </string>
+  <string id="st_ecologist_report_2_of_3_desc">
+    <text>機械印刷された書類で、Ecologist調査チームの記章が押印されている。厳密に機密として分類され、以下によって署名された。
+
+               \n%c[ui_gray_2]特性 : 
+                %c[d_cyan] ・ 科学的アイテム
+                %c[d_cyan] ・ 私物</text>
+  </string>
+  <string id="st_ecologist_report_3_of_3_name">
+    <text>歩く死体の調査報告書39B改訂2版（3ページのうちの3ページ目）</text>
+  </string>
+  <string id="st_ecologist_report_3_of_3_desc">
+    <text>機械印刷された書類で、Ecologist調査チームの記章が押印されている。厳密に機密として分類され、以下によって署名された。
+
+               \n%c[ui_gray_2]特性 : 
+                %c[d_cyan] ・ 科学的アイテム
+                %c[d_cyan] ・ 私物</text>
+  </string>
+  <string id="st_monolith_prayer_1_of_3_name">
+    <text>Monolithへの祈り（1/3）</text>
+  </string>
+  <string id="st_monolith_prayer_1_of_3_desc">
+    <text>上下に連なるいくつかの章から構成された無題の文書。Monolithへの頻繁な言及は書かれた文章は宗教的な性質を示している。この紙は非常によく保存されているので、紙の状態が悪化しないように細心の注意を払って扱われていたことがわかる。
+
+               \n%c[ui_gray_2]特性 : 
+                %c[d_cyan] ・ 私物</text>
+  </string>
+  <string id="st_monolith_prayer_2_of_3_name">
+    <text>Monolithへの祈り（2/3）</text>
+  </string>
+  <string id="st_monolith_prayer_2_of_3_desc">
+    <text>上下に連なるいくつかの章から構成された無題の文書。Monolithへの頻繁な言及は書かれた文章は宗教的な性質を示している。この紙は非常によく保存されているので、紙の状態が悪化しないように細心の注意を払って扱われていたことがわかる。
+
+               \n%c[ui_gray_2]特性 : 
+                %c[d_cyan] ・ 私物</text>
+  </string>
+  <string id="st_monolith_prayer_3_of_3_name">
+    <text>Monolithへの祈り（3/3）</text>
+  </string>
+  <string id="st_monolith_prayer_3_of_3_desc">
+    <text>上下に連なるいくつかの章から構成された無題の文書。Monolithへの頻繁な言及は書かれた文章は宗教的な性質を示している。この紙は非常によく保存されているので、紙の状態が悪化しないように細心の注意を払って扱われていたことがわかる。
+
+               \n%c[ui_gray_2]特性 : 
+                %c[d_cyan] ・ 私物</text>
+  </string>
+  <string id="st_monolithian_thoughts_name">
+    <text>Monolith信者の手紙</text>
+  </string>
+  <string id="st_monolithian_thoughts_desc">
+    <text>手書きの一枚紙。書き始めは、まるで重度の精神障害者が書いたかのように苦しみと混沌のごちゃ混ぜまぜになった乱雑な文章だ。興味深いことに、下段の行に進むほど、文章と文字ははより明瞭になり始め、最後の単語はほぼ完璧な、機械のような精度で書かれている。
+
+               \n%c[ui_gray_2]特性 : 
+                %c[d_cyan] ・ 私物</text>
+  </string>
+  <string id="st_letter_to_outside_name">
+    <text>ナタリーへの手紙</text>
+  </string>
+  <string id="st_letter_to_outside_desc">
+    <text>ゾーン外の誰か、おそらく妻や恋人にストーカーが書いたらしい手紙。あなたがそれを手に持っているという事実は、手紙が意図された受取人に決して届かなかったことを示している。
+
+               \n%c[ui_gray_2]特性 : 
+                %c[d_cyan] ・ 私物</text>
+  </string>
+  <string id="st_letter_military_stalker_name">
+    <text>Militaryのストーカーのメモ</text>
+  </string>
+  <string id="st_letter_military_stalker_desc">
+    <text>スタッシュで見つかったメモ。これがなぜ書かれたのか判断するのは難しいが、おそらく誰かが長くて退屈な夜の暇つぶしに書き、キャンプファイヤーに投げ込むのを止めて残すことにした結果であろう。
+
+               \n%c[ui_gray_2]特性 : 
+                %c[d_cyan] ・ 私物</text>
+  </string>
+  <string id="st_letter_mercenary_name">
+    <text>Mercenaryのメモ</text>
+  </string>
+  <string id="st_letter_mercenary_desc">
+    <text>Mercenaryのひとりによって書かれたメモ。彼がゾーンでの活動に関するいくつかの考えを書き残した物のようだが、なぜ書いたかは不明だ。
+
+               \n%c[ui_gray_2]特性 : 
+                %c[d_cyan] ・ 私物</text>
+  </string>
+  <string id="st_letter_military_log_name">
+    <text>通信ログ／MSRC作戦／2014年5月4日 18:36:21</text>
+  </string>
+  <string id="st_letter_military_log_desc">
+    <text>ゾーンに駐留するMilitary部隊間の無線通信を印刷したもの。SKAT隊員のひとりが持っていたということは、おそらく調査データの持ち出しなどの秘密工作に関わっていたのだろう。
+
+               \n%c[ui_gray_2]特性 : 
+                %c[d_cyan] ・ 私物</text>
+  </string>
+  <string id="st_letter_stalker_letter_3_name">
+    <text>ニコライへの手紙</text>
+  </string>
+  <string id="st_letter_stalker_letter_3_desc">
+    <text>ニコライに宛てた手書きの手紙。二人のストーカーの間で交わされた会話の一部と思われる。ゾーン内での手紙のやりとりは、主にPDAを使ったメッセージで行われるが、プライベートなことや友人同士の場合は、昔ながらの方法でやりとりをしたいという人もいる。これらの手紙は、ガイドのように最も困難で危険な仕事を任されている配達人に渡される。手紙が相手に届くまでには数日かかることが多いが、それでもメッセージを傍受される可能性はPDA通信の場合よりもはるかに低い。配達人という職業は、ストーカー仲間の間では非常に評価が高く、ストーカー コミュニティの中で重要な影響力を持つ立場にある。手紙にはこう書かれている。
+
+               \n%c[ui_gray_2]特性 : 
+                %c[d_cyan] ・ 私物</text>
+  </string>
+</string_table>

@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_prt_i_ammo">
+    <text>弾薬の部品</text>
+  </string>
+  <string id="st_prt_i_ammo_descr">
+    <text>良い物品でも、カートリッジ内のたった一発の不良弾薬が原因で好ましくない場面に遭遇する可能性もあり、それどころか不運なストーカーは重要な場面で銃が弾詰まりを起こし、考えられる限りの最悪な状況に陥る場合もある。これらの弾薬部品は他の異なる弾薬を修理するために再利用が可能なため、ストーカーたちが修理用の予備として好んで保管する。</text>
+  </string>
+  <string id="st_prt_i_paper">
+    <text>ペーパーシート</text>
+  </string>
+  <string id="st_prt_i_paper_descr">
+    <text>シルクコーティングされた破れたシート。ゾーンのような場所でも、汚れを拭き取ったり食品を包んだりと、あらゆる場面に使用出来る。</text>
+  </string>
+  <string id="st_prt_i_textolite">
+    <text>基板</text>
+  </string>
+  <string id="st_prt_i_textolite_descr">
+    <text>繊維状の布地とポリマー結合剤を基礎とするいくつかの層状のプラスチック（ベークライト、ポリエステル樹脂、エポキシ樹脂など）。適切なスキルがあれば、修理する際、非常に役に立つ。</text>
+  </string>
+  <string id="st_textile_patch_b">
+    <text>布生地</text>
+  </string>
+  <string id="st_textile_patch_b_descr">
+    <text>ごくありふれた布で、衣類の補修の他、銃器に残った洗浄剤や油分を拭き取ったりする。補修時には、ごく普通の針や糊を使用して適用する。\n</text>
+  </string>
+  <string id="st_textile_patch_m">
+    <text>軍用生地</text>
+  </string>
+  <string id="st_textile_patch_m_descr">
+    <text>衣類や、軽装甲服の修理に使用できる、軍規格繊維の生地。比較的安価で融通が効くためか、ストーカーたちからの評判も高く、良く使われている。適用するには普通の裁縫道具か、特別な糊が必要。武器整備時、染み出た潤滑油の拭き取りにも使用できる。\n </text>
+  </string>
+  <string id="st_textile_patch_e">
+    <text>強化軍用生地</text>
+  </string>
+  <string id="st_textile_patch_e_descr">
+    <text>ケプラーパッドで補強された厚い織物。中量アーマー、重量アーマーを修理 補修するのに使う。複数の損傷をカバーするのに十分な大きさがあり、適用するには高度な裁縫道具と接着剤が必要。銃器への注油や清掃などにも使え、硬さを増した繊維のおかげで、通常は届かない部分も作業ができる。\n </text>
+  </string>
+  <string id="st_prt_i_capacitors">
+    <text>コンデンサのパック</text>
+  </string>
+  <string id="st_prt_i_capacitors_descr">
+    <text>電気コンデンサは電気を蓄えることが出来る。このシンプルなコンデンサは、２つの金属板とそれらの間の誘導体で構成されている。ほとんどの電気製品では、電気エネルギーの保存とノイズの補助、代替電流を安定化する重要な部品である。これらの部品は物資の少ないゾーンでは非常にレアでありあまりお目にかかれないが、有用な物品だ。</text>
+  </string>
+  <string id="st_prt_i_transistors">
+    <text>トランジスタの箱</text>
+  </string>
+  <string id="st_prt_i_transistors_descr">
+    <text>高品質のバイポーラトランジスタで、このトランジスタは３つの半導体部品（ベース、エミッタ、コレクタ）で構成されており、これらが一緒になって電気振動の変換と増幅を行う。このような奇跡がこのゾーンにもたらされるなら、それは周辺の電気系技術者の夢となるだろう。</text>
+  </string>
+  <string id="st_prt_i_resistors">
+    <text>抵抗器の箱</text>
+  </string>
+  <string id="st_prt_i_resistors_descr">
+    <text>抵抗器は電子機器で見られる一般的な電子部品のひとつであり、ほかの部品が適切な電圧供給を受けて回路部品を通る電流を制限しバランスを取る。このボックスには、さまざまな抵抗値と許容値を備えた12から82Mオームまでの適切な抵抗器のセットが含まれている。</text>
+  </string>
+  <string id="st_prt_i_copper">
+    <text>銅線</text>
+  </string>
+  <string id="st_prt_i_copper_descr">
+    <text>電気技術的な銅線は、電気エネルギーの生産、伝送が行われ、すべての、設備、機械で実際に使用されている。純粋な形では取り出せることは稀だが必要であれば、一般的な古いラジオ、トランシーバー、その他の電子機器から簡単に取り出すことが出来る。</text>
+  </string>
+  <string id="st_prt_i_wood">
+    <text>木製の部品</text>
+  </string>
+  <string id="st_prt_i_wood_descr">
+    <text>幅の広い軽い杉の木片で主に家具、デッキ、ツールなどの屋外事業に使用される。白色の部品はゾーンのような場所ではそれほど有用ではなく、クラフトで使われる。</text>
+  </string>
+  <string id="st_prt_i_scrap">
+    <text>金属スクラップ</text>
+  </string>
+  <string id="st_prt_i_scrap_descr">
+    <text>小さな金属片の器具で、様々なグレードの鉄およびアルミニウム合金だ。現場で機材の修理に使用することが出来る。</text>
+  </string>
+  <string id="st_prt_i_fasteners">
+    <text>止金具</text>
+  </string>
+  <string id="st_prt_i_fasteners_descr">
+    <text>一握りのネジ、ワッシャー、ナット、釘、金属板の小片で、様々な種類とサイズがある。現場で機材の修理に使用することが出来る。</text>
+  </string>
+  <string id="st_prt_i_plastic">
+    <text>プラスチックフィルム</text>
+  </string>
+  <string id="st_prt_i_plastic_descr">
+    <text>低密度のポリエチレンフィルム製の小さなパックで、主に物品を小分けし保管袋として使用される。プラスチックフィルムは、様々な用途で使用され、部分的に破れてはいるものの、ポリエチレンの特性から、食品や医薬品の包装等に最適だ。</text>
+  </string>
+  <string id="st_prt_i_glass">
+    <text>ガラス片</text>
+  </string>
+  <string id="st_prt_i_glass_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_i_ceramic">
+    <text>セラミックベース</text>
+  </string>
+  <string id="st_prt_i_ceramic_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_i_leather">
+    <text>革のロール</text>
+  </string>
+  <string id="st_prt_i_leather_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_i_rubber">
+    <text>ゴム</text>
+  </string>
+  <string id="st_prt_i_rubber_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_i_triggermechanism">
+    <text>引き金の部品</text>
+  </string>
+  <string id="st_prt_i_triggermechanism_descr">
+    <text>どの銃の物かは分からない引き金の部品。引き金の部品はどの銃も非常に似ており、削ったり調整することでほとんどの銃に代用が出来る。
+
+\n%c［ui_gray_2］特性 : 
+%c［d_cyan］ ・ 基本素材</text>
+  </string>
+  <string id="st_prt_i_spring">
+    <text>バネ</text>
+  </string>
+  <string id="st_prt_i_spring_descr">
+    <text>どの銃の物かは分からないが、引き金の部分、もしくは銃内部の小さなバネ。おそらくほとんどすべての小さなバネと置き換えることが出来るだろう。
+
+\n%c［ui_gray_2］特性 : 
+%c［d_cyan］ ・ 基本素材</text>
+  </string>
+  <string id="st_prt_i_pistolgrip">
+    <text>拳銃のグリップ</text>
+  </string>
+  <string id="st_prt_i_pistolgrip_descr">
+    <text>どの銃の物かは分からない、拳銃のグリップ。ゴムでコーティングされた柄は、調整および成形することでほぼ全ての銃に代替が出来る。
+
+\n%c［ui_gray_2］特性 : 
+%c［d_cyan］ ・ 基本素材</text>
+  </string>
+  <string id="st_barrel_1">
+    <text>18.5mmバレル［R］</text>
+  </string>
+  <string id="st_barrel_1_descr">
+    <text>ダブルバレルショットガンの18.5mmバレル。</text>
+  </string>
+  <string id="st_barrel_2">
+    <text>18.5mmバレル［R］</text>
+  </string>
+  <string id="st_barrel_2_descr">
+    <text>コック機構式ダブルバレルショットガンの18.5mmバレル。</text>
+  </string>
+  <string id="st_barrel_3">
+    <text>18.5mmバレル［K］</text>
+  </string>
+  <string id="st_barrel_3_descr">
+    <text>滑腔砲式ライフルの18.5mmバレル。</text>
+  </string>
+  <string id="st_barrel_4">
+    <text>7.62mmバレル［V］</text>
+  </string>
+  <string id="st_barrel_4_descr">
+    <text>7.62mmライフルのバレル。</text>
+  </string>
+  <string id="st_barrel_5">
+    <text>7.92mmバレル［V］</text>
+  </string>
+  <string id="st_barrel_5_descr">
+    <text>ドイツ製7.92mmライフルのバレル。</text>
+  </string>
+  <string id="st_barrel_6">
+    <text>9mmサプレッサー［AS/PP］</text>
+  </string>
+  <string id="st_barrel_6_descr">
+    <text>特殊用途用オートマチック9mmライフルのサプレッサーが組み込まれたバレル。</text>
+  </string>
+  <string id="st_barrel_7">
+    <text>7.62mmバレル［A］［V］</text>
+  </string>
+  <string id="st_barrel_7_descr">
+    <text>セミオートとオートマチック用7.62mmライフルのバレル。</text>
+  </string>
+  <string id="st_barrel_8">
+    <text>5.45mmバレル［A］</text>
+  </string>
+  <string id="st_barrel_8_descr">
+    <text>オートマチック用5.45mmライフルのバレル。</text>
+  </string>
+  <string id="st_barrel_9">
+    <text>5.56mmバレル［A］</text>
+  </string>
+  <string id="st_barrel_9_descr">
+    <text>オートマチック用5.56mmライフルのバレル。</text>
+  </string>
+  <string id="st_barrel_10">
+    <text>7.62mmバレル［P］</text>
+  </string>
+  <string id="st_barrel_10_descr">
+    <text>ガスレギュレーション式7.62mmライフルのバレル。</text>
+  </string>
+  <string id="st_barrel_11">
+    <text>9mmバレル［AS/PP］</text>
+  </string>
+  <string id="st_barrel_11_descr">
+    <text>特殊用途用オートマチック9mmライフルとPPライフルのバレル。</text>
+  </string>
+  <string id="st_barrel_12">
+    <text>7.62mmバレル［PP］</text>
+  </string>
+  <string id="st_barrel_12_descr">
+    <text>PPShサブマシンガンシステムの悪名高く、また伝説的なバレル。</text>
+  </string>
+  <string id="st_barrel_13">
+    <text>12.7×55mmバレル</text>
+  </string>
+  <string id="st_barrel_13_descr">
+    <text>オートマチック用12.7×55mmライフルのバレル。</text>
+  </string>
+  <string id="st_trigger_components_1">
+    <text>単射用撃鉄の引き金</text>
+  </string>
+  <string id="st_trigger_components_1_descr">
+    <text>単射用撃鉄の引き金部品。</text>
+  </string>
+  <string id="st_trigger_components_2">
+    <text>二点バースト用の引き金と撃鉄</text>
+  </string>
+  <string id="st_trigger_components_2_descr">
+    <text>デュアル機構用の引き金用の撃鉄で、オートマチック、セミオートマチック用のために設計された。</text>
+  </string>
+  <string id="st_trigger_components_3">
+    <text>三点バースト用の引き金と撃鉄</text>
+  </string>
+  <string id="st_trigger_components_3_descr">
+    <text>三点バースト用の引き金用の撃鉄で、オートマチック、二点バースト、セミオートマチック用のために設計されており、武器のデザインと強く結びついている。</text>
+  </string>
+  <string id="st_trigger_components_4">
+    <text>セミオートマチック用の引き金と撃針</text>
+  </string>
+  <string id="st_trigger_components_4_descr">
+    <text>セミオートマチック用の引き金と撃針</text>
+  </string>
+  <string id="st_trigger_components_5">
+    <text>二点バースト用の引き金と撃針</text>
+  </string>
+  <string id="st_trigger_components_5_descr">
+    <text>二点バースト用の引き金と撃針で、セミオートおよびオートで射撃が可能。</text>
+  </string>
+  <string id="st_trigger_components_6">
+    <text>引き金部分の撃鉄［R］</text>
+  </string>
+  <string id="st_trigger_components_6_descr">
+    <text>ダブルバレルショットガン用引き金部分の撃鉄部品。</text>
+  </string>
+  <string id="st_bolt_carrier_1">
+    <text>回転式ボルトロック付きスライドボルトキャリア［ロシア製］</text>
+  </string>
+  <string id="st_bolt_carrier_1_descr">
+    <text>東側国家の製造業が生産した回転式ボルトロック付きスライドボルトキャリア。</text>
+  </string>
+  <string id="st_bolt_carrier_2">
+    <text>回転式ボルトロック付きスライドボルトキャリア［ロシア製］</text>
+  </string>
+  <string id="st_bolt_carrier_2_descr">
+    <text>東側国家の製造業が生産した、特殊用途式オートマチック用回転式ボルトロック付きスライドボルトキャリア。</text>
+  </string>
+  <string id="st_bolt_carrier_3">
+    <text>回転式ボルトロック付きスライドボルトキャリア［NATO製］</text>
+  </string>
+  <string id="st_bolt_carrier_3_descr">
+    <text>NATO製の標準的な口径のオートマチック式小銃で使用される、縦方向にスライド式ロックターン付きブリーチブロック。</text>
+  </string>
+  <string id="st_bolt_carrier_4">
+    <text>ロックバイアス付きスライドボルトキャリア</text>
+  </string>
+  <string id="st_bolt_carrier_4_descr">
+    <text>ロックバイアス付きスライドボルトキャリア。</text>
+  </string>
+  <string id="st_bolt_carrier_5">
+    <text>ハーフフリースライドボルトキャリア</text>
+  </string>
+  <string id="st_bolt_carrier_5_descr">
+    <text>ローラーブレーキ付きハーフフリースライドボルトキャリア。</text>
+  </string>
+  <string id="st_bolt_carrier_6">
+    <text>ロックボルト付きスライドボルトキャリア</text>
+  </string>
+  <string id="st_bolt_carrier_6_descr">
+    <text>ロックバイアス付きスライドボルトキャリア。</text>
+  </string>
+  <string id="st_bolt_carrier_7">
+    <text>ロックウェッジ付きレバータイプボルトキャリア</text>
+  </string>
+  <string id="st_bolt_carrier_7_descr">
+    <text>ロックウェッジ付きレバータイプボルトキャリア。</text>
+  </string>
+  <string id="st_bolt_carrier_8">
+    <text>ダブルバレルショットガンのチョーク［R］</text>
+  </string>
+  <string id="st_bolt_carrier_8_descr">
+    <text>ダブルバレルショットガンのチョーク。</text>
+  </string>
+  <string id="st_bolt_carrier_9">
+    <text>ダブルバレルショットガンのチョーク［R］</text>
+  </string>
+  <string id="st_bolt_carrier_9_descr">
+    <text>ダブルバレルショットガンのチョーク。</text>
+  </string>
+  <string id="st_bolt_carrier_10">
+    <text>回転式ボルトロック付きスライドボルトキャリア［NATO製］</text>
+  </string>
+  <string id="st_bolt_carrier_10_descr">
+    <text>NATOの国々で生産される大口径オートマチック用ライフルの回転式ボルトロック付きスライドボルトキャリア。</text>
+  </string>
+  <string id="st_bolt_carrier_11">
+    <text>縦方向スライド式のスライディングフリーボルトキャリア［PP］</text>
+  </string>
+  <string id="st_bolt_carrier_11_descr">
+    <text>サブマシンガン用の縦方向スライド式のスライディングフリーボルトキャリア。</text>
+  </string>
+  <string id="st_bolt_1">
+    <text>ドロッピングブロックブリーチ［R］</text>
+  </string>
+  <string id="st_bolt_1_descr">
+    <text>滑空法式のショットガンと、ライフルレバーロック機構のドロッピングブロック部分（薬室を閉鎖する部品）。外観上、鎖栓は良好な状態で、強い操作を必要としない。</text>
+  </string>
+  <string id="st_bolt_2">
+    <text>回転式ロッキングヘッド［２ロック］［P］</text>
+  </string>
+  <string id="st_bolt_2_descr">
+    <text>ロックターン付きの縦方向スライド式のブリーチブロックを備えたマシンガンの、２つのストッパーを付属した回転式ロッキングヘッド部分。外見上、良好な状態であり、問題無く使用出来そうだ。</text>
+  </string>
+  <string id="st_bolt_3">
+    <text>回転式ロッキングヘッド［２ロック］［K］</text>
+  </string>
+  <string id="st_bolt_3_descr">
+    <text>ロックターン付きの縦方向スライド式ブリーチブロックを備えた滑空砲式セミオート、オートマチック用のストッパーが付属した回転式ロッキングヘッド部分。</text>
+  </string>
+  <string id="st_bolt_4">
+    <text>回転式ロッキングヘッド［２ロック］［V］</text>
+  </string>
+  <string id="st_bolt_4_descr">
+    <text>ロッキングバイアス付きの縦方向スライド式ブリーチブロックと、ボルトロック付きの縦方向スライド式閉鎖器を備えたライフルの、２つのストッパーを備えた回転式ロッキングヘッド部分。</text>
+  </string>
+  <string id="st_bolt_5">
+    <text>回転式ロッキングヘッド［３ロック］［V］</text>
+  </string>
+  <string id="st_bolt_5_descr">
+    <text>ロックターン付きの縦方向スライド式ブリーチブロックを備えた、ライフルの２つのストッパーが付属した回転式ロッキングヘッド部分。</text>
+  </string>
+  <string id="st_bolt_6">
+    <text>回転式ロッキングヘッド［２ロック］［A］</text>
+  </string>
+  <string id="st_bolt_6_descr">
+    <text>ロックターン付きの縦方向スライド式のブリーチブロックを備えたマシンガンの、２つのストッパーを付属した回転式ロッキングヘッド部分。</text>
+  </string>
+  <string id="st_bolt_7">
+    <text>回転式ロッキングヘッド［４ロック］［AS］</text>
+  </string>
+  <string id="st_bolt_7_descr">
+    <text>ロックターン付きの縦方向スライド式のブリーチブロックを備えた特別性オートマチックライフルの、４つのストッパーを付属した回転式ロッキングヘッド部分。</text>
+  </string>
+  <string id="st_bolt_8">
+    <text>回転式ロッキングヘッド［６ロック］［A］</text>
+  </string>
+  <string id="st_bolt_8_descr">
+    <text>ロックターン付きの縦方向スライド式のブリーチブロックを備えたマシンガンの、６つのストッパーを付属した回転式ロッキングヘッド部分。</text>
+  </string>
+  <string id="st_bolt_9">
+    <text>回転式ロッキングヘッド［７ロック］［A］</text>
+  </string>
+  <string id="st_bolt_9_descr">
+    <text>ロックターン付きの縦方向スライド式のブリーチブロックを備えたマシンガンの、７つのストッパーを付属した回転式ロッキングヘッド部分。</text>
+  </string>
+  <string id="st_bolt_10">
+    <text>回転式ロッキングヘッド［８ロック］［A］</text>
+  </string>
+  <string id="st_bolt_10_descr">
+    <text>ロックターン付きの縦方向スライド式のブリーチブロックを備えたマシンガンの、８つのストッパーを付属した回転式ロッキングヘッド部分。</text>
+  </string>
+  <string id="st_bolt_11">
+    <text>強力なダブルバレルショットガンの撃鉄［R］</text>
+  </string>
+  <string id="st_bolt_11_descr">
+    <text>ダブルバレルショットガンの左右に設置された強力な撃鉄部分。</text>
+  </string>
+  <string id="st_bolt_12">
+    <text>ハンマー式ダブルバレルショットガンの撃鉄［R］</text>
+  </string>
+  <string id="st_bolt_12_descr">
+    <text>水平二連式ショットガンの左右に設置されたハンマー部分。</text>
+  </string>
+  <string id="st_bolt_13">
+    <text>回転式ロッキングヘッド［２ロック］［A］［NATO製］</text>
+  </string>
+  <string id="st_bolt_13_descr">
+    <text>NATO製の、２つのストッパーを付属した回転式ロッキングヘッド付き大口径オートマチック用ライフルの回転式ボルトロック付きボルトキャリア。</text>
+  </string>
+  <string id="st_bolt_14">
+    <text>回転式ロッキングヘッド ［А/PP］</text>
+  </string>
+  <string id="st_bolt_14_descr">
+    <text>PPまたは自動ライフルからロックヘッドを回転させ、縦方向に半フリーのスライド式ボルトキャリアを使用する。</text>
+  </string>
+  <string id="st_bolt_15">
+    <text>メインスプリングのドラマー［PP］</text>
+  </string>
+  <string id="st_bolt_15_descr">
+    <text>どこかの国産PP製のメインスプリングを使ったドラマー。</text>
+  </string>
+  <string id="st_bolt_16">
+    <text>メインスプリング付きドラマー［PP］［NATO製］</text>
+  </string>
+  <string id="st_bolt_16_descr">
+    <text>どこかの輸入品PPの主ゼンマイを縦横スライド式フリーボルトキャリアにしたドラマー。</text>
+  </string>
+  <string id="st_bolt_17">
+    <text>メインスプリング付きドラマー ［PP］［PPSh］</text>
+  </string>
+  <string id="st_bolt_17_descr">
+    <text>シュパギンのシステムのPPのように、ソ連のいくつかのPPから主ゼンマイを取り出して、長手方向にスライドするフリーボルトキャリアを持つドラマー。</text>
+  </string>
+  <string id="st_gas_tube_1">
+    <text>ガスチューブ［K］</text>
+  </string>
+  <string id="st_gas_tube_1_descr">
+    <text>カービン用の滑らかなガスチューブ。</text>
+  </string>
+  <string id="st_gas_tube_2">
+    <text>ハンドガード［R］</text>
+  </string>
+  <string id="st_gas_tube_2_descr">
+    <text>ポンプアクション式ショットガン用のハンドガード。</text>
+  </string>
+  <string id="st_gas_tube_3">
+    <text>ガスチューブ［V］</text>
+  </string>
+  <string id="st_gas_tube_3_descr">
+    <text>自動装填式ライフルのガスチューブ。</text>
+  </string>
+  <string id="st_gas_tube_4">
+    <text>ガスチューブ［AS/PP］</text>
+  </string>
+  <string id="st_gas_tube_4_descr">
+    <text>特殊機構用オートマチック用9mmライフルのガスチューブ。</text>
+  </string>
+  <string id="st_gas_tube_5">
+    <text>ガスチューブ［A］［V］［ロシア製］</text>
+  </string>
+  <string id="st_gas_tube_5_descr">
+    <text>セミオートおよびオートマチック用ライフルのガスチューブ（ロシア製）。</text>
+  </string>
+  <string id="st_gas_tube_6">
+    <text>ガスチューブ［A］［V］［NATO製］</text>
+  </string>
+  <string id="st_gas_tube_6_descr">
+    <text>セミオートおよびオートマチック用ライフルのガスチューブ（NATO製）。</text>
+  </string>
+  <string id="st_gas_tube_7">
+    <text>ガスチューブ［P］</text>
+  </string>
+  <string id="st_gas_tube_7_descr">
+    <text>マシンガン用のガスチューブ。</text>
+  </string>
+  <string id="st_gas_tube_8">
+    <text>エジェクター［V］</text>
+  </string>
+  <string id="st_gas_tube_8_descr">
+    <text>ロックボルト付きスライドボルトキャリアを備えたライフルのエジェクター。</text>
+  </string>
+  <string id="st_gas_tube_9">
+    <text>オーバーアンダーダブルバレルショットガンのエジェクター ［R］</text>
+  </string>
+  <string id="st_gas_tube_9_descr">
+    <text>オーバーアンダーダブルバレルショットガンのエジェクター。（抽出器）</text>
+  </string>
+  <string id="st_gas_tube_10">
+    <text>オーバーアンダーダブルバレルショットガンのエジェクター ［R］</text>
+  </string>
+  <string id="st_gas_tube_10_descr">
+    <text>オーバーアンダーダブルバレル ショットガンのエジェクター。</text>
+  </string>
+  <string id="st_gas_tube_11">
+    <text>ガスチューブ［PP］</text>
+  </string>
+  <string id="st_gas_tube_11_descr">
+    <text>MP5サブマシンガン用のガスチューブ。</text>
+  </string>
+  <string id="st_prt_w_p_barrel_1">
+    <text>9×18mmバレル</text>
+  </string>
+  <string id="st_prt_w_p_barrel_1_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_barrel_2">
+    <text>9×19mmバレル</text>
+  </string>
+  <string id="st_prt_w_p_barrel_2_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_barrel_3">
+    <text>.45口径バレル</text>
+  </string>
+  <string id="st_prt_w_p_barrel_3_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_barrel_4">
+    <text>5.7mmバレル</text>
+  </string>
+  <string id="st_prt_w_p_barrel_4_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_barrel_5">
+    <text>7.62mmバレル</text>
+  </string>
+  <string id="st_prt_w_p_barrel_5_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_barrel_6">
+    <text>9×18mmバレル（同封）</text>
+  </string>
+  <string id="st_prt_w_p_barrel_6_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_barrel_7">
+    <text>357口径バレル</text>
+  </string>
+  <string id="st_prt_w_p_barrel_7_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_trigger_1">
+    <text>シングルアクション用の引き金</text>
+  </string>
+  <string id="st_prt_w_p_trigger_1_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_trigger_2">
+    <text>ダブルアクション用の引き金</text>
+  </string>
+  <string id="st_prt_w_p_trigger_2_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_trigger_3">
+    <text>ダブルアクション（DA／SA）用の引き金</text>
+  </string>
+  <string id="st_prt_w_p_trigger_3_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_trigger_4">
+    <text>MP412ダブルアクション用の引き金</text>
+  </string>
+  <string id="st_prt_w_p_trigger_4_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_spring_1">
+    <text>9mmリコイルスプリング［ソ連製］</text>
+  </string>
+  <string id="st_prt_w_p_spring_1_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_spring_2">
+    <text>9mmリコイルスプリング［ロシア製］</text>
+  </string>
+  <string id="st_prt_w_p_spring_2_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_spring_3">
+    <text>.45リコイルスプリング</text>
+  </string>
+  <string id="st_prt_w_p_spring_3_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_spring_4">
+    <text>9mmリコイルスプリング［西側諸国製］</text>
+  </string>
+  <string id="st_prt_w_p_spring_4_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_spring_5">
+    <text>7.62mmリコイルスプリング</text>
+  </string>
+  <string id="st_prt_w_p_spring_5_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_spring_6">
+    <text>リコイルスプリング（R1 DE 6）</text>
+  </string>
+  <string id="st_prt_w_p_spring_6_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_o_fabrics_1">
+    <text>布シート</text>
+  </string>
+  <string id="st_prt_o_fabrics_1_descr">
+    <text>服のベースとなる素材。綿、ポリコットン、ウール、レザーなどの異素材を使用し、快適さと耐久性のあるシート。他にもゴムやバリスティックナイロンのような防護生地が使われており、関節防護やハードウェアとジッパーのセットが付いている。</text>
+  </string>
+  <string id="st_prt_o_fabrics_2">
+    <text>布シート（合成）</text>
+  </string>
+  <string id="st_prt_o_fabrics_2_descr">
+    <text>服のベースとなる素材。ポリエステルやライクラなどの合成素材をブレンドしたテキスタイルで、汎用性と耐久性を備えている。他にもゴムやバリスティックナイロンのような防護生地が使われており、ジョイントプロテクションや金具やジッパーがセットになっている。</text>
+  </string>
+  <string id="st_prt_o_fabrics_3">
+    <text>丈夫な織物</text>
+  </string>
+  <string id="st_prt_o_fabrics_3_descr">
+    <text>ポリエステル、レザー、キャンバスなどさまざまな素材を使用した、ハードウェアとジッパーのセット。過酷な環境条件での耐久性に優れているため、ゾーン内での移動にも適している。</text>
+  </string>
+  <string id="st_prt_o_fabrics_4">
+    <text>ミルスペック繊維</text>
+  </string>
+  <string id="st_prt_o_fabrics_4_descr">
+    <text>この軍用規格の繊維シートは、ゴムやバリスティックナイロンなどの防護素材が使われており、しばしば野戦服や軽装甲に使用されている。比較的低価格で汎用性が高いことで知られており、ゾーンで一般的に使用されている。
+</text>
+  </string>
+  <string id="st_prt_o_retardant_1">
+    <text>積層化された難燃性の生地</text>
+  </string>
+  <string id="st_prt_o_retardant_1_descr">
+    <text>これらの繊維は、化学処理や製造された防火繊維によって、他の繊維よりも自然に火に強くなっている。ゾーンでは、危険な環境やバーナー アノマリーや彗星アノマリーのような炎アノマリーから身を守るために、このような生地がスーツに使用されている。</text>
+  </string>
+  <string id="st_prt_o_retardant_2">
+    <text>積層化された耐化学／耐電気の生地</text>
+  </string>
+  <string id="st_prt_o_retardant_2_descr">
+    <text>これらの繊維は、化学処理や耐火繊維の製造により、他の繊維よりも電気ショックや化学粒子に対する耐性を高めたものである。ゾーンでは、電気アノマリーやフルーツポンチ アノマリーのような危険な環境や化学物質 衝撃を伴うアノマリーから身を守るために、このような生地がスーツに使用されている。</text>
+  </string>
+  <string id="st_prt_o_retardant_3">
+    <text>グレードBのRPVC処理をされた生地</text>
+  </string>
+  <string id="st_prt_o_retardant_3_descr">
+    <text>RPVC（硬質ポリ塩化ビニル）は、耐候性に優れた不燃性の素材であり。また、RPVCは紫外線安定化処理を施すことで、異常気象に対する防護性能を高めることができる。</text>
+  </string>
+  <string id="st_prt_o_retardant_4">
+    <text>グレードAのRPVCビニール製の生地</text>
+  </string>
+  <string id="st_prt_o_retardant_4_descr">
+    <text>RPVC（硬質ポリ塩化ビニル）は、耐候性に優れた不燃性の素材であり。また、RPVCは紫外線安定化処理を施すことで、異常気象に対する防護性能を高めることができる。</text>
+  </string>
+  <string id="st_prt_o_retardant_5">
+    <text>PVC／ゴムのコーティングをされた生地</text>
+  </string>
+  <string id="st_prt_o_retardant_5_descr">
+    <text>丈夫で耐久性のあるPVCコーティングされたポリエステルとゴム繊維の生地で、危険に対する防護のために使用するように設計されている。縫い付け、接着、溶接が可能。</text>
+  </string>
+  <string id="st_prt_o_retardant_6">
+    <text>PVC／炭素繊維製の生地</text>
+  </string>
+  <string id="st_prt_o_retardant_6_descr">
+    <text>丈夫で耐久性のあるPVCコーティングされたポリエステルと炭素繊維製の生地は、危険から防護するために使用するように設計されている。縫製、接着、または溶接が可能だ。
+\n非常に頑丈なコアポリエステル生地を使用し、両面にPVCをコーティングした二重コーティング素材でできている。</text>
+  </string>
+  <string id="st_prt_o_retardant_7">
+    <text>絶縁マグネシウム格子と挿入材</text>
+  </string>
+  <string id="st_prt_o_retardant_7_descr">
+    <text>このマグネシウム格子が誘電体層となり、強力な電気ショックや精神波から服や着用者をある程度守ることができる。また、その他の危険からも防護することができる。</text>
+  </string>
+  <string id="st_prt_o_retardant_8">
+    <text>絶縁強化された酸化マグネシウム格子</text>
+  </string>
+  <string id="st_prt_o_retardant_8_descr">
+    <text>このマグネシウム格子が誘電体層となり、強力な電気ショックや精神波から服や着用者をある程度守ることができる。また、その他の危険からも防護することができる。</text>
+  </string>
+  <string id="st_prt_o_retardant_9">
+    <text>ポリマーシート（硫酸ビスマスコーティング）</text>
+  </string>
+  <string id="st_prt_o_retardant_9_descr">
+    <text>硫酸ビスマスの熱分解挙動は、ゾーン内で使用されるスーツに最適である。通常はポリマーシートにコーティングされ、胴体をカバーする。他の種類の危険に対する防護を提供することができる。</text>
+  </string>
+  <string id="st_prt_o_retardant_10">
+    <text>ポリマーシート（硫酸バリウムコーティング）</text>
+  </string>
+  <string id="st_prt_o_retardant_10_descr">
+    <text>硫酸バリウムの熱分解挙動は、ゾーン内で使用されるスーツに最適なものである。通常はポリマーシートにコーティングされ、胴体をカバーする。他の種類の危険に対する防護を提供することができる。</text>
+  </string>
+  <string id="st_prt_o_retardant_11">
+    <text>多層アルミ化された難燃性の生地</text>
+  </string>
+  <string id="st_prt_o_retardant_11_descr">
+    <text>多層アルミニウム化された生地は、放射熱や化学源の影響で、火災や安全面でのリスクが高い環境で使用される防護服や防護盾のために設計された。さらに、これらの生地は、精神波に対して優れた隔離性をもつ。</text>
+  </string>
+  <string id="st_prt_o_retardant_12">
+    <text>アルミ化されたガラス繊維製の生地</text>
+  </string>
+  <string id="st_prt_o_retardant_12_descr">
+    <text>多層アルミニウム化されたガラス繊維製の生地は、放射熱や化学源の影響で、火災や安全面でのリスクが高い環境で使用される防護服や防護盾のために設計された。さらに、これらの生地は、精神波に対して優れた隔離性をもつ。</text>
+  </string>
+  <string id="st_prt_o_retardant_13">
+    <text>PBI混紡生地</text>
+  </string>
+  <string id="st_prt_o_retardant_13_descr">
+    <text>PBI混紡生地は長年消防に信頼されてきた。業界をリードする高性能の防炎繊維として認められている。そのため、ゾーンではこれらの生地を自分たちの服に利用した。</text>
+  </string>
+  <string id="st_prt_o_retardant_14">
+    <text>ポリエステル加工付きPBI混紡布</text>
+  </string>
+  <string id="st_prt_o_retardant_14_descr">
+    <text>PBI混紡生地は長年消防に信頼されてきた。業界をリードする高性能の防炎繊維として認められている。そのため、ゾーンではこれらの生地を自分たちの服に利用した。</text>
+  </string>
+  <string id="st_prt_o_retardant_15">
+    <text>活性炭布（ACC）生地</text>
+  </string>
+  <string id="st_prt_o_retardant_15_descr">
+    <text>元々は化学兵器用のスーツとして開発された活性炭クロス。活性炭クロスは、防衛、産業、医療の分野で多くの用途がある。活性炭クロスは、高度な創傷被覆材やアクティブな創傷被覆材の効果を大幅に高め、放射線粒子からも大きな防護効果を発揮する。</text>
+  </string>
+  <string id="st_prt_o_retardant_16">
+    <text>活性炭処理された不織布</text>
+  </string>
+  <string id="st_prt_o_retardant_16_descr">
+    <text>元々は化学兵器用のスーツとして開発された活性炭クロス。活性炭クロスは、防衛、産業、医療の分野で多くの用途がある。活性炭クロスは、高度な創傷被覆材やアクティブな創傷被覆材の効果を大幅に高め、放射線粒子からも大きな防護効果を発揮する。</text>
+  </string>
+  <string id="st_prt_o_retardant_17">
+    <text>絶縁コンスタンタン製の挿入材</text>
+  </string>
+  <string id="st_prt_o_retardant_17_descr">
+    <text>コンスタンタンシートで作られた挿入材。誘電体層として機能し、着用者を電気ショック、精神波、放射性物質からある程度防護する。また、他の危険に対する防護を提供することができ、それらがゾーン内で使われる理由のひとつだ。</text>
+  </string>
+  <string id="st_prt_o_retardant_18">
+    <text>ガラス繊維コーティング付き絶縁コンスタンタン製の挿入材</text>
+  </string>
+  <string id="st_prt_o_retardant_18_descr">
+    <text>絶縁コンスタンタン製のシートと、ガラス繊維でコーティングされた生地で作られた挿入材。誘電体層として機能し、着用者を電気ショック、精神波、放射性物質からある程度防護する。また、他の危険に対する防護を提供することができ、それらがゾーン内で使われる理由のひとつだ。</text>
+  </string>
+  <string id="st_prt_o_retardant_19">
+    <text>断熱ガラス繊維「ポリエステル」製の生地</text>
+  </string>
+  <string id="st_prt_o_retardant_19_descr">
+    <text>「E」ガラス繊維で織られ、バーミキュライトベースのフィルムでコーティングされた高温耐性のある生地で、815℃までの温度に耐えと20Kvまでの優れた耐衝撃性を備えてる。ゾーンのような場所では、これらの生地はアノマリーに対して重宝される。</text>
+  </string>
+  <string id="st_prt_o_retardant_20">
+    <text>断熱ガラス繊維「サテン織り」製の生地</text>
+  </string>
+  <string id="st_prt_o_retardant_20_descr">
+    <text>「E」ガラス繊維で織られ、バーミキュライトベースのフィルムでコーティングされた高耐熱性生地は、926℃までの高温に耐え25Kvまでの優れた耐衝撃性を備えている。ゾーンのような場所では、これらの生地はアノマリーに対して重宝される。</text>
+  </string>
+  <string id="st_prt_o_ballistic_1">
+    <text>強化セラミック挿入材付きケブラーK129製の板材</text>
+  </string>
+  <string id="st_prt_o_ballistic_1_descr">
+    <text>ケブラー製の板材は、その防護能力の高さで広く知られており、高い評価を得ている。ケブラー製の板材には様々な機能があるが、中でも重要なのは、銃器の弾丸が胴体の前後に与える衝撃を吸収することだ。重い鉄板の代わりに軽量である。また、どのような装甲板であっても、摩耗による劣化を防ぎ、スーツを良好な状態に保つことができる。世界各国の軍隊で使用されている。</text>
+  </string>
+  <string id="st_prt_o_ballistic_2">
+    <text>強化セラミック挿入材付きケブラープロテラ製の板材</text>
+  </string>
+  <string id="st_prt_o_ballistic_2_descr">
+    <text>ケブラー製の板材は、その防護能力の高さで広く知られており、高い評価を得ている。ケブラー製の板材には様々な機能があるが、中でも重要なのは、銃器の弾丸が胴体の前後に与える衝撃を吸収することだ。重い鉄板の代わりに軽量である。また、どのような装甲板であっても、摩耗による劣化を防ぎ、スーツを良好な状態に保つことができる。世界各国の軍隊で使用されている。</text>
+  </string>
+  <string id="st_prt_o_ballistic_3">
+    <text>ポリカーボネート複合材付きケブラーK129製の板材</text>
+  </string>
+  <string id="st_prt_o_ballistic_3_descr">
+    <text>ケブラー製の板材は、その防護能力の高さで広く知られており、高い評価を得ている。ケブラー製の板材には様々な機能があるが、中でも重要なのは、銃器の弾丸が胴体の前後に与える衝撃を吸収することだ。重い鉄板の代わりに軽量である。また、どのような装甲板であっても、摩耗による劣化を防ぎ、スーツを良好な状態に保つことができる。世界各国の軍隊で使用されている。</text>
+  </string>
+  <string id="st_prt_o_ballistic_4">
+    <text> 炭素繊維複合材付きケブラーK129製の板材
+</text>
+  </string>
+  <string id="st_prt_o_ballistic_4_descr">
+    <text>ケブラー製の板材は、その防護能力の高さで広く知られており、高い評価を得ている。ケブラー製の板材には様々な機能があるが、中でも重要なのは、銃器の弾丸が胴体の前後に与える衝撃を吸収することだ。重い鉄板の代わりに軽量である。また、どのような装甲板であっても、摩耗による劣化を防ぎ、スーツを良好な状態に保つことができる。世界各国の軍隊で使用されている。</text>
+  </string>
+  <string id="st_prt_o_ballistic_5">
+    <text>ケブラーAPと鋼鉄製の板材</text>
+  </string>
+  <string id="st_prt_o_ballistic_5_descr">
+    <text>ケブラー製の板材は、その防護能力の高さで広く知られており、高い評価を得ている。ケブラー製の板材には様々な機能があるが、中でも重要なのは、銃器の弾丸が胴体の前後に与える衝撃を吸収することだ。重い鉄板の代わりに軽量である。また、どのような装甲板であっても、摩耗による劣化を防ぎ、スーツを良好な状態に保つことができる。世界各国の軍隊で使用されている。</text>
+  </string>
+  <string id="st_prt_o_ballistic_6">
+    <text>強化チタン複合材付きケブラーAP製の板材</text>
+  </string>
+  <string id="st_prt_o_ballistic_6_descr">
+    <text>ケブラー製の板材は、その防護能力の高さで広く知られており、高い評価を得ている。ケブラー製の板材には様々な機能があるが、中でも重要なのは、銃器の弾丸が胴体の前後に与える衝撃を吸収することだ。重い鉄板の代わりに軽量である。また、どのような装甲板であっても、摩耗による劣化を防ぎ、スーツを良好な状態に保つことができる。世界各国の軍隊で使用されている。</text>
+  </string>
+  <string id="st_prt_o_ballistic_7">
+    <text>ポリカーボネート挿入材付きケブラーK119製の板材</text>
+  </string>
+  <string id="st_prt_o_ballistic_7_descr">
+    <text>ケブラー製の板材は、その防護能力の高さで広く知られており、高い評価を得ている。ケブラー製の板材には様々な機能があるが、中でも重要なのは、銃器の弾丸が胴体の前後に与える衝撃を吸収することだ。重い鉄板の代わりに軽量である。また、どのような装甲板であっても、摩耗による劣化を防ぎ、スーツを良好な状態に保つことができる。世界各国の軍隊で使用されている。</text>
+  </string>
+  <string id="st_prt_o_ballistic_8">
+    <text>カーボンファイバー挿入材付きケブラーK119製の板材</text>
+  </string>
+  <string id="st_prt_o_ballistic_8_descr">
+    <text>ケブラー製の板材は、その防護能力の高さで広く知られており、高い評価を得ている。ケブラー製の板材には様々な機能があるが、中でも重要なのは、銃器の弾丸が胴体の前後に与える衝撃を吸収することだ。重い鉄板の代わりに軽量である。また、どのような装甲板であっても、摩耗による劣化を防ぎ、スーツを良好な状態に保つことができる。世界各国の軍隊で使用されている。</text>
+  </string>
+  <string id="st_prt_o_ballistic_9">
+    <text>拡張キャリア付きグレードBポリエチレン製の板材</text>
+  </string>
+  <string id="st_prt_o_ballistic_9_descr">
+    <text>ポリエチレン製の板材で、重要な部分の防護を強化している。この硬質装甲板は、すべての拳銃弾とさまざまなライフル銃に有効であることが証明されている。柔らかい防弾ベストでは軍用ライフル弾には効果がないため、このアップグレードされた防弾ベストが軍用の標準となっている。</text>
+  </string>
+  <string id="st_prt_o_ballistic_10">
+    <text>拡張キャリア付きグレードAポリエチレン製の板材</text>
+  </string>
+  <string id="st_prt_o_ballistic_10_descr">
+    <text>重要な部分の防護を強化するポリエチレン製の板材。この硬質装甲板は、すべての拳銃弾とさまざまなライフル銃に有効であることが証明されている。柔らかいボディーアーマーでは軍用ライフル弾には効果がないため、このアップグレードされた防弾ベストが軍用の標準となっている。</text>
+  </string>
+  <string id="st_prt_o_ballistic_11">
+    <text>ケブラーK119製の板材</text>
+  </string>
+  <string id="st_prt_o_ballistic_11_descr">
+    <text>ケブラー製の板材は、その防護能力の高さで広く知られており、高い評価を得ている。ケブラー製の板材には様々な機能があるが、中でも重要なのは、銃器の弾丸が胴体の前後に与える衝撃を吸収することだ。重い鉄板の代わりに軽量である。また、どのような装甲板であっても、摩耗による劣化を防ぎ、スーツを良好な状態に保つことができる。世界各国の軍隊で使用されている。</text>
+  </string>
+  <string id="st_prt_o_ballistic_12">
+    <text>強化ケブラーK119製の板材</text>
+  </string>
+  <string id="st_prt_o_ballistic_12_descr">
+    <text>ケブラー製の板材は、その防護能力の高さで広く知られており、高い評価を得ている。ケブラー製の板材には様々な機能があるが、中でも重要なのは、銃器の弾丸が胴体の前後に与える衝撃を吸収することだ。重い鉄板の代わりに軽量である。また、どのような装甲板であっても、摩耗による劣化を防ぎ、スーツを良好な状態に保つことができる。世界各国の軍隊で使用されている。</text>
+  </string>
+  <string id="st_prt_o_ballistic_13">
+    <text>軽量ポリエチレン製の装甲板</text>
+  </string>
+  <string id="st_prt_o_ballistic_13_descr">
+    <text>重要な部分の防護を強化するポリエチレン製の板材。この硬質装甲板は、すべての拳銃弾とさまざまなライフル銃に有効であることが証明されている。柔らかいボディーアーマーでは軍用ライフル弾には効果がないため、このアップグレードされた防弾ベストが軍用の標準となっている。</text>
+  </string>
+  <string id="st_prt_o_ballistic_14">
+    <text>ポリエチレン製の装甲板（即席）</text>
+  </string>
+  <string id="st_prt_o_ballistic_14_descr">
+    <text>重要な部分の防護を強化するポリエチレン製の板材。この硬質装甲板は、すべての拳銃弾とさまざまなライフル銃に有効であることが証明されている。柔らかいボディーアーマーでは軍用ライフル弾には効果がないため、このアップグレードされた防弾ベストが軍用の標準となっている。</text>
+  </string>
+  <string id="st_prt_o_ballistic_15">
+    <text>カーボンナノチューブ層／ケブラー49製の生地</text>
+  </string>
+  <string id="st_prt_o_ballistic_15_descr">
+    <text>カーボンナノチューブ（CNT）は、銃弾耐性の材料の製造に大きな可能性を秘めている。CNTの顕著な特性は、ポリマーなどの補強材として理想的な候補であり、防弾ベストなどの用途に使われている。</text>
+  </string>
+  <string id="st_prt_o_ballistic_16">
+    <text>カーボンナノチューブ層／ケブラー29製の生地（強化型）</text>
+  </string>
+  <string id="st_prt_o_ballistic_16_descr">
+    <text>カーボンナノチューブ（CNT）は、銃弾耐性の材料の製造に大きな可能性を秘めている。CNTの顕著な特性は、ポリマーなどの補強材として理想的な候補であり、防弾ベストなどの用途に使われている。</text>
+  </string>
+  <string id="st_prt_o_ballistic_17">
+    <text>ポリカーボネート挿入材付きポリエチレン繊維層</text>
+  </string>
+  <string id="st_prt_o_ballistic_17_descr">
+    <text>ポリエチレン製の板材で、重要な部分の防護を強化している。この硬質装甲板は、すべての拳銃弾とさまざまなライフル銃に有効であることが証明されている。柔らかい防弾ベストでは軍用ライフル弾には効果がないため、このアップグレードされた防弾ベストが軍用の標準となっている。</text>
+  </string>
+  <string id="st_prt_o_ballistic_18">
+    <text>強化ポリエチレン繊維層</text>
+  </string>
+  <string id="st_prt_o_ballistic_18_descr">
+    <text>ポリエチレン製の板材で、重要な部分の防護を強化している。この硬質装甲板は、すべての拳銃弾とさまざまなライフル銃に有効であることが証明されている。柔らかい防弾ベストでは軍用ライフル弾には効果がないため、このアップグレードされた防弾ベストが軍用の標準となっている。</text>
+  </string>
+  <string id="st_prt_o_ballistic_19">
+    <text>炭素繊維層</text>
+  </string>
+  <string id="st_prt_o_ballistic_19_descr">
+    <text>ケブラー素材と比較すると、カーボンファイバーは少し異なり、鋭利な素材にはあまり効果がない。しかし、ケブラー素材が高温に耐えることができるのに対し、カーボンファイバーはこの部分が弱くなるという利点がある。また、カーボンファイバーを使用した素材は軽量であるため、柔軟性にも優れている。</text>
+  </string>
+  <string id="st_prt_o_ballistic_20">
+    <text>強化炭素繊維層</text>
+  </string>
+  <string id="st_prt_o_ballistic_20_descr">
+    <text>ケブラー素材と比較すると、カーボンファイバーは少し異なり、鋭利な素材にはあまり効果がない。しかし、ケブラー素材が高温に耐えることができるのに対し、カーボンファイバーはこの部分が弱くなるという利点がある。また、カーボンファイバーを使用した素材は軽量であるため、柔軟性にも優れている。</text>
+  </string>
+  <string id="st_prt_o_support_1">
+    <text>強化外骨格フレーム</text>
+  </string>
+  <string id="st_prt_o_support_1_descr">
+    <text>電動モーター、空気圧、レバー、油圧システムを搭載した機械式ルフレームは、優れた防護性能と体力の大幅な向上を実現している。</text>
+  </string>
+</string_table>

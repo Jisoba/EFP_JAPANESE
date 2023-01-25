@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+
+	<string id="st_campfire_off">
+		<text>火のついていない焚き火は使用できない</text>
+	</string>
+
+	<string id="st_campfire_danger">
+		<text>敵が近くにいるときは、焚き火を使用できない</text>
+	</string>
+
+	<string id="st_campfire_surge">
+		<text>エミッション中は焚き火を使用できない</text>
+	</string>
+
+	<string id="st_campfire_psi_storm">
+		<text>精神波の嵐の最中は焚き火を使用できない</text>
+	</string>
+
+</string_table>

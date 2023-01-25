@@ -1,0 +1,80 @@
+<string_table>
+	<string id="ui_mcm_menu_SMR">
+		<text>ZCP</text>
+	</string>
+	<string id="ui_mcm_menu_smr_spawns">
+		<text>スポーンテンプレート</text>
+  </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_desc">
+		  <text>スポーンテンプレートを使用すると、ランダムに発生するミュータントをより細かく制御することができます。これを使用すると、どのレベルのミュータントがスポーンするか、より強いミュータントがゾーンに出現するまでの時間を調整することができます。</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_file">
+      <text>テンプレートファイル</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_file_desc">
+      <text>
+      以下のテンプレートファイルが含まれています。:\n
+      - デフォルト: バニラのスポーンと同様に、各レベルでは、基本的にはそこにスポーンしているミュータントを見ることができます。\n
+      - すべて: すべてのミュータントはすべてのレベルでスポーンしますが、ティア分けされています。\n
+      - バランス: TheMrDemonizedで使用されている値を移植したものです。"ZCP Kinda Balanced Spawns "MODをZCP 1.4用に移植しました。\n
+      独自のスポーンテンプレートを追加した場合、同梱のテンプレートと一緒に自動的に表示されます。</text>
+    </string>
+     <string id="ui_mcm_SMR_smr_spawns_preset_apply_random">
+      <text>ミュータントのランダムスポーンに適用</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_apply_replaced">
+      <text>置換された無効なミュータントスポーンに適用。</text>
+    </string>
+    <!-- WEEK 0 -->
+    <string id="ui_mcm_smr_spawns_preset_week0_title">
+      <text>初週</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week0_tier1">
+      <text>Tier 1 確率</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week0_tier2">
+      <text>Tier 2 確率</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week0_tier3">
+      <text>Tier 3 確率</text>
+    </string>
+    <!-- WEEK 1 -->
+    <string id="ui_mcm_smr_spawns_preset_week1_title">
+      <text>2週目</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week1_tier1">
+      <text>Tier 1 チャンス</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week1_tier2">
+      <text>Tier 2 チャンス</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week1_tier3">
+      <text>Tier 3 チャンス</text>
+    </string>
+    <!-- WEEK 2 -->
+    <string id="ui_mcm_smr_spawns_preset_week2_title">
+      <text>3週目</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week2_tier1">
+      <text>Tier 1 チャンス</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week2_tier2">
+      <text>Tier 2 チャンス</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week2_tier3">
+      <text>Tier 3 チャンス</text>
+    </string>
+    <!-- WEEK 3 -->
+    <string id="ui_mcm_smr_spawns_preset_week3_title">
+      <text>第4週以降</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week3_tier1">
+      <text>Tier 1 チャンス</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week3_tier2">
+      <text>Tier 2 チャンス</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week3_tier3">
+      <text>Tier 3 チャンス</text>
+    </string>
+  </string_table>

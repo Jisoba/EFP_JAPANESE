@@ -1,0 +1,80 @@
+<string_table>
+    <string id="st_player_skill_stats">
+        <text>\nステータス:</text>
+    </string>
+
+    <!-- Scavenging -->
+    <string id="st_player_skills_hint_scavenging">
+		<text>死体からのドロップを増加させる。\n \nレベルはストーカーを略奪することで上がり、ランクの高いストーカーはより多くのExpを得ることができる。 \n \n</text>
+	</string>
+	<string id="st_skills_stats_scavenging_skill_positive">
+        <text>\n%c[255,86,102,255]・c[ui_6] 追加戦利品を手に入れる確率: %c[d_green]$stat%</text>
+    </string>
+    <string id="st_skills_stats_scavenging_skill_negative">
+        <text>\n%c[255,86,102,255]・c[ui_6] 戦利品が減る確率: %c[d_red]$stat%</text>
+    </string>
+
+
+    <!-- Strength -->
+    <string id="st_player_skills_hint_strength">
+		<text>最大重量と接近ダメージが増加する。\n \n重い荷物を持って移動したり、近接戦闘をするとレベルが上がる。 \n \n</text>
+	</string>
+
+    <string id="st_skills_stats_weight_modifer_positive">
+        <text>\n%c[255,255,201,86]・c[ui_6] 最大荷重倍率: %c[d_green]x$stat</text>
+    </string>
+    <string id="st_skills_stats_weight_modifer_negative">
+        <text>\n%c[255,255,201,86]・c[ui_6] 最大荷重倍率: %c[d_red]x$stat</text>
+    </string>
+
+    <string id="st_skills_stats_melee_damage_positive">
+        <text>\n%c[255,255,201,86]・c[ui_6] 接近ダメージ倍率: %c[d_green]x$stat</text>
+    </string>
+    <string id="st_skills_stats_melee_damage_negative">
+        <text>\n%c[255,255,201,86]・c[ui_6] 接近ダメージ倍率: %c[d_red]x$stat</text>
+    </string>
+
+    <string id="st_skills_stats_base_weight">
+        <text>\n%c[255,255,201,86]・c[ui_6] 最大荷重増加量: %c[d_green]+$stat kg</text>
+    </string>
+
+    <!-- Survival -->
+    <string id="st_player_skills_hint_survival">
+		<text>ダメージ耐性アップと皮剥ぎ時に追加で部位を入手する確率が上がる。\n \nレベルは被ダメージ時（被弾とミュータントのダメージのみ）と、ミュータントの皮を剥ぐことで得られ、より危険なミュータントはより多くのExpを得られる。 \n \n</text>
+	</string>
+    <string id="st_skills_stats_resistance_positive">
+        <text>\n%c[255,135,255,86]・c[ui_6] ダメージ軽減率: %c[d_green]x$stat</text>
+    </string>
+    <string id="st_skills_stats_resistance_negative">
+        <text>\n%c[255,135,255,86]・c[ui_6] ダメージ増加率: %c[d_red]x$stat</text>
+    </string>
+
+    <string id="st_skills_stats_bleed_restore">
+        <text>\n%c[255,135,255,86]・c[ui_6] 出血減少量: %c[d_green]$stat%</text>
+    </string>
+
+     <string id="st_skills_stats_hunting_skill_positive">
+        <text>\n%c[255,135,255,86]・c[ui_6] 追加ミュータント部位入手確率: %c[d_green]$stat%</text>
+    </string>
+    <string id="st_skills_stats_hunting_skill_negative">
+        <text>\n%c[255,135,255,86]・c[ui_6] ミュータント部位入手減少確率: %c[d_red]$stat%</text>
+    </string>
+
+    <!-- Endurance -->
+    <string id="st_player_skills_hint_endurance">
+		<text>スタミナとスピードを増加させる。\n \nレベルは軽荷重状態で移動すると上がる。 \n \n</text>
+	</string>
+    <string id="st_skills_stats_power_loss_positive">
+        <text>\n%c[255,255,86,86]・c[ui_6] スタミナ消費倍率: %c[d_green]x$stat</text>
+    </string>
+    <string id="st_skills_stats_power_loss_negative">
+        <text>\n%c[255,255,86,86]・c[ui_6] スタミナ消費倍率: %c[d_red]x$stat</text>
+    </string>
+
+    <string id="st_skills_stats_speed_modifier_positive">
+        <text>\n%c[255,255,86,86]・c[ui_6] 移動速度倍率: %c[d_green]x$stat</text>
+    </string>
+    <string id="st_skills_stats_speed_modifier_negative">
+        <text>\n%c[255,255,86,86]・c[ui_6] 移動速度倍率: %c[d_red]x$stat</text>
+    </string>
+</string_table>

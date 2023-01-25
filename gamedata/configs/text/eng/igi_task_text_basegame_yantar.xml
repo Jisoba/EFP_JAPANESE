@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Semenov (Ecog Honcho) Research Hunt Task -->
+
+	<string id="igi_task_text_yan_ecolog_semenov_task_1_title">
+		<text>セメノフのリサーチハント</text>
+	</string>
+	<string id="igi_task_text_yan_ecolog_semenov_task_1_descr">
+		<text>セメノフ助手の依頼で、新しいミュータントの組織サンプルを採取し、スキャン装置で死体を分析するために、周辺を案内してほしいとのことです。</text>
+	</string>
+	<string id="igi_task_text_yan_ecolog_semenov_task_1_job_descr">
+		<text>ミュータントの除去を手伝ってくれないか？測定値と組織のサンプルを取れるんだ。例えば...5種類のミュータントを。私の命を預けるので、私の安全を確保して欲しい。努力に見合う報酬を支払おう</text>
+	</string>
+	<string id="igi_task_text_yan_ecolog_semenov_task_1_finish">
+		<text>協力感謝する。必要な組織サンプルは全て揃った。これが報酬だ また、いつか会おう。</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sakharov (Ecog Trader) -->
+	<string id="igi_task_text_yan_stalker_sakharov_task_1_title">
+		<text>ヤンターの貯蔵庫用のミュータントサンプルを入手する。</text>
+	</string>
+	<string id="igi_task_text_yan_stalker_sakharov_task_1_descr">
+		<text>サハロフ教授の最新の実験では、ミュータントの新鮮な組織サンプルが必要です。見つけたらすぐに持ってこないと。</text>
+	</string>
+	<string id="igi_task_text_yan_stalker_sakharov_task_1_job_descr">
+		<text>経験豊富なストーカーかミュータントハンターが必要だ。それは君なのか？</text>
+	</string>
+	<string id="igi_task_text_yan_stalker_sakharov_task_1_fetch_job_descr">
+		<text>ミュータントの組織から新鮮な細胞を 採取する必要があるんだ そのために君に頼みたいのはサンプルを調達してこのバンカーに持ち帰ることだ。動物学者は好まないだろうがここは動物園ではない、認めざるを得ない。いずれにせよ、必要なサンプルを手に入れたらすぐに私のところに戻ってくるように。ミュータント野生動物の生態について貴重な洞察を与えてくれるかもしれないのだから</text>
+	</string>
+	<string id="igi_task_text_yan_stalker_sakharov_task_1_fetch_finish">
+		<text>感謝する、親愛なる同僚。これは私の研究に大いに役立つだろう。</text>
+	</string>
+	
+	<!-- Collect New Artefact Task -->
+	<string id="igi_task_text_yan_stalker_sakharov_task_2_title">
+		<text>アノマリーの研究</text>
+	</string>
+	<string id="igi_task_text_yan_stalker_sakharov_task_2_descr">
+		<text>サハロフ教授から、研究資金のためにアーティファクトを探してほしいと頼まれた。</text>
+	</string>
+	<string id="igi_task_text_yan_stalker_sakharov_task_2_job_descr">
+		<text>私の研究を手伝っていただけないか？努力に見合った報酬を支払おう。</text>
+	</string>
+	<string id="igi_task_text_yan_stalker_sakharov_task_2_fetch_job_descr">
+		<text>私たちの研究チームは、重要な発見をする寸前まで来ているが、資金を維持し、実験を続けるためには、より多くの材料がどうしても必要なのだ! どうか、1つのアーティファクトを探して届けてくれ。調査を継続し、原材料を供給するためには、そこからサンプルを採取する必要がある。</text>
+	</string>
+	<string id="igi_task_text_yan_stalker_sakharov_task_2_fetch_finish">
+		<text>科学者たちの代表として、私はあなたに感謝する。これが約束の報酬だ。</text>
+	</string>
+
+	<!-- Classified Information Task -->
+	<string id="igi_task_text_classified_information_task_title">
+		<text>分類された情報</text>
+	</string>
+	<string id="igi_task_text_classified_information_task_descr">
+		<text>教授から、機密性の高い研究資料を入手するよう依頼されている。</text>
+	</string>
+	<string id="igi_task_text_classified_information_task_job_descr">
+		<text>正体不明の強盗が 調査団の1人を襲ったんだ。幸いにも、遠征隊の一部は生きて帰ってきた。残念なことに、彼らは逃げる際に、やや機密に関わる研究を残さなければならなかった。
+\n \n科学の進歩と仲間の未来のためにこのデータを失くしたままにはしたくないし、最悪、研究者を攻撃した謎の集団の手に渡ることも望まない。どうか、この座標のキャッシュに行ってくれ。急げば、私が回収したい文書はまだそこにあるはずだ。 あなたの裁量と、このオフィスへの文書の配達のために、私は相応の報酬を提供しよう。さらに感謝のしるしとして、私のチームがキャッシュに残したかもしれない物資を自分で調達することもできる。</text>
+	</string>
+	<string id="igi_task_text_classified_information_task_finish">
+		<text>ありがとうございます、親愛なるストーカーさん。いや、同僚というべきか？これで研究は順調に進むだろう。願わくば、この先、さらなるトラブルがないことを祈るばかりだ。</text>
+	</string>
+	
+	<!-- yan_stalker_sakharov -->
+	<string id="igi_task_text_yan_stalker_sakharov_psi_helmet_upgrade_title">
+		<text>「精神波の防護ヘルメット」の回収</text>
+	</string>
+	<string id="igi_task_text_yan_stalker_sakharov_psi_helmet_upgrade_descr">
+		<text>サハロフ教授が「精神波の防護」ヘルメットを完全に調整することに同意し、2日後くらいに受け取りに来るようにと言われています。</text>
+	</string>
+
+	<string id="igi_task_text_brain_machine_deactivate_title">
+		<text>ミラクルマシンを無効にする</text>
+	</string>
+	<string id="igi_task_text_brain_machine_deactivate_descr">
+		<text>ミラクルマシンを長く放置しておくと、ヤンターの科学者に迷惑がかかるかもしれない。サハロフ教授もきっとその解除を望んでいるはずだ。</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Peregrine (Military Mechanic) Find Level 1 Toolkit Task -->
+
+	<string id="igi_task_text_mechanic_army_yan_mlr_task_1_title">
+		<text>ペレグリンのためにベーシックツールを探す</text>
+	</string>
+	<string id="igi_task_text_mechanic_army_yan_mlr_task_1_descr">
+		<text>ベーシックツールは、ペレグリンが基本的な機器のアップグレードをインストールするために必要としている。見つけたら渡そう。</text>
+	</string>
+	<string id="igi_task_text_mechanic_army_yan_mlr_task_1_job_descr">
+		<text>ああ、確かに。本部から工具が届くと連絡があったんだが、荷物は届いてない。その荷物はどこにいったのやら。ゾーンのみぞ知るだな。しかし、状況は変わっておらず、道具はまだまだ必要だ。本部は頑なに道具の手配を拒むので、こうしよう。もし道具が手に入ったら......基本的なものでもいいから......ここに持ってきてくれないか？</text>
+	</string>
+	<string id="igi_task_text_mechanic_army_yan_mlr_task_1_fetch_job_descr">
+		<text>素晴らしい。とりあえずベーシックツールを持ち帰ることに集中しよう。それがなければ、より高度なものは使えない。では、よい狩りを。</text>
+	</string>
+	<string id="igi_task_text_mechanic_army_yan_mlr_task_1_fetch_finish">
+		<text>よし、見てみよう。ああ、これでいい。これで、メンテナンス以外のこともできるかもしれない。ほら、賞金だ。助けてくれてありがとう</text>
+	</string>
+
+	<string id="igi_task_text_mechanic_army_yan_mlr_task_2_title">
+		<text>ペレグリンのためにアドバンスドツールを探せ</text>
+	</string>
+	<string id="igi_task_text_mechanic_army_yan_mlr_task_2_descr">
+		<text>ペレグリンは、高度な機器のアップグレードをインストールするために、アドバンスドツールが必要だと言った。</text>
+	</string>
+	<string id="igi_task_text_mechanic_army_yan_mlr_task_2_job_descr">
+		<text>まあ、いつもの取引先より親切なのは確かだから、アドバンスドツールを持ってきてくれないか？そうすれば、あんたに金をやろう。</text>
+	</string>
+	<string id="igi_task_text_mechanic_army_yan_mlr_task_2_fetch_job_descr">
+		<text>素晴らしい。サハロフもこれを喜ぶだろう。 この道具を持ってくれば、私の技術的な仕事は、瞬く間に彼のバンカーに資金を援助することになると思う。</text>
+	</string>
+	<string id="igi_task_text_mechanic_army_yan_mlr_task_2_fetch_finish">
+		<text>素晴らしい！必要ならいつでも来てください。君のおかげで、まともな改造ができるようになったよ。</text>
+	</string>
+
+	<string id="igi_task_text_mechanic_army_yan_mlr_task_3_title">
+		<text>ペレグリンのためにエキスパートツールを探せ</text>
+	</string>
+	<string id="igi_task_text_mechanic_army_yan_mlr_task_3_descr">
+		<text>専門的な装備をインストールするためにペレグリンはエキスパートツールを必要としている</text>
+	</string>
+	<string id="igi_task_text_mechanic_army_yan_mlr_task_3_job_descr">
+		<text>君に話したかどうかわからないが サハロフは君がこうして私を助けてくれることを とても喜んでいる 専門的な道具を一式持ってきてくれるストーカーには、大枚のルーブルを用意してあると言っていた。特に防護服や外骨格など、ここにある科学的な道具を最大限に活用することができるはずだ。だから、最後にもう一度だけ、道具探しに行ってくれるかい？</text>
+	</string>
+	<string id="igi_task_text_mechanic_army_yan_mlr_task_3_fetch_job_descr">
+		<text>これは正直言ってありがたい。道具を持って帰ってきたら、現場でのメンテナンスの仕方も教えてあげよう。もちろん、他の技術者がすでに教えてくれている場合は別だけどね。それが私なりの感謝の気持ちだ。では、幸運を祈る。</text>
+	</string>
+	<string id="igi_task_text_mechanic_army_yan_mlr_task_3_fetch_finish">
+		<text>ふむ。あなたが補給部隊で働かないのは残念だ。ようやくこの受信機を修理することができる。あなたに関しては感謝の念に堪えない。このバンカーを代表して、支払おう。 </text>
+	</string>
+	
+	
+	
+ 	<string id="igi_task_text_yan_stalker_sakharov_task_4_title">
+		<text>トラッキングデバイスを回収する</text>
+	</string>
+	<string id="igi_task_text_yan_stalker_sakharov_task_4_job_descr">
+		<text>我々はミュータントにいくつかの装置を埋め込んで、心拍数、食習慣、睡眠サイクル、移動時間など様々なデータを測定している。しかし、前回の爆発事故以来、装置の1つが誤作動を起こし、動きを追跡することはできるが、それ以外の有用なデータを送信することができなくなった。この追跡装置は特に高度な設計になっているため、故障した装置を回収し、点検と修理を行う必要がある。 どんな手を使ってもいいから、その装置を奪い取って、私たちのところに持ってきてくれ。</text>
+	</string>
+	<string id="igi_task_text_yan_stalker_sakharov_task_4_stage_0">
+		<text>追跡装置が付いたミュータントを止めろ</text>
+	</string>
+	<string id="igi_task_text_yan_stalker_sakharov_task_4_stage_1">
+		<text>トラッキングデバイスを回収する</text>
+	</string>
+	<string id="igi_task_text_yan_stalker_sakharov_task_4_stage_2">
+		<text>デバイスを返却する</text>
+	</string>
+	<string id="igi_task_text_recover_mutant_data_device_desc">
+		<text>ミュータントの動きや習性、バイタルサインを監視するために植え付けられた頑丈な装置。腐食の兆候があり、多数の噛み跡や引っ掻き跡がある。 </text>
+	</string>
+	<string id="igi_task_text_recover_mutant_data_device_title">
+		<text>追跡装置</text>
+	</string>
+</string_table>

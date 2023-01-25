@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+	EXTRA WARFARE STRINGS
+-->
+
+<string_table>	
+	<string id="st_wrfr_request_squad_1">
+		<text>本部、応答願う、%sへ増援を要請する。</text>
+	</string>
+	<string id="st_wrfr_request_squad_2">
+		<text>こちら本部、%sに増援が必要だ。</text>
+	</string>
+	<string id="st_wrfr_request_squad_3">
+		<text>こちら本部、%sに増援を送る。オーバー。</text>
+	</string>
+	<string id="st_wrfr_request_squad_4">
+		<text>本部、応答求む、%sに増援を要請する。</text>
+	</string>
+	<string id="st_wrfr_request_squad_5">
+		<text>本部、至急%sに増援を要請する。オーバー</text>
+	</string>
+
+	<string id="st_wrfr_respond_affirmative_1">
+		<text>了解、%sから部隊を送る。</text>
+	</string>
+	<string id="st_wrfr_respond_affirmative_2">
+		<text>了解、今すぐ%sから部隊を送る。</text>
+	</string>
+	<string id="st_wrfr_respond_affirmative_3">
+		<text>了解、現在%sから部隊を送っている。</text>
+	</string>
+	<string id="st_wrfr_respond_affirmative_4">
+		<text>了解、%sから部隊をそちらに展開する。</text>
+	</string>
+	<string id="st_wrfr_respond_affirmative_5">
+		<text>了解、%sの部隊がそちらに移動中。</text>
+	</string>
+	
+	<string id="st_wrfr_respond_ontheway_1">
+		<text>待機せよ、%sに向かっている。</text>
+	</string>
+	<string id="st_wrfr_respond_ontheway_2">
+		<text>おい、もう%sに向かってるぞ、オーバー。</text>
+	</string>
+	<string id="st_wrfr_respond_ontheway_3">
+		<text>本部から、%sにいるそちらの部隊の座標を受信した。</text>
+	</string>
+	<string id="st_wrfr_respond_ontheway_4">
+		<text>%sに向かっているところだ、もう少し待て。</text>
+	</string>
+	<string id="st_wrfr_respond_ontheway_5">
+		<text>今%sに向かっているところだ。</text>
+	</string>
+	
+	<string id="st_wrfr_respond_negative_1">
+		<text>ネガティヴ、付近に増援を送れる拠点がない、オーバー。</text>
+	</string>
+	<string id="st_wrfr_respond_negative_2">
+		<text>そちらの周囲に拠点がないため増援が送れない、オーバー。</text>
+	</string>
+	<string id="st_wrfr_respond_negative_3">
+		<text>ネガティヴ、そちらの周囲に拠点がない、オーバー。</text>
+	</string>
+	<string id="st_wrfr_respond_negative_4">
+		<text>無理だ、そちらの周囲には我々の拠点はない、オーバー。</text>
+	</string>
+	<string id="st_wrfr_respond_negative_5">
+		<text>無理だ、増援を送れる拠点がない。</text>
+	</string>
+
+
+
+
+	<string id="st_wrfr_invasion_attack">
+		<text>攻撃部隊の%sが、%sに攻撃を開始している。</text>
+	</string>
+	<string id="st_wrfr_invasion_defense_incoming">
+		<text>敵軍が%sに接近中。</text>
+	</string>
+	
+	<string id="st_wrfr_invasion_defense_clear_1">
+		<text>本部、%sを標的とする敵軍を排除した、オーバー。</text>
+	</string>
+	<string id="st_wrfr_invasion_defense_clear_2">
+		<text>よくやった、奴らを全滅させた。%sにて疲れを癒すといい。</text>
+	</string>
+	<string id="st_wrfr_invasion_defense_clear_3">
+		<text>よくやった、みんな。%sにもう敵はいないようだ。</text>
+	</string>
+	<string id="st_wrfr_invasion_defense_clear_4">
+		<text>%sの安全は確保された。</text>
+	</string>
+	<string id="st_wrfr_invasion_defense_clear_5">
+		<text>こちら本部、%sに攻撃中の部隊を撃退した、オーバー。</text>
+	</string>
+	
+	<string id="st_wrfr_invasion_defense_fullyreinforced">
+		<text>敵軍が%sに接近中。援軍が送られた。</text>
+	</string>
+	<string id="st_wrfr_invasion_defense_partlyreinforced">
+		<text>敵軍が%sに接近中。もっと増援を求む！</text>
+	</string>
+	<string id="st_wrfr_invasion_defense_notreinforced">
+		<text>敵軍が%sに接近中。増援を要請する！</text>
+	</string>
+
+
+</string_table>

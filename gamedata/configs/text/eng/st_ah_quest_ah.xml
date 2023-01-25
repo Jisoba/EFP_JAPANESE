@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+    <string id="ah_ecolog">
+        <text>エクスプローラー</text>
+    </string>
+
+    <string id="Quest1_desc">
+        <text>クエストの内容</text>
+    </string>
+    <string id="Quest1_title">
+        <text>最初のクエストのタイトル</text>
+    </string>
+    
+    <string id="ah_redirect_to_kovalev_quest_title">
+        <text>エクスプローラー:グレートスワンプにいるコバレフ助手を探せ</text>
+    </string>
+    <string id="ah_redirect_to_kovalev_quest_desc">
+        <text>グレートスワンプのコバレフ助手が研究の手助けを必要としているという情報を得た。沼地の南にある旧教会で彼を探してみよう。</text>
+    </string>
+
+    <string id="ah_redirect_to_markov_quest_title">
+        <text>エクスプローラー:ヤンターでマルコフ教授を探せ</text>
+    </string>
+    <string id="ah_redirect_to_markov_quest_desc">
+        <text>マルコフ教授を探さなければならない。彼はヤノフの科学者用施設の近くにいるはずだ。</text>
+    </string>
+
+    <string id="ah_redirect_to_pirogov_quest_title">
+        <text>研究者たち: ピロゴフ博士を探せ</text>
+    </string>
+    <string id="ah_redirect_to_pirogov_quest_desc">
+        <text>ピゴロフ博士はダークバレーの調査を任されていた。彼がまだ生きているかどうか確認しなければならない。</text>
+    </string>
+
+    <string id="ah_redirect_to_chernov_quest_title">
+        <text>研究者たち: チェルノフ教授を探せ</text>
+    </string>
+    <string id="ah_redirect_to_chernov_quest_desc">
+        <text>チェルノフ上級教授を探さなければならない。彼が最後にも目撃されたのは陸軍倉庫の北にある廃屋だそうだ。</text>
+    </string>
+
+    <string id="ah_redirect_to_juk_quest_title">
+        <text>エクスプローラー:ジュク教授を探せ</text>
+    </string>
+    <string id="ah_redirect_to_juk_quest_desc">
+        <text>仕事を探すために、ジュク教授と話してみよう。ジュピターのヤノフ駅付近に、彼はいるだろう。</text>
+    </string>   
+
+    <string id="ah_redirect_to_vorobushkin_quest_title">
+        <text>エクスプローラー:ヴォロブシキン教授を探せ</text>
+    </string>
+    <string id="ah_redirect_to_vorobushkin_quest_desc">
+        <text>ヴォロブシキン教授は、レンジャー・ステーションに滞在している。研究チームを助けるために、彼を見つけなければ。 </text>
+    </string>   
+
+    <string id="ah_redirect_to_skabinsky_quest_title">
+        <text>研究者たち: スカビンスキー教授を探せ</text>
+    </string>
+    <string id="ah_redirect_to_skabinsky_quest_desc">
+        <text>ヴォロブシキン教授によると、作戦の責任者であるスカビンスキー教授は既に先に進んでいて、現在CNPPの北部のどこかにいるらしい。どうやってそこに行ったのか分からないが、早く彼を見つけなければならない。</text>
+    </string>       
+
+    <string id="ah_fail_skabinsky_quest_title">
+        <text>研究者たち: スカビンスキー教授を探せ</text>
+    </string>
+    <string id="ah_fail_skabinsky_quest_desc">
+        <text>ヴォロブシキン教授の計算はまだ不完全だが、アッシュアノマリーのほうを指しているようだ。私はスカビンスキー教授を探さなければならない。彼はすでにそこで私を待っているようだ。</text>
+    </string>   
+    
+    <string id="ah_kovalev_quest1_title">
+        <text>研究者たち: コバレフ教授に3つのアノマリーサンプルを渡せ。</text>
+    </string>
+    <string id="ah_kovalev_quest1_desc">
+        <text>スワンプの研究チームは現在、いくつかのアノマリーフィールドからサンプルを探しているようだ。コバレフ教授から、3つのサンプルを探してほしいと頼まれた。</text>
+    </string>   
+    <string id="ah_bol_o1_title">
+        <text>フェルミアノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_bol_o1_desc">
+        <text>サンプルの一つがフェルミアノマリーにあるようだ。</text>
+    </string>       
+    <string id="ah_bol_o2_title">
+        <text>スワンプラヴィンアノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_bol_o2_desc">
+        <text>サンプルの一つがスワンプラヴィンアノマリーにあるようだ。</text>
+    </string>       
+    <string id="ah_bol_g1_title">
+        <text>沼地叩きアノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_bol_g1_desc">
+        <text>サンプルの一つが沼地叩きアノマリーにあるようだ。</text>
+    </string>       
+    
+    <string id="ah_bol_e1_title">
+        <text>雷鳴アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_bol_e1_desc">
+        <text>サンプルの一つが雷鳴アノマリーにあるようだ。</text>
+    </string>   
+
+    <string id="ah_kovalev_quest2_title">
+        <text>研究者たち:コバレフ教授のノートパソコンと3つのアノマリーサンプルを渡す。</text>
+    </string>
+    <string id="ah_kovalev_quest2_desc">
+        <text>コバレフ教授はアグロプロムで現地調査を行っていたが、彼のチームは作業中に待ち伏せされた。彼が残したノートパソコンを見つけ、データを確認すれば、どのアノマリーをサンプルとしてスキャンすべきか教えてくれるはずだ。</text>
+    </string>   
+    <string id="ah_agr_pda_title">
+        <text>ナーブレッカーアノマリーの近くにあるコバレフ教授のノートPCを探せ</text>
+    </string>
+    <string id="ah_agr_pda_desc">
+        <text>ノートPCはチームが攻撃されたビルの2階にあるはずだ。手に入れるには、電気アノマリーと精神波を通過する必要がある。</text>
+    </string>   
+    <string id="ah_agr_none_title">
+        <text>位置不明のサンプルを探せ。</text>
+    </string>
+    <string id="ah_agr_none_desc">
+        <text>正確な位置は、コバレフのノートパソコンで確認できる。</text>
+    </string>       
+    <string id="ah_agr_g1_title">
+        <text>どん底の鉤爪アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_agr_g1_desc">
+        <text>奇妙な重力アノマリー。登れそうだ。</text>
+    </string>       
+    <string id="ah_agr_g2_title">
+        <text>奇襲隊アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_agr_g2_desc">
+        <text>サンプルの一つが奇襲隊アノマリーにあるようだ。</text>
+    </string>   
+    <string id="ah_agr_h1_title">
+        <text>犬の肉砕き器アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_agr_h1_desc">
+        <text>サンプルの一つが犬の肉砕き器アノマリーにあるようだ。</text>
+    </string>   
+
+    <string id="ah_markov_quest1_title">
+        <text>研究者たち: マルコフ教授に3つのアノマリーサンプルを渡せ。</text>
+    </string>
+    <string id="ah_markov_quest1_desc">
+        <text>ヤンターのマルコフ教授から、3つのアノマリーをスキャナーでスキャンして、何か変わったアーティファクトがないか探してほしいと頼まれた。</text>
+    </string>   
+    <string id="ah_yan_o1_title">
+        <text>大かがり火アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_yan_o1_desc">
+        <text>サンプルの一つが大かがり火アノマリーにあるようだ。</text>
+    </string>       
+    <string id="ah_yan_h1_title">
+        <text>黒い水アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_yan_h1_desc">
+        <text>サンプルの一つが黒い水アノマリーにあるようだ。 </text>
+    </string>       
+    <string id="ah_yan_h2_title">
+        <text>コンクリート捨場アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_yan_h2_desc">
+        <text>サンプルの一つがコンクリート捨場アノマリーにあるようだ。精神波から身を守る手段が必要になるだろう。</text>
+    </string>       
+    
+    <string id="ah_markov_quest2_title">
+        <text>エクスプローラー:マルコフ教授にワイルドテリトリーにある3つのアーティファクトを渡せ</text>
+    </string>
+    <string id="ah_markov_quest2_desc">
+        <text>マルコフ教授の指示で 捜索範囲を拡大することになった ワイルドテリトリーの3箇所を調査することになっている。</text>
+    </string>   
+    <string id="ah_dt_o1_title">
+        <text>放射能ワークショップアノマリーでサンプルを探せ </text>
+    </string>
+    <string id="ah_dt_o1_desc">
+        <text>このアノマリーは地図に載っていない。ロストク前のチェックポイントの手前でワークショップがあるが、高濃度の放射能を帯びている。</text>
+    </string>       
+    <string id="ah_dt_e1_title">
+        <text>サクサク列車アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_dt_e1_desc">
+        <text>このアノマリーは電気系のアノマリーだ。十分なボルトを持って行くべきだ。</text>
+    </string>       
+    <string id="ah_dt_e2_title">
+        <text>火花の死角アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_dt_e2_desc">
+        <text>このアノマリーは地下トンネルにある。安全な通路があると聞いたが...</text>
+    </string>   
+
+    <string id="ah_markov_quest3_title">
+        <text>エクスプローラー:マルコフ教授にX16研究所にある3つのアーティファクトを渡せ</text>
+    </string>
+    <string id="ah_markov_quest3_desc">
+        <text>旧X16研究所の近くで3つのアーティファクトを見つけよう。ミラクル・マシンのせいで、適切な精神的保護がなければ不可能だ。サハロフ教授がその手助けをしてくれるはずだ。</text>
+    </string>   
+    <string id="ah_yan_e1_title">
+        <text>テスラアノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_yan_e1_desc">
+        <text>このアノマリーは電気系のアノマリーだ。十分なボルトを持って行くべきだ。</text>
+    </string>       
+    <string id="ah_yan_e2_title">
+        <text>エジソンアノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_yan_e2_desc">
+        <text>スキャナーを使えば見つかるはずだ。</text>
+    </string>       
+    <string id="ah_yan_g1_title">
+        <text>工場のどこかにあるサンプルを探せ</text>
+    </string>
+    <string id="ah_yan_g1_desc">
+        <text>研究者は誰もこの施設に入ったことがないが、スキャナーは強いアノマリーの活動を示している。気をつけて進まなければ。</text>
+    </string>   
+
+    <string id="ah_pirogov_quest1_title">
+        <text>研究者たち:ピロゴフ教授にダークバレーにある3つのアノマリーサンプルを渡せ</text>
+    </string>
+    <string id="ah_pirogov_quest1_desc">
+        <text>ピロゴフ教授に依頼され、ダークバレーで3つの異なるアノマリーを調べることになった。この辺りはミュータントやBanditが頻繁に出没するので、注意せねば。</text>
+    </string>   
+    <string id="ah_td_o1_title">
+        <text>トンネル内の火の玉アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_td_o1_desc">
+        <text>ほとんど人が調査していない不思議なアノマリー。火の玉アノマリーのある長いトンネルの先にある。入り口は北側のBanditの基地に近い。</text>
+    </string>       
+    <string id="ah_td_o2_title">
+        <text>輝ける道アノマリーでアーティファクトを探せ</text>
+    </string>
+    <string id="ah_td_o2_desc">
+        <text>スキャナーを使えば見つかるはずだ。</text>
+    </string>       
+    <string id="ah_td_e1_title">
+        <text>泡風呂アノマリーでアーティファクトを探せ</text>
+    </string>
+    <string id="ah_td_e1_desc">
+        <text>泡風呂アノマリーはBanditの拠点内にあるため、Bandit達をまとめて相手するのでなければ、こっそりと侵入した方が良いだろう。</text>
+    </string>       
+    
+    <string id="ah_pirogov_quest2_title">
+        <text>研究者たち: ピロゴフ候補にトラック墓地のサンプルを3つ渡せ。</text>
+    </string>
+    <string id="ah_pirogov_quest2_desc">
+        <text>さらに北上し、ピロゴフからトラック墓地を見てくるように言われた。ダークバレーと同じように、この地域にはミュータントやBanditがウヨウヨしている。</text>
+    </string>
+    <string id="ah_kt_g1_title">
+        <text>バスのわだちアノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_kt_g1_desc">
+        <text>スキャナーを使えば見つかるはずだ。</text>
+    </string>       
+    <string id="ah_kt_o1_title">
+        <text>木炭の忍耐アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_kt_o1_desc">
+        <text>サンプルの一つが木炭の忍耐アノマリーにあるようだ。</text>
+    </string>       
+    <string id="ah_kt_h1_title">
+        <text>イバラの風呂アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_kt_h1_desc">
+        <text>サンプルの一つがイバラの風呂アノマリーにあるようだ。</text>
+    </string>   
+
+    <string id="ah_pirogov_quest3_title">
+        <text>研究者たち: ピロゴフ候補にアシスタントのPDAと2つのアノマリーサンプルを渡せ</text>
+    </string>
+    <string id="ah_pirogov_quest3_desc">
+        <text>先にガベージのアノマリーを調べていたピロゴフの助手が行方不明になっている。しかし、彼のPDAには、この地域のすべてのアノマリーのスキャンデータがあった。助手を探し出し、データを回収して、問題のアノマリーからサンプルを採取する必要がある。</text>
+    </string>   
+    <string id="ah_sv_pda_title">
+        <text>行方不明になったピロゴフの助手を探せ</text>
+    </string>
+    <string id="ah_sv_pda_desc">
+        <text>おそらくストーカーはBanditに襲われたのだろう。最後の無線連絡はフリーマーケットだと聞いたので、そこから捜索を始めるべきだ。</text>
+    </string>       
+    <string id="ah_sv_g1_title">
+        <text>魔女のゼリーアノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_sv_g1_desc">
+        <text>かなり大きく、毒々しいアノマリーだ。これは厄介なことになりそうだ。</text>
+    </string>       
+    <string id="ah_sv_h1_title">
+        <text>シナプスアノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_sv_h1_desc">
+        <text>スキャナーを使えば見つかるはずだ。</text>
+    </string>       
+    <string id="ah_sv_none_title">
+        <text>行方不明のストーカーのPDAからスキャンデータを取得しろ</text>
+    </string>
+    <string id="ah_sv_none_desc">
+        <text>問題のアノマリーを発見するのに必要なスキャンデータは、行方不明のストーカーのPDAにある。彼を見つけなければならない。</text>
+    </string>       
+    
+    <string id="ah_chernov_quest1_title">
+        <text>エクスプローラー:チェルノフ教授に陸軍倉庫から3つのアーティファクトを渡せ</text>
+    </string>
+    <string id="ah_chernov_quest1_desc">
+        <text>3種類のアーティファクトを探し出し、チェルノフ教授のもとに持っていかなければならない。陸軍倉庫は危険な場所なので、腕が試されることだろう。</text>
+    </string>   
+    <string id="ah_mil_h1_title">
+        <text>死体処理機アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_mil_h1_desc">
+        <text>スキャナーを使えば見つかるはずだ。</text>
+    </string>       
+    <string id="ah_mil_g1_title">
+        <text>潰し器アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_mil_g1_desc">
+        <text>サンプルの一つが潰し器アノマリーにあるようだ</text>
+    </string>       
+    <string id="ah_mil_o1_title">
+        <text>地獄の壁アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_mil_o1_desc">
+        <text>強い熱を放ち、バーナー地雷がはびこる猛烈なアノマリーフィールドだ。サンプルを手に入れたら、一刻も早く脱出しなければ。</text>
+    </string>   
+    
+    <string id="ah_chernov_quest3_title">
+        <text>エクスプローラー:チェルノフにストーカーのPDAとレッドフォレストのサンプル2個を渡す。</text>
+    </string>
+    <string id="ah_chernov_quest3_desc">
+        <text>チェルノフ教授は、あるストーカーにレッド・フォレストのアノマリーの位置のマッピングを命じた。彼はマッピングを完成させたが、データを渡す前にこの地域から逃げ出すことになったようだ。私は彼のPDAを探すことになった。リマンスクへの橋のそばのトンネルのどこかに残されているようだ。</text>
+    </string>   
+    <string id="ah_les_pda_title">
+        <text>西のトンネルで、ストーカーのPDAを見つける。</text>
+    </string>
+    <string id="ah_les_pda_desc">
+        <text>Monolithの信者から逃げている間、ストーカーはスキャンデータを入れたPDAを西側トンネルのどこかに落としたようだ。 それを見つけないと、どのアノマリーを調べればいいのかわからない。</text>
+    </string>       
+    <string id="ah_les_o1_title">
+        <text>共生生物アノマリーでサンプルを探す</text>
+    </string>
+    <string id="ah_les_o1_desc">
+        <text>スキャンデータを解析した結果、ここが目的のポイントの1つになっているようだ。</text>
+    </string>       
+    <string id="ah_les_e1_title">
+        <text>地下電気アノマリーでサンプルを探す</text>
+    </string>
+    <string id="ah_les_e1_desc">
+        <text>データを分析した結果、北西の坑道に隠れた地下のアノマリーがあるようだ。調査してみよう。</text>
+    </string>   
+    <string id="ah_les_none_title">
+        <text>レッドフォレストのどこかにあるアーティファクトを探せ</text>
+    </string>
+    <string id="ah_les_none_desc">
+        <text>私はレッドフォレストで2種類のアーティファクトを見つけることになっている。しかし、その場所を特定するためには、前のストーカーが西の坑道のどこかで紛失した、スキャンデータの入ったPDAを見つける必要がある。</text>
+    </string>       
+    
+    <string id="ah_chernov_quest4_title">
+        <text>エクスプローラー:人工アーティファクトを探せ</text>
+    </string>
+    <string id="ah_chernov_quest4_desc">
+        <text>チェルノフによると、彼とその同僚は、事故の前から人工的にアーティファクトを作り出すことに成功していた。私は彼の元同僚の家に向かい、アーティファクトがまだそこにあるかどうかを確認する必要がある。今、彼の家の近くには異常な磁場があるが、これは偶然ではないだろう。気をつけなければ。</text>
+    </string>   
+    
+    <string id="ah_chernov_quest5_title">
+        <text>エクスプローラー:X-19研究所を探索しろ</text>
+    </string>
+    <string id="ah_chernov_quest5_desc">
+        <text>X-19研究所、通称「バンカー」は、アーティファクトの作成に携わっていたようだ。研究所は破壊されたが、残された文書を見つけられるかもしれない。「アーティファクトファーム」の場所も。 </text>
+    </string>   
+    <string id="ah_rad_pda_title">
+        <text>X-19の入口を見つけろ</text>
+    </string>
+    <string id="ah_rad_pda_desc">
+        <text>この「アーティファクト・ベッド」の手掛かりになるようなものがないか、周辺を捜索してみよう。入り口のどこかに、書類の束があったような気がする。</text>
+    </string>       
+    <string id="ah_rad_r_title">
+        <text>X-19研究所の南側、デッドウッドで3つのアーティファクトサンプルを見つけろ。</text>
+    </string>
+    <string id="ah_rad_r_desc">
+        <text>見つけた資料によると、アーティファクトは施設の南側の森で「栽培」されていたようだ。広い範囲での捜索になりますが、森全体をスキャンしてサンプルを探す必要がある。</text>
+    </string>       
+
+    <string id="ah_chernov_quest6_title">
+        <text>研究者たち:デッドシティで2つのアーティファクトを見つけろ</text>
+    </string>
+    <string id="ah_chernov_quest6_desc">
+        <text>チェルノフ教授から、未調査のデッドシティ内のアノマリーをスキャンし、完成させるよう依頼を受けた。彼が注目している2つのアノマリーのおおよその座標を私に教えてくれた。</text>
+    </string>   
+    <string id="ah_mg_o1_title">
+        <text>管理棟でサンプルを探せ</text>
+    </string>       
+    <string id="ah_mg_o1_desc">
+        <text>スキャナーを使えば見つかるはずだ。</text>
+    </string>
+    <string id="ah_mg_g1_title">
+        <text>文化の館アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_mg_g1_desc">
+        <text>スキャナーを使えば見つかるはずだ。</text>
+    </string>       
+
+    <string id="ah_juk_quest1_title">
+        <text>研究者たち:ジュピターにある3つのアノマリーサンプルを探せ</text>
+    </string>
+    <string id="ah_juk_quest1_desc">
+        <text>ジュク教授は、ジュピターのさまざまな種類のアノマリーからサンプルを採取してスペクトログラムを作ろうとしている。彼は私に3つのアノマリーからサンプルを見つけるよう命じた。</text>
+    </string>   
+    <string id="ah_up_g1_title">
+        <text>歴青アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_up_g1_desc">
+        <text>熱系アノマリーだから、サンプルの採取には適切な保護が必要だ。</text>
+    </string>       
+    <string id="ah_up_h1_title">
+        <text>コンクリート風呂アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_up_h1_desc">
+        <text>ストーカーは、下の酸のプールを避けるためにセメントの柱に飛び乗るそうだ。</text>
+    </string>       
+    <string id="ah_up_h2_title">
+        <text>アノマリーグローブでサンプルを探せ</text>
+    </string>
+    <string id="ah_up_h2_desc">
+        <text>この有毒なアノマリーには、何らかの適切な保護が必要になるだろう。</text>
+    </string>
+
+    <string id="ah_juk_quest2_title">
+        <text>研究者たち:ジュク教授の残りのサンプルを探せ</text>
+    </string>
+    <string id="ah_juk_quest2_desc">
+        <text>2つ目のサンプルを得るには 残りのアノマリーをスキャンする必要がある。ジュク教授が正確な位置を教えてくれた。</text>
+    </string>   
+    <string id="ah_up_e2_title">
+        <text>アノマリートレインでアーティファクトを探せ</text>
+    </string>
+    <string id="ah_up_e2_desc">
+        <text>この電気アノマリーは、科学者の研究所（掩体壕）の近くにある列車の荷台の中にあるようだ。記憶が確かなら、荷台の屋根には脱出用のハッチがあり、それを使って中に入ることができたはずだ。</text>
+    </string>       
+    <string id="ah_up_e1_title">
+        <text>北西トンネルでアーティファクトを探せ</text>
+    </string>
+    <string id="ah_up_e1_desc">
+        <text>このトンネルはあまり探索されてないが故に興味深く感じる。しかし、このトンネルはコントローラーが跋扈しているという噂を耳にした。</text>
+    </string>       
+    <string id="ah_up_g2_title">
+        <text>ヴォルホフ対空ミサイル施設でアーティファクトを探せ</text>
+    </string>
+    <string id="ah_up_g2_desc">
+        <text>地下にアノマリーが発生したため、かつての対空ミサイル施設は放棄されている。ミュータントの温床にもなっているから、気を付けて進もう。</text>
+    </string>
+
+    <string id="ah_juk_quest3_title">
+        <text>エクスプローラー: プリピャチ郊外で4つのアノマリーサンプルを見つけろ</text>
+    </string>
+    <string id="ah_juk_quest3_desc">
+        <text>プリピャチ内部は、Monolithにより、科学者たちの立ち入ることは事実上不可能だ。しかし、研究を完成させるためには、プリピャチ市のアノマリーから採取したサンプルが不可欠である。それを見つけなければならない。</text>
+    </string>   
+    <string id="ah_p_h1_title">
+        <text>ツタ植物アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_p_h1_desc">
+        <text>ツタ植物アノマリーはプリピャチ郊外にある最も魅力的なアノマリーである。私はそれに登り、アノマリーの頂上でサンプルを探すことになっている。</text>
+    </string>       
+    <string id="ah_p_g1_title">
+        <text>学校でサンプルを探せ</text>
+    </string>
+    <string id="ah_p_g1_desc">
+        <text>旧校舎の真ん中に巨大な重力アノマリーがある。何階にも及んでいるので、建物の中を調べる必要がありそうだ。</text>
+    </string>       
+    <string id="ah_p_g2_title">
+        <text>門番アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_p_g2_desc">
+        <text>この場所での測定値は桁外れだ。数キロ離れた場所でも、複数の種類のアノマリーが検出された。サンプルを採取するために、このエリアをスキャンしなければ。</text>
+    </string>
+    <string id="ah_p_e1_title">
+        <text>謎の電気アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_p_e1_desc">
+        <text>プリピャチの南側にもノーマークだったアノマリーがある。それもスキャンしてみようか。</text>
+    </string>   
+    
+    <string id="ah_vorobushkin_quest1_title">
+        <text>研究者たち:ボロブシキンのメモリモジュールと3つのアノマリーサンプルを見つけろ</text>
+    </string>
+    <string id="ah_vorobushkin_quest1_desc">
+        <text>ボロブシキン教授は、クルーグ複合アンテナ施設の機器の一部を修理して使うことに成功した。彼はそこにメモリモジュールを残していった。そこには、私がサンプルを探すのに必要なアノマリーの位置が記録されている。</text>
+    </string>   
+    <string id="ah_zat_pda_title">
+        <text>VNZ "サークル"メモリモジュールを探せ</text>
+    </string>
+    <string id="ah_zat_pda_desc">
+        <text>ボロブシキン教授はモジュールを地下に置いたまま帰った。 スキャンすべきアノマリーを知るためには、それを見つける必要がある。</text>
+    </string>       
+    <string id="ah_zat_h1_title">
+        <text>沼地アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_zat_h1_desc">
+        <text>重力と毒性の巨大なアノマリーフィールドだ。五体満足でいるためには、この場は注意深く移動する必要がある。</text>
+    </string>       
+    <string id="ah_zat_h2_title">
+        <text>オークパインアノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_zat_h2_desc">
+        <text>郊外のツタ植物アノマリーに似た、大きな毒性アノマリー。こちらも登れるだろうか？</text>
+    </string>
+    <string id="ah_zat_none_title">
+        <text>ザトンのどこかにあるアーティファクトを探せ</text>
+    </string>
+    <string id="ah_zat_none_desc">
+        <text>調査すべきアノマリーの正確な位置を知るために、ボロブシキンのメモリーモジュールからスキャンデータを取り出す必要がある。</text>
+    </string>
+    
+    <string id="ah_vorobushkin_quest2_title">
+        <text>研究者たち: ボロブシキンのためにザトンでさらに3つのアーティファクトを見つけろ</text>
+    </string>
+    <string id="ah_vorobushkin_quest2_desc">
+        <text>異なるアーティファクトのスペクトログラムを完成させるため、ボロブシキン教授はザトンに残る3つのアノマリーをスキャンするよう私に依頼した。</text>
+    </string>   
+    <string id="ah_zat_o1_title">
+        <text>蒸気アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_zat_o1_desc">
+        <text>勇敢な科学者の命を奪った厄介な熱アノマリー。安全に移動するためには、適切な保護か、素早い足取りが必要だ。</text>
+    </string>       
+    <string id="ah_zat_g1_title">
+        <text>鉤爪アノマリーでサンプルを探せ</text>
+    </string>
+    <string id="ah_zat_g1_desc">
+        <text>この重力アノマリーは一連のトンネルに繋がっているようだ。スキャンデータから、サンプルは何らかの方法でトンネルに移動したことが示唆される。</text>
+    </string>       
+    <string id="ah_zat_g2_title">
+        <text>プレオブラジェンスキー橋でサンプルを探せ</text>
+    </string>
+    <string id="ah_zat_g2_desc">
+        <text>この半分壊れた橋は、重力アノマリーが多く発生している。慎重に渡れば大丈夫だが、十分なボルトを持っていかなければならない。</text>
+    </string>
+
+    <string id="ah_skabinsky_quest1_title">
+        <text>研究者たち:学者スカビンスキーに「トーキングストーン」を渡せ</text>
+    </string>
+    <string id="ah_skabinsky_quest1_desc">
+        <text>これがそうだ。スカビンクス教授はこのアーティファクトのためにはるばるやってきたのだ。不思議な力を発している。急いで彼に見せなければ。彼はザトンで私を待っている。</text>
+    </string>   
+    <string id="ah_gen_f1_title">
+        <text>ひき肉製造機アノマリーでアーティファクトを探せ</text>
+    </string>
+    <string id="ah_gen_f1_desc">
+        <text>おそらくこの場所は、ゾーンの中心と呼ぶことができるだろう。ここがヌースフィアのすべての混乱の始まりだ。スキャンによると、地下で活動しているようだ、まずは地下への道を探さねば。</text>
+    </string>
+
+    <string id="cs_story_task0_name">
+        <text>最後の夜明け:スキャナーをスポアに返す</text>
+    </string>
+    <string id="cs_story_task0_name1">
+        <text>最後の夜明け: 沼地の南西にあるアノマリーからスキャナーを回収する。</text>
+    </string>
+
+    <string id="cs_task0_ambush_renegade_story_name">
+        <text>最後の夜明け: コールドと話す</text>
+    </string>
+    <string id="cs_task0_ambush_renegade_story_name1">
+        <text>最後の夜明け:Renegadeを撃退する</text>
+    </string>
+
+    <string id="cs_task0_ambush_renegade_story_name3">
+        <text>最後の夜明け: コールドと話す</text>
+    </string>
+    <string id="cs_task0_ambush_renegade_story_name4">
+        <text>最後の夜明け:Renegadeのストーカーから南東の農場を守る。</text>
+    </string>
+
+    <string id="cs_task0_ambush_renegade_story_descr">
+        <text>Clearskyの部隊がポンプ場を守るのを協力しろ</text>
+    </string>
+
+    <string id="cs_task0_ambush_renegade_story_descr2">
+        <text>Clearskyの突撃隊に協力して、コードンへの道を制圧しろ。</text>
+    </string>
+
+    <string id="cs_story_task0_descr">
+        <text>スキャナーは、クリアスカイ基地の北西のにあるアルキアノマリーを指している。</text>
+    </string>
+    <string id="cs_story_task2_name">
+        <text>最後の夜明け: PDAをスポアに渡せ。</text>
+    </string>
+    <string id="cs_story_task2_descr">
+        <text>クラッチはブラッドサッカーに殺されたが、なんとか彼の仇をとってPDAを手に入れた。</text>
+    </string>
+    <string id="cs_story_task1_name">
+        <text>最後の夜明け:行方不明のスカウトを捜せ</text>
+    </string>
+    <string id="cs_story_task1_descr">
+        <text>クラッチを見つけなければ。クラッチの最後の信号は沼地の道の北から来たとスポアから報告を受けた。急がなければ。</text>
+    </string>
+    <string id="cs_story_task3_start_name">
+        <text>最後の夜明け:コールドに会え</text>
+    </string>
+    <string id="cs_story_task3_start_descr">
+        <text>コールドからスカウトのPDAが解読が終わったため、私に会うために待っていると報告があった。</text>
+    </string>
+    <string id="cs_task4_storytask_name">
+        <text>最後の夜明け:Mercenaryのスカーを探せ</text>
+    </string>
+    <string id="cs_task4_storytask_descr">
+        <text>スカーの居場所を突き止めた。Clearskyの行方不明者について、彼が知っていることを聞き出すのが私の仕事だ。</text>
+    </string>
+    <string id="cs_task5_storytask_name">
+        <text>最後の夜明け:ミュータントを撃退せよ</text>
+    </string>
+    <string id="cs_task5_storytask_name1">
+        <text>最後の夜明け:スカーと話せ</text>
+    </string>
+    <string id="cs_task5_storytask_descr">
+        <text>スードウドッグの群れが俺の匂いをかぎつけたから、反撃に出たんだ。奴らを追い払うのを手伝ってくれたら、お前が知りたいことを教えてやる。</text>
+    </string>
+    <string id="cs_task3_storytask_name">
+        <text>最後の夜明け: スカーについて調べろ</text>
+    </string>
+    <string id="cs_task3_storytask_descr">
+        <text>Mercenaryのスカーという人物を調べたい。あの悪党のシドロビッチが何かしら知っているはずだ。</text>
+    </string>
+    <string id="cs_task9_storytask_name">
+        <text>最後の夜明け: ストライダーと話せ</text>
+    </string>
+    <string id="cs_task9_storytask_descr">
+        <text>ストライダーにデコーダーを届けなければならない。彼の部隊はジュピターに小さな駐屯地を設けたヤノフ駅の南の古い検問所にいる</text>
+    </string>
+    <string id="cs_task11_storytask_name">
+        <text>最後の夜明け: ストライダーと話せ</text>
+    </string>
+    <string id="cs_task11_storytask_descr">
+        <text>スカーによると、Clearskyの生存者がMonolithのアウトキャストに参加したそうだ。 リーダーの名前はストライダーで、彼の部隊はジュピターのヤノフ駅南側の古い検問所にいるらしい。彼を見つけてClearskyのストーカーを知らないか聞かなければ。</text>
+    </string>
+    <string id="cs_task10_storytask_name">
+        <text>最後の夜明け:コールドと話せ</text>
+    </string>
+    <string id="cs_task10_storytask_descr">
+        <text>私の任務は完了した。コールドに報告して、部下がまだ生きていると伝える必要がある</text>
+    </string>
+    <string id="cs_task8_storytask_name">
+        <text>最後の夜明け:反撃の狼煙を上げる</text>
+    </string>
+    <string id="cs_task8_storytask_name1">
+        <text>最後の夜明け:ガマジュンと話せ</text>
+    </string>
+    <string id="cs_task8_storytask_descr">
+        <text>アウトキャストによると、プリピャチの北東の河港にいる狂信者は、暗号化された会話を解読する装置を持っているそうだ。それを回収する必要がある。</text>
+    </string>
+    <string id="cs_task7_storytask_name">
+        <text>最後の夜明け:デバイスを押さえる</text>
+    </string>
+    <string id="cs_task7_storytask_descr">
+        <text>アウトキャストたちによると、河港にいる狂信者たちは暗号化された会話を解読する装置を持っているとのことだ。</text>
+    </string>
+    <string id="cs_task6_storytask_name1">
+        <text>最後の夜明け:ガマジュンと話せ</text>
+    </string>
+    <string id="cs_task6_storytask_name">
+        <text>最後の夜明け:悪党スカウト部隊を救出する</text>
+    </string>
+    <string id="cs_task6_storytask_descr">
+        <text>Monolithのアウトキャスト部隊がプリピャチ東部、寮の近くに捕らわれている。その中には、Clearskyの生き残りのメンバーもいる。彼らを助け出せなければ、任務は失敗だ。</text>
+    </string>
+
+
+
+<string id="cs_anom_pribor_name">
+        <text>アノマリー検知装置</text>
+    </string>
+    <string id="cs_deshefrator_name">
+        <text>デコーダ</text>
+    </string>
+    <string id="cs_deshefrator_desc">
+        <text>Outcasts of the Monolithたちが、狂信者たちの会話を盗聴するために使用する装置。</text>
+    </string>
+    <string id="st_wpn_bm16_ohotnik">
+        <text>ハンターのBM-16 ショットガン</text>
+    </string>
+    <string id="st_wpn_bm16_ohotnik_descr">
+        <text>古いショットガンに、いくつかのマークが描かれている。</text>
+    </string>
+    <string id="pda_dragun_name">
+        <text>スカーのPDA</text>
+    </string>
+    <string id="pda_dragun_desc">
+        <text>数ある記述の中で、非常に興味深いものがあった。「ストライダーはMonolithに対抗するため、新たなグループを結成した。噂によると、彼の部下にはレベデフのストライクチームの元メンバーがいるらしい"</text>
+    </string>
+    <string id="bar_case_name">
+        <text>重厚なブリーフケース</text>
+    </string>
+    <string id="bar_case_desc">
+        <text>バーテンダーの戦利品付き特別ケース。</text>
+    </string>
+    <string id="cs_anom_pribor_desc">
+        <text>Clear Skyが保有する、アノマリーフィールドを研究するための特殊な装置。</text>
+    </string>
+    <string id="cs_informer_pda_name">
+        <text>クラッチのPDA</text>
+    </string>
+    <string id="cs_informer_pda_desc">
+        <text>Clear Sky派閥に関連する暗号化された情報がこのPDAに保存されている。</text>
+    </string>
+    <string id="crazy_stalker_flash_name">
+        <text>狂い人のフラッシュドライブ.</text>
+    </string>
+    <string id="crazy_stalker_flash_desc">
+        <text>情報は暗号化されている。</text>
+    </string>
+    <string id="escape_docs_name">
+        <text>障害物の文書</text>
+    </string>
+    <string id="escape_docs_desc">
+        <text>ゾーン北部の軍事遠征報告書</text>
+    </string>
+    <string id="st_voen_scaner">
+        <text>アノマリー測定用小型スキャナ</text>
+    </string>
+    <string id="st_voen_scaner_desc">
+        <text>特にMilitaryのストーカーや科学者グループ向けに作られた測定用最新モデルだが、残念ながらトレーダーにとっては、各スキャナーが独立しており、コードを入力しないと動作しないため、特別な価値はないのである。</text>
+    </string>
+
+<string id="prin_case_traders">
+        <text>ケースを商人に持っていく。</text>
+    </string>
+    <string id="tm_find_case_trader_1">
+        <text>道路封鎖隊のケースを盗め</text>
+    </string>
+    <string id="tm_find_case_trader_1_descr">
+        <text>道路封鎖隊からゾーン北部の軍事遠征の報告書とともにケースを盗み出せ。</text>
+    </string>
+    <string id="prinesi_military_docs_start_0">
+        <text>ならば、スカーの情報を得るためにはどうすればいいのだろうか？</text>
+    </string>
+    <string id="prinesi_military_docs_start_1">
+        <text>実はな... ある北方遠征隊の報告書が入ったケースが ゾーンの奥から道路封鎖隊に渡されたんだ。日中はプルトニウムを積んでいるみたいに警備しているがなぜか夜間は、二人しか見張らないらしい。そのケースを持ってこい。そのための出費は惜しまない...無理のない範囲で。やってくれるよな？</text>
+    </string>
+    <string id="prinesi_military_docs_start_21">
+        <text>引き受けよう。</text>
+    </string>
+    <string id="prinesi_military_docs_start_22">
+        <text>やめておく、命は惜しいんでな。</text>
+    </string>
+    <string id="prinesi_military_docs_start_31">
+        <text>金は用意できたが...騒ぎは起こすな、いいな？連中が怒ると大変なことになるぞ</text>
+    </string>
+    <string id="prinesi_military_docs_done_0">
+        <text>例のケースだ、ほら</text>
+    </string>
+
+    <string id="cs_task0_ambush_renegade_story_descr3">
+        <text>Clearskyの襲撃隊がスワンプの北にいるMilitaryからマシンヤードを奪取するのを助けてあげてください。</text>
+    </string>
+
+    <string id="cs_task0_ambush_renegade_story_name6">
+        <text>最後の夜明け:Militaryを倒し、マシンヤードを占拠せよ。</text>
+    </string>
+
+
+<string id="kuznecov_find_document_1">
+        <text>アグロプロム研究所のダンジョンで文書を探す</text>
+    </string>
+    <string id="kuznecov_find_document_1_descr">
+        <text>研究所での研究内容を記した機密文書を探し出し、クズネツォフ大佐のもとに持っていく。</text>
+    </string>
+    <string id="kuznecov_find_document_2">
+        <text>X-18地下研究所で資料を探す。</text>
+    </string>
+    <string id="kuznecov_find_document_2_descr">
+        <text>クズネツォフ大佐は、秘密研究所X-18から文書を入手するよう命じた。軍司令部は、この研究所群で行われた実験や試験に関する情報を求めていた。</text>
+    </string>
+    <string id="kuznecov_find_document_3">
+        <text>実験室X-16の文書を探し出し、精神波を無効にする</text>
+    </string>
+    <string id="kuznecov_find_document_3_descr">
+        <text>研究所 "アグロプロム "の軍司令は、 湖があったヤンターにある研究所X-16に行き、秘密文書を入手すると同時に、精神波を止めるよう指示した。また、彼はまず精神波への対策をしっかりするようにとアドバイスしてくれた。彼によると、移動式バンカーの科学者たちは、精神波に対する防御手段を開発したばかりだった。</text>
+    </string>
+    <string id="kuznecov_find_document_4">
+        <text>X-10研究所で文書を探し、ブレインスコーチャーを無効化する。</text>
+    </string>
+    <string id="kuznecov_find_document_4_descr">
+        <text>北部への突破の準備はできている精神保護装置は持っている。残るはレーダー施設を突破し、研究室に潜入し文書を手に入れ、ブレインスコーチャーを無効化することだけだ。</text>
+    </string>
+    <string id="kuznecov_find_document_5">
+        <text>X-8研究所にある文書を探す。</text>
+    </string>
+    <string id="kuznecov_find_document_5_descr">
+        <text>私はMilitaryの司令のために、ゾーン内の研究所の実験に関するすべての情報を収集している。今回、クズネツォフは私に、プリピャチのある研究所（X-8）を訪ね、パルスエネルギーを利用した超精密兵器の製造に携わっていたことを突き止め、重要書類をすべて持ち帰るよう命じた。</text>
+    </string>
+    <string id="kuznecov_find_document_6">
+        <text>プリピャチ地下で文書を探す</text>
+    </string>
+    <string id="kuznecov_find_document_6_descr">
+        <text>ストーカーたちが「プリピャチ・ダンジョン」と呼ぶ秘密施設プリピャチ1に潜入し、そこで行われた研究の文書を探し出す必要がある。</text>
+    </string>
+    <string id="kuznecov_find_document_7">
+        <text>チェルノブイリ原発にあるモノリス制御室を破壊し、すべての資料を入手せよ</text>
+    </string>
+    <string id="kuznecov_find_document_7_descr">
+        <text>チェルノブイリ原発にあるモノリス制御バンカーに、最後の資料を取りに行く。これでゾーン最大の謎である「願望機」がどこから来たのかが解き明かされる。また、可能であれば制御室を破壊するよう命じられた。しかし、出発する前に大佐から、沼地にいるある隠者を探せと言われた。地元ではスワンプドクターと呼ばれているが、彼は制御室のドアを開けるためのデコーダーの場所を知っているはずだ。</text>
+    </string>
+    <string id="kuznec_stry_doc">
+        <text>クズネツォフ大佐のもとに戻れ。</text>
+    </string>
+
+<!-- Caaaaei ?a?o yoe oaiaoeeai! -->
+    <string id="assault_gen_name">
+        <text>オペレーション・モノリス・リベンジェンス:CNPPの発電機へ行け</text>
+    </string>
+    <string id="assault_gen_descr">
+        <text>CNPPのジェネレータに攻め込む時が来た。ジェネレータでMilitaryの部隊と合流しろ。彼らは廃村で待機している。</text>
+    </string>
+    <string id="assault_gen_1_name">
+        <text>基地を攻略せよ</text>
+    </string>
+    <string id="st_vasil_nevezuchi">
+        <text>ヴァシル・ネヴェズチー</text>
+    </string>
+    <string id="st_kvartet">
+        <text>シュクリャベンコ大尉</text>
+    </string>
+    <string id="come_to_aes_name">
+        <text>オペレーション・モノリス・リベンジェンス: チェルノブイリ原子力発電所の戦い</text>
+    </string>
+    <string id="come_to_aes_descr">
+        <text>ゾーン内の全部隊にチェルノブイリ原子力発電所への進攻を命じた。オペレーションモノリスの司令官「カルテット」は、ザトンへ通じるゲート付近に現地司令部を設置している。</text>
+    </string>
+    <string id="army_assault_1_name">
+        <text>オペレーション・モノリス・リベンジェンス:最初のチェックポイントを突破しろ</text>
+    </string>
+    <string id="army_assault_1_descr">
+        <text>スペツナズチームとともに最初のチェックポイントを突破しろ。</text>
+    </string>
+    <string id="army_assault_2_name">
+        <text>オペレーション・モノリス・リベンジェンス:二つ目のチェックポイントを突破しろ</text>
+    </string>
+    <string id="army_assault_2_descr">
+        <text>スペツナズチームとともに二つ目のチェックポイントを突破しろ。</text>
+    </string>
+    <string id="army_assault_3_name">
+        <text>オペレーション・モノリス・リベンジェンス:三つ目のチェックポイントを突破しろ</text>
+    </string>
+    <string id="army_assault_3_descr">
+        <text>スペツナズチームとともに三つ目のチェックポイントを突破しろ。</text>
+    </string>           
+    
+    </string_table>

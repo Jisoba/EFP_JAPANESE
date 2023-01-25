@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_pda_name">
+    <text>PDA</text>
+  </string>
+  <string id="st_pda_descr">
+    <text>ゾーンに関する情報、デジタルログ、ゾーンの詳細な地図、アノマリーが発生した場所を記録したPDA。適切な買い手が見つかれば、取引価値は高くなるかもしれない 
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 消費電力 : 小</text>
+  </string>
+  <string id="st_pda_1_name">
+    <text>PDA</text>
+  </string>
+  <string id="st_pda_1_descr">
+    <text>このポケットサイズの電子機器は、コンピューターの基本的かつ最も重要な機能を網羅するように作られており、日々の情報共有に不可欠である。GPSモジュールがプリインストールされており、ユーザーに地理的な位置と時間の情報を提供する。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 消費電力 : 小</text>
+  </string>
+  <string id="st_pda_2_name">
+    <text>PDA（Version 2.0）</text>
+  </string>
+  <string id="st_pda_2_descr">
+    <text>このポケットサイズの電子機器は、コンピューターの基本的かつ最も重要な機能を網羅するように作られており、日々の情報共有に不可欠である。GPSモジュールが内蔵されており、位置情報と時刻情報をユーザーに提供する。このバージョンのモジュールは、半径300メートルのネットワークに接続された他のモジュールの位置情報を取得して処理するように改良されており、このPDAはストーカーにとって魅力的なものとなっている。 
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 消費電力 : 小
+%c[d_purple] ・ 近くにいる同派閥分隊の位置を表示する。\n</text>
+  </string>
+  <string id="st_pda_3_name">
+    <text>PDA（Version 3.1）</text>
+  </string>
+  <string id="st_pda_3_descr">
+    <text>このポケットサイズの電子機器は、コンピューターの基本的かつ最も重要な機能を網羅するように作られており、日々の情報共有に不可欠である。GGPSモジュールが内蔵されており、位置情報と時刻情報をユーザーに提供する。このバージョンのモジュールは、ネットワークに接続されている他のモジュールの位置を取得して処理する機能が大幅に改良されており、このPDAはストーカーにとって魅力的なものとなっている。通常のGPSモジュールと異なり、このモジュールはコードのセットに依存しており、モジュールに接続されたチャネルで特別な権限を取得することにより、詳細な情報を取得することができるようになっている。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 消費電力 : 小
+                %c[d_purple] ・ 近にいる中立分隊の位置を表示する</text>
+  </string>
+  <string id="st_detector1">
+    <text>エコー探知機</text>
+  </string>
+  <string id="st_detector1_descr">
+    <text>この年代物のアノマリー探知機は、アノマリーに近づくことで異常な粒子がチャンバーに入ると、警告信号を出す。また、アーティファクトの存在を登録し、最も近いアーティファクトまでの距離を測定することができる。この距離は、探知機が発する音の周波数によって示される。本体の前面カバーを開けると、アーティファクト探知モードに切り替わる。単純な設計であるため、最も一般的なアーティファクトしか探知できない。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 消費電力 : 小
+</text>
+  </string>
+  <string id="st_detector2">
+    <text>ベア探知機</text>
+  </string>
+  <string id="st_detector2_descr">
+    <text>この最終世代のアノマリー探知機は、アーティファクトを見つけるために使用することができる。カラーダイオードパネルを備えており、アーテファクトの方向を示すだけでなく、アーティファクトまでの距離を測定することができる。本体の前面カバーを開けると、アーティファクト探知モードに切り替わる。残念ながら、この電子機器では、一部のアーティファクトしか探知できない。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 消費電力 : 中</text>
+  </string>
+  <string id="st_detector3">
+    <text>ヴェレス探知機</text>
+  </string>
+  <string id="st_detector3_descr">
+    <text>次世代の科学探知スキャナーである。近代化された3つの探知チャンバーにより、アーティファクトの位置が特別なディスプレイ画面に表示される。閉じた状態では、放射線とアノマリーだけを記録する。アーティファクト探知モードに切り替えるには、前面のLEDディスプレイを開く。探知モードでは、科学的に知られているすべてのアーティファクトを探知することができる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 消費電力 : 大
+</text>
+  </string>
+  <string id="st_detector4">
+    <text>スヴァローグ探知機</text>
+  </string>
+  <string id="st_detector4_descr">
+    <text>機能拡張された変則的な周波数スキャナーの試作機。この装置には、アーティファクトの位置を特定する機能はそのままに、データベースに保存された静的なアノマリー領域を特定するためのプログラムが搭載されている。 アノマリー領域やアーティファクトの位置が専用画面に表示される。前面のLEDディスプレイを開くことで起動するアーティファクト探知モードは、現在の科学では解明されていないアーティファクトを探知できるように改良されている。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 消費電力 : 大</text>
+  </string>
+  <string id="st_detector9">
+    <text>RF受信機</text>
+  </string>
+  <string id="st_detector9_descr">
+    <text>RF（無線周波数）受信機は、基本的な通信に使用される高感度のRFモジュールを備えた小型機器だ。古い技術品であるにもかかわらず、兵士の間でいまだに使用され続けている。半径200［m］の電波を受信することができる。この装置は30から300［MHz］の周波数範囲の電波を処理することができる 
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 消費電力 : 中
+</text>
+  </string>
+  <string id="st_detector8">
+    <text>アノマリー測定装置</text>
+  </string>
+  <string id="st_detector8_descr">
+    <text>最初のプロトタイプは、ヤンターの移動研究室でサハロフ教授の監督下で2008年に設計された。多くのコピーは、フィールドにおける研究で得られた成功データを元にしている。この装置は、アノマリー領域の測定をして、記録することが可能だ。改良されたフレームワークとセンサーは、敵対的な環境でさえ作動を保証している。取得またはトラッキングにおける感度の高さは、多くの異なる環境、そして、最も厳しい動作状況下で使用を考慮に入れた結果である。 
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 消費電力 : 中
+                </text>
+  </string>
+  <string id="st_broken_pda">
+    <text>壊れたPDA</text>
+  </string>
+  <string id="st_broken_pda_descr">
+    <text>このPDAはひどく破損しているようで、画面の半分が壊れており、GPSモジュールが正常に動作しない。しかし、内部の基盤は壊れていないようだ。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品</text>
+  </string>
+  <string id="st_device_torch_name">
+    <text>ヘッドランプ</text>
+  </string>
+  <string id="st_device_torch_descr">
+    <text>標準的なヘッドマウント式懐中電灯で、完全に動作する。暗くなってから外に出るストーカーには便利だが、使い方を誤るとトラブルの元になる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 消費電力 : 中</text>
+  </string>
+  <string id="st_device_torch_nv_1_name">
+    <text>ヘッドランプ w/ 1PN93-1 ナイトビジョン</text>
+  </string>
+  <string id="st_device_torch_nv_1_descr">
+    <text>正常に機能する標準的なヘッドマウント型懐中電灯。夜に外出するストーカーにとっては便利なものだが、使い方を誤るとトラブルの元になる。このヘッドランプには、ロシア軍用ナイトビジョン1PN93-1が標準装備されている。この1PN93-1は第2世代の映像強化機能を搭載しており、特に夜間や暗い場所での作戦に便利だ。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_purple] ・ ナイトビジョン : 1PN93-1
+                %c[d_blue] ・ 消費電力 : 中</text>
+  </string>
+  <string id="st_device_torch_nv_2_name">
+    <text>ヘッドランプ w/ PN21KL ナイトビジョン</text>
+  </string>
+  <string id="st_device_torch_nv_2_descr">
+    <text>正常に機能する標準的なヘッドマウント型懐中電灯。夜に外出するストーカーにとっては便利なものだが、使い方を誤るとトラブルの元になる。このヘッドランプは、IIT第2世代の映像強化機能を搭載しており、夜間や暗い場所での使用に適している。また、赤外線イルミネーターにより完全な暗闇での使用も可能である。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_purple] ・ ナイトビジョン : PN21KL
+                %c[d_blue] ・ 消費電力 : 中</text>
+  </string>
+  <string id="st_device_torch_nv_3_name">
+    <text>ヘッドランプ w/ オラクル「精神波の防護機器」</text>
+  </string>
+  <string id="st_device_torch_nv_3_descr">
+    <text>正常に機能する標準的なヘッドマウント型懐中電灯。夜に外出するストーカーにとっては便利なものだが、使い方を誤るとトラブルの元になる。このヘッドランプは、レンズの電気出力と画像処理ソフトにより、映像ノイズを除去し、PN21Kユニットの映像強調機能をさらに強化した、本格的なIIT第３世代暗視ナイトビジョンを搭載している。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_purple] ・ ナイトビジョン : オラクル
+                %c[d_blue] ・ 消費電力 : 中</text>
+  </string>
+  <string id="st_device_torch_name">
+    <text>ヘッドランプ</text>
+  </string>
+  <string id="st_device_torch_descr">
+    <text>標準的なヘッドマウント式懐中電灯で、完全に動作する。暗くなってから外に出るストーカーには便利だが、使い方を誤るとトラブルの元になる。 
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 消費電力 : 中</text>
+  </string>
+  <string id="st_device_flashlight">
+    <text>懐中電灯</text>
+  </string>
+  <string id="st_device_flashlight_descr">
+    <text>一般的な携帯型懐中電灯。残念ながら、片手が塞がれてしまうため、ほとんどの武器は使用できなくなる。したがって、ピストルおよび他の片手装備にのみ同時に使用することができる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 消費電力 : 中</text>
+  </string>
+  <string id="st_batteries_dead">
+    <text>古びたバッテリー</text>
+  </string>
+  <string id="st_batteries_dead_descr">
+    <text>ゾーンで見つかった 10 個のバッテリーの内 1 つだけ若干の電気が残っていたもの。充電器を見つけるのがほぼ不可能なので、消耗した電池は捨てられてしまう。外観が腐食し泥まみれの電池は、使い切られているか完全放電した状態を示している。それでも、ゾーンの全ての物に何かしらの存在理由があるように、これらの電池も なんらかの充電に役立つかもしれない。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品</text>
+  </string>
+  <string id="st_batteries">
+    <text>バッテリーパック</text>
+  </string>
+  <string id="st_batteries_descr">
+    <text>バッテリーパック。容量が半分ほどしか残っていないので、誰かの使い古しだろう。フラッシュライト、PDA、暗視ゴーグルおよびその他の電子機器に使う。定期的な交換が必要。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品</text>
+  </string>
+  <string id="st_batteries_ccell">
+    <text>軍用バッテリーユニット</text>
+  </string>
+  <string id="st_batteries_ccell_descr">
+    <text>満充電された軍用のバッテリー。ゾーンでは、バッテリーの需要に供給がまったく追いついておらず、常に不足している状態で、大変貴重な物だ。ルーキーからベテランまで、全てのレベルの ストーカー、派閥を超えて使用される。小遣い稼ぎのために、腐敗した軍将校らが、ゾーンのトレーダーに横流しをしている。
+
+                %c[ui_gray_3] : 特性
+                %c[d_blue] ・ 技術品</text>
+  </string>
+  <string id="st_geiger_dead">
+    <text>ガイガーカウンター</text>
+  </string>
+  <string id="st_geiger_dead_descr">
+    <text>ガイガーカウンターは電離（放射性）放射線を測定する。アルファ粒子、ベータ粒子、ガンマ粒子の放出を検出する。1908年に発明されたガイガーカウンターは、健康、物理、産業、地質学、その他の活動分野の測定に使用される人気の高い技術品だ。シンプルな電子回路でできている。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品 
+                %c[d_orange] ・ 放射能汚染のレベルを測定する
+                %c[d_blue] ・ 消費電力 : 中
+                %c[d_orange] ・ 3つのモードで動作する</text>
+  </string>
+  <string id="st_electric power">
+    <text>ユニバーサル パワー デバイス（電力）</text>
+  </string>
+  <string id="st_electric power_descr">
+    <text>冷戦時代の電源装置は、小型のトランシーバーほどの大きさだった。ほとんどの種類のバッテリに対応している。挿入されたバッテリーからのあらゆるエネルギーを利用し、マイクロワイヤーのセットを介して強化されたストリームで電子機器に電力を供給する。これらは構造や使用年数に関係なく、どのような電子機器にも接続が可能だ。電池が1本しかなくても、多くの電子機器を操作できる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ ポータブルの電力源
+                %c[d_blue] ・ 最新機器のほとんどをサポートする
+                %c[d_blue] ・ すべてのバッテリータイプに対応
+                %c[d_blue] ・ ストレージ容量 : 3Ah［アンペア時］</text>
+  </string>
+  <string id="extension_pda">
+    <text>マルチメディアPDA</text>
+  </string>
+  <string id="exten_sion_pda">
+    <text>湿気や衝撃に強い高価なPDAで、チャット クライアントと音楽プレイヤーが内蔵されている。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ ストーカーネットワークで音楽の再生と対話が可能</text>
+  </string>
+  <string id="st_gps_tracker">
+    <text>軍用GPSモジュール</text>
+  </string>
+  <string id="st_gps_tracker_descr">
+    <text>次世代GPSナビゲーション機器の試作機。コピーは少ない。軍の上層部にのみ配布されているが、一部は外部に流出している。改善されたモジュールは、劣悪な環境でも動作を保証している。収集中または追跡中の感度は、あらゆる状況下においても傍受を可能とする。通常のGPSモジュールとは異なり、これはモジュールが接続されたチャネル上で特別な特権を獲得することを可能にするコードセットに依存している。接続されている他のモジュールの、半径300メートルの位置を取得することができる。一方、このモジュールは動作中にかなりの電力を消費する。20秒連続スキャン後にモジュールをオフにする自動スイッチング回路がモジュール内に含まれている。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 消費電力 : 大</text>
+  </string>
+  <string id="st_musicplayer">
+    <text>無線機</text>
+  </string>
+  <string id="st_musicplayer_desc">
+    <text>他の無線機と通信できるように設計された改良型無線機で、できるだけ多くの干渉を除去するよう設計された。
+
+                %c[ui_gray_2]特性 : 
+                %c[d_cyan] ・ 技術品</text>
+  </string>
+  <string id="st_weather_radar">
+    <text>ドップラー気象レーダーキット
+</text>
+  </string>
+  <string id="st_weather_radar_descr">
+    <text>高度なパルス ドップラー気象レーダーのミニキット。このキットは気象学の分野で奇跡と考えられている。マイクロ波放射の指向性パルスをマイクロ秒単位の長さで送信し、パラボラ アンテナに導波管で接続されたキャビティマグネトロンを使って気象データを収集する。
+\n2人の科学者が、アンテナの近くで「ミート チャンク」アーティファクトを使用すると、パルスパワーが大幅に増幅され、それによって大気層の対流圏層のイオンが変化し、その特性が完全に変わることを発見した。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 技術品
+                %c[d_blue] ・ 気象設備
+                %c[d_blue] ・ 動力源 「ミート チャンク」アーティファクト</text>
+  </string>
+</string_table>

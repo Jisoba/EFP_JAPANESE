@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+
+	<string id="st_dai_disassemble_all">
+		<text>すべて解体する[!]</text>
+	</string>
+
+</string_table>

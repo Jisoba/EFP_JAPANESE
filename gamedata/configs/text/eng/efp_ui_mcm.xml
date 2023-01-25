@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+	
+	<string id="ui_mcm_menu_efp_ui">
+		<text>簡略化されたビジョン</text>
+	</string>
+	<string id="ui_mcm_menu_faction_settings">
+		<text>派閥の色</text>
+	</string>
+	<string id="ui_mcm_menu_main_settings">
+		<text>メイン設定</text>
+	</string>
+	<string id="ui_mcm_menu_modules_settings">
+		<text>モジュール設定</text>
+	</string>
+	<string id="ui_mcm_menu_dolg">
+		<text>Duty</text>
+	</string>
+	<string id="ui_mcm_menu_csky">
+		<text>Clear Sky</text>
+	</string>
+	<string id="ui_mcm_menu_monolith">
+		<text>Monolith</text>
+	</string>
+	<string id="ui_mcm_menu_ecolog">
+		<text>Ecologist</text>
+	</string>
+	<string id="ui_mcm_menu_bandit">
+		<text>Bandit</text>
+	</string>
+	<string id="ui_mcm_menu_stalker">
+		<text>Loner</text>
+	</string>
+	<string id="ui_mcm_menu_killer">
+		<text>Mercenary</text>
+	</string>
+	<string id="ui_mcm_menu_greh">
+		<text>Sin</text>
+	</string>
+	<string id="ui_mcm_menu_isg">
+		<text>UNISG</text>
+	</string>
+	<string id="ui_mcm_menu_renegade">
+		<text>Renegade</text>
+	</string>
+	<string id="ui_mcm_menu_army">
+		<text>Military</text>
+	</string>
+	<string id="ui_mcm_menu_freedom">
+		<text>Freedom</text>
+	</string>
+	<string id="ui_mcm_desc_faction_banner_color">
+		<text>派閥オーバーレイの色</text>
+	</string>
+	<string id="ui_mcm_desc_faction_text_color">
+		<text>派閥オーバーレイのテキスト色</text>
+	</string>
+	<string id="ui_mcm_efp_ui_red">
+		<text>Red</text>
+	</string>
+	<string id="ui_mcm_efp_ui_green">
+		<text>Green</text>
+	</string>
+	<string id="ui_mcm_efp_ui_blue">
+		<text>Blue</text>
+	</string>
+	<string id="ui_mcm_efp_ui_alpha">
+		<text>Alpha</text>
+	</string>
+	<string id="ui_mcm_menu_base_settings">
+		<text>カスタムカラー</text>
+	</string>
+	<string id="ui_mcm_menu_slots">
+		<text>装備スロット</text>
+	</string>
+	<string id="ui_mcm_efp_ui_use_faction">
+		<text>派閥/カスタムカラーの切り替え</text>
+	</string>
+	<string id="ui_mcm_desc_cell_knife">
+		<text>ナイフスロット</text>
+	</string>
+	<string id="ui_mcm_desc_cell_pistol">
+		<text>ピストルスロット</text>
+	</string>
+	<string id="ui_mcm_desc_cell_rifle">
+		<text>ライフルスロット</text>
+	</string>
+	<string id="ui_mcm_desc_cell_grenade">
+		<text>グレネードスロット</text>
+	</string>
+	<string id="ui_mcm_desc_cell_binoculars">
+		<text>双眼鏡スロット</text>
+	</string>
+	<string id="ui_mcm_desc_cell_bolt">
+		<text>ボルトスロット</text>
+	</string>
+	<string id="ui_mcm_desc_cell_outfit">
+		<text>スーツスロット</text>
+	</string>
+	<string id="ui_mcm_desc_cell_pda">
+		<text>PDAスロット</text>
+	</string>
+	<string id="ui_mcm_desc_cell_detector">
+		<text>検出器スロット</text>
+	</string>
+	<string id="ui_mcm_desc_cell_torch">
+		<text>ヘッドランプスロット</text>
+	</string>
+	<string id="ui_mcm_desc_cell_helmet">
+		<text>ヘルメットスロット</text>
+	</string>
+	<string id="ui_mcm_desc_cell_backpack">
+		<text>バックパックスロット</text>
+	</string>
+	<string id="ui_mcm_desc_cell_quick">
+		<text>クイックスロット</text>
+	</string>
+	<string id="ui_mcm_desc_cell_belt">
+		<text>ベルトスロット</text>
+	</string>
+	<string id="ui_mcm_menu_stats">
+		<text>ステータスバー</text>
+	</string>
+	<string id="ui_mcm_desc_stat_acid">
+		<text>化学耐性バー</text>
+	</string>
+	<string id="ui_mcm_desc_stat_thirst">
+		<text>渇きステータスバー</text>
+	</string>
+	<string id="ui_mcm_desc_stat_power">
+		<text>スタミナステータスバー</text>
+	</string>
+	<string id="ui_mcm_desc_stat_fire_wound">
+		<text>防弾耐性バー</text>
+	</string>
+	<string id="ui_mcm_desc_stat_shock">
+		<text>電気耐性バー</text>
+	</string>
+	<string id="ui_mcm_desc_stat_health">
+		<text>HPステータスバー</text>
+	</string>
+	<string id="ui_mcm_desc_stat_psi">
+		<text>精神耐性バー</text>
+	</string>
+	<string id="ui_mcm_desc_stat_hunger">
+		<text>空腹度バー</text>
+	</string>
+	<string id="ui_mcm_desc_stat_fire">
+		<text>火傷耐性バー</text>
+	</string>
+	<string id="ui_mcm_desc_stat_radia">
+		<text>放射能耐性バー</text>
+	</string>
+	<string id="ui_mcm_desc_stat_wound">
+		<text>裂傷耐性バー</text>
+	</string>
+	<string id="ui_mcm_desc_stat_sleep">
+		<text>睡眠度バー</text>
+	</string>
+	<string id="ui_mcm_menu_faction_banner">
+		<text>派閥オーバレイ</text>
+	</string>
+	<string id="ui_mcm_efp_ui_use_alt_ranks">
+		<text>別スタイルのランク表示に切り替え</text>
+	</string>
+
+</string_table>

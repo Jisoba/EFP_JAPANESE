@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_ppk">
+		<text>Walther PPK</text>
+	</string>
+
+	<string id="st_wpn_ppk_descr">
+		<text>ワルサーPPK（Polizeipistole Kurz）は、ドイツの武器メーカー、カール・ワルサーGmbHスポーツワッフェンが1935年に開発し、現在も使用されている半自動拳銃である。世界中で広く使われている西洋の古典的な拳銃と言われている。この銃は、愛好家や闇市、あるいは元警察官によって、ゾーンに持ち込まれたのも不思議ではない。特に「自分はシャープシューターだ」と傲慢な態度をとる新人の間で非常に人気がある。特筆すべきは、デフォルトで希少な.32ACPの代わりに9x18マカロフを撃つように改造されていることである。</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><string_table>
+
+  <string id="st_pda_2_descr">
+    <text>コンピュータの基本的かつ重要な機能を網羅したポケットサイズの電子機器。日々の情報共有に欠かせない。GPSモジュールがプリインストールされており、ユーザーに位置情報と時刻情報を提供する。このバージョンでは、半径300mのネットワークに接続された他のモジュールの位置を取得・処理できるように改良され、ストーカーの間でも納得のPDAに仕上がっている。\n
+このデバイスはジェイルブレイクされており、技術屋に頼めばキルトラッキング・ソフトウェアの旧バージョンの海賊版をインストールすることができる。\n \n
+      %c[ui_gray_3]特性:\n
+      %c[d_blue] ・%c[ui_gray_2] 技術品\n
+      %c[d_blue] ・%c[ui_gray_2] 低消費電力\n
+      %c[d_purple] ・%c[ui_gray_2] 自身の近くの分隊の位置が表示される。\n
+      %c[d_purple] ・%c[ui_gray_2] can be upgraded at mechanic to show dead bodies.\n
+</text>
+  </string>
+
+  <string id="st_pda_3_descr">
+    <text>コンピュータの基本的かつ重要な機能を網羅したポケットサイズの電子機器。日々の情報共有に欠かせない。GPSモジュールがプリインストールされており、ユーザーに位置情報と時刻情報を提供する。このバージョンでは、ネットワークに接続された他のモジュールの位置情報を取得・処理する機能が大幅に向上したため、ストーカーの間でも納得のPDAに仕上がっている。また、通常のGPSモジュールとは異なり、接続されたチャンネルの特別な権限を持っているため、より多くの情報を取得するコードセットが搭載されている。\n
+このデバイスはジェイルブレイクされており、技術屋に頼めばキルトラッキング・ソフトウェアの最新バージョンの海賊版をインストールすることができる。\n \n
+      %c[ui_gray_3]特性:\n
+      %c[d_blue] ・%c[ui_gray_2] 技術品\n
+      %c[d_blue] ・%c[ui_gray_2] 低消費電力\n
+      %c[d_purple] ・%c[ui_gray_2] 近くの友軍や中立の部隊の位置が表示される。\n
+      %c[d_purple] ・%c[ui_gray_2] can be upgraded at mechanic to show dead bodies.\n
+    </text>
+  </string>
+
+  <string id="st_up_pda3_a1_name">
+    <text>GPS追跡</text>
+  </string>
+
+  <string id="st_up_pda3_a1_descr">
+    <text>PDAの内蔵GPSをアップグレードし、自身が倒した敵を、地図上にマークするようになる。</text>
+  </string>
+
+  <string id="st_up_pda3_a2_name">
+    <text>GPSフル追跡アップグレード</text>
+  </string>
+
+  <string id="st_up_pda3_a2_descr">
+    <text>PDA3.0内蔵GPSをバージョンアップし、現在地付近で倒した敵を地図上にマークすることもできるようになる。</text>
+  </string>
+
+
+</string_table>

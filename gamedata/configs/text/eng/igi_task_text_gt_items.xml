@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<!-- Package -->
+	<string id="igi_task_text_pda_package">
+		<text>このパッケージには貴重なものが入っているかもしれない。中身がどうなっているのか気になる。</text>
+	</string>
+	<string id="igi_task_text_gt_package_artifact">
+		<text>アーティファクト</text>
+	</string>
+	<string id="igi_task_text_gt_package_weapon">
+		<text>武器</text>
+	</string>
+	<string id="igi_task_text_gt_package_medicine">
+		<text>医療品</text>
+	</string>
+	<string id="igi_task_text_gt_package_ammunition">
+		<text>弾薬</text>
+	</string>
+	
+</string_table>

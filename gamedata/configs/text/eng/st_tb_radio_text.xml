@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+
+	<!-- PDA MESSAGES -->
+
+	<string id="tb_anon_sender">
+		<text>"匿名"</text>
+	</string>
+
+	<!-- PDA MESSAGES -->
+
+	<string id="tb_sooner_rf">
+		<text>君のRFレシーバーの入手が早ければ早いほど、我々も支援できる......かもしれない。</text>
+	</string>
+
+
+	<string id="tb_package_can_be_found">
+		<text>パッケージは </text>
+	</string>
+
+	<string id="tb_use_rf_on_freq">
+		<text>の周波数にRFレシーバーを設定せよ </text>
+	</string>
+
+	<string id="tb_mhz_to_search">
+		<text> MHz</text>
+	</string>
+
+
+	<string id="tb_dont_forget">
+		<text>注意せよ、 </text>
+	</string>
+
+	<string id="tb_freq_was_on">
+		<text>の周波数がオンになっている。 </text>
+	</string>
+
+	<string id="tb_the_mhz">
+		<text> MHz.</text>
+	</string>
+
+	<!-- ROUGH LOCATION TEXTS -->
+
+	<string id="tb_loc_n_r">
+		<text>の北側 </text>
+	</string>
+	<string id="tb_loc_ne_r">
+		<text>の北東側</text>
+	</string>
+	<string id="tb_loc_e_r">
+		<text>の東側 </text>
+	</string>
+	<string id="tb_loc_se_r">
+		<text>の南東側 </text>
+	</string>
+	<string id="tb_loc_s_r">
+		<text>の南側 </text>
+	</string>
+	<string id="tb_loc_sw_r">
+		<text>の南西側 </text>
+	</string>
+	<string id="tb_loc_w_r">
+		<text>の西側 </text>
+	</string>
+	<string id="tb_loc_nw_r">
+		<text>北西側の </text>
+	</string>
+
+	<!-- LEVEL NAMES -->
+
+	<string id="tb_loc_mar">
+		<text>グレートスワンプの</text>
+	</string>
+	<string id="tb_loc_dsc">
+		<text>ダークスケープ</text>
+	</string>
+	<string id="tb_loc_esc">
+		<text>コードン</text>
+	</string>
+	<string id="tb_loc_gar">
+		<text>ガベージ</text>
+	</string>
+	<string id="tb_loc_agr">
+		<text>アグロプロム</text>
+	</string>
+	<string id="tb_loc_val">
+		<text>ダークバレー</text>
+	</string>
+	<string id="tb_loc_bar">
+		<text>ロストク</text>
+	</string>
+	<string id="tb_loc_ros">
+		<text>ワイルドテリトリ</text>
+	</string>
+	<string id="tb_loc_mil">
+		<text>陸軍倉庫</text>
+	</string>
+	<string id="tb_loc_yan">
+		<text>ヤンター</text>
+	</string>
+	<string id="tb_loc_cit">
+		<text>デッドシティ</text>
+	</string>
+	<string id="tb_loc_lim">
+		<text>リマンスク</text>
+	</string>
+	<string id="tb_loc_rad">
+		<text>レーダー</text>
+	</string>
+	<string id="tb_loc_red">
+		<text>レッドフォレスト</text>
+	</string>
+	<string id="tb_loc_pri">
+		<text>プリピャチ</text>
+	</string>
+	<string id="tb_loc_aes1">
+		<text>CNPPの南</text>
+	</string>
+	<string id="tb_loc_aes2">
+		<text>CNPPの北</text>
+	</string>
+	<string id="tb_loc_gen">
+		<text>発電所</text>
+	</string>
+	<string id="tb_loc_zat">
+		<text>ザトン</text>
+	</string>
+	<string id="tb_loc_jup">
+		<text>ジュピター</text>
+	</string>
+	<string id="tb_loc_out">
+		<text>郊外</text>
+	</string>
+	<string id="tb_loc_trc">
+		<text>トラック墓地</text>
+	</string>
+	<string id="tb_loc_pol">
+		<text>メドウ</text>
+	</string>
+	<string id="tb_loc_dbg">
+		<text>the Debug Level</text>
+	</string>
+
+</string_table>

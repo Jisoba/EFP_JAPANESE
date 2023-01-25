@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+
+	<string id="st_cortex_scope">
+		<text>Cortex 1-8x</text>
+	</string>
+
+	<string id="st_cortex_scope_desc">
+		<text>12.7mm高威力ライフル専用に作られた1-8倍スコープ。</text>
+	</string>
+
+</string_table>

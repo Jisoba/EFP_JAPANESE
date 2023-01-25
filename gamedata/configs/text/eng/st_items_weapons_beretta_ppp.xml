@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_beretta_m9">
+		<text>Beretta M9</text>
+	</string>
+	<string id="st_wpn_beretta_m9_descr">
+		<text>米海兵隊の要望によって作られた、イタリア製ベレッタ92FS。M9A1以前のバージョンのため変更点は少ないが、マガジンが面取りされ、トリガーガードがストレートスクエアになり、サイトがトリチウムコートでよりアグレッシブになっているのが目に付く。Mercenary、Freedom、そして最近の奇妙な派閥で使われているため、この「セミプロトタイプ」がゾーンに入った方法は、西側軍の脱走兵や元PMCを通じてだと思って良いだろう。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] 9x19 対応サプレッサー</text>
+	</string>
+
+	<string id="st_wpn_beretta_px4">
+		<text>Beretta Px4 Storm</text>
+	</string>
+	<string id="st_wpn_beretta_px4_descr">
+		<text>Px4 Stormは、ベレッタ8000を進化させたもので、92FSの後継としてパーソナルディフェンスや法執行機関向けに開発されたものである。ローターバレルによりリコイルコントロールと連射性が向上し、ライトフレームにより軽量化されている。このモデルにはトリチウムサイトが付属している。この銃は、アルメニアとルーマニアの警察官だったMercenaryが「違法に」輸出したもののようだ。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] 9x19 対応サプレッサー</text>
+	</string>
+	
+	<string id="st_up_px4_a1_name">
+		<text>口径を.45ACPに変更</text>
+	</string>
+	<string id="st_up_px4_a1_descr">
+		<text>銃のメカニズムと自動化された部分を複雑に統合して改造し、信頼性を犠牲にして口径を変更できるようにしたもの。</text>
+	</string>
+
+</string_table>

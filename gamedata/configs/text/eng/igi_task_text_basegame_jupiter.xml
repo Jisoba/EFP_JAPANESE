@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Tukarev (Ecog Mechanic) Escort Jupiter Scientists Task -->
+
+	<string id="igi_task_text_jup_b6_scientist_tech_task_1_title">
+		<text>Ecologistたちをエスコートしろ</text>
+	</string>
+	<string id="igi_task_text_jup_b6_scientist_tech_task_1_descr">
+		<text>科学者たちは研究対象となる場所へのガイド役にあなたを雇った。彼らの実験が成功するまで見守り、その後彼ら全員を基地まで案内せよ。</text>
+	</string>
+	<string id="igi_task_text_jup_b6_scientist_tech_task_1_job_descr">
+		<text>我々は野外での研究のため優秀なストーカーのガイド役を必要としている。君に頼みたいと思うのだがどうだろうか？</text>
+	</string>
+	<string id="igi_task_text_jup_b6_scientist_tech_task_1_fetch_finish">
+		<text>君の護衛のおかげで助かったよ。感謝の印だ。こいつを受け取ってくれ。</text>
+	</string>
+
+	<string id="igi_task_text_jup_b6_scientist_tech_task_2_title">
+		<text>アーティファクトを探せ。</text>
+	</string>
+	<string id="igi_task_text_jup_b6_scientist_tech_task_2_descr">
+		<text>あなたはアーティファクトを探してくるよう依頼された。手に入れたらトゥカレフのところに持っていこう。</text>
+	</string>
+	<string id="igi_task_text_jup_b6_scientist_tech_task_2_job_descr">
+		<text>とある種類のアーティファクトを探している。もしこの仕事に興味があるなら何を探してほしいか教えるのだが。</text>
+	</string>
+	<string id="igi_task_text_jup_b6_scientist_tech_task_2_fetch_job_descr">
+		<text>回収してほしいのはとあるアーティファクトだ。聞いたことはあるかね？</text>
+	</string>
+	<string id="igi_task_text_jup_b6_scientist_tech_task_2_fetch_finish">
+		<text>素晴らしい。我々が求めていたのは正にこれだよ。お礼にこのスーツをあげよう。こいつがあればゾーンでの仕事は格段に効率化されるぞ。きっと君も気に入るだろう。</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Tukarev (Ecog Mechanic) Brains vs Brawn Dynamic Task -->
+
+	<string id="igi_task_text_jup_b6_scientist_tech_task_3_title">
+		<text>「頭脳」対「腕力」</text>
+	</string>
+	<string id="igi_task_text_jup_b6_scientist_tech_task_3_descr">
+		<text>Ecologistの護衛部隊をBanditたちとの戦いへ導く。</text>
+	</string>
+	<string id="igi_task_text_jup_b6_scientist_tech_task_3_job_descr">
+		<text>Banditどもがこの地にのさばっているのを誰も気に留めないせいで、我々研究者たちは常に死と隣り合わせだ。ということで私の部下と供に、この一帯のBanditどもを掃討してもらいたい。奴ら特Ａ級のバカどもを野放しにしておくわけにはいかん。部下はみな戦闘のプロだ。今すぐ出撃して我らを勝利へと導くのだ！</text>
+	</string>
+	<string id="igi_task_text_jup_b6_scientist_tech_task_3_finish">
+		<text>すばらしい手際だ。ありがとう。</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Trapper (Loner Honcho) Lead Mutant Hunt Task -->
+
+	<string id="igi_task_text_jup_b220_trapper_task_bs_assault_monster_online_title">
+		<text>ミュータントの殲滅</text>
+	</string>
+	<string id="igi_task_text_jup_b220_trapper_task_bs_assault_monster_online_descr">
+		<text>凶暴なミュータントが目撃され、この周辺は危険地帯と化した。ミュータントの脅威を削ぐため、ハンターチームが出動することになるだろう。彼らを率いて仕事を終えたら、トラッパーへ報告に戻れ。</text>
+	</string>
+	<string id="igi_task_text_jup_b220_trapper_task_bs_assault_monster_online_job_descr">
+		<text>ミュータントの数を少しでも減らして、ヤノフ駅の周りを安全にしておきたい。そのためにハンターチームを組織した。あいつらの先頭に立てる経験豊富なストーカーを探しているんだ。こういう仕事、興味ないか？</text>
+	</string>
+	<string id="igi_task_text_jup_b220_trapper_task_bs_assault_monster_online_finish">
+		<text>ありがとな、ストーカー。おかげでここら一帯は安全になったよ。報酬を受け取ってくれ。</text>
+	</string>
+
+	<string id="igi_task_text_jup_b220_trapper_task_bs_kill_stalker_nearby_title">
+		<text>ターゲットの暗殺</text>
+	</string>
+	<string id="igi_task_text_jup_b220_trapper_task_bs_kill_stalker_nearby_descr">
+		<text>トラッパーには優先して排除してほしいターゲットがいる。</text>
+	</string>
+	<string id="igi_task_text_jup_b220_trapper_task_bs_kill_stalker_nearby_job_descr">
+		<text>排除してほしい危険なターゲットがいる。今回はミュータントじゃない。人間だ。ヤツにたどり着くのはたやすいことではないだろうが、やってくれれば報酬は弾むと約束する。依頼を受けてくれるか？</text>
+	</string>
+	<string id="igi_task_text_jup_b220_trapper_task_bs_kill_stalker_nearby_finish">
+		<text>いい仕事だったぞストーカー。報酬を渡そう</text>
+	</string>
+
+
+	<!-- FIND WEAPON FOR HUNTSMAN TASK -->
+	<string id="igi_task_text_jup_b220_trapper_task_3_title">
+		<text>銃を探せ</text>
+	</string>
+	<string id="igi_task_text_jup_b220_trapper_task_3_descr">
+		<text>トラッパーは完璧に整備されたとある武器を探している。見つけたら彼に渡そう。</text>
+	</string>
+	<string id="igi_task_text_jup_b220_trapper_task_3_job_descr">
+		<text>仲間のひとりがとある武器を欲しがってる。手に入れてくれないだろうか？</text>
+	</string>
+	<string id="igi_task_text_jup_b220_trapper_task_3_fetch_job_descr">
+		<text>手に入れてほしいのはとある銃だ。そいつを必要としてる仲間には危険な仕事が控えててな。完璧に整備されていないとダメだと言ってる。見つけてきてくれたら、報酬は弾むよ。</text>
+	</string>
+	<string id="igi_task_text_jup_b220_trapper_task_3_fetch_finish">
+		<text>おお、完璧じゃないか。これで万事OKだろう。約束の報酬だ、受け取ってくれ。</text>
+	</string>
+
+
+	<!-- FIND MUTANT PARTS FOR HUNTSMAN TASK -->
+	<string id="igi_task_text_jup_b220_trapper_task_4_title">
+		<text>ミュータントの部位を調達しろ</text>
+	</string>
+	<string id="igi_task_text_jup_b220_trapper_task_4_descr">
+		<text>トラッパーに賞金首のミュータントの身体部位を渡せば報酬が支払われるだろう。</text>
+	</string>
+	<string id="igi_task_text_jup_b220_trapper_task_4_job_descr">
+		<text>賞金首のミュータントがいる。興味あるか？</text>
+	</string>
+	<string id="igi_task_text_jup_b220_trapper_task_4_fetch_job_descr">
+		<text>そいつを殺して身体部位を持ってきてくれ。</text>
+	</string>
+	<string id="igi_task_text_jup_b220_trapper_task_4_fetch_finish">
+		<text>ああ、また脅威がひとつ減り、狩りの戦利品が増えたってわけだ。よくやったぞストーカー。</text>
+	</string>
+
+
+	<!--- Call of Chernobyl -->
+
+
+	<string id="igi_task_text_jup_b217_stalker_tech_task_1_title">
+		<text>ベーシックツールを探せ</text>
+	</string>
+	<string id="igi_task_text_jup_b217_stalker_tech_task_1_descr">
+		<text>ニトロは基本的な装備の改造のためベーシックツールを必要としている。探して彼に渡そう。</text>
+	</string>
+	<string id="igi_task_text_jup_b217_stalker_tech_task_1_job_descr">
+		<text>新しい道具がいるんだよ、ストーカー。ゾーンではなかなかお目にかかれない代物がな。もし手伝ってくれるなら、どんなやつか教えるんだが。</text>
+	</string>
+	<string id="igi_task_text_jup_b217_stalker_tech_task_1_fetch_job_descr">
+		<text>必要なのはベーシック ツールってやつだ。その中に俺が必要なものも入ってると思う。持ってきてくれたらきっとお前に感謝するぜ。あと修理や改造の代金を今後は割引してやるよ。</text>
+	</string>
+	<string id="igi_task_text_jup_b217_stalker_tech_task_1_fetch_finish">
+		<text>パーフェクトだストーカー！こいつが必要だったんだぜ。これでお前の装備をいい感じに調整できるようになったぞ。</text>
+	</string>
+
+	<string id="igi_task_text_jup_b217_stalker_tech_task_2_title">
+		<text>アドバンスドツールを探せ</text>
+	</string>
+	<string id="igi_task_text_jup_b217_stalker_tech_task_2_descr">
+		<text>高度な装備の改造のため、ニトロはアドバンスドツールを必要としている。探し出して渡そう。</text>
+	</string>
+	<string id="igi_task_text_jup_b217_stalker_tech_task_2_job_descr">
+		<text>お前に探して来てもらったこのツールキットは確かにすごい。だが完璧じゃあない。より高度なツールキットを探してきてくれないか？</text>
+	</string>
+	<string id="igi_task_text_jup_b217_stalker_tech_task_2_fetch_job_descr">
+		<text>必要なのはアドバンスドツールだ。どこで手に入るのか見当もつかんがもし見つけたら持ってきてくれ。</text>
+	</string>
+	<string id="igi_task_text_jup_b217_stalker_tech_task_2_fetch_finish">
+		<text>ワーオ！ナイスなツールキットを見つけてきてくれたな。ほら、お礼に金をやるって約束しただろ。</text>
+	</string>
+	<string id="igi_task_text_jup_b217_stalker_tech_task_3_title">
+		<text>エキスパートツールを探せ</text>
+	</string>
+	<string id="igi_task_text_jup_b217_stalker_tech_task_3_descr">
+		<text>さらに高度な装備の改造のため、ニトロはエキスパートツールを必要としている。探して渡そう。</text>
+	</string>
+	<string id="igi_task_text_jup_b217_stalker_tech_task_3_job_descr">
+		<text>お前が探して来てくれたツールキットは確かに素晴らしいよ。だがまだ完璧じゃあない。より良いツールキットを探して持ってきてくれるか？</text>
+	</string>
+	<string id="igi_task_text_jup_b217_stalker_tech_task_3_fetch_job_descr">
+		<text>ほしいのはエキスパートツールだ。これまたどこで手に入るのか見当もつかない。でも必要なんだ。どうにか見つけてくれ。</text>
+	</string>
+	<string id="igi_task_text_jup_b217_stalker_tech_task_3_fetch_finish">
+		<text>ワーオ！ナイスなツールを見つけてくれたな。ほら、お礼に金をやるって約束しただろ。</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- Jup A6 Yar -->
+	<string id="igi_task_text_jup_b19_freedom_yar_task_1_title">
+		<text>速達</text>
+	</string>
+	<string id="igi_task_text_jup_b19_freedom_yar_task_1_descr">
+		<text>メッセージを届ける必要がある。なぜ、巻き込まれたのか？</text>
+	</string>
+	<string id="igi_task_text_jup_b19_freedom_yar_task_1_job_descr">
+		<text>よし。お前にできる簡単な仕事がある。私の友人のアショットにメッセージを届けてもらいたいんだ。あいつは自分のPDAを修理した方がいい。持ってくるように言ってくれ。</text>
+	</string>
+	<string id="igi_task_text_jup_b19_freedom_yar_task_1_finish">
+		<text>ははっ、ストーカーよ、こいつはほんのお遊びさ。お前さんがこんなに早く音を上げるとは思わなかったよ。</text>
+	</string>
+
+	<string id="igi_task_text_jup_b19_freedom_yar_task_1_dm_query">
+		<text>メッセージを届けるためここに来た。</text>
+	</string>
+
+	
+<!-- (Ecologists) -->
+	<string id="igi_task_text_jup_b6_scientist_nuclear_physicist_task_1_title">
+		<text>スキャニング フィールド</text>
+	</string>
+	<string id="igi_task_text_jup_b6_scientist_nuclear_physicist_task_1_text0">
+		<text>アノマリー スキャナーを入手しろ。</text>
+	</string>
+	<string id="igi_task_text_jup_b6_scientist_nuclear_physicist_task_1_text1_0">
+		<text>スキャナーをアノマリー領域へ持ちこめ。</text>
+	</string>
+	<string id="igi_task_text_jup_b6_scientist_nuclear_physicist_task_1_text1_1">
+		<text>スキャナーをアノマリー領域へ持ちこめ。</text>
+	</string>
+	<string id="igi_task_text_jup_b6_scientist_nuclear_physicist_task_1_text2">
+		<text>スキャナーを置け。</text>
+	</string>
+	<string id="igi_task_text_jup_b6_scientist_nuclear_physicist_task_1_text3">
+		<text>実施状況を報告しろ。</text>
+	</string>
+	<string id="igi_task_text_jup_b6_scientist_nuclear_physicist_task_1_job_descr">
+		<text>我々のグループでは、エミッションとアーティファクトがアノマリー形態と一種の関連性があるのか発見しようと困難なテストを実施してる。だけど、この研究チームには適任者がいないから、この任務への志願者が急いで必要なんだ。このアドバンスドスキャナーを持っていって欲しい。それで、マークされたアノマリーの近くへこれを置けば、データは僕らのコンピューターへ送信されるはずだよ。</text>
+	</string>
+	<string id="igi_task_text_jup_b6_scientist_nuclear_physicist_task_1_finish">
+		<text>スキャナーは予定通り順調に稼働しているみたいだ。ありがとうストーカー。とても感謝しているよ。</text>
+	</string>
+	
+	<!-- Bonesetter (Loner Medic) -->
+	<string id="igi_task_text_jup_a6_stalker_medik_task_1_title">
+		<text>薬物製造キットを探せ</text>
+	</string>
+	<string id="igi_task_text_jup_a6_stalker_medik_task_1_descr">
+		<text>薬物製造キットは接骨医の医療用品の作業で要求されている。見つけたら彼のところに持ってきてくれ。</text>
+	</string>
+	<string id="igi_task_text_jup_a6_stalker_medik_task_1_job_descr">
+		<text>毎日これだけの数の負傷者を治療しなければならないから、医薬品倉庫に残っているものを維持できるか心配だ。そのうち包帯や医療キットが足りなくなりそうだ。お古の薬品製造ツールを探してくれないかな。きっと役に立つはずだ。</text>
+	</string>
+	<string id="igi_task_text_jup_a6_stalker_medik_task_1_fetch_job_descr">
+		<text>俺は薬物製造キットを探しまくっていた。医療品の作業をするのに必要な錠剤やアンプルが入っているはずだ。このキットを全部持ってきてくれたら、1個分の報酬を払おう。</text>
+	</string>
+	<string id="igi_task_text_jup_a6_stalker_medik_task_1_fetch_finish">
+		<text>たいしたもんだ！俺はあんたが一流だと認めるよ。</text>
+	</string>
+</string_table>

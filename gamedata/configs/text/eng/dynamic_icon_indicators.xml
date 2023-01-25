@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+	<string id ="ui_mcm_dii_scale">
+		<text>スケール</text>
+	</string>
+	<string id ="ui_mcm_dii_scale_desc">
+		<text>すべてのインジケータの大きさ</text>
+	</string>
+	<string id ="ui_mcm_dii_show">
+		<text>表示する</text>
+	</string>
+	<string id ="ui_mcm_dii_show_desc">
+		<text>インジケーターの表示/非表示を切り替える。</text>
+	</string>
+	<string id ="ui_mcm_dii_anchor_x">
+		<text>水平方向</text>
+	</string>
+	<string id ="ui_mcm_dii_anchor_x_desc">
+		<text>インジケータの水平方向の配置。(左右)</text>
+	</string>
+	<string id ="ui_mcm_dii_anchor_y">
+		<text>垂直方向</text>
+	</string>
+	<string id ="ui_mcm_dii_anchor_y_desc">
+		<text>インジケータの垂直方向の配置。(上下)</text>
+	</string>
+	<string id ="ui_mcm_dii_offset_x">
+		<text>水平方向のオフセット</text>
+	</string>
+	<string id ="ui_mcm_dii_offset_x_desc">
+		<text>アイコンの端からのオフセットをピクセル単位で指定します。他のアドオンがアイコンの情報を追加している場合に便利です。</text>
+	</string>
+	<string id ="ui_mcm_dii_offset_y">
+		<text>垂直方向のオフセット</text>
+	</string>
+	<string id ="ui_mcm_dii_offset_y_desc">
+		<text>アイコンの端からのオフセットをピクセル単位で指定します。コンディションバーを持つアイテムに有効。</text>
+	</string>
+	<string id ="ui_mcm_dii_spacing_x">
+		<text>水平方向の間隔</text>
+	</string>
+	<string id ="ui_mcm_dii_spacing_x_desc">
+		<text>アイコンの列と列の間のピクセル数。</text>
+	</string>
+	<string id ="ui_mcm_dii_spacing_y">
+		<text>垂直方向の間隔</text>
+	</string>
+	<string id ="ui_mcm_dii_spacing_y_desc">
+		<text>アイコンの列と列の間のピクセル数。</text>
+	</string>
+	<string id ="ui_mcm_dii_limit">
+		<text>表示するアイコンを制限する</text>
+	</string>
+	<string id ="ui_mcm_dii_limit_desc">
+		<text>Max displayed の設定により、アイコンの表示数を制限することができます。</text>
+	</string>
+	<string id ="ui_mcm_dii_amount">
+		<text>Max. displayed</text>
+	</string>
+	<string id ="ui_mcm_dii_amount_desc">
+		<text>このカテゴリに表示されるアイコンの最大数です。それ以上のアイコンがある場合は表示されません。多くの統計情報を持つアイテムの視覚的な乱雑さを軽減することができます。</text>
+	</string>
+	<string id ="ui_mcm_lst_dii_right">
+		<text>右</text>
+	</string>
+	<string id ="ui_mcm_lst_dii_left">
+		<text>左</text>
+	</string>
+	<string id ="ui_mcm_lst_dii_top">
+		<text>上</text>
+	</string>
+	<string id ="ui_mcm_lst_dii_bottom">
+		<text>下</text>
+	</string>
+	<string id ="ui_mcm_desc_dii_prop_artefact">
+		<text>アーティファクト</text>
+	</string>
+	<string id ="ui_mcm_desc_dii_prop_consumable">
+		<text>消耗品</text>
+	</string>
+	<string id ="ui_mcm_desc_dii_prop_upgrade_kit">
+		<text>アップグレード</text>
+	</string>
+
+	<string id ="ui_mcm_menu_dii">
+		<text>DII</text>
+	</string>
+	<string id ="ui_mcm_menu_dii_main_settings">
+		<text>メイン設定</text>
+	</string>
+	<string id ="ui_mcm_menu_dii_properties">
+		<text>プロパティ</text>
+	</string>
+	<string id ="ui_mcm_menu_dii_custom_layers">
+		<text>ユーザー定義</text>
+	</string>
+	<string id ="ui_mcm_menu_dii_custom_layers_main">
+		<text>メイン</text>
+	</string>
+</string_table>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_cash_name">
+    <text>財布</text>
+  </string>
+  <string id="st_cash_descr">
+    <text>使い古された革の財布だ。紙幣を入れるのに使う。 
+
+                \n%c[ui_gray_3]特性 : 
+%c[d_blue] ・ 日用品 
+%c[d_blue] ・ 通貨の保管</text>
+  </string>
+  <string id="st_roubles">
+    <text>ルーブル通貨</text>
+  </string>
+  <string id="st_roubles_descr">
+    <text>ゾーン内の取引は、安全と管理上の理由から、主に電子取引によって行われている。しかし、多くのストーカーは、たばこのような小さいものを買いたい場合に備えて、少なくとも2、3ルーブルをポケットに入れている。これにより、バッテリーを節約している。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品</text>
+  </string>
+  <string id="st_roubles_5000_name">
+    <text>5000ルーブル</text>
+  </string>
+  <string id="st_roubles_5000_descr">
+    <text>ゾーンでの取引は、安全性と管理上の理由から主に電子取引で行われている。しかし、タバコの様な嗜好品を買う場合などのため、数枚のコインをポケットに忍ばせている。これは、人生に潤いを持たせ、かつバッテリーの節約にもつながる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                %c[d_blue] ・ 現金
+                %c[d_blue] ・ ごく一般的に認識されている通貨単位</text>
+  </string>
+  <string id="st_roubles_1000_name">
+    <text>1000ルーブル</text>
+  </string>
+  <string id="st_roubles_1000_descr">
+    <text>ゾーンでの取引は、安全性と管理上の理由から主に電子取引で行われている。しかし、タバコの様な嗜好品を買う場合などのため、数枚のコインをポケットに忍ばせている。これは、人生に潤いを持たせ、かつバッテリーの節約にもつながる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                %c[d_blue] ・ 現金
+                %c[d_blue] ・ ごく一般的に認識されている通貨単位</text>
+  </string>
+  <string id="st_roubles_500_name">
+    <text>500ルーブル</text>
+  </string>
+  <string id="st_roubles_500_descr">
+    <text>ゾーンでの取引は、安全性と管理上の理由から主に電子取引で行われている。しかし、タバコの様な嗜好品を買う場合などのため、数枚のコインをポケットに忍ばせている。これは、人生に潤いを持たせ、かつバッテリーの節約にもつながる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                %c[d_blue] ・ 現金
+                %c[d_blue] ・ ごく一般的に認識されている通貨単位</text>
+  </string>
+  <string id="st_roubles_100_name">
+    <text>100ルーブル</text>
+  </string>
+  <string id="st_roubles_100_descr">
+    <text>ゾーンでの取引は、安全性と管理上の理由から主に電子取引で行われている。しかし、タバコの様な嗜好品を買う場合などのため、数枚のコインをポケットに忍ばせている。これは、人生に潤いを持たせ、かつバッテリーの節約にもつながる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                %c[d_blue] ・ 現金
+                %c[d_blue] ・ ごく一般的に認識されている通貨単位</text>
+  </string>
+  <string id="st_roubles_50_name">
+    <text>50ルーブル</text>
+  </string>
+  <string id="st_roubles_50_descr">
+    <text>ゾーンでの取引は、安全性と管理上の理由から主に電子取引で行われている。しかし、タバコの様な嗜好品を買う場合などのため、数枚のコインをポケットに忍ばせている。これは、人生に潤いを持たせ、かつバッテリーの節約にもつながる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                %c[d_blue] ・ 現金
+                %c[d_blue] ・ ごく一般的に認識されている通貨単位</text>
+  </string>
+  <string id="st_roubles_10_name">
+    <text>10ルーブル</text>
+  </string>
+  <string id="st_roubles_10_descr">
+    <text>ゾーンでの取引は、安全性と管理上の理由から主に電子取引で行われている。しかし、タバコの様な嗜好品を買う場合などのため、数枚のコインをポケットに忍ばせている。これは、人生に潤いを持たせ、かつバッテリーの節約にもつながる。
+
+                \n%c[ui_gray_3]特性 : 
+                %c[d_blue] ・ 日用品
+                %c[d_blue] ・ 現金
+                %c[d_blue] ・ ごく一般的に認識されている通貨単位</text>
+  </string>
+</string_table>

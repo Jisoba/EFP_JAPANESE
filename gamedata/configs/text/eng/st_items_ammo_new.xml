@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+	Ammunition
+-->
+
+<string_table>
+	<!-- descriptors -->
+	<string id="st_dot">
+		<text>・</text>
+	</string>
+	<string id="st_ball_properties">
+		<text>特性:</text>
+	</string>
+	<string id="st_prop_k_hit">
+		<text>ダメージ倍率：</text>
+	</string>
+	<string id="st_prop_k_ap">
+		<text>突破可能な装甲レベル:</text>
+	</string>
+	<string id="st_prop_armor_0">
+		<text>なし</text>
+	</string>
+	<string id="st_prop_armor_1">
+		<text>I</text>
+	</string>
+	<string id="st_prop_armor_2">
+		<text>IIA</text>
+	</string>
+	<string id="st_prop_armor_3">
+		<text>II</text>
+	</string>
+	<string id="st_prop_armor_4">
+		<text>III</text>
+	</string>
+	<string id="st_prop_armor_5">
+		<text>IV</text>
+	</string>
+	<string id="st_prop_armor_6">
+		<text>V</text>
+	</string>
+	<string id="st_prop_armor_7">
+		<text>VI+</text>
+	</string>
+	<string id="st_prop_impair">
+		<text>装甲倍率:</text>
+	</string>
+
+	<string id="st_ballistics_flinch">
+		<text>人型の相手をよろめかせる確率</text>
+	</string>
+	<string id="st_ballistics_frag">
+		<text>手榴弾が追加ダメージを与える確率</text>
+	</string>
+	<string id="st_ballistics_hp">
+		<text>装甲を完全貫通した場合の追加ダメージ</text>
+	</string>
+	<string id="st_ballistics_slug">
+		<text>ヘッドショットはいくらかの装甲を貫通し、相手を気絶させる</text>
+	</string>
+	<string id="st_ballistics_rip">
+		<text>追加ダメージ、ライフスティール</text>
+	</string>
+	<string id="st_ballistics_varma">
+		<text>ミュータントに追加ダメージ</text>
+	</string>
+	<string id="st_ballistics_explodes">
+		<text>衝撃を受けると爆発する</text>
+	</string>
+	<string id="st_ballistics_chaos">
+		<text>射程距離に応じで60%-160%の変動ダメージ</text>
+	</string>
+	<string id="st_ballistics_acid">
+		<text>命中時に装甲を減少させる</text>
+	</string>
+	<string id="st_ballistics_ambush">
+		<text>無警戒の敵に追加ダメージと装甲貫通効果</text>
+	</string>
+	<string id="st_ballistics_head">
+		<text>ヘッドショットで装甲無視</text>
+	</string>
+	<string id="st_ballistics_fire_melt">
+		<text>対象を炎上させ、装甲を減少させる</text>
+	</string>
+	<string id="st_ballistics_fire">
+		<text>炎上させる確率</text>
+	</string>
+	<string id="st_ballistics_split">
+		<text>3つ同時に発射する</text>
+	</string>
+	<string id="st_ballistics_shock">
+		<text>対象の装甲に応じてダメージと範囲ダメージが上昇する</text>
+	</string>
+	<string id="st_ballistics_pierce">
+		<text>敵を貫通する最大回数</text>
+	</string>
+	<string id="st_ballistics_soulripper">
+		<text>指数関数的な超貫通、ヘッドショットによる回復</text>
+	</string>
+
+	<string id="st_link">
+		<text>ベルトとリンクさせる</text>
+	</string>
+	<string id="st_unlink">
+		<text>ベルトのリンクを切る</text>
+	</string>
+
+	
+	<!-- handgun -->
+	<string id="ammo_new_9x18_fmj">
+		<text>9x18mm FMJ 弾</text>
+	</string>
+	<string id="ammo_new_9x18_fmj_descr">
+		<text>フルメタルジャケット弾は、メタルジャケットの下に鋼鉄の貫通体と鉛の芯が入った弾丸だ。旧ソ連邦の拳銃では最も一般的な弾種である。強力なストッピングパワーを発揮するが、重装甲には効果がない。</text>
+	</string>
+	<string id="ammo_new_9x18_fmj_s">
+		<text>9x18 FMJ</text>
+	</string>
+	
+	<string id="ammo_new_9x18_plus">
+		<text>9x18mm +P+ FMJ 弾</text>
+	</string>
+	<string id="ammo_new_9x18_plus_descr">
+		<text>フルメタルジャケット弾に過加圧火薬を加えた弾丸。銃口速度が30％向上し、それに伴いストッピングパワーと装甲に対する効果も向上したが、その代償として武器の摩耗が増加した。</text>
+	</string>
+	<string id="ammo_new_9x18_plus_s">
+		<text>9x18 +P+</text>
+	</string>
+
+	<string id="ammo_new_9x18_hp">
+		<text>9x18mm HP 弾</text>
+	</string>
+	<string id="ammo_new_9x18_hp_descr">
+		<text>民間用ホローポイント9x18mm弾。主に小動物の狩猟や家庭の護身用として使用される。ゾーンに自分の武器を持ち込むLonerの間でかなりよく見られる。</text>
+	</string>
+	<string id="ammo_new_9x18_hp_s">
+		<text>9x18 HP</text>
+	</string>
+
+	<string id="ammo_new_9x18_sp7">
+		<text>9x18mm SP-7 弾</text>
+	</string>
+	<string id="ammo_new_9x18_sp7_descr">
+		<text>プラスチックプラグと火薬を増量した軍用仕様のジャケット付きホローポイント弾。優れた弾道と非常にフラットな射撃特性により、後方部隊の間で人気がある。人間とミュータントの両方に有効であり、SSUのサイドアームやサブマシンガンによく使用されている。</text>
+	</string>
+	<string id="ammo_new_9x18_sp7_s">
+		<text>9x18 SP-7</text>
+	</string>
+	
+	<string id="ammo_new_9x18_ap">
+		<text>9x18mm RG028 弾</text>
+	</string>
+	<string id="ammo_new_9x18_ap_descr">
+		<text>RG028は、その装甲貫通力を利用した弾薬である。RG028の目的は、ボディアーマーに対抗することであり、そのために硬化鋼芯が装填されている。残念ながら、この弾丸自体は標準的なものからあまり改良されておらず、軟質のボディアーマーを確実に貫通するのみである。</text>
+	</string>
+	<string id="ammo_new_9x18_ap_s">
+		<text>9x18 RG028</text>
+	</string>
+
+	<string id="ammo_new_9x18_7n25">
+		<text>9x18mm 7N25 AP 弾</text>
+	</string>
+	<string id="ammo_new_9x18_7n25_descr">
+		<text>炭素鋼芯を採用し、火薬量を増加させた現代の9x18徹甲弾。前身のRG028と異なり、軟質のボディーアーマーを確実に破り、対ライフル用の装甲にもある程度のダメージを与えることができるが、火薬量と貫通体の形状により、ストッピングパワーの低下と武器内部部品の磨耗が激しくなるのが難点。</text>
+	</string>
+	<string id="ammo_new_9x18_7n25_s">
+		<text>9x18 7N25</text>
+	</string>
+
+	<string id="ammo_new_9x19_fmj">
+		<text>9x19mm FMJ 弾</text>
+	</string>
+	<string id="ammo_new_9x19_fmj_descr">
+		<text>9x19口径の標準的な弾薬で、ジャケット状になっている。良好な弾道性能と十分な制圧力を持ち、製造が容易である。国際条約で膨張弾薬の使用が禁止されているため、普及している。ボディーアーマーには効果がない。</text>
+	</string>
+	<string id="ammo_new_9x19_fmj_s">
+		<text>9x19 FMJ</text>
+	</string>
+	
+	<string id="ammo_new_9x19_plus">
+		<text>9x19mm FMJ +P+ 弾</text>
+	</string>
+	<string id="ammo_new_9x19_plus_descr">
+		<text>9x19 Parabellumに高圧の火薬を加えた弾薬。高圧火薬は、標準火薬に比べて直進性が高く、ストッピングパワーが向上しているが、発射時の衝撃が大きく、武器の消耗も激しくなっている。</text>
+	</string>
+	<string id="ammo_new_9x19_plus_s">
+		<text>9x19 FMJ+</text>
+	</string>
+	
+	<string id="ammo_new_9x19_pbp">
+		<text>9x19mm JHP 弾</text>
+	</string>
+	<string id="ammo_new_9x19_pbp_descr">
+		<text>この9x19口径のジャケット付きホローポイント弾は、高いストッピングパワーと低い跳弾性を備えている。高いストッピングパワーで警察官や護身用に人気がある。貫通力が低いため、ボディーアーマーには効果がない。</text>
+	</string>
+	<string id="ammo_new_9x19_pbp_s">
+		<text>9x19 JHP</text>
+	</string>
+	
+	<string id="ammo_new_9x19_pbps">
+		<text>9x19mm JSP +P 弾</text>
+	</string>
+	<string id="ammo_new_9x19_pbps_descr">
+		<text>マッチグレードの9mm拳銃用ハンドロードJSP弾。ソフトポイント弾はセミジャケット式でリードチップが露出しており、ホローポイント弾のように拡張しながらも、より優れた装甲貫通性を保持している。この弾は民間の職人による特注品で、その威力から「マン・ストッパー」の異名を持つ。</text>
+	</string>
+	<string id="ammo_new_9x19_pbps_s">
+		<text>9x19 JSP</text>
+	</string>
+	<string id="ammo_new_9x19_ap">
+		<text>9x19mm AP 弾</text>
+	</string>
+	<string id="ammo_new_9x19_ap_descr">
+		<text>ロシア製の徹甲弾で、最新のサイドアームやサブマシンガンとの連動を想定して設計されている。他の9x19mm弾と比較して銃口速度がかなり高く、装甲を破る効果が高い。この弾は「高圧」弾と見なされるため、発射の際には注意が必要である。ゾーン内では比較的珍しく、通常Mercenaryが輸入している。</text>
+	</string>
+	<string id="ammo_new_9x19_ap_s">
+		<text>9x19 AP</text>
+	</string>
+	
+	<string id="ammo_new_9x19_7n31">
+		<text>9x19mm 7N31 AP 弾</text>
+	</string>
+	<string id="ammo_new_9x19_7n31_descr">
+		<text>ロシア軍のAP弾を強化し、火薬を強化し、弾丸を軽くしたもの。前作よりもはるかに優れたピーク性能と装甲撃破能力を持つが、その代償として摩耗が激しい。ゾーン内では非常に珍しく、スペツナズかロシア人傭兵にのみ支給される。</text>
+	</string>
+	<string id="ammo_new_9x19_7n31_s">
+		<text>9x19 7N31 AP</text>
+	</string>
+
+	<string id="ammo_new_11.43x23_fmj">
+		<text>.45 ACP 弾</text>
+	</string>
+	<string id="ammo_new_11.43x23_fmj_descr">
+		<text>45口径フルメタル・ジャケット弾は、その弾道性能と比較的小さな推進力のおかげで、100年もの間、人気を博してきた。その結果、この弾丸は比較的遅いが、精度が高く、かなりの制止力を発揮する。</text>
+	</string>
+	<string id="ammo_new_11.43x23_fmj_s">
+		<text>.45 ACP</text>
+	</string>
+	<string id="ammo_new_11.43x23_fmjs">
+		<text>.45 ACP AP+P 弾</text>
+	</string>
+	<string id="ammo_new_11.43x23_fmjs_descr">
+		<text>.45 ACP弾に高圧装弾を施し、.45弾の威力を現代の水準に近づけました。大型の弾丸に炭素鋼貫通弾が追加され、ストッピングパワーをあまり失うことなく、装甲貫通の効果が追加されている。この弾丸は、圧力に耐えることができる最新のハンドガンでの使用を推奨する。</text>
+	</string>
+	<string id="ammo_new_11.43x23_fmjs_s">
+		<text>.45 AP+P</text>
+	</string>
+	
+	<string id="ammo_new_11.43x23_hp">
+		<text>.45 ACP JHP 弾</text>
+	</string>
+	<string id="ammo_new_11.43x23_hp_descr">
+		<text>ホローポイント弾を使用した45ACP弾の標準的な弾薬。非武装の人間に対して非常に有効であり、多くの警察で主力弾として使用されている。また、ミュータントに対しても有効であり、ミュータントから身を守るための手段として人気がある。</text>
+	</string>
+	<string id="ammo_new_11.43x23_hp_s">
+		<text>.45 HP</text>
+	</string>
+
+	<string id="ammo_new_11.43x23_hydro">
+		<text>.45 ACP 'RIP' 弾</text>
+	</string>
+	<string id="ammo_new_11.43x23_hydro_descr">
+		<text>この45ACPエクスペリメンタル弾は、科学アーティファクトの破片の周りに鉛を「成長」させ、弾丸の形に成形し、ニッケルで電気メッキを施したものである。この弾丸は、科学省がフリーダム社から提供された研究と連携して開発した機密実験によって製造された。硬い金属でコーティングされているにもかかわらず、弾丸は容易に複数の「爪」に分裂し、貫通力を低下させる代償として驚異的な阻止力を発揮する。不思議なことに、この弾丸は発射地点の周辺に局所的な異常を発生させ、周辺の生物に影響を与えるようだ。推測によると、未知の方法で被害者から使用者に生命エネルギーが引き寄せられるという。</text>
+	</string>
+	<string id="ammo_new_11.43x23_hydro_s">
+		<text>.45 RIP</text>
+	</string>
+
+	<string id="ammo_new_357_hp">
+		<text>.357 HP 弾</text>
+	</string>
+	<string id="ammo_new_357_hp_descr">
+		<text>.357HPは、ホローポイント弾である。この弾丸の目的は、衝突時に速度を落とすことで、貫通力を低下させ、同時に内部組織に大きなダメージを与えることだ。この弾丸による高い制止力は、特に「ボア」のような重いミュータントを制止するために、Dutyの間で非常に人気がある。</text>
+	</string>
+	<string id="ammo_new_357_hp_s">
+		<text>.357 HP</text>
+	</string>
+	<string id="ammo_new_357_jfp">
+		<text>.357 JFP 手詰め弾</text>
+	</string>
+	<string id="ammo_new_357_jfp_descr">
+		<text>猟師や射撃家のために設計された.357弾の手詰め弾。弾丸は平らで、銅のジャケットに包まれている。ホローポイント弾のような強力なストッピングパワーはないが、よりまっすぐに飛び、効果的に装甲を貫通し、強力な衝撃を与える。</text>
+	</string>
+	<string id="ammo_new_357_jfp_s">
+		<text>.357 JFP</text>
+	</string>
+	
+	<string id="ammo_new_7.62x25_p">
+		<text>7.62x25mm P 弾</text>
+	</string>
+	<string id="ammo_new_7.62x25_p_descr">
+		<text>7.62x25mm弾薬は、旧ソ連加盟国や中国、パキスタンなどで広く使用されているロシアのボトルネックピストル用弾薬だ。7.63x25mm Mauserをロシア用に改良したものである。優れた貫通力を持ち、軽量な防弾チョッキやケブラーヘルメットも容易に破ることができる。この口径の銃器はほとんどが旧式になり、軍の備品から外されたが、貯蔵弾薬が大量にあるため、今でも広く使用されている。</text>
+	</string>
+	<string id="ammo_new_7.62x25_p_s">
+		<text>7.62x25 P</text>
+	</string>
+	
+	<string id="ammo_new_7.62x25_ps">
+		<text>7.62x25mm Pst 弾</text>
+	</string>
+	<string id="ammo_new_7.62x25_ps_descr">
+		<text>7.62x25mm弾は、旧ソ連加盟国や中国、パキスタンなどで広く使用されているロシアのボトルネックピストル用弾薬だ。鋼鉄製のため、軽装甲の標的に対して有効であり、ストッピングパワーをあまり犠牲にしない。</text>
+	</string>
+	<string id="ammo_new_7.62x25_ps_s">
+		<text>7.62x25 Pst</text>
+	</string>
+
+	<string id="ammo_new_7.62x25_hp">
+		<text>7.62x25mm HP 弾</text>
+	</string>
+	<string id="ammo_new_7.62x25_hp_descr">
+		<text>7.62x25mmのホローポイントのスポーツ用弾薬。弾丸の幅が狭いため装甲破砕能力が高く、ストッピングパワーもそれなりに向上している。</text>
+	</string>
+	<string id="ammo_new_7.62x25_hp_s">
+		<text>7.62x25 HP</text>
+	</string>
+	<string id="ammo_new_7.62x25_cor">
+		<text>7.62x25mm アシッド弾</text>
+	</string>
+	<string id="ammo_new_7.62x25_cor_descr">
+		<text>ウクライナ科学省とClear Skyのメンバーが極秘裏に共同開発したエクスペリメンタル弾。このホローポイント弾には、プラスチックのような感触のターコイズ色のプラグが埋め込まれている。「ストーンブラッド」のアーティファクトを使用し、エアロゾル化したアンモニアの存在下で触媒作用を伴うある処理を行った結果、腐食性のチップが生成され、火薬爆発の熱にさらされると反応して、金属、布、木材、プラスチック、石を激しく溶かして腐食させる物質を形成する。この物質は、不活性な状態では安全に扱え、武器から発射されたときだけ反応する。</text>
+	</string>
+	<string id="ammo_new_7.62x25_cor_s">
+		<text>7.62x25 アシッド</text>
+	</string>
+
+	<string id="ammo_new_5.7x28_fmj">
+		<text>5.7x28 FMJ 弾</text>
+	</string>
+	<string id="ammo_new_5.7x28_fmj_descr">
+		<text>SS196SR 5.7x28 FMJ弾の民間仕様。SS190とは異なり、この弾はボディアーマーを貫通することはできないとされているが、実際にはこの弾は軽いケブラー板程度なら貫通することが可能であり、そのため今でも広く使用されている。軍用の徹甲弾よりも安価で入手しやすく、Lonerを狙うならず者たちが好む。</text>
+	</string>
+	<string id="ammo_new_5.7x28_fmj_s">
+		<text>5.7x28 FMJ</text>
+	</string>
+	<string id="ammo_new_5.7x28_ss190">
+		<text>5.7x28 SS190 弾</text>
+	</string>
+	<string id="ammo_new_5.7x28_ss190_descr">
+		<text>FN 5.7x28mmは、FN Herstal社が設計・製造した速射性弾薬だ。.22ホーネットや.22Kホーネットにやや似たボトルネック型セントレファイヤー式で、5.7x28mmは、FN P90個人防衛武器（PDW）とFN Five-sevenピストルと一緒に、ボディアーマーの脅威を認識するために開発されたものである。このため、この弾薬はセラミックプレートを貫通することができるが、サイズが小さいため、肉体へのダメージは高くない。</text>
+	</string>
+	<string id="ammo_new_5.7x28_ss190_s">
+		<text>5.7x28 AP</text>
+	</string>
+
+	<string id="ammo_new_5.7x28_chaos">
+		<text>5.7x28 「アンスタブル・コア」</text>
+	</string>
+	<string id="ammo_new_5.7x28_chaos_descr">
+		<text>5.7x28mm SS190弾に未知のアノマリーによる改造が施されたものである。MonolithやSinではほとんど見かけることがなく、他のエクスペリメンタル弾と同じような処理が施された痕跡がある。特にこの弾丸は現実での存在が不安定であり、飛行中に速度、質量、運動電位をランダムに失ったり、得たりする。そのため、性能は非常に不安定だが、十分な量を発射すれば、標準的な弾丸よりも全体的に高いポテンシャルを発揮するようだ。この弾丸の正確な性質と目的は不明である。</text>
+	</string>
+	<string id="ammo_new_5.7x28_chaos_s">
+		<text>5.7x28 CHAOS</text>
+	</string>
+	<string id="ammo_new_5.7x28_ss195">
+		<text>5.7x28mm SS195 弾</text>
+	</string>
+	<string id="ammo_new_5.7x28_ss195_descr">
+		<text>SS195 FN 5.7x28mmは、FN Herstal社が設計・製造した弾薬。.22ホーネットや.22Kホーネットにやや似たボトルネック型のセントレファイヤー式弾薬である。西側でスポーツと狩猟に用いられ、ファイブセブンの特定の愛好家のために、ミュータントから自衛するための弾薬としてゾーンに進出している。</text>
+	</string>
+	<string id="ammo_new_5.7x28_ss195_s">
+		<text>5.7x28 HP</text>
+	</string>
+
+
+	<!-- shotgun -->
+	<string id="ammo_new_12x70_buck">
+		<text>12x70 #00 バックショット</text>
+	</string>
+	<string id="ammo_new_12x70_buck_descr">
+		<text>12ゲージの標準的な薬莢に8mm#00サイズの弾丸を内包したもの。至近距離では高い殺傷力を発揮するが、ペレットはすぐに落下する。ゾーンでは非常に一般的。滑腔砲にのみ使用可能。</text>
+	</string>
+	<string id="ammo_new_12x70_buck_s">
+		<text>12x70 Buck</text>
+	</string>
+
+	<string id="ammo_new_12x70_magnum">
+		<text>12x70 マグナム バックショット</text>
+	</string>
+	<string id="ammo_new_12x70_magnum_descr">
+		<text>火薬を増量して#00バックショットを内包した弾薬。ストッピングパワーが大幅に向上し、アーマーの貫通力も若干向上しているが、その分武器の摩耗が激しくなっている。狩猟に最適で、発射された弾丸の威力は保護された手足にさえ深刻な損傷を与える。巨大なミュータントを倒すつもりなら、このシェルを使った方が良い。</text>
+	</string>
+	<string id="ammo_new_12x70_magnum_s">
+		<text>12x70 Magnum</text>
+	</string>
+
+	<string id="ammo_new_12x70_zhekan">
+		<text>12x76 スラグシェル</text>
+	</string>
+	<string id="ammo_new_12x70_zhekan_descr">
+		<text>この重い12ゲージのスラッグ弾は通常大型獣の狩猟に使用されるが、人間を「狩猟」するのにも向いている。貫通するのではなく、棍棒のように装甲を砕くことができる。このスラグ弾は貫通するのではなく、メイスのように装甲を砕くことができ、その衝撃力で相手の動きを止めるのに非常に優れている。</text>
+	</string>
+	<string id="ammo_new_12x70_zhekan_s">
+		<text>12x76 Slug</text>
+	</string>
+	<string id="ammo_new_12x70_dart">
+		<text>12x76 AP ダート シェル</text>
+	</string>
+	<string id="ammo_new_12x70_dart_descr">
+		<text>12ゲージの硬化鋼徹甲弾。ライフル弾と同等の装甲貫通力を持ち、ストッピングパワーを大幅に向上させたスラグ弾。装甲へのダメージを最大化するため、火薬を増量して弾丸を発射させている。</text>
+	</string>
+	<string id="ammo_new_12x70_dart_s">
+		<text>12x76 ダート</text>
+	</string>
+
+	<string id="ammo_new_12x70_flechette">
+		<text>12x70 フレシェットシェル</text>
+	</string>
+	<string id="ammo_new_12x70_flechette_descr">
+		<text>12ゲージのショットガンシェルに9個の硬化鋼スパイクを装填したもの。バックショットと比較して、集弾率が高いシェルを撃つことができ、有効射程距離が長く、装甲をよく貫通するが、強力なストッピングパワーには欠ける。軽量アーマの貫通には適しているが、重いアーマーに対しては手足を優先して撃たないと効果がない。</text>
+	</string>
+	<string id="ammo_new_12x70_flechette_s">
+		<text>12x70 Flechette</text>
+	</string>
+	<string id="ammo_new_12x70_dragon">
+		<text>12x70 'Dragon's Breath' シェル</text>
+	</string>
+	<string id="ammo_new_12x70_dragon_descr">
+		<text>12ゲージのショットガンシェルに、「ファイアボール」と「ナイトスター」の破片を装填したもの。発射すると火薬の爆発によりアノマリーの相互作用が起こり、アーティファクトの破片は発火したテルミットと同等の温度まで過熱される。その衝撃は肉体を破壊し、ほとんどの装甲を溶かすが、発生した極熱は発射された武器に多大なダメージを与える。アーティファクトの破片は残念ながら装甲を破壊する能力はあまりないため、主なダメージソースは弾薬の発火能力によるものである。</text>
+	</string>
+	<string id="ammo_new_12x70_dragon_s">
+		<text>12x70 Dragonsbreath</text>
+	</string>
+	
+	<!-- small rifle -->
+	
+	<string id="ammo_new_5.45x39_fmj">
+		<text>5.45x39mm FMJ 弾</text>
+	</string>
+	<string id="ammo_new_5.45x39_fmj_descr">
+		<text>7N6と呼ばれる鋼鉄製ケーシングの軍用5.45x39口径弾は、新しい中サイズの口径を使用するワルシャワ条約加盟国の自動小銃用の最初の標準支給弾である。7.62口径よりも反動が少なく、射程距離が100m延びるため、より優れた命中精度が得られる。独自の弾丸設計により、肉薄時の揺れが少なく、安定したストッピングパワーを発揮する。通常、後方部隊、後方警備員、排他的経済水域の境界をパトロールする兵士のライフル銃に使用されている。</text>
+	</string>
+	<string id="ammo_new_5.45x39_fmj_s">
+		<text>5.45x39 FMJ</text>
+	</string>	
+	
+	<string id="ammo_new_5.45x39_fmjs">
+		<text>5.45x39mm EP 弾</text>
+	</string>
+	<string id="ammo_new_5.45x39_fmjs_descr">
+		<text>標準装備の5.45x39口径7N10は、ワルシャワ条約加盟国の自動小銃用の貫通力を強化した弾薬だ。より硬く、より滑らかなスチールコアを採用し、貫通力を向上させている。現代のSSU地上軍では標準的な支給弾で、ほとんどの軍人が所持している。MercenaryやMonolithとの戦闘では、貫通力の向上が戦闘効果に大きな差をもたらす。</text>
+	</string>
+	<string id="ammo_new_5.45x39_fmjs_s">
+		<text>5.45x39 EP</text>
+	</string>
+
+	<string id="ammo_new_5.45x39_sp">
+		<text>5.45x39mm ソフトポイント弾</text>
+	</string>
+	<string id="ammo_new_5.45x39_sp_descr">
+		<text>武装した脅威に対して、法執行機関が使用する特別仕様の5.45x39mmソフトポイント弾。ジャケット弾の上部を切り落とし、内部の鉛芯を露出させ、火薬量を増加させたものである。7N6に匹敵する貫通力を持ちながら、ホローポイント弾と同様に膨張し、衝撃でよろけさせる。</text>
+	</string>
+	<string id="ammo_new_5.45x39_sp_s">
+		<text>5.45x39 SP</text>
+	</string>
+	<string id="ammo_new_5.45x39_hp">
+		<text>5.45x39mm HP 弾</text>
+	</string>
+	<string id="ammo_new_5.45x39_hp_descr">
+		<text>民間では的当て、警察では特殊作戦に使用される5.45x39mmホローポイント弾。弾丸は体内で膨張し、貫通力は低下するが、威力は増大する。ボディーアーマーには効果がないが、ソフトアーマーには威力で打ち勝つことができる。</text>
+	</string>
+	<string id="ammo_new_5.45x39_hp_s">
+		<text>5.45x39 HP</text>
+	</string>
+
+	<string id="ammo_new_5.45x39_ap">
+		<text>5.45x39mm AP 弾</text>
+	</string>
+	<string id="ammo_new_5.45x39_ap_descr">
+		<text>ワルシャワ条約加盟国の自動小銃用5.45x39口径7N22徹甲弾の特注品。弾丸には硬質合金製の徹甲弾が含まれており、装甲に高い効果を発揮する。最も危険で武装した敵に対して直接行動を起こすスペツナズ部隊に支給されるが、この弾丸がDutyの手に渡ることは稀である。</text>
+	</string>
+	<string id="ammo_new_5.45x39_ap_s">
+		<text>5.45x39 AP</text>
+	</string>
+
+	<string id="ammo_new_5.45x39_aps">
+		<text>5.45x39mm 7N39 AP 弾</text>
+	</string>
+	<string id="ammo_new_5.45x39_aps_descr">
+		<text>ワルシャワ条約機構加盟国の自動小銃に使用された、極めて珍しい5.45x39口径の7N39「超」徹甲弾の分類。弾丸には硬化したタングステンのペネトレータが含まれ、カートリッジは高圧で装填され、ほとんどの種類の装甲に対して極めて高い貫通能力を発揮する。ロシア軍特殊部隊の武器庫以外での入手は極めて困難である。ロシア連邦はこの地帯での活動を知っており、ウクライナ軍との協力を装って秘密裏に活動を行っているという噂があり、おそらく彼ら自身の意図に沿ったものであろう。出所がどこであろうと、この弾丸は最高の小銃向け弾薬だろう。</text>
+	</string>
+	<string id="ammo_new_5.45x39_aps_s">
+		<text>5.45x39 AP+</text>
+	</string>
+	
+	
+	<string id="ammo_new_5.56x45_fmj">
+		<text>5.56x45mm FMJ 弾</text>
+	</string>
+	<string id="ammo_new_5.56x45_fmj_descr">
+		<text>ベトナム戦争でAR-15シリーズとともに登場した、NATO軍標準の5.56x45口径M193弾。ベトナム戦争ではM193弾の在庫に問題があり、米軍兵士を悩ませたが、新製造弾は指定されたIMR火薬を使用し、M193弾の特徴である破片由来のストッピングパワーを維持している。近代的な装甲には比較的弱いものの、その柔軟性とリーズナブルな価格から、現在でもゾーンで高い人気を誇る弾丸である。</text>
+	</string>
+	<string id="ammo_new_5.56x45_fmj_s">
+		<text>5.56x45 FMJ</text>
+	</string>
+
+	<string id="ammo_new_5.56x45_fmjs">
+		<text>5.56x45mm Mk318 FMJ 弾</text>
+	</string>
+	<string id="ammo_new_5.56x45_fmjs_descr">
+		<text>米国海兵隊をはじめとする精鋭部隊で標準的に使用されているマッチグレードの5.56x45 FMJ弾。Mk318は、M855が目標を確実に撃墜できないという報告を受けて開発され、短い銃身から高い集弾性を実現し、障壁を確実に貫通し、M193を超える破砕能力を発揮する。また、M193を超える破砕力がある。このような特性から、現代戦の近距離戦では比類のない弾丸である。入手は困難だが、Freedomのメンバーはこの弾丸を異常に多くストックしており、その出所は極秘である。</text>
+	</string>
+	<string id="ammo_new_5.56x45_fmjs_s">
+		<text>5.56x45 FMJ+</text>
+	</string>
+	
+	<string id="ammo_new_5.56x45_hp">
+		<text>5.56x45mm HP 弾</text>
+	</string>
+	<string id="ammo_new_5.56x45_hp_descr">
+		<text>狩猟やスポーツ射撃によく使われるホローポイント5.56x45mm弾。先端が開口しているため、装甲には効果がないが、非装甲の敵にはストッピングパワーを高めることができる。ミュータントの射撃によく使われる。</text>
+	</string>
+	<string id="ammo_new_5.56x45_hp_s">
+		<text>5.56x45 HP</text>
+	</string>
+	
+	<string id="ammo_new_5.56x45_varma">
+		<text>5.56x45mm 'Varmageddon' 弾</text>
+	</string>
+	<string id="ammo_new_5.56x45_varma_descr">
+		<text>動物を仕留めるために特別に設計された輸入版5.56x45狩猟用弾丸。弾丸の形状が独特なため、動物の厚い筋肉や肉の中で弾丸が大きく膨張し、壊滅的なダメージを与えることができる。人間の標的への傷害効果は、特筆するほどではないが、この弾丸のおかげで、Freedomは北部に多く生息する厄介なミュータントと互角に渡り合えている。</text>
+	</string>
+	<string id="ammo_new_5.56x45_varma_s">
+		<text>5.56x45 Varma</text>
+	</string>
+	
+	<string id="ammo_new_5.56x45_ap">
+		<text>5.56x45mm AP 弾</text>
+	</string>
+	<string id="ammo_new_5.56x45_ap_descr">
+		<text>米軍が使用するNATO軍最新5.56x45口径強化貫通弾、通称「M855A1」。M855弾の失敗をきっかけに、Mk318とこの弾が開発され、装甲貫通力の向上と同時に、標準ライフルから発射されるストッピングパワーの向上が実現した。入手が困難だが、特にエグゾスーツレベルの装甲に対して非常に有効である。Mercenaryの無名業者が大量に輸入しており、Freedomが取引する大量輸入品（大麻と並ぶ）の一つとなっている。</text>
+	</string>
+	<string id="ammo_new_5.56x45_ap_s">
+		<text>5.56x45 AP</text>
+	</string>
+	
+	<string id="ammo_new_5.56x45_ss190">
+		<text>5.56x45mm EP 弾</text>
+	</string>
+	<string id="ammo_new_5.56x45_ss190_descr">
+		<text>NATOの5.56x45口径でスチールコアを持つ比較的旧式の弾丸。当初は装甲弾対策として開発されたが、M855と呼ばれるこの弾は、M193の破砕能力を失い、大量のストッピングパワーを装甲貫通能力と引き換えにしたものである。この弾丸は、ほとんどの軍隊がこの効果のない弾丸の在庫を放棄したため、大量にゾーンに出回ることになった。それにもかかわらず、ほとんどのストーカーはこの弾丸を嫌々ながら使っている。</text>
+	</string>
+	<string id="ammo_new_5.56x45_ss190_s">
+		<text>5.56x45 EP</text>
+	</string>
+	
+	<string id="ammo_new_7.62x39_fmj">
+		<text>7.62x39mm FMJ 弾</text>
+	</string>
+	<string id="ammo_new_7.62x39_fmj_descr">
+		<text>スチールケーシングの7.62x39 M43 FMJ弾は、世界中の紛争地域、反乱、革命で広く使用されている弾丸。高いストッピングパワーと強力な装甲破壊力を持つが、より近代的な5.45や5.56弾に比べ、反動が大きく、射程距離が短く、相対的に精度が低いという欠点がある。このタイプの弾は狩猟や競技のための射撃にも非常に人気があるため、ゾーンでは極めて一般的である。</text>
+	</string>
+	<string id="ammo_new_7.62x39_fmj_s">
+		<text>7.62x39 FMJ</text>
+	</string>	
+	<string id="ammo_new_7.62x39_fmjs">
+		<text>7.62x39mm M67 FMJ 弾</text>
+	</string>
+	<string id="ammo_new_7.62x39_fmjs_descr">
+		<text>ユーゴスラビアで開発されたブラスケーシング7.62x39弾だが、現在はより近代的な製造のブラスケーシング弾のキャッチオールとして使用されている。この弾丸は軟鋼コアを採用しており、M43弾よりも若干性能が良いが、主な特長は優れた給弾性能と武器の摩耗を軽減することである。Clear skyは、これらの弾丸を彼らを通じて供給するために、匿名の組織との契約をしている。</text>
+	</string>
+	<string id="ammo_new_7.62x39_fmjs_s">
+		<text>7.62x39 FMJ+</text>
+	</string>	
+
+	<string id="ammo_new_7.62x39_ap">
+		<text>7.62x39mm AP 弾</text>
+	</string>
+	<string id="ammo_new_7.62x39_ap_descr">
+		<text>炭素鋼コアを持つ7.62x39弾。この弾丸は、薄いカバーの後ろにいる敵を無力化し、M43弾が通常苦手とする近代的なボディアーマーを貫通するように設計されている。重量が重いため、軽量な5.45弾に比べて目標に与える力が大きいが、その分精度と有効射程距離が短い。ロシア政府との協定により、増え続けるMonolithに対抗するため、SSU部隊への支給が増加している。</text>
+	</string>
+	<string id="ammo_new_7.62x39_ap_s">
+		<text>7.62x39 AP</text>
+	</string>
+
+	<string id="ammo_new_7.62x39_api">
+		<text>7.62x39mm BZ API 弾</text>
+	</string>
+	<string id="ammo_new_7.62x39_api_descr">
+		<text>弾底部に焼夷弾の成分を加えた7.62x39徹甲弾。燃料タンクを撃って車両を爆破するように設計されており、徹甲弾はあらゆる装甲板を打ち抜き、焼夷弾の成分は通過する際に火花を発生させて燃料に引火させる。ゾーンでは装甲車が極端に不足しているが、この弾丸は装甲目標に対する非人道的な殺傷力を高める手段として非常に有効である。焼夷弾の成分により、発生する温度は高く、武器内の発熱を増加させる。</text>
+	</string>
+	<string id="ammo_new_7.62x39_api_s">
+		<text>7.62x39 API</text>
+	</string>
+
+	
+	<string id="ammo_new_9x39_sp5">
+		<text>9x39mm SP-5 弾</text>
+	</string>
+	<string id="ammo_new_9x39_sp5_descr">
+		<text>SP-5は、バイメタルの薬莢を持つ亜音速のライフル弾である。鋼鉄製のコアに鉛を詰め、その後ろに隙間を空けている。VSSビントレスと併用され、高い威力と集弾性が特徴だが、弾道が急峻で射程距離が短い。ステルス射撃にはサプレッサーが必要。ワルシャワ条約加盟国の特殊部隊で使用されている。</text>
+	</string>
+	<string id="ammo_new_9x39_sp5_s">
+		<text>9x39 SP-5</text>
+	</string>
+	<string id="ammo_new_9x39_spp">
+		<text>9x39mm SPP 弾</text>
+	</string>
+	<string id="ammo_new_9x39_spp_descr">
+		<text>9x39 SPP弾は、SP-5を近代化し、鋼鉄製の徹甲弾を搭載した弾丸だ。SP-5の後継として開発されたSPP弾は、SP-5を効果的にするすべての特性を生かし、改良している。また、弾丸の形状や重量配分を改良し、空力性能を最適化した。</text>
+	</string>
+	<string id="ammo_new_9x39_spp_s">
+		<text>9x39 SPP</text>
+	</string>
+	
+	<string id="ammo_new_9x39_pab9">
+		<text>9x39mm PAB-9 弾</text>
+	</string>
+	<string id="ammo_new_9x39_pab9_descr">
+		<text>今はもう生産されていない旧式のPAB-9弾。SP-6弾の製造コストを削減するため、弾芯を機械加工からプレス加工に変更し、推進剤をより安価で汚れのないものに変更した。その結果、性能はSP-6より若干良いが、発射された武器はすぐに破損してしまう。</text>
+	</string>
+
+	<string id="ammo_new_9x39_pab9_s">
+		<text>9x39 PAB-9</text>
+	</string>
+	<string id="ammo_new_9x39_ap">
+		<text>9x39mm SP-6 弾</text>
+	</string>
+	<string id="ammo_new_9x39_ap_descr">
+		<text>SP-6は亜音速の徹甲弾で、ジャケット付きのソフトポイント弾に、ケーシングから突出した硬鋼コアが付いている。スペツナズのエリート部隊がAS VAL特殊アサルトライフルと併用して使用する。ステルス射撃にはサプレッサーが必要。ボディーアーマーに対して高い効果を発揮する。</text>
+	</string>
+	<string id="ammo_new_9x39_ap_s">
+		<text>9x39 SP-6</text>
+	</string>	
+	
+
+	<!-- large rifle -->
+
+	<string id="ammo_new_7.62x54r">
+		<text>7.62x54mm PP 弾</text>
+	</string>
+	<string id="ammo_new_7.62x54r_descr">
+		<text>サープラス製 7.62x54mm 57-N-323S 弾薬。7.62x54mm弾は、1891年にモシン・ナガント小銃用に初めて製造された、現在でも使用されている2番目に古いライフル用弾薬である。弾丸の基本設計は1908年からあまり変わっておらず、現在でもハンターやターゲットシューターの間で非常に人気がある。この弾はルーズタイプだが、連結してPK機関銃に使用することができる。</text>
+	</string>
+	<string id="ammo_new_7.62x54r_s">
+		<text>7.62x54 PP</text>
+	</string>
+
+	<string id="ammo_new_7.62x54_7n1">
+		<text>7.62x54mm 7N1 弾</text>
+	</string>
+	<string id="ammo_new_7.62x54_7n1_descr">
+		<text>7.62x54スナイパー弾で、射程距離での精密射撃が可能。SVDスナイパーライフルのために特別に設計され、SVDスナイパーライフルと連動している。軽装甲の標的に対して非常に高い集弾率と安定したストッピングパワーを発揮するが、重装甲の標的にはやや不向きだ。全ての狙撃兵に人気のある弾丸。LMGと互換性があるが、このような高品質の弾丸をマシンガンに使用するのは非効率的だ。</text>
+	</string>
+	<string id="ammo_new_7.62x54_7n1_s">
+		<text>7.62x54 7N1</text>
+	</string>
+	
+	<string id="ammo_new_7.62x54_hp">
+		<text>7.62x54mm HP 弾</text>
+	</string>
+	<string id="ammo_new_7.62x54_hp_descr">
+		<text>民間仕様の7.62x54ハンティング弾。ホローポイントは貫通力を低下させ、ストッピングパワーを増加させるので、貴重な毛皮に2つの穴を開けることなく大型動物を倒すハンターには良い選択である。Lonerがよく使用するため、ゾーン内では非常に一般的である。</text>
+	</string>
+	<string id="ammo_new_7.62x54_hp_s">
+		<text>7.62x54 HP</text>
+	</string>
+	<string id="ammo_new_7.62x54_fp">
+		<text>7.62x54mm 'Headhunter' マッチ弾</text>
+	</string>
+	<string id="ammo_new_7.62x54_fp_descr">
+		<text>7.62x54mm弾の高精度バリエーションで、フラットノーズのため中・長距離で高い集弾性を誇る。この弾は、正確さと精度が重要な競技用射撃に使用されるため、これらの弾はすべて全く同じになるように慎重に作られている。フラットノーズ弾は、優れた重量配分とターゲットにきれいな穴を開けるために設計され、最大限の空気力学的性能を保持するためにプラスチックプラグが先端に付けられている。装甲貫通性能には欠けるが、フラットノーズによる衝撃の強さは致命的な脳震盪を引き起こすのに十分である。実際にスナイパーによると、この弾丸でヘッドショットをするとターゲットの頭部が致命的にへこみ、ほとんどの場合即死すると言う。このような弾丸を適切に使用するには、高いスキルが要求される。</text>
+	</string>
+	<string id="ammo_new_7.62x54_fp_s">
+		<text>7.62x54 FP</text>
+	</string>
+	
+	<string id="ammo_new_7.62x54_ap">
+		<text>7.62x54mm AP 弾</text>
+	</string>
+	<string id="ammo_new_7.62x54_ap_descr">
+		<text>7.62x54 7N13徹甲弾。硬化したスチールコアと強力な推薬が特徴。この弾は通常はマシンガン、特に軽度の対装甲目的で配備されたマシンガンで使用するために設計されているが、スナイパーライフルでは中距離で重装甲を破るために十分に許容できる性能を発揮する。この弾の威力のため、依然として非装甲目標へのダメージは極めて高い。</text>
+	</string>
+	<string id="ammo_new_7.62x54_ap_s">
+		<text>7.62x54 AP</text>
+	</string>
+
+	<string id="ammo_new_7.62x54_api">
+		<text>7.62x54mm BZAPI 弾</text>
+	</string>
+	<string id="ammo_new_7.62x54_api_descr">
+		<text>7.62x54徹甲焼夷弾は、外部装甲を貫通し、燃料タンクに点火することで軽装甲を破壊するよう設計されている。焼夷弾の成分が肉体に壊滅的なダメージを与える一方で、徹甲弾の先端があらゆる装甲を破るため、ミュータントや人間に対して非常に恐ろしい効果を発揮する。銃身が高温になるため、マシンガンで撃つ場合は頻繁に銃身を交換する必要がある。また、この弾は通常マシンガン用であるため、精密な射撃には向かないので、ライフルを使用する場合は注意が必要である。</text>
+	</string>
+	<string id="ammo_new_7.62x54_api_s">
+		<text>7.62x54 API</text>
+	</string>
+	
+	<string id="ammo_new_7.62x54_ppr">
+		<text>7.62x54mm PP 弾 (連結)</text>
+	</string>
+	<string id="ammo_new_7.62x54_ppr_descr">
+		<text>サープラス製7.62x54mm弾薬。7.62x54mm弾は、1891年にモシン・ナガント小銃用に初めて製造された、現在でも使用されている2番目に古いライフル用カートリッジである。弾丸の基本設計は1908年からあまり変わっておらず、現在でもハンターやターゲットシューターの間で非常に人気がある。この弾丸はPK機関銃で使用するためにベルトで連結されているが、他の武器で使用するために連結を外すことも可能である。</text>
+	</string>
+	<string id="ammo_new_7.62x54_ppr_s">
+		<text>7.62x54 PP MG</text>
+	</string>
+	
+	<string id="ammo_new_7.62x54_split">
+		<text>7.62x54mm スプリットショット弾</text>
+	</string>
+	<string id="ammo_new_7.62x54_split_descr">
+		<text>7.62x54mm マシンガンの弾で、飛行中に3つの弾丸に分裂する。ハンドガンや一部のショットガンに匹敵する短い有効射程だが、それを補って余りある圧倒的な破壊力を持つ。また、弾丸は変則的な改造が施され、特定の部位が非常に脆くなっており、銃身から発射される際のストレスで弾丸が粉々に砕けるほどである。一見弾丸として破綻しているように見えるが、この弾丸はミュータントの大群を倒す際に大量の短距離火力を提供し、ヘビーオートマチックショットガンのような役割を果たすため、Dutyのメンバーによって非常に効果的に使用されている。射程が短いため、小銃から発射する理由はない。</text>
+	</string>
+	<string id="ammo_new_7.62x54_split_s">
+		<text>7.62x54 Split</text>
+	</string>
+	
+
+	<string id="ammo_new_7.62x51_fmj">
+		<text>7.62x51mm M80 ball 弾</text>
+	</string>
+	<string id="ammo_new_7.62x51_fmj_descr">
+		<text>7.62x51 NATO弾は、.308弾の軍用改良型で、70年代のベトナム戦争で5.56弾が導入されるまでNATO軍で標準的に使用されていた。現在では、世界中の民間軍事会社で最も多く採用されている。7.62x51は非常に一般的で汎用性の高いマシンガンの口径で、バトルライフルや狙撃用ライフルにも使用される。</text>
+	</string>
+	<string id="ammo_new_7.62x51_fmj_s">
+		<text>7.62x51 FMJ</text>
+	</string>
+	
+	<string id="ammo_new_7.62x51_fmjs">
+		<text>7.62x51mm Mk316 マッチ弾</text>
+	</string>
+	<string id="ammo_new_7.62x51_fmjs_descr">
+		<text>長距離狙撃用に設計された7.62x51弾の専用弾。長銃身ライフルから発射する際、空気力学的性能を最大限に発揮できるよう、先端がわずかにくり抜かれ、弾丸は特別な形状になっている。バトルライフルからこの弾丸を発射するのは非効率的だが、それでもこの弾丸は素晴らしい性能を発揮する。Freedomのスナイパーが好んで使用し、持っているマリファナをこの弾丸の箱と喜んで交換する。</text>
+	</string>
+	<string id="ammo_new_7.62x51_fmjs_s">
+		<text>7.62x51 Match</text>
+	</string>
+
+	<string id="ammo_new_7.62x51_ap">
+		<text>7.62x51mm M61 AP 弾</text>
+	</string>
+	<string id="ammo_new_7.62x51_ap_descr">
+		<text>軍用7.62x51口径M61徹甲弾に硬化鋼コアを採用した弾丸。高い攻撃力を維持しつつ、装甲に対する性能を大幅に向上させている。Freedomのスナイパーが重装甲のMonolithを排除するためによく使用される。</text>
+	</string>
+	<string id="ammo_new_7.62x51_ap_s">
+		<text>7.62x51 AP</text>
+	</string>
+
+	<string id="ammo_new_7.62x51_slap">
+		<text>7.62x51mm M69 SLAP 弾</text>
+	</string>
+	<string id="ammo_new_7.62x51_slap_descr">
+		<text>4mmタングステンダートをプラスチックプラグと短い金属サボットで包んだ7.62x51の特殊弾。プラスチックプラグは通常のFMJ弾の形状を保っており、給弾が容易で、発射されると高密度のタングステンダートが軽・中型車両の装甲やあらゆるボディアーマーにきれいに突き刺さる。弾丸のサイズが小さいため、負傷の影響は最小限に抑えられる。しかし、その貫通力により、カバーの中を撃ち抜いたり、複数のターゲットを連続して攻撃することが可能だ。Mercenaryが装甲SSU師団に対抗し、重装甲のMonolith兵を無力化するために限定的に輸入している。</text>
+	</string>
+	<string id="ammo_new_7.62x51_slap_s">
+		<text>7.62x51 SLAP</text>
+	</string>
+	
+
+	<string id="ammo_new_7.92x33_fmj">
+		<text>7.92x57mm Mauser 弾</text>
+	</string>
+	<string id="ammo_new_7.92x33_fmj_descr">
+		<text>7.92x57マウザー弾は、ドイツ帝国、そして第三帝国に採用された。第二次世界大戦の時代には、最も人気のある口径の1つだった。しかし、現在では主に狩猟やスポーツに使用されている。この弾は第二次世界大戦の敗戦国から大量に接収され、最終的にゾーンでミュータントを撃つために再利用された。</text>
+	</string>
+	<string id="ammo_new_7.92x33_fmj_s">
+		<text>7.92x57 FMJ</text>
+	</string>
+
+	<string id="ammo_new_7.92x33_match">
+		<text>7.92x57mm マッチ手詰め弾</text>
+	</string>
+	<string id="ammo_new_7.92x33_match_descr">
+		<text>マッチグレードの7.92x57弾で、先端は中空、基部はボートテールになっている。現代の火薬は旧式のライフル銃に大きな負荷を与えるが、それを補うために高度に改良された性能を持っている。このような弾丸は、高い集弾性能と中・大型の標的に対する確実な攻撃力を持ち、ハンターやスポーツシューティングにおいて高い人気を誇る。</text>
+	</string>
+	<string id="ammo_new_7.92x33_match_s">
+		<text>7.92x57 Match</text>
+	</string>
+
+	<string id="ammo_new_7.92x33_ap">
+		<text>7.92x57mm SA 弾</text>
+	</string>
+	<string id="ammo_new_7.92x33_ap_descr">
+		<text>7.92x57 SAは、もともとイギリス軍が設計し、装甲標的に使用した弾丸。硬化したスチールコアが特徴で、より高い貫通能力を発揮する。主に長距離射撃に使用され、この弾の質は標準より高水準である。ドイツ国防軍の弾より全体的に優れた性能を発揮する。この弾薬はいくつかのスナイパーライフルで使用されている。</text>
+	</string>
+	<string id="ammo_new_7.92x33_ap_s">
+		<text>7.92x57 AP</text>
+	</string>
+	
+	<string id="ammo_new_7.92x33_shock">
+		<text>7.92x57mm ライトニング 弾</text>
+	</string>
+	<string id="ammo_new_7.92x33_shock_descr">
+		<text>7.92x57弾。電気アーティファクトの反応性合金で作られた弾丸。「フラッシュ」アーティファクトと同様に、この弾丸には莫大なエネルギーが含まれている。しかし、弾丸は通常の方法で推進され、火薬の高い圧力と温度がアーティファクトと反応を起こす。ターゲットに接触すると、電気エネルギーが伝達される。軽装甲の標的への威力は限定的だが、重装甲の標的やパワードアーマーには、標的およびその周辺に壊滅的なダメージを与えることができる。ミュータントや非装甲のターゲットには最小限のダメージしか与えない。</text>
+	</string>
+	<string id="ammo_new_7.92x33_shock_s">
+		<text>7.92x57 Shock</text>
+	</string>
+	
+	<string id="ammo_new_12.7x55_fmj">
+		<text>12.7x55mm STs-130 弾</text>
+	</string>
+	<string id="ammo_new_12.7x55_fmj_descr">
+		<text>フルメタルジャケット12.7x55mm亜音速口径は、ブルパップスナイパーライフル「VKS」に採用されている。59g（911粒）から76g（1173粒）の弾丸を込めることができ、膨大な運動エネルギーを得ることができる。SSUスペツナズでは、装甲や装備の整った敵を密かに偵察・暗殺する必要がある場合によく使用される。</text>
+	</string>
+	<string id="ammo_new_12.7x55_fmj_s">
+		<text>12.7x55</text>
+	</string>
+	
+	<string id="ammo_new_12.7x55_fmjs">
+		<text>12.7x55mm STs-130 PT2 弾</text>
+	</string>
+	<string id="ammo_new_12.7x55_fmjs_descr">
+		<text>VKSブルパップスナイパーライフルに使用されるブロンズ12.7x55mm亜音速口径弾。PT2規格の弾は、短・中距離で高い命中精度と強力な装甲貫通力、極めて高い制圧力を発揮するよう設計されている。この弾丸は比較的最近開発されたものであるため、輸入され実戦配備された数量は非常に限られている。ヴォロニンは、この弾丸をVKSライフルとともに備蓄し、秘密裡に暗殺任務を遂行するために支給している。</text>
+	</string>
+	<string id="ammo_new_12.7x55_fmjs_s">
+		<text>12.7x55 PT2</text>
+	</string>
+
+	<string id="ammo_new_12.7x55_ap">
+		<text>12.7x55 mm STs-130 VPS 弾</text>
+	</string>
+	<string id="ammo_new_12.7x55_ap_descr">
+		<text>ブルパップ式スナイパーライフルVKSに採用されている徹甲12.7x55mm亜音速口径弾。硬化した徹甲弾はほとんどのボディアーマーを貫通するが、この弾の真価は短距離での強力なストッピングパワーにあり、破片やヨーイングの能力が低下しても、その威力は維持される。</text>
+	</string>
+	<string id="ammo_new_12.7x55_ap_s">
+		<text>12.7x55 AP</text>
+	</string>
+    <string id="ammo_new_12.7x55_exp">
+		<text>12.7x55mm Explosive 弾</text>
+	</string>
+	<string id="ammo_new_12.7x55_exp_descr">
+		<text>比較的新しく、限定的に開発されたこのエクスペリメンタル弾は、不安定化した「サーマル」・アーティファクトの小さな破片を鉛で包み、標準的なメタル・ジャケットで覆っている。この弾丸は、ほとんどの固体表面に衝突しても異常な効果を示さないが、アーティファクトのコアは硬い目標に衝突すると途方もない量のエネルギーを放出する。鉛のケーシングとメタルジャケットは、手榴弾のアウターケースのように爆発の榴散弾となる。エネルギーの大部分が半径方向外側に伝達されるため装甲の貫通は制限されるが、爆発の力はターゲットとその周囲の者に深刻なダメージと混乱をもたらす。</text>
+	</string>
+	<string id="ammo_new_12.7x55_exp_s">
+		<text>12.7x55 EXP</text>
+	</string>
+	
+	
+	<string id="ammo_new_338_lapua">
+		<text>.338 Lapua Magnum 弾</text>
+	</string>
+	<string id="ammo_new_338_lapua_descr">
+		<text>338Lapua Magnumは、軍用長距離狙撃銃のために開発された特殊なリムレスボトルネックのセンターファイア式弾薬だ。アフガニスタン戦争とイラク戦争では、この弾薬の入手が容易であり、戦闘実績のある弾丸となった。.338 Lapuaは対人・対物の両用弾ですが、対物の可能性は限られている。</text>
+	</string>
+	<string id="ammo_new_338_lapua_s">
+		<text>.338 Lapua Magnum</text>
+	</string>
+	
+	<string id="ammo_new_338_ap">
+		<text>.338 'Soulripper' サボット弾</text>
+	</string>
+	<string id="ammo_new_338_ap_descr">
+		<text>劣化ウラン弾をサボットで包み、超強力な装薬で推進させる338口径の弾丸。この質量の弾丸がこの速度で飛び、これだけのダメージを与えることは物理的に不可能であるため、アノマリーによる手が加えられている可能性がある。非常に珍しく、強力で、取り扱いが危険な弾丸。</text>
+	</string>
+	<string id="ammo_new_338_ap_s">
+		<text>.338 DU AP</text>
+	</string>
+	
+	<!-- some leftovers -->
+	
+	<string id="ammo_new_50_bmg">
+		<text>.50 BMG M2 Ball 弾</text>
+	</string>
+	<string id="ammo_new_50_bmg_descr">
+		<text>.50 ブローニング機関銃（12.7x99mm） 1910年に導入され、1921年にブローニングM2重機関銃とともに採用された弾薬だ。エンジンブロックに一発当てるだけで、民間車両を無力化したり、軽装甲の軍用車両に大きなダメージを与えたりすることができ、対装甲性能の高い携帯用弾として非常によく使われる。ゾーンはすでに車両を破壊するのに十分すぎるほど過酷な場所であり、ゾーンに輸入する必要性がないためめったに見ることはない。</text>
+	</string>
+	<string id="ammo_new_50_bmg_s">
+		<text>.50 Ball</text>
+	</string>
+	<string id="ammo_new_50_ap">
+		<text>.50 BMG M2 AP Rounds</text>
+	</string>
+	<string id="ammo_new_50_ap_descr">
+		<text>.50 M2 AP弾は、より重装甲の車両や人員に有効な対抗手段として使用される。この弾丸はゾーンのあらゆる脅威を打ち負かすことができるが、重量、希少性、武器との相性からほとんど使用されることはないだろう。Freedomはこの弾薬をどこかに隠し持っているという噂があり、陸軍倉庫エリアでMonolithを撃退するために使用されている。</text>
+	</string>
+	<string id="ammo_new_50_ap_s">
+		<text>.50 AP</text>
+	</string>
+
+	
+	<string id="ammo_new_4.6x30_fmj">
+		<text>4.6x30mm FMJ 弾</text>
+	</string>
+	<string id="ammo_new_4.6x30_fmj_descr">
+		<text>MP7用に開発された4.6x30mmボトルネックPDW弾。軟質装甲を破壊することが可能だが、ライフル級の脅威を想定した装甲を破壊するには不十分。このフルメタル・ジャケット弾は鉛とアンチモンコアで構成されており、ソフトターゲットへのダメージに最適化されている。</text>
+	</string>
+	<string id="ammo_new_4.6x30_fmj_s">
+		<text>4.6x30 FMJ</text>
+	</string>
+	<string id="ammo_new_4.6x30_ap">
+		<text>4.6x30mm AP 弾</text>
+	</string>
+	<string id="ammo_new_4.6x30_ap_descr">
+		<text>ドイツのDM111弾に硬い芯を入れたもの。より軽く、より速く、しかしその代わりストッピングパワーを少し失っている。MP7は低反動弾で大量に投射するのが標準的な使用方法であるため、考慮するほどではないだろう。</text>
+	</string>
+	<string id="ammo_new_4.6x30_ap_s">
+		<text>4.6x30 AP</text>
+	</string>
+	<string id="ammo_new_12x76_bull">
+		<text>12x90 'Bull' Magnum スラグ</text>
+	</string>
+	<string id="ammo_new_12x76_bull_descr">
+		<text>ステンレス製の基部を持つ12ゲージのシェルで、非常に高い火薬の装填が可能。弾丸は、銅で覆われた高密度の鉛スラグを、劣化ウランの円錐の周りに封入したものである。非常に重く強力な弾丸で、安全に発射するには特別に強化されたショットガンが必要だ。この弾の製造者、購入者、使用するショットガンは謎のままである。</text>
+	</string>
+	<string id="ammo_new_12x76_bull_s">
+		<text>12x90 Bull</text>
+	</string>
+
+</string_table>

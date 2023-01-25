@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+    <string id="ui_mcm_menu_drop_item_key">
+		<text>アイテムを落とすキー</text>
+	</string>
+    <string id="ui_mcm_svui_drop_item_key">
+		<text>アイテムを落とすキー</text>
+	</string>
+</string_table>

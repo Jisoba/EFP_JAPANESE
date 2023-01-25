@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+    <string id="st_prt_o_retardant_basic">
+        <text>難燃性布の端切れ</text>
+    </string>
+    <string id="st_prt_o_retardant_basic_descr">
+        <text>環境保護服に使用されているハイテク繊維の小さな破片。防弾服の部品を分解して手に入れた。これだけではあまり意味がないが、他の部品と組み合わせて使うことができる。\n</text>
+    </string>
+
+    <string id="st_prt_o_ballistic_basic">
+        <text>防弾プレートの一部</text>
+    </string>
+    <string id="st_prt_o_ballistic_basic_descr">
+        <text>耐弾性のある小さな板や布。何らかの防弾服の部品を分解して得たもの。単体ではあまり価値がないが、他の部品と組み合わせることで有用な部品になる可能性がある。\n</text>
+    </string>
+    <string id="st_ui_craft_components">
+        <text>装甲部品</text>
+    </string>
+    <string id="st_ui_scrap">
+        <text>分解する</text>
+    </string>
+    <string id="st_ui_scrap_batch">
+        <text>分解する(一括)</text>
+    </string>
+</string_table>

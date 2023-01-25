@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+	<string id="st_af_pistolpouch_name">
+		<text>
+		小型マガジンポーチ
+		</text>
+	</string>
+	<string id="st_af_pistolpouch_descr">
+		<text>
+		ピストル用マガジンポーチ。ピストルサイズのマガジンを2本まで収納でき、ベストやベルトの種類を問わず取り付け可能だ。\n
+		</text>
+	</string>
+
+	<string id="st_af_riflepouch_name">
+		<text>
+		中型マガジンポーチ
+		</text>
+	</string>
+	<string id="st_af_riflepouch_descr">
+		<text>
+		ライフル用マガジンポーチ。ライフルサイズのマガジンを2本まで収納でき、ベストやベルトの種類を問わず取り付け可能だ。\n
+		</text>
+	</string>
+
+	<string id="st_af_heavypouch_name">
+		<text>
+		大型マガジンポーチ
+		</text>
+	</string>
+	<string id="st_af_heavypouch_descr">
+		<text>
+		ロングライフル用マガジンポーチ。大口径ライフルサイズのマガジンを2本まで収納でき、ベストやベルトの種類を問わず取り付け可能。\n
+		</text>
+	</string>
+
+</string_table>

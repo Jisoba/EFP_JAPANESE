@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Dushman (Merc Trader) Contract Killing Dynamic Task -->
+
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_bs_kill_stalker_nearby_title">
+		<text>殺害契約</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_bs_kill_stalker_nearby_descr">
+		<text>ターゲットを見つけて排除する。任務が完了したら、報酬を取りに戻る</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_bs_kill_stalker_nearby_job_descr">
+		<text>請負業者は未処理の賞金リストを持ってる。契約を履行するために、これらを個別に処理してくれるボランティアが必要だ。興味あるか？</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_bs_kill_stalker_nearby_finish">
+		<text>終わったか？素晴らしい、これが君の分け前だ。</text>
+	</string>
+
+
+	<!-- ASSAULT TERRITORY FOR MERCS TASK -->
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_2_title">
+		<text>敵野営地を急襲しろ</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_2_descr">
+		<text>すべての場所の敵対的な脅威を排除する。</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_2_job_descr">
+		<text>お前には攻撃の指揮をとってもらいたい。ターゲットの場所にいる全ての敵対勢力を排除してくれ。</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_2_finish">
+		<text>素晴らしい働きだ。お前は素晴らしい戦士だ。</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Dushman (Merc Trader) Capture Enemy Documents Dynamic Task -->
+
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_3_title">
+		<text>敵の文書を奪取する</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_3_descr">
+		<text>敵の文書を奪い、ダッシュマンに渡す。</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_3_job_descr">
+		<text>敵の書類を確保してとほしいと雇い主から通達があった。持ってきてくれれば、報酬を渡そう。</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_3_finish">
+		<text>よくやった</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- MECHANIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Hog (Merc Mechanic) Find Level 1 Toolkit Task -->
+
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_1_title">
+		<text>ホグのためにベーシックツールを探せ</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_1_descr">
+		<text>ホグは装備に基本的なアップグレードをするためにベーシックツールを必要としている。見つけ出し、彼に持っていこう。</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_1_job_descr">
+		<text>提案があるんだが。新しいツールを持ってきてくれれば、報酬を渡そう。どうだ？</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_1_fetch_job_descr">
+		<text>ベーシックツールをあちこち探し回ってるんだがな。銃の修理に必要なもので、中にはオイルと工具が入ってるはずだ。持ってきてくれたら、金を払おう。</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_1_fetch_finish">
+		<text>素晴らしい！これこそ俺が探してたものだ。ありがとう！</text>
+	</string>
+
+
+
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_2_title">
+		<text>ホグのためにアドバンスドツールを探せ</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_2_descr">
+		<text>ホグは装備に高度なアップグレードをするためにアドバンスドツールを必要としている。見つけ出し、彼に持っていこう。</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_2_job_descr">
+		<text>もうひとつ提案があるんだが。持ってきてくれたツールのおかげでうまくいってるんだが、必要なものが全て揃ってるわけじゃない。もっと良い物を持ってこれるか？</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_2_fetch_job_descr">
+		<text>アドバンスドツールが必要だ。どこで手に入るか分からない。だが、もし手に入るなら、喉から手が出るほど欲しい。</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_2_fetch_finish">
+		<text>必要なものは全部入ってるな。ありがとう。</text>
+	</string>
+
+
+
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_3_title">
+		<text>ホグのためにエキスパートツールを探せ</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_3_descr">
+		<text>ホグは装備に専門的なアップグレードをするためにエキスパートツールを必要としている。見つけ出し、彼に持っていこう。</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_3_job_descr">
+		<text>もうひとつ提案があるんだが。持ってきてくれたツールのおかげでうまくいってるんだが、必要なものが全て揃ってるわけじゃない。もっと良い物を持ってこれるか？</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_3_fetch_job_descr">
+		<text>エキスパートツールが必要だ。どこで手に入るか分からない。だが、もし手に入るなら、喉から手が出るほど欲しい。.</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_3_fetch_finish">
+		<text>必要なものは全部入ってるな。ありがとう</text>
+	</string>
+	
+	
+<!-- Aslan (Barman) -->
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_kill_stalker_nearby_title">
+		<text>ターゲットを排除しろ</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_kill_stalker_nearby_descr">
+		<text>アスランはターゲットを排除すれば報酬を支払うと約束した。</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_kill_stalker_nearby_job_descr">
+		<text>ああ、我々はいつだって仕事を抱えてる。座標を送信するから、そこにいるターゲットを殺せ。</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_kill_stalker_nearby_finish">
+		<text>よくやった、報酬だ。</text>
+	</string>
+	
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_fetch_patches_title">
+		<text>ワッペンを集めろ</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_fetch_patches_descr">
+		<text>アスランからワッペンを集めるように頼まれた。</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_fetch_patches_job_descr">
+		<text>人狩りをしたいか？必要なワッペンの数を教えるから、私の所に持ってこい。そしたら、報酬をやる。</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_fetch_patches_finish">
+		<text>よくやった、報酬だ。</text>
+	</string>
+	
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_3_title">
+		<text>密猟者</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_3_descr">
+		<text>ミュータントの部位の需要があるようだ。</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_3_job_descr">
+		<text>ああ、あんた向けの仕事ならいつでもあるぞ。金持ちのクライアントは珍しいミュータントの身体部位に興味を持ってる。それを持ってきて、努力に見合ったものを渡そう。</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_3_fetch_job_descr">
+		<text>ああ、あんた向けの仕事ならいつでもあるぞ。金持ちのクライアントは珍しいミュータントの身体部位に興味を持ってる。それを持ってきて、努力に見合ったものを渡そう。この部位が必要だ</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_3_fetch_finish">
+		<text>よくやった、報酬だ。</text>
+	</string>
+	
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_4_title">
+		<text>恐怖の親玉</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_4_descr">
+		<text>アスランは、レッド フォレストに出没する危険なミュータントを排除したいと考えている。</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_4_job_descr">
+		<text>聞いてくれ。特に厄介なキメラがレッド フォレストに湧いてるって噂がある。ストーカーたちですら安全とは言えない。そのキメラは真っ黒だそうだ。偵察隊のひとりを殺したやつかもしれん。だから、本当に死んでほしいんだ。準備をして、あのクソ野郎をぶちのめしてやれ。</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_4_finish">
+		<text>素晴らしい仕事だ。私なら全員を集めなければならないようなことを、君は成し遂げてくれた。もしゾーンを離れたら、連絡をくれ。君のような人材を求める雇い主を何人か知っている。</text>
+	</string>
+
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_5_title">
+		<text>基地を確保しろ</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_5_descr">
+		<text>アスランは、基地近くの場所のすべてのミュータントを一掃するように頼んできた。</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_5_job_descr">
+		<text>契約ではなく個人的なことだ、もちろん金は払う。ミュータントが多すぎて、夜は騒がしくてよく眠れないし、昼間はストーカーを引き寄せるかもしれない。部外者がこの辺りを嗅ぎ回るのは嫌なんだ。掃除してきてくれ。</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_5_finish">
+		<text>これが報酬だ。これからも頑張ってくれよ。</text>
+	</string>
+	
+<!-- Surgeon (Mercenary Medic) -->
+	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_1_title">
+		<text>薬品製造ツールを探せ</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_1_descr">
+		<text>サージャンは医療物資を作成するために薬品製造ツールを必要としている。見つけ出し、彼に持っていこう。</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_1_job_descr">
+		<text>今ある医療品の在庫で、日々出てくる怪我人を治療していけるか心配だ。いずれ包帯と医療キットが無くなってしまう。薬品製造ツールを探してきてくれ。必ず重宝するだろう。</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_1_fetch_job_descr">
+		<text>ああ、必要なものがあるんだ。ヤンターの移動研究室はそれほど遠くないが、ここの部隊が彼らの医療用品に依存しすぎるのは良くないと思うんだ。製薬キットを持ってきてくれれば、ここで十分な薬を作り始めることができる。心配しなくても、このためにすでにルーブルを用意してある。物資を持ち帰ったら、ちゃんと支払おう。</text>
+	</string>
+	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_1_fetch_finish">
+		<text>えーと...よし、これでいいだろう。感謝する。これが報酬だ。</text>
+	</string>
+
+</string_table>

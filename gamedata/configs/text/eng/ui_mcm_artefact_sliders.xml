@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+	<string id="ui_mcm_menu_arx_options">
+		<text>ARX</text>
+	</string>
+	<string id="ui_mcm_arx_options_arti_s_timer">
+		<text>リジェネ開始までの時間</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_restore_step">
+		<text>リジェネ量</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_restore_point">
+		<text>リジェネに必要な最低コンディション</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_light_burn_immunity">
+		<text>軽度の熱ダメージによるコンディション低下</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_burn_immunity">
+		<text>熱ダメージによるコンディション低下</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_strike_immunity">
+		<text>衝撃ダメージによるコンディション低下</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_shock_immunity">
+		<text>電気ダメージによるコンディション低下</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_wound_immunity">
+		<text>裂傷ダメージによるコンディション低下</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_radiation_immunity">
+		<text>放射能ダメージによるコンディション低下</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_telepatic_immunity">
+		<text>精神ダメージによるコンディション低下</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_chemical_burn_immunity">
+		<text>化学ダメージによるコンディション低下</text>
+	</string>
+	
+	<string id="ui_mcm_arx_options_imm_mul_explosion_immunity">
+		<text>爆発ダメージによるコンディション低下</text>
+	</string>
+	
+	<string id="ui_mcm_arx_options_imm_mul_fire_wound_immunity">
+		<text>銃弾ダメージによるコンディション低下</text>
+	</string>
+</string_table>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Beard (Loner Trader) Clear Mutants from SkadovskTask -->
+
+	<string id="igi_task_text_zat_a2_stalker_barmen_task_bs_assault_monster_online_title">
+		<text>エリア周辺のミュータントの退治</text>
+	</string>
+	<string id="igi_task_text_zat_a2_stalker_barmen_task_bs_assault_monster_online_descr">
+		<text>ミュータントがいる。彼らを追い詰めて、このエリアを一掃せよ</text>
+	</string>
+	<string id="igi_task_text_zat_a2_stalker_barmen_task_bs_assault_monster_online_job_descr">
+		<text>シーッ 聞いたか？ミュータントの遠吠えだ 今更ながら 寒気がするぜ。 お前が行って相手をしてやったらどうだ？その価値に見合った報酬を出そう</text>
+	</string>
+	<string id="igi_task_text_zat_a2_stalker_barmen_task_bs_assault_monster_online_finish">
+		<text>ははーん！よくやった、ストーカー! 一杯やれよ!</text>
+	</string>
+
+
+	<!-- FIND ARTEFACT FOR BEARD TASK -->
+	<string id="igi_task_text_zat_a2_stalker_barmen_task_2_title">
+		<text>ビアードのためにアーティファクトを探す</text>
+	</string>
+	<string id="igi_task_text_zat_a2_stalker_barmen_task_2_descr">
+		<text>ビアードがアーティファクトを見つけて欲しいと言ってる。</text>
+	</string>
+	<string id="igi_task_text_zat_a2_stalker_barmen_task_2_job_descr">
+		<text>私はアーティファクトを扱っている。普段はストーカーから買うことはないのだが、特に手に入れたいものがある。やってみるか？</text>
+	</string>
+	<string id="igi_task_text_zat_a2_stalker_barmen_task_2_fetch_job_descr">
+		<text>アーティファクトを探してるんだ。見たことあるか？もし見つけられたら、報酬をしっかり払うよ。</text>
+	</string>
+	<string id="igi_task_text_zat_a2_stalker_barmen_task_2_fetch_finish">
+		<text>グッドハンティング、ストーカー！一杯やろうぜ！</text>
+	</string>
+
+
+	<!-- ASSASSINATION FOR BEARD TASK -->
+	<string id="igi_task_text_zat_a2_stalker_barmen_task_3_title">
+		<text>マイブラザーズ・キーパー</text>
+	</string>
+	<string id="igi_task_text_zat_a2_stalker_barmen_task_3_descr">
+		<text>Militaryのストーカーを殺せ</text>
+	</string>
+	<string id="igi_task_text_zat_a2_stalker_barmen_task_3_job_descr">
+		<text>ある男がいた。以前はこの船の他の乗客と同じように、普通のストーカーだった。ある日、軍の士官がやってきて、彼に任務を与えることになった。そして、気がつくと、彼はかつての仲間を無残にも殺していたのだ! そんなことは許されない! この裏切り者を見つけ出して、背後から撃たれた男たちの仇を討つのだ。</text>
+	</string>
+	<string id="igi_task_text_zat_a2_stalker_barmen_task_3_finish">
+		<text>ああ、殺したのか？何か飲めよ 私たちは皆、一杯やりたいとは思うが...</text>
+	</string>
+	
+<!-- Noah -->
+	<string id="igi_task_text_task_noah_2_1">
+		<text>ベネファクター：丘の上のテレポーターアノマリーに乗る</text>
+	</string>
+	<string id="igi_task_text_task_noah_2_2">
+		<text>ベネファクター: ミュータントの巣を一掃する</text>
+	</string>
+	<string id="igi_task_text_task_noah_2_3">
+		<text>ベネファクター: ノアにミッションの成功を伝える</text>
+	</string>
+	<string id="igi_task_text_task_noah_2_descr">
+		<text>スノークスがノアを脅している。南の台地にある隠れ家を 片付けてくれと頼まれた</text>
+	</string>
+	<string id="igi_task_text_task_noah_1_1">
+		<text>ベネファクター: ノアが新しいライフルを手に入れるのを助力せよ。</text>
+	</string>
+	<string id="igi_task_text_task_noah_1_2">
+		<text>ベネファクター:ノアにアームゼルプロテクタを持ち込め。</text>
+	</string>
+	<string id="igi_task_text_task_noah_1_descr">
+		<text>ノアが夜、安心して眠れるようにと、アームゼルプロテクタを手に入れるのを手伝ってほしいという。</text>
+	</string>
+	
+	<string id="igi_task_text_zat_stancia_trader_merc_task_bs_fetch_patches_title">
+		<text>ワッペンを収集する</text>
+	</string>
+	<string id="igi_task_text_zat_stancia_trader_merc_task_bs_fetch_patches_descr">
+		<text>Mercenaryからワッペン集めを依頼された。</text>
+	</string>
+	<string id="igi_task_text_zat_stancia_trader_merc_task_bs_fetch_patches_job_descr">
+		<text>本物のサファリを手掛ける気分か？敵を襲って、そのワッペンを持ってこい。派閥の水準を高めていくのだ。</text>
+	</string>
+	<string id="igi_task_text_zat_stancia_trader_merc_task_bs_fetch_patches_finish">
+		<text>さすがだ! これがお前の報酬だ</text>
+	</string>
+
+<!-- Axel (Loner Medic) -->
+	<string id="igi_task_text_zat_b22_stalker_medic_task_1_title">
+		<text>アクセルのために薬物製造キットを探す</text>
+	</string>
+	<string id="igi_task_text_zat_b22_stalker_medic_task_1_descr">
+		<text>薬物製造キットは、アクセルが医療品の作業をするのに必要なものだ。見つけたら持っていこう。</text>
+	</string>
+	<string id="igi_task_text_zat_b22_stalker_medic_task_1_job_descr">
+		<text>毎日これだけ怪我人が出ているのに、医療品の在庫を維持するのは不可能だ。そのうち包帯や救急箱が足りなくなりそうだ。昔の製剤キットを探してほしい。きっと重宝するはずだ。</text>
+	</string>
+	<string id="igi_task_text_zat_b22_stalker_medic_task_1_fetch_job_descr">
+		<text>薬物製造キットを探していたんだ。錠剤とアンプルが入ってるはずだ医療用具の仕事に必要なんだ このキットを一式持ってきてくれるなら、代金は払うよ。</text>
+	</string>
+	<string id="igi_task_text_zat_b22_stalker_medic_task_1_fetch_finish">
+		<text>よくやった！</text>
+	</string>
+</string_table>

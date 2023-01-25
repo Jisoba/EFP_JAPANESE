@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="csky_patch">
+    <text>Clear Skyのワッペン</text>
+  </string>
+  <string id="csky_patch_description">
+    <text>Clear Skyのユニフォームから剥ぎ取った記章。</text>
+  </string>
+  <string id="freedom_patch">
+    <text>Freedomのワッペン</text>
+  </string>
+  <string id="freedom_patch_description">
+    <text>Freedomのユニフォームから剥ぎ取った記章。</text>
+  </string>
+  <string id="stalker_patch">
+    <text>Lonerのワッペン</text>
+  </string>
+  <string id="stalker_patch_description">
+    <text>Lonerのユニフォームから剥ぎ取った記章。</text>
+  </string>
+  <string id="ecolog_patch">
+    <text>Ecologistのワッペン</text>
+  </string>
+  <string id="ecolog_patch_description">
+    <text>Ecologistのユニフォームから剥ぎ取った記章。</text>
+  </string>
+  <string id="bandit_patch">
+    <text>Banditのワッペン</text>
+  </string>
+  <string id="bandit_patch_description">
+    <text>Banditのユニフォームから剥ぎ取った記章。</text>
+  </string>
+  <string id="duty_patch">
+    <text>Dutyのワッペン</text>
+  </string>
+  <string id="duty_patch_description">
+    <text>Dutyのユニフォームから剥ぎ取った記章。</text>
+  </string>
+  <string id="monolith_patch">
+    <text>Monolithのワッペン</text>
+  </string>
+  <string id="monolith_patch_description">
+    <text>Monolithのユニフォームから剥ぎ取った記章。</text>
+  </string>
+  <string id="army_patch">
+    <text>Militaryのワッペン</text>
+  </string>
+  <string id="army_patch_description">
+    <text>ウクライナ軍の制服から剥ぎ取った記章。</text>
+  </string>
+  <string id="merc_patch">
+    <text>Mercenaryのワッペン</text>
+  </string>
+  <string id="merc_patch_description">
+    <text>Mercenaryの制服から剥ぎ取った記章。</text>
+  </string>
+  <string id="st_clearsky_fp">
+    <text>Clear Skyの派閥ワッペン</text>
+  </string>
+  <string id="st_clearsky_fp_descr">
+    <text>この派閥の記章は、日の出と対象的な、鳩に挟まれ透き通った青い空模様が描かれている。それはノヴィコフとカランチャと出会った者たちが彼らの人柄から、争いを嫌いゾーンを治療することがこの派閥の目的であると考えられている。Clear Skyはブロウアウトや、その他の異状な大変動の頻度と危険性を少しずつ減らすことを望んでいると広く認識されている。
+
+\n%c[ui_gray_3]特性 : 
+%c[d_blue] ・ 私物
+%c[d_blue] ・ 貴重品</text>
+  </string>
+  <string id="st_freedom_fp">
+    <text>Freedomの派閥ワッペン</text>
+  </string>
+  <string id="st_freedom_fp_descr">
+    <text>この派閥の記章は、全体的にウクライナの旗と一緒に黒い背景に対し、緑色の狼が描かれている。このデザインは、Freedomの派閥の特徴から、土地愛と彼らの強固な決意と戦いにおける攻撃的な意思と共に伝えることを目的としている。それにしても、無政府主義者がデザインの一環としてどの国の国旗も欲しがるのは何故だろうか。
+
+\n%c[ui_gray_3]特性 : 
+%c[d_blue] ・ 私物
+%c[d_blue] ・ 貴重品</text>
+  </string>
+  <string id="st_stalker_fp">
+    <text>Lonerの派閥ワッペン</text>
+  </string>
+  <string id="st_stalker_fp_descr">
+    <text>一般的などの派閥にも属さないストーカーの擦り切れたこのワッペンは、Mercenaryたちから共通の現金として見なされており、このワッペンを出自不明のトレーダーと交換する。Lonerは数多くいるが、多くの場合は、複数のグループだったり単独であるため、ゾーン内の組織化された略奪的なグループに狙われやすい。
+
+\n%c[ui_gray_3]特性 : 
+%c[d_blue] ・ 私物
+%c[d_blue] ・ 貴重品</text>
+  </string>
+  <string id="st_ecolog_fp">
+    <text>Ecologistの派閥ワッペン</text>
+  </string>
+  <string id="st_ecolog_fp_descr">
+    <text>この派閥の記章は、白とシアンを背景に黄金の羽がセットで描かれている。このワッペンはゾーン内のブラックマーケットでは価値が高く、スーツに縫い付けることで、他の派閥による虐待に恐れることなく、ほぼどこの地域にも行くことができる程の影響があるため、ほとんどのEcologistはワッペンを手放そうとはしない。しかしながら、それをもってしてもゾーンの「住人達」を抑止することは出来ない。
+
+\n%c[ui_gray_3]特性 : 
+%c[d_blue] ・ 私物
+%c[d_blue] ・ 貴重品</text>
+  </string>
+  <string id="st_bandit_fp">
+    <text>Banditの派閥ワッペン</text>
+  </string>
+  <string id="st_bandit_fp_descr">
+    <text>この派閥の記章は白い盾とひび割れた黒い髑髏がセットで描かれている。各派閥のリーダーの一部は、単なる凶悪犯ではなく、封建的な暴徒の領主であるという立ち位置が一致しており、受け入れる者には秩序を、敵対する者には冷酷な報復を下す。
+
+\n%c[ui_gray_3]特性 : 
+%c[d_blue] ・ 私物
+%c[d_blue] ・ 貴重品</text>
+  </string>
+  <string id="st_dolg_fp">
+    <text>Dutyの派閥ワッペン</text>
+  </string>
+  <string id="st_dolg_fp_descr">
+    <text>この派閥の記章は、赤と黒の盾と黄金の十字線が描かれている。全体的にこの派閥のデザインは、軍事的ルーツを暗示することを意図していたが、ゾーンの外の世界のために、絶えずゾーンと戦わなければならない、ストイックで血生臭い兵士としての役割を失うことはない。
+
+\n%c[ui_gray_3]特性 : 
+%c[d_blue] ・ 私物
+%c[d_blue] ・ 貴重品</text>
+  </string>
+  <string id="st_monolith_fp">
+    <text>Monolithの派閥ワッペン</text>
+  </string>
+  <string id="st_monolith_fp_descr">
+    <text>この派閥の記章には、黄金の太陽に対する翼の輪郭のセットが描かれている、おそらくは伝説上の願望機を表すシンボルだろうか。このワッペンの最も特徴的なことは、何者かに洗脳されている者達だけがこれを身に着けているということだ。つまるところ、このワッペンが意味するのは、Monolith部隊が、当初考えられていたよりも高い水準の独創性を持ち、何者かからの外部の影響力を得ているということだ。これらのワッペンは、Monolithとの戦闘で生き伸びたことの証拠であり、高い能力を表す証明であるため、ゾーン中のベテランストーカーからの尊敬を集める。そのため多くの派閥から高い価値が付けられている。
+
+\n%c[ui_gray_3]特性 : 
+%c[d_blue] ・ 私物
+%c[d_blue] ・ 貴重品</text>
+  </string>
+  <string id="st_army_fp">
+    <text>Militaryの派閥ワッペン</text>
+  </string>
+  <string id="st_army_fp_descr">
+    <text>この派閥の記章は軍の紋章で、ウクライナの国旗に中央にある３つの盾と、背後に2本の剣が描かれている。盾の周りを囲んでいるのは黄金の勝利で、ゾーン内にいる軍は何よりもまず守護者または平和維持軍と自らを自負しているが、実際のところ、その役割を果たしているかどうかは議論が絶えない。
+
+\n%c[ui_gray_3]特性 : 
+%c[d_blue] ・ 私物
+%c[d_blue] ・ 貴重品</text>
+  </string>
+  <string id="st_merc_fp">
+    <text>Mercenaryの派閥ワッペン</text>
+  </string>
+  <string id="st_merc_fp_descr">
+    <text>この派閥の記章は、黒い背景に青い猛禽類が描かれている。 これはMercenaryの特徴を表しており、冷静で正確で機動性の高い幸運の兵士の一派であり、瞬時に目的地を占領したり破壊したりすることができる。
+
+\n%c[ui_gray_3]特性 : 
+%c[d_blue] ・ 私物
+%c[d_blue] ・ 貴重品</text>
+  </string>
+  <string id="st_isg_fp">
+    <text>UNISGの派閥ワッペン</text>
+  </string>
+  <string id="st_isg_fp_descr">
+    <text>この派閥の記章は、栗色の背景に設定された非常に角張った様式化された月桂樹に囲まれた白い顕微鏡が描かれている。ワッペンの裏側に縫い付けられており、カジュアルな観察から離れて、記章が国連国際科学に属していることを示す紋様だ。
+
+\n%c[ui_gray_3]特性 : 
+%c[d_blue] ・ 私物
+%c[d_blue] ・ 貴重品</text>
+  </string>
+  <string id="st_greh_fp">
+    <text>Sinの派閥ワッペン</text>
+  </string>
+  <string id="st_greh_fp_descr">
+    <text>このワッペンの記章は不吉な感覚を呼び起こさせる。左上隅には蛇が、右には東方正教会の十字架がある。ワッペンの真ん中には、日食の星の様式化された描写が記されている。しかし、長い間保有していた場合、不安はおさまり、ゆっくりと奇妙で落ち着いた感覚になる。
+
+\n%c[ui_gray_3]特性 : 
+%c[d_blue] ・ 私物
+%c[d_blue] ・ 貴重品</text>
+  </string>
+  <string id="st_renegade_fp">
+    <text>Renegadeの派閥ワッペン</text>
+  </string>
+  <string id="st_renegade_fp_descr">
+    <text>この派閥の記章は、緑の盾に黄色いサソリが記されている。このワッペンが存在するということは、Renegadeたちがかつて彼らの存在のある時点でより大きな目標を持っていたことを意味する。おそらく懐かしさから、Renegadeの間では、まだ使われている。
+
+\n%c[ui_gray_3]特性 : 
+%c[d_blue] ・ 私物
+%c[d_blue] ・ 貴重品</text>
+  </string>
+</string_table>

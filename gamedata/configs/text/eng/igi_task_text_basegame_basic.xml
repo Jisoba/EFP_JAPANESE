@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+    <string id="igi_task_text_bs_assault_monster_online_title">
+        <text>ミュータント狩り</text>
+    </string>
+    
+    <string id="igi_task_text_bs_assault_stalker_online_title">
+        <text>突撃</text>
+    </string>
+    
+    <string id="igi_task_text_bs_fetch_drugkit_title">
+        <text>薬物製造キットの収集</text>
+    </string>
+    
+    <string id="igi_task_text_bs_fetch_patches_title">
+        <text>ワッペンの収集</text>
+    </string>
+    
+    <string id="igi_task_text_bs_kill_stalker_nearby_title">
+        <text>ストーカーを殺す</text>
+    </string>
+</string_table>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+
+<!-- Butcher -->
+	<string id="igi_task_text_hunter_gar_trader_task_bs_assault_monster_online_title">
+		<text>カル・ハンティング</text>
+	</string>
+	<string id="igi_task_text_hunter_gar_trader_task_bs_assault_monster_online_descr">
+		<text>ブッチャーはミュータントの隠れ家を探し出した。私はそれを一掃する汚れ仕事を引き受けた</text>
+	</string>
+	<string id="igi_task_text_hunter_gar_trader_task_bs_assault_monster_online_job_descr">
+		<text>ふむ ミュータントの巣を捜索してみたんだが......掃除が必要なようだ。地元のストーカーを悩ませてるが 準備の整ったハンターなら 問題ないはずだ 今日は狩りをしたい気分か？腕前は認めるから 肉や獲物を売ってくれ</text>
+	</string>
+	<string id="igi_task_text_hunter_gar_trader_task_bs_assault_monster_online_finish">
+		<text>またしても地域の生態系のバランスが......ッハ。これが報酬だ。</text>
+	</string>
+
+	<string id="igi_task_text_hunter_gar_trader_task_2_title">
+		<text>ブッチャーのために戦利品を探す</text>
+	</string>
+	<string id="igi_task_text_hunter_gar_trader_task_2_descr">
+		<text>ブッチャーがミュータントの部品を必要としていて、いくつか持ってくるように頼まれた。</text>
+	</string>
+	<string id="igi_task_text_hunter_gar_trader_task_2_job_descr">
+		<text>ミュータントの肉に高い金を払う奴もいる。</text>
+	</string>
+	<string id="igi_task_text_hunter_gar_trader_task_2_fetch_job_descr">
+		<text>時には、ミュータントの肉を調理して、バーキープや他の商人に送り、輸入食料を補う手助けをすることもある。今、卸売りに出す肉の仕込みを探している。そのための原料を持って来てくれれば、あんたの懐が温まるぞ。</text>
+	</string>
+	<string id="igi_task_text_hunter_gar_trader_task_2_fetch_finish">
+		<text>ああ、素晴らしい！この肉は不味く見えるかもしれないが、調理するまで待ってくれ。美味しくなるさ</text>
+	</string>
+
+	
+<!-- Flea Market -->
+	<string id="igi_task_text_baraholka_trader_night_task_1_title">
+		<text>アーティファクトを見つけろ</text>
+	</string>
+	<string id="igi_task_text_baraholka_trader_night_task_1_descr">
+		<text>フリーマーケットのトレーダーはアーティファクトを探してほしい。</text>
+	</string>
+	<string id="igi_task_text_baraholka_trader_night_task_1_job_descr">
+		<text>貴重なアーティファクトを見つけて装備を調達したい？ いい装備をいくつか提供できるぜ。</text>
+	</string>
+	<string id="igi_task_text_baraholka_trader_night_task_1_fetch_job_descr">
+		<text>レアなアーティファクトを探しながら装備を調達できると思うかい？もう少し何かを提供することができるぞ。</text>
+	</string>
+	<string id="igi_task_text_baraholka_trader_night_task_1_fetch_finish">
+		<text>ああストーカー、素晴らしい仕事っぷりだ。これをお前にやろう。</text>
+	</string>
+
+
+</string_table>

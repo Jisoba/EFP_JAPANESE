@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+	<string id="st_upg_carry_1_name">
+		<text>重量配分バックフレーム(+5kg)</text>
+	</string>
+	<string id="st_upg_carry_1_descr">
+		<text>肩に集中する荷重を全身に分散させることで、最大荷重を増加させる。</text>
+	</string>
+	<string id="st_upg_carry_2_name">
+		<text>重量配分バックフレーム(+10kgs)</text>
+	</string>
+	<string id="st_upg_carry_2_descr">
+		<text>肩に集中する荷重を全身に分散させることで、最大荷重を増加させる。</text>
+	</string>
+	<string id="st_upg_carry_3_name">
+		<text>重量配分バックフレーム(+15kgs)</text>
+	</string>
+	<string id="st_upg_carry_3_descr">
+		<text>肩に集中する荷重を全身に分散させることで、最大荷重を増加させる。</text>
+	</string>
+</string_table>

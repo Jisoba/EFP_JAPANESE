@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+
+	
+    <string id="ui_mcm_menu_aol_hf">
+        <text>Hideout Furniture</text>
+    </string>
+
+	<string id="ui_mcm_aol_hf_bind_left">
+		<text>オブジェクトを時計回りに回転</text>
+	</string>
+
+    <string id="ui_mcm_aol_hf_bind_right">
+		<text>オブジェクトを反時計回りに回転</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_bind_up">
+		<text>オブジェクトを上方向に移動</text>
+	</string>
+
+    <string id="ui_mcm_aol_hf_bind_down">
+		<text>オブジェクトを下方向に移動</text>
+	</string>
+
+    <string id="ui_mcm_aol_hf_bind_place">
+		<text>オブジェクトを配置</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_bind_collision">
+		<text>オブジェクト同士の衝突チェックを有効化する</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_disable_bbox">
+		<text>配置時のバウンディングボックスを無効にする</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_use_ingame_time">
+		<text>Lights Show In-game Time</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_update_mcm">
+		<text>キーバインドを設定するためにMCMを更新します。デフォルトでは、回転は矢印キー、配置は'F'になっています。</text>
+	</string>
+
+
+</string_table>

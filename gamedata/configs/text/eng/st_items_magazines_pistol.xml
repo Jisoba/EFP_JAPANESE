@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+    
+<!--
+Pistols and MP's
+-->
+
+	<string id="st_mag_aps_9x18_fmj">
+		<text>9x18 APS マガジン</text>
+	</string>
+	<string id="st_mag_aps_9x18_fmj_descr">
+		<text>
+		標準的な9x18 APSマガジンで、装弾数は20発。APSは、AKS-74UやOTs-33に取って代わられ、個人防衛のための武器としては限られた用途にしか使われなかった。
+		</text>
+	</string>
+
+	<string id="st_mag_aps_9x19_fmj">
+		<text>改造された9x19 APS マガジン</text>
+	</string>
+	<string id="st_mag_aps_9x19_fmj_descr">
+		<text>
+		APSマガジンを9x19パラベラムの弾薬が入るように改造したもの。
+		</text>
+	</string>
+
+	<string id="st_mag_beretta_9x19_fmj">
+		<text>9x19 ベレッタ 92F マガジン</text>
+	</string>
+	<string id="st_mag_beretta_9x19_fmj_descr">
+		<text>
+		15発装填可能な標準仕様のベレッタ92Fマガジン。ベレッタは、ギャングや香港のアクション映画スターに長年人気の代物だ。
+		</text>
+	</string>
+
+	<string id="st_mag_beretta_9x18_fmj">
+		<text>改造された 9x18 ベレッタ 92F マガジン</text>
+	</string>
+	<string id="st_mag_beretta_9x18_fmj_descr">
+		<text>
+		ベレッタマガジンを、より一般的な9x18口径に合わせて改造したもの。
+		</text>
+	</string>
+
+
+	<string id="st_mag_colt1911_11.43x23_fmj">
+		<text> .45 ACP コルト 1911 マガジン </text>
+	</string>
+	<string id="st_mag_colt1911_11.43x23_fmj_descr">
+		<text>
+		コルト1911の標準的な7発入りマガジン。1911は装弾数が少ないため、他の最新の.45ハンドガンと比べて時代遅れだが、安価で入手しやすいのが特徴だ。
+		</text>
+	</string>
+
+	<string id="st_mag_colt_kimber_11.43x23_fmj">
+		<text>.45 ACP コルト キンバー マガジン</text>
+	</string>
+	<string id="st_mag_colt_kimber_11.43x23_fmj_descr">
+		<text>
+		コルトキンバーの標準的な7発入りマガジン。1911の標準的なマガジンより品質が高いが、弾数が少ないという欠点がある。
+		</text>
+	</string>
+
+	<string id="st_mag_cz52_7.62x25_p">
+		<text>7.62x25 CZ-52 マガジン</text>
+	</string>
+	<string id="st_mag_cz52_7.62x25_p_descr">
+		<text>
+		CZ-52の標準的な8発入りマガジン。歴史あるこの銃は今でも根強い人気がある。
+		</text>
+	</string>
+
+	<string id="st_mag_cz75_9x19_fmj">
+		<text>9x19 CZ-75 マガジン</text>
+	</string>
+	<string id="st_mag_cz75_9x19_fmj_descr">
+		<text>
+		CZ-75の標準的な16発入りマガジン。
+		</text>
+	</string>
+
+	<string id="st_mag_cz75_9x18_fmj">
+		<text>改造された9x18 CZ-75 マガジン</text>
+	</string>
+	<string id="st_mag_cz75_9x18_fmj_descr">
+		<text>
+       市販のCZ-75用マガジンを改造して9x18弾を給弾できるようにしたもの。9x18マカロフ弾の普及に伴い、ゾーン内ではよく見られる改造だ。
+		</text>
+	</string>
+
+	<string id="st_mag_desert_eagle_357_hp">
+		<text>.357 デザートイーグル マガジン</text>
+	</string>
+	<string id="st_mag_desert_eagle_357_hp_descr">
+		<text>
+		7発入りの標準的な.357デザートイーグルのマガジン。マガジンだけでも重厚感がある。
+		</text>
+	</string>
+
+	<string id="st_mag_fn57_5.7x28_ss190">
+		<text>5.7x28 Five-seveN マガジン</text>
+	</string>
+	<string id="st_mag_fn57_5.7x28_ss190_descr">
+		<text>
+		20発入りの標準的なFive-seveNマガジン。非常に高品質なマガジンで、効果的なサイドアームであるが、ゾーン内で弾薬を入手するのは難しい。
+		</text>
+	</string>
+
+	<string id="st_mag_fnp45_11.43x23_fmj">
+		<text>.45 ACP FNP-45 マガジン</text>
+	</string>
+	<string id="st_mag_fnp45_11.43x23_fmj_descr">
+		<text>
+		FNP-45の標準的な15発入りマガジン。欧米のオペレーターやmonolithストーカーの間ではごく一般的な装備。ハンドガンのFNX-45にも装着可能。
+		</text>
+	</string>
+
+	<string id="st_mag_fnx45_11.43x23_fmj">
+		<text>.45 ACP FNX-45 マガジン</text>
+	</string>
+	<string id="st_mag_fnx45_11.43x23_fmj_descr">
+		<text>
+            標準的な15発入りFNX-45マガジン。新型のFNXハンドガンはmercenaryが装備しているが、monolithが奪った銃としては珍しいものである。また、FNP-45ハンドガンにも装着可能。
+		</text>
+	</string>
+
+	<string id="st_mag_fort_9x18_fmj">
+		<text>9x18 フォート17 マガジン</text>
+	</string>
+	<string id="st_mag_fort_9x18_fmj_descr">
+		<text>
+		フォート17用の標準的な12連マガジン。ゾーンではウクライナ軍の後方部隊や警察官出身のストーカーのサイドアームとしてよく見かけられる。
+		</text>
+	</string>
+
+	<string id="st_mag_fort_9x19_fmj">
+		<text>改造された9x19 フォート17 マガジン</text>
+	</string>
+	<string id="st_mag_fort_9x19_fmj_descr">
+		<text>
+		9x19口径弾を装填可能にしたフォート17用マガジン。
+		</text>
+	</string>
+
+	<string id="st_mag_glock_9x19_fmj">
+		<text>9x19 グロック マガジン</text>
+	</string>
+	<string id="st_mag_glock_9x19_fmj_descr">
+		<text>
+		17発装填可能な標準的なグロックマガジン。アメリカの警察官やギャングに長年愛用されている。
+		</text>
+	</string>
+
+	<string id="st_mag_glock_9x18_fmj">
+		<text>改造された9x18 グロック　マガジン</text>
+	</string>
+	<string id="st_mag_glock_9x18_fmj_descr">
+		<text>
+		グロックのマガジンを、より一般的な9x18マカロフ弾に対応するように改造したもの。
+		</text>
+	</string>
+
+	<string id="st_mag_gsh18_9x19_fmj">
+		<text>9x19 Gsh-18 マガジン</text>
+	</string>
+	<string id="st_mag_gsh18_9x19_fmj_descr">
+		<text>
+		18発入りの標準的なGsh-18マガジン。Gsh-18は、ロシア軍や法執行機関で使用されている近代的なサイドアームの一つだ。
+		</text>
+	</string>
+
+	<string id="st_mag_hpsa_9x19_fmj">
+		<text>9x19 ブローニング ハイパワー マガジン</text>
+	</string>
+	<string id="st_mag_hpsa_9x19_fmj_descr">
+		<text>
+		ブローニングハイパワーの標準的な13発入りマガジン。ハイパワーは、多くのストーカーに支持されている信頼性の高い、手頃な価格のサイドアームだ。
+		</text>
+	</string>
+
+	<string id="st_mag_hpsa_9x18_fmj">
+		<text>9x18 ブローニング　ハイパワー マガジン</text>
+	</string>
+	<string id="st_mag_hpsa_9x18_fmj_descr">
+		<text>
+		ブローニングハイパワーのマガジンを9x18マカロフ弾用に改造したもの。
+		</text>
+	</string>
+
+	<string id="st_mag_mp443_9x19_fmj">
+		<text>9x19 MP-443 マガジン</text>
+	</string>
+	<string id="st_mag_mp443_9x19_fmj_descr">
+		<text>
+		MP-443「グラハ」用の標準的な18連マガジン。ロシア軍や法執行機関の主要なサイドアームのひとつ。
+		</text>
+	</string>
+
+	<string id="st_mag_mp443_9x18_fmj">
+		<text>改造された9x18 MP-443 マガジン</text>
+	</string>
+	<string id="st_mag_mp443_9x18_fmj_descr">
+		<text>
+		MP-443のマガジンを9x18マカロフ弾用に改造したもの。
+		</text>
+	</string>
+
+	<string id="st_mag_oc33_9x18_fmj">
+		<text>9x18 OTs-33 ペルナッハ　マガジン</text>
+	</string>
+	<string id="st_mag_oc33_9x18_fmj_descr">
+		<text>
+		OTs-33ペルナッハの標準的な27発入りマガジン。APSの後継機として、ペルナッハはスタイル以外のすべての面で優れた自動拳銃であった。
+		</text>
+	</string>
+
+	<string id="st_mag_oc33_9x19_fmj">
+		<text>9x19 OTs-33 Pernach Magazine</text>
+	</string>
+	<string id="st_mag_oc33_9x19_fmj_descr">
+		<text>
+			OTs-33ペルナッハマガジンを改造し、9x19パラベラム弾を装填できるようにしたもの。
+		</text>
+	</string>
+
+
+	<string id="st_mag_pm_9x18_fmj">
+		<text>9x18 PM マガジン</text>
+	</string>
+	<string id="st_mag_pm_9x18_fmj_descr">
+		<text>
+		8発入りの標準的なPMマガジン。PMはストッピングパワー、マガジン容量ともに不足しており、唯一の救いは弾薬の普及率である。
+		</text>
+	</string>
+
+	<string id="st_mag_pm_9x19_fmj">
+		<text>9x19 PM マガジン</text>
+	</string>
+	<string id="st_mag_pm_9x19_fmj_descr">
+		<text>
+			PMマガジンを9x19パラベラム弾に対応するよう改造したもの。弾が大きくなったとはいえ、威力はさほど変わらない。
+		</text>
+	</string>
+
+	<string id="st_mag_pmm_9x18_fmj">
+		<text>9x18 PMM マガジン</text>
+	</string>
+	<string id="st_mag_pmm_9x18_fmj_descr">
+		<text>
+			12発入りの標準的なPMMマガジン。PMと比較して大きく改善された。
+		</text>
+	</string>
+
+	<string id="st_mag_pmm_9x19_fmj">
+		<text>改造された9x19 PMM マガジン</text>
+	</string>
+	<string id="st_mag_pmm_9x19_fmj_descr">
+		<text>
+			PMMマガジンを9x19パラベラム弾用に改造したもの。
+		</text>
+	</string>
+
+	<string id="st_mag_pp2000_9x19_fmj">
+		<text>9x19 PP-2000 マガジン</text>
+	</string>
+	<string id="st_mag_pp2000_9x19_fmj_descr">
+		<text>
+		標準仕様のPP-2000用マガジン（装弾数30発）。
+		</text>
+	</string>
+
+	<string id="st_mag_pp2000_9x18_fmj">
+		<text>9x18 PP-2000 マガジン</text>
+	</string>
+	<string id="st_mag_pp2000_9x18_fmj_descr">
+		<text>
+			PP-2000のマガジンを9x18マカロフ弾用に改造したもの。
+		</text>
+	</string>
+
+	<string id="st_mag_sig220_11.43x23_fmj">
+		<text>.45 ACP シグ　ザウエル P220 マガジン</text>
+	</string>
+	<string id="st_mag_sig220_11.43x23_fmj_descr">
+		<text>
+			シグ P220ハンドガン用の7連.45ACPマガジン。P220はボディーガードや警備員に人気があり、ゾーンでも十分に働いてくれる。
+		</text>
+	</string>
+
+	<string id="st_mag_tt33_7.62x25_p">
+		<text>7.62x25 TT-33 マガジン</text>
+	</string>
+	<string id="st_mag_tt33_7.62x25_p_descr">
+		<text>
+		7.62x25 TT-33の8連マガジン。この大戦中の名作は、今でもゾーンにファンがいる。
+		</text>
+	</string>
+
+
+	<string id="st_mag_usp_11.43x23_fmj">
+		<text>.45 ACP USP マガジン</text>
+	</string>
+	<string id="st_mag_usp_11.43x23_fmj_descr">
+		<text>
+			USPの.45ACPバリアント用の標準的な12連マガジン。
+		</text>
+	</string>
+
+	<string id="st_mag_usp_9x19_fmj">
+		<text>9x19 USP マガジン</text>
+	</string>
+	<string id="st_mag_usp_9x19_fmj_descr">
+		<text>
+			USPの9mmに "Match "したバリエーション用の標準15連マガジン。
+		</text>
+	</string>
+
+
+	<string id="st_mag_walther_9x19_fmj">
+		<text>9x19 ワルサー P99 マガジン</text>
+	</string>
+	<string id="st_mag_walther_9x19_fmj_descr">
+		<text>
+		9x19 パラベラム用16連の標準的なワルサーP99マガジン。
+		</text>
+	</string>
+
+	<!-- begin smgs -->
+
+	<string id="st_mag_bizon_9x18_fmj">
+		<text>9x18 PP-19 マガジン </text>
+	</string>
+	<string id="st_mag_bizon_9x18_fmj_descr">
+		<text>
+		ビゾンサブマシンガンPP-19用の標準的な64連ヘリカルマガジン。大容量の反面、給弾の信頼性に欠ける。
+		</text>
+	</string>
+
+	<string id="st_mag_bizon_9x19_fmj">
+		<text>改造された9x19 PP-19 マガジン</text>
+	</string>
+	<string id="st_mag_bizon_9x19_fmj_descr">
+		<text>
+		9x19トカレフ弾を装填するために作られたPP-19用マガジンの改造品。ビゾンのヘリカルマガジンの複雑さを考えると、アーティファクトレベルの改造である。
+		</text>
+	</string>
+
+	<string id="st_mag_bizon_7.62x25_p">
+		<text>改造された7.62x25 PP-19 マガジン</text>
+	</string>
+	<string id="st_mag_bizon_7.62x25_p_descr">
+		<text>
+		7.62x25トカレフ弾を装填するために作られたPP-19用マガジンの改造品。ビゾンのヘリカルマガジンの複雑さを考えると、アーティファクトレベルの改造である。
+		</text>
+	</string>
+
+	<string id="st_mag_kiparis_9x18_fmj">
+		<text>9x18 キパリス マガジン</text>
+	</string>
+	<string id="st_mag_kiparis_9x18_fmj_descr">
+		<text>
+		標準装備の30連キパリスマガジン。キパリスは安価なサブマシンガンであり、banditやrenegadeの集団に愛用されている。
+		</text>
+	</string>
+
+	<string id="st_mag_kiparis_9x19_fmj">
+		<text>改造された9x19 キパリス　マガジン</text>
+	</string>
+	<string id="st_mag_kiparis_9x19_fmj_descr">
+		<text>
+		9x19 パラベラム弾を装填するために作られた、キパリス用30連マガジンの改造品。キパリスは安価なサブマシンガンであり、banditやrenegadeの集団に愛用されている。
+		</text>
+	</string>
+
+	<string id="st_mag_vityaz_9x19_fmj">
+		<text>9x19 ヴィティヤス-SN マガジン</text>
+	</string>
+	<string id="st_mag_vityaz_9x19_fmj_descr">
+		<text>
+			ヴィティヤス-SN用の標準的な30連の9x19マガジン。ウクライナ軍では使用されていないため、ゾーン内では珍しい武器。
+		</text>
+	</string>
+
+	<string id="st_mag_vityaz_9x18_fmj">
+		<text>改造された9x18 ヴィティヤス-SN マガジン</text>
+	</string>
+	<string id="st_mag_vityaz_9x18_fmj_descr">
+		<text>
+		ヴィティヤス-SNマガジンを9x18マカロフ用に改造したもの。
+		</text>
+	</string>
+
+	<string id="st_mag_vz61_9x19_fmj">
+		<text>9x19 vz.61 マガジン</text>
+	</string>
+	<string id="st_mag_vz61_9x19_fmj_descr">
+		<text>
+		Vz.61標準装備の20連マガジン。裏社会で絶大な人気を誇る信頼性の高い武器。
+		</text>
+	</string>
+
+	<string id="st_mag_vz61_9x18_fmj">
+		<text>改造された9x18 vz.61 マガジン</text>
+	</string>
+	<string id="st_mag_vz61_9x18_fmj_descr">
+		<text>
+			Vz.61の20連マガジンを9x18マカロフ弾を給弾できるように微調整したもの。
+		</text>
+	</string>
+	
+	<string id="st_mag_p90_5.7x28_ss190">
+		<text>5.7x28 P90 マガジン</text>
+	</string>
+	<string id="st_mag_p90_5.7x28_ss190_descr">
+		<text>
+			P90に採用されている標準的な50連ヘリカルマガジン。未来的じゃないか？
+		</text>
+	</string>
+	
+	<string id="st_mag_ppsh41_7.62x25_p">
+		<text>PPSh41 7.62x25 ドラムマガジン</text>
+	</string>
+	<string id="st_mag_ppsh41_7.62x25_p_descr">
+		<text>
+		標準的なPPSH41用ドラムマガジン。
+		</text>
+	</string>
+
+	<string id="st_mag_mp5_9x19_fmj">
+		<text>9x19 MP5 マガジン</text>
+	</string>
+	<string id="st_mag_mp5_9x19_fmj_descr">
+		<text>
+           人気の高いどこにでもあるMP5用の30連マガジンです。MP5は、ドッグやbanditを撃退するのに十分な火力を備えており、あらゆる分野のストーカーに愛用されている。
+		</text>
+	</string>
+
+	<string id="st_mag_mp5_9x18_fmj">
+		<text>改造された9x18 MP5 Magazine</text>
+	</string>
+	<string id="st_mag_mp5_9x18_fmj_descr">
+		<text>
+            MP5のマガジンを改造して9x18マカロフ弾を使用できるようにしたもの。9x18への改造は、MP5の人気とゾーンの技術屋の多くに馴染みがあることから、かなり一般的に行われている。
+		</text>
+	</string>
+
+	<string id="st_mag_mp7_9x19_fmj">
+		<text>改造された9x19 MP7 マガジン</text>
+	</string>
+	<string id="st_mag_mp7_9x19_fmj_descr">
+		<text>
+            9x19パラベラム弾を装填できるように改造された40連の拡張MP7マガジン。4.6x30弾はやや珍しいため、一部の有能な技術屋はMP7をより一般的な9mmピストル弾を発射するように改造することができた。
+		</text>
+	</string>
+
+	<string id="st_mag_mp7_9x18_fmj">
+		<text>改造された9x18 MP7 マガジン</text>
+	</string>
+	<string id="st_mag_mp7_9x18_fmj_descr">
+		<text>
+		9x18パラベラム弾を装填できるよう、40連の拡張MP7マガジンをさらに改造したもの。非標準的な改造の上に非標準的な改造を行うことで、この武器の信頼性に問題が生じる傾向がある。
+		</text>
+	</string>
+
+	<string id="st_mag_mp5_11.43x23_fmj">
+		<text>.45 ACP "フラジール" MP5 マガジン</text>
+	</string>
+	<string id="st_mag_mp5_11.43x23_fmj_descr">
+		<text>
+            MP5「フラジール」用の特注マガジン。.45 ACP弾を30発装填できる。無名の奇人Dutyerの依頼と噂される。
+		</text>
+	</string>
+
+	<string id="st_mag_ump45_11.43x23_fmj">
+		<text>.45 ACP UMP マガジン</text>
+	</string>
+	<string id="st_mag_ump45_11.43x23_fmj_descr">
+		<text>
+			.45 ACPを装填する25連の標準UMP用マガジン。UMPは、優れた操作性と高いストッピングパワーのため、ゾーンでは珍しい武器だが、高い人気を誇っている。
+		</text>
+	</string>
+	
+</string_table>

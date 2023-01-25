@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+
+	<!-- Jammin -->
+	<string id="kb_unjam">
+		<text>弾詰まりを直す</text>
+	</string>
+	<string id="ui_st_misfire">
+		<text>銃が不発！</text>
+	</string>
+	<string id="ui_st_jam">
+		<text>ジャム！</text>
+	</string>
+	<string id="ui_st_superjam">
+		<text>深刻なジャムが発生した！</text>
+	</string>
+	<string id="ui_st_nothing">
+		<text>ジャムは発生してない</text>
+	</string>
+	<string id="ui_st_unjam">
+		<text>銃の弾詰まりを直した</text>
+	</string>
+	<string id="ui_st_functional">
+		<text>銃は正常だ</text>
+	</string>
+	<string id="ui_st_oldjam">
+		<text>アノマリーマガジンを装填している場合、リロードで解消する</text>
+	</string>
+	<string id="ui_st_unjam_fail">
+		<text>どうやら奥の方でジャムが発生しているようだ</text>
+	</string>
+	<string id="ui_st_parts_damage">
+		<text>武器が内部部品にダメージを受けた。</text>
+	</string>
+	<string id="st_news_parts_alreadygood">
+		<text>部品の交換は不要</text>
+	</string>
+	<string id="ui_st_heat1">
+		<text>, だが温かい</text>
+	</string>
+	<string id="ui_st_heat2">
+		<text>, だが熱い!</text>
+	</string>
+	<string id="ui_st_heat3">
+		<text>, だが非常に熱い!</text>
+	</string>
+	
+	<string id="st_unjam">
+		<text>unjam</text>
+	</string>
+	<!-- Messages -->
+	<string id="st_news_parts_success">
+		<text>パーツの交換に成功: </text>
+	</string>
+	<string id="st_news_parts_repair_success">
+		<text>パーツの修理に成功: </text>
+	</string>
+	<string id="st_news_parts_fail">
+		<text>%c[d_red]武器はすでにより高いコンディションのパーツを装備している。</text>
+	</string>
+	<string id="st_news_parts_incompatible">
+		<text>%c[d_red]このパーツは、この武器との互換性がない。</text>
+	</string>
+	<string id="st_news_parts_barrel">
+		<text>%c[d_red]バレルはその場で交換することはできない。</text>
+	</string>
+	<string id="st_news_parts_trigger">
+		<text>%c[d_red]トリガーはその場で交換することはできない。</text>
+	</string>
+	<string id="st_news_parts_rusty">
+		<text>%c[d_red]武器が錆びすぎていて、野外で分解することができない。</text>
+	</string>
+	<string id="st_news_dis_items">
+		<text>%c[d_red]適切な分解ツールが必要です。</text>
+	</string>
+	<string id="st_news_fieldstrip">
+		<text>取り外したパーツ:</text>
+	</string>
+	<string id="st_news_cleaned">
+		<text>クリーニングしたパーツ:</text>
+	</string>
+
+	<!-- MCM -->
+	<string id="ui_mcm_menu_wpo">
+		<text>WPO</text>
+	</string>
+	<string id="ui_mcm_wpo_title">
+		<text>Weapon Parts Overhaul</text>
+	</string>
+	<string id="ui_mcm_wpo_wpojam">
+		<text>ジャムの設定</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon">
+		<text>経済設定</text>
+	</string>
+	<string id="ui_mcm_wpo_wpomisc">
+		<text>その他の設定</text>
+	</string>
+	<string id="ui_mcm_menu_wpojam">
+		<text>ジャムの設定</text>
+	</string>
+	<string id="ui_mcm_menu_wpoecon">
+		<text>経済設定</text>
+	</string>
+	<string id="ui_mcm_menu_wpomisc">
+		<text>その他の設定</text>
+	</string>
+
+	<string id="ui_mcm_wpo_wpojam_keybind">
+		<text>排莢キー</text>
+	</string>
+	<string id="ui_mcm_wpo_wpojam_jamchance">
+		<text>ジャム発生の確率</text>
+	</string>
+	<string id="ui_mcm_wpo_wpojam_jamchance_desc">
+		<text>ジャムの発生率</text>
+	</string>
+	<string id="ui_mcm_wpo_wpojam_superjam">
+		<text>スーパージャム</text>
+	</string>
+	<string id="ui_mcm_wpo_wpojam_superjam_desc">
+		<text>スーパージャムが発生すると、装填中の弾倉を外さないとアンジャムできないようになります。</text>
+	</string>
+	<string id="ui_mcm_wpo_wpojam_simplejam">
+		<text>スーパージャム時のマガジン解除</text>
+	</string>
+	<string id="ui_mcm_wpo_wpojam_simplejam_desc">
+		<text>有効化するとスーパージャム発生後のリロードでマガジンを外します。そのため、インベントリでの操作が不要になります。</text>
+	</string>
+	<string id="ui_mcm_wpo_wpojam_heat">
+		<text>武器のオーバーヒート</text>
+	</string>
+	<string id="ui_mcm_wpo_wpojam_heat_desc">
+		<text>発砲時に武器が発熱し、武器の劣化やジャム確率、パーツの損傷に影響を与えるようになります。</text>
+	</string>
+	<string id="ui_mcm_wpo_wpojam_oldammo">
+		<text>古い弾薬による劣化</text>
+	</string>
+	<string id="ui_mcm_wpo_wpojam_oldammo_desc">
+		<text>古い弾薬がバレルの磨耗やジャムの可能性を高めるようになります。</text>
+	</string>
+
+	<string id="ui_mcm_wpo_wpoecon_degradation">
+		<text>降雨による劣化 </text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_degradation_desc">
+		<text>雨天時に武器の劣化が早くなる割合。</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_threshold">
+		<text>パーツが損傷する武器耐久値</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_threshold_desc">
+		<text>武器自体の耐久値がこの値を下回ると発砲時にパーツが損傷する可能性があります。設定が低いほどパーツに掛かる負担が少なくなります</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_repairkit">
+		<text>リペアキットはパーツを交換</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_repairkit_desc">
+		<text>リペアキットがパーツを交換するようなります（パーツ耐久値が100%に戻る）。\n有効でない場合、リペアキットは耐久値を25%しか追加しません。\n無効の場合、難易度を引き上げる要因になります。</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_fullservice">
+		<text>メカニックのサービスレベル</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_fullservice_desc">
+		<text>技術者が提供するサービスのレベルを決定します。	
+			\n武器の修復のみ：武器の修理のみ行います。武器の耐久値を元に戻すだけです。
+			\nパーツの洗浄：武器を修復し、洗浄できるパーツを洗浄します。
+			\nフルサービス。武器を修理し、パーツの修理や交換を行います。
+		</text>
+	</string>
+	
+	<string id="ui_mcm_lst_clean">
+		<text>武器の修復のみ</text>
+	</string>
+	<string id="ui_mcm_lst_parts">
+		<text>パーツの洗浄</text>
+	</string>
+	<string id="ui_mcm_lst_full">
+		<text>フルサービス</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_altroll">
+		<text>武器耐久値にウェイトをかける</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_altroll_desc">
+		<text>ラグランジェ補間に基づいて武器の耐久値をを調節する。全体的にドロップの質が下がる。スカベンジするのが好きな人には合うし、次の設定と相性が良い。</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_altpartroll">
+		<text>パーツの耐久値にウェイトをかける</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_altpartroll_desc">
+		<text>武器のパーツドロップに新しい計算式を使用し、武器の状態によってパーツの状態の良し悪しが決定されます。低い武器耐久値ではドロップの質が向上し、高い武器耐久値ではドロップの質が低下します。</text>
+	</string>
+	
+	<string id="ui_mcm_wpo_wpoecon_saletype">
+		<text>武器売却システム</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_saletype_desc">
+		<text>武器の売却方法を決定します。 
+			\n- バニラ：武器の状態に見合った価格で販売（バランス的に推奨されません）。
+			\n- 標準：武器の販売価格は、破損/非破損に基づき、パーツの状態に応じて変化します（60%の閾値）。推奨。
+			\n- 厳格：武器のすべてのパーツが一切損傷していないことが条件になります。
+			なお、上記の条件に関わらず、パーツが欠損している武器は売却対象外となります。
+		</text>
+	</string>
+	
+	<string id="ui_mcm_lst_vanilla">
+		<text>バニラ</text>
+	</string>
+	<string id="ui_mcm_lst_easy">
+		<text>標準</text>
+	</string>
+	<string id="ui_mcm_lst_hard">
+		<text>厳格</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_easybarrel">
+		<text>作業台なしでバレルを交換</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_easytrigger">
+		<text>作業台なしでトリガーを交換</text>
+	</string>
+	
+
+	<string id="ui_mcm_wpo_wpomisc_profanity">
+		<text>弾詰まり時の悪態</text>
+	</string>
+	<string id="ui_mcm_wpo_wpomisc_profanity_desc">
+		<text>ジャム発生時に悪態をつくようになります。</text>
+	</string>
+	<string id="ui_mcm_wpo_wpomisc_profanity_timeout">
+		<text>悪態の無効化</text>
+	</string>
+	<string id="ui_mcm_wpo_wpomisc_profanity_timeout_desc">
+		<text>有効化すると悪態の発生に間隔を追加します。</text>
+	</string>
+	<string id="ui_mcm_wpo_wpomisc_profanity_language">
+		<text>悪態の言語</text>
+	</string>
+	<string id="ui_mcm_lst_eng">
+		<text>英語</text>
+	</string>
+	<string id="ui_mcm_lst_rus">
+		<text>ロシア語</text>
+	</string>
+	<string id="ui_mcm_wpo_wpomisc_verbosity">
+		<text>ジャム時のメッセージ</text>
+	</string>
+	<string id="ui_mcm_wpo_wpomisc_verbosity_desc">
+		<text>ジャムやパーツの損傷に関する情報をユーザーに表示します。</text>
+	</string>
+	<string id="ui_mcm_wpo_wpomisc_fun">
+		<text>Fun level</text>
+	</string>
+	<string id="ui_mcm_lst_no">
+		<text>Duty</text>
+	</string>
+	<string id="ui_mcm_lst_yes">
+		<text>Loner</text>
+	</string>
+	<string id="ui_mcm_lst_ofc">
+		<text>Freedom</text>
+	</string>
+	<string id="ui_mcm_wpo_wpomisc_debug">
+		<text>デバッグ情報をログに記載する</text>
+	</string>
+	<string id="ui_mcm_wpo_wpomisc_debug_desc">
+		<text>デバッグログ機能により、コンソールログに様々な情報を追加することができます。</text>
+	</string>
+
+	<string id="st_field_strip">
+		<text>フィールドストリップ</text>
+	</string>
+	<string id="st_field_strip_fail">
+		<text>この武器には取り外せる部品がありません。</text>
+	</string>
+	<string id="ui_st_missing">
+		<text>この武器は部品が不足しています。</text>
+	</string>
+
+	
+	<string id="article_wpo">
+		<text>Weapon Maintenance</text>
+	</string>
+	<string id="article_wpo_text">
+		<text>
+			%c[pda_green]QUICK FAQS%c[ui_gray_1]\n \n
+			\n1. Why is my gun jamming at 100%?
+			\nA. Your parts are damaged. Check the condition.
+			\n2. How do I unjam?
+			\nA. Double-tap USE. Or right-click weapon in inventory to bring up unjam command.
+			\n3. Why am I losing condition when I replace parts?
+			\nA. You need to relubricate the weapon. This does not happen below 60%. Use a Leatherman to reduce the amount, or a workbench to eliminate it entirely.
+			\n4. Why don't technicians fix my parts?
+			\nA. Parts must be scavenged. You can buy parts at the technician, or use a weapon repair kit. This is the core longevity behind WPO. \n \n
+			Weapon Parts Overhaul drastically changes how weapon maintenance works in Anomaly. Read this guide carefully to understand everything.\n \n
+			
+			%c[pda_green]I. Parts and Maintenance%c[ui_gray_1]\n
+			\n• Your weapon overall condition (the condition bar you are normally used to) is now easier to maintain. The mechanic will restore this for 60% less cost. All the weapon repair items are far more powerful.
+			\n• Weapon parts need maintenance. You can see the condition of weapon parts at-a-glance on mouse over.
+			\n   • Color of the text indicates status.
+			\n%c[d_red]   •  Missing
+			\n%c[d_orange]   •  Damaged and cannot be cleaned
+			\n%c[pda_yellow]   • Dirty and can be cleaned%c[ui_gray_1]
+			\n• Weapon parts can be removed by field-stripping the weapon. This removes every component that is not a barrel or trigger.
+			\n• Weapon parts can also be ad-hoc replaced with drag and drop. %c[d_red]NOTE THAT THIS DEPLETES WEAPON CONDITION IF ABOVE 60%. Have a Leatherman present to reduce this impact. %c[ui_gray_1]. 
+			\n• Weapon parts can also be replaced at workbench for free if the correct repair kit is owned. %c[pda_yellow]This is one of two ways to replace barrels or triggers.
+			\n \n
+			%c[pda_green]II. Jamming and Part Damage%c[ui_gray_1]\n
+			\n• Parts have five levels of damage: %c[d_red]broken%c[ui_gray_1], %c[d_red]damaged%c[ui_gray_1], %c[d_orange]worn%c[ui_gray_1], %c[0,250,250,0]dirty%c[ui_gray_1], %c[d_green]functional%c[ui_gray_1]
+			\n• The more damaged the parts, the higher a chance to suffer a malfunction.
+			\n• There are three types of malfunction: misfire, jam, and severe jam.
+			\n• Misfire and jam can be cleared simply by unjamming.
+			\n• Severe jam requires ejection of magazine before clearing the jam.
+			\n• Barrels do not contribute to jam chance. However, dirty and below barrels reduce weapon damage up to 50%.
+			\n• Firing a weapon below 85% condition(default, change %c[pda_yellow]MCM: Part damage condition threshold%c[ui_gray_1]) has a chance to deal damage to weapon parts. 
+			\n• Firing a weapon in heavy rain will degrade the weapon faster.
+			\n• (TEMP REMOVED) Firing a weapon for too long causes overheating, leading to more jams and faster degradation.
+			%c[pda_green]III. Economy changes%c[ui_gray_1]\n
+			\n• Having a cleaning kit will allow you to clean "dirty" weapon parts (above 60% condition). This also restores 10% condition.
+			\n• Having a repair kit will allow you to repair parts through a right-click menu. This uses a charge and restores 25% condition to the part, as well as 10% condition to the weapon.%c[pda_yellow]This is the other way to fix barrels/triggers.%c[ui_gray_1]
+			\n• Technicians will randomly sell weapon parts at a serious markup. 
+			\n• Weapon parts above 60% can be repaired with files, ramrods or multitools.
+			\n• Weapon parts above 10% can be repaired with a very expensive toolkit available at traders.
+			\n \n For all other issues, ping arti#3278 on Discord. I am way too lazy to read Moddb comments.
+		</text>
+	</string>
+	
+	<string id="st_partskit">
+		<text>パーツリペアキット</text>
+	</string>
+	<string id="st_partskit_descr">
+		<text>マイクロファイル、冷間溶接用メタルエポキシ、電解槽のセットアップ、大量の潤滑油、石油留分、その他の溶剤など、高度なツールセットです。このツールは、ラダのエンジンをフェラーリに復元することができますし、機械部品に適用できることは言うまでもありません。このキットで復元できないのは、よほど破壊された金属スクラップだけです。しかし、このキットは組み立てるのが非常に難しいため、ゾーンのメカニックがごく少量だけ販売しています。\n\n</text>
+	</string>
+<!-- Info -->
+
+	<string id="st_dot">
+		<text>•</text>
+	</string>
+	<string id="st_clean_half">
+		<text>halved cleaning effectiveness below threshold: </text>
+	</string>
+	<string id="st_damage_missing">
+		<text>パーツが無い</text>
+	</string>
+	<string id="st_damage_0">
+		<text>破損した</text>
+	</string>
+	<string id="st_damage_1">
+		<text>傷ついた</text>
+	</string>
+	<string id="st_damage_2">
+		<text>擦り切れた</text>
+	</string>
+	<string id="st_damage_3">
+		<text>汚れた</text>
+	</string>
+	<string id="st_damage_4">
+		<text>整備された</text>
+	</string>
+	<string id="st_damage_5">
+		<text>無傷の</text>
+	</string>
+
+	<string id="st_wpo_replace_parts">
+		<text>補修部品</text>
+	</string>
+	
+	<string id="st_wpo_repair">
+		<text>修理して耐久値を25%回復させた:</text>
+	</string>
+	<string id="st_wpo_replace">
+		<text>交換する</text>
+	</string>
+	<string id="st_wpo_clean">
+		<text>洗浄する</text>
+	</string>
+	<string id="st_wpo_remove">
+		<text>取り外し</text>
+	</string>
+
+	<string id="st_name_trigger">
+		<text>トリガーメカニズム</text>
+	</string>
+	<string id="st_name_spring">
+		<text>リコイルスプリング</text>
+	</string>
+	<string id="st_name_barrel">
+		<text>バレル</text>
+	</string>
+	<string id="st_name_bolt_carrier">
+		<text>ボルトキャリアー</text>
+	</string>
+	<string id="st_name_bolt">
+		<text>ボルト</text>
+	</string>
+	<string id="st_name_gas_tube">
+		<text>ガスシステム</text>
+	</string>
+	<string id="st_name_extractor">
+		<text>エキストラクター</text>
+	</string>
+	<string id="st_name_ejector">
+		<text>エジェクター</text>
+	</string>
+	<string id="st_name_pump">
+		<text>ポンプ</text>
+	</string>
+	<string id="st_name_hammers">
+		<text>ハンマー</text>
+	</string>
+	<string id="st_name_chock">
+		<text>チョーク</text>
+	</string>
+	<string id="st_name_all">
+		<text>すべて</text>
+	</string>
+	<string id="st_name_issues">
+		<text>パーツの状態:</text>
+	</string>
+</string_table>

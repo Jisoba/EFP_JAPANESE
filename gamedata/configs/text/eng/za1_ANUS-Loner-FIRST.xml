@@ -1,0 +1,2015 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+
+	<string id="name_stalker_0">
+<text>ジノビィ</text>
+</string>
+<string id="name_stalker_1">
+<text>アバゴール</text>
+</string>
+<string id="name_stalker_2">
+<text>アバモン</text>
+</string>
+<string id="name_stalker_3">
+<text>アバタリー</text>
+</string>
+<string id="name_stalker_4">
+<text>アベルヤ</text>
+</string>
+<string id="name_stalker_5">
+<text>アビッド</text>
+</string>
+<string id="name_stalker_6">
+<text>アビリティ</text>
+</string>
+<string id="name_stalker_7">
+<text>アブノディ</text>
+</string>
+<string id="name_stalker_8">
+<text>アブラム</text>
+</string>
+<string id="name_stalker_9">
+<text>アブロム</text>
+</string>
+<string id="name_stalker_10">
+<text>アダム</text>
+</string>
+<string id="name_stalker_11">
+<text>アドリック</text>
+</string>
+<string id="name_stalker_12">
+<text>アードリック</text>
+</string>
+<string id="name_stalker_13">
+<text>アフ​​ァナシー</text>
+</string>
+<string id="name_stalker_14">
+<text>アガファンゲル</text>
+</string>
+<string id="name_stalker_15">
+<text>アガフォードル</text>
+</string>
+<string id="name_stalker_16">
+<text>アガフォン</text>
+</string>
+<string id="name_stalker_17">
+<text>アガフォニック</text>
+</string>
+<string id="name_stalker_18">
+<text>アガフォポッド</text>
+</string>
+<string id="name_stalker_19">
+<text>アガフォプス</text>
+</string>
+<string id="name_stalker_20">
+<text>アガップ</text>
+</string>
+<string id="name_stalker_21">
+<text>アガピオン</text>
+</string>
+<string id="name_stalker_22">
+<text>アガピット</text>
+</string>
+<string id="name_stalker_23">
+<text>アガピー</text>
+</string>
+<string id="name_stalker_24">
+<text>アガット</text>
+</string>
+<string id="name_stalker_25">
+<text>アガヴ</text>
+</string>
+<string id="name_stalker_26">
+<text>アガバ</text>
+</string>
+<string id="name_stalker_27">
+<text>アーレン</text>
+</string>
+<string id="name_stalker_28">
+<text>アキム</text>
+</string>
+<string id="name_stalker_29">
+<text>アルバート</text>
+</string>
+<string id="name_stalker_30">
+<text>Aldouryen</text>
+</string>
+<string id="name_stalker_31">
+<text>アレック</text>
+</string>
+<string id="name_stalker_32">
+<text>アレックス</text>
+</string>
+<string id="name_stalker_33">
+<text>アレクサンドル</text>
+</string>
+<string id="name_stalker_34">
+<text>アレクシー</text>
+</string>
+<string id="name_stalker_35">
+<text>アレクシー</text>
+</string>
+<string id="name_stalker_36">
+<text>アレックス</text>
+</string>
+<string id="name_stalker_37">
+<text>アレキサンダー</text>
+</string>
+<string id="name_stalker_38">
+<text>アレクセイ</text>
+</string>
+<string id="name_stalker_39">
+<text>アレクセイ</text>
+</string>
+<string id="name_stalker_40">
+<text>アレクシ</text>
+</string>
+<string id="name_stalker_41">
+<text>アリク</text>
+</string>
+<string id="name_stalker_42">
+<text>アロシャ</text>
+</string>
+<string id="name_stalker_43">
+<text>アリョーシャ</text>
+</string>
+<string id="name_stalker_44">
+<text>アムブロジ</text>
+</string>
+<string id="name_stalker_45">
+<text>アナスタ</text>
+</string>
+<string id="name_stalker_46">
+<text>アナトリー</text>
+</string>
+<string id="name_stalker_47">
+<text>アナトリー</text>
+</string>
+<string id="name_stalker_48">
+<text>アナトリー</text>
+</string>
+<string id="name_stalker_49">
+<text>アンドレイ</text>
+</string>
+<string id="name_stalker_50">
+<text>アンドレイ</text>
+</string>
+<string id="name_stalker_51">
+<text>アンドリー</text>
+</string>
+<string id="name_stalker_52">
+<text>アンドル</text>
+</string>
+<string id="name_stalker_53">
+<text>アンドルーシャ</text>
+</string>
+<string id="name_stalker_54">
+<text>アンドルーシュカ</text>
+</string>
+<string id="name_stalker_55">
+<text>アンドリューハ</text>
+</string>
+<string id="name_stalker_56">
+<text>アンドリュカ</text>
+</string>
+<string id="name_stalker_57">
+<text>アンディ</text>
+</string>
+<string id="name_stalker_58">
+<text>アンナ</text>
+</string>
+<string id="name_stalker_59">
+<text>アンチ</text>
+</string>
+<string id="name_stalker_60">
+<text>アントン</text>
+</string>
+<string id="name_stalker_61">
+<text>アーカディ</text>
+</string>
+<string id="name_stalker_62">
+<text>アーカディ</text>
+</string>
+<string id="name_stalker_63">
+<text>アルカシャ</text>
+</string>
+<string id="name_stalker_64">
+<text>アーカイブ</text>
+</string>
+<string id="name_stalker_65">
+<text>アーノルド</text>
+</string>
+<string id="name_stalker_66">
+<text>アーセン</text>
+</string>
+<string id="name_stalker_67">
+<text>アーセニー</text>
+</string>
+<string id="name_stalker_68">
+<text>アルテム</text>
+</string>
+<string id="name_stalker_69">
+<text>アルテミウス</text>
+</string>
+<string id="name_stalker_70">
+<text>アルテミウス</text>
+</string>
+<string id="name_stalker_71">
+<text>アーサー</text>
+</string>
+<string id="name_stalker_72">
+<text>アルジョムズ</text>
+</string>
+<string id="name_stalker_73">
+<text>アーサー</text>
+</string>
+<string id="name_stalker_74">
+<text>アルチョム</text>
+</string>
+<string id="name_stalker_75">
+<text>アヴダ</text>
+</string>
+<string id="name_stalker_76">
+<text>ハウダクト</text>
+</string>
+<string id="name_stalker_77">
+<text>アヴデリー</text>
+</string>
+<string id="name_stalker_78">
+<text>アヴディ</text>
+</string>
+<string id="name_stalker_79">
+<text>アヴディファックス</text>
+</string>
+<string id="name_stalker_80">
+<text>アヴディキ</text>
+</string>
+<string id="name_stalker_81">
+<text>アブディ</text>
+</string>
+<string id="name_stalker_82">
+<text>アヴドン</text>
+</string>
+<string id="name_stalker_83">
+<text>アベル</text>
+</string>
+<string id="name_stalker_84">
+<text>アベニール</text>
+</string>
+<string id="name_stalker_85">
+<text>アヴェンティン</text>
+</string>
+<string id="name_stalker_86">
+<text>アバーキー</text>
+</string>
+<string id="name_stalker_87">
+<text>アヴガー</text>
+</string>
+<string id="name_stalker_88">
+<text>アヴグリ</text>
+</string>
+<string id="name_stalker_89">
+<text>アヴゴスト</text>
+</string>
+<string id="name_stalker_90">
+<text>アウゴスト</text>
+</string>
+<string id="name_stalker_91">
+<text>バード</text>
+</string>
+<string id="name_stalker_92">
+<text>アビム</text>
+</string>
+<string id="name_stalker_93">
+<text>アビメレク</text>
+</string>
+<string id="name_stalker_94">
+<text>アヴィプス</text>
+</string>
+<string id="name_stalker_95">
+<text>アビット</text>
+</string>
+<string id="name_stalker_96">
+<text>アビブ</text>
+</string>
+<string id="name_stalker_97">
+<text>オークセンティウス</text>
+</string>
+<string id="name_stalker_98">
+<text>パポシュニク</text>
+</string>
+<string id="name_stalker_99">
+<text>エーヴォクシス</text>
+</string>
+<string id="name_stalker_100">
+<text>平均</text>
+</string>
+<string id="name_stalker_101">
+<text>アブラム</text>
+</string>
+<string id="name_stalker_102">
+<text>アウレリアン</text>
+</string>
+<string id="name_stalker_103">
+<text>アヴレリ</text>
+</string>
+<string id="name_stalker_104">
+<text>エブリィ</text>
+</string>
+<string id="name_stalker_105">
+<text>アヴロス</text>
+</string>
+<string id="name_stalker_106">
+<text>アヴシー</text>
+</string>
+<string id="name_stalker_107">
+<text>オートノミー</text>
+</string>
+<string id="name_stalker_108">
+<text>アヴディム</text>
+</string>
+<string id="name_stalker_109">
+<text>エヴンディ</text>
+</string>
+<string id="name_stalker_110">
+<text>アバ</text>
+</string>
+<string id="name_stalker_111">
+<text>アヴァキル</text>
+</string>
+<string id="name_stalker_112">
+<text>ハバクク</text>
+</string>
+<string id="name_stalker_113">
+<text>イヴァン</text>
+</string>
+<string id="name_stalker_114">
+<text>ベン</text>
+</string>
+<string id="name_stalker_115">
+<text>インヴォイス</text>
+</string>
+<string id="name_stalker_116">
+<text>ブレイク</text>
+</string>
+<string id="name_stalker_117">
+<text>ボダッシュ</text>
+</string>
+<string id="name_stalker_118">
+<text>ボディ</text>
+</string>
+<string id="name_stalker_119">
+<text>ボグダン</text>
+</string>
+<string id="name_stalker_120">
+<text>ボギー</text>
+</string>
+<string id="name_stalker_121">
+<text>ボーダン</text>
+</string>
+<string id="name_stalker_122">
+<text>ボダンコ</text>
+</string>
+<string id="name_stalker_123">
+<text>ボリス</text>
+</string>
+<string id="name_stalker_124">
+<text>ボルカ</text>
+</string>
+<string id="name_stalker_125">
+<text>ボリヤ</text>
+</string>
+<string id="name_stalker_126">
+<text>ボリアン</text>
+</string>
+<string id="name_stalker_127">
+<text>ボリス</text>
+</string>
+<string id="name_stalker_128">
+<text>ボリスコ</text>
+</string>
+<string id="name_stalker_129">
+<text>ボリスラフ</text>
+</string>
+<string id="name_stalker_130">
+<text>ブラバス</text>
+</string>
+<string id="name_stalker_131">
+<text>ブディミール</text>
+</string>
+<string id="name_stalker_132">
+<text>コーディ</text>
+</string>
+<string id="name_stalker_133">
+<text>シーザー</text>
+</string>
+<string id="name_stalker_134">
+<text>ダミアン</text>
+</string>
+<string id="name_stalker_135">
+<text>ダニエル</text>
+</string>
+<string id="name_stalker_136">
+<text>ダニエル</text>
+</string>
+<string id="name_stalker_137">
+<text>ダニク</text>
+</string>
+<string id="name_stalker_138">
+<text>ダニラ</text>
+</string>
+<string id="name_stalker_139">
+<text>ダニエル</text>
+</string>
+<string id="name_stalker_140">
+<text>ダニーロ</text>
+</string>
+<string id="name_stalker_141">
+<text>ダンコ</text>
+</string>
+<string id="name_stalker_142">
+<text>ダーニャ</text>
+</string>
+<string id="name_stalker_143">
+<text>ダニレット</text>
+</string>
+<string id="name_stalker_144">
+<text>ダニルコ</text>
+</string>
+<string id="name_stalker_145">
+<text>ダニーロ</text>
+</string>
+<string id="name_stalker_146">
+<text>デビッド</text>
+</string>
+<string id="name_stalker_147">
+<text>デミッド</text>
+</string>
+<string id="name_stalker_148">
+<text>デミトリ</text>
+</string>
+<string id="name_stalker_149">
+<text>デニス</text>
+</string>
+<string id="name_stalker_150">
+<text>デニス</text>
+</string>
+<string id="name_stalker_151">
+<text>デニー</text>
+</string>
+<string id="name_stalker_152">
+<text>ディマ</text>
+</string>
+<string id="name_stalker_153">
+<text>ディミトリ</text>
+</string>
+<string id="name_stalker_154">
+<text>ディムカ</text>
+</string>
+<string id="name_stalker_155">
+<text>ダイモン</text>
+</string>
+<string id="name_stalker_156">
+<text>ディムハ</text>
+</string>
+<string id="name_stalker_157">
+<text>ディムカ</text>
+</string>
+<string id="name_stalker_158">
+<text>ドミトリ</text>
+</string>
+<string id="name_stalker_159">
+<text>ドミトリー</text>
+</string>
+<string id="name_stalker_160">
+<text>ドミトロ</text>
+</string>
+<string id="name_stalker_161">
+<text>ドミトリー</text>
+</string>
+<string id="name_stalker_162">
+<text>ドミトロ</text>
+</string>
+<string id="name_stalker_163">
+<text>ドミトラ</text>
+</string>
+<string id="name_stalker_164">
+<text>ドミニク</text>
+</string>
+<string id="name_stalker_165">
+<text>デューク</text>
+</string>
+<string id="name_stalker_166">
+<text>ゾン</text>
+</string>
+<string id="name_stalker_167">
+<text>エディク</text>
+</string>
+<string id="name_stalker_168">
+<text>エドワード</text>
+</string>
+<string id="name_stalker_169">
+<text>エフィム</text>
+</string>
+<string id="name_stalker_170">
+<text>エゴール</text>
+</string>
+<string id="name_stalker_171">
+<text>エゴルカ</text>
+</string>
+<string id="name_stalker_172">
+<text>エリセイ</text>
+</string>
+<string id="name_stalker_173">
+<text>エリック</text>
+</string>
+<string id="name_stalker_174">
+<text>エベニー</text>
+</string>
+<string id="name_stalker_175">
+<text>エフゲニー</text>
+</string>
+<string id="name_stalker_176">
+<text>エフゲニー</text>
+</string>
+<string id="name_stalker_177">
+<text>エフゲニー</text>
+</string>
+<string id="name_stalker_178">
+<text>エヴェン</text>
+</string>
+<string id="name_stalker_179">
+<text>ファビ</text>
+</string>
+<string id="name_stalker_180">
+<text>ファディ</text>
+</string>
+<string id="name_stalker_181">
+<text>ファデイカ</text>
+</string>
+<string id="name_stalker_182">
+<text>ファデユシカ</text>
+</string>
+<string id="name_stalker_183">
+<text>ファルコ</text>
+</string>
+<string id="name_stalker_184">
+<text>フェデイ</text>
+</string>
+<string id="name_stalker_185">
+<text>フェディール</text>
+</string>
+<string id="name_stalker_186">
+<text>フェドカ</text>
+</string>
+<string id="name_stalker_187">
+<text>ヒョードル</text>
+</string>
+<string id="name_stalker_188">
+<text>フェドー</text>
+</string>
+<string id="name_stalker_189">
+<text>フェディア</text>
+</string>
+<string id="name_stalker_190">
+<text>フェリクス</text>
+</string>
+<string id="name_stalker_191">
+<text>フェルカ</text>
+</string>
+<string id="name_stalker_192">
+<text>ヒョードル</text>
+</string>
+<string id="name_stalker_193">
+<text>テオファン</text>
+</string>
+<string id="name_stalker_194">
+<text>フェラポント</text>
+</string>
+<string id="name_stalker_195">
+<text>フィリップ</text>
+</string>
+<string id="name_stalker_196">
+<text>フィルカ</text>
+</string>
+<string id="name_stalker_197">
+<text>フィリヤ</text>
+</string>
+<string id="name_stalker_198">
+<text>フィマ</text>
+</string>
+<string id="name_stalker_199">
+<text>フィムカ</text>
+</string>
+<string id="name_stalker_200">
+<text>フォマ</text>
+</string>
+<string id="name_stalker_201">
+<text>フレデク</text>
+</string>
+<string id="name_stalker_202">
+<text>フョードル</text>
+</string>
+<string id="name_stalker_203">
+<text>ガブリエル</text>
+</string>
+<string id="name_stalker_204">
+<text>ゲデオン</text>
+</string>
+<string id="name_stalker_205">
+<text>ジェナ</text>
+</string>
+<string id="name_stalker_206">
+<text>ジェニ</text>
+</string>
+<string id="name_stalker_207">
+<text>ゲンカ</text>
+</string>
+<string id="name_stalker_208">
+<text>ゲンナディ</text>
+</string>
+<string id="name_stalker_209">
+<text>ジェナディ</text>
+</string>
+<string id="name_stalker_210">
+<text>ジェナディ</text>
+</string>
+<string id="name_stalker_211">
+<text>ゲンリッチ</text>
+</string>
+<string id="name_stalker_212">
+<text>ジョージ</text>
+</string>
+<string id="name_stalker_213">
+<text>ジョージ</text>
+</string>
+<string id="name_stalker_214">
+<text>ジョージ</text>
+</string>
+<string id="name_stalker_215">
+<text>ジョージ</text>
+</string>
+<string id="name_stalker_216">
+<text>ゲラシム</text>
+</string>
+<string id="name_stalker_217">
+<text>ゲルマン</text>
+</string>
+<string id="name_stalker_218">
+<text>グレブ</text>
+</string>
+<string id="name_stalker_219">
+<text>グリブ</text>
+</string>
+<string id="name_stalker_220">
+<text>ゴーシャ</text>
+</string>
+<string id="name_stalker_221">
+<text>グレッグ</text>
+</string>
+<string id="name_stalker_222">
+<text>グリーザ</text>
+</string>
+<string id="name_stalker_223">
+<text>グリゴリー</text>
+</string>
+<string id="name_stalker_224">
+<text>グリゴリー</text>
+</string>
+<string id="name_stalker_225">
+<text>グリシャ</text>
+</string>
+<string id="name_stalker_226">
+<text>グリシャ</text>
+</string>
+<string id="name_stalker_227">
+<text>グリシュカ</text>
+</string>
+<string id="name_stalker_228">
+<text>グリシュコ</text>
+</string>
+<string id="name_stalker_229">
+<text>グロキタッチ</text>
+</string>
+<string id="name_stalker_230">
+<text>グルラグ</text>
+</string>
+<string id="name_stalker_231">
+<text>グリゴリー</text>
+</string>
+<string id="name_stalker_232">
+<text>ハデオン</text>
+</string>
+<string id="name_stalker_233">
+<text>ヘデオン</text>
+</string>
+<string id="name_stalker_234">
+<text>ヘナディ</text>
+</string>
+<string id="name_stalker_235">
+<text>ヘオリィ</text>
+</string>
+<string id="name_stalker_236">
+<text>フリホリー</text>
+</string>
+<string id="name_stalker_237">
+<text>イグナット</text>
+</string>
+<string id="name_stalker_238">
+<text>イゴール</text>
+</string>
+<string id="name_stalker_239">
+<text>イゴレク</text>
+</string>
+<string id="name_stalker_240">
+<text>イゴリョク</text>
+</string>
+<string id="name_stalker_241">
+<text>イラリ</text>
+</string>
+<string id="name_stalker_242">
+<text>イラリオン</text>
+</string>
+<string id="name_stalker_243">
+<text>イリア</text>
+</string>
+<string id="name_stalker_244">
+<text>イラリオン</text>
+</string>
+<string id="name_stalker_245">
+<text>イリヤ</text>
+</string>
+<string id="name_stalker_246">
+<text>イリヤ</text>
+</string>
+<string id="name_stalker_247">
+<text>イリューハ</text>
+</string>
+<string id="name_stalker_248">
+<text>イリュカ</text>
+</string>
+<string id="name_stalker_249">
+<text>イマヌエル</text>
+</string>
+<string id="name_stalker_250">
+<text>イノケティ</text>
+</string>
+<string id="name_stalker_251">
+<text>イオアキム</text>
+</string>
+<string id="name_stalker_252">
+<text>イオアン</text>
+</string>
+<string id="name_stalker_253">
+<text>イオン</text>
+</string>
+<string id="name_stalker_254">
+<text>ジョセフ</text>
+</string>
+<string id="name_stalker_255">
+<text>アイヴ</text>
+</string>
+<string id="name_stalker_256">
+<text>アイセイ</text>
+</string>
+<string id="name_stalker_257">
+<text>イヴァン</text>
+</string>
+<string id="name_stalker_258">
+<text>イヴェン</text>
+</string>
+<string id="name_stalker_259">
+<text>ジャルダニ</text>
+</string>
+<string id="name_stalker_260">
+<text>ヤロスラフ</text>
+</string>
+<string id="name_stalker_261">
+<text>ヤッシャ</text>
+</string>
+<string id="name_stalker_262">
+<text>ジャシャ</text>
+</string>
+<string id="name_stalker_263">
+<text>ジャスパー</text>
+</string>
+<string id="name_stalker_264">
+<text>ジャージフ</text>
+</string>
+<string id="name_stalker_265">
+<text>ジョン</text>
+</string>
+<string id="name_stalker_266">
+<text>ジョシュ</text>
+</string>
+<string id="name_stalker_267">
+<text>ジャグ</text>
+</string>
+<string id="name_stalker_268">
+<text>カレンキー</text>
+</string>
+<string id="name_stalker_269">
+<text>カレフ</text>
+</string>
+<string id="name_stalker_270">
+<text>カーレック</text>
+</string>
+<string id="name_stalker_271">
+<text>カープ</text>
+</string>
+<string id="name_stalker_272">
+<text>カジミール</text>
+</string>
+<string id="name_stalker_273">
+<text>キーサ</text>
+</string>
+<string id="name_stalker_274">
+<text>ケニン</text>
+</string>
+<string id="name_stalker_275">
+<text>カーヴィン</text>
+</string>
+<string id="name_stalker_276">
+<text>ケシャ</text>
+</string>
+<string id="name_stalker_277">
+<text>キール</text>
+</string>
+<string id="name_stalker_278">
+<text>キリル</text>
+</string>
+<string id="name_stalker_279">
+<text>キリュカ</text>
+</string>
+<string id="name_stalker_280">
+<text>クリム</text>
+</string>
+<string id="name_stalker_281">
+<text>クリメント</text>
+</string>
+<string id="name_stalker_282">
+<text>コディ</text>
+</string>
+<string id="name_stalker_283">
+<text>コディアック</text>
+</string>
+<string id="name_stalker_284">
+<text>コリア</text>
+</string>
+<string id="name_stalker_285">
+<text>コーリャ</text>
+</string>
+<string id="name_stalker_286">
+<text>コリャン</text>
+</string>
+<string id="name_stalker_287">
+<text>コナール</text>
+</string>
+<string id="name_stalker_288">
+<text>コンスタンティン</text>
+</string>
+<string id="name_stalker_289">
+<text>コンスタンティン</text>
+</string>
+<string id="name_stalker_290">
+<text>コスティック</text>
+</string>
+<string id="name_stalker_291">
+<text>コスチャ</text>
+</string>
+<string id="name_stalker_292">
+<text>コスチャン</text>
+</string>
+<string id="name_stalker_293">
+<text>クリスティヤン</text>
+</string>
+<string id="name_stalker_294">
+<text>クリアキン</text>
+</string>
+<string id="name_stalker_295">
+<text>クズマ</text>
+</string>
+<string id="name_stalker_296">
+<text>キリロ</text>
+</string>
+<string id="name_stalker_297">
+<text>ラヴレンティ</text>
+</string>
+<string id="name_stalker_298">
+<text>ラザール</text>
+</string>
+<string id="name_stalker_299">
+<text>レカ</text>
+</string>
+<string id="name_stalker_300">
+<text>レーニン</text>
+</string>
+<string id="name_stalker_301">
+<text>レンカ</text>
+</string>
+<string id="name_stalker_302">
+<text>レーニャ</text>
+</string>
+<string id="name_stalker_303">
+<text>レオ</text>
+</string>
+<string id="name_stalker_304">
+<text>レオン</text>
+</string>
+<string id="name_stalker_305">
+<text>レオニド</text>
+</string>
+<string id="name_stalker_306">
+<text>レオンティ</text>
+</string>
+<string id="name_stalker_307">
+<text>レシュカ</text>
+</string>
+<string id="name_stalker_308">
+<text>レスタ</text>
+</string>
+<string id="name_stalker_309">
+<text>レフ</text>
+</string>
+<string id="name_stalker_310">
+<text>レバ</text>
+</string>
+<string id="name_stalker_311">
+<text>レフカ</text>
+</string>
+<string id="name_stalker_312">
+<text>レイサン</text>
+</string>
+<string id="name_stalker_313">
+<text>ライブ</text>
+</string>
+<string id="name_stalker_314">
+<text>ルカ</text>
+</string>
+<string id="name_stalker_315">
+<text>ルカ</text>
+</string>
+<string id="name_stalker_316">
+<text>ルカシャ</text>
+</string>
+<string id="name_stalker_317">
+<text>ルキアン</text>
+</string>
+<string id="name_stalker_318">
+<text>ルシャ</text>
+</string>
+<string id="name_stalker_319">
+<text>リャクサンドロ</text>
+</string>
+<string id="name_stalker_320">
+<text>リョハ</text>
+</string>
+<string id="name_stalker_321">
+<text>リヨン</text>
+</string>
+<string id="name_stalker_322">
+<text>リヨンカ</text>
+</string>
+<string id="name_stalker_323">
+<text>リョーニャ</text>
+</string>
+<string id="name_stalker_324">
+<text>リヨシカ</text>
+</string>
+<string id="name_stalker_325">
+<text>リョーバ</text>
+</string>
+<string id="name_stalker_326">
+<text>マカール</text>
+</string>
+<string id="name_stalker_327">
+<text>マカロフ</text>
+</string>
+<string id="name_stalker_328">
+<text>メイク</text>
+</string>
+<string id="name_stalker_329">
+<text>マキシム</text>
+</string>
+<string id="name_stalker_330">
+<text>マクシミリアン</text>
+</string>
+<string id="name_stalker_331">
+<text>マキシマス</text>
+</string>
+<string id="name_stalker_332">
+<text>マクシム</text>
+</string>
+<string id="name_stalker_333">
+<text>マラート</text>
+</string>
+<string id="name_stalker_334">
+<text>マーク</text>
+</string>
+<string id="name_stalker_335">
+<text>マトベイ</text>
+</string>
+<string id="name_stalker_336">
+<text>マシュー</text>
+</string>
+<string id="name_stalker_337">
+<text>マトビー</text>
+</string>
+<string id="name_stalker_338">
+<text>マックス</text>
+</string>
+<string id="name_stalker_339">
+<text>マキシム</text>
+</string>
+<string id="name_stalker_340">
+<text>メフォディ</text>
+</string>
+<string id="name_stalker_341">
+<text>メロール</text>
+</string>
+<string id="name_stalker_342">
+<text>ミカ</text>
+</string>
+<string id="name_stalker_343">
+<text>マイケル</text>
+</string>
+<string id="name_stalker_344">
+<text>マイケル</text>
+</string>
+<string id="name_stalker_345">
+<text>ミカ</text>
+</string>
+<string id="name_stalker_346">
+<text>ミハル</text>
+</string>
+<string id="name_stalker_347">
+<text>ミハス</text>
+</string>
+<string id="name_stalker_348">
+<text>ミカ</text>
+</string>
+<string id="name_stalker_349">
+<text>ミハイル</text>
+</string>
+<string id="name_stalker_350">
+<text>ミハル</text>
+</string>
+<string id="name_stalker_351">
+<text>ミハス</text>
+</string>
+<string id="name_stalker_352">
+<text>ミラノ</text>
+</string>
+<string id="name_stalker_353">
+<text>ミレク</text>
+</string>
+<string id="name_stalker_354">
+<text>ミーシャ</text>
+</string>
+<string id="name_stalker_355">
+<text>ミシュカ</text>
+</string>
+<string id="name_stalker_356">
+<text>ミーシャ</text>
+</string>
+<string id="name_stalker_357">
+<text>ミシェンカ</text>
+</string>
+<string id="name_stalker_358">
+<text>ミシュカ</text>
+</string>
+<string id="name_stalker_359">
+<text>ミトカ</text>
+</string>
+<string id="name_stalker_360">
+<text>ミティア</text>
+</string>
+<string id="name_stalker_361">
+<text>モデスト</text>
+</string>
+<string id="name_stalker_362">
+<text>モティア</text>
+</string>
+<string id="name_stalker_363">
+<text>ムスティスラフ</text>
+</string>
+<string id="name_stalker_364">
+<text>ミュジア</text>
+</string>
+<string id="name_stalker_365">
+<text>ミチャジロ</text>
+</string>
+<string id="name_stalker_366">
+<text>ミハイロ</text>
+</string>
+<string id="name_stalker_367">
+<text>ミハルツォ</text>
+</string>
+<string id="name_stalker_368">
+<text>ミコラ</text>
+</string>
+<string id="name_stalker_369">
+<text>ミキタ</text>
+</string>
+<string id="name_stalker_370">
+<text>ナザール</text>
+</string>
+<string id="name_stalker_371">
+<text>ナザヤ</text>
+</string>
+<string id="name_stalker_372">
+<text>ネクタリオ</text>
+</string>
+<string id="name_stalker_373">
+<text>ネスター</text>
+</string>
+<string id="name_stalker_374">
+<text>ニコライ</text>
+</string>
+<string id="name_stalker_375">
+<text>ニコリ</text>
+</string>
+<string id="name_stalker_376">
+<text>ニック</text>
+</string>
+<string id="name_stalker_377">
+<text>ニキータ</text>
+</string>
+<string id="name_stalker_378">
+<text>ニコ</text>
+</string>
+<string id="name_stalker_379">
+<text>ニコジウム</text>
+</string>
+<string id="name_stalker_380">
+<text>ニコラ</text>
+</string>
+<string id="name_stalker_381">
+<text>ニコラエヴィッチ</text>
+</string>
+<string id="name_stalker_382">
+<text>ニコライ</text>
+</string>
+<string id="name_stalker_383">
+<text>ニコライ</text>
+</string>
+<string id="name_stalker_384">
+<text>ニコン</text>
+</string>
+<string id="name_stalker_385">
+<text>ニル</text>
+</string>
+<string id="name_stalker_386">
+<text>ノーヴェル</text>
+</string>
+<string id="name_stalker_387">
+<text>オーキーカット</text>
+</string>
+<string id="name_stalker_388">
+<text>オレグ</text>
+</string>
+<string id="name_stalker_389">
+<text>オレ</text>
+</string>
+<string id="name_stalker_390">
+<text>オレクサンドル</text>
+</string>
+<string id="name_stalker_391">
+<text>オレクシー</text>
+</string>
+<string id="name_stalker_392">
+<text>オーレス</text>
+</string>
+<string id="name_stalker_393">
+<text>オーラル</text>
+</string>
+<string id="name_stalker_394">
+<text>オレル</text>
+</string>
+<string id="name_stalker_395">
+<text>オレスト</text>
+</string>
+<string id="name_stalker_396">
+<text>オリエル</text>
+</string>
+<string id="name_stalker_397">
+<text>オスカー</text>
+</string>
+<string id="name_stalker_398">
+<text>オシップ</text>
+</string>
+<string id="name_stalker_399">
+<text>オシップ</text>
+</string>
+<string id="name_stalker_400">
+<text>オスタップ</text>
+</string>
+<string id="name_stalker_401">
+<text>パナ</text>
+</string>
+<string id="name_stalker_402">
+<text>パンテレイモン</text>
+</string>
+<string id="name_stalker_403">
+<text>パシャ</text>
+</string>
+<string id="name_stalker_404">
+<text>パシャ</text>
+</string>
+<string id="name_stalker_405">
+<text>パシュカ</text>
+</string>
+<string id="name_stalker_406">
+<text>パベル</text>
+</string>
+<string id="name_stalker_407">
+<text>パブロ</text>
+</string>
+<string id="name_stalker_408">
+<text>パブロワ</text>
+</string>
+<string id="name_stalker_409">
+<text>パヴルハ</text>
+</string>
+<string id="name_stalker_410">
+<text>パヴルカ</text>
+</string>
+<string id="name_stalker_411">
+<text>パブシカキ</text>
+</string>
+<string id="name_stalker_412">
+<text>パーチク</text>
+</string>
+<string id="name_stalker_413">
+<text>ピート</text>
+</string>
+<string id="name_stalker_414">
+<text>ペティア</text>
+</string>
+<string id="name_stalker_415">
+<text>ペトカ</text>
+</string>
+<string id="name_stalker_416">
+<text>ペトロ</text>
+</string>
+<string id="name_stalker_417">
+<text>ペトルーハ</text>
+</string>
+<string id="name_stalker_418">
+<text>ペトルソ</text>
+</string>
+<string id="name_stalker_419">
+<text>ペチャ</text>
+</string>
+<string id="name_stalker_420">
+<text>フィル</text>
+</string>
+<string id="name_stalker_421">
+<text>ピオトラ</text>
+</string>
+<string id="name_stalker_422">
+<text>プラトン</text>
+</string>
+<string id="name_stalker_423">
+<text>プロコール</text>
+</string>
+<string id="name_stalker_424">
+<text>プロコピー</text>
+</string>
+<string id="name_stalker_425">
+<text>ピーリプ</text>
+</string>
+<string id="name_stalker_426">
+<text>ピョートル</text>
+</string>
+<string id="name_stalker_427">
+<text>ラジオン</text>
+</string>
+<string id="name_stalker_428">
+<text>ラドミール</text>
+</string>
+<string id="name_stalker_429">
+<text>ラファエル</text>
+</string>
+<string id="name_stalker_430">
+<text>ラヒル</text>
+</string>
+<string id="name_stalker_431">
+<text>ラティミール</text>
+</string>
+<string id="name_stalker_432">
+<text>ラトミール</text>
+</string>
+<string id="name_stalker_433">
+<text>ロバート</text>
+</string>
+<string id="name_stalker_434">
+<text>ロディオン</text>
+</string>
+<string id="name_stalker_435">
+<text>ローディア</text>
+</string>
+<string id="name_stalker_436">
+<text>ローマ</text>
+</string>
+<string id="name_stalker_437">
+<text>ローマン</text>
+</string>
+<string id="name_stalker_438">
+<text>ロムカ</text>
+</string>
+<string id="name_stalker_439">
+<text>ロムコ</text>
+</string>
+<string id="name_stalker_440">
+<text>ロスティック</text>
+</string>
+<string id="name_stalker_441">
+<text>ロスティスラフ</text>
+</string>
+<string id="name_stalker_442">
+<text>ロスティスラフ</text>
+</string>
+<string id="name_stalker_443">
+<text>ルバル</text>
+</string>
+<string id="name_stalker_444">
+<text>ラディガー</text>
+</string>
+<string id="name_stalker_445">
+<text>ルドルフ</text>
+</string>
+<string id="name_stalker_446">
+<text>ルリック</text>
+</string>
+<string id="name_stalker_447">
+<text>ルス</text>
+</string>
+<string id="name_stalker_448">
+<text>ルシク</text>
+</string>
+<string id="name_stalker_449">
+<text>ルスラン</text>
+</string>
+<string id="name_stalker_450">
+<text>ルビム</text>
+</string>
+<string id="name_stalker_451">
+<text>サシャ</text>
+</string>
+<string id="name_stalker_452">
+<text>サム</text>
+</string>
+<string id="name_stalker_453">
+<text>サムイル</text>
+</string>
+<string id="name_stalker_454">
+<text>サムベル</text>
+</string>
+<string id="name_stalker_455">
+<text>サネク</text>
+</string>
+<string id="name_stalker_456">
+<text>サニャ</text>
+</string>
+<string id="name_stalker_457">
+<text>サニョク</text>
+</string>
+<string id="name_stalker_458">
+<text>サシャ</text>
+</string>
+<string id="name_stalker_459">
+<text>サーシャ</text>
+</string>
+<string id="name_stalker_460">
+<text>サシェンカ</text>
+</string>
+<string id="name_stalker_461">
+<text>サショク</text>
+</string>
+<string id="name_stalker_462">
+<text>サスカ</text>
+</string>
+<string id="name_stalker_463">
+<text>サヴァ</text>
+</string>
+<string id="name_stalker_464">
+<text>サバ</text>
+</string>
+<string id="name_stalker_465">
+<text>サヴィヤ</text>
+</string>
+<string id="name_stalker_466">
+<text>スクリャービン</text>
+</string>
+<string id="name_stalker_467">
+<text>セファン</text>
+</string>
+<string id="name_stalker_468">
+<text>セマ</text>
+</string>
+<string id="name_stalker_469">
+<text>セマン</text>
+</string>
+<string id="name_stalker_470">
+<text>セミョン</text>
+</string>
+<string id="name_stalker_471">
+<text>センヤ</text>
+</string>
+<string id="name_stalker_472">
+<text>セレガ</text>
+</string>
+<string id="name_stalker_473">
+<text>セレザ</text>
+</string>
+<string id="name_stalker_474">
+<text>セルゲイ</text>
+</string>
+<string id="name_stalker_475">
+<text>セルゲイ</text>
+</string>
+<string id="name_stalker_476">
+<text>セルギー</text>
+</string>
+<string id="name_stalker_477">
+<text>セルヒー</text>
+</string>
+<string id="name_stalker_478">
+<text>セリョーガ</text>
+</string>
+<string id="name_stalker_479">
+<text>セヴァ</text>
+</string>
+<string id="name_stalker_480">
+<text>セバン</text>
+</string>
+<string id="name_stalker_481">
+<text>セバスチャン</text>
+</string>
+<string id="name_stalker_482">
+<text>セフカ</text>
+</string>
+<string id="name_stalker_483">
+<text>シュラ</text>
+</string>
+<string id="name_stalker_484">
+<text>シュリック</text>
+</string>
+<string id="name_stalker_485">
+<text>シドール</text>
+</string>
+<string id="name_stalker_486">
+<text>シメオン</text>
+</string>
+<string id="name_stalker_487">
+<text>シムカ</text>
+</string>
+<string id="name_stalker_488">
+<text>サイモン</text>
+</string>
+<string id="name_stalker_489">
+<text>スラバ</text>
+</string>
+<string id="name_stalker_490">
+<text>スラヴィク</text>
+</string>
+<string id="name_stalker_491">
+<text>スパルタク</text>
+</string>
+<string id="name_stalker_492">
+<text>スターリン</text>
+</string>
+<string id="name_stalker_493">
+<text>スタニスラフ</text>
+</string>
+<string id="name_stalker_494">
+<text>スタ</text>
+</string>
+<string id="name_stalker_495">
+<text>スタズナ</text>
+</string>
+<string id="name_stalker_496">
+<text>ステファン</text>
+</string>
+<string id="name_stalker_497">
+<text>ステパ</text>
+</string>
+<string id="name_stalker_498">
+<text>ステパン</text>
+</string>
+<string id="name_stalker_499">
+<text>ステッカ</text>
+</string>
+<string id="name_stalker_500">
+<text>ステプハ</text>
+</string>
+<string id="name_stalker_501">
+<text>ステプーハ</text>
+</string>
+<string id="name_stalker_502">
+<text>ステシャ</text>
+</string>
+<string id="name_stalker_503">
+<text>スティーブ</text>
+</string>
+<string id="name_stalker_504">
+<text>スティオプカ</text>
+</string>
+<string id="name_stalker_505">
+<text>スヴェトスラフ</text>
+</string>
+<string id="name_stalker_506">
+<text>スビアトスラフ</text>
+</string>
+<string id="name_stalker_507">
+<text>スヴャトポルク</text>
+</string>
+<string id="name_stalker_508">
+<text>スヴャトスラフ</text>
+</string>
+<string id="name_stalker_509">
+<text>サイモン</text>
+</string>
+<string id="name_stalker_510">
+<text>ショーマ</text>
+</string>
+<string id="name_stalker_511">
+<text>タヴィ</text>
+</string>
+<string id="name_stalker_512">
+<text>ターナ</text>
+</string>
+<string id="name_stalker_513">
+<text>タムリン</text>
+</string>
+<string id="name_stalker_514">
+<text>タニス</text>
+</string>
+<string id="name_stalker_515">
+<text>タニー</text>
+</string>
+<string id="name_stalker_516">
+<text>タラス</text>
+</string>
+<string id="name_stalker_517">
+<text>ターシャ</text>
+</string>
+<string id="name_stalker_518">
+<text>タティ</text>
+</string>
+<string id="name_stalker_519">
+<text>タウニャ</text>
+</string>
+<string id="name_stalker_520">
+<text>チャイコフスキー</text>
+</string>
+<string id="name_stalker_521">
+<text>テムカ</text>
+</string>
+<string id="name_stalker_522">
+<text>テレンティ</text>
+</string>
+<string id="name_stalker_523">
+<text>トール</text>
+</string>
+<string id="name_stalker_524">
+<text>ティアナ</text>
+</string>
+<string id="name_stalker_525">
+<text>ティコン</text>
+</string>
+<string id="name_stalker_526">
+<text>ティマ</text>
+</string>
+<string id="name_stalker_527">
+<text>ティムカ</text>
+</string>
+<string id="name_stalker_528">
+<text>ティモフィー</text>
+</string>
+<string id="name_stalker_529">
+<text>ティモハ</text>
+</string>
+<string id="name_stalker_530">
+<text>ティモカ</text>
+</string>
+<string id="name_stalker_531">
+<text>ティモシー</text>
+</string>
+<string id="name_stalker_532">
+<text>ティムール</text>
+</string>
+<string id="name_stalker_533">
+<text>トーハ</text>
+</string>
+<string id="name_stalker_534">
+<text>トカ</text>
+</string>
+<string id="name_stalker_535">
+<text>トーレー</text>
+</string>
+<string id="name_stalker_536">
+<text>トレンカ</text>
+</string>
+<string id="name_stalker_537">
+<text>トリク</text>
+</string>
+<string id="name_stalker_538">
+<text>トーヤ</text>
+</string>
+<string id="name_stalker_539">
+<text>トリアン</text>
+</string>
+<string id="name_stalker_540">
+<text>トメック</text>
+</string>
+<string id="name_stalker_541">
+<text>トロス</text>
+</string>
+<string id="name_stalker_542">
+<text>トシカ</text>
+</string>
+<string id="name_stalker_543">
+<text>トロフィム</text>
+</string>
+<string id="name_stalker_544">
+<text>トゥシャ</text>
+</string>
+<string id="name_stalker_545">
+<text>タイコン</text>
+</string>
+<string id="name_stalker_546">
+<text>ティモフィー</text>
+</string>
+<string id="name_stalker_547">
+<text>チョムカ</text>
+</string>
+<string id="name_stalker_548">
+<text>ヴァディク</text>
+</string>
+<string id="name_stalker_549">
+<text>ヴァディム</text>
+</string>
+<string id="name_stalker_550">
+<text>ヴァディミール</text>
+</string>
+<string id="name_stalker_551">
+<text>ヴァディア</text>
+</string>
+<string id="name_stalker_552">
+<text>ヴァディム</text>
+</string>
+<string id="name_stalker_553">
+<text>バレンティン</text>
+</string>
+<string id="name_stalker_554">
+<text>バレンタイン</text>
+</string>
+<string id="name_stalker_555">
+<text>バレラ</text>
+</string>
+<string id="name_stalker_556">
+<text>ヴァレリー</text>
+</string>
+<string id="name_stalker_557">
+<text>ヴァレリー</text>
+</string>
+<string id="name_stalker_558">
+<text>ヴァリク</text>
+</string>
+<string id="name_stalker_559">
+<text>ヴァネチカ</text>
+</string>
+<string id="name_stalker_560">
+<text>ヴァンジャ</text>
+</string>
+<string id="name_stalker_561">
+<text>ヴァンカ</text>
+</string>
+<string id="name_stalker_562">
+<text>ヴァンコ</text>
+</string>
+<string id="name_stalker_563">
+<text>ヴァーニャ</text>
+</string>
+<string id="name_stalker_564">
+<text>ヴァラーム</text>
+</string>
+<string id="name_stalker_565">
+<text>バス</text>
+</string>
+<string id="name_stalker_566">
+<text>ヴァセック</text>
+</string>
+<string id="name_stalker_567">
+<text>ヴァシャ</text>
+</string>
+<string id="name_stalker_568">
+<text>ヴァシリー</text>
+</string>
+<string id="name_stalker_569">
+<text>ヴァシリー</text>
+</string>
+<string id="name_stalker_570">
+<text>バスカ</text>
+</string>
+<string id="name_stalker_571">
+<text>バスコ</text>
+</string>
+<string id="name_stalker_572">
+<text>ヴァシ</text>
+</string>
+<string id="name_stalker_573">
+<text>ヴァシャ</text>
+</string>
+<string id="name_stalker_574">
+<text>ヴァシアン</text>
+</string>
+<string id="name_stalker_575">
+<text>ヴァシクロ</text>
+</string>
+<string id="name_stalker_576">
+<text>ヴァシル</text>
+</string>
+<string id="name_stalker_577">
+<text>ヴォーン</text>
+</string>
+<string id="name_stalker_578">
+<text>ベニアミン</text>
+</string>
+<string id="name_stalker_579">
+<text>ヴェンヤ</text>
+</string>
+<string id="name_stalker_580">
+<text>ベリノ</text>
+</string>
+<string id="name_stalker_581">
+<text>ヴェタル</text>
+</string>
+<string id="name_stalker_582">
+<text>ビアチェスラフ</text>
+</string>
+<string id="name_stalker_583">
+<text>ビア</text>
+</string>
+<string id="name_stalker_584">
+<text>ビクター</text>
+</string>
+<string id="name_stalker_585">
+<text>ビクター</text>
+</string>
+<string id="name_stalker_586">
+<text>ビタリ</text>
+</string>
+<string id="name_stalker_587">
+<text>ヴィタリック</text>
+</string>
+<string id="name_stalker_588">
+<text>ヴィタリ</text>
+</string>
+<string id="name_stalker_589">
+<text>ヴィタリー</text>
+</string>
+<string id="name_stalker_590">
+<text>ヴィテンカ</text>
+</string>
+<string id="name_stalker_591">
+<text>ヴィトカ</text>
+</string>
+<string id="name_stalker_592">
+<text>ヴィーチャ</text>
+</string>
+<string id="name_stalker_593">
+<text>ヴィチューハ</text>
+</string>
+<string id="name_stalker_594">
+<text>ヴィチュカ</text>
+</string>
+<string id="name_stalker_595">
+<text>ヴラド</text>
+</string>
+<string id="name_stalker_596">
+<text>ウラジレン</text>
+</string>
+<string id="name_stalker_597">
+<text>ウラジミール</text>
+</string>
+<string id="name_stalker_598">
+<text>ウラジスラフ</text>
+</string>
+<string id="name_stalker_599">
+<text>ヴラディスラフ</text>
+</string>
+<string id="name_stalker_600">
+<text>ヴォーダル</text>
+</string>
+<string id="name_stalker_601">
+<text>ヴォロディミール</text>
+</string>
+<string id="name_stalker_602">
+<text>ヴォルガ</text>
+</string>
+<string id="name_stalker_603">
+<text>ヴォヴァ</text>
+</string>
+<string id="name_stalker_604">
+<text>ヴォーバン</text>
+</string>
+<string id="name_stalker_605">
+<text>ヴォフカ</text>
+</string>
+<string id="name_stalker_606">
+<text>フセヴォロド</text>
+</string>
+<string id="name_stalker_607">
+<text>バルカン</text>
+</string>
+<string id="name_stalker_608">
+<text>ヴャチェスラフ</text>
+</string>
+<string id="name_stalker_609">
+<text>ワディム</text>
+</string>
+<string id="name_stalker_610">
+<text>ウェイラン</text>
+</string>
+<string id="name_stalker_611">
+<text>ウィル</text>
+</string>
+<string id="name_stalker_612">
+<text>ヤキム</text>
+</string>
+<string id="name_stalker_613">
+<text>ヤキフ</text>
+</string>
+<string id="name_stalker_614">
+<text>ヤコフ</text>
+</string>
+<string id="name_stalker_615">
+<text>ヤラ</text>
+</string>
+<string id="name_stalker_616">
+<text>ヤレムカ</text>
+</string>
+<string id="name_stalker_617">
+<text>ヤリク</text>
+</string>
+<string id="name_stalker_618">
+<text>ヤロスラフ</text>
+</string>
+<string id="name_stalker_619">
+<text>ヤシャ</text>
+</string>
+<string id="name_stalker_620">
+<text>ヤシュカ</text>
+</string>
+<string id="name_stalker_621">
+<text>イェフィム</text>
+</string>
+<string id="name_stalker_622">
+<text>イェーガー</text>
+</string>
+<string id="name_stalker_623">
+<text>イェリゼ</text>
+</string>
+<string id="name_stalker_624">
+<text>エリツィン</text>
+</string>
+<string id="name_stalker_625">
+<text>イェリク</text>
+</string>
+<string id="name_stalker_626">
+<text>イェルモライ</text>
+</string>
+<string id="name_stalker_627">
+<text>ヤーモレー</text>
+</string>
+<string id="name_stalker_628">
+<text>イェヴァ</text>
+</string>
+<string id="name_stalker_629">
+<text>エフゲニー</text>
+</string>
+<string id="name_stalker_630">
+<text>エフゲニー</text>
+</string>
+<string id="name_stalker_631">
+<text>イェブン</text>
+</string>
+<string id="name_stalker_632">
+<text>イェヴェニ</text>
+</string>
+<string id="name_stalker_633">
+<text>エフスタフィー</text>
+</string>
+<string id="name_stalker_634">
+<text>ヨバニー</text>
+</string>
+<string id="name_stalker_635">
+<text>ユリアン</text>
+</string>
+<string id="name_stalker_636">
+<text>ユマ</text>
+</string>
+<string id="name_stalker_637">
+<text>ユラ</text>
+</string>
+<string id="name_stalker_638">
+<text>ユラス</text>
+</string>
+<string id="name_stalker_639">
+<text>ユレ</text>
+</string>
+<string id="name_stalker_640">
+<text>ユリ</text>
+</string>
+<string id="name_stalker_641">
+<text>ユリアン</text>
+</string>
+<string id="name_stalker_642">
+<text>ユリク</text>
+</string>
+<string id="name_stalker_643">
+<text>ユリィ</text>
+</string>
+<string id="name_stalker_644">
+<text>ユルカ</text>
+</string>
+<string id="name_stalker_645">
+<text>ユルコ</text>
+</string>
+<string id="name_stalker_646">
+<text>ユロチカ</text>
+</string>
+<string id="name_stalker_647">
+<text>ユリ</text>
+</string>
+<string id="name_stalker_648">
+<text>ザック</text>
+</string>
+<string id="name_stalker_649">
+<text>ザイカ</text>
+</string>
+<string id="name_stalker_650">
+<text>ザカール</text>
+</string>
+<string id="name_stalker_651">
+<text>ザマット</text>
+</string>
+<string id="name_stalker_652">
+<text>ザラヤ</text>
+</string>
+<string id="name_stalker_653">
+<text>ザロフ</text>
+</string>
+<string id="name_stalker_654">
+<text>ザヴォイ</text>
+</string>
+<string id="name_stalker_655">
+<text>ゼアル</text>
+</string>
+<string id="name_stalker_656">
+<text>ゼノ</text>
+</string>
+<string id="name_stalker_657">
+<text>ゼカ</text>
+</string>
+<string id="name_stalker_658">
+<text>ゼネチカ</text>
+</string>
+<string id="name_stalker_659">
+<text>ゼニア</text>
+</string>
+<string id="name_stalker_660">
+<text>ジェンカ</text>
+</string>
+<string id="name_stalker_661">
+<text>ジェーニャ</text>
+</string>
+<string id="name_stalker_662">
+<text>ジバゴ</text>
+</string>
+<string id="name_stalker_663">
+<text>ゾーラ</text>
+</string>
+<string id="name_stalker_664">
+<text>ゾルカ</text>
+</string>
+<string id="name_stalker_665">
+<text>ジグフリッド</text>
+</string>
+<string id="name_stalker_666">
+<text>ジゴール</text>
+</string>
+<string id="name_stalker_667">
+<text>ジノビ</text>
+</string>
+<string id="name_stalker_668">
+<text>ジボン</text>
+</string>
+<string id="name_stalker_669">
+<text>ゾリ</text>
+</string>
+
+</string_table>

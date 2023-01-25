@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+ <!-- 5.45 -->
+	<string id="st_mag_ak74_5.45x39">
+		<text>5.45x39 AK-74 マガジン</text>
+	</string>
+	<string id="st_mag_ak74_5.45x39_descr">
+		<text>
+		ウクライナ軍で標準的に使用されているベークライト製30連マガジン。ゾーンで最も一般的なマガジンの1つ。呼称「6L20」。
+		</text>
+	</string>
+	
+	<string id="st_mag_ak74_5.45x39_extended">
+		<text>60連5.45x39 AK-74 マガジン</text>
+	</string>
+	<string id="st_mag_ak74_5.45x39_extended_descr">
+		<text>
+		AK-74シリーズ用の60連クワッドスタックマガジン。ロシアでは少量しか生産されなかったため、入手は極めて稀だが、ウクライナのSSUが地帯制圧のニーズに合わせて独自に生産を開始したと噂されている。呼称「6L31」。
+		</text>
+	</string>
+
+	<string id="st_mag_ak74m_5.45x39">
+		<text>5.45x39 AK-74M マガジン</text>
+	</string>
+	<string id="st_mag_ak74m_5.45x39_descr">
+		<text>
+		AK-74Mに使用されているロシア軍標準仕様の30連ポリマーマガジン。ゾーンで最も一般的なマガジンの1つ。このマガジンを微調整することで、異なる口径に対応することができる。呼称「6L23」。
+		</text>
+	</string>
+
+	<string id="st_mag_ak74_fast_5.45x39">
+		<text>ファストローダー 5.45x39 AK-74M マガジン</text>
+	</string>
+	<string id="st_mag_ak74_fast_5.45x39_descr">
+		<text>
+		30発入りの現代的なPMAGスタイルのAKマガジン。非常に高い品質で作られており、弾の装填は非常に簡単。このようなマガジンは通常、スペツナズのブラックオプス部隊と最先端のAKにのみ見られるものである。
+		</text>
+	</string>
+	
+	<string id="st_mag_rpk74_5.45x39">
+		<text>5.45x39 RPK-74 マガジン</text>
+	</string>
+	<string id="st_mag_rpk74_5.45x39_descr">
+		<text>
+			RPK-74 LMGに標準装備されている45連ベークライト製マガジン。このマガジンはAK-74の派生型にも装着可能。呼称「6L18」。
+		</text>
+	</string>
+
+	<string id="st_mag_rpk74_5.56x45">
+		<text>改造された5.56x45 RPK-74 マガジン</text>
+	</string>
+	<string id="st_mag_rpk74_5.56x45_descr">
+		<text>
+			5.56 NATO弾に対応したRPKマガジンの改造品。NATO弾を使用するAK-101、AK-102にも対応。
+		</text>
+	</string>
+
+	<string id="st_mag_ak_7.62x39">
+		<text>7.62x39 AKM マガジン</text>
+	</string>
+	<string id="st_mag_ak_7.62x39_descr">
+		<text>
+		30連のスチール製7.62x39マガジン。このマガジンは年代物だが、今でも比較的よく機能する。
+		</text>
+	</string>
+
+	<string id="st_mag_ak103_7.62x39">
+		<text>7.62x39 AK-103 マガジン</text>
+	</string>
+	<string id="st_mag_ak103_7.62x39_descr">
+		<text>
+		7.62x39の30連AK-103マガジン。現代の材料と構造により、このマガジンはスチール製のものと比べてはるかに軽くなっています。また、このマガジンは他の口径に対応するように変更することができます。
+		</text>
+	</string>
+	
+	<string id="st_mag_ak103_fast_7.62x39">
+		<text>ファストローダー 7.62x39 AK-103 マガジン</text>
+	</string>
+	<string id="st_mag_ak103_fast_7.62x39_descr">
+		<text>
+		ポリマー製のPMAGスタイル7.62x39マガジン。造りの良さとデザインにより、素早い弾の装填が可能。このような装備は、ゾーンでは珍しい光景。
+		</text>
+	</string>
+
+	<string id="st_mag_rpd_7.62x39">
+		<text>7.62x39 RPD ドラムマガジン</text>
+	</string>
+	<string id="st_mag_rpd_7.62x39_descr">
+		<text>
+			RPD用ベルト付きドラムマガジン。ベルトに100発を収納できるボックス。RPDは最終的に、より正確で柔軟なRPKに取って代わられたが、100発撃ち切れるというのは、決してバカにできるものではない。
+		</text>
+	</string>
+	
+	<string id="st_mag_rpk_7.62x39">
+		<text>7.62x39 RPK マガジン</text>
+	</string>
+	<string id="st_mag_rpk_7.62x39_descr">
+		<text>
+		スチール製40連RPKマガジン。AKMをはじめとする7.62x39のAKライフルにも対応する。
+		</text>
+	</string>
+	
+	<string id="st_mag_rpk_7.62x39_drum">
+		<text>95連 RPK ドラムマガジン</text>
+	</string>
+	<string id="st_mag_rpk_7.62x39_drum_descr">
+		<text>
+		RPK用95連ドラムマガジン。
+		</text>
+	</string>
+	
+	
+	<!-- 5.56 -->
+	
+	<string id="st_mag_ace21_5.56x45">
+		<text>5.56x45 ガリル ACE-21 マガジン</text>
+	</string>
+	<string id="st_mag_ace21_5.56x45_descr">
+		<text>
+		35発収納可能な独自のACE-21マガジン。ゾーンで見られる旧式モデルは、独自のガリルマガジンを必要とし、この武器は何よりも派手で斬新なものとなっている。
+		</text>
+	</string>
+
+	<string id="st_mag_ak101_5.56x45">
+		<text>5.56x45 AK-101 マガジン</text>
+	</string>
+	<string id="st_mag_ak101_5.56x45_descr">
+		<text>
+		海外輸出向けに設計されたAK101、AK102用の30連マガジン。このマガジンは、異なる口径に合うように微調整が可能。
+		</text>
+	</string>
+	<string id="st_mag_aug_5.56x45">
+		<text>5.56x45 AUG マガジン</text>
+	</string>
+	<string id="st_mag_aug_5.56x45_descr">
+		<text>
+			第一世代のAUGライフル用の独自30連マガジン。後期型はマグウェルにより、標準的なSTANAGマガジンを使用できるように調整されている。
+		</text>
+	</string>
+	
+	<string id="st_mag_g36_5.56x45">
+		<text>5.56x45 G36 マガジン</text>
+	</string>
+	<string id="st_mag_g36_5.56x45_descr">
+		<text>
+		5.56x45弾を30発装填できる標準的な半透明のG36用マガジン。
+		</text>
+	</string>
+	
+	<string id="st_mag_stanag">
+		<text>5.56x45 STANAG マガジン</text>
+	</string>
+	<string id="st_mag_stanag_descr">
+		<text>
+		M4カービン、M16、LR-300、L85、FN F2000など、NATOのアサルトライフルの大半で使用されている30連HK STANAGマガジン。freedomはNATOや西側諸国から密かに供給しているという噂があり、このマガジンがゾーンに異様に多く存在するのもそのためである。
+		</text>
+	</string>
+
+
+	<string id="st_mag_nato_5.45x39">
+		<text>改造された5.45x39 STANAG マガジン</text>
+	</string>
+	<string id="st_mag_nato_5.45x39_descr">
+		<text>
+			5.45x39弾を給弾するために改造された30連STANAGマガジン。なぜこのようにライフルを改造するのか、その理由は誰にもわからない。
+		</text>
+	</string>
+	<string id="st_mag_nato_5.56x45_fast">
+		<text>ファストローダー 5.56x45 STANAG マガジン</text>
+	</string>
+	<string id="st_mag_nato_5.56x45_fast_descr">
+		<text>
+		30発装填可能な最新のPMAGスタイルマガジン。スチール製マガジンに比べて大幅に軽量化され、人間工学に基づいたデザインにより、迅速な装填が可能。
+		</text>
+	</string>
+	
+	<string id="st_mag_nato_5.56x45_extended">
+		<text>拡張 5.56x45 STANAG マガジン</text>
+	</string>
+	<string id="st_mag_nato_5.56x45_extended_descr">
+		<text>
+			ほとんどのNATOライフルと互換性のある40連ポリマー拡張マガジン。
+		</text>
+	</string>
+
+	<string id="st_mag_nato_5.56x45_casket">
+		<text>60連 5.56x45 STANAG マガジン</text>
+	</string>
+	<string id="st_mag_nato_5.56x45_casket_descr">
+		<text>
+			NATOライフルと互換性のある60連クワッドスタックマガジン。火力は高いが、非常に重く、またクワッドスタックであるため、素早く弾を装填することが困難である。
+		</text>
+	</string>
+	
+	<string id="st_mag_sig550_5.56x45">
+		<text>5.56x45 SG550 マガジン</text>
+	</string>
+	<string id="st_mag_sig550_5.56x45_descr">
+		<text>
+		30発入りのスイス製SG550マガジン。SIG SG550、SG552、SG550-1スナイパーに対応。
+		</text>
+	</string>
+
+	<string id="st_mag_sig550_sniper_5.56x45">
+		<text>20連 5.56x45 SG550-1 マガジン</text>
+	</string>
+	<string id="st_mag_sig550_5.56x45_descr">
+		<text>
+		スイス製SG550-1マガジン20発入り。主にSG550-1スナイパーに使用されるが、同系列の他のライフルにも使用可能。
+		</text>
+	</string>
+	<string id="st_mag_m249_5.56x45">
+		<text>5.56x45 M249 ボックスタイプ</text>
+	</string>
+	<string id="st_mag_m249_5.56x45_descr">
+		<text>
+			5.56x45弾を100発収納可能なベルトが入った箱。M249はfreedomの前線基地でよく目にし、monolithの侵入者に対して大量の制圧射撃を提供する。
+		</text>
+	</string>
+	
+	<string id="st_mag_xm8_5.56x45">
+		<text>5.56x45 XM8 マガジン</text>
+	</string>
+	<string id="st_mag_xm8_5.56x45_descr">
+		<text>
+		5.56x45口径のXM8用マガジン
+		</text>
+	</string>
+
+	<string id="st_mag_type63_7.62x39">
+		<text>7.62x39 63式自動歩槍　マガジン</text>
+	</string>
+	<string id="st_mag_type63_7.62x39_descr">
+		<text>
+		プレス加工されたスチール製の63式自動歩槍用20連マガジン。ゾーンで発見された63式のほとんどは、ボルトホールドオープン装置が取り外されているので、より一般的なAKMマガジンを装着することができる。このマガジンはAKスタイルのライフルにも適合する。
+		</text>
+	</string>
+	
+	<string id="st_mag_type63_7.62x54">
+		<text>改造された7.62x54 Type 63 マガジン</text>
+	</string>
+	<string id="st_mag_type63_7.62x54_descr">
+		<text>
+			大型の7.62x54R弾を装填するために改造された63式自動歩槍用マガジン。63式自動歩槍用はbanditに愛用されており、フルサイズライフル弾への改造はbanditの技術屋のLimpidが得意とするところである。
+		</text>
+	</string>
+	<!-- 9x39 -->
+	<string id="st_mag_val_9x39_pab9">
+		<text>20-round 9x39 AS VAL Magazine</text>
+	</string>
+	<string id="st_mag_val_9x39_pab9_descr">
+		<text>
+			SR-3M、VSSライフルに対応するAS VAL標準20連マガジン。呼称は「6L25」。
+		</text>
+	</string>
+
+	<string id="st_mag_vihr_9x39_pab9">
+		<text>30連 9x39 SR-3M マガジン</text>
+	</string>
+	<string id="st_mag_vihr_9x39_pab9_descr">
+		<text>
+		SR-3M「Vihr」ライフルに標準装備されている9x39の30連マガジン。VSS、AS VALのライフルとも互換性があります。呼称 "SR3M.130"。
+		</text>
+	</string>
+	
+	<string id="st_mag_vintorez_9x39_pab9">
+		<text>10連 9x39 VSS マガジン</text>
+	</string>
+	<string id="st_mag_vintorez_9x39_pab9_descr">
+		<text>
+		AS VAL、SR3Mライフルにも対応している、VSS標準の10連マガジン。呼称「6L24」。
+		</text>
+	</string>
+	
+	<string id="st_mag_vsk94_9x39_pab9">
+		<text>9x39 ボックスマガジン</text>
+	</string>
+	<string id="st_mag_vsk94_9x39_pab9_descr">
+		<text>
+			9A-91、VSK-94ライフルで使用される20連のボックスマガジン。
+		</text>
+	</string>
+	
+	<string id="st_mag_groza_9x39_pab9">
+		<text>20連 9x39 グローザ マガジン</text>
+	</string>
+	<string id="st_mag_groza_9x39_pab9_descr">
+		<text>
+			アサルトライフルOTs-14 Grozaに標準装備されている9x39の20連マガジン。デザインはAK系マガジンに似ている。
+		</text>
+	</string>
+	
+
+<!--
+sniper rifles / full size rifles
+-->
+	
+		
+	<string id="st_mag_g43_7.92x33">
+		<text>7.92x57 G43 マガジン</text>
+	</string>
+	<string id="st_mag_g43_7.92x33_descr">
+		<text>
+			G43用の標準的な10連ボックスマガジン。
+		</text>
+	</string>
+
+	<string id="st_mag_galil_7.62x51">
+		<text>7.62x51 ガリル マガジン</text>
+	</string>
+	<string id="st_mag_galil_7.62x51_descr">
+		<text>
+		イスラエル製バトルライフル「ガリル」用の標準的な20連ボックスマガジン。
+		</text>
+	</string>
+	
+	<string id="st_mag_stanag_7.62x51">
+		<text>7.62x51 STANAG マガジン</text>
+	</string>
+	<string id="st_mag_stanag_7.62x51_descr">
+		<text>
+			7.62x51 NATO弾用の標準的なSTANAGスタイルのマガジン。HK417、SCAR、SR-25に使用される。20発装填可能。
+		</text>
+	</string>
+
+<string id="st_mag_stanag_7.62x51_ext">
+		<text>拡張 7.62x51 STANAG マガジン</text>
+	</string>
+	<string id="st_mag_stanag_7.62x51_ext_descr">
+		<text>
+			7.62x51 NATO弾用の拡張STANAGスタイルのマガジン。HK417、SCAR、SR-25で使用される。30発装填可能。
+		</text>
+	</string>
+	
+	<string id="st_mag_stanag_fast_7.62x51">
+		<text>ファストローダー 7.62x51 STANAG マガジン</text>
+	</string>
+	<string id="st_mag_stanag_fast_7.62x51_descr">
+		<text>
+			7.62x51 NATO弾に対応したPMAGスタイルの近代化したマガジン。HK417、SCAR、SR-25で使用可能。20発装填可能。
+		</text>
+	</string>
+	<string id="st_mag_stanag_7.62x51_short">
+		<text>10連 7.62x51 STANAG マガジン</text>
+	</string>
+	<string id="st_mag_stanag_7.62x51_short_descr">
+		<text>
+			7.62x51 NATO弾用のコンパクトな10連のSTANAGスタイルマガジン。KAC SR-25に標準装備されているが、HK417やSCAR Mk.17にも使用可能。
+		</text>
+	</string>
+
+	<string id="st_mag_hinge_7.62x51">
+		<text>20連7.62x51 マガジン</text>
+	</string>
+	<string id="st_mag_hinge_7.62x51_descr">
+		<text>
+		ヒンジ式マガジンロック機構を持つバトルライフルで使用される、標準的な20連の7.62x51マガジン。このスタイルの武器とマガジンの互換性に関するどんな小さな違いも、ゾーンの技術屋により「解決」されたものである。FN FAL、Mk.14 EBR、G3ライフルで使用可能。
+		</text>
+	</string>
+
+	<string id="st_mag_hinge_ext_7.62x51">
+		<text>拡張30連 7.62x51 マガジン</text>
+	</string>
+	<string id="st_mag_hinge_ext_7.62x51_descr">
+		<text>
+		ヒンジ式マガジンロック機構を持つバトルライフルで使用される拡張型30連7.62x51マガジン。FN FAL、Mk.14 EBR、G3ライフルで使用可能。
+		</text>
+	</string>
+	
+	<string id="st_mag_l96a1_7.62x51">
+		<text>10連 7.62x51 L96A1 マガジン</text>
+	</string>
+	<string id="st_mag_l96a1_7.62x51_descr">
+		<text>
+		L96A1用の標準的な10連マガジン。L96は西側のmercenaryとmonolithに愛用されている。
+		</text>
+	</string>
+
+	<string id="st_mag_remington700_7.62x51">
+		<text>7.62x51 レミントン 700 マガジン</text>
+	</string>
+	<string id="st_mag_remington700_7.62x51_descr">
+		<text>
+		レミントン700の標準的な5連マガジン。レミントン700は人気のあるハンティングライフルで、ゾーンの「狩猟」にもよく合っている。
+		</text>
+	</string>
+
+	<string id="st_mag_wa2000_7.62x51">
+		<text>7.62x51 ワルサー WA 2000 マガジン</text>
+	</string>
+	<string id="st_mag_wa2000_7.62x51_descr">
+		<text>
+		ワルサーWA2000の標準的なマガジン。
+		</text>
+	</string>
+
+
+	<string id="st_mag_pkm_pkm">
+		<text>100連 7.62x54 PKM ボックス</text>
+	</string>
+	<string id="st_mag_pkm_pkm_descr">
+		<text>
+			PKMで使用する7.62x54R弾を100発ベルトに収納できる重箱。シュードジャイアントやキメラを狩る予定がある場合は、数個持参することをお勧めする。
+		</text>
+	</string>
+
+	<string id="st_mag_l96a1_pkm">
+		<text>改造された 10連 7.62x54 L96A1 マガジン</text>
+	</string>
+	<string id="st_mag_l96a1_pkm_descr">
+		<text>
+		L96A1用マガジンを7.62x54口径用に改造したマガジン。
+		</text>
+	</string>
+	
+	<string id="st_mag_sv98_7.62x54">
+		<text>7.62x54 SV98 マガジン</text>
+	</string>
+	<string id="st_mag_sv98_7.62x54_descr">
+		<text>
+			スナイパーライフルSV-98用の標準的な10連ポリマー製マガジン。SV-98は主にロシアの法執行機関で使用されているが、極秘ルートでduty派の手に渡ったものもあり、その数は限られている。
+		</text>
+	</string>
+	
+	<string id="st_mag_svd_7.62x54">
+		<text>7.62x54 SVD マガジン</text>
+	</string>
+	<string id="st_mag_svd_7.62x54_descr">
+		<text>
+			SVDとSVUスナイパーライフルの標準的な10連マガジン。SVDはあらゆる派閥に人気があり、このようなライフルを手に入れることができれば、注目の的だろう。
+		</text>
+	</string>
+
+	<string id="st_mag_svd_7.62x54_extended">
+		<text>20連 7.62x54 SVD マガジン</text>
+	</string>
+	<string id="st_mag_svd_7.62x54_extended_descr">
+		<text>
+			SVDおよびSVUスナイパーライフル用の拡張20連マガジン。SVU-Aライフルと併用することで、近接戦闘時に一時的にLMGの役割を持たせることができる。
+		</text>
+	</string>
+	
+	<string id="st_mag_svt40_7.62x54">
+		<text>7.62x54 SVT-40 マガジン</text>
+	</string>
+	<string id="st_mag_svt40_7.62x54_descr">
+		<text>
+			SVT-40ライフルで使用される標準的な10連マガジン。SVT-40は大戦中の名銃として、多くのストーカー、特にlonerに人気。
+		</text>
+	</string>
+	
+	<string id="st_mag_svt40_pkm">
+		<text>7.62x54 SVT-40 マガジン</text>
+	</string>
+	<string id="st_mag_svt40_pkm_descr">
+		<text>
+			SVT-40ライフルで使用される標準的な10連マガジン。SVT-40は大戦中の名銃として、多くのストーカー、特にlonerに人気のあるライフル。このバージョンは7.62x54機関銃弾を装填できるように若干の変更が加えられている。
+		</text>
+	</string>
+	
+	<string id="st_mag_svt40_7.62x39">
+		<text>改造された7.62x39 SVT-40 マガジン</text>
+	</string>
+	<string id="st_mag_svt40_7.62x39_descr">
+		<text>
+			SVT-40のマガジンを改良し、7.62x39の中間弾を装填できるようにしたもの。
+		</text>
+	</string>
+	
+	<string id="st_mag_trg_magnum_300">
+		<text>.338 LM マガジン</text>
+	</string>
+	<string id="st_mag_trg_magnum_300_descr">
+		<text>
+			サコTRG-42、L96 AWM、M24 SWS用の5連マガジン。このマガジンは元々サコ用に設計されたものだが、異なるライフルに対応するために若干の「修正」が加えられている。たまにマガジンを叩くのを忘れないようにすれば、ほとんどのライフルで問題なく使用できる。
+		</text>
+	</string>
+
+	<string id="st_mag_l96a1m_magnum_300">
+		<text>10連 .338 LM L96A1 マガジン</text>
+	</string>
+	<string id="st_mag_l96a1m_magnum_300_descr">
+		<text>
+			L96A1用の標準的な10連マガジンで、やや大型で威力の高い.338ラプアマグナムに適合している。L96は西側のmercenaryやmonolithに愛用されている。
+		</text>
+	</string>
+	
+	<string id="st_mag_m98b_magnum_300">
+		<text>.338 LM M98B マガジン</text>
+	</string>
+	<string id="st_mag_m98b_magnum_300_descr">
+		<text>
+			バレットM98Bに対応した10連マガジン。
+		</text>
+	</string>
+	
+	
+	<string id="st_mag_vssk_12.7x55">
+		<text>12.7x55 VSSK マガジン</text>
+	</string>
+	<string id="st_mag_vssk_12.7x55_descr">
+		<text>
+		VSSKスナイパーライフルの標準的な5連マガジン。
+		</text>
+	</string>
+
+	<string id="st_mag_ash12_12.7x55">
+		<text>12.7x55 ASh-12 マガジン</text>
+	</string>
+	<string id="st_mag_ash12_12.7x55_descr">
+		<text>
+		ASh-12の標準的なマガジンで、装弾数は10発。人間のターゲットに10発以上必要なことはまずないだろう。
+		</text>
+	</string>
+
+	<string id="st_mag_ash12_ext_12.7x55">
+		<text>拡張 12.7x55 ASh-12 マガジン</text>
+	</string>
+	<string id="st_mag_ash12_ext_12.7x55_descr">
+		<text>
+		ASh-12用拡張マガジン、装弾数20発。巨大なミュータントを倒す必要があるときに使おう。
+		</text>
+	</string>
+
+	<string id="st_mag_m82_12.7x55">
+		<text>10連 12.7x55 M82 マガジン</text>
+	</string>
+	<string id="st_mag_m82_12.7x55_descr">
+		<text>
+			バレットM82ライフル用10連マガジン、12.7x55 STs弾に対応するよう改造されている。このような怪物的な武器を最初に持ち込んだストーカーは、弾薬を使い果たした後、この武器を捨ててしまった。賢明な技術屋は、この武器を改造して、非常に重い銃身を交換しなくても、より一般的な弾丸を撃てるようにした。
+		</text>
+	</string>
+	
+	
+	<string id="st_mag_saiga12s_12x70">
+		<text>12x70 Saiga-12S マガジン</text>
+	</string>
+	<string id="st_mag_saiga12s_12x70_descr">
+		<text>
+		8ショットシェルが収納可能なSaiga-12S標準のマガジン。サイガはDutyに人気のある良質なショットガンだ。
+		</text>
+	</string>
+
+	<string id="st_mag_saiga12s_ext_12x70">
+		<text>拡張 12x70 Saiga-12S マガジン</text>
+	</string>
+	<string id="st_mag_saiga12s_ext_12x70_descr">
+		<text>
+		12発のショットシェルが装填可能なサイガ12S用拡張マガジン。弾数が多いほど、より多くのミュータントを殺すことができる。
+		</text>
+	</string>
+	
+	<string id="st_mag_usas12_12x70">
+		<text>12x70 USAS-12 ドラムマガジン</text>
+	</string>
+	<string id="st_mag_usas12_12x70_descr">
+		<text>
+		オートマチックショットガン「USAS-12」用20連ドラム。USAS-12の火力は近距離では他の追随を許さないが、重量とマガジンがかさばるため、持ち運びには不向きである。
+		</text>
+	</string>
+
+	<string id="st_mag_vepr_12x70">
+		<text>12x70 Vepr-12 マガジン</text>
+	</string>
+	<string id="st_mag_vepr_12x70_descr">
+		<text>
+			Vepr-12用の標準的な10発装填可能なマガジン。VeprとSaigaは似ているが、マガジンに互換性はない。
+		</text>
+	</string>
+
+	<string id="st_mag_vepr_compact_12x70">
+		<text>コンパクト 12x70 Vepr-12 マガジン</text>
+	</string>
+	<string id="st_mag_vepr_compact_12x70_descr">
+		<text>
+			Vepr-12用の小型マガジンで、装弾数はわずか5発。ポケットに入る大きさで、装填も非常に簡単。
+		</text>
+	</string>
+
+</string_table>

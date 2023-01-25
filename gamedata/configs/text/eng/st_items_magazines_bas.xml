@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<string_table>
+    
+<!--
+Pistols and MP's
+-->
+
+	<string id="st_mag_sr1m_9x21">
+		<text>9x21 SR1M　マガジン</text>
+	</string>
+	<string id="st_mag_sr1m_9x21_descr">
+		<text>
+		標準的な9x21 SR1Mマガジン（18発入り）。SR1Mは、SR-2ベレスクPDWにも採用されている独自の9x21弾を発射する、ロシアのハンドガン技術における最新開発モデル。
+		</text>
+	</string>
+	
+	<string id="st_mag_sr1m_9x21ext">
+		<text>拡張9x21 SR1Mマガジン</text>
+	</string>
+	<string id="st_mag_sr1m_9x21ext_descr">
+		<text>
+		拡張9x21 SR1Mマガジン（26発入り）。SR1Mは、SR-2ベレスクPDWにも採用されている独自の9x21弾を発射する、ロシアのハンドガン技術における最新開発モデル。
+		</text>
+	</string>
+	
+	<string id="st_mag_pl15_9x19_fmj">
+		<text>9x19 PL15　マガジン</text>
+	</string>
+	<string id="st_mag_pl15_9x19_fmj_descr">
+		<text>
+		標準的な9x19 PL15マガジン（16発入り）。
+		</text>
+	</string>
+	
+		<string id="st_mag_pl15_9x19_fmjext">
+		<text>拡張 9x19 PL15　マガジン</text>
+	</string>
+	<string id="st_mag_pl15_9x19_fmjext_descr">
+		<text>
+		拡張9x19 PL15マガジン（24発入り）。
+		</text>
+	</string>
+	
+	<string id="st_mag_sigp220_11.43x23_fmj">
+		<text>.45 シグP220　マガジン</text>
+	</string>
+	<string id="st_mag_sigp220_11.43x23_fmj_descr">
+		<text>
+		標準的な.45 シグP220マガジン（12発入り）。
+		</text>
+	</string>
+	
+	<string id="st_mag_sigp220_11.43x23_fmjext">
+		<text>Extended .45 SigP220 Magazine</text>
+	</string>
+	<string id="st_mag_sigp220_11.43x23_fmjext_descr">
+		<text>
+		拡張.45 シグP220マガジン（20発入り）
+		</text>
+	</string>
+	
+	<string id="st_mag_sig226_9x19_fmj">
+		<text>9x19 シグP226 マガジン</text>
+	</string>
+	<string id="st_mag_sig226_9x19_fmj_descr">
+		<text>
+		標準的な9x19 シグP226マガジン（15発入り）。
+		</text>
+	</string>
+	
+	<string id="st_mag_sig226_9x19_fmjext">
+		<text>拡張 9x19 シグP226 マガジン</text>
+	</string>
+	<string id="st_mag_sig226_9x19_fmjext_descr">
+		<text>
+		拡張9x19 シグP226 マガジン（20発入り）。
+		</text>
+	</string>
+	
+	<string id="st_mag_usptac_9x19_fmj">
+		<text>9x19 USP マガジン</text>
+	</string>
+	<string id="st_mag_usptac_9x19_fmj_descr">
+		<text>
+		標準的な9x19 USPマガジン（22発入り）。
+		</text>
+	</string>
+	
+	<string id="st_mag_usptac_9x19_fmjext">
+		<text>拡張9x19 USP マガジン</text>
+	</string>
+	<string id="st_mag_usptac_9x19_fmjext_descr">
+		<text>
+		拡張9x19 USPマガジン（30発入り）。
+		</text>
+	</string>
+
+	<string id="st_mag_wp99_9x19_fmj">
+		<text>9x19 ワルサー P99 マガジン</text>
+	</string>
+	<string id="st_mag_wp99_9x19_fmj_descr">
+		<text>
+		標準的な9x19 ワルサー P99マガジン（16発入り）。
+		</text>
+	</string>
+	
+	<string id="st_mag_wp99_9x19_fmjext">
+		<text>拡張9x19 ワルサー P99 マガジン</text>
+	</string>
+	<string id="st_mag_wp99_9x19_fmjext_descr">
+		<text>
+		拡張9x19 ワルサー P99マガジン （16発入り）。（原文ママ）
+		</text>
+	</string>
+
+	<string id="st_mag_p220_9x19_u2p2bas">
+		<text>9x19 P220 カスタムナイン　マガジン</text>
+	</string>
+	<string id="st_mag_p220_9x19_u2p2bas_descr">
+		<text>
+		標準的な9x19 P220 カスタムナインのマガジン（19発入り）。
+		</text>
+	</string>
+
+</string_table>

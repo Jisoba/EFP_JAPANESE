@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<string id="igi_task_text_done">
+		<text>クエスト達成。依頼主に報告しよう。</text>
+	</string>
+	<!-- basic text -->
+	<string id="igi_task_text_title">
+		<text>Igi Tasks: Title not found</text>
+	</string>
+	<string id="igi_task_text_descr">
+		<text>Igi Tasks: Description not found</text>
+	</string>
+	<string id="igi_task_text_job_descr">
+		<text>Igi Tasks: Job description not found</text>
+	</string>
+	<string id="igi_task_text_finish">
+		<text>Igi Tasks: Finish not found, but congrats anyway</text>
+	</string>
+	
+	<!-- UI -->
+	<string id="igi_task_text_targets">
+		<text>ターゲット</text>
+	</string>
+	<string id="igi_task_text_factions">
+		<text>派閥</text>
+	</string>
+	<string id="igi_task_text_locations">
+		<text>場所</text>
+	</string>
+	<string id="igi_task_text_treasure_unique">
+		<text>Something valuable</text>
+	</string>
+</string_table>

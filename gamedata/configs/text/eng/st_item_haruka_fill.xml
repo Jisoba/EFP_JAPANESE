@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<string id="st_empty_canteen">
+		<text>空の容器</text>
+	</string>
+	<string id="st_empty_canteen_descr">
+		<text>この空の容器は、あまり価値はない。捨てれば多少は荷物が軽くなるが、水を入れるのに使うと良いだろう。\n \n</text>
+	</string>
+	<string id="st_dirty_water">
+		<text>汚染された水</text>
+	</string>
+	<string id="st_dirty_water_descr">
+		<text>軍用フラスコに汚れた水を入れたもの。クッキングキットや煮沸で浄化することができる。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] ・%c[ui_gray_2] 飲み物\n</text>
+	</string>
+<string id="st_boiled_water">
+		<text>煮沸した水</text>
+	</string>
+	<string id="st_boiled_water_descr">
+		<text>軍用フラスコに入れた水を煮沸したもの。浄化剤で浄化することができる。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] ・%c[ui_gray_2] 飲み物\n</text>
+	</string>
+	<string id="st_haruka_fill">
+		<text>水を入れる</text>
+	</string>
+<string id="st_akvatab2">
+		<text>浄化剤</text>
+	</string>
+	<string id="st_akvatab2_descr">
+		<text>有害な細菌やウイルスを含む水の殺菌を目的とした錠剤が入った小さなビニール袋。1回に2錠を目安に使用する。\n \n
+		%c[ui_gray_3]特性:\n
+		%c[d_red] ・%c[ui_gray_2] 遅効性 (分散錠)\n
+		%c[d_blue] ・%c[ui_gray_2] 清浄な栄養源\n
+		</text>
+	</string>
+</string_table>

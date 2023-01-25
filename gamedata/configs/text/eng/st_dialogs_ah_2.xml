@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+    <string id="kvartet_1">
+        <text>全部隊、こちらカルテット サイキック・エミッションは検出されず、敵の存在は限定的である。レーダーへの着陸許可を要請し、偵察活動を開始する。オペレーションモノリスリベンジェンス開始 - 全特殊作戦チームとMilitaryのストーカーは再編成し、チェルノブイリ原子力発電所を襲撃するために待機せよ、以上。</text>
+    </string>
+    <string id="kvartet_2">
+        <text>全部隊、こちらカルテット 敵は、石棺の入り口、線路脇の道、駅の正面玄関の3箇所に集中している。突撃を開始せよ、以上。</text>
+    </string>
+    <string id="kvartet_3">
+        <text>全部隊、こちらカルテット 発電所の南セクターを占領し、北セクターへ突入し、ジェネレータの敵対勢力を排除する準備ができている。Monolithのスナイパーが北部で待機してるので注意せよ</text>
+    </string>
+    <string id="kvartet_4">
+        <text>こちらカルテット! 発電機を奪取! 任務完了！全部隊はそのまま待機し、次の指示を待て、以上。君は、研究所の情報を集めて、司令部に報告するんだ。</text>
+    </string>
+    <string id="kvartet_5">
+        <text>こちらカルテット, 突撃開始!</text>
+    </string>
+    <string id="st_cherep_1">
+        <text>仕事は完了した。ヴォロニン将軍に報告しろ。ここの位置を確保する。</text>
+    </string>
+    <string id="cs_task1_news">
+        <text>スポア: ストーカー、スカウトの一人と連絡が取れなくなった、コールサインは「クラッチ」だ。手遅れになる前に見つけてくれ。ミュータントは夜になると厄介だ。最後の信号は道路沿いの沼地北部だ。</text>
+    </string>
+    <string id="cs_task1_news1">
+        <text>あなた: 了解、捜索する。</text>
+    </string>
+    <string id="cs_task1_news2">
+        <text>コールド: ストーカー、クラッチのPDAを解読した。暇な時に来てくれ。仕事があるんだ。 </text>
+    </string>
+    <string id="cs_task8_news3">
+        <text>ガマジュン: ストーカー、情報によると、Monolithが反撃に出た。全員殺せ！</text>
+    </string>
+</string_table>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_desert_eagle_gold">
+		<text>Desert Eagle (Gold)</text>
+	</string>
+	
+	<string id="st_wpn_desert_eagle_black">
+		<text>Desert Eagle (Black)</text>
+	</string>
+
+	<string id="st_wpn_desert_eagle_dhampyr">
+		<text>Desert Eagle "Dhampyr"</text>
+	</string>
+	<string id="st_wpn_desert_eagle_dhampyr_descr">
+		<text>デザートイーグルをより現代的にしたもので、フレームとスライドにビルトインコンペンセイターとピカティニーレールを備えている。その分、反動はかなりあるが、マグナムはおろか他のデザートイーグルよりもはるかに低く、わずかなバレルの改良で精度も多少向上し、スコープもある程度の物は装着できる。比較的新しい形状のようだが、スライドやマガジンを見ると、.50AEを使用するはずだが、.357マグナムを給弾している。間違いなく、ゾーンで改造されたもので、おそらくニンブル自身の手によるものだろう。\n \n
+		%c[ui_gray_2]アタッチメント: \n
+		%c[d_purple] ・%c[ui_gray_2] ACOG, Barska ES AC10632, C-more Railway Tactical</text>
+	</string>
+	
+	<string id="st_up_deagle_127_name">
+		<text>12.7x55mmに口径変更</text>
+	</string>
+
+	<string id="st_up_deagle_127_descr">
+		<text>銃本体にオマケで付いてきたニンブルの設計図。これにより、口径を1.27x55mmに変更できるが、マガジンに1発しか入らない。</text>
+	</string>
+
+</string_table>
