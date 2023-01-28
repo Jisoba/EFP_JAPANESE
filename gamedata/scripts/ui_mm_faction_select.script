@@ -1554,13 +1554,13 @@ function UINewGame:UpdateDescr()
 			local v = relation_registry.community_relation("actor_" .. faction, k)
 			if (v >= 1000) then
 --				str_stats = str_stats .. "%c[0,150,150,150]・%c[0,50,175,50]" .. game.translate_string("st_faction_" .. k) .. "\\n"
-				str_stats = str_stats .. "%c[0,50,175,50]・" .. game.translate_string("st_faction_" .. k) --japan
+				str_stats = str_stats .. "%c[0,50,175,50]・" .. game.translate_string("st_faction_" .. k) .. "\\n" --japan
 			elseif (v <= -1000) then
 --				str_stats = str_stats .. "%c[0,150,150,150]・%c[0,175,50,50]" .. game.translate_string("st_faction_" .. k) .. "\\n"
-				str_stats = str_stats .. "%c[0,175,50,50]・" .. game.translate_string("st_faction_" .. k) --japan
+				str_stats = str_stats .. "%c[0,175,50,50]・" .. game.translate_string("st_faction_" .. k) .. "\\n" --japan
 			else
 --				str_stats = str_stats .. "%c[0,150,150,150]・%c[0,175,175,50]" .. game.translate_string("st_faction_" .. k) .. "\\n"
-				str_stats = str_stats .. "%c[0,175,175,50]・" .. game.translate_string("st_faction_" .. k) --japan
+				str_stats = str_stats .. "%c[0,175,175,50]・" .. game.translate_string("st_faction_" .. k) .. "\\n" --japan
 			end
 		end
 	end
