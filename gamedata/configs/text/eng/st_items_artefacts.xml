@@ -411,6 +411,6 @@
 
 \n%c[ui_gray_2]特性 : 
                 \n ・ アーティファクト
-                %c[d_cyan] ・ 装備可能</text>
+                \n%c[d_cyan] ・ 装備可能</text>
   </string>
 </string_table>
