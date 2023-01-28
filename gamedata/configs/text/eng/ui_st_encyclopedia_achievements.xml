@@ -9,13 +9,13 @@
   <string id="encyclopedia_achievements_bookworm_food_text">
     <text>
                         %c[pda_white]「読書好きな人の糧」
-                        %c[ui_gray_1]全てのガイド記事をアンロックする。
+                        %c[ui_gray_1]全てのガイド記事をアンロックする。\n
 
                         \n%c[pda_green]情報%c[ui_gray_1]
-                        重要なキャラクターと会話したり、メモリースティックからデータをダウンロードするなど、様々な方法で記事をアンロックできる。
+                        \n重要なキャラクターと会話したり、メモリースティックからデータをダウンロードするなど、様々な方法で記事をアンロックできる。\n
 
                         \n%c[pda_blue]報酬
-                        %c[ui_gray_1]死んだストーカーの遺体から取得されるメモリースティックは、将来的にレアなPDAに置き換えられる。
+                        \n%c[ui_gray_1]死んだストーカーの遺体から取得されるメモリースティックは、将来的にレアなPDAに置き換えられる。
                         \nパッチまたはMODなどを使ってこの実績をアンロックした後に追加の記事を追加する必要がある場合、この効果は一時的に無効になり、メモリースティックを再度取得できるようになる。</text>
   </string>
   <string id="encyclopedia_achievements_completionist">
@@ -24,10 +24,10 @@
   <string id="encyclopedia_achievements_completionist_text">
     <text>
                         %c[pda_white]「完璧主義者」
-%c[ui_gray_1] ほかの実績全てをアンロックする。
+%c[ui_gray_1] ほかの実績全てをアンロックする。\n
 
                         \n%c[pda_blue]報酬
-                        %c[ui_gray_1]実績アンロック時のランクポイントを2倍にする。</text>
+                        \n%c[ui_gray_1]実績アンロック時のランクポイントを2倍にする。</text>
   </string>
   <string id="encyclopedia_achievements_down_to_earth">
     <text>大地への落下</text>
@@ -35,10 +35,10 @@
   <string id="encyclopedia_achievements_down_to_earth_text">
     <text>
                         %c[pda_white]「大地への落下」
-%c[ui_gray_1]小火器で3機のヘリコプターを撃墜するか、 RPGやRG-6などの爆発物でヘリコプター1機を撃墜する。
+%c[ui_gray_1]小火器で3機のヘリコプターを撃墜するか、 RPGやRG-6などの爆発物でヘリコプター1機を撃墜する。\n
                         
 \n%c[pda_blue]報酬
-                        %c[ui_gray_1]Mi-24「ハインド」攻撃ヘリが Mi-2「ハプライト」輸送ヘリに置き換えられる。</text>
+                        \n%c[ui_gray_1]Mi-24「ハインド」攻撃ヘリが Mi-2「ハプライト」輸送ヘリに置き換えられる。</text>
   </string>
   <string id="encyclopedia_achievements_duga_free">
     <text>レーダー施設の解放</text>
@@ -46,10 +46,10 @@
   <string id="encyclopedia_achievements_duga_free_text">
     <text>
                         %c[pda_white]「レーダー施設の解放」
-%c[ui_gray_1]ミラクル マシンとブレイン スコーチャーの両方を停止させる。
+%c[ui_gray_1]ミラクル マシンとブレイン スコーチャーの両方を停止させる。\n
 
                         \n%c[pda_blue]報酬
-                        %c[ui_gray_1]ヤンターとレーダー施設は、「精神波の放射設備」が停止して、活動しやすくなる。
+                        \n%c[ui_gray_1]ヤンターとレーダー施設は、「精神波の放射設備」が停止して、活動しやすくなる。
                 </text>
   </string>
   <string id="encyclopedia_achievements_geologist">
@@ -58,14 +58,14 @@
   <string id="encyclopedia_achievements_geologist_text">
     <text>
                         %c[pda_white]「地質学者」
-%c[ui_gray_1]最低50個のアーティファクトを検出する。
+%c[ui_gray_1]最低50個のアーティファクトを検出する。\n
 
                         \n%c[pda_green]情報
-                        %c[ui_gray_1]アーティファクトの発見には、一般に販売されている探知機が必要である。
-\nアノマリーの近くでそれらを使用することにより、アーティファクトを発見できる可能性がある。
+                        \n%c[ui_gray_1]アーティファクトの発見には、一般に販売されている探知機が必要である。
+\nアノマリーの近くでそれらを使用することにより、アーティファクトを発見できる可能性がある。\n
 
                         \n%c[pda_blue]報酬
-                        %c[ui_gray_1]アノマリーでのアーティファクトの出現率が僅かに増加する。</text>
+                        \n%c[ui_gray_1]アノマリーでのアーティファクトの出現率が僅かに増加する。</text>
   </string>
   <string id="encyclopedia_achievements_heavy_pockets">
     <text>お金持ち</text>
@@ -73,10 +73,10 @@
   <string id="encyclopedia_achievements_heavy_pockets_text">
     <text>
                         %c[pda_white]「お金持ち」
-%c[ui_gray_1]1,000,000ルーブルを所持する。
+%c[ui_gray_1]1,000,000ルーブルを所持する。\n
 
                         \n%c[pda_blue]報酬
-                        %c[ui_gray_1]大半のトレーダーは、彼らの派閥ととても良い関係である場合にのみ利用できる、特別な物資を提供し始める。</text>
+                        \n%c[ui_gray_1]大半のトレーダーは、彼らの派閥ととても良い関係である場合にのみ利用できる、特別な物資を提供し始める。</text>
   </string>
   <string id="encyclopedia_achievements_infopreneur">
     <text>情報屋</text>
@@ -84,13 +84,13 @@
   <string id="encyclopedia_achievements_infopreneur_text">
     <text>
                         %c[pda_white]「情報屋」
-                        %c[ui_gray_1]情報ブローカーに最低50台のPDAを渡す。
+                        \n%c[ui_gray_1]情報ブローカーに最低50台のPDAを渡す。\n
 
                         \n%c[pda_green]情報
-%c[ui_gray_1]PDAは、ストーカーの死体から入手できる。売れる情報があることをブローカーに伝えることで取引することができる。
+\n%c[ui_gray_1]PDAは、ストーカーの死体から入手できる。売れる情報があることをブローカーに伝えることで取引することができる。\n
 
                         \n%c[pda_blue]報酬
-                        %c[ui_gray_1]PDAをブローカーに売った際の報酬がわずかに増加する。
+                        \n%c[ui_gray_1]PDAをブローカーに売った際の報酬がわずかに増加する。
                 
 </text>
   </string>
@@ -100,13 +100,13 @@
   <string id="encyclopedia_achievements_mechanized_warfare_text">
     <text>
                          %c[pda_white]「機械化された戦争」
-%c[ui_gray_1]ひとりの技術屋に３つ全てのツールを渡す。
+%c[ui_gray_1]ひとりの技術屋に３つ全てのツールを渡す。\n
 
                          \n%c[pda_green]情報
-                         %c[ui_gray_1]ベーシック ツール、アドバンスド ツール、エキスパート ツールは主にスタッシュから見つかるが、他のストーカーから見つかることもある。
+                         \n%c[ui_gray_1]ベーシック ツール、アドバンスド ツール、エキスパート ツールは主にスタッシュから見つかるが、他のストーカーから見つかることもある。\n
 
                          \n%c[pda_blue]報酬
-                         %c[ui_gray_1]修理時に使用するボーナスアイテムの効果がさらに上がる。</text>
+                         \n%c[ui_gray_1]修理時に使用するボーナスアイテムの効果がさらに上がる。</text>
   </string>
   <string id="encyclopedia_achievements_patriarch">
     <text>みんなの英雄</text>
@@ -114,14 +114,14 @@
   <string id="encyclopedia_achievements_patriarch_text">
     <text>
 %c[pda_white]「みんなの英雄」
-%c[ui_gray_1]ランクの最高位に到達する。
+%c[ui_gray_1]ランクの最高位に到達する。\n
 
                         \n%c[pda_green]情報
-                        %c[ui_gray_1]ランクは、ゾーン内のほぼ全ての行動で得られる。
-\nランクとその仕組については、機能カテゴリを参照のこと。
+                        \n%c[ui_gray_1]ランクは、ゾーン内のほぼ全ての行動で得られる。
+\nランクとその仕組については、機能カテゴリを参照のこと。\n
 
                         \n%c[pda_blue]報酬
-                        %c[ui_gray_1]通常の上限以上の仲間を追加で２人連れていける。</text>
+                        \n%c[ui_gray_1]通常の上限以上の仲間を追加で２人連れていける。</text>
   </string>
   <string id="encyclopedia_achievements_radiotherapy">
     <text>放射線治療</text>
@@ -129,14 +129,14 @@
   <string id="encyclopedia_achievements_radiotherapy_text">
     <text>
                         %c[pda_white]「放射線治療」
-%c[ui_gray_1]25回のエミッションと「精神波の嵐」を生き残る。
+%c[ui_gray_1]25回のエミッションと「精神波の嵐」を生き残る。\n
 
                         \n%c[pda_green]情報
-                        %c[ui_gray_1]エミッションと「精神波の嵐」はランダムな間隔で発生する。これは、「ゲーム設定→ゾーン→イベント」から変更可能。
-                        \nこれらの機能はプレイ中いつでも変更可能だが、この実績をアンロックするには有効にしておく必要がある。
+                        \n%c[ui_gray_1]エミッションと「精神波の嵐」はランダムな間隔で発生する。これは、「ゲーム設定→ゾーン→イベント」から変更可能。
+                        \nこれらの機能はプレイ中いつでも変更可能だが、この実績をアンロックするには有効にしておく必要がある。\n
 
                         \n%c[pda_blue]報酬
-                        %c[ui_gray_1]避難することなくエミッションと「精神波の嵐」を生き延びられる可能性が僅かに上がる。</text>
+                        \n%c[ui_gray_1]避難することなくエミッションと「精神波の嵐」を生き延びられる可能性が僅かに上がる。</text>
   </string>
   <string id="encyclopedia_achievements_rag_and_bone">
     <text>クズ拾い</text>
@@ -144,13 +144,13 @@
   <string id="encyclopedia_achievements_rag_and_bone_text">
     <text>
                         %c[pda_white]「クズ拾い」
-%c[ui_gray_1]少なくとも100回スタッシュからアイテムを入手する。
+%c[ui_gray_1]少なくとも100回スタッシュからアイテムを入手する。\n
 
                         \n%c[pda_green]情報
-                        %c[ui_gray_1]スタッシュはゾーンの様々な場所で発見できるが、クエストの完了後に座標を受け取るとマップにスタッシュの位置がマークされる。
+                        \n%c[ui_gray_1]スタッシュはゾーンの様々な場所で発見できるが、クエストの完了後に座標を受け取るとマップにスタッシュの位置がマークされる。\n
 
                         \n%c[pda_blue]報酬
-                        %c[ui_gray_1]新しく生成されたスタッシュで発見したアイテムの総価値が若干増加する。
+                        \n%c[ui_gray_1]新しく生成されたスタッシュで発見したアイテムの総価値が若干増加する。
                 </text>
   </string>
   <string id="encyclopedia_achievements_silver_or_lead">
@@ -159,13 +159,13 @@
   <string id="encyclopedia_achievements_silver_or_lead_text">
     <text>
                         %c[pda_white]「金か弾丸か」
-                        %c[ui_gray_1]500人のストーカーを殺すか、50人のストーカーを降伏させる。
+                        %c[ui_gray_1]500人のストーカーを殺すか、50人のストーカーを降伏させる。\n
 
                         \n%c[pda_green]情報
-                        %c[ui_gray_1]この実績の条件は通常のゲームプレイで達成できるだろう。しかし、意図的にアンロックする際に、評判を気にするなら中立または友好的なストーカーは殺さないよう注意するように。
+                        \n%c[ui_gray_1]この実績の条件は通常のゲームプレイで達成できるだろう。しかし、意図的にアンロックする際に、評判を気にするなら中立または友好的なストーカーは殺さないよう注意するように。\n
 
                         \n%c[pda_blue]報酬
-                        %c[ui_gray_1]ストーカーを降伏させると、追加のスタッシュの座標を受け取ることがある。
+                        \n%c[ui_gray_1]ストーカーを降伏させると、追加のスタッシュの座標を受け取ることがある。
                 </text>
   </string>
   <string id="encyclopedia_achievements_tourist">
@@ -174,10 +174,10 @@
   <string id="encyclopedia_achievements_tourist_text">
     <text>
                         %c[pda_white]「観光客」
-%c[ui_gray_1]ゾーンの全33マップを訪れる。
+%c[ui_gray_1]ゾーンの全33マップを訪れる。\n
 
                         \n%c[pda_blue]報酬
-                        %c[ui_gray_1]3つのユニークなスタッシュ座標がもらえる。</text>
+                        \n%c[ui_gray_1]3つのユニークなスタッシュ座標がもらえる。</text>
   </string>
   <string id="encyclopedia_achievements_well_dressed">
     <text>下ごしらえ上手</text>
@@ -185,10 +185,10 @@
   <string id="encyclopedia_achievements_well_dressed_text">
     <text>
                         %c[pda_white]「下ごしらえ上手」
-%c[ui_gray_1]500体のミュータントを殺すか、ミュータントの身体部位を250個剥ぎ取る。
+%c[ui_gray_1]500体のミュータントを殺すか、ミュータントの身体部位を250個剥ぎ取る。\n
 
                         \n%c[pda_blue]報酬
-                        %c[ui_gray_1]ミュータントの解体が早くなる。</text>
+                        \n%c[ui_gray_1]ミュータントの解体が早くなる。</text>
   </string>
   <string id="encyclopedia_achievements_wishful_thinking">
     <text>希望的観測</text>
@@ -196,10 +196,10 @@
   <string id="encyclopedia_achievements_wishful_thinking_text">
     <text>
                         %c[pda_white]「希望的観測」
-%c[ui_gray_1]メインストーリーに含まれるクエスト「生ける伝説」をクリアする。
+%c[ui_gray_1]メインストーリーに含まれるクエスト「生ける伝説」をクリアする。\n
 
                         \n%c[pda_blue]報酬
-                        %c[ui_gray_1]プレイ可能な派閥として「Renegades」がアンロックされる。</text>
+                        \n%c[ui_gray_1]プレイ可能な派閥として「Renegades」がアンロックされる。</text>
   </string>
   <string id="encyclopedia_achievements_infantile_pleasure">
     <text>幼稚な遊び</text>
@@ -207,13 +207,13 @@
   <string id="encyclopedia_achievements_infantile_pleasure_text">
     <text>
                         %c[pda_white]「幼稚な遊び」
-%c[ui_gray_1]箱を200個壊す。
+%c[ui_gray_1]箱を200個壊す。\n
 
                         \n%c[pda_green]情報
-                        %c[ui_gray_1]普通にプレイしていれば達成できる可能性が高い。箱はほぼ全ての場所で見つけられる。工業地帯には多くの箱がある。
+                        \n%c[ui_gray_1]普通にプレイしていれば達成できる可能性が高い。箱はほぼ全ての場所で見つけられる。工業地帯には多くの箱がある。\n
 
                         \n%c[pda_blue]報酬
-                        %c[ui_gray_1]箱から25％の確率でより多くのアイテムが出る。
+                        \n%c[ui_gray_1]箱から25％の確率でより多くのアイテムが出る。
                 </text>
   </string>
   <string id="encyclopedia_achievements_recycler">
@@ -222,14 +222,14 @@
   <string id="encyclopedia_achievements_recycler_text">
     <text>
                         %c[pda_white]「油断のないリサイクル業者」
-%c[ui_gray_1]アイテムを200個分解する。
+%c[ui_gray_1]アイテムを200個分解する。\n
 
                         \n%c[pda_green]情報
-                        %c[ui_gray_1]大半のアイテムは、材料に分解することができる。スイスナイフやマルチツールなどのツールが分解時に使用される。
-                        \nこれに関する記事は機能カテゴリーにある。
+                        \n%c[ui_gray_1]大半のアイテムは、材料に分解することができる。スイスナイフやマルチツールなどのツールが分解時に使用される。
+                        \nこれに関する記事は機能カテゴリーにある。\n
 
                         \n%c[pda_blue]報酬
-                        %c[ui_gray_1]分解するときに33％の確率で追加の部品を入手できる。
+                        \n%c[ui_gray_1]分解するときに33％の確率で追加の部品を入手できる。
                 </text>
   </string>
   <string id="encyclopedia_achievements_artificer_eagerness">
@@ -238,13 +238,13 @@
   <string id="encyclopedia_achievements_artificer_eagerness_text">
     <text>
                         %c[pda_white]「熟練工の熱意」
-%c[ui_gray_1]50個のアイテムを作成する。
+%c[ui_gray_1]50個のアイテムを作成する。\n
 
                         \n%c[pda_green]情報
-                        %c[ui_gray_1]クラフトツールキットは、スタッシュや他のストーカーが持っている。いくつかのレシピまたはガイドは、幅広い装備のクラフト情報が載っている。
+                        \n%c[ui_gray_1]クラフトツールキットは、スタッシュや他のストーカーが持っている。いくつかのレシピまたはガイドは、幅広い装備のクラフト情報が載っている。\n
 
                         \n%c[pda_blue]報酬
-                        %c[ui_gray_1]多くの高度なクラフトレシピで、全体的に要求される材料が少なくなる。
+                        \n%c[ui_gray_1]多くの高度なクラフトレシピで、全体的に要求される材料が少なくなる。
                 </text>
   </string>
   <string id="encyclopedia_achievements_unforeseen_guest">
@@ -253,13 +253,13 @@
   <string id="encyclopedia_achievements_unforeseen_guest_text">
     <text>
                         %c[pda_white]「予期せぬゲスト」
-%c[ui_gray_1]変装して見られている間の時間が合計5時間に達する。
+%c[ui_gray_1]変装して見られている間の時間が合計5時間に達する。\n
 
                         \n%c[pda_green]情報
-                        %c[ui_gray_1]他の派閥の装備を着ると変装できる。変装に関する記事は、機能カテゴリにある。
+                        \n%c[ui_gray_1]他の派閥の装備を着ると変装できる。変装に関する記事は、機能カテゴリにある。\n
 
                         \n%c[pda_blue]報酬
-                        %c[ui_gray_1]変装した状態での行動は、疑われにくくなる。</text>
+                        \n%c[ui_gray_1]変装した状態での行動は、疑われにくくなる。</text>
   </string>
   <string id="encyclopedia_achievements_absolver">
     <text>罪を赦すもの</text>
@@ -267,13 +267,13 @@
   <string id="encyclopedia_achievements_absolver_text">
     <text>
                         %c[pda_white]「罪を赦すもの」
-%c[ui_gray_1]メインストーリーに含まれるクエスト「死すべきSin」をクリアする。
+%c[ui_gray_1]メインストーリーに含まれるクエスト「死すべきSin」をクリアする。\n
 
                         \n%c[pda_green]情報
-                        %c[ui_gray_1]この実績は、ストーリーモードでのみアンロック可能。
+                        \n%c[ui_gray_1]この実績は、ストーリーモードでのみアンロック可能。\n
 
                         \n%c[pda_blue]報酬
-                        %c[ui_gray_1]プレイ可能な派閥として「Sin」がアンロックされる。
+                        \n%c[ui_gray_1]プレイ可能な派閥として「Sin」がアンロックされる。
                 </text>
   </string>
   <string id="encyclopedia_achievements_collaborator">
@@ -282,13 +282,13 @@
   <string id="encyclopedia_achievements_collaborator_text">
     <text>
                         %c[pda_white]「協力者」
-%c[ui_gray_1]メインストーリーに含まれるクエスト「アフターグロー作戦」をクリアする。
+%c[ui_gray_1]メインストーリーに含まれるクエスト「アフターグロー作戦」をクリアする。\n
 
                         \n%c[pda_green]情報
-                        %c[ui_gray_1]この実績は、ストーリーモードでのみアンロック可能。
+                        \n%c[ui_gray_1]この実績は、ストーリーモードでのみアンロック可能。\n
 
                         \n%c[pda_blue]報酬
-                       %c[ui_gray_1]プレイ可能な派閥として「UNISG」がアンロックされる。
+                       \n%c[ui_gray_1]プレイ可能な派閥として「UNISG」がアンロックされる。
                 </text>
   </string>
   <string id="encyclopedia_achievements_iron_curtain">
@@ -297,14 +297,14 @@
   <string id="encyclopedia_achievements_iron_curtain_text">
     <text>
                         %c[pda_white]「鉄のカーテン」
-%c[ui_gray_1]所属している派閥がゾーンの半分の領土を占領し、優位に立つ。
+%c[ui_gray_1]所属している派閥がゾーンの半分の領土を占領し、優位に立つ。\n
 
                         \n%c[pda_green]情報
-                        %c[ui_gray_1]この実績は、派閥戦争モードでのみ利用可能
-                        \n地下のマップは無視される。
+                        \n%c[ui_gray_1]この実績は、派閥戦争モードでのみ利用可能
+                        \n地下のマップは無視される。\n
 
                         \n%c[pda_blue]報酬
-                        %c[ui_gray_1]戦利品として大量のルーブルを受け取ることができる。</text>
+                        \n%c[ui_gray_1]戦利品として大量のルーブルを受け取ることができる。</text>
   </string>
   <string id="encyclopedia_achievements_murky_spirit">
     <text>闇の生命力</text>
@@ -312,10 +312,10 @@
   <string id="encyclopedia_achievements_murky_spirit_text">
     <text>
                         %c[pda_white]「闇の生命力」
-%c[ui_gray_1]ストーリーモードをプレイし、メインストーリー「ゾーンに消えゆくもの」に含まれる３つのクエストのすべてをアイアンマン モードでクリアする。
+%c[ui_gray_1]ストーリーモードをプレイし、メインストーリー「ゾーンに消えゆくもの」に含まれる３つのクエストのすべてをアイアンマン モードでクリアする。\n
 
                         \n%c[pda_green]情報
-                        %c[ui_gray_1]この実績は、ストーリーモードでのみ取得可能。また、アイアンマン モードをプレイしていることが条件となる。</text>
+                        \n%c[ui_gray_1]この実績は、ストーリーモードでのみ取得可能。また、アイアンマン モードをプレイしていることが条件となる。</text>
   </string>
   <string id="encyclopedia_achievements_invictus">
     <text>負けざる者</text>
