@@ -9,14 +9,14 @@
 
 \n\n低レベルの放射線出力を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管装置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+                \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 完全隔離
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_pin_lead_box_name">
     <text>アーティファクト完全隔離容器／「ピン」</text>
