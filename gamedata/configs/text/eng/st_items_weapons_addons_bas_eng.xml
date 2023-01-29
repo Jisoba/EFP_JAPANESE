@@ -7,829 +7,1123 @@
 <string_table>
 
 	<string id="st_addon_scope">
-		<text>PSO-1M スコープ (BaS+Van)</text>
+		<text>PSO-1M スコープ</text>
 	</string>
 	<string id="st_addon_scope_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] ・すべてのワルシャワ条約機構ライフル\n \n%c[ui_gray_1]PSO（「プリッツェル スナイパースキー オプティチェスキー」すなわちロシア語で「狙撃用光学照準器」を意味する略称）は、ノヴォシビルスク光学機器工場（NPZ）で製造されたソ連製の光学照準器である。1964年にSVD狙撃銃用の標準照準器として導入されて以来、一般的に使用されている。その後、AK-74やAN-94などのアサルトライフルにも採用され、その耐久性、汎用性、そして便利な距離計を特徴とするデザイン性の高い照準線パターンが評価されている。このスコープの倍率は4.0倍で、主に遠距離での戦闘に使用できる。ワルシャワ条約機構諸国の標準的なドーヴテールマウントによって銃に取り付けられる。\n \n
-		%c[d_purple] ・%c[ui_gray_2] 倍率: %c[ui_gray_1]4.0x\n
-		%c[d_purple] ・%c[ui_gray_2] 状態: %c[ui_gray_1]良い\n
-		%c[d_purple] ・%c[ui_gray_2] レティクルパターン: %c[ui_gray_1]PSO-1</text>
+		<text>PSO（「プリッツェル スナイパースキー オプティチェスキー」すなわちロシア語で「狙撃用光学照準器」を意味する略称）は、ノヴォシビルスク光学機器工場（NPZ）で製造されたソ連製の光学照準器である。1964年にSVD狙撃銃用の標準照準器として導入されて以来、一般的に使用されている。その後、AK-74やAN-94などのアサルトライフルにも採用され、その耐久性、汎用性、そして便利な距離計を特徴とするデザイン性の高い照準線パターンが評価されている。このスコープの倍率は4.0倍で、主に遠距離での戦闘に使用できる。ワルシャワ条約機構諸国の標準的なドーヴテールマウントによって銃に取り付けられる。\n \n
+
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ すべてのワルシャワ条約機構ライフル\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 倍率 : 4.0x\n
+		%c[d_purple] ・ 状態 : 良い\n
+		%c[d_purple] ・ レティクルパターン : PSO-1\n \n</text>
 	</string>
 	
 	<string id="st_addon_scope_1p29">
-		<text>1P29「チューリップ」スコープ (BaS+Van)</text>
+		<text>1P29「チューリップ」スコープ</text>
 	</string>
 	<string id="st_addon_scope_1p29_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] ・すべてのワルシャワ条約機構ライフル\n \n%c[ui_gray_1]USP-1サイト(インデックス1P29)は、プリズム・エレクティング・システムを採用した光学系を搭載しています。照準角は、サイト本体をウェポンマウントブラケットに対して回転させることで機械的に設定します。トリチウム照明のため、電池は不要です。視界の端にある測距スケールは、高さ1.5mの標的の1200mまでの距離を目視で確認するためのものです。\n \n
-		%c[d_purple] ・%c[ui_gray_2] 倍率: %c[ui_gray_1]4.0x\n
-		%c[d_purple] ・%c[ui_gray_2] 状態: %c[ui_gray_1]良い\n
-		%c[d_purple] ・%c[ui_gray_2] レティクルパターン: %c[ui_gray_1]PSU-1</text>
+		<text>USP-1サイト(インデックス1P29)は、プリズム・エレクティング・システムを採用した光学系を搭載しています。照準角は、サイト本体をウェポンマウントブラケットに対して回転させることで機械的に設定します。トリチウム照明のため、電池は不要です。視界の端にある測距スケールは、高さ1.5mの標的の1200mまでの距離を目視で確認するためのものです。\n \n
+
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ すべてのワルシャワ条約機構ライフル\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 倍率 : 4.0x\n
+		%c[d_purple] ・ 状態 : 良い\n
+		%c[d_purple] ・ レティクルパターン : PSU-1\n \n</text>
 	</string>
 	
 	<string id="st_addon_scope_ac10632">
-		<text>Barska ELECTRO SIGHT AC10632 スコープ (BaS+Van)</text>
+		<text>Barska ELECTRO SIGHT AC10632 スコープ</text>
 	</string>
 	<string id="st_addon_scope_ac10632_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2]すべてのNATOライフル\n \n%c[ui_gray_1]Barska Electro Sight マルチレティクル レッドドットサイト AC10632は、高品質なサイトを必要とする人のために開発された。NATO軍やAK-12に搭載可能。\n \n
-		%c[d_purple] ・%c[ui_gray_2] 倍率: %c[ui_gray_1]なし (視準器)\n
-		%c[d_purple] ・%c[ui_gray_2] 状態: %c[ui_gray_1]とても 良い</text>
+		<text>Barska Electro Sight マルチレティクル レッドドットサイト AC10632は、高品質なサイトを必要とする人のために開発された。NATO軍やAK-12に搭載可能。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ すべてのNATOライフル\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 倍率 : なし (視準器)\n
+		%c[d_purple] ・ 状態 : とても 良い\n \n</text>
 	</string>
 	
 	<string id="st_addon_scope_acog">
-		<text>ACOG スコープ (BaS+Van)</text>
+		<text>ACOG スコープ</text>
 	</string>
 	<string id="st_addon_scope_acog_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2]すべてのNATOライフル\n \n%c[ui_gray_1]ACOGはAdvanced Combat Optical Gunsightsの略で、Trijicon社が製造する銃器用スコープの一群を指す。このタイプのスコープは通常、高品質で、内部にトリチウムベースのレティクル照明を備えている。このタイプはUSMCスタイルのレティクルを持ち、倍率を調整できるのが特徴だ。\n \n
-		%c[d_purple] ・%c[ui_gray_2] 倍率: %c[ui_gray_1]4x\n
-		%c[d_purple] ・%c[ui_gray_2] 状態: %c[ui_gray_1]とても 良い\n
-		%c[d_purple] ・%c[ui_gray_2] レティクルパターン: %c[ui_gray_1]USMC</text>
+		<text>ACOGはAdvanced Combat Optical Gunsightsの略で、Trijicon社が製造する銃器用スコープの一群を指す。このタイプのスコープは通常、高品質で、内部にトリチウムベースのレティクル照明を備えている。このタイプはUSMCスタイルのレティクルを持ち、倍率を調整できるのが特徴だ。\n \n
+
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ すべてのNATOライフル\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 倍率 : 4x\n
+		%c[d_purple] ・ 状態 : とても 良い\n
+		%c[d_purple] ・ レティクルパターン : USMC\n \n</text>
 	</string>
 	
 	<string id="st_addon_scope_eotech">
-		<text>EOTech スコープ 553 (BaS+Van)</text>
+		<text>EOTech スコープ 553</text>
 	</string>
 	<string id="st_addon_scope_eotech_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2]すべてのNATOライフル\n \n%c[ui_gray_1]NATOアサルトライフル、サブマシンガン向けホログラフィックサイト。\n \n
-		%c[d_purple] ・%c[ui_gray_2] 倍率: %c[ui_gray_1]なし (視準器)\n
-		%c[d_purple] ・%c[ui_gray_2] 状態: %c[ui_gray_1]とても 良い</text>
+		<text>NATOアサルトライフル、サブマシンガン向けホログラフィックサイト。\n \n
+
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ すべてのNATOライフル\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 倍率 : なし (視準器)\n
+		%c[d_purple] ・ 状態 : とても 良い\n \n</text>
 	</string>
 		
 	<string id="st_addon_scope_kobra">
-		<text>EKP 1S-03 "Kobra" (BaS+Van)</text>
+		<text>EKP 1S-03 "Kobra"</text>
 	</string>
 	<string id="st_addon_scope_kobra_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] すべてのワルシャワ条約機構ライフル\n \n%c[ui_gray_1]コブラサイトは、レーザーで生成したHUDを使い、フィルター付きレンズにレティクルパターンを重ね合わせるオープン・コリメーター方式の光学サイト。近接戦闘や市街地戦闘において、高速で移動するターゲットや短時間に出現するターゲットと、さまざまな光条件下で交戦するために設計されている。104 lxから10-2 lx（昼光、薄明、月光）、1眼または2眼のターゲティングを明確に提供する。移動中の車両から射撃する場合に効果的。\n \n
-		%c[d_purple] ・%c[ui_gray_2] 倍率: %c[ui_gray_1] なし ()\n
-		%c[d_purple] ・%c[ui_gray_2] 状態: %c[ui_gray_1]とても 良い</text>
+		<text>コブラサイトは、レーザーで生成したHUDを使い、フィルター付きレンズにレティクルパターンを重ね合わせるオープン・コリメーター方式の光学サイト。近接戦闘や市街地戦闘において、高速で移動するターゲットや短時間に出現するターゲットと、さまざまな光条件下で交戦するために設計されている。104 lxから10-2 lx（昼光、薄明、月光）、1眼または2眼のターゲティングを明確に提供する。移動中の車両から射撃する場合に効果的。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ すべてのワルシャワ条約機構ライフル\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 倍率 :  なし ()\n
+		%c[d_purple] ・ 状態 : とても 良い\n \n</text>
 	</string>
 	
 	<string id="st_addon_scope_pso-1m2-01">
-		<text>PSO-1M2-1 scope (BaS+Van)</text>
+		<text>PSO-1M2-1 scope</text>
 	</string>
 	<string id="st_addon_scope_pso-1m2-01_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] すべてのワルシャワ条約機構ライフル\n \n%c[ui_gray_1]PSO-1M2-O1は、非常に効果的で便利なハイトベースレンジファインダーを搭載し、スタンディングとプローンの両方の姿見に目盛りが付いているデュアル仕様になっている。400mシモノフハイトベースグラディエント（チョークスタイル）レンジファインダーには、9x39口径ライフル用のシェブロンが装備されている。\n \n
-		%c[d_purple] ・%c[ui_gray_2] 倍率: %c[ui_gray_1]4.0x\n
-		%c[d_purple] ・%c[ui_gray_2] 状態: %c[ui_gray_1]とても 良い\n
-		%c[d_purple] ・%c[ui_gray_2] レティクルパターン: %c[ui_gray_1]PSO-1-1</text>
+		<text>PSO-1M2-O1は、非常に効果的で便利なハイトベースレンジファインダーを搭載し、スタンディングとプローンの両方の姿見に目盛りが付いているデュアル仕様になっている。400mシモノフハイトベースグラディエント（チョークスタイル）レンジファインダーには、9x39口径ライフル用のシェブロンが装備されている。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ すべてのワルシャワ条約機構ライフル\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 倍率 : 4.0x\n
+		%c[d_purple] ・ 状態 : とても 良い\n
+		%c[d_purple] ・ レティクルパターン : PSO-1-1\n \n</text>
 	</string>
 		
 	<string id="st_addon_scope_cmore">
-        <text>C-MORE タクティカルサイト (BaS+Van)</text>
+        <text>C-MORE タクティカルサイト</text>
     </string>
     <string id="st_addon_scope_cmore_descr">
         <text>チューブ式スコープにありがちな視界の妨げやトンネルビジョンを排除し、広大な視野を提供する高性能レッドドットサイト。レイルベースが標準装備されているため、ほとんどのウィーバーレイルやピカティニーレイルマウント、レシーバーに取り付けることができる。\n\n
-		%c[d_purple] ・%c[ui_gray_2] 倍率: %c[ui_gray_1]なし (視準器)\n
-		%c[d_purple] ・%c[ui_gray_2] 状態: %c[ui_gray_1]良い\n</text>
+		
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 倍率 : なし (視準器)\n
+		%c[d_purple] ・ 状態 : 良い\n \n</text>
     </string>
 		
 	<string id="st_addon_sil_57">
-		<text>5.7x28 サプレッサー (BaS+Van) </text>
+		<text>5.7x28 サプレッサー </text>
 	</string>
 	<string id="st_addon_sil_57_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 5.7 mm 口径の銃器\n \n%c[ui_gray_1]FN-P90 PDW、FN Five-seveN ピストル用のサプレッサー。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]高い</text>
+		<text>FN-P90 PDW、FN Five-seveN ピストル用のサプレッサー。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ 5.7x28mm銃器\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 消音性能 : 高い\n \n</text>
 	</string>
 			
 	<string id="st_addon_sil_9mm">
-		<text>9mm サプレッサー (BaS+Van)</text>
+		<text>9mm サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_9mm_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 9 mm 口径の銃器\n \n%c[ui_gray_1]9mmピストル、サブマシンガン用サプレッサー。口径9x18の武器に有効なサウンドサプレッサー。非常に古風でありながら、かなり効果的である。本体には細かい真鍮のメッシュがぎっしり詰まっている。前面には弾丸が通過するための穴が開いたゴム製のワイプがセットされている。通常、軽装備の敵との近接戦闘や暗殺に使用される。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]とても 高い</text>
-	</string>
+		<text>9mmピストル、サブマシンガン用サプレッサー。口径9x18の武器に有効なサウンドサプレッサー。非常に古風でありながら、かなり効果的である。本体には細かい真鍮のメッシュがぎっしり詰まっている。前面には弾丸が通過するための穴が開いたゴム製のワイプがセットされている。通常、軽装備の敵との近接戦闘や暗殺に使用される。\n \n
 		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ 9mm銃器\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 消音性能 : とても 高い\n \n</text>
+	</string>
 	<string id="st_addon_sil_atg">
-		<text>ATG サプレッサー (BaS+Van)</text>
+		<text>ATG サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_atg_descr">
-		<text>\n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 5.45, 5.56, 7.62 Cal.\n \n%c[ui_gray_1]5.45mmカラシニコフ銃アサルトライフルAK74、AKS74、AK74M、AK105、5.56mmカラシニコフ銃アサルトライフルAK101、AK102、7.62mmカラシニコフ銃アサルトライフルAK103、AK104からの発砲時に音と激しさを軽減する戦術用自動消音装置（ATG)である。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]中</text>
+		<text>5.45mmカラシニコフ銃アサルトライフルAK74、AKS74、AK74M、AK105、5.56mmカラシニコフ銃アサルトライフルAK101、AK102、7.62mmカラシニコフ銃アサルトライフルAK103、AK104からの発砲時に音と激しさを軽減する戦術用自動消音装置（ATG)である。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ 5.45、5.56、7.62mm銃器\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 消音性能 : 中\n \n</text>
 	</string>
 	
 	<string id="st_addon_sil_gemtech">
-		<text>Gemtech サプレッサー (BaS+Van)</text>
+		<text>Gemtech サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_gemtech_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 9 mm, .45 口径の銃器\n \n%c[ui_gray_1]グロック、FN-FNP、ワルサーなどに対応するサプレッサー。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]高い</text>
+		<text>グロック、FN-FNP、ワルサーなどに対応するサプレッサー。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ .45口径、9mm銃器\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 消音性能 : 高い\n \n</text>
 	</string>
 	
 	<string id="st_addon_sil_kzrzp">
-		<text>KZRZP サプレッサー (BaS+Van)</text>
+		<text>KZRZP サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_kzrzp_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 7.62 口径の銃器\n \n%c[ui_gray_1]スナイパーライフルSVD用のサプレッサー。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]中</text>
+		<text>スナイパーライフルSVD用のサプレッサー。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ 7.62mm銃器\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 消音性能 : 中\n \n</text>
 	</string>
 	
 	<string id="st_addon_sil_nato">
-		<text>NATO サプレッサー (BaS+Van)</text>
+		<text>NATO サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_nato_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] .45, 5.56, 7.62 口径の銃器\n \n%c[ui_gray_1]NATO標準の5.56x45mm口径のライフル用サプレッサー。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]高い</text>
+		<text>NATO標準の5.56x45mm口径のライフル用サプレッサー。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ .45口径、5.56mm、7.62mm銃器\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 消音性能 : 高い\n \n</text>
 	</string>
 	
 	<string id="st_addon_sil_pbs1">
-		<text>PBS-1 サプレッサー (BaS+Van)</text>
+		<text>PBS-1 サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_pbs1_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 7.62 口径の銃器\n \n%c[ui_gray_1]カラシニコフ7.62mmを無音・マズルフラッシュ無で発射するためのサプレッサーです。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]中</text>
+		<text>カラシニコフ7.62mmを静かにそして目立たず発射するためのサプレッサー。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ 7.62mm銃器\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 消音性能 : 中\n \n</text>
 	</string>
 	
 	<string id="st_addon_sil_pbs4">
-		<text>PBS-4 サプレッサー (BaS+Van)</text>
+		<text>PBS-4 サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_pbs4_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 5.45 口径の銃器\n \n%c[ui_gray_1]AKS-74Uライフル用サプレッサー。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]中</text>
+		<text>AKS-74Uライフル用サプレッサー。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ 5.45mm銃器\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 消音性能 : 中\n \n</text>
 	</string>
 		
 	<string id="st_addon_sil_tgp-a">
-		<text>TGP-A サプレッサー (BaS+Van)</text>
+		<text>TGP-A サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_tgp-a_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 5.45 口径の銃器\n \n%c[ui_gray_1]AKライフルシリーズ、RPK-74機関銃用サプレッサー。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]中</text>
+		<text>AKライフルシリーズ、RPK-74機関銃用サプレッサー。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ 5.45mm銃器\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 消音性能 : 中\n \n</text>
 	</string>
 		
 	<string id="st_addon_silencer">
-		<text>US Army smallbore rifle サプレッサー (BaS+Van)</text>
+		<text>US Army smallbore rifle サプレッサー</text>
 	</string>
 	<string id="st_addon_silencer_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 5.56x45 口径の銃器 \n \n%c[ui_gray_1]米国で設計・製造された先進的なライフル用サプレッサーで、米軍の補給コンテナの一つから「消えた」らしい。ハイグレード・スチール製の本体に4つの拡張チャンバーを設け、さらにZタイプのチタン製バッファーを連続的に配置した構造となっている。マズルフラッシュをほぼ完全に抑え、発射時の音もかなり抑えられる。また、メンテナンスも最小限で済む。このサプレッサーは、欧米製の小口径ライフルでよく使用されており、現在も欧米軍で現役で活躍している。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]中</text>
+		<text>米国で設計・製造された先進的なライフル用サプレッサーで、米軍の補給コンテナの一つから「消えた」らしい。ハイグレード・スチール製の本体に4つの拡張チャンバーを設け、さらにZタイプのチタン製バッファーを連続的に配置した構造となっている。マズルフラッシュをほぼ完全に抑え、発射時の音もかなり抑えられる。また、メンテナンスも最小限で済む。このサプレッサーは、欧米製の小口径ライフルでよく使用されており、現在も欧米軍で現役で活躍している。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ 5.56x45mm銃器 \n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 消音性能 : 中\n \n</text>
 	</string>
 		
 	<string id="st_addon_trijicon_acog">
-		<text>ACOG Scope (BaS+Van)</text>
+		<text>ACOG Scope</text>
 	</string>
 	<string id="st_addon_trijicon_acog_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 特定のNATOライフル\n \n%c[ui_gray_1]NATOライフル専用に作られた着脱式光学スコープ。ACOGはAdvanced Combat Optical Gunsightsの略で、Trijicon社が製造する銃器用スコープの一群を指す。このタイプのスコープは通常、高品質で、内部にトリチウムベースのレティクル照明を備えています。このタイプは、モダンな「トリジコン」レティクルのパターンを持ち、倍率は2.0xに固定されています。\n \n%c[d_purple] ・%c[ui_gray_2] 倍率: %c[ui_gray_1]2.0x\n%c[d_purple] ・%c[ui_gray_2] 状態: %c[ui_gray_1]とても 良い\n%c[d_purple] ・%c[ui_gray_2] レティクルパターン: %c[ui_gray_1]trijicon</text>
+		<text>NATOライフル専用に作られた着脱式光学スコープ。ACOGはAdvanced Combat Optical Gunsightsの略で、Trijicon社が製造する銃器用スコープの一群を指す。このタイプのスコープは通常、高品質で、内部にトリチウムベースのレティクル照明を備えています。このタイプは、モダンな「トリジコン」レティクルのパターンを持ち、倍率は2.0xに固定されています。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ 特定のNATOライフル\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 倍率 : 2.0x\n
+		%c[d_purple] ・ 状態 : とても 良い\n
+		%c[d_purple] ・ レティクルパターン : trijicon\n \n</text>
 	</string>
 	
 		<string id="st_addon_scope_okp-7">
-		<text>OKP-7 ドーヴテイル式スコープ (BaS)</text>
+		<text>OKP-7 ドーヴテイル式スコープ</text>
 	</string>
 	<string id="st_addon_scope_okp-7_descr">
-		<text>独自の設計により、あらゆる条件下での使用が可能であり、また、必要に応じて標準的な機械装置を使用することもできます。このサイトの最大の特徴は、機械的なフレームを使用せずにリフレクターをマウントし、射撃セクターのかなりの部分をカバーすることです。極端な条件下での反射鏡の保護は、薄くて丈夫な金属製のバイザーによって行われ、実質的に射撃の妨げになりません。</text>
+		<text>独自の設計により、あらゆる条件下での使用が可能であり、また、必要に応じて標準的な機械装置を使用することもできます。このサイトの最大の特徴は、機械的なフレームを使用せずにリフレクターをマウントし、射撃セクターのかなりの部分をカバーすることです。極端な条件下での反射鏡の保護は、薄くて丈夫な金属製のバイザーによって行われ、実質的に射撃の妨げになりません。\n \n</text>
 	</string>
 	
 	<string id="st_addon_scope_rmr">
-		<text>Trijicon RMR レッドドットサイト (BaS)</text>
+		<text>Trijicon RMR レッドドットサイト</text>
 	</string>
 	<string id="st_addon_scope_rmr_descr">
-		<text>Trijicon RMR (RMR)は、コンパクトなリフレックスサイトです。RM07Cは、標準的なCR2032バッテリーで駆動するLEDサイトです。頑丈な鍛造アルミニウムに格納され、非常にタフでありながら軽量です。クリック音付きの使いやすいアジャスターを採用し、素早くウィンデージとエレベーションを調整することができます。レティクルは8段階の輝度設定が可能で、本体左右のプラス・マイナスボタンを押すことで手動で調整することができます。自動調整モードに切り替えるには、両方のボタンを同時に押し、離すだけです。</text>
+		<text>Trijicon RMR (RMR)は、コンパクトなリフレックスサイトです。RM07Cは、標準的なCR2032バッテリーで駆動するLEDサイトです。頑丈な鍛造アルミニウムに格納され、非常にタフでありながら軽量です。クリック音付きの使いやすいアジャスターを採用し、素早くウィンデージとエレベーションを調整することができます。レティクルは8段階の輝度設定が可能で、本体左右のプラス・マイナスボタンを押すことで手動で調整することができます。自動調整モードに切り替えるには、両方のボタンを同時に押し、離すだけです。\n \n</text>
 	</string>
 	
 	<string id="st_addon_scope_aimpoint">
-		<text>Aimpoint レッドドットサイト (high spacer) (BaS)</text>
+		<text>Aimpoint レッドドットサイト (high spacer)</text>
 	</string>
 	<string id="st_addon_scope_aimpoint_descr">
-		<text>・最強の視野
-・パララックスフリー
-・無制限のアイレリーフ
-・極端な天候の影響を受けない
-・極めて頑丈な構造
-・危険物不使用
-・目に有害な光は使用していない。
-・照準の信頼性と命中率の向上
-・トレーニング時間の短縮と弾薬の消費量の削減。
-・バッテリー寿命は年単位。</text>
+		<text>\n%c[ui_gray_3]特徴 :\n
+		%c[d_purple]・最強の視野\n
+		%c[d_purple]・パララックスフリー\n
+		%c[d_purple]・無制限のアイレリーフ\n
+		%c[d_purple]・極端な天候の影響を受けない\n
+		%c[d_purple]・極めて頑丈な構造\n
+		%c[d_purple]・危険物不使用\n
+		%c[d_purple]・目に有害な光は使用していない。\n
+		%c[d_purple]・照準の信頼性と命中率の向上\n
+		%c[d_purple]・トレーニング時間の短縮と弾薬の消費量の削減。\n
+		%c[d_purple]・バッテリー寿命は年単位。\n \n</text>
 	</string>
 	
 	
 	<string id="st_addon_scope_ekp8_02">
-		<text>Cobra EKP 8-02 レッドドットサイト (BaS)</text>
+		<text>Cobra EKP 8-02 レッドドットサイト</text>
 	</string>
 	<string id="st_addon_scope_ekp8_02_descr">
-		<text>コブラサイトは、照準マークの明るさを16段階に手動調整できるため、自然光下（明るい日中、深い薄明、月夜）でも確実な照準が可能です。照準マークとターゲットが同一平面上にあるため、片目でも両目でも照準が可能で、射手の視野は無限に広がり、素早く動くターゲット、小さなターゲット、突然現れる短時間のターゲットに対して効果的に素早く射撃を行うことができます。</text>
+		<text>コブラサイトは、照準マークの明るさを16段階に手動調整できるため、自然光下（明るい日中、深い薄明、月夜）でも確実な照準が可能です。照準マークとターゲットが同一平面上にあるため、片目でも両目でも照準が可能で、射手の視野は無限に広がり、素早く動くターゲット、小さなターゲット、突然現れる短時間のターゲットに対して効果的に素早く射撃を行うことができます。\n \n</text>
 	</string>
 	
 	<string id="st_addon_scope_specterDR">
-		<text>ELCAN SpecterDRサイト (BaS)</text>
+		<text>ELCAN SpecterDRサイト</text>
 	</string>
 	<string id="st_addon_scope_specterDR_descr">
 		<text>SpecterDR 4x/1x Dual Role Optical Sightは、光学サイトデザインに革命をもたらしました。世界初の本格的な二重視野コンバットサイトで、レバー操作で4倍拡大サイトと1倍CQBサイトを瞬時に切り替えられます。ズーム式とは異なり、4倍、1倍のどちらのモードでも最適な光路と同一のアイレリーフを確保。
 状況に応じて、十字線を照らすか、中央の赤い点だけを照らすかを調整することができます。1倍モードでは、SpecterDRは業界で最も広い視野を持ちます。4倍モードでは、広い視野と長いアイレリーフ、そしてELCANの伝説的な透明感のある視界が得られます。
-SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、現代のプロの厳しい使用にも耐えるように設計されています。(スコープの上にはバックアップ用のアイアンサイトがあります)。</text>
+SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、現代のプロの厳しい使用にも耐えるように設計されています。(スコープの上にはバックアップ用のアイアンサイトがあります)。\n \n</text>
 	</string>
 	
 	<string id="st_addon_scope_pso2">
-		<text> PSO-1ﾌ (アイカップ無) (BaS)</text>
+		<text> PSO-1ﾌ (アイカップ無)</text>
 	</string>
 	<string id="st_addon_scope_pso2_descr">
-		<text>Zenit-Belomo社製のミリタリーグレードのスナイパー光学スコープPSO 1M2-1です。この光学スコープは、特殊狙撃銃（VSS）やドラグノフ狙撃銃（SVD）で、4倍の倍率と6度の視野で様々なターゲットに精密照準射撃するために設計されたものである。</text>
+		<text>PSO（「プリッツェル スナイパースキー オプティチェスキー」すなわちロシア語で「狙撃用光学照準器」を意味する略称）は、ノヴォシビルスク光学機器工場（NPZ）で製造されたソ連製の光学照準器である。1964年にSVD狙撃銃用の標準照準器として導入されて以来、一般的に使用されている。その後、AK-74やAN-94などのアサルトライフルにも採用され、その耐久性、汎用性、そして便利な距離計を特徴とするデザイン性の高い照準線パターンが評価されている。このスコープの倍率は4.0倍で、主に遠距離での戦闘に使用できる。ワルシャワ条約機構諸国の標準的なドーヴテールマウントによって銃に取り付けられる。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ すべてのワルシャワ条約機構ライフル\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 倍率 : 4.0x\n
+		%c[d_purple] ・ 状態 : 良い\n
+		%c[d_purple] ・ レティクルパターン : PSO-1\n \n</text>
 	</string>
 	
 			<string id="st_addon_scope_0kp2">
-		<text>OKP-7 (ピカティニー/ウィーバー用) (BaS)</text>
+		<text>OKP-7 (ピカティニー/ウィーバー用)</text>
 	</string>
 	<string id="st_addon_scope_0kp2_descr">
-		<text>OKPサイト独自の設計により、急変する状況下での不安定な姿勢での射撃や、オペレーターの疲労を軽減し、必要に応じてベースとなる光学サイトをそのまま使用することが可能です。このサイトの最大の特徴は、リフレクターがリムレス（縁なし）になっていることで、リフレクターは薄く丈夫なバイザーで保護され、射撃時にほとんど目立ちません。ドーヴテイル式マウントに装着するタイプです。</text>
+		<text>OKPサイト独自の設計により、急変する状況下での不安定な姿勢での射撃や、オペレーターの疲労を軽減し、必要に応じてベースとなる光学サイトをそのまま使用することが可能です。このサイトの最大の特徴は、リフレクターがリムレス（縁なし）になっていることで、リフレクターは薄く丈夫なバイザーで保護され、射撃時にほとんど目立ちません。ドーヴテイル式マウントに装着するタイプです。\n \n</text>
 	</string>
 	
 		<string id="st_addon_scope_d0cter">
-		<text>ドクターサイト III (BaS)</text>
+		<text>ドクターサイト III</text>
 	</string>
 	<string id="st_addon_scope_d0cter_descr">
-		<text>ブランドとしてのドクターは1991年に誕生しましたが、会社がその歴史を刻み始めたのはもっと前のことです。以前はカールツァイス・イエナという名前だった。1980年代には、世界最大の光学機器製造会社の一つだった。100年以上前に操業を開始し、長年にわたって非の打ちどころのない名声を築き上げてきた。第二次世界大戦後、会社は急成長を始め、1991年に東西ドイツが合併するまで繁栄していた。1991年に東西ドイツが合併したとき、ベルンハルト・ドクターが会社を引き継いだ。衝撃的なことに、会社は倒産してしまった。1997年にアナリティクイエナグループがドクターを買収し、会社は再び成長し始めた。2018年、政権交代が行われた。社名をDocterからNoblexに変更した。ほとんどの製品は提供されたままだが、Noblexはいくつかの新しい製品も追加しました。有名なロゴマークである「フクロウ」はそのまま残された。ドクター社は長年にわたり、高品質のドイツ製製品を手頃な価格で提供することで知られてきた。そのため、ブランドに忠実なフォロワーが数多く集まった。Noblexが引き継いだ2018年以降、同社は製造工程を別の場所に拡大した。</text>
+		<text>ブランドとしてのドクターは1991年に誕生しましたが、会社がその歴史を刻み始めたのはもっと前のことです。以前はカールツァイス・イエナという名前だった。1980年代には、世界最大の光学機器製造会社の一つだった。100年以上前に操業を開始し、長年にわたって非の打ちどころのない名声を築き上げてきた。第二次世界大戦後、会社は急成長を始め、1991年に東西ドイツが合併するまで繁栄していた。1991年に東西ドイツが合併したとき、ベルンハルト・ドクターが会社を引き継いだ。衝撃的なことに、会社は倒産してしまった。1997年にアナリティクイエナグループがドクターを買収し、会社は再び成長し始めた。2018年、政権交代が行われた。社名をDocterからNoblexに変更した。ほとんどの製品は提供されたままだが、Noblexはいくつかの新しい製品も追加しました。有名なロゴマークである「フクロウ」はそのまま残された。ドクター社は長年にわたり、高品質のドイツ製製品を手頃な価格で提供することで知られてきた。そのため、ブランドに忠実なフォロワーが数多く集まった。Noblexが引き継いだ2018年以降、同社は製造工程を別の場所に拡大した。\n \n</text>
 	</string>
 	
 		<string id="st_addon_scope_1p59">
-		<text>1P59 "Giperon" 狙撃銃用サイト (BaS)</text>
+		<text>1P59 "Giperon" 狙撃銃用サイト</text>
 	</string>
 	<string id="st_addon_scope_1p59_descr">
-		<text>ギペロン狙撃銃用サイトは、狙撃銃の目標偵察と照準射撃のために設計され、目標測距中に照準角の自動入力を提供するものである。有機的なPSO-1照準器に比べ、1P59ギペロン照準器は倍率が高く、測距儀と照準角入力操作が一体となり、照準角入力スケールが照準器の視野内にあるため、SVD射撃の効果が1.3～2倍（目標の範囲と大きさに依存）改善される。</text>
+		<text>ギペロン狙撃銃用サイトは、狙撃銃の目標偵察と照準射撃のために設計され、目標測距中に照準角の自動入力を提供するものである。有機的なPSO-1照準器に比べ、1P59ギペロン照準器は倍率が高く、測距儀と照準角入力操作が一体となり、照準角入力スケールが照準器の視野内にあるため、SVD射撃の効果が1.3～2倍（目標の範囲と大きさに依存）改善される。\n \n</text>
 	</string>	
 	
 	<string id="st_addon_scope_1pn93">
-		<text>1PN93-4 暗視サイト (BaS)</text>
+		<text>1PN93-4 暗視サイト</text>
 	</string>
 	<string id="st_addon_scope_1pn93_descr">
-		<text>1PN93 SVD暗視サイトは、自然な夜間照明条件下で、ターゲットの検出・認識と至近距離での照準射撃のために設計されています。1PN93-4は暗視サイトの第3世代です。</text>
+		<text>1PN93 SVD暗視サイトは、自然な夜間照明条件下で、ターゲットの検出・認識と至近距離での照準射撃のために設計されています。1PN93-4は暗視サイトの第3世代です。\n \n</text>
 	</string>
 	
 			<string id="st_addon_scope_pks">
-		<text>PKS-07 (NOT IN USE) (BaS)</text>
+		<text>PKS-07 (NOT IN USE)</text>
 	</string>
 	<string id="st_addon_scope_pks_descr">
-		<text>PKS-07 Tactical Sniper Sight w/ Dual Black/Red Rangefinding Reticle, Universal AK/SKS/SVD Versionは、視準器技術に基づくユニークなスナイパースコープ。このスコープは、特にVSK-94スナイパープラットフォームのためにLOMO社（ロシア、サンクトペテルブルグ）で作成されました。技術的に先進的であると同時に軽量であったため、ロシア軍はSV-98の標準サイトとしてPSO-3よりもこのサイトを採用した。AKとSVDライフルに適合し、SVD、Tigr、PSL Mosinと同様のライフルで使用するために最適化されている。フルコーティングされたプリズムレンズシステムにより、驚くべき高コントラストで広角の視野を提供し、アイピースの位置が低いため、快適な照準が可能だ。このスコープには照明付きの距離測定レチクルが搭載されている。POSPスタイルのウィンデージ/エレベーション調整機構を搭載（エレベーションタレット1クリックで100m先のPOIを4.5cm、ウィンデージタレット1クリックで100m先のPOIを2.5cm移動できます）。特殊な保護レンズコーティングは、このスコープが使用されるように設計された極端な戦場での傷や汚れからスコープを保護します。このスコープの極端な耐温度性能よりも先に自分が耐えきれないだろう。カバーケースとラバーアイピースが付属しています。間違いなく最高のチョイスだ!</text>
+		<text>PKS-07 Tactical Sniper Sight w/ Dual Black/Red Rangefinding Reticle, Universal AK/SKS/SVD Versionは、視準器技術に基づくユニークなスナイパースコープ。このスコープは、特にVSK-94スナイパープラットフォームのためにLOMO社（ロシア、サンクトペテルブルグ）で作成されました。技術的に先進的であると同時に軽量であったため、ロシア軍はSV-98の標準サイトとしてPSO-3よりもこのサイトを採用した。AKとSVDライフルに適合し、SVD、Tigr、PSL Mosinと同様のライフルで使用するために最適化されている。フルコーティングされたプリズムレンズシステムにより、驚くべき高コントラストで広角の視野を提供し、アイピースの位置が低いため、快適な照準が可能だ。このスコープには照明付きの距離測定レチクルが搭載されている。POSPスタイルのウィンデージ/エレベーション調整機構を搭載（エレベーションタレット1クリックで100m先のPOIを4.5cm、ウィンデージタレット1クリックで100m先のPOIを2.5cm移動できます）。特殊な保護レンズコーティングは、このスコープが使用されるように設計された極端な戦場での傷や汚れからスコープを保護します。このスコープの極端な耐温度性能よりも先に自分が耐えきれないだろう。カバーケースとラバーアイピースが付属しています。間違いなく最高のチョイスだ!\n \n</text>
 	</string>
 	
 			<string id="st_addon_scope_leupold">
-		<text>Leupold Mark 8 CQBSS 1.1-8x24 (BaS)</text>
+		<text>Leupold Mark 8 CQBSS 1.1-8x24</text>
 	</string>
 	<string id="st_addon_scope_leupold_descr">
-		<text>Leupold Mark8 CQBSS 1.1-8x24mmは、近距離から遠距離まで、軍事、法執行機関、競技の射手が必要とするすべてを1つの極めて汎用性の高いライフルスコープに統合しています。照明付き前方焦点面レティクルは、全拡大範囲にわたって正確な距離推定を可能にします。8段階の輝度設定により、あらゆる照明条件下で照明付きレティクルの最適な視認性を確保し、ナイトビジョンデバイスとの互換性もあります。各輝度設定の間にオフポジションがあるため、電池寿命が長く、ほぼ瞬時に希望のレティクル輝度に戻すことができます。</text>
+		<text>Leupold Mark8 CQBSS 1.1-8x24mmは、近距離から遠距離まで、軍事、法執行機関、競技の射手が必要とするすべてを1つの極めて汎用性の高いライフルスコープに統合しています。照明付き前方焦点面レティクルは、全拡大範囲にわたって正確な距離推定を可能にします。8段階の輝度設定により、あらゆる照明条件下で照明付きレティクルの最適な視認性を確保し、ナイトビジョンデバイスとの互換性もあります。各輝度設定の間にオフポジションがあるため、電池寿命が長く、ほぼ瞬時に希望のレティクル輝度に戻すことができます。\n \n</text>
 	</string>
 	
 				<string id="st_addon_scope_mepro">
-		<text>Meprolight M21 (BaS)</text>
+		<text>Meprolight M21</text>
 	</string>
 	<string id="st_addon_scope_mepro_descr">
 		<text>Meprolight Mepro M21は、想像を絶する過酷な条件下でテストされた、戦闘実績のあるレッドドットサイトだ。
 電池を使わず、日中は光ファイバー集光システム、夜間はトリチウムで作動するため、他のすべての照準器が故障しても、M21は作動し続ける。QDマウントにより、ピカティニープラットフォームに瞬時に取り付け、取り外しが可能。
-また、暗視ゴーグルやスコープとの組み合わせも可能なことから、併用すれば使い勝手が格段に向上するだろう。Meprolight社は、1990年に設立されたイスラエルの企業だ。Meprolight社は1990年に設立されたイスラエルの企業で、昼用光学機器、暗視機器、赤外線機器、自己照明型暗視サイトなどを提供している。同社の製品は、想像しうる最も過酷な条件にも耐えられるようテストされており、そのため軍や法執行機関に人気がある。NATOや米軍の仕様に加え、国際的なMIL規格にも準拠している。</text>
+また、暗視ゴーグルやスコープとの組み合わせも可能なことから、併用すれば使い勝手が格段に向上するだろう。Meprolight社は、1990年に設立されたイスラエルの企業だ。Meprolight社は1990年に設立されたイスラエルの企業で、昼用光学機器、暗視機器、赤外線機器、自己照明型暗視サイトなどを提供している。同社の製品は、想像しうる最も過酷な条件にも耐えられるようテストされており、そのため軍や法執行機関に人気がある。NATOや米軍の仕様に加え、国際的なMIL規格にも準拠している。\n \n</text>
 	</string>
 	
 			<string id="st_addon_scope_aim_low">
-		<text>Aimpoint Micro T1 (low spacer) (BaS)</text>
+		<text>Aimpoint Micro T1 (low spacer)</text>
 	</string>
 	<string id="st_addon_scope_aim_low_descr">
-		<text>どのような任務であっても、装備のサイズと重量は重要な要素だ。 2007年の発売以来、Aimpoint Micro T-1は、そのサイズ、軽量性、頑丈な作りにより、世界中で非常に高い評価を得ている。</text>
+		<text>どのような任務であっても、装備のサイズと重量は重要な要素だ。 2007年の発売以来、Aimpoint Micro T-1は、そのサイズ、軽量性、頑丈な作りにより、世界中で非常に高い評価を得ている。\n \n</text>
 	</string>	
 
 			<string id="st_addon_scope_aimpoint_pro">
-		<text>Aimpoint PRO (BaS)</text>
+		<text>Aimpoint PRO</text>
 	</string>
 	<string id="st_addon_scope_aimpoint_pro_descr">
-		<text>Aimpoint Patrol Rifle Opticは、現役の専門家や元専門家の意見を取り入れて設計されている。 Aimpoint PROサイトは、法執行機関に強くアピールするコンセプトのもと、すぐに使えるサイトとして、売り込んでいる。</text>
+		<text>Aimpoint Patrol Rifle Opticは、現役の専門家や元専門家の意見を取り入れて設計されている。 Aimpoint PROサイトは、法執行機関に強くアピールするコンセプトのもと、すぐに使えるサイトとして、売り込んでいる。\n \n</text>
 	</string>
 
 			<string id="st_addon_scope_1p76">
-		<text>1P76 "Rakurs" (ドーヴテイルマウント用) (BaS)</text>
+		<text>1P76 "Rakurs" (ドーヴテイルマウント用)</text>
 	</string>
 	<string id="st_addon_scope_1p76_descr">
 		<text>日中、夕暮れ時、夜間の戦場監視、ターゲット確認、ターゲットの距離把握、発光・照明ターゲットに対する照準射撃用に設計された1P76光学サイト。
-このサイトは、動きの速い戦闘状況において、ターゲットの視認性を損なうことなく、肉眼とサイトを通して同時に素早く地形を観察できる広視野を有している。</text>
+このサイトは、動きの速い戦闘状況において、ターゲットの視認性を損なうことなく、肉眼とサイトを通して同時に素早く地形を観察できる広視野を有している。\n \n</text>
 	</string>	
 
 			<string id="st_addon_scope_pka">
-		<text>PK-A レッドドットサイト (BaS)</text>
+		<text>PK-A レッドドットサイト</text>
 	</string>
 	<string id="st_addon_scope_pka_descr">
-		<text>PK-Aは、長く愛用されているレッドドットのチューブタイプサイトの一つ。元々はPSO SVD光学系サイトをアレンジしたものと思われるが、PK-Aは同様の構造で、同じスタイルのハンマーグレイ仕上げとなっている。</text>
+		<text>PK-Aは、長く愛用されているレッドドットのチューブタイプサイトの一つ。元々はPSO SVD光学系サイトをアレンジしたものと思われるが、PK-Aは同様の構造で、同じスタイルのハンマーグレイ仕上げとなっている。\n \n</text>
 	</string>
 
 			<string id="st_addon_scope_ekp8_18">
-		<text>Kobra EKP 8-18 レッドドットサイト (BaS)</text>
+		<text>Kobra EKP 8-18 レッドドットサイト</text>
 	</string>
 	<string id="st_addon_scope_ekp8_18_descr">
-		<text>Kobra Military 8-18 レッドドット ウィーバー式ライフルスコープ、スクリューマウント。 世界的に有名なコブラは、レーザーで生成された「ヘッドアップディスプレイ」（HUD）技術を使用して、レチクルパターンをフィルター付きレンズに重ね合わせ、射手の照準器として機能するオープン視準器「レッドドット」戦闘光学系。このシステムにより、遮るもののない視界を1倍で提供し、非常に快適な「両目を開けた状態」での射撃を可能にしています。アイアンサイトと比較して、100m先で1.5倍のスピードでターゲットを捕捉し、50％小さなショットグループを形成する。様々な光条件下での近接戦闘や市街戦において、高速で移動するターゲットや短時間に出現するターゲットと交戦するために設計されている。104lxから10-2lx（昼光、薄明、月光）までの明瞭な照準、一眼または二眼の照準、移動する車両からの射撃時に非常に有効で、高速移動するターゲットや小型のターゲット、自然に現れるターゲットまで完璧なキルショットを可能にする。</text>
+		<text>Kobra Military 8-18 レッドドット ウィーバー式ライフルスコープ、スクリューマウント。 世界的に有名なコブラは、レーザーで生成された「ヘッドアップディスプレイ」（HUD）技術を使用して、レチクルパターンをフィルター付きレンズに重ね合わせ、射手の照準器として機能するオープン視準器「レッドドット」戦闘光学系。このシステムにより、遮るもののない視界を1倍で提供し、非常に快適な「両目を開けた状態」での射撃を可能にしています。アイアンサイトと比較して、100m先で1.5倍のスピードでターゲットを捕捉し、50％小さなショットグループを形成する。様々な光条件下での近接戦闘や市街戦において、高速で移動するターゲットや短時間に出現するターゲットと交戦するために設計されている。104lxから10-2lx（昼光、薄明、月光）までの明瞭な照準、一眼または二眼の照準、移動する車両からの射撃時に非常に有効で、高速移動するターゲットや小型のターゲット、自然に現れるターゲットまで完璧なキルショットを可能にする。\n \n</text>
 	</string>	
 
 <string id="st_addon_sil_osprey">
-		<text>ﾏ蓆褪 碚・ 淲 頌・・銛褪・ ・琅蒡淲 / The Item is no longer in use in the addon (BaS)</text>
+		<text>SilencerCo Osplay サイレンサー</text>
 	</string>
 	<string id="st_addon_sil_osprey_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 5.45mm\n \n%c[ui_gray_1]SilencerCo Osprey silencer modified to be used with 5.56 and 5.45mm rifles. In Zone usually used by Monolith veterans.\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]高い</text>
+		<text>SilencerCo Ospreyサイレンサーを5.56mmと5.45mmライフルで使用できるように改造したもの。ゾーンでは通常、モノリスのベテランが使用している。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ 5.56、5.45mm銃器\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 消音性能 : 高い\n\n</text>
 	</string>
 	
 		<string id="st_addon_sil_salvo">
-		<text>Salvo 12 sound サプレッサー (BaS)</text>
+		<text>Salvo 12 sound サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_salvo_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 12 口径\n \n%c[ui_gray_1]SilencerCo社製12インチ散弾銃用サイレンサーSalvo 12。ほとんどのポンプアクションと半自動散弾銃とほぼすべての市販の弾薬で動作するように設計され、12 "の全長でSalvo 12は＃7ショットで銃口の音を136.8 dBに低下させる。6インチ、8インチ、10インチ、12インチの構成により、エンドユーザーはSalvo 12をスポーツクレー、水鳥、七面鳥狩り、護身用、その他多くの用途にカスタマイズし、サイズと消音のバランスを適切に取ることができる。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]高い</text>
+		<text>SilencerCo社製12インチ散弾銃用サイレンサーSalvo 12。ほとんどのポンプアクションと半自動散弾銃とほぼすべての市販の弾薬で動作するように設計され、12 "の全長でSalvo 12は＃7ショットで銃口の音を136.8 dBに低下させる。6インチ、8インチ、10インチ、12インチの構成により、エンドユーザーはSalvo 12をスポーツクレー、水鳥、七面鳥狩り、護身用、その他多くの用途にカスタマイズし、サイズと消音のバランスを適切に取ることができる。\n \n
+		
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ 12ゲージショットガン\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 消音性能 : 高い\n \n</text>
 	</string>
 	
 		<string id="st_addon_scope_deltapoint">
-		<text>Deltapoint PRO レッドドットサイト (BaS)</text>
+		<text>Deltapoint PRO レッドドットサイト</text>
 	</string>
 	<string id="st_addon_scope_deltapoint_descr">
-		<text>DeltaPoint Proは、小さな照準器でも性能に妥協する必要がないことを証明するものだ。非常に広い視野と透明なレンズは競合他社を圧倒し、頑丈なアルミニウム製ハウジングとスチール製の外装は、最も過酷な条件でも性能を発揮することを保証する。また、バッテリー収納部を上部に設け、クリックアジャスト機構を採用するなど、使いやすさにも配慮している。また、DP Proはピストル用サイトとしてだけでなく、ARやショットガンなど、あらゆる銃器に対応する。</text>
+		<text>DeltaPoint Proは、小さな照準器でも性能に妥協する必要がないことを証明するものだ。非常に広い視野と透明なレンズは競合他社を圧倒し、頑丈なアルミニウム製ハウジングとスチール製の外装は、最も過酷な条件でも性能を発揮することを保証する。また、バッテリー収納部を上部に設け、クリックアジャスト機構を採用するなど、使いやすさにも配慮している。また、DP Proはピストル用サイトとしてだけでなく、ARやショットガンなど、あらゆる銃器に対応する。\n \n</text>
 	</string>
 	
 	<string id="st_addon_scope_e0t2">
-		<text>EOTech XPS3-0 サイト (BaS)</text>
+		<text>EOTech XPS3-0 サイト</text>
 	</string>
 	<string id="st_addon_scope_e0t2_descr">
-		<text>XPS3は、他のすべてのホログラフィックサイトよりも小型・軽量でありながら、同等の速さを実現している。 XPS3は、軽量でコンパクトなため、警察官やハンターに好評だ。 XPS3は、123電池1本で動作する。リチウム電池1本で動作するため、レールスペースに余裕ができ、リアアイアンサイトやマグニファイア、ナイトビジョンマウントを装着することができる。</text>
+		<text>XPS3は、他のすべてのホログラフィックサイトよりも小型・軽量でありながら、同等の速さを実現している。 XPS3は、軽量でコンパクトなため、警察官やハンターに好評だ。 XPS3は、123電池1本で動作する。リチウム電池1本で動作するため、レールスペースに余裕ができ、リアアイアンサイトやマグニファイア、ナイトビジョンマウントを装着することができる。\n \n</text>
 	</string>
 	
 	<string id="st_addon_scope_pn23">
-		<text>PN-23 暗視サイト (BaS)</text>
+		<text>PN-23 暗視サイト</text>
 	</string>
 	<string id="st_addon_scope_pn23_descr">
-		<text>PN23は、ナイトビジョン専用サイトです。コンパクトなサイズに3倍の倍率を実現しました。12ーという非常に広い視野で、400メートルの認識範囲を実現します。イルミネーションレティクルは、スピードと精度の両方を提供するように設計されています。</text>
+		<text>PN23は、ナイトビジョン専用サイトです。コンパクトなサイズに3倍の倍率を実現しました。12ーという非常に広い視野で、400メートルの認識範囲を実現します。イルミネーションレティクルは、スピードと精度の両方を提供するように設計されています。\n \n</text>
 	</string>
 	
 	<string id="st_addon_scope_gauss_sight">
-		<text>EOTS-62 (BaS)</text>
+		<text>EOTS-62</text>
 	</string>
 	<string id="st_addon_scope_gauss_sight_descr">
-		<text>EOTS-62は、ゾーン内の秘密研究所で開発された超精密兵器Type62用のシステムで、ピカティニーレールタイプのマウントに装着することができます。ターゲット探知機能付き。</text>
+		<text>EOTS-62は、ゾーン内の秘密研究所で開発された超精密兵器Type62用のシステムで、ピカティニーレールタイプのマウントに装着することができます。ターゲット探知機能付き。\n \n</text>
 	</string>
 	
 			<string id="st_addon_sil_hexagon">
-		<text>Hexagon SKS 7.62x39 sound サプレッサー (BaS)</text>
+		<text>Hexagon SKS 7.62x39 sound サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_hexagon_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 7.62 口径\n \n%c[ui_gray_1]ヘキサゴン社製SKS用サプレッサー。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]低い</text>
+		<text>ヘキサゴン社製SKS用サプレッサー。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ 7.62mm銃器\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 消音性能 : 低い\n \n</text>
 	</string>
 	
 			<string id="st_addon_scope_marchf">
-		<text>March Tactical 3-24x42 FFP (BaS)</text>
+		<text>March Tactical 3-24x42 FFP</text>
 	</string>
 	<string id="st_addon_scope_marchf_descr">
-		<text>March Tactical 3-24x42 第一焦点平面スコープ（対物スコープ）、あらゆる威力の弾薬に対応する信頼性と精度。日本のDEON Optical Design Corporation社製。マーチF 3-24x42タクティカルライフルスコープは、世界中の長距離ハンターとタクティカルシューターの両方にとって最適なスコープです。対物レンズは42mmの超低分散光学ガラス製で、ほとんどの光条件下で明るくクリアな視界を確保する。ウィンデージとエレベーションのタクティカルタレット、10ヤードから無限遠までのパララックス補正、第一焦点平面のイルミネーションタクティカルレティクルが特徴。</text>
+		<text>March Tactical 3-24x42 第一焦点平面スコープ（対物スコープ）、あらゆる威力の弾薬に対応する信頼性と精度。日本のDEON Optical Design Corporation社製。マーチF 3-24x42タクティカルライフルスコープは、世界中の長距離ハンターとタクティカルシューターの両方にとって最適なスコープです。対物レンズは42mmの超低分散光学ガラス製で、ほとんどの光条件下で明るくクリアな視界を確保する。ウィンデージとエレベーションのタクティカルタレット、10ヤードから無限遠までのパララックス補正、第一焦点平面のイルミネーションタクティカルレティクルが特徴。\n \n</text>
 	</string>
 	
 			<string id="st_addon_scope_pgo7gs">
-		<text>PGO-7V サイト (BaS)</text>
+		<text>PGO-7V サイト</text>
 	</string>
 	<string id="st_addon_scope_pgo7gs_descr">
-		<text>PGO-7光学サイトは、RPG-7ハンドグレネードランチャーのメインサイトです。射程距離の異なるターゲットに発射する際に、グレネードランチャーの照準を合わせる役割を果たす。</text>
+		<text>PGO-7光学サイトは、RPG-7ハンドグレネードランチャーのメインサイトです。射程距離の異なるターゲットに発射する際に、グレネードランチャーの照準を合わせる役割を果たす。\n \n</text>
 	</string>
 	
 			<string id="st_addon_scope_rakurs">
-		<text>1P76 "Rakurs" (ピカティニー/ウィーバー用) (BaS)</text>
+		<text>1P76 "Rakurs" (ピカティニー/ウィーバー用)</text>
 	</string>
 	<string id="st_addon_scope_rakurs_descr">
 		<text>T日中、夕暮れ時、夜間の戦場監視、目標選択、目標測距、発光・照明目標に対する照準射撃のために設計された1P76光学サイト。
-この照準器は広い視野を持ち、動きの速い戦闘状況でもターゲットの視認性を損なうことなく、肉眼と照準器を同時に使って素早く地形を観察することができる。</text>
+この照準器は広い視野を持ち、動きの速い戦闘状況でもターゲットの視認性を損なうことなく、肉眼と照準器を同時に使って素早く地形を観察することができる。\n \n</text>
 	</string>
 
 			<string id="st_addon_scope_compm4s">
-		<text>Aimpoint CompM4s (ピカティニー/ウィーバー用) (BaS)</text>
+		<text>Aimpoint CompM4s (ピカティニー/ウィーバー用)</text>
 	</string>
 	<string id="st_addon_scope_compm4s_descr">
-		<text>Aimpoint CompM4sサイトは、低消費電力バッテリー収納部を備え、Aimpointの最高級サイトであるCompM4シリーズに属する。単三電池1本で最大8年間連続使用可能なエネルギー効率を実現した。</text>
+		<text>Aimpoint CompM4sサイトは、低消費電力バッテリー収納部を備え、Aimpointの最高級サイトであるCompM4シリーズに属する。単三電池1本で最大8年間連続使用可能なエネルギー効率を実現した。\n \n</text>
 	</string>
 
 			<string id="st_addon_scope_susat">
-		<text>SUSAT ピカティニー/ウィーバーマウント用 (BaS)</text>
+		<text>SUSAT ピカティニー/ウィーバーマウント用</text>
 	</string>
 	<string id="st_addon_scope_susat_descr">
-		<text>SUSATは、英国Royal Arms Research and Development Centerで開発された4倍光学サイトだ。製造はAvimo社の他、United Scientific Instruments社が行っている。中・遠距離での軽小銃の狙い撃ちに最も多く使用される。(スコープの上にはバックアップ用のアイアンサイトが付いている）。</text>
+		<text>SUSATは、英国Royal Arms Research and Development Centerで開発された4倍光学サイトだ。製造はAvimo社の他、United Scientific Instruments社が行っている。中・遠距離での軽小銃の狙い撃ちに最も多く使用される。(スコープの上にはバックアップ用のアイアンサイトが付いている）。\n \n</text>
 	</string>
 
 			<string id="st_addon_scope_1p78gs">
-		<text>1P78 Kashtan (BaS)</text>
+		<text>1P78 Kashtan</text>
 	</string>
 	<string id="st_addon_scope_1p78gs_descr">
-		<text>1P78は、ロシア軍で運用が開始された最新の光学機器の一つです。比較的低倍率（2.8倍）のACOGに近いコンセプトの設計で、操作系を一切調整することなくポイント＆シュートができるのが特徴だ。</text>
+		<text>1P78は、ロシア軍で運用が開始された最新の光学機器の一つです。比較的低倍率（2.8倍）のACOGに近いコンセプトの設計で、操作系を一切調整することなくポイント＆シュートができるのが特徴だ。\n \n</text>
 	</string>
 
 			<string id="st_addon_scope_1pn93n2_1gs">
-		<text>1PN93-1 暗視サイト (BaS)</text>
+		<text>1PN93-1 暗視サイト</text>
 	</string>
 	<string id="st_addon_scope_1pn93n2_1gs_descr">
-		<text>固定倍率(4ディオプター)の第2世代暗視サイト。オプションの1PN93-1は、中距離での視界の悪い状況での戦闘用に設計されています。標準的なドーヴテールマウントを持つ武器に装着できるよう設計されています（ワルシャワ条約加盟国など）。</text>
+		<text>固定倍率(4ディオプター)の第2世代暗視サイト。オプションの1PN93-1は、中距離での視界の悪い状況での戦闘用に設計されています。標準的なドーヴテールマウントを持つ武器に装着できるよう設計されています（ワルシャワ条約加盟国など）。\n \n</text>
 	</string>
 	
 			<string id="st_addon_scope_kemper">
-		<text>Firefield Kemper XL-M リフレックスサイト (BaS)</text>
+		<text>Firefield Kemper XL-M リフレックスサイト</text>
 	</string>
 	<string id="st_addon_scope_kemper_descr">
-		<text>Kemper XL-Mは、高速射撃、オフハンド射撃、移動するターゲットへの射撃に最適なパノラマ開閉式レッドドットサイトです。民間用とは異なり、より耐久性の高いアルミニウム合金を使用した、過酷な環境にも対応する特別設計のサイトです。ウィーバーレール、ピカティニーレールに取り付け可能。</text>
+		<text>Kemper XL-Mは、高速射撃、オフハンド射撃、移動するターゲットへの射撃に最適なパノラマ開閉式レッドドットサイトです。民間用とは異なり、より耐久性の高いアルミニウム合金を使用した、過酷な環境にも対応する特別設計のサイトです。ウィーバーレール、ピカティニーレールに取り付け可能。\n \n</text>
 	</string>
 
 			<string id="st_addon_scope_usp1">
-		<text>1P29 "Tulpan" (アイカップ無) (BaS)</text>
+		<text>1P29 "Tulpan" (アイカップ無)</text>
 	</string>
 	<string id="st_addon_scope_usp1_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] すべてのワルシャワ条約機構ライフル\n \n%c[ui_gray_1]USP-1サイト(インデックス1P29)は、光学照準角は、サイト本体をウェポンマウントブラケットに対して回転させることで機械的に設定します。トリチウムライトのため、電池は不要です。視界の端にある測距スケールは、高さ1.5mの標的の1200mまでの距離を目視で確認するためのものです。\n \n
-		%c[d_purple] ・%c[ui_gray_2] 倍率: %c[ui_gray_1]4.0x\n
-		%c[d_purple] ・%c[ui_gray_2] 状態: %c[ui_gray_1]良い\n
-		%c[d_purple] ・%c[ui_gray_2] レティクルパターン: %c[ui_gray_1]PSU-1</text>
+		<text>USP-1サイト(インデックス1P29)は、光学照準角は、サイト本体をウェポンマウントブラケットに対して回転させることで機械的に設定します。トリチウムライトのため、電池は不要です。視界の端にある測距スケールは、高さ1.5mの標的の1200mまでの距離を目視で確認するためのものです。\n \n
+
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ すべてのワルシャワ条約機構ライフル\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 倍率 : 4.0x\n
+		%c[d_purple] ・ 状態 : 良い\n
+		%c[d_purple] ・ レティクルパターン : PSU-1\n \n</text>
 	</string>
 
 			<string id="st_addon_sil_rotor">
-		<text>Rotor 43 7.62x54 マズルブレーキ (BaS)</text>
+		<text>Rotor 43 7.62x54 マズルブレーキ</text>
 	</string>
 	<string id="st_addon_sil_rotor_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 7.62 口径\n \n%c[ui_gray_1]Rotor 43マズルブレーキは、SVDS 7.62x54に装着するために設計されたマズルブレーキです。マズルブレーキとしての位置づけですが、サウンドサプレッサーとしても機能します。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]低い</text>
+		<text>Rotor 43マズルブレーキは、SVDS 7.62x54に装着するために設計されたマズルブレーキです。マズルブレーキとしての位置づけですが、サウンドサプレッサーとしても機能します。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ 7.62mm銃器\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 消音性能 : 低い\n \n</text>
 	</string>
 
 	
 				<string id="st_addon_scope_trijicon_rmr">
-		<text>Trijicon タクティカルキット. （ピカティニー/ウィーバー用） (BaS)</text>
+		<text>Trijicon タクティカルキット. （ピカティニー/ウィーバー用）</text>
 	</string>
 	<string id="st_addon_scope_trijicon_rmr_descr">
-		<text>米国Trijicon社製スコープ2本をセットにしたタクティカルキット。このキットは、Trijicon Acog BAC 5.56 BDCとTrijicon RMRの2つのスコープを、ピカティニーまたはウィーバーマウントを持つ銃に取り付けることができる。このセットアップにより、近距離から遠距離まで、違和感なく銃を使用することができる。.</text>
+		<text>米国Trijicon社製スコープ2本をセットにしたタクティカルキット。このキットは、Trijicon Acog BAC 5.56 BDCとTrijicon RMRの2つのスコープを、ピカティニーまたはウィーバーマウントを持つ銃に取り付けることができる。このセットアップにより、近距離から遠距離まで、違和感なく銃を使用することができる。\n \n</text>
 	</string>	
 	
 				<string id="st_addon_scope_mark8_rmr">
-		<text>Leupold RMR タクティカルキット（ピカティニー/ウィーバー用） (BaS)</text>
+		<text>Leupold RMR タクティカルキット（ピカティニー/ウィーバー用）</text>
 	</string>
 	<string id="st_addon_scope_mark8_rmr_descr">
-		<text>米国Leupold社とTrijicon社のスコープをセットにしたタクティカルキットです。ピカティニーマウントやウィーバーマウントを持つライフル銃に、Leupold Mark 8 CQBSSとTrijicon RMRの2つのスコープを装着することができます。短距離から長距離まで違和感なく使用することができます。</text>
+		<text>米国Leupold社とTrijicon社のスコープをセットにしたタクティカルキットです。ピカティニーマウントやウィーバーマウントを持つライフル銃に、Leupold Mark 8 CQBSSとTrijicon RMRの2つのスコープを装着することができます。短距離から長距離まで違和感なく使用することができます。\n \n</text>
 	</string>
 	
-				<string id="st_addon_scope_psicho_rmr">
-		<text>PSO RMR タクティカルキット(ドーヴテールマウント用、ピカティニー/ウィーバー用) (BaS)</text>
+	<string id="st_addon_scope_psicho_rmr">
+		<text>PSO RMR タクティカルキット(ドーヴテールマウント用、ピカティニー/ウィーバー用)</text>
 	</string>
 	<string id="st_addon_scope_psicho_rmr_descr">
-		<text>Belorussin社製と米国Trijicon社製の2種類のスコープをセットにしたタクティカルキットです。PSO-12-1とTrijicon RMRの2つのスコープを、ドーヴテール式とピカティニー式のマウントを持つライフル銃に装着することができます。短距離から長距離まで違和感なく使用できます。</text>
+		<text>Belorussin社製と米国Trijicon社製の2種類のスコープをセットにしたタクティカルキットです。PSO-12-1とTrijicon RMRの2つのスコープを、ドーヴテール式とピカティニー式のマウントを持つライフル銃に装着することができます。短距離から長距離まで違和感なく使用できます。\n \n</text>
 	</string>
 	
 				<string id="st_addon_scope_spec_alt">
-		<text>SpecterDR RMR タクティカルキット. ピカティニー/ウィーバー用 (BaS)</text>
+		<text>SpecterDR RMR タクティカルキット. ピカティニー/ウィーバー用</text>
 	</string>
 	<string id="st_addon_scope_spec_alt_descr">
-		<text>カナダELCAN社と米国Trijicon社のスコープをセットにしたタクティカルキットです。SpecterDR DFOV14-C2 1-4xとTrijicon RMRをピカティニーまたはウィーバーマウントを持つライフル銃に取り付けることができます。短距離から長距離まで違和感なく使用することができます。</text>
+		<text>カナダELCAN社と米国Trijicon社のスコープをセットにしたタクティカルキットです。SpecterDR DFOV14-C2 1-4xとTrijicon RMRをピカティニーまたはウィーバーマウントを持つライフル銃に取り付けることができます。短距離から長距離まで違和感なく使用することができます。\n \n</text>
 	</string>
 	
 				<string id="st_addon_scope_kashtan_rmr">
-		<text>Kashtan RMR タクティカルキット. (for dovetail mount and picatinny/weaver) (BaS)</text>
+		<text>Kashtan RMR タクティカルキット. (for dovetail mount and picatinny/weaver)</text>
 	</string>
 	<string id="st_addon_scope_kashtan_rmr_descr">
-		<text>Russin Central Design Bureau "Tochpribor "と米国Trijicon社製の2つのスコープを組み合わせたタクティカルキットです。1P78 KashtanとTrijicon RMRの2つのスコープを、ドーヴテール式とピカティニー式のマウントを持つライフル銃に装着することが可能です。短距離から長距離まで違和感なく使用することができます。</text>
+		<text>Russin Central Design Bureau "Tochpribor "と米国Trijicon社製の2つのスコープを組み合わせたタクティカルキットです。1P78 KashtanとTrijicon RMRの2つのスコープを、ドーヴテール式とピカティニー式のマウントを持つライフル銃に装着することが可能です。短距離から長距離まで違和感なく使用することができます。\n \n</text>
 	</string>
 
 			<string id="st_addon_sil_hex23">
-		<text>Swine 23 sound サプレッサー (BaS)</text>
+		<text>Swine-23 サウンドサプレッサー</text>
 	</string>
 	<string id="st_addon_sil_hex23_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 23mm 口径\n \n%c[ui_gray_1]KS-23 ボア用の発射音を遮断するための "自作 "デバイス。ゾーンの一部のガンスミスが作ったもの。この装置の目的は、ボアの射撃音を少しでも小さくし、注目を集めすぎないようにすることである。轟音と重量のある設計になったので、サイレンサーを使うときに不便が加わった。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]低い</text>
+		<text>KS-23 ボア用の発射音を遮断するための "自作 "デバイス。ゾーンの一部のガンスミスが作ったもの。この装置の目的は、ボアの射撃音を少しでも小さくし、注目を集めすぎないようにすることである。轟音と重量のある設計になったので、サイレンサーを使うときに不便が加わった。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ KS-23M ボア\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 消音性能 : 低い\n \n</text>
 	</string>		
 
 		<string id="st_addon_scope_mono_kit">
-		<text>Monolith AK12 タクティカルキット (BaS)</text>
+		<text>Monolith AK12 タクティカルキット</text>
 	</string>
 	<string id="st_addon_scope_mono_kit_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 12 Monolith.\n \n
-		%c[ui_gray_1] 30mmアンダーバレルグレネードランチャーを装着できるエルゴノミックフォアエンドと、短・中・長距離用サイトがセットになっています。Trijicon AcogとAN/PEQ-16 LAMが付属します。また、大容量の60連マガジンセットも付属します。このアップグレードは元に戻すことができません。</text>
+		<text>30mmアンダーバレルグレネードランチャーを装着できるエルゴノミックフォアエンドと、短・中・長距離用サイトがセットになっています。Trijicon AcogとAN/PEQ-16 LAMが付属します。また、大容量の60連マガジンセットも付属します。このアップグレードは元に戻すことができません。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ AK-12 Monolith\n \n
+		</text>
 	</string>
 	
 	<string id="st_addon_sil_aac762">
-		<text>AAC 7.62 SDN-6 サウンドサプレッサー (BaS)</text>
+		<text>AAC 7.62 SDN-6 サウンドサプレッサー</text>
 	</string>
 	<string id="st_addon_sil_aac762_descr">
-		<text>\n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 7.62 口径\n \n%c[ui_gray_1]AAC 7.62 SDN-6 サウンドサプレッサー 7.62x51 NATO弾での使用のために設計されているが、7.62 NATO、.300 AAC、6.8 SPC、6.5、および5.56mm NATO弾においても優れた性能を発揮し、複数の銃器用の優れた多口径サプレッサーとしても機能する。</text>
+		<text>AAC 7.62 SDN-6 サウンドサプレッサー 7.62x51mm NATO弾での使用のために設計されているが、7.62mm NATO、.300 AAC、6.8mm SPC、6.5mm、および5.56mm NATO弾においても優れた性能を発揮し、複数の銃器用の優れた多口径サプレッサーとしても機能する。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ 300 AAC、5.56、6.8 SPC, 6.5、7.62mm銃器\n\n
+		</text>
 	</string>
 	
 	<string id="st_addon_sil_tgpv">
-		<text>TGP-V サプレッサー (BaS)</text>
+		<text>TGP-V サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_tgpv_descr">
-		<text>\n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 7.62 口径\n \n%c[ui_gray_1]SVDSライフル専用に設計されたタクティカルサプレッサー/フラッシュハイダー。</text>
+		<text>SVDSライフル専用に設計されたタクティカルサプレッサー/フラッシュハイダー。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ 7.62x54mmR銃器\n \n
+		</text>
 	</string>		
 	
 	<string id="st_addon_sil_osp9">
-		<text>Osprey-9 サプレッサー (BaS)</text>
+		<text>Osprey-9 サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_osp9_descr">
-		<text>\n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 9 mm 口径\n \n%c[ui_gray_1]SilencerCo製の9mmピストル用軽音サプレッサー。</text>
+		<text>SilencerCo製の9mmピストル用軽音サプレッサー。\n\n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ 9mm銃器\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_pmm">
-		<text>Pﾌﾌ サプレッサー (BaS)</text>
+		<text>PMM サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_pmm_descr">
-		<text>\n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 9 mm 口径\n \n%c[ui_gray_1]PMMピストル用のサウンドサプレッサー。9x18ピストルにも使用可能。</text>
+		<text>PMMピストル用のサウンドサプレッサー。9x18ピストルにも使用可能。\n\n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ 9mm銃器\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_scope_kit_aus_tri">
-		<text>"Scout" Tactical kit for SA58 FAL AUS (BaS)</text>
+		<text>"Scout" Tactical kit for SA58 FAL AUS</text>
 	</string>
 	<string id="st_addon_scope_kit_aus_tri_descr">
-		<text>\n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] DSアームズ SA-58 AUS "オーストリア・スタイル".\n \n%c[ui_gray_1]
-		このキットを使って、偉大な銃に仕上げることができる。キットの内容は以下の通り：Fab AG FALピストルグリップ、ダストカバー DS Arms Extreme Dutyピカティニーレール付き、Vltor CASV FAL用フォアグリップ、SA-58 7.62x51用21インチバレル、DSA BRSストック。また、スコープも2本ある。NcStar 45にAimpoint T1、Trijicon Acog。このアップグレードは元に戻すことができません。</text>
+		<text>
+		このキットを使って、偉大な銃に仕上げることができる。キットの内容は以下の通り：Fab AG FALピストルグリップ、ダストカバー DS Arms Extreme Dutyピカティニーレール付き、Vltor CASV FAL用フォアグリップ、SA-58 7.62x51用21インチバレル、DSA BRSストック。また、スコープも2本ある。NcStar 45にAimpoint T1、Trijicon Acog。このアップグレードは元に戻すことができません。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ DS Arms SA-58 AUS "オーストリア・スタイル"\n \n</text>
 	</string>
 	
 	<string id="st_addon_scope_kit_fal_leup">
-		<text>"Marauder" Tactical kit for SA58 FAL AUS (BaS)</text>
+		<text>"Marauder" Tactical kit for SA58 FAL AUS</text>
 	</string>
 	<string id="st_addon_scope_kit_fal_leup_descr">
-		<text>\n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] DS Arms SA-58 AUS "Austrian Style".\n \n%c[ui_gray_1]
-		このキットを使って、偉大な銃に仕上げることができる。キットの内容は以下の通り： Fab AG FAL用ピストルグリップ、ダストカバー DS Arms Extreme Dutyピカティニーレール付き、Vltor CASV FAL用フォアグリップ、SA-58 7.62x51用21インチバレル、DSA BRSストックなどです。また、スコープも2本あります。NcStar 45にAimpoint T1、Leupold Mark 8 CQBSS。このアップグレードは元に戻せません。</text>
+		<text>このキットを使って、偉大な銃に仕上げることができる。キットの内容は以下の通り： Fab AG FAL用ピストルグリップ、ダストカバー DS Arms Extreme Dutyピカティニーレール付き、Vltor CASV FAL用フォアグリップ、SA-58 7.62x51用21インチバレル、DSA BRSストックなどです。また、スコープも2本あります。NcStar 45にAimpoint T1、Leupold Mark 8 CQBSS。このアップグレードは元に戻せません。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ DS Arms SA-58 AUS "オーストリア・スタイル"\n \n
+		</text>
 	</string>	
 
 	<string id="st_addon_scope_kit_sa5x_spec">
-		<text>"Defender" SA58 FAL AUS向けタクティカルキット (BaS)</text>
+		<text>"Defender" SA58 FAL AUS向けタクティカルキット</text>
 	</string>
 	<string id="st_addon_scope_kit_sa5x_spec_descr">
-		<text>\n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] DSアームズ SA-58 AUS "オーストリア・スタイル"\n \n%c[ui_gray_1]
-		このキットを使って、偉大な銃に仕上げることができる。キットの内容は以下の通り： Fab AG FAL用ピストルグリップ、ダストカバー DS Arms Extreme Dutyピカティニーレール付き、Vltor CASV FAL用フォアグリップ、SA-58 7.62x51用21インチバレル、DSA BRSストックなどです。また、スコープも2本あります。NcStar 45にAimpoint T1、ELCAN SpecterDR。このアップグレードは元に戻すことができません。</text>
+		<text>このキットを使って、偉大な銃に仕上げることができる。キットの内容は以下の通り： Fab AG FAL用ピストルグリップ、ダストカバー DS Arms Extreme Dutyピカティニーレール付き、Vltor CASV FAL用フォアグリップ、SA-58 7.62x51用21インチバレル、DSA BRSストックなどです。また、スコープも2本あります。NcStar 45にAimpoint T1、ELCAN SpecterDR。このアップグレードは元に戻すことができません。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ DS Arms SA-58 AUS "オーストリア・スタイル"\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_geks545">
-		<text>5.45/7.62x39 Hexagon サウンド サプレッサー (BaS)</text>
+		<text>5.45/7.62x39 Hexagon サウンド サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_geks545_descr">
-		<text>\n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 5.45, 7.62 口径\n \n%c[ui_gray_1]Hexagon社製の5.45x39および7.62x39口径用のサウンドサプレッサーです。</text>
+		<text>Hexagon社製の5.45x39および7.62x39口径用のサウンドサプレッサーです。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ 5.45、 7.62x39mm銃器\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_kek12">
-		<text>Hexagon 12K サウンド　サプレッサー (BaS)</text>
+		<text>Hexagon 12K サウンド　サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_kek12_descr">
-		<text>\n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 12 口径\n \n%c[ui_gray_1]Hexagon社製12ゲージショットガン、カービン銃用サウンドモデレーター。</text>
+		<text>Hexagon社製12ゲージショットガン、カービン銃用サウンドモデレーター。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ 12ゲージ銃器\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_black_box">
-		<text>AAC Black Box サウンド　サプレッサー (BaS)</text>
+		<text>AAC Black Box サウンド　サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_black_box_descr">
-		<text>\n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 9 mm, .45 口径\n \n%c[ui_gray_1]Advanced Armament Corp.製のBLACK BOX .45サウンドサプレッサー。9mmと45ACPの銃身がねじ切り式のほとんどの銃で使用可能です。</text>
+		<text>Advanced Armament Corp.製のBLACK BOX .45サウンドサプレッサー。9mmと45ACPの銃身がねじ切り式のほとんどの銃で使用可能です。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ .45口径、9mm\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_scope_226sig_kit">
-		<text>シグ Sauer P226R用タクティカルキット  (BaS)</text>
+		<text>シグ Sauer P226R用タクティカルキット </text>
 	</string>
 	<string id="st_addon_scope_226sig_kit_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] シグ Sauer P226R ピストルl\n \n%c[ui_gray_1]
- キットの内容は以下の通りです。サプレッサー用ネジ付きバレル、エルゴノミックグリッププレート、Trijicon RMR レッドドットサイト（マウントプレート付き）。このアップグレードは元に戻せません。\n </text>
+		<text> キットの内容は以下の通りです。サプレッサー用ネジ付きバレル、エルゴノミックグリッププレート、Trijicon RMR レッドドットサイト（マウントプレート付き）。このアップグレードは元に戻せません。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ シグ Sauer P226R ピストル \n \n
+		</text>
 	</string>
 
 	<string id="st_addon_scope_mod9">
-		<text>タクティカルキット for Walther P99 (BaS)</text>
+		<text>タクティカルキット for Walther P99</text>
 	</string>
 	<string id="st_addon_scope_mod9_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] Walther P99 pistol \n \n%c[ui_gray_1]
- The kit includes: Threaded barrel for using with suppressor, Tritium sights and Viridian X5L laser sight. This upgrade is irreversible.\n </text>
+		<text>キットには以下が含まれます: サプレッサー、トリチウム サイト、Viridian X5L レーザーサイトで使用するためのネジ付きバレル。 このアップグレードは元に戻せません。\n \n 
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ ワルサーP99 \n \n
+ </text>
 	</string>
 
 	<string id="st_addon_scope_upg220">
-		<text>シグ Sauer P220用タクティカルキット  (BaS)</text>
+		<text>シグ Sauer P220用タクティカルキット </text>
 	</string>
 	<string id="st_addon_scope_upg220_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2]  シグ Sauer P220 ピストル\n \n%c[ui_gray_1]
- キットの内容は以下の通りです。サプレッサー用ネジ付きバレル、トリチウムサイト、Viridian X5Lレーザーサイト、12発入り大容量マガジンが含まれます。このアップグレードは元に戻せません。\n </text>
+		<text>キットの内容は以下の通りです。サプレッサー用ネジ付きバレル、トリチウムサイト、Viridian X5Lレーザーサイト、12発入り大容量マガジンが含まれます。このアップグレードは元に戻せません。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ シグ Sauer P220 ピストル\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_scope_23_up">
-		<text>KS-23用510mmバレル (BaS)</text>
+		<text>KS-23用510mmバレル</text>
 	</string>
 	<string id="st_addon_scope_23_up_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] KS-23 カラビナ\n \n%c[ui_gray_1]
- KS-23カラビナ用のショート＆ライトバレルです。このアップグレードは元に戻すことができません。\n </text>
+		<text>KS-23カラビナ用のショート＆ライトバレルです。このアップグレードは元に戻すことができません。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ KS-23 カラビナ\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_scope_kab_up">
-		<text>KS-23 ドロズド用タクティカルキット (BaS)</text>
+		<text>KS-23 ドロズド用タクティカルキット</text>
 	</string>
 	<string id="st_addon_scope_kab_up_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] カラビナ KS-23M ドロズド\n \n%c[ui_gray_1]
- キットの内容は以下の通りです。サプレッサー用ネジ付きバレル、Trijicon RMRサイト（マウントモジュール付き）。このアップグレードは元に戻せません。\n </text>
+		<text>キットの内容は以下の通りです。サプレッサー用ネジ付きバレル、Trijicon RMRサイト（マウントモジュール付き）。このアップグレードは元に戻せません。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ カラビナ KS-23M ドロズド\n \n
+		</text>
 	</string>
-
-			<string id="st_addon_sil_daniel">
-		<text>Daniel Defence Wave QD サウンド　サプレッサー (BaS)</text>
+	<string id="st_addon_sil_daniel">
+		<text>Daniel Defence Wave QD サウンド　サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_daniel_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] Remington モデル 700\n \n%c[ui_gray_1]Daniel Defence Wave QD sound suppressor、Remingtonモデル700の上に装着可能。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]High</text>
+		<text>Daniel Defence Wave QD sound suppressor、Remingtonモデル700の上に装着可能。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ Remington モデル 700\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 消音性能 : 高い\n \n</text>
 	</string>
 
 	<string id="st_addon_scope_archangel">
-		<text>レミントンM700用promag社製アーケンエンジェル・ポリマーストック (BaS)</text>
+		<text>レミントンM700用promag社製アーケンエンジェル・ポリマーストック</text>
 	</string>
 	<string id="st_addon_scope_archangel_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] Remington M700\n \n%c[ui_gray_1]
- レミントンモデル700ライフル用のアーケンジェル・ポリマーストック。20連マガジンのセットが含まれます。このアップグレードは元に戻せません。 \n </text>
+		<text>レミントンモデル700ライフル用のアーケンジェル・ポリマーストック。20連マガジンのセットが含まれます。このアップグレードは元に戻せません。 \n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ Remington M700\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_scope_magpul_pro">
-		<text>レミントンM700用Magpul PRO 700シャーシ (BaS)</text>
+		<text>レミントンM700用Magpul PRO 700シャーシ</text>
 	</string>
 	<string id="st_addon_scope_magpul_pro_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] Remington M700\n \n%c[ui_gray_1]
- PRO 700は、Magpul社製のレミントンモデル700のために設計された軽量で人間工学に基づいたシャーシです。12連マガジンとTrijicon RMR レッドドットサイトを45度アングルマウントに装着したセットが付属します。このアップグレードは元に戻すことができません。 \n </text>
+		<text>PRO 700は、Magpul社製のレミントンモデル700のために設計された軽量で人間工学に基づいたシャーシです。12連マガジンとTrijicon RMR レッドドットサイトを45度アングルマウントに装着したセットが付属します。このアップグレードは元に戻すことができません。 \n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ Remington M700\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_scope_mod_x_gen3">
-		<text>MOD X Gen.3 レミントンM700用シャーシ (BaS)</text>
+		<text>MOD X Gen.3 レミントンM700用シャーシ</text>
 	</string>
 	<string id="st_addon_scope_mod_x_gen3_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] Remington M700\n \n%c[ui_gray_1]
- A*B Arms MOD X GEN III Modular Rifle Systemは、レミントンモデル700用に設計された、軽量で人間工学に基づいたドロップインシャーシです。12連マガジン一式と、45度アングルマウントに装着されたLeupold DeltaPoint PRO レッドドットサイトが付属しています。このアップグレードは元に戻すことができません。 \n </text>
+		<text>A*B Arms MOD X GEN III Modular Rifle Systemは、レミントンモデル700用に設計された、軽量で人間工学に基づいたドロップインシャーシです。12連マガジン一式と、45度アングルマウントに装着されたLeupold DeltaPoint PRO レッドドットサイトが付属しています。このアップグレードは元に戻すことができません。 \n \n
+
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ Remington M700\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_sr1m">
-		<text>SR1MP サイレンサー 9x21 (BaS)</text>
+		<text>SR1MP サイレンサー 9x21</text>
 	</string>
 	<string id="st_addon_sil_sr1m_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] SR1MP 9x21 ピストル\n \n%c[ui_gray_1]SR-1MPピストル用の標準装備サイレンサー。装着にはロングバレル付きのタクティカルセットが必要です。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]High</text>
+		<text>SR-1MPピストル用の標準装備サイレンサー。装着にはロングバレル付きのタクティカルセットが必要です。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ SR1MP 9x21 ピストル\n
+		%c[d_purple] ・ 消音性能 : 高い</text>
 	</string>
 
 	<string id="st_addon_scope_sr1upgr1">
-		<text>SR1MP 9×21ギュルザ用タクティカルキット (BaS)</text>
+		<text>SR1MP 9×21ギュルザ用タクティカルキット</text>
 	</string>
 	<string id="st_addon_scope_sr1upgr1_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] SR1MP 9x21 ピストル\n \n%c[ui_gray_1]
- トリチウムアイアンサイト、レーザー照準モジュール、サプレッサーを装着できるロングバレルがセットになっています。このアップグレードは元に戻すことができません。 \n </text>
+		<text>トリチウムアイアンサイト、レーザー照準モジュール、サプレッサーを装着できるロングバレルがセットになっています。このアップグレードは元に戻すことができません。 \n \n
+
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ SR1MP 9x21 ピストル\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_scope_silen98">
-		<text>モーゼル98kフォレスター用サイレンサーアダプター (BaS)</text>
+		<text>モーゼル98kフォレスター用サイレンサーアダプター</text>
 	</string>
 	<string id="st_addon_scope_silen98_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] モーゼル98kフォレスター\n \n%c[ui_gray_1]
- Mauser 98k Foresterスナイパーライフルにサウンドサプレッサーを使用できるようにするアダプターまたはマズルデバイスです。このアップグレードは元に戻せません。 \n </text>
+		<text>Mauser 98k Foresterスナイパーライフルにサウンドサプレッサーを使用できるようにするアダプターまたはマズルデバイスです。このアップグレードは元に戻せません。 \n \n
+
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ モーゼル98kフォレスター\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_forester">
-		<text>サウンド　サプレッサー "K98 Forester" (BaS)</text>
+		<text>サウンド　サプレッサー "K98 Forester"</text>
 	</string>
 	<string id="st_addon_sil_forester_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] モーゼル98kフォレスター\n \n%c[ui_gray_1]フォレスターがモーゼル98kスナイパーライフルを自作改造するために作った自作サウンドサプレッサー。ライフル銃身への取り付けには、専用のアダプターを装着する必要がある。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]High</text>
+		<text>フォレスターがモーゼル98kスナイパーライフルを自作改造するために作った自作サウンドサプレッサー。ライフル銃身への取り付けには、専用のアダプターを装着する必要がある。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ モーゼル98kフォレスター\n
+		%c[d_purple] ・ 消音性能 : 高い\n\n</text>
 	</string>
 
 	<string id="st_addon_scope_swamp">
-		<text>AK-105用 "スワンプシング" (BaS)</text>
+		<text>AK-105用 "スワンプシング"</text>
 	</string>
 	<string id="st_addon_scope_swamp_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] AK-105\n \n%c[ui_gray_1]
- 価格的にあまり人気がない、AK-105用のレアなボディキット。Dutyが使用しているキットに酷似している。主にクリアスカイグループのベテランの間で見かける。セット内容：延長されたフォアエンド、エルゴノミックストック、より快適なピストルグリップ。さらに、改良されたトリガーと3つの照準器も含まれており、近距離から中長距離まで「理想的な仲間」に仕上げてくれるキットです。スコープ（付属品）。Elcan SpecterDR、Trijicon RMR calimator sightを45度にマウントしたもの、AN/PEQ-15 LAM。また、このキットには45発の弾倉がセットで含まれています。このアップグレードは元に戻せません。 \n </text>
+		<text>価格的にあまり人気がない、AK-105用のレアなボディキット。Dutyが使用しているキットに酷似している。主にクリアスカイグループのベテランの間で見かける。セット内容：延長されたフォアエンド、エルゴノミックストック、より快適なピストルグリップ。さらに、改良されたトリガーと3つの照準器も含まれており、近距離から中長距離まで「理想的な仲間」に仕上げてくれるキットです。スコープ（付属品）。Elcan SpecterDR、Trijicon RMR calimator sightを45度にマウントしたもの、AN/PEQ-15 LAM。また、このキットには45発の弾倉がセットで含まれています。このアップグレードは元に戻せません。 \n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ AK-105\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_scope_lapua700">
-		<text>ディア・ハンター：.338レミントンM700キット (BaS)</text>
+		<text>ディア・ハンター：.338レミントンM700キット</text>
 	</string>
 	<string id="st_addon_scope_lapua700_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] Remington M700\n \n%c[ui_gray_1]
- .308レミントンモデル700を.338ラプアマグナムに変更し、超長距離のターゲットと交戦するためのセットです。.338サイレンサー用スレッド付き338バレル、バレルロックシステムを含むMagpulプロストック、338LM用マガジンセット、改良型Leupoldサイトが付属します。このアップグレードは元に戻すことができません。 \n </text>
+		<text>.308レミントンモデル700を.338ラプアマグナムに変更し、超長距離のターゲットと交戦するためのセットです。.338サイレンサー用スレッド付き338バレル、バレルロックシステムを含むMagpulプロストック、338LM用マガジンセット、改良型Leupoldサイトが付属します。このアップグレードは元に戻すことができません。 \n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ Remington M700\n
+		</text>
 	</string>
 
 	<string id="st_addon_scope_gurza_up">
-		<text>SR1MP 9x21ギュルザ用アドバンスト・タクティカル・キット (BaS)</text>
+		<text>SR1MP 9x21ギュルザ用アドバンスト・タクティカル・キット</text>
 	</string>
 	<string id="st_addon_scope_gurza_up_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] SR1MP 9x21 Gyurza\n \n%c[ui_gray_1]
- LAM、Trijicon RMR、クアドレールマウントがセットになったキットです。このアップグレードは元に戻せません。\n </text>
+		<text>LAM、Trijicon RMR、クアドレールマウントがセットになったキットです。このアップグレードは元に戻せません。\n \n
+
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ SR1MP 9x21 Gyurza\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_scope_lazup_pl15">
-		<text>Lebedev PL-15ピストル用LAM(BaS)</text>
+		<text>Lebedev PL-15ピストル用LAM</text>
 	</string>
 	<string id="st_addon_scope_lazup_pl15_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] Lebedev PL-15\n \n%c[ui_gray_1]
- あらゆる位置からの狙い撃ちに使用します。\n </text>
+		<text>レーザー照準モジュールのアップグレードにより、あらゆる位置から照準を合わせることができます。\n\n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+ 		%c[d_cyan] ・ Lebedev PL-15\n \n
+ </text>
 	</string>
 
 	<string id="st_addon_scope_pl15_scolaz">
-		<text>PL-15ピストル用アドバンスト・タクティカル・キット "タクティック" (BaS)</text>
+		<text>PL-15ピストル用アドバンスト・タクティカル・キット "タクティック"</text>
 	</string>
 	<string id="st_addon_scope_pl15_scolaz_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] Lebedev PL-15\n \n%c[ui_gray_1]
- キットには、LAM、Aimpoint T1スコープ、マウントが含まれます。このアップグレードは元に戻せません。\n </text>
+		<text>キットには、LAM、Aimpoint T1スコープ、マウントが含まれます。このアップグレードは元に戻せません。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ Lebedev PL-15\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_lapu7">
-		<text>M700 .338LM サプレッサー (BaS)</text>
+		<text>M700 .338LM サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_lapu7_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] Remington M700 .338 Lapua Magnum.\n \n%c[ui_gray_1]レミントンM700 .338 ラプアマグナム用防熱ケーシング付きサウンドサプレッサー\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]Medium</text>
+		<text>レミントンM700 .338 ラプアマグナム用防熱ケーシング付きサウンドサプレッサー\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ Remington M700 .338 Lapua Magnum.\n		
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 消音性能 : 中\n \n</text>
 	</string>
 
 	<string id="st_addon_sil_pl15">
-		<text>PL-15 サプレッサー (BaS)</text>
+		<text>PL-15 サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_pl15_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] Lebedev PL-15\n \n%c[ui_gray_1]Lebedev PL-15 Pistol用防熱ケーシング付きサウンドサプレッサー。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]High</text>
+		<text>Lebedev PL-15 Pistol用防熱ケーシング付きサウンドサプレッサー。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ Lebedev PL-15\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 消音性能 : 高い\n \n</text>
 	</string>
 
 	<string id="st_addon_scope_shakal">
-		<text>AK-105用 "Shakal"(BaS)</text>
+		<text>AK-105用 "Shakal"</text>
 	</string>
 	<string id="st_addon_scope_shakal_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] AK-105\n \n%c[ui_gray_1]
- 入手困難なAK-105用ボディキット。ClearSkyが使用しているキットに非常によく似ている。主にDutyグループのベテランの間で見かけることが多い。フォアエンドの延長、人間工学に基づいたストック、より快適なピストルグリップがセットになっています。さらに、改良されたトリガーと3つの照準器も含まれており、近距離から中長距離まで、この武器を「理想的な仲間」に変えてくれます。スコープ（付属品）。Trijicon Acog、Trijicon RMR calimator sightを45度にマウントしたもの、AN/PEQ-15 LAM。また、このキットには45発のマグが含まれています。このアップグレードは元に戻せません。 \n </text>
+		<text>入手困難なAK-105用ボディキット。ClearSkyが使用しているキットに非常によく似ている。主にDutyグループのベテランの間で見かけることが多い。フォアエンドの延長、人間工学に基づいたストック、より快適なピストルグリップがセットになっています。さらに、改良されたトリガーと3つの照準器も含まれており、近距離から中長距離まで、この武器を「理想的な仲間」に変えてくれます。スコープ（付属品）。Trijicon Acog、Trijicon RMR calimator sightを45度にマウントしたもの、AN/PEQ-15 LAM。また、このキットには45発のマグが含まれています。このアップグレードは元に戻せません。 \n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ AK-105\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_spec_isg">
-		<text>Rifle Dynamics ISG サプレッサー (BaS)</text>
+		<text>Rifle Dynamics ISG サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_spec_isg_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] ISG Fire Arms: 5.45/7.62・\n \n%c[ui_gray_1]ISG部隊がゾーンで使用しているサウンドサプレッサー。米国Rifle Dynamics社製。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]High</text>
+		<text>ISG部隊がゾーンで使用しているサウンドサプレッサー。米国Rifle Dynamics社製。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ ISG Fire Arms: 5.45/7.62mm\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 消音性能 : 高い\n \n</text>
 	</string>
 
 	<string id="st_addon_scope_u2p2g0r">
-		<text>シグ Sauer P220用キット "9" (BaS)</text>
+		<text>シグ Sauer P220用キット "9"</text>
 	</string>
 	<string id="st_addon_scope_u2p2g0r_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] シグ Sauer P220 ピストル\n \n%c[ui_gray_1]
- キットの内容は以下の通りです。9x19cal用スレッド付きバレル、トリチウムサイト、Viridian X5Lレーザーサイト、大容量19連マガジン、ピリマーブディをタンワンに交換。このアップグレードは元に戻すことができません。\n </text>
+		<text>キットの内容は以下の通りです。9x19cal用スレッド付きバレル、トリチウムサイト、Viridian X5Lレーザーサイト、大容量19連マガジン、ピリマーブディをタンワンに交換。このアップグレードは元に戻すことができません。\n \n
+
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ シグ Sauer P220 ピストル\n \n</text>
 	</string>
 
 	<string id="st_addon_sil_apb">
-		<text>APB サプレッサー (BaS)</text>
+		<text>APB サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_apb_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] 9 mm\n \n%c[ui_gray_1]APSピストルのアップグレード用サプレッサー。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]中</text>
+		<text>APSピストルのアップグレード用サプレッサー。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ APSピストル\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 消音性能 : 中</text>
 	</string>
 
 	<string id="st_addon_scope_apsabigo">
-		<text>APSピストル用アップグレードキット (BaS)</text>
+		<text>APSピストル用アップグレードキット</text>
 	</string>
 	<string id="st_addon_scope_apsabigo_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2]  APS ピストル\n \n%c[ui_gray_1]
- キットの内容は以下の通りです。APBサウンドサプレッサー用スレッド付きバレル、トリチウムサイト、人間工学に基づいたピストルグリップラバー。このアップグレードは元に戻せません。\n </text>
+		<text>キットの内容は以下の通りです。APBサウンドサプレッサー用スレッド付きバレル、トリチウムサイト、人間工学に基づいたピストルグリップラバー。このアップグレードは元に戻せません。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ APS ピストル\n\n
+		</text>
 	</string>
 
 	<string id="st_addon_scope_kp_sr2">
-		<text>KP SR-2 リフレックスサイト (BaS)</text>
+		<text>KP SR-2 リフレックスサイト</text>
 	</string>
 	<string id="st_addon_scope_kp_sr2_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] SR-2M SMG \n \n%c[ui_gray_1]
- KP SR-2 Reflex Sightは、あらゆる天候や視界の状況下で、9x21mmサブマシンガンSR-2Mからの射撃効率を高めるために設計されています。\n </text>
+		<text>KP SR-2 Reflex Sightは、あらゆる天候や視界の状況下で、9x21mmサブマシンガンSR-2Mからの射撃効率を高めるために設計されています。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ SR-2M SMG \n \n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_veresk">
-		<text>GZV-SR2 サプレッサー (BaS)</text>
+		<text>GZV-SR2 サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_veresk_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] SR-2M SMG\n \n%c[ui_gray_1]SR-2M SMGと組み合わせて使用するサウンドサプレッサーです。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]中</text>
+		<text>SR-2M SMGと組み合わせて使用するサウンドサプレッサーです。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ SR-2M SMG\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 消音性能 : 中</text>
 	</string>
 	
 	<string id="st_addon_scope_sr2_upkit">
-		<text>SR-2M Veresk SMG用アップグレードキット(BaS)</text>
+		<text>SR-2M Veresk SMG用アップグレードキット</text>
 	</string>
 	<string id="st_addon_scope_sr2_upkit_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] SR-2M SMG\n \n%c[ui_gray_1]
- キット内容：ピカティニーレール付きタクティカルフォアエンド、LAM、KP SR-2 リフレックスサイト。このアップグレードは元に戻せません。\n </text>
+		<text>キット内容：ピカティニーレール付きタクティカルフォアエンド、LAM、KP SR-2 リフレックスサイト。このアップグレードは元に戻せません。\n \n
+		
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ SR-2M SMG\n \n
+		</text>
 	</string>	
 
 	<string id="st_grenade_launcher_monolit">
-		<text>"Guard" グレネードランチャー (BaS)</text>
+		<text>"Guard" グレネードランチャー</text>
 	</string>
 	<string id="st_grenade_launcher_monolit_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] AK-12 Monolithにタクティカルキットを装着した状態。\n \n%c[ui_gray_1]
- Monolithの設計者が、特殊静音型グレネードランチャー「6G17カナリカ」をベースに開発した30mmライトグレネードランチャー。\n 
- %c[d_purple] ・%c[ui_gray_2] 弾薬: %c[ui_gray_1]VOG-30 30mm グレネードe\n</text>
+		<text>Monolithの設計者が、特殊静音型グレネードランチャー「6G17カナリカ」をベースに開発した30mmライトグレネードランチャー。\n \n
+
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ AK-12 Monolithにタクティカルキットを装着した状態。\n
+		%c[ui_gray_3]特徴 :\n
+		%c[d_purple] ・ 弾薬 : VOG-30 30mm グレネード\n\n</text>
 	</string>
 
 	<string id="st_addon_sil_auga">
-		<text>Steyr UMS サプレッサー (BaS)</text>
+		<text>Steyr UMS サプレッサー</text>
 	</string>
 	<string id="st_addon_sil_auga_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] Aug Steyr\n \n%c[ui_gray_1]Steyr UMS (Universal Military Suppressor) - 5.56 NATO Aug Steyrで使用するためのサウンドサプレッサーです。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]中</text>
+		<text>Steyr UMS (Universal Military Suppressor) - 5.56 NATO Aug Steyr用サウンド サプレッサー。\n \n
+			
+			%c[ui_gray_3]装着可能銃器 : \n
+			%c[d_cyan] ・ Aug Steyr\n
+			%c[ui_gray_3]特徴 :\n
+			%c[d_purple] ・ 消音性能 : 中\n\n</text>
 	</string>
 
 	<string id="st_addon_scope_5c_tik">
-		<text> Special ISG (AK 5C Kit) (BaS)</text>
+		<text> Special ISG (AK 5C Kit)</text>
 	</string>
 	<string id="st_addon_scope_5c_tik_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] AK 5C カラビナ\n \n%c[ui_gray_1]AK 5C用のパーツセット。標準装備のAK 5Cを、あらゆるシーンで活躍するスタッフ付きのショートバージョンに変換する。ISGの登場直後にゾーンに登場したセット。\n \n%c[d_purple] ・%c[ui_gray_2] キット内容：ロープロファイルフォアグリップ、LA5 LAM、Leupold LCOおよびD'evo x6スコープ、ショートバレルとその取り付けに必要なすべての部品。 また、発射速度が上がる改造ガスモジュールもセットになっています。このアップグレードは元に戻せません。</text>
+		<text>AK 5C用のパーツセット。標準装備のAK 5Cを、あらゆるシーンで活躍するスタッフ付きのショートバージョンに変換する。ISGの登場直後にゾーンに登場したセット。\n \n%c[d_purple] ・ キット内容：ロープロファイルフォアグリップ、LA5 LAM、Leupold LCOおよびD'evo x6スコープ、ショートバレルとその取り付けに必要なすべての部品。 また、発射速度が上がる改造ガスモジュールもセットになっています。このアップグレードは元に戻せません。\n \n
+
+
+		%c[ui_gray_3]装着可能銃器 : \n
+		%c[d_cyan] ・ AK 5C カラビナ\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_m42k">
-		<text>AAC M4-2000 (BaS)</text>
+		<text>AAC M4-2000</text>
 	</string>
 	<string id="st_addon_sil_m42k_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] M4A1 RAS (BaS), L85 (BaS)\n \n%c[ui_gray_1]AR-15カービン用として信頼性の高いAdvanced Armament Corp.のユニバーサルサイレンサー。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]中</text>
+		<text>AR-15カービン用として信頼性の高いAdvanced Armament Corp.のユニバーサルサイレンサー。\n \n
+			
+			%c[ui_gray_3]装着可能銃器 : \n
+			%c[d_cyan] ・ M4A1 RAS, L85\n
+			%c[ui_gray_3]特徴 :\n
+			%c[d_purple] ・ 消音性能 : 中\n \n</text>
 	</string>
 
 			<string id="st_addon_scope_susatov">
-		<text>SUSAT for native L85 mount only (BaS)</text>
+		<text>SUSAT for native L85 mount only</text>
 	</string>
 	<string id="st_addon_scope_susatov_descr">
-		<text>SUSATは、英国Royal Arms Research and Development Centerで開発された4倍光学サイトです。製造はAvimo社の他、United Scientific Instruments社が行っている。中・長距離での軽小銃の狙撃に使用されることが多い。L85 泥尾・専用マウントに装着する（スコープの上にバックアップ用のアイアンサイトがある）。</text>
+		<text>SUSATは、英国Royal Arms Research and Development Centerで開発された4倍光学サイトです。製造はAvimo社の他、United Scientific Instruments社が行っている。中・長距離での軽小銃の狙撃に使用されることが多い。L85 泥尾・専用マウントに装着する（スコープの上にバックアップ用のアイアンサイトがある）。\n \n</text>
 	</string>
 
 	<string id="st_addon_sil_surfire">
-		<text>サイレンサー Surefire SOCOM556-MONSTER (BaS)</text>
+		<text>サイレンサー Surefire SOCOM556-MONSTER</text>
 	</string>
 	<string id="st_addon_sil_surfire_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] M4 Tactical (BaS)\n \n%c[ui_gray_1]Surefire SOCOM556-MONSTER 5.56x45と.223 用サイレンサー.\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]中</text>
+		<text>Surefire SOCOM556-MONSTER 5.56x45と.223 用サイレンサー。\n \n
+			
+			%c[ui_gray_3]装着可能銃器 : \n
+			%c[d_cyan] ・ M4 Tactical\n
+			%c[ui_gray_3]特徴 :\n
+			%c[d_purple] ・ 消音性能 : 中\n\n</text>
 	</string>
 
 	<string id="st_grenade_launcher_scar">
-		<text>FN40GL グレネードランチャー (BaS)</text>
+		<text>FN40GL グレネードランチャー</text>
 	</string>
 	<string id="st_grenade_launcher_scar_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] FN SCAR\n \n%c[ui_gray_1]
- ベルギーのFN Herstal社がFN SCARアサルトライフルのために開発した40mmグレネードランチャー\n
-%c[d_purple] ・%c[ui_gray_2] 弾薬: %c[ui_gray_1]M203 40mm グレネード\n</text>
+		<text>ベルギーのFN Herstal社がFN SCARアサルトライフルのために開発した40mmグレネードランチャー\n\n
+
+			%c[ui_gray_3]装着可能銃器 : \n
+			%c[d_cyan] ・ FN SCAR\n
+			%c[ui_gray_3]特徴 :\n
+			%c[d_purple] ・ 弾薬: M203 40mm グレネード\n\n</text>
 	</string>
 
 	<string id="st_grenade_launcher_l85">
-		<text> M320 グレネードランチャー (BaS)</text>
+		<text> M320 グレネードランチャー</text>
 	</string>
 	<string id="st_grenade_launcher_l85_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2] L85\n \n%c[ui_gray_1]
- M203グレネードランチャーの後継として、2008年にヘッケラー＆コッホ社が開発したM320アンダーバレルグレネードランチャー。\n
-%c[d_purple] ・%c[ui_gray_2] 弾薬: %c[ui_gray_1]M203 40mm グレネード\n</text>
+		<text>M203グレネードランチャーの後継として、2008年にヘッケラー＆コッホ社が開発したM320アンダーバレルグレネードランチャー。\n\n
+
+			%c[ui_gray_3]装着可能銃器 : \n
+			%c[d_cyan] ・ L85\n
+			%c[ui_gray_3]特徴 :\n
+			%c[d_purple] ・ 弾薬: %c[ui_gray_1]M203 40mm グレネード\n\n</text>
 	</string>	
 
 	<string id="st_addon_sil_kac4">
-		<text>KAC QDSS NT-4 5.56x45 サイレンサー (BaS)</text>
+		<text>KAC QDSS NT-4 5.56x45 サイレンサー</text>
 	</string>
 	<string id="st_addon_sil_kac4_descr">
-		<text>\n \n%c[ui_gray_2]使用の対象になるアイテム:\n \n%c[d_cyan] ・%c[ui_gray_2]Howa Type 20 (BaS)\n \n%c[ui_gray_1]Knights Armament QDSS NT-4 5.56x45と.223用サイレンサー。\n \n%c[d_purple] ・%c[ui_gray_2] 消音率: %c[ui_gray_1]中</text>
+		<text>Knights Armament QDSS NT-4 5.56x45と.223用サイレンサー。\n \n
+			
+			%c[ui_gray_3]装着可能銃器 : \n
+			%c[d_cyan] ・ Howa Type 20\n
+			%c[ui_gray_3]特徴 :\n
+			%c[d_purple] ・ 消音性能 : 中\n \n</text>
 	</string>
 	
 </string_table>
