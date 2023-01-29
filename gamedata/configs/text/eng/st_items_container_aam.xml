@@ -7,16 +7,16 @@
     <text>熱的性質で形成されたこのアーティファクトは2つの別々の層の構造をしており、表面には、全身を覆っている深い傷跡を持つ硬くて濃い変成岩で形成されている。完全に無効になっており、目立った特性はない。一方、柔らかい黄色の輝くコアは未知の有機的性質を持っている。そのコアは積極的に過度の熱を消費し、常に周辺を低温で保つことが出来る。
 \nしかし、このアーティファクトはユーザーの血流中の酸や毒素の悪影響を増大させるので、化学的および酸のアノマリーに近づくことは推奨されない。
 
-\n\n低レベルの放射線量である。
+\n\n低レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管装置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+                  \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_pin_af_aam_name">
     <text>アーティファクト高レベル活用容器／「ピン」</text>
@@ -26,16 +26,16 @@
 \n幹には有用な特性はない。それどころか、この小さなピンは使用者の体温を下げ、その近くにあるすべての物体を冷却する性質を有している。
 \nこのアーティファクトは、精神波の影響を受けて共鳴するため、わずかな「精神波の防護」を提供する。一方、このアーティファクトを所有しているときに化学的アノマリーおよび酸アノマリーに近づくことは、ユーザーの血流における酸や毒素の悪影響を増大させるため、推奨されていない。
 
-\n\n中レベルの放射線量である。
+\n\n中レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管装置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+                \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_cristall_af_aam_name">
     <text>アーティファクト高レベル活用容器／「クリスタル」</text>
@@ -46,16 +46,16 @@
 \nこのアーティファクトは、内側のコアが放射性ではなく、磨かれ洗練されていれば並外れた美しさを持っていると考えられており、ゾーン外の宝石商にも非常に人気がある。その外層の最初の1cmだけが放射線を放出する。
 \n最小限の量の放射性物質に長時間さらされても使用者に甚大な悪影響を及ぼす可能性があるため、アーティファクトを市場に投入することを計画しているときは注意して進めることが強く推奨される。非常に硬い層で覆われており、高密度のため比較的重い。
 
-\n\n中レベルの放射線量である。
+\n\n中レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管装置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+                \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_fireball_af_aam_name">
     <text>アーティファクト高レベル活用容器／「ファイアボール」</text>
@@ -65,16 +65,16 @@
 \nこのアーティファトはユニークな性質を持っており、それは周囲に関係なく、摂氏24度（華氏75度）の恒温に保つ性質がある。これは、周辺の熱を吸収し、使用者の周りに小さなポケットを作り出すため、炎による負傷を防ぐことが出来る。
 このアーティファクトのデメリットは、導電率を高める性質で、このアーティファクトを身に着けている間の感電の可能性は、特に暴風雨時や電気アノマリーの付近では、各段に跳ね上がる。水晶のような見た目をしている。
 
-\n\n高レベルの放射線量である。
+\n\n高レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管装置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+                \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_blood_af_aam_name">
     <text>アーティファクト高レベル活用容器／「ストーン ブラッド」</text>
@@ -83,16 +83,16 @@
     <text>圧縮し化石化した植物、土壌、動物の破片が赤みを帯び、形を成したアーティファクト。周辺の毒性物質を吸収し、使用者の血流中の全体的な毒性レベルを下げることによって、化学毒を部分的に中和することができる。化学薬品による火傷を早めるので、かなり広範囲に及んであまり効果的ではないだろう。発火性が高く、直火にさらされた場合、または自然発火した場合でも、引火する。
 \nこのアーティファクトが持つもうひとつの良い効果は、体の近くで着用すると、血液の凝固を促進する性質だ。これは危険性も内包しており、血栓は使用者の健康に害を及ぼす可能性があるので、長期間所持品にこのアーティファクトを保管しておくことはお勧めは出来ない。
 
-\n\n低レベルの放射線量である。
+\n\n低レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管装置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+                \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_mincer_meat_af_aam_name">
     <text>アーティファクト高レベル活用容器／「ミート チャンク」</text>
@@ -103,15 +103,16 @@
 \n第二に、精神波エネルギーを吸収し、若干の放射を伴う事により生体に有害な「精神波の及ぶ領域」の影響を僅かに増幅する。
 \n第三に、は生物の皮膚に良く似た電気の伝導体であることも知られている。
 
-\n\n中レベルの放射線量である。
+\n\n中レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管装置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯</text>
+                  \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_bracelet_af_aam_name">
     <text>アーティファクト高レベル活用容器／「ブレスレット」</text>
@@ -121,15 +122,16 @@
 \nそれらのpHを水のレベル（pH7）まで徐々に上げることによって、あらゆる種類の酸に対して実質的な防護を提供する。
 \n着用するとこのアーティファクトは、いくつかのミュータントの精神波アノマリーまたは精神波の有害な影響をわずかに打ち消すことも知られている。
 
-\n\n中レベルの放射線量である。
+\n\n中レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管装置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯</text>
+                  \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_baloon_af_aam_name">
     <text>アーティファクト高レベル活用容器／「バブル」</text>
@@ -139,16 +141,16 @@
                 \nまた、周囲の環境に関係なく一定の温度になる性質をもっている。これにより、周囲の熱を吸収し、炎が体を傷つけるのを防ぐことができる。 
                 \nそれ以外は非常に消極的な特性を備えていて、例えばミュータントやアノマリーによって放出される精神波の影響を増幅する。この欠点を軽く見るべきではない。何人かのストーカーの報告によると、所持している間、強い精神波の影響によると思われる割れる程の激しい頭痛が続き、苦痛に耐えるために叫ぶ事しか出来なかったと言う。
 
-      \n\n高レベルの放射線量である。
+      \n\n高レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_electra_sparkler_af_aam_name">
     <text>アーティファクト高レベル活用容器／「スパーカー」</text>
@@ -158,16 +160,16 @@
 \nアノマリー内や近くに見られることが多く、それはそれらの特定の特性を吸収したような性質がある。それは電界密度の変動を滑らかにすることができ、弱い抵抗として働き、電気アノマリーから着用者を守り、そのダメージを減らす。
 一方、このアーティファクトは酸の腐食性を高め、機器の劣化を加速させ、あらゆる生物の組織に大きなダメージを与える危険性がある。
 
-\n\n低レベルの放射線量である。
+\n\n低レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_sponge_af_aam_name">
     <text>アーティファクト高レベル活用容器／「スポンジ」</text>
@@ -177,16 +179,16 @@
 \nアーティファクトを取り巻く理論にもかかわらず、ひとつのことに同意することができる。それはこのアーティファクトが「動く」ことにある。時々それが触れる物を「つかむ」ことを試みる。それを容器に入れることは、まるでこのアーティファクトが、容器から意思を持って脱出しようとするような動きを見せるため、それらを行うことは難しい。
 \nこのアーティファクトは強力な抵抗器として働き、致命的な線量の電気を吸収する。その一方で、それは直火にさらされるか、さらには自然に燃焼するほど可燃性が高い。
 
-\n\n中レベルの放射線量である。
+\n\n中レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_ring_af_aam_name">
     <text>アーティファクト高レベル活用容器／「リング」</text>
@@ -197,16 +199,16 @@
 \n外輪は高導電性を保有している。それは相対的な源からの電流を吸収し、内輪で接地する。基本的な機能にもかかわらず、2番目のリングの中の電力の消失の背後にあるメカニズムはまだ解明されていない。
 \n別の特性として、Ringは可燃性の性質を有している。長期の曝露はその引火性を高めそしてそれを発火させることがある。
 
-\n\n中レベルの放射線量である。
+\n\n中レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_electra_flash_af_aam_name">
     <text>アーティファクト高レベル活用容器／「フラッシュ」</text>
@@ -217,16 +219,16 @@
 \n着用すると、特定のミュータントの精神波アノマリーまたは精神波の有害な影響にわずかに対抗することが知られている。強力な抵抗器として機能し、致命的な量の電気を吸収する。
 \nしかし、このアーティファクトは治癒過程を妨げるので、特に傷ついたり出血したときには注意が必要だ。このアーティファクトも非常に軽くて持ち運びに便利である。
 
-\n\n高レベルの放射線量である。
+\n\n高レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_cristall_flower_af_aam_name">
     <text>アーティファクト高レベル活用容器／「ストーン フラワー」</text>
@@ -237,16 +239,16 @@
 \nしかし、それは周囲の物体を加熱させ、極端な場合にはアーティファクトと共に発火する可能性がある。このため、このアーティファクトが熱を吸収する。
 \nこのアーティファクトは高密度であるため、アーティファクトの重量は増している。そしてそれは、ゾーンで重力アノマリーが作り出した贈り物の1つだ。
 
-\n\n低レベルの放射線量である。
+\n\n低レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_lobster_eyes_af_aam_name">
     <text>アーティファクト高レベル活用容器／「ロブスター アイ」</text>
@@ -257,16 +259,16 @@
 \n他のプラスの特性は、常に周辺の熱を消費するため、比較的に周辺温度が低くなるところだ。
 \n表面の密度のせいで、非常に重量がある。
 
-\n\n中レベルの放射線量である。
+\n\n中レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_electra_moonlight_af_aam_name">
     <text>アーティファクト高レベル活用容器／「ムーンライト」</text>
@@ -275,16 +277,16 @@
     <text>このユニークな静電アーティファクトは、精神波の影響下で共鳴する可能性がある。ストーカーはこのアーティファクトを微調整することで、エミッションの主な原因とは逆に共鳴し、その影響を中和することを学んできた。この美しいオーブは、高レベルの電気にさらされた際、体内の伝導性を低下させ、電気的な防護力を高める。
                 \nなお、直火にさらすと発火したり、自然発火したりするので注意が必要である。 
 
-                \n\n中レベルの放射線量である。
+                \n\n中レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_black_spray_af_aam_name">
     <text>アーティファクト高レベル活用容器／「ブラック スプレー」</text>
@@ -296,16 +298,16 @@
                 \nしかし、これらの有益な特性には代償が伴う。有毒な環境にさらされると、その影響が増幅し、効力が増すため、非常に危険である。有毒な場所を探索する際は、このアイテムをバックパックに入れておくことを強くお勧めする。
                 \n美しい青いオーラを放つことから、世界中の宝石商から高い人気を得ている。
 
-                \n\n高レベルの照射線出力を有する。
+                \n\n高レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_medusa_af_aam_name">
     <text>アーティファクト高レベル活用容器／「ジェリーフィッシュ」</text>
@@ -315,16 +317,16 @@
                 \nまた、炎アノマリーによって発生する高熱からも防護する。
                 \nこのアーティファクトは、重力場が質量を増加させていると思われ、非常に重い。もうひとつの欠点は精神波の影響を増大させ、さらに強力な伝導体でもある。
              
-                \n\n低レベルの照射線出力を有する。
+                \n\n低レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_vyvert_af_aam_name">
     <text>アーティファクト高レベル活用容器／「レンチ」</text>
@@ -334,16 +336,16 @@
                 \n臓器のように見えるが、実際は珊瑚に近い。重力を利用しているため、高速の物体による摩擦を大幅に軽減し、物理的な衝撃から防護する。
                 \n化学 有害物質を吸収するスポンジのような役割を果たし、外部の有毒物質、既に体内に入り込んだ化学粒子から防護する。
 
-                \n\n中レベルの照射線出力を有する。
+                \n\n中レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_empty_af_aam_name">
     <text>アーティファクト高レベル活用容器／「エンプティ」</text>
@@ -354,16 +356,16 @@
                 \nこのメカニズムのために、装備しての移動は困難である。重力場は周囲の空気の密度を高め、体を減速させる。
                 \nこの効果の真価は、摩擦を減らすことで、物理的な衝撃から大きな防護を得られることにある。
 
-                \n\n中レベルの照射線出力を有する。
+                \n\n中レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_full_empty_af_aam_name">
     <text>アーティファクト高レベル活用容器／「フル エンプティ」</text>
@@ -374,16 +376,16 @@
                 \n移動による周囲の空気の密度上昇は「エンプティ」アーティファクトに比べて大きい。そのため、所有者の動きを大きく妨げることになる。
                 \n「エンプティ」アーティファクトよりも優れたアーティファクトであるため、物理的な衝撃に対する防護が顕著である。至近距離で発射された9mmの弾丸を止めることができるという主張もある。
 
-                \n\n高レベルの照射線出力を有する。
+                \n\n高レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_night_star_af_aam_name">
     <text>アーティファクト高レベル活用容器／「ナイトスター」</text>
@@ -394,16 +396,16 @@
                 \nまた、周囲から毒や化学物質を吸収する。吸収される毒の量はごく僅かではあるが、アーティファクト ハンターにとっては有益なものとなる。しかし、比較的安価であり、所持金が少ないストーカーでも、購入する機会があれば購入できるだろう。
                 \nとはいえ、すぐ近くに熱源があると、人肉を焼いたような臭いを発する。長時間の曝露は、その燃焼性を高め、発火の原因となる可能性がある。
 
-                \n\n低レベルの照射線出力を有する。
+                \n\n低レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_gravi_af_aam_name">
     <text>アーティファクト高レベル活用容器／「グラヴィ」</text>
@@ -413,16 +415,16 @@
 		\nこのアーティファクトの危険な点は、電気の伝導性を高めることであり、このアーティファクトを身につけていると感電死する確率が非常に高くなる。
 		\nもうひとつの欠点は、精神波の悪影響を増大させることと、強力な伝導性を持つことである。
 
-                \n\n中レベルの照射線出力を有する。
+                \n\n中レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_gold_fish_af_aam_name">
     <text>アーティファクト高レベル活用容器／「ゴールドフィッシュ」</text>
@@ -434,16 +436,16 @@
                 \nこのアーティファクトは一定の重力特異場を作り、その近くにいる者だけに影響を与える。しかし、ストーカーの中にはこのアーティファクトのみを残して、忽然と姿を消してしまう者もいる。
                 \nしかし、この強力な反重力場には、大きな欠点がある : その範囲内にある移動体の速度が急激に上昇し、所有者を含む周囲の物体に強烈な衝撃を与えることになる。
 
-\n\n最高レベルの照射線出力を有する。
+\n\n最高レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_dummy_glassbeads_af_aam_name">
     <text>アーティファクト高レベル活用容器／「ママズ ビーズ」</text>
@@ -454,16 +456,16 @@
                 \n一方、電気伝導率を増加させるため、装備している間は感電する可能性が高まり、特に暴風雨の間や電気アノマリー付近では顕著である。
                 \n小さなアーティファクトではあるが、非常に重く、高密度であることを示している。
 
-                \n\n低レベルの放射線出力を有する。
+                \n\n低レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_eye_af_aam_name">
     <text>アーティファクト高レベル活用容器／「アイ」</text>
@@ -475,16 +477,16 @@
                 \nしかし、代償もある。化学的なアノマリーにさらすと、毒性を増幅させ、その能力を増大させるため、非常に危険である。従って、自殺願望がない限り、毒性のある場所を探索する際は、アーティファクトをバックパックに入れておくのが良いだろう。
                 \nこのアーティファクトは、銅と同じように電気を伝導し、その危険な効果を増幅させることから、口語では「コッパー アイ」アーティファクトとも呼ばれている。 
 
-                \n\n中レベルの放射線出力を有する。
+                \n\n中レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_fire_af_aam_name">
     <text>アーティファクト高レベル活用容器／「フレイム」</text>
@@ -496,16 +498,16 @@
                 \nまた、微量の放射性物質であっても、長時間の曝露は使用者を死に至らしめる可能性があるため、市場への導入を計画する際は、慎重に進めることを強くお勧めする。
                 \n治癒力が非常に高いため、再利用可能な医療キットと言っても良いだろう。
 
-                \n\n高レベルの放射線出力を有する。
+                \n\n高レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_dummy_battery_af_aam_name">
     <text>アーティファクト高レベル活用容器／「バッテリー」</text>
@@ -516,16 +518,16 @@
                 \n電気的性質であるため、致命的な量の電気を遮断できることで知られている。それどころか、熱を吸収し、それを他の物体に運ぶことができることに注意するべきである。
                 \n非常に軽く、携帯性に優れている。 
 
-                \n\n低レベルの放射線出力を有する。
+                \n\n低レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_dummy_dummy_af_aam_name">
     <text>アーティファクト高レベル活用容器／「シェル」</text>
@@ -538,16 +540,16 @@
                 \n直火にさらすと火がつき、自然発火することもある。これを持って熱源に近づく場合は注意が必要である。
                 \n非常に軽く、携帯性に優れている。
                 
-                \n\n中レベルの放射線出力を有する。
+                \n\n中レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_ice_af_aam_name">
     <text>アーティファクト高レベル活用容器／「スノーフレーク」</text>
@@ -559,16 +561,16 @@
                 \n大きなデメリットもある。周りのエネルギー源と相互作用し、その影響を吸収 増幅してしまう。そのため、これを持って熱源や有毒な場所、「精神波の及ぶ領域」に近づくことは自殺行為である。
                 \n雪の結晶のように軽く、持ち運びも非常に簡単である。
                 
-                \n\n高レベルの放射線出力を有する。
+                \n\n高レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_soul_af_aam_name">
     <text>アーティファクト高レベル活用容器／「ソウル」</text>
@@ -578,16 +580,16 @@
                 \nべたつくなにかを傷口に塗ると、痛みが和らぎ、治りが早くなる。
                 \nまた、精神波の影響や脳へのダメージを軽減する効果もある。しかし、所有者のパワーを吸収してしまう。このアーティファクトは高密度ではないので、それほど重くはない。
 
-                \n\n低レベルの放射線出力を有する。
+                \n\n低レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_fuzz_kolobok_af_aam_name">
     <text>アーティファクト高レベル活用容器／「コロボック」</text>
@@ -600,16 +602,16 @@
                 \n可燃性が高く、熱や酸に対する防護を弱める。
                 \n軽量で持ち運びに負担がかからない。
 
-                \n\n中レベルの放射線出力を有する。
+                \n\n中レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_glass_af_aam_name">
     <text>アーティファクト高レベル活用容器／「ファイアフライ」</text>
@@ -621,16 +623,16 @@
                 \nスタミナを吸収し、スタミナの回復量も大幅に減少する。治癒目的で使用した人の中には、その後何時間も歩けなくなったという報告もある。
                 \n残念ながら、非常に珍しいものである。
 
-                \n\n高レベルの放射線出力を有する。
+                \n\n高レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_compass_af_aam_name">
     <text>アーティファクト高レベル活用容器／「コンパス」</text>
@@ -643,14 +645,14 @@
 
                 \n\nこのアーティファクトを体に近づけると、数分で死に至る。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_oasis_heart_af_aam_name">
     <text>アーティファクト高レベル活用容器／「ハート オブ ザ オアシス」</text>
@@ -660,16 +662,16 @@
                 \n傷の回復や治癒のプロセスを劇的に向上させるだけでなく、体に強力なエネルギー源を提供する。まさに奇跡だ。
                 \nとはいえ、オアシスは外部のエネルギー源や周囲の環境に非常に敏感である。このため、アノマリー領域との接触は、所有者に死をもたらす。
 
-                \n\n最高レベルの放射線出力を有する。
+                \n\n最高レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_death_lamp_af_aam_name">
     <text>アーティファクト高レベル活用容器／「デス ランプ」</text>
@@ -682,16 +684,16 @@
                 \n事故後、このアーティファクトを調査した科学チームのメンバーは、数日後悪夢のような不調を訴えていた。
                 \n不可思議な効果とは別に、このアーティファクトは使用者の活力と意志を奪い、しばしば目眩を起こし、ひどい場合には失神してしまうほどの規模である。
 
-\n\n最高レベルの放射線出力を有する。
+\n\n最高レベルの放射能を有する。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
   <string id="st_af_misery_bread_af_aam_name">
     <text>アーティファクト高レベル活用容器／「アナマラス ブレッド」</text>
@@ -700,540 +702,540 @@
     <text>
                 鉛製の容器に入った特異なパン。これを残した人の魂のように暗い。
 
-                \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+              \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
   </string>
-<string id="st_af_cocoon_lead_box_name">
+<string id="st_af_cocoon_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「コクーン」</text>
 	</string>
-	<string id="st_af_cocoon_lead_box_descr">
+	<string id="st_af_cocoon_af_aam_descr">
 		<text>
 		重力アノマリーで形成された不定形の小型アーティファクト。その名の由来は2つある。ひとつは、その外形が毛虫の絹に似ていること。しかし、より興味深いのは、その実用性にある。身体に密着させると、鈍器や刃物で殴られるたびに反応し、繭のようなものを体にまとって、それ以上のダメージから守ってくれる。しかし、この保護機能には代償があり、コク
-		\n \n低レベルの放射線出力を有する\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \n低レベルの放射能を有する。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_cell_lead_box_name">
+	<string id="st_af_cell_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「セル」</text>
 	</string>
-	<string id="st_af_cell_lead_box_descr">
+	<string id="st_af_cell_af_aam_descr">
 		<text>
 		重力アノマリーで形成されたアーティファクト。その内部構造は、乱されない限り軸を中心に永久に回転し続ける。セルには、人間にとって特筆すべき性質がある。高速で移動する物体が近付くと部分的に分解され、その過程で大量の放射性粒子が放出される。ストーカーの中には、放射線を浴びても、弾丸で撃たれるよりはましだと、このアーティファクトを利用する者もいる。
-		\n \n高レベルの放射線出力を有する\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \n高レベルの放射能を有する。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_fountain_lead_box_name">
+	<string id="st_af_fountain_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「ファウンテン」</text>
 	</string>
-	<string id="st_af_fountain_lead_box_descr">
+	<string id="st_af_fountain_af_aam_descr">
 		<text>
 		重力アノマリーで形成された一般的なアーティファクト。その奇妙な形から、コレクターに非常に珍重されている。興味深いことに、この品物を持っていることで、ゾーンの商人たちとより良い取引ができると主張するストーカーも少なくないようだ。それが本当かどうかはまだわからないが、実際に取引した商人たちは、あまりそのことを口にしたがらない。
-		\n \n低レベルの放射線出力を有する\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \n低レベルの放射能を有する。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_spaika_lead_box_name">
+	<string id="st_af_spaika_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「スパイク」</text>
 	</string>
-	<string id="st_af_spaika_lead_box_descr">
+	<string id="st_af_spaika_af_aam_descr">
 		<text>
 		重力環境のアノマリーにより生成された、石化した木や骨のような一般的なアーティファクト。ベルトに装着して使用したストーカーによると、このアーティファクトを装着していると、ストレスの多い戦闘状況でも集中力が高まり、敵の急所に当てることができるようになるらしい。しかし、不思議なことに、このアーティファクトは撃ち漏らすと「怒り出す」とも言われており、ほとんどの人は、ゾーンが引き起こす永久的な精神分裂病を恐れて、このアーティファクトを使うことを避けている。
-		\n \n中レベルの放射線出力を有する\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \n中レベルの放射能を有する。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_signet_lead_box_name">
+	<string id="st_af_signet_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「シグネット」</text>
 	</string>
-	<string id="st_af_signet_lead_box_descr">
+	<string id="st_af_signet_af_aam_descr">
 		<text>
 		金属製のナットが歪んだように見えるアーティファクト。「アミュレット」とも呼ばれることがある。後者は、危険なゾーンへの突入の後、その存在がリラックスと再生を助けると言って、このアーティファクトを売らずに持ち続けるストーカーがいることに由来している。
-		\n \n高レベルの放射線出力を有する\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \n高レベルの放射能を有する。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_repei_lead_box_name">
+	<string id="st_af_repei_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「シスル」</text>
 	</string>
-	<string id="st_af_repei_lead_box_descr">
+	<string id="st_af_repei_af_aam_descr">
 		<text>
 		重力環境のアノマリーで頻繁に生成される。見た目はトゲトゲしいが、肉体を貫通したり損傷させることはできないようだ。最近の実験と観察では、様々な重金属と反応することが確認されており、特に鉛と反応する性質がある。負傷したストーカーや兵士の様々な医療報告によると、このアーティファクトの使用者が撃った弾丸は、体内に入ると外装の一部が削られ、鋸歯状に鋭くなり、小さいが非常に重い出血性の傷口を作るという。さらに悪いことに、「シスル」の近くにいた弾丸は、人間の血液に含まれる鉄分に触れて疼き始め、一定期間傷口が痛んで塞がらない。
-		\n \nこのアーティファクトは放射線出力を有さない\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \nこのアーティファクトは放射能を有さない。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_bat_lead_box_name">
+	<string id="st_af_bat_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「バット」</text>
 	</string>
-	<string id="st_af_bat_lead_box_descr">
+	<string id="st_af_bat_af_aam_descr">
 		<text>
 		光沢のある球状のコアを2枚の不規則な形状の「翼」で保護した、希少で美しいアーティファクト。放射線を出さず、かなり重い。経験豊富なアーティファクトハンターは、その特殊能力をうまく利用する方法を学んでいる。一度起動し、他のアーティファクトに近づけると、バットは「翼」を伸ばし、それを掴んでコアに押し込むと、それを閉じる。その後、殻は塵となり、より強力な特性を持つアーティファクトや、時には全く別のアーティファクトが出現する。
-		\n \nこのアーティファクトは放射線出力を有さない\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \nこのアーティファクトは放射能を有さない。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_sun_lead_box_name">
+	<string id="st_af_sun_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「サン」</text>
 	</string>
-	<string id="st_af_sun_lead_box_descr">
+	<string id="st_af_sun_af_aam_descr">
 		<text>
 		コレクターに大変喜ばれる希少なアーティファクト。外側のシェルは目立たないが、ジオードのように割ると、暖かい黄色の光を放つ、渦を巻くような発光体のコアが現れる。それは太陽の光に反応し、太陽光を浴びるとエネルギー源になる。また、太陽光から遠ざかると、近くの生物からエネルギーを奪い、徐々に消耗していく。
-		\n \n高レベルの放射線出力を有する\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \n高レベルの放射能を有する。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_ear_lead_box_name">
+	<string id="st_af_ear_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「ハート」</text>
 	</string>
-	<string id="st_af_ear_lead_box_descr">
+	<string id="st_af_ear_af_aam_descr">
 		<text>
 		結晶のコア部分が人間の循環系に似ている、奇妙な形のアーティファクト。瀕死の生物や人間を癒すことができるという噂が広まって以来、外部に販売するため、またゾーン内での生存を確保するために、このアーティファクトを手に入れることへの関心が急速に高まっている。
-		\n \nこのアーティファクトは放射線出力を有さない\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \nこのアーティファクトは放射能を有さない。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_chelust_lead_box_name">
+	<string id="st_af_chelust_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「チェーン」</text>
 	</string>
-	<string id="st_af_chelust_lead_box_descr">
+	<string id="st_af_chelust_af_aam_descr">
 		<text>
 		指輪と似ている、珍しい円形のアーティファクト。何も触れていないのに強い重力場が発生する。一見、その重さに比例しない疲労感や痛みの軽減を所有者にもたらす。しかし、ヴァイラジとマスターズに人生を捧げた者は、このアーティファクトの潜在能力を真に理解することができる。
-		\n \nこのアーティファクトは放射線出力を有さない\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \nこのアーティファクトは放射能を有さない。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_atom_lead_box_name">
+	<string id="st_af_atom_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「アトム」</text>
 	</string>
-	<string id="st_af_atom_lead_box_descr">
+	<string id="st_af_atom_af_aam_descr">
 		<text>
 		ボーアの原子模型に似た、珍しいアーティファクト。放射性物質ではないが、少量の熱を発生する。その形と性質から、コレクターや科学者にとって非常に価値のあるものである。不運な被爆により大量の放射線を浴びたストーカーが、このアーティファクトを使用すると、突然、生命力が回復し、若さを取り戻したかのように見えると言われる。時間が経つと効果は薄れるが、体内に蓄積された放射線も減少する。
-		\n \n高レベルの放射線出力を有する\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \n高レベルの放射能を有する。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_lighthouse_lead_box_name">
+	<string id="st_af_lighthouse_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「ビーコン」</text>
 	</string>
-	<string id="st_af_lighthouse_lead_box_descr">
+	<string id="st_af_lighthouse_af_aam_descr">
 		<text>
 		超高密度の鉄の塊。ゾーンの中で最も謎の多いアーティファクトで、その内部構造は現代科学の最先端を圧倒している。「ビーコン」は、殺意と因果関係が明確であれば、生物同士の距離に関係なく、殺人を検知することができる。その結果、殺人者は被害者が息を引き取った場所にほとんど瞬時に「テレポート」されるという、不思議な現象が起きる。
-		\n \nこのアーティファクトは放射線出力を有さない\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \nこのアーティファクトは放射能を有さない。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_fire_loop_lead_box_name">
+	<string id="st_af_fire_loop_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「ノット」</text>
 	</string>
-	<string id="st_af_fire_loop_lead_box_descr">
+	<string id="st_af_fire_loop_af_aam_descr">
 		<text>
 		このアーティファクトを生成するための条件は、熱的アノマリーの密接な影響である。このアーティファクトには様々な伝説があり、そのほとんどがストーカーに恐れられているため、決して手に取ることができない。しかし、「結び目」を作った者は、その「結び目」を消すことができなかったと言われている。ほかに、信頼性に欠ける情報として、超人的な能力、声の聞き取り、乱暴な振る舞い、奇妙な失踪などがある。
-		\n \n低レベルの放射線出力を有する\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \n低レベルの放射能を有する。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_zhelch_lead_box_name">
+	<string id="st_af_zhelch_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「スカー」</text>
 	</string>
-	<string id="st_af_zhelch_lead_box_descr">
+	<string id="st_af_zhelch_af_aam_descr">
 		<text>
 		「健全な精神は健全な肉体に宿る」という言葉は、誰もが知っている。ゾーンはそれをアーティファクト化した。昔はストーカーが傷を癒すために スカーズを利用したり、意識障害の調査をした。しかし時が経つにつれ 不吉な面も出てきた。スカーを使う者は奇妙で異常な行動をとるようになり、体に受けた深刻なダメージから回復するときはなおさらであった。現在では、ベルトに装着する蛮勇はほとんどいない。ゾーンのベテランたちは、キャンプファイヤーの周りに集まった新人に、スカー使用者についてのゾッとするような話を聞かせるのを楽しんでいる。
-		\n \nこのアーティファクトは放射線出力を有さない\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \nこのアーティファクトは放射能を有さない。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_sandstone_lead_box_name">
+	<string id="st_af_sandstone_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「サンドストーン」</text>
 	</string>
-	<string id="st_af_sandstone_lead_box_descr">
+	<string id="st_af_sandstone_af_aam_descr">
 		<text>
 		極度な高温の場所で生成されることがあるアーティファクト。現在でもその仕組みは不明だが、サンドストーンは使用者の武器を識別する知能を有しているようだ。武器とリンクすると、その武器と相互作用する異常な要素を探し出し、最も致命的な要素に対応する異常な特性を吹き込み、より大きなダメージを与えることができる。
-		\n \n高レベルの放射線出力を有する\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \n高レベルの放射能を有する。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_kislushka_lead_box_name">
+	<string id="st_af_kislushka_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「サウアプス」</text>
 	</string>
-	<string id="st_af_kislushka_lead_box_descr">
+	<string id="st_af_kislushka_af_aam_descr">
 		<text>
 		表面は透明である種の羊皮紙のような球体であり、内部は中空になってる。フィルム層で覆われており、触り心地が良い。血液が付着すると活性化し、カロリーを消費することで得られるエネルギーを利用して、出血した傷口をより早く凝固させ、塞ぐための成分を分泌させる。そのため、医療分野での人気が高く、高値で取引されている。
-		\n \n低レベルの放射線出力を有する\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \n低レベルの放射能を有する。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_black_angel_lead_box_name">
+	<string id="st_af_black_angel_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「ブラック エンジェル」</text>
 	</string>
-	<string id="st_af_black_angel_lead_box_descr">
+	<string id="st_af_black_angel_af_aam_descr">
 		<text>
 		異常な鉱物が不吉な半対称の形にねじれたアーティファクト。熱や放射線を発しないが、近くの空気中の水蒸気を凝縮して蒸気にすることができる。何らかの防御システムを持っているようだ。弾丸が当たると、どこから撃ってきたかを検知し、その弾丸を撃った者に返すことができる。
-		\n \n高レベルの放射線出力を有する\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \n高レベルの放射能を有する。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_grapes_lead_box_name">
+	<string id="st_af_grapes_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「グレープ</text>
 	</string>
-	<string id="st_af_grapes_lead_box_descr">
+	<string id="st_af_grapes_af_aam_descr">
 		<text>
 		わずかに緑がかった色をしたねじれた琥珀のような物質。強力なアノマリーによって生成されており、非常に重い。グレープは、生物の進行中の消化プロセスに対し活性化し、所有者の新陳代謝を刺激して、より効果的に治癒する。 
-		\n \nこのアーティファクトは放射線出力を有さない\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \nこのアーティファクトは放射能を有さない。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_skull_miser_lead_box_name">
+	<string id="st_af_skull_miser_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「マイザーズ スカル」</text>
 	</string>
-	<string id="st_af_skull_miser_lead_box_descr">
+	<string id="st_af_skull_miser_af_aam_descr">
 		<text>
 		植物繊維の異常な束が連なった、軽くて壊れやすいアーティファクト。このアーティファクトは、ゾーンに住み着いた様々な悪人の間で人気があり、彼らからは「小さな願いの叶え手」と呼ばれることもある。このアーティファクトの使用者が脳を傷つけて人を殺すと、ゾーンは報酬として被害者の周りに通貨を落とす。ゾーンはストーカーに殺し合いをさせることで、平和を保っているのだと言う人もいる。また、「人を殺したくないなら、あんなにお金持ちになるはずがない」と言う者もいる。
-		\n \nこのアーティファクトは放射線出力を有さない\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \nこのアーティファクトは放射能を有さない。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_star_phantom_lead_box_name">
+	<string id="st_af_star_phantom_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「ファントム スター」</text>
 	</string>
-	<string id="st_af_star_phantom_lead_box_descr">
+	<string id="st_af_star_phantom_af_aam_descr">
 		<text>
 		縞模様のある透明な殻の中に、プラズマのような物質が浮遊しているように見えるアーティファクト。弱い重力場を発生させ、静止やバランスをとるのが難しい。ファントムスターが作動すると、近くにいる生物の精神に影響を与えるようで、何らかの物理的な作用が発生するまで、使用者が気付かれなくなる。また、持ち主を操り、敵対心を抱かせないようにする。
-		\n \nこのアーティファクトは放射線出力を有さない\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \nこのアーティファクトは放射能を有さない。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_medallion_lead_box_name">
+	<string id="st_af_medallion_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「メダル」</text>
 	</string>
-	<string id="st_af_medallion_lead_box_descr">
+	<string id="st_af_medallion_af_aam_descr">
 		<text>
 		小さな輪っかに4つの三角形が埋め込まれたアーティファクトで、中央に小さな球体が埋め込まれている。メダルの内部構造を論理的に説明しようとする試みはすべて失敗に終わっている。このアーティファクトは、使用者が集団の一員であるかどうかを見分けることができるだけでなく、もっと不思議な能力を持っている。物体を操るのか、それとも肉体そのものを操るのかはまだわからないが、このアーティファクトを使った人間が傷つけられそうになったとき、同じようなダメージをその人間の仲間の誰かに与えて、本人が無事という現象はよく知られている。このような効果は利己的な意味では望ましいかもしれないが、ストーカーの間では、自分がさらされていることを快く思わない人も多いだろう。
-		\n \n中レベルの放射線出力を有する\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \n中レベルの放射能を有する。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_peas_lead_box_name">
+	<string id="st_af_peas_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「ムーン」</text>
 	</string>
-	<string id="st_af_peas_lead_box_descr">
+	<string id="st_af_peas_af_aam_descr">
 		<text>
 		月の三日月のような形状のアーティファクト。外側のシェルは非常に薄暗い光を発し続け、使用者を刺激しているように見える。夜間は安らぎと活力を与えてくれるが、昼間は逆効果となる。
-		\n \n中レベルの放射線出力を有する\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \n中レベルの放射能を有する。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_generator_lead_box_name">
+	<string id="st_af_generator_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「ジェネレーター」</text>
 	</string>
-	<string id="st_af_generator_lead_box_descr">
+	<string id="st_af_generator_af_aam_descr">
 		<text>
 		この異常な円盤は放射性物質ではなく、強力で小さな電磁場を発生させる。この円盤は、特にユーザーが高速で移動しているとき、その軸の上で永久に「回転」させることができる。その際、このアーティファクトのエネルギーは、近くの消耗したバッテリーやデバイスに接続され、充電が残っていれば、ゆっくりと電力を回復させることができる。
-		\n \n低レベルの放射線出力を有する\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \n低レベルの放射能を有する。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_ball_lead_box_name">
+	<string id="st_af_ball_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「ボール」</text>
 	</string>
-	<string id="st_af_ball_lead_box_descr">
+	<string id="st_af_ball_af_aam_descr">
 		<text>
 		土と岩でできた斑点のような球体でありながら、異様に軽く、弾力があるため、この名がついた。電気アノマリーの産物であると考えられている。ベルトに装着することで力を発揮し、なぜか人間を除く生物を撃退することができる。この力を解放するためには、使用者とターゲットの間に高速で強い動きが必要であり、それゆえ、これを使用するストーカーのほとんどは、単に様々なミュータントを蹴ることに頼るのである。もちろん、ゾーンの住人に近づくことは望ましくないこと。とはいうものの、あなたは留まれるか？
-		\n \n低レベルの放射線出力を有する\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \n低レベルの放射能を有する。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_fonar_lead_box_name">
+	<string id="st_af_fonar_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「ランプ」</text>
 	</string>
-	<string id="st_af_fonar_lead_box_descr">
+	<string id="st_af_fonar_af_aam_descr">
 		<text>
 		この軽くてガラスのようなアーティファクトは、近紫外光を適度に放射する。特定の電波に奇妙な反応を示し、様々な電波の発信源を発光させる。ストーカーはこの性質を利用して、夜間に隠し場所を探す傾向がある。
-		\n \nこのアーティファクトは放射線出力を有さない\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \nこのアーティファクトは放射能を有さない。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_tapeworm_lead_box_name">
+	<string id="st_af_tapeworm_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「テープワーム」</text>
 	</string>
-	<string id="st_af_tapeworm_lead_box_descr">
+	<string id="st_af_tapeworm_af_aam_descr">
 		<text>
 		このアーティファクトは純粋な二酸化ケイ素で、重力のアノマリーによって変わった形と色にねじ曲げられたものだ。このアーティファクトは、ある事実を除けば、他には何の変哲もないものである。起動すると、直接接触して攻撃してきた生物に強い電気ショックを与え、短時間のうちに麻痺させることができる。また、ゾーンのほとんどのものがそうであるように、このアーティファクトの持ち主を攻撃すると、持ち主本人も含めて見境なく発動される。ミュータントを狩ることを生業とするストーカーに重宝されている。
-		\n \nこのアーティファクトは放射線出力を有さない\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \nこのアーティファクトは放射能を有さない。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_moh_lead_box_name">
+	<string id="st_af_moh_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「モス」</text>
 	</string>
-	<string id="st_af_moh_lead_box_descr">
+	<string id="st_af_moh_af_aam_descr">
 		<text>
 		電気アノマリーで形成されたアーティファクト。見た目は鋭利なギザギザだが、実は非常に柔らかく、手触りが良い。ベルトに装着することで、使用者の胃の中身を感知することができる。消化器官内にあるゾーン由来の生肉を認識すると起動し、肉のエネルギー値を利用して、摂取した生物の種類に応じて様々な効果を発揮する。
-		\n \nこのアーティファクトは放射線出力を有さない\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \nこのアーティファクトは放射能を有さない。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_serofim_lead_box_name">
+	<string id="st_af_serofim_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「セラフィム」</text>
 	</string>
-	<string id="st_af_serofim_lead_box_descr">
+	<string id="st_af_serofim_af_aam_descr">
 		<text>
 		セラフィムは長い間、売られるきれいな玉に過ぎないと思われていた。しかし、あるベテランのストーカー集団が、遠征から帰ってきて、自分たちの話をするまではそうであった。彼らの話によると、旅の途中、あるとき狙撃手に待ち伏せされたそうだ。リーダーは即座に倒され、頭蓋骨が真っ二つになって死んでしまった。だが彼はヘルメットにはスナイパーの弾丸の痕が残っているにも関わらず、傷一つない状態で立ち上がっていた。彼らは何とか退却し、リーダーが幸運のお守りとして持っていたセラフィムのアーティファクトがなくなり、光る塵が残っているのを発見した。それ以来、この話を聞いた人々は、そのアーティファクトが最悪の事態を引き起こしたときに、死から蘇らせてくれると信じて、セラフィムを大切にするようになった。もちろん、この話が本当に正しいかどうかを確かめる勇気ある人は今のところいない。
-		\n \n高レベルの放射線出力を有する\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \n高レベルの放射能を有する。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_elektron_lead_box_name">
+	<string id="st_af_elektron_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「エレクトロン」</text>
 	</string>
-	<string id="st_af_elektron_lead_box_descr">
+	<string id="st_af_elektron_af_aam_descr">
 		<text>
 		このアーティファクトは、電気アノマリーの産物である。小さいながらも非常に重い。一つ特殊な性質がある。このアーティファクトは、一般的な電気アノマリーと、近くで見つけた他の種類の電荷を結合し、アノマリーを電源として使用することができるのだ。最も興味深いのは、人体を電池とみなし、運動時に人体細胞が利用できるエネルギーに変換している点だ。そのため、辛い思いをしながらだが、短時間で疲れ知らずの体を手に入れることができる。副作用はまだ報告されていないが......。
-		\n \nこのアーティファクトは放射線出力を有さない\n \n
-	  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \nこのアーティファクトは放射能を有さない。\n \n
+	    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_kogot_lead_box_name">
+	<string id="st_af_kogot_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「クロウ」</text>
 	</string>
-	<string id="st_af_kogot_lead_box_descr">
+	<string id="st_af_kogot_af_aam_descr">
 		<text>
 		美しいガラス状で電気アノマリーから形成される。使用すると、使用者は怒りと欲望に満ち溢れ、敵を直接攻撃することで活力を得ることができる。このアーティファクトにまつわるエピソードとして、ある新人が友人と一緒にクロウを見つけたが、その直後に飢えた「ドッグ」の群れに追いかけられたというものがある。しかし、その直後に飢えた「ドッグ」の群れに追われ、「友人」はルーキーを撃って逃げ出し、ルーキーは絶体絶命となる。驚いたことに、裏切られたストーカーは、犬に噛まれて服は完全に破れていたものの、ナイフとベルトにぶら下がったアーティファクトだけを持って、無傷の状態でキャンプに帰ってきたのである。裏切り者がどうなったかは、言うまでもないだろう。
-		\n \n中レベルの放射線出力を有する\n \n
-	  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \n中レベルの放射能を有する。\n \n
+	    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 	
-	<string id="st_af_dragon_eye_lead_box_name">
+	<string id="st_af_dragon_eye_af_aam_name">
 		<text>アーティファクト高レベル活用容器／「ドラゴンズアイ」</text>
 	</string>
-	<string id="st_af_dragon_eye_lead_box_descr">
+	<string id="st_af_dragon_eye_af_aam_descr">
 		<text>
 		このアーティフェクトはほとんどが炎アノマリーのようなもので形成され、爬虫類の目のように見える。非常に危険で不安定な性質を持っている。このアーティファクトの使用者が殺しを行ったとき、わずかな確率で犠牲者の体内で大きな爆発が起こり、近くにいる人や物を殺したり傷つけたりする。迷信的な人は、ゾーンが死亡した者の魂を激しく引き裂いていると言う。しかし、この爆発に巻き込まれる人が多いため、ほとんどの人はこのアーティファクトの使用を避ける。
-		\n \n高レベルの放射線出力を有する\n \n
-		  \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23［mSv］
-                %c[ui_white] ・ 状態 : 満杯
-                </text>
+		\n \n高レベルの放射能を有する。\n \n
+		    \n\n%c[ui_gray_2]特性 : 
+                \n%c[d_cyan] ・ 技術品
+                \n%c[d_cyan] ・ 貴重品
+                \n%c[ui_white] ・ アーティファクト保管装置
+                \n%c[ui_white] ・ 最大容量 : 1
+                \n%c[ui_white] ・ 許容放射線レベル : 23［mSv］
+                \n%c[ui_white] ・ 状態 : 満杯
+                \n</text>
 	</string>
 
 </string_table>
