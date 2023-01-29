@@ -51,10 +51,10 @@
 		</text>
 	</string>
 	
-	<string id="st_af_kevlar_up_name">
+	<string id="st_af_new_kevlar_up_name">
 		<text>強化ケブラー装甲板</text>
 	</string>
-	<string id="st_af_kevlar_up_descr">
+	<string id="st_af_new_kevlar_up_descr">
 		<text>ケブラープレートは、その保護性能で広く知られており、驚異的な強度対重量比で高い評価を得ている。ケブラープレートにはさまざまな特性があるが、最も重要なのは胴体の前面と背面にある銃弾の衝撃を吸収することだ。非常に軽量で小口径の拳銃弾には有効だが、中口径以上の銃弾では簡単に貫通する。\n \n
 		%c[ui_gray_2]特性:\n
 		%c[d_cyan] ・%c[ui_gray_2] 軍用品\n
