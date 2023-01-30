@@ -10,7 +10,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ ナイフや刃物
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ ツールキット
                 \n%c[d_blue] ・ 高品質
@@ -26,7 +26,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ すべての武器
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 速い使用時間（スプレー式潤滑剤）
                 \n%c[d_blue] ・ 高品質
@@ -42,7 +42,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ すべての武器
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 液体ガンオイルと洗浄液
                 \n%c[d_orange] ・ 装備品の修理に使用\n</text>
@@ -57,7 +57,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ すべての武器
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 液体ガンオイル
                 \n%c[d_orange] ・ 装備品の修理に使用\n</text>
@@ -72,7 +72,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ すべての武器
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 銃器洗浄液
                 \n%c[d_blue] ・ 高品質
@@ -89,7 +89,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 9mm、.45、.357口径の銃器
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 高品質
                 \n%c[d_orange] ・ 装備品の修理に使用\n</text>
@@ -104,7 +104,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 12 ゲージの銃器
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 高品質
                 \n%c[d_orange] ・ 装備品の修理に使用\n</text>
@@ -119,7 +119,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 5.45mm、5.56mm口径の銃器
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 高品質
                 \n%c[d_orange] ・ 装備品の修理に使用\n\n</text>
@@ -134,7 +134,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 7.62mm、7.92mm、9x39mm、.338口径の銃器
                 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 高品質
                 \n%c[d_orange] ・ 装備品の修理に使用\n</text>
@@ -149,7 +149,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 全ての銃器
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 高品質
                 \n%c[d_orange] ・ 装備品の修理に使用\n</text>
@@ -164,7 +164,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 9mm、.45mm、.357口径の銃器
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 貴重品
                 \n%c[d_orange] ・ 装備品の修理に使用\n</text>
@@ -179,7 +179,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 12ゲージの銃器
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 貴重品
                 \n%c[d_orange] ・ 装備品の修理に使用\n</text>
@@ -194,7 +194,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 5.45mm、5.56mm口径の銃器
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 貴重品
                 \n%c[d_orange] ・ 装備品の修理に使用\n</text>
@@ -209,7 +209,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 7.62mm、7.92mm、9x39mm、.338口径の銃器
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 貴重品
                 \n%c[d_orange] ・ 装備品の修理に使用\n</text>
@@ -220,7 +220,7 @@
   <string id="st_repair_kit_p_empty_descr">
     <text>9mm、.45、.357口径の銃器の整備と修理、および予備部品が入っていた空の金属ケース。スーツの金属部分の補修に使えそうだ。低価格だが取引できる。
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品\n</text>
   </string>
   <string id="st_repair_kit_s_empty">
@@ -229,7 +229,7 @@
   <string id="st_repair_kit_s_empty_descr">
     <text>12ゲージ口径の銃器の整備と修理、および予備部品が入っていた空の金属ケース。スーツの金属部分の補修に使えそうだ。低価格だが取引できる。
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品\n</text>
   </string>
   <string id="st_repair_kit_r5_empty">
@@ -238,7 +238,7 @@
   <string id="st_repair_kit_r5_empty_descr">
     <text>5.45mmと5.56mm口径の銃器の整備と修理、および予備部品が入っていた空の金属ケース。装備品の金属部分の補修に使えそうだ。低価格だが取引できる。
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品\n</text>
   </string>
   <string id="st_repair_kit_r7_empty">
@@ -247,7 +247,7 @@
   <string id="st_repair_kit_r7_empty_descr">
     <text>大口径の銃器の整備と修理、および予備部品が入っていた空の金属ケース。スーツの金属部分の補修に使えそうだ。低価格だが取引できる。
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品\n</text>
   </string>
   <string id="st_sewing_kit_b">
@@ -260,7 +260,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 全てのスーツとヘッドギアセット
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_orange] ・ 装備品の修理に使用\n</text>
   </string>
@@ -274,7 +274,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 全てのスーツとヘッドギアセット
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_orange] ・ 装備品の修理に使用\n</text>
   </string>
@@ -288,7 +288,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 全てのスーツと軽装ヘッドギアセット
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 高品質
                 \n%c[d_blue] ・ 貴重品
@@ -304,7 +304,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 全てのスーツと軽装ヘッドギアセット
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_orange] ・ 装備品の修理に使用\n</text>
   </string>
@@ -318,7 +318,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 全てのスーツとヘッドギアセット
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_orange] ・ 装備品の修理に使用\n</text>
   </string>
@@ -332,7 +332,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 全てのスーツとヘッドギアセット
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 高品質
                 \n%c[d_blue] ・ 貴重品
@@ -348,7 +348,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 全てのスーツと軽装ヘッドギアセット
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 速い使用時間（粘着テープ）
                 \n%c[d_orange] ・ 装備品の修理に使用\n</text>
@@ -363,7 +363,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 中／重量ヘッドギアセット
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 高品質
                 \n%c[d_blue] ・ 貴重品
@@ -379,7 +379,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 全てのスーツとヘッドギアセット
                 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 高品質
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 貴重品
@@ -396,7 +396,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 超軽装アーマーと軽装アーマー
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 高品質
                 \n%c[d_blue] ・ 貴重品
@@ -414,7 +414,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 中装アーマー
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 高品質
                 \n%c[d_blue] ・ 貴重品
@@ -430,7 +430,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 重装アーマー
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 高品質
                 \n%c[d_blue] ・ 貴重品
@@ -447,7 +447,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 強化外骨格
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 高品質
                 \n%c[d_blue] ・ 貴重品
@@ -463,7 +463,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 武器部品
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 %c[d_purple] ・ アイテム分解用ツール
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ 高品質
@@ -479,7 +479,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 武器部品
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ ツールキット
                 \n%c[d_blue] ・ 高品質
@@ -495,7 +495,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ 武器部品
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ ツールキット
                 \n%c[d_blue] ・ 高品質
@@ -511,7 +511,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ スーツ部品
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 日用品
                 \n%c[d_orange] ・ スーツ部品のメンテナンスに使用\n</text>
   </string>
@@ -525,7 +525,7 @@
                 \n\n%c[ui_gray_2]使用の対象になるアイテム : 
                 \n%c[d_orange] ・ スーツ部品
 
-                \n\n%c[ui_gray_3]特性 : 
+                \n\n%c[ui_gray_3]特性: 
                 \n%c[d_blue] ・ 技術品
                 \n%c[d_blue] ・ ツールキット
                 \n%c[d_blue] ・ 高品質

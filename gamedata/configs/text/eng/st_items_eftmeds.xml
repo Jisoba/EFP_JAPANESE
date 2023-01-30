@@ -58,7 +58,7 @@
 	</string>
 	<string id="st_survival_kit_eft_descr">
 		<text>より優れたツールを追加した、野外手術キット。戦場での重傷を負った手足を治療することができる。\n \n
-		%c[ui_gray_3]PROPERTIES:\n
+		%c[ui_gray_3]特性:\n
 		%c[d_blue] ・%c[d_blue] 応急処置 %c[ui_gray_2]腕%c[d_blue] 60% %c[ui_gray_2]脚%c[d_blue] 60% \n
 		%c[d_blue] ・%c[ui_gray_2] 手術キット\n
 		%c[d_blue] ・%c[ui_gray_2] 輸入品\n

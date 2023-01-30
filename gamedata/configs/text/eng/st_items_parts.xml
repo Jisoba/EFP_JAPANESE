@@ -124,7 +124,7 @@ ITEMS
   <string id="st_prt_i_triggermechanism_descr">
     <text>どの銃の物かは分からない引き金の部品。引き金の部品はどの銃も非常に似ており、削ったり調整することでほとんどの銃に代用が出来る。\n \n
 
-%c［ui_gray_2］特性 : 
+%c［ui_gray_2］特性: 
 \n%c［d_cyan］ ・ 基本素材\n \n</text>
   </string>
   <string id="st_prt_i_spring">
@@ -133,7 +133,7 @@ ITEMS
   <string id="st_prt_i_spring_descr">
     <text>どの銃の物かは分からないが、引き金の部分、もしくは銃内部の小さなバネ。おそらくほとんどすべての小さなバネと置き換えることが出来るだろう。\n \n
 
-%c［ui_gray_2］特性 : 
+%c［ui_gray_2］特性: 
 \n%c［d_cyan］ ・ 基本素材\n \n</text>
   </string>
   <string id="st_prt_i_pistolgrip">
@@ -142,7 +142,7 @@ ITEMS
   <string id="st_prt_i_pistolgrip_descr">
     <text>どの銃の物かは分からない、拳銃のグリップ。ゴムでコーティングされた柄は、調整および成形することでほぼ全ての銃に代替が出来る。\n \n
 
-%c［ui_gray_2］特性 : 
+%c［ui_gray_2］特性: 
 \n%c［d_cyan］ ・ 基本素材\n \n</text>
   </string>
 

@@ -486,7 +486,7 @@
 	<string id="st_knife_6x4_descr">
 		<text>
 			95H18鋼を鍛造し、上質なウッドハンドルと真鍮製のガードを備えたBars A-2607ナイフ。\n \n
-			%c[ui_gray_3]特性 : \n
+			%c[ui_gray_3]特性: \n
 			%c[d_blue] ・%c[ui_gray_2] 軍用品\n
 			%c[d_blue] ・%c[ui_gray_2] 近接武器\n
 			%c[d_red] ・%c[ui_gray_2] 厚い皮を持つミュータントを剥ぐのには向いていない\n \n
@@ -499,7 +499,7 @@
 	<string id="st_knife_needle_descr">
 		<text>
 			6H5は、1989年にAK74用の標準品として採用された銃剣だ。\n \n
-			%c[ui_gray_3]特性 : \n
+			%c[ui_gray_3]特性: \n
 			%c[d_blue] ・%c[ui_gray_2] 軍用品\n
 			%c[d_blue] ・%c[ui_gray_2] 近接武器\n
 			%c[d_red] ・%c[ui_gray_2] 厚い皮を持つミュータントを剥ぐのには向いていない\n \n
@@ -512,7 +512,7 @@
 	<string id="st_knife_hunting_descr">
 		<text>
 			ハイカーボン鋼から作られたサバイバルマチェット。\n \n
-			%c[ui_gray_3]特性 : \n
+			%c[ui_gray_3]特性: \n
 			%c[d_blue] ・%c[ui_gray_2]狩猟品\n
 			%c[d_blue] ・%c[ui_gray_2] 近接武器\n
 			%c[pda_green] ・%c[ui_gray_2] 厚い皮を持つミュータントを剥ぐことができる\n \n
@@ -525,7 +525,7 @@
 	<string id="st_knife_swat_descr">
 		<text>
 			UVSR「救助活動用具」タイガ-1。まさに万能のサバイバルツール。武器であり、シャベルであり、斧であり、あらゆる用途に対応できる。ソビエト連邦で様々な機関のために開発・生産された。\n \n
-			%c[ui_gray_3]特性 : \n
+			%c[ui_gray_3]特性: \n
 			%c[d_blue] ・%c[ui_gray_2] 軍用品\n
 			%c[d_blue] ・%c[ui_gray_2] 近接武器\n
 			%c[pda_green] ・%c[ui_gray_2] 厚い皮を持つミュータントを剥ぐことができる\n \n
@@ -538,7 +538,7 @@
 	<string id="st_knife_combat_descr">
 		<text>
 			屋外や農作業用に用いられる斧。\n \n
-			%c[ui_gray_3]特性 : \n
+			%c[ui_gray_3]特性: \n
 			%c[d_blue] ・%c[ui_gray_2] 軍用品\n
 			%c[d_blue] ・%c[ui_gray_2] 近接武器\n
 			%c[pda_green] ・%c[ui_gray_2] 厚い皮を持つミュータントを剥ぐことができる\n \n
@@ -551,7 +551,7 @@
 	<string id="st_axe3_descr">
 		<text>
 			ハンマーの頭にウレタンコーティングを施すことでスチールボールによる「ドスン」という衝撃を緩和し、柄への振動反動を軽減したハンマー。\n \n
-			%c[ui_gray_3]特性 : \n
+			%c[ui_gray_3]特性: \n
 			%c[d_blue] ・%c[ui_gray_2] everyday item\n
 			%c[d_blue] ・%c[ui_gray_2] 近接武器\n
 			%c[pda_green] ・%c[ui_gray_2] greater reach compared to knives\n \n
