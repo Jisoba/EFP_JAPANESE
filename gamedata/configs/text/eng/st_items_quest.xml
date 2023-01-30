@@ -113,7 +113,7 @@
   <string id="quest_package_desc">
     <text>このパッケージの内容は不明だ。
 
-\n%c[ui_gray_3]特性 : 
+\n%c[ui_gray_3]特性: 
 %c[d_blue] ・ 私物
 %c[d_blue] ・ 貴重品</text>
   </string>
@@ -123,7 +123,7 @@
   <string id="st_jup_b32_scanner_device_desc">
     <text>このケースは、アーティファクト探知機、バッテリー、強力な送信機を組み合わせたものだ。機器はアノマリーをスキャンして、表示されるアーティファクトの数とタイプを判別する。これらの情報はすべて、科学者の研究所（掩体壕）に自動的に中継される。
 
-\n%c[ui_gray_3]特性 : 
+\n%c[ui_gray_3]特性: 
 %c[d_blue] ・ 技術品</text>
   </string>
   <string id="mlr_strelok_item_01">
