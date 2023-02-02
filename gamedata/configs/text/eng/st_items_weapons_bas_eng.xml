@@ -462,7 +462,7 @@
     <string id="st_wpn_fal_aus_descr">
 		<text>アメリカのDSA（David Selveggio Arms）社が製造したSA-58は、StG-58と同じSteyr-Daimler-Puch社の生産ラインを使用して作られたFALの合法コピーである。バレル長は21インチで、オーストリア製フォアグリップ、アルミ合金製ロアレシーバー、改良型強化ガラス繊維入りナイロン製構造物など、「オーストリア・スタイル」である。軍や警察で使用され、フルオートも可能。DSA-58は、メートル法のFAL用マガジンを使用することができる。\n
 	    %c[ui_gray_2]アタッチメント: \n
-		%c[d_purple] ・%c[ui_gray_2] タクティカルキットによるアップグレードが可能s \n \n
+		%c[d_purple] ・%c[ui_gray_2] タクティカルキットによるアップグレードが可能\n
 		%c[d_purple] ・%c[ui_gray_2] サイレンサー: AAC 7.62 SDN-6 \n \n</text>
     </string>	
 
