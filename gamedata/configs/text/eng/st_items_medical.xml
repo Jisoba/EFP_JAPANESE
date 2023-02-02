@@ -12,11 +12,11 @@
 	<string id="st_antirad_descr">
 		<text>メキサミン放射線治療薬はゾーンでは一般的だ。使用すると放射線被曝を防ぐが、末梢血管の収縮と酸素欠乏を誘発する。稀に軽度の吐き気、目まい、胃痛等の症状が表れるが深刻な副作用は無い。\n \n
 		%c[ui_gray_3]影響:\n
-		%c[d_red] • %c[ui_gray_2] 体力の5%を消耗\n
+		%c[d_red] ・ %c[ui_gray_2] 体力の5%を消耗\n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 薬品\n
-		%c[d_blue] • %c[ui_gray_2] 輸入品\n
-		%c[d_blue] • %c[ui_gray_2] 即効性 (注射器)\n
+		%c[d_blue] ・ %c[ui_gray_2] 薬品\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・ %c[ui_gray_2] 即効性 (注射器)\n
 		</text>
 	</string>
 	<string id="st_bandage">
@@ -26,9 +26,9 @@
 		<text>出血を止め傷口からの感染を防止するための伸縮性の包帯。出血を伴う創傷へ確実に巻くこと。動脈からの出血の場合は、血管を押えるように患部の周りを包帯で結びつける。傷口の止血や感染予防に使用する伸縮性のある軍用包帯です。通常の出血には、傷口に注意深く貼ってください。動脈性出血の場合は、緊急に患部を包帯で縛る。\n \n
 		%c[ui_gray_3]特性:\n
 		%c[d_blue] ・%c[d_blue] 応急処置 %c[ui_gray_2]頭%c[d_blue] 20% %c[ui_gray_2]胴%c[d_blue] 20% %c[ui_gray_2]脚%c[d_blue] 20% %c[ui_gray_2]腕%c[d_blue] 20%\n
-		%c[d_blue] • %c[ui_gray_2] 止血\n
-		%c[d_blue] • %c[ui_gray_2] 手脚の応急処置\n
-		%c[d_blue] • %c[ui_gray_2] 即効性 (絆創膏)\n
+		%c[d_blue] ・ %c[ui_gray_2] 止血\n
+		%c[d_blue] ・ %c[ui_gray_2] 手脚の応急処置\n
+		%c[d_blue] ・ %c[ui_gray_2] 即効性 (絆創膏)\n
 		</text>
 	</string>
 	
@@ -39,9 +39,9 @@
 		<text>出血を止め傷口からの感染を防止するための伸縮性の軍用包帯。出血を伴う創傷へ確実に巻くこと。動脈からの出血の場合は、血管を押えるように患部の周りを包帯で結びつける。傷口の止血や感染予防に使用する伸縮性のある軍用包帯です。通常の出血には、傷口に注意深く貼ってください。動脈性出血の場合は、緊急に患部を包帯で縛る。\n \n
 		%c[ui_gray_3]特性:\n
 		%c[d_blue] ・%c[d_blue] 応急処置 %c[ui_gray_2]頭%c[d_blue] 20% %c[ui_gray_2]胴%c[d_blue] 20% %c[ui_gray_2]脚%c[d_blue] 20% %c[ui_gray_2]腕%c[d_blue] 20%\n
-		%c[d_blue] • %c[ui_gray_2] 止血\n
-		%c[d_blue] • %c[ui_gray_2] 手脚の応急処置\n
-		%c[d_blue] • %c[ui_gray_2] 即効性 (絆創膏)\n
+		%c[d_blue] ・ %c[ui_gray_2] 止血\n
+		%c[d_blue] ・ %c[ui_gray_2] 手脚の応急処置\n
+		%c[d_blue] ・ %c[ui_gray_2] 即効性 (絆創膏)\n
 		</text>
 	</string>
 	
@@ -51,8 +51,8 @@
 	<string id="st_drug_coagulant_descr">
 		<text>ウクライナのヴィカソルムは人工ビタミンKと等価品である。この薬の主な目的は、血液凝固速度を増加させることである。ミュータントから受けた傷の治りが遅いのを、早く治したいストーカーの間で大きな需要がある。この薬の効果は長続きする。一度に2錠を服用する。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 止血\n
-		%c[d_red] • %c[ui_gray_2] 軽度のめまい\n</text>
+		%c[d_blue] ・ %c[ui_gray_2] 止血\n
+		%c[d_red] ・ %c[ui_gray_2] 軽度のめまい\n</text>
 	</string>
 	
 	<string id="st_drug_anabiotic">
@@ -61,9 +61,9 @@
 	<string id="st_drug_anabiotic_descr">
 		<text>ゾーンで活動する科学研究チームのためにオゼルスキー教授が開発した実験薬。俗に「ゾンビパウダー」と呼ばれるテトロドトキシンを主成分とし、中枢神経を完全に停止させることで、エミッション発生中に外に出ても生きられるようにする。６年間の屋外テストを経て、思慮深いストーカーたちは、不意のブロウアウトに備えて数個を手元に置いている。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 薬品\n
-		%c[d_blue] • %c[ui_gray_2] ゾーン製\n
-		%c[d_red] • %c[ui_gray_2] 一時的な意識の喪失\n</text>
+		%c[d_blue] ・ %c[ui_gray_2] 薬品\n
+		%c[d_blue] ・ %c[ui_gray_2] ゾーン製\n
+		%c[d_red] ・ %c[ui_gray_2] 一時的な意識の喪失\n</text>
 	</string>
 	
 	<string id="st_drug_psy_blockade">
@@ -72,8 +72,8 @@
 	<string id="st_drug_psy_blockade_descr">
 		<text>雪崩のような神経伝達を遮断する薬。摂取すると、短時間ですべての感情が失われる。変則的な「精神波の及ぶ領域」の影響を打ち消すために、ゾーンでのみ使用される。この薬の効果は長続きする。一度に2錠を服用する。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 薬品\n
-		%c[d_red] • %c[ui_gray_2] 重度のめまい\n
+		%c[d_blue] ・ %c[ui_gray_2] 薬品\n
+		%c[d_red] ・ %c[ui_gray_2] 重度のめまい\n
 		</text>
 	</string>
 	
@@ -83,8 +83,8 @@
 	<string id="st_drug_antidot_descr">
 		<text>このIP2解毒剤は、メトクロプラミダム、ピリドキシン、チアミン、リボキシンなどの医薬品を含む複数の解毒剤からなる複合医薬品である。この薬剤は、自然毒を中和するための様々な抗生物質を、合成毒物吸収剤とともに血流に注入するために使用される。ゾーンでは、ほとんどのストーカーがガスマスクと防護服に頼っているため、あまり人気はない。しかし、緊急時のためにこの解毒剤を何個か携帯している人はいる。この薬の効果は長続きする。一度に1カプセルを服用する。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 薬品\n
-		%c[d_red] • %c[ui_gray_2] 軽度のめまい\n</text>
+		%c[d_blue] ・ %c[ui_gray_2] 薬品\n
+		%c[d_red] ・ %c[ui_gray_2] 軽度のめまい\n</text>
 	</string>
 	
 	<string id="st_drug_booster">
@@ -93,13 +93,13 @@
 	<string id="st_drug_booster_descr">
 		<text>本製品の主成分は同化アンドロゲンであり、化学組成がテストステロンに類似した人工的なステロイドである。ストーカーが長時間の襲撃時に筋肉疲労を軽減するために使用することが多い。可搬重量を大幅に向上させる。この薬の効果は長時間持続する。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 飲料\n
-		%c[d_blue] • %c[ui_gray_2] 輸入品\n
-		%c[d_blue] • %c[ui_gray_2] 薬品\n
-		%c[d_blue] • %c[ui_gray_2] 軽度の酔い覚まし効果\n
-		%c[d_purple] • %c[ui_gray_2] 可搬重量の増加\n
-		%c[d_purple] • %c[ui_gray_2] 持久力の増加\n
-		%c[d_purple] • %c[ui_gray_2] 長い持続性\n
+		%c[d_blue] ・ %c[ui_gray_2] 飲料\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・ %c[ui_gray_2] 薬品\n
+		%c[d_blue] ・ %c[ui_gray_2] 軽度の酔い覚まし効果\n
+		%c[d_purple] ・ %c[ui_gray_2] 可搬重量の増加\n
+		%c[d_purple] ・ %c[ui_gray_2] 持久力の増加\n
+		%c[d_purple] ・ %c[ui_gray_2] 長い持続性\n
 		</text>
 	</string>
 	
@@ -109,8 +109,8 @@
 	<string id="st_drug_radioprotector_descr">
 		<text>インドラリン放射線防護剤。ゾーンでは、繰り返し使用すると死に至ることが多い、毒性の強いPC1システアミン塩酸塩の代わりに使用されている。生きた組織に対するガンマ線の影響を軽減する。即効性はないが持続性があるので、被曝前に飲むのがよい。一度に1カプセルを服用する。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 薬品\n
-		%c[d_red] • %c[ui_gray_2] 軽度のめまい\n
+		%c[d_blue] ・ %c[ui_gray_2] 薬品\n
+		%c[d_red] ・ %c[ui_gray_2] 軽度のめまい\n
 		</text>
 	</string>
 	
@@ -121,9 +121,9 @@
 		<text>非ステロイド性抗炎症薬（NSAID）の一種で、疼痛、発熱、炎症などの治療に使用される医薬品。\n \n
 		%c[ui_gray_3]特性:\n
 		%c[d_blue] ・%c[0,255,255,255] 一時的な部位の回復 %c[ui_gray_2]頭%c[0,255,255,255] 40% %c[ui_gray_2]胴%c[0,255,255,255] 40% %c[ui_gray_2]腕%c[0,255,255,255] 40% %c[ui_gray_2]脚%c[0,255,255,255] 40% \n
-		%c[d_blue] • %c[ui_gray_2] 鎮痛作用\n
-		%c[d_purple] • %c[ui_gray_2] 平均的なダメージ耐性ボーナス\n
-		%c[d_red] • %c[ui_gray_2] 遅効性 (錠剤)\n
+		%c[d_blue] ・ %c[ui_gray_2] 鎮痛作用\n
+		%c[d_purple] ・ %c[ui_gray_2] 平均的なダメージ耐性ボーナス\n
+		%c[d_red] ・ %c[ui_gray_2] 遅効性 (錠剤)\n
 		</text>
 	</string>
 	
@@ -133,16 +133,16 @@
 	<string id="st_medkit_ai1_descr">
 		<text>Travel グリズリー医療キットは最高の応急処置キットのひとつだ。過酷な状況下で適切な治療を行うために必要なものが全て揃っている。\n \n
 		%c[ui_gray_3]内容物:\n
-		%c[d_cyan] • %c[default] 包帯\n
-		%c[d_cyan] • %c[default] サレワ応急キット\n
-		%c[d_cyan] • %c[default] アルミスプリント(腕)\n
-		%c[d_cyan] • %c[default] スプリント(脚)\n
-		%c[d_cyan] • %c[default] 抗生物質\n
-		%c[d_cyan] • %c[default] イブプロフェン鎮痛剤\n
-		%c[d_cyan] • %c[default] アナバイオティクス\n
-		%c[d_cyan] • %c[default] ヴィンカ\n
+		%c[d_cyan] ・ %c[default] 包帯\n
+		%c[d_cyan] ・ %c[default] サレワ応急キット\n
+		%c[d_cyan] ・ %c[default] アルミスプリント(腕)\n
+		%c[d_cyan] ・ %c[default] スプリント(脚)\n
+		%c[d_cyan] ・ %c[default] 抗生物質\n
+		%c[d_cyan] ・ %c[default] イブプロフェン鎮痛剤\n
+		%c[d_cyan] ・ %c[default] アナバイオティクス\n
+		%c[d_cyan] ・ %c[default] ヴィンカ\n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 医療キット収納ケース\n</text>
+		%c[d_blue] ・ %c[ui_gray_2] 医療キット収納ケース\n</text>
 	</string>
 	
 	<string id="st_medkit_ai2">
@@ -151,15 +151,15 @@
 	<string id="st_medkit_ai2_descr">
 		<text>特殊なバッテリー式の冷却ハードケースで全てのペン型注射器を収納している。訓練を受けた、または救急隊員のみに使用が許可されている。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_cyan] • %c[default] モルヒネ\n
-		%c[d_cyan] • %c[default] アドレナリン\n
-		%c[d_cyan] • %c[default] 戦闘用興奮剤 赤\n
-		%c[d_cyan] • %c[default] 戦闘用興奮剤 青\n
-		%c[d_cyan] • %c[default] ザガスティン止血剤\n
-		%c[d_cyan] • %c[default] プロピタル\n
-		%c[d_cyan] • %c[default] eTG-c\n
+		%c[d_cyan] ・ %c[default] モルヒネ\n
+		%c[d_cyan] ・ %c[default] アドレナリン\n
+		%c[d_cyan] ・ %c[default] 戦闘用興奮剤 赤\n
+		%c[d_cyan] ・ %c[default] 戦闘用興奮剤 青\n
+		%c[d_cyan] ・ %c[default] ザガスティン止血剤\n
+		%c[d_cyan] ・ %c[default] プロピタル\n
+		%c[d_cyan] ・ %c[default] eTG-c\n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 医療キット収納ケース\n</text>
+		%c[d_blue] ・ %c[ui_gray_2] 医療キット収納ケース\n</text>
 	</string>
 	
 	<string id="st_medkit_ai3">
@@ -168,17 +168,17 @@
 	<string id="st_medkit_ai3_descr">
 		<text>過酷な環境下で必要な物が全て入った旧型の救急用ショルダーバッグ。放射線治療薬、化学薬品、防火剤に加え手術用具や軍用包帯が入っている。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_cyan] • %c[default] 軍用包帯\n
-		%c[d_cyan] • %c[default] AI-2応急キット\n
-		%c[d_cyan] • %c[default] 手術キット\n
-		%c[d_cyan] • %c[default] 放射線治療薬\n
-		%c[d_cyan] • %c[default] 放射線防護剤\n
-		%c[d_cyan] • %c[default] 解毒剤\n
-		%c[d_cyan] • %c[default] 精神波ブロック\n
-		%c[d_cyan] • %c[default] ゴールデンスターバーム\n
-		%c[d_cyan] • %c[default] カフェインタブレット\n
+		%c[d_cyan] ・ %c[default] 軍用包帯\n
+		%c[d_cyan] ・ %c[default] AI-2応急キット\n
+		%c[d_cyan] ・ %c[default] 手術キット\n
+		%c[d_cyan] ・ %c[default] 放射線治療薬\n
+		%c[d_cyan] ・ %c[default] 放射線防護剤\n
+		%c[d_cyan] ・ %c[default] 解毒剤\n
+		%c[d_cyan] ・ %c[default] 精神波ブロック\n
+		%c[d_cyan] ・ %c[default] ゴールデンスターバーム\n
+		%c[d_cyan] ・ %c[default] カフェインタブレット\n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 医療キット収納ケース\n</text>
+		%c[d_blue] ・ %c[ui_gray_2] 医療キット収納ケース\n</text>
 	</string>
 	
 	<string id="st_analgetic">
@@ -187,8 +187,8 @@
 	<string id="st_analgetic_descr">
 		<text>たくさんの未分類の薬品。 ゾーンでは医療用具の使用はかなり一般的だ。 それと同時にゾーンには廃棄された薬品がたくさんある。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 未分類医薬品\n
-		%c[d_red] • %c[ui_gray_2] 怪我をしたり感染症にかかるリスクが高い\n
+		%c[d_blue] ・ %c[ui_gray_2] 未分類医薬品\n
+		%c[d_red] ・ %c[ui_gray_2] 怪我をしたり感染症にかかるリスクが高い\n
 		</text>
 	</string>
 	
@@ -198,12 +198,12 @@
 	<string id="st_jgut_descr">
 		<text>銃創や裂傷の治療に適したコンパクトな手術キット。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[d_blue] 応急処置 %c[ui_gray_2] 頭%c[d_blue] 100% %c[ui_gray_2]胴%c[d_blue] 100% \n
-		%c[d_blue] • %c[ui_gray_2] 手術キット\n
-		%c[d_blue] • %c[ui_gray_2] 輸入品\n
-		%c[d_blue] • %c[ui_gray_2] 高品質\n
-		%c[d_blue] • %c[ui_gray_2] 頭部･胴体の治療\n
-		%c[d_red] • %c[ui_gray_2] 遅効性 (フィールドキット)\n
+		%c[d_blue] ・ %c[d_blue] 応急処置 %c[ui_gray_2] 頭%c[d_blue] 100% %c[ui_gray_2]胴%c[d_blue] 100% \n
+		%c[d_blue] ・ %c[ui_gray_2] 手術キット\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・ %c[ui_gray_2] 高品質\n
+		%c[d_blue] ・ %c[ui_gray_2] 頭部･胴体の治療\n
+		%c[d_red] ・ %c[ui_gray_2] 遅効性 (フィールドキット)\n
 		</text>
 	</string>
 	
@@ -213,13 +213,13 @@
 	<string id="st_surginst_descr">
 		<text>このゾーンでよく見られる小型の手術用器具。Surv12やCMSキットのクラフトに使用される。直接使用することもできるが、包帯を巻く必要があり滅菌されていない。そのため使用は1度きり。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[d_blue] 一時的な部位の回復 %c[ui_gray_2] 頭%c[d_blue] 25% %c[ui_gray_2]胴%c[d_blue] 25% %c[ui_gray_2]腕%c[d_blue] 25% %c[ui_gray_2]脚%c[d_blue] 25% \n
-		%c[d_blue] • %c[ui_gray_2] 各部位の小さな治療\n
-		%c[d_blue] • %c[ui_gray_2] クラフト用アイテム\n
-		%c[d_blue] • %c[ui_gray_2] 手術用品\n
-		%c[d_blue] • %c[ui_gray_2] 輸入品\n
-		%c[d_blue] • %c[ui_gray_2] 高品質\n
-		%c[d_red] • %c[ui_gray_2] これ単体での治療には危険を伴うだろう\n
+		%c[d_blue] ・ %c[d_blue] 一時的な部位の回復 %c[ui_gray_2] 頭%c[d_blue] 25% %c[ui_gray_2]胴%c[d_blue] 25% %c[ui_gray_2]腕%c[d_blue] 25% %c[ui_gray_2]脚%c[d_blue] 25% \n
+		%c[d_blue] ・ %c[ui_gray_2] 各部位の小さな治療\n
+		%c[d_blue] ・ %c[ui_gray_2] クラフト用アイテム\n
+		%c[d_blue] ・ %c[ui_gray_2] 手術用品\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・ %c[ui_gray_2] 高品質\n
+		%c[d_red] ・ %c[ui_gray_2] これ単体での治療には危険を伴うだろう\n
 		</text>
 	</string>
 	
@@ -230,12 +230,12 @@
 		<text>細菌感染症の治療に使用される複雑で汎用性の高い抗生物質。\n \n
 		%c[ui_gray_3]特性:\n
 		%c[d_blue] ・%c[0,255,255,255] 一時的な部位の回復 %c[ui_gray_2]頭%c[0,255,255,255] 40% %c[ui_gray_2]胴%c[0,255,255,255] 40% %c[ui_gray_2]腕%c[0,255,255,255] 40% %c[ui_gray_2]脚%c[0,255,255,255] 40% \n
-		%c[d_blue] • %c[ui_gray_2] 薬品\n
-		%c[d_blue] • %c[ui_gray_2] 輸入品\n
-		%c[d_blue] • %c[ui_gray_2] アゴニスト的な効果\n
-		%c[d_red] • %c[ui_gray_2] 短期間の意識混濁を引き起こす\n
-		%c[d_red] • %c[ui_gray_2] 遅効性 (錠剤)\n
-		%c[d_purple] • %c[ui_gray_2] 微量のダメージ耐性ボーナス\n
+		%c[d_blue] ・ %c[ui_gray_2] 薬品\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・ %c[ui_gray_2] アゴニスト的な効果\n
+		%c[d_red] ・ %c[ui_gray_2] 短期間の意識混濁を引き起こす\n
+		%c[d_red] ・ %c[ui_gray_2] 遅効性 (錠剤)\n
+		%c[d_purple] ・ %c[ui_gray_2] 微量のダメージ耐性ボーナス\n
 		</text>
 	</string>
 	
@@ -246,9 +246,9 @@
 		<text>IFAKは兵役中の兵士に支給される個人用医療キットであり、アメリカ海兵隊のIFAK(Individual First Aid Kit of the United States Marine Corps)における正式な救急箱だ。最新の第3世代(gen3)で最もデザイン性に優れ、内容も充実している。\n \n
 		%c[ui_gray_3]特性:\n
 		%c[d_blue] ・%c[d_blue] 応急処置 %c[ui_gray_2]頭%c[d_blue] 100% %c[ui_gray_2]胴%c[d_blue] 100% %c[ui_gray_2]脚%c[d_blue] 100% %c[ui_gray_2]腕%c[d_blue] 100%\n
-		%c[d_blue] • %c[ui_gray_2] 軍用品\n
-		%c[d_red] • %c[ui_gray_2] 遅効性 (フィールドキット)\n
-		%c[d_red] • %c[ui_gray_2] 遅い体力回復効果\n
+		%c[d_blue] ・ %c[ui_gray_2] 軍用品\n
+		%c[d_red] ・ %c[ui_gray_2] 遅効性 (フィールドキット)\n
+		%c[d_red] ・ %c[ui_gray_2] 遅い体力回復効果\n
 		</text>
 	</string>
 	
@@ -259,9 +259,9 @@
 		<text>AI-2応急キットはソビエト連邦の様々な防衛機関、法執行機関、民間防衛軍で使用される標準的な救急箱として開発された。\n \n
 		%c[ui_gray_3]特性:\n
 		%c[d_blue] ・%c[d_blue] first-aid %c[ui_gray_2]頭%c[d_blue] 100% %c[ui_gray_2]胴%c[d_blue] 100% %c[ui_gray_2]脚%c[d_blue] 100% %c[ui_gray_2]腕%c[d_blue] 100%\n
-		%c[d_purple] • %c[ui_gray_2] 即効性 (フィールドキット注入器)\n
-		%c[d_blue] • %c[ui_gray_2] 軍用品\n
-		%c[d_red] • %c[ui_gray_2] 遅い体力回復効果\n
+		%c[d_purple] ・ %c[ui_gray_2] 即効性 (フィールドキット注入器)\n
+		%c[d_blue] ・ %c[ui_gray_2] 軍用品\n
+		%c[d_red] ・ %c[ui_gray_2] 遅い体力回復効果\n
 		</text>
 	</string>
 	
@@ -272,9 +272,9 @@
 		<text>車載応急キットは消化器と同様、非常時の際に重要な救命手段となる。\n \n
 		%c[ui_gray_3]特性:\n
 		%c[d_blue] ・%c[d_blue] first-aid %c[ui_gray_2]頭%c[d_blue] 100% %c[ui_gray_2]胴%c[d_blue] 100% %c[ui_gray_2]脚%c[d_blue] 100% %c[ui_gray_2]腕%c[d_blue] 100%\n
-		%c[d_blue] • %c[ui_gray_2] 軍用品\n
-		%c[d_red] • %c[ui_gray_2] 遅効性 (フィールドキット)\n
-		%c[d_red] • %c[ui_gray_2] 遅い体力回復効果\n
+		%c[d_blue] ・ %c[ui_gray_2] 軍用品\n
+		%c[d_red] ・ %c[ui_gray_2] 遅効性 (フィールドキット)\n
+		%c[d_red] ・ %c[ui_gray_2] 遅い体力回復効果\n
 		</text>
 	</string>
 	
@@ -285,11 +285,11 @@
 		<text>様々な種類の包袋や応急処置用具が入った救急箱。\n \n
 		%c[ui_gray_3]特性:\n
 		%c[d_blue] ・%c[d_blue] first-aid %c[ui_gray_2]頭%c[d_blue] 100% %c[ui_gray_2]胴%c[d_blue] 100% %c[ui_gray_2]脚%c[d_blue] 100% %c[ui_gray_2]腕%c[d_blue] 100%\n
-		%c[d_blue] • %c[ui_gray_2] 高価\n
-		%c[d_blue] • %c[ui_gray_2] 高品質\n
-		%c[d_blue] • %c[ui_gray_2] 軍用品\n
-		%c[d_red] • %c[ui_gray_2] 遅効性 (フィールドキット)\n
-		%c[d_red] • %c[ui_gray_2] 遅い体力回復効果\n
+		%c[d_blue] ・ %c[ui_gray_2] 高価\n
+		%c[d_blue] ・ %c[ui_gray_2] 高品質\n
+		%c[d_blue] ・ %c[ui_gray_2] 軍用品\n
+		%c[d_red] ・ %c[ui_gray_2] 遅効性 (フィールドキット)\n
+		%c[d_red] ・ %c[ui_gray_2] 遅い体力回復効果\n
 		</text>
 	</string>
 	
@@ -299,9 +299,9 @@
 	<string id="st_glucose_s_descr">
 		<text>ブドウ糖は主にインスリン投与による低血糖症の糖尿病患者などに使われるが、時には刺激剤としても使うことが出来る。糖質の即座の誘導は、精神的、肉体的エネルギーを迅速に増加し、ストレスをやり過ごす。そのためこのブドウ糖注射は戦闘状態の際や、治癒を早めたい場合に大変有益な手段として投与される。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 薬品\n
-		%c[d_blue] • %c[ui_gray_2] 輸入品\n
-		%c[d_blue] • %c[ui_gray_2] 即効性 (注射器)\n</text>
+		%c[d_blue] ・ %c[ui_gray_2] 薬品\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・ %c[ui_gray_2] 即効性 (注射器)\n</text>
 	</string>
 	
 	<string id="st_glucose">
@@ -310,9 +310,9 @@
 	<string id="st_glucose_descr">
 		<text>ブドウ糖は主にインスリン投与による低血糖症の糖尿病患者などに使われるが、時には刺激剤としても使うことが出来る。糖質の即座の誘導は、精神的、肉体的エネルギーを迅速に増加し、ストレスをやり過ごす。そのためこのブドウ糖注射は戦闘状態の際や、治癒を早めたい場合に大変有益な手段として投与される。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 薬品\n
-		%c[d_blue] • %c[ui_gray_2] 輸入品\n
-		%c[d_blue] • %c[ui_gray_2] 即効性 (注射器)\n</text>
+		%c[d_blue] ・ %c[ui_gray_2] 薬品\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・ %c[ui_gray_2] 即効性 (注射器)\n</text>
 	</string>
 	
 	<string id="st_stim_impro">
@@ -321,11 +321,11 @@
 	<string id="st_stim_impro_descr">
 		<text>戦闘前に3分程度、体力・持久力をつけるために使用される。特殊部隊で使用が許可されている。Svarog Test Labs社によって開発され、SJ1とマークされている。副作用がある。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 薬品\n
-		%c[d_blue] • %c[ui_gray_2] 輸入品\n
-		%c[d_blue] • %c[ui_gray_2] 軍用品\n
-		%c[d_blue] • %c[ui_gray_2] 即効性 (注射器)\n
-		%c[d_purple] • %c[ui_gray_2] 大きなダメージ耐性ボーナス\n</text>
+		%c[d_blue] ・ %c[ui_gray_2] 薬品\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・ %c[ui_gray_2] 軍用品\n
+		%c[d_blue] ・ %c[ui_gray_2] 即効性 (注射器)\n
+		%c[d_purple] ・ %c[ui_gray_2] 大きなダメージ耐性ボーナス\n</text>
 	</string>
 	
 	<string id="st_stim_military">
@@ -334,12 +334,12 @@
 	<string id="st_stim_military_descr">
 		<text>戦闘前に3分程度、体力・持久力をつけるために使用される。特殊部隊で使用が許可されている。Svarog Test Labs社によって開発され、SJ6とマークされている。副作用がある。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 薬品\n
-		%c[d_blue] • %c[ui_gray_2] 輸入品\n
-		%c[d_blue] • %c[ui_gray_2] 軍用品\n
-		%c[d_blue] • %c[ui_gray_2] 即効性 (注射器)\n
-		%c[d_purple] • %c[ui_gray_2] 最高のダメージ耐性ボーナス\n
-		%c[d_purple] • %c[ui_gray_2] 持久力の増加\n</text>
+		%c[d_blue] ・ %c[ui_gray_2] 薬品\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・ %c[ui_gray_2] 軍用品\n
+		%c[d_blue] ・ %c[ui_gray_2] 即効性 (注射器)\n
+		%c[d_purple] ・ %c[ui_gray_2] 最高のダメージ耐性ボーナス\n
+		%c[d_purple] ・ %c[ui_gray_2] 持久力の増加\n</text>
 	</string>
 	
 	<string id="st_stim_scientic">
@@ -348,11 +348,11 @@
 	<string id="st_stim_scientic_descr">
 		<text>軍事用医薬品。プリン塩基、ピリミジン塩基、RNA、機能的および酵素的な細胞要素の生合成を増加させることにより自己治癒力を刺激する。代謝、健康、活力を増加させる。長期的な副作用がある。医療従事者と救急隊員にのみ使用が許可されている。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 薬品\n
-		%c[d_blue] • %c[ui_gray_2] 輸入品\n
-		%c[d_blue] • %c[ui_gray_2] 高品質\n
-		%c[d_blue] • %c[ui_gray_2] 即効性 (注射器)\n
-		%c[d_purple] • %c[ui_gray_2] 遅い体力回復効果\n</text>
+		%c[d_blue] ・ %c[ui_gray_2] 薬品\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・ %c[ui_gray_2] 高品質\n
+		%c[d_blue] ・ %c[ui_gray_2] 即効性 (注射器)\n
+		%c[d_purple] ・ %c[ui_gray_2] 遅い体力回復効果\n</text>
 	</string>
 	
 	<string id="st_sleepingpills">
@@ -361,8 +361,8 @@
 	<string id="st_sleepingpills_descr">
 		<text>アルプラゾラム0.25mg錠、通称027R。アルプラゾラムは化学者の間でうつ病、不安神経症、パニック障害を軽減することで知られている。ヤンター、レーダー、レッドフォレスト、地下研究所を探索する際には欠かせない薬だろう。副作用として強い眠気を催す。水と一緒に飲むのがベストだが、カフェインで代用するストーカーもいるようだ。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 薬品\n
-		%c[d_blue] • %c[ui_gray_2] 眠気誘発\n
+		%c[d_blue] ・ %c[ui_gray_2] 薬品\n
+		%c[d_blue] ・ %c[ui_gray_2] 眠気誘発\n
 		</text>
 	</string>
 	
@@ -372,9 +372,9 @@
 	<string id="st_cocaine_descr">
 		<text>コカインとそれを使用するための道具を収納したアルミ製の小型ケースだ。コカインは強力な中毒性を持つ覚醒剤で、摂取すると脳内の幸福感、活力、覚醒が急激に高まり、同時に極度のイライラや妄想症を生じ、激しく気分変動する。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 覚醒作用\n
-		%c[d_blue] • %c[ui_gray_2] 強い酔い覚まし効果\n
-		%c[d_red] • %c[ui_gray_2] 人体に有害\n
+		%c[d_blue] ・ %c[ui_gray_2] 覚醒作用\n
+		%c[d_blue] ・ %c[ui_gray_2] 強い酔い覚まし効果\n
+		%c[d_red] ・ %c[ui_gray_2] 人体に有害\n
 		</text>
 	</string>
 	
@@ -384,10 +384,10 @@
 	<string id="st_speed_drug_descr">
 		<text>強力な神経系刺激剤。小型のアルミケースにスピードとそれを使用するための道具が入っている。効果は投与経路によるが、15分から30分、1時間持続する。覚醒度を高め、幸福感、有能感、性的興奮を引き起こす。副作用として不安、妄想、レストレスレッグス症候群がある。過剰に摂取すると震え、痙攣、体温の上昇が起こる。バンディットが襲撃や待ち伏せの直前によく使っているらしい。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 覚醒作用\n
-		%c[d_blue] • %c[ui_gray_2] 強い酔い覚まし効果\n
-		%c[d_red] • %c[ui_gray_2] 人体に有害\n
-		%c[d_purple] • %c[ui_gray_2] 微量のダメージ耐性ボーナス\n
+		%c[d_blue] ・ %c[ui_gray_2] 覚醒作用\n
+		%c[d_blue] ・ %c[ui_gray_2] 強い酔い覚まし効果\n
+		%c[d_red] ・ %c[ui_gray_2] 人体に有害\n
+		%c[d_purple] ・ %c[ui_gray_2] 微量のダメージ耐性ボーナス\n
 		</text>
 	</string>
 
@@ -398,12 +398,12 @@
 	<string id="st_adrenalin_descr">
 		<text>アドレナリン(副腎髄質の主なホルモン)を投与するための滅菌済み使い捨て注射器。一時的に興奮効果と肉体活性、集中力の向上を得る。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 薬品\n
-		%c[d_blue] • %c[ui_gray_2] 輸入品\n
-		%c[d_blue] • %c[ui_gray_2] 高品質\n
-		%c[d_blue] • %c[ui_gray_2] 即効性 (注射器)\n
-		%c[d_purple] • %c[ui_gray_2] 持久力の増加\n
-		%c[d_purple] • %c[ui_gray_2] 疲労回復\n
+		%c[d_blue] ・ %c[ui_gray_2] 薬品\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・ %c[ui_gray_2] 高品質\n
+		%c[d_blue] ・ %c[ui_gray_2] 即効性 (注射器)\n
+		%c[d_purple] ・ %c[ui_gray_2] 持久力の増加\n
+		%c[d_purple] ・ %c[ui_gray_2] 疲労回復\n
 		</text>
 	</string>
 	
@@ -413,15 +413,15 @@
 	<string id="st_morphine_descr">
 		<text>この鉄製のアンブルは、戦地で戦う兵士の痛みを即座に抑えるため設計された。このアンプルには、強力な投与量のモルヒネが含まれている。軍事用途では、戦闘により負傷した場合、強い疼痛を軽減する目的で、主に注射剤の形で使用され続けている。資格を持った衛生兵だけが携帯でき、トリアージを行っている間に投与処置を行うこともある。モルヒネはオピオイド神経を興奮させ、下行性疼痛制御により、侵害受容器（痛みを感じる受容器）で発生した興奮の伝達を遮断し上行性疼痛伝達を止めることにより中枢鎮痛作用を示す。上腕もしくは大腿部に注射する。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[0,255,255,255] 一時的な部位の回復 %c[ui_gray_2] 頭%c[0,255,255,255] 100% %c[ui_gray_2]T%c[0,255,255,255] 100% %c[ui_gray_2]腕%c[0,255,255,255] 100% %c[ui_gray_2]脚%c[0,255,255,255] 100% \n
-		%c[d_blue] • %c[ui_gray_2] 薬品\n
-		%c[d_blue] • %c[ui_gray_2] 輸入品\n
-		%c[d_blue] • %c[ui_gray_2] 高品質\n
-		%c[d_blue] • %c[ui_gray_2] とても強い鎮痛作用\n
-		%c[d_blue] • %c[ui_gray_2] 即効性 (注射器)\n
-		%c[d_purple] • %c[ui_gray_2] 大きなダメージ耐性ボーナス\n
-		%c[d_purple] • %c[ui_gray_2] 長い持続性\n
-		%c[d_red] • %c[ui_gray_2] 一時的な意識の喪失\n
+		%c[d_blue] ・ %c[0,255,255,255] 一時的な部位の回復 %c[ui_gray_2] 頭%c[0,255,255,255] 100% %c[ui_gray_2]T%c[0,255,255,255] 100% %c[ui_gray_2]腕%c[0,255,255,255] 100% %c[ui_gray_2]脚%c[0,255,255,255] 100% \n
+		%c[d_blue] ・ %c[ui_gray_2] 薬品\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・ %c[ui_gray_2] 高品質\n
+		%c[d_blue] ・ %c[ui_gray_2] とても強い鎮痛作用\n
+		%c[d_blue] ・ %c[ui_gray_2] 即効性 (注射器)\n
+		%c[d_purple] ・ %c[ui_gray_2] 大きなダメージ耐性ボーナス\n
+		%c[d_purple] ・ %c[ui_gray_2] 長い持続性\n
+		%c[d_red] ・ %c[ui_gray_2] 一時的な意識の喪失\n
 		</text>
 	</string>
 	
@@ -431,11 +431,11 @@
 	<string id="st_salicidic_acid_descr">
 		<text>自己治癒力を大きく高める興奮剤。主に輸送中の負傷、または重傷の兵士を迅速に回復させるために使用される。強い副作用があるため、医療従事者及び救急隊員にのみ使用が許可されている。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 薬品\n
-		%c[d_blue] • %c[ui_gray_2] 輸入品\n
-		%c[d_blue] • %c[ui_gray_2] 高品質\n
-		%c[d_blue] • %c[ui_gray_2] 即効性 (注射器)\n
-		%c[d_purple] • %c[ui_gray_2] 可搬重量の増加\n
+		%c[d_blue] ・ %c[ui_gray_2] 薬品\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・ %c[ui_gray_2] 高品質\n
+		%c[d_blue] ・ %c[ui_gray_2] 即効性 (注射器)\n
+		%c[d_purple] ・ %c[ui_gray_2] 可搬重量の増加\n
 		</text>
 	</string>
 	
@@ -445,8 +445,8 @@
 	<string id="st_caffeine_descr">
 		<text>カフェインと安息香酸ナトリウムは、中枢神経を特定の時間に可能な限り最高の効果で作動させ、眠気を大幅に減らす効果がある。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 覚醒作用\n
-		%c[d_blue] • %c[ui_gray_2] 強い酔い覚まし効果\n
+		%c[d_blue] ・ %c[ui_gray_2] 覚醒作用\n
+		%c[d_blue] ・ %c[ui_gray_2] 強い酔い覚まし効果\n
 		</text>
 	</string>
 	
@@ -456,10 +456,10 @@
 	<string id="st_antirad_cystamine_descr">
 		<text>アルミ製の添木。骨折した際に患部を固定するために使用する。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[0,255,255,255] 一時的な部位の回復 %c[ui_gray_2]A%c[0,255,255,255] 40% \n
-		%c[d_blue] • %c[ui_gray_2] 腕部固定器具\n
-		%c[d_blue] • %c[ui_gray_2] 輸入品\n
-		%c[d_blue] • %c[ui_gray_2] 迅速かつ永続的\n
+		%c[d_blue] ・ %c[0,255,255,255] 一時的な部位の回復 %c[ui_gray_2]A%c[0,255,255,255] 40% \n
+		%c[d_blue] ・ %c[ui_gray_2] 腕部固定器具\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・ %c[ui_gray_2] 迅速かつ永続的\n
 		</text>
 	</string>
 	
@@ -469,11 +469,11 @@
 	<string id="st_antibio_sulfad_descr2">
 		<text>最も安価で広く普及している鎮痛剤。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[0,255,255,255] 一時的な部位の回復 %c[ui_gray_2] 頭%c[0,255,255,255] 40% %c[ui_gray_2]T%c[0,255,255,255] 40% %c[ui_gray_2]腕%c[0,255,255,255] 40% %c[ui_gray_2]脚%c[0,255,255,255] 40% \n
-		%c[d_blue] • %c[ui_gray_2] 薬品\n
-		%c[d_blue] • %c[ui_gray_2] 輸入品\n
-		%c[d_blue] • %c[ui_gray_2] 鎮痛作用\n
-		%c[d_purple] • %c[ui_gray_2] 微量のダメージ耐性ボーナス\n
+		%c[d_blue] ・ %c[0,255,255,255] 一時的な部位の回復 %c[ui_gray_2] 頭%c[0,255,255,255] 40% %c[ui_gray_2]T%c[0,255,255,255] 40% %c[ui_gray_2]腕%c[0,255,255,255] 40% %c[ui_gray_2]脚%c[0,255,255,255] 40% \n
+		%c[d_blue] ・ %c[ui_gray_2] 薬品\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・ %c[ui_gray_2] 鎮痛作用\n
+		%c[d_purple] ・ %c[ui_gray_2] 微量のダメージ耐性ボーナス\n
 		</text>
 	</string>
 	
@@ -483,10 +483,10 @@
 	<string id="st_antibio_sulfad_descr">
 		<text>スルファニルアミドはグラム陽性菌、グラム陰性菌に効果がある。肺炎球菌、レンサ球菌、ブドウ球菌、大腸菌、クレブシエラ桿菌（フリードランダー桿菌）、赤痢の原因菌に作用する。タンパク質に関しては作用が弱い。トラコーマウイルス（失明の恐れのある感染性眼病）にも作用する。他のスルファニルアミド製剤に耐性を示す菌株には作用しない。副作用には頭痛、消化器疾患、皮膚発疹、発熱、白血球減少などがある。薬の効果は長続きする。\n \n
 		%c[ui_gray_3]HEALING:\n
-		%c[d_red] • %c[ui_gray_2] 体力の1.5%を消耗\n
+		%c[d_red] ・ %c[ui_gray_2] 体力の1.5%を消耗\n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 薬品\n
-		%c[d_blue] • %c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・ %c[ui_gray_2] 薬品\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n
 		</text>
 	</string>
 	
@@ -496,8 +496,8 @@
 	<string id="st_antibio_chlor_descr2">
 		<text>たくさんの未分類の薬品。 ゾーンでは医療用具の使用はかなり一般的だ。 それと同時にゾーンには廃棄された薬品がたくさんある。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 未分類医薬品\n
-		%c[d_red] • %c[ui_gray_2] 怪我をしたり感染症にかかるリスクが高い\n
+		%c[d_blue] ・ %c[ui_gray_2] 未分類医薬品\n
+		%c[d_red] ・ %c[ui_gray_2] 怪我をしたり感染症にかかるリスクが高い\n
 		</text>
 	</string>
 	
@@ -507,9 +507,9 @@
 	<string id="st_antibio_chlor_descr">
 		<text>抗生物質。淡黄色の結晶性粉末で、苦味があり、水にやや溶けやすい。ペニシリンに次ぐ最初の開放型抗生物質のひとつである。クロロテトラサイクリン塩酸塩は、グラム陽性およびグラム陰性の微生物、リケッチア、一部の大型ウイルスに対して静菌効果を発揮する。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 薬品\n
-		%c[d_blue] • %c[ui_gray_2] 輸入品\n
-		%c[d_red] • %c[ui_gray_2] 眠気誘発\n
+		%c[d_blue] ・ %c[ui_gray_2] 薬品\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n
+		%c[d_red] ・ %c[ui_gray_2] 眠気誘発\n
 		</text>
 	</string>
 	
@@ -519,8 +519,8 @@
 	<string id="st_antiemetic_descr2">
 		<text>たくさんの未分類の薬品。 ゾーンでは医療用具の使用はかなり一般的だ。 それと同時にゾーンには廃棄された薬品がたくさんある。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 未分類医薬品\n
-		%c[d_red] • %c[ui_gray_2] 怪我をしたり感染症にかかるリスクが高い\n
+		%c[d_blue] ・ %c[ui_gray_2] 未分類医薬品\n
+		%c[d_red] ・ %c[ui_gray_2] 怪我をしたり感染症にかかるリスクが高い\n
 		</text>
 	</string>
 	
@@ -530,8 +530,8 @@
 	<string id="st_antiemetic_descr">
 		<text>ペルフェナジン4.6および10mgを含有する、シェルでコーティングされた錠剤。この薬物は神経遮断薬であり、抗アレルギー作用、鎮静作用、縮瞳作用、制吐作用、弱い抗コリン作用、降圧作用、および低体温作用を有する抗精神病薬である。エペラジンの効果は、中脳皮質系および中脳辺縁系におけるD2受容体の遮断に起因する。ゾーンではほとんど使用されない。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 輸入品\n
-		%c[d_blue] • %c[ui_gray_2] 抗炎症性\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・ %c[ui_gray_2] 抗炎症性\n
 		</text>
 	</string>
 	
@@ -541,9 +541,9 @@
 	<string id="st_joint_descr">
 		<text>ジョイントはリラックス効果があることで知られており、特に「防衛線」やその先のレッド フォレストに出没するストーカーたちが娯楽として使用している。お酒と一緒に飲むと鎮静効果がある。飢餓を増加させる。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 覚醒作用\n
-		%c[d_blue] • %c[ui_gray_2] ゾーン製\n
-		%c[d_blue] • %c[ui_gray_2] 軽度の酔い覚まし効果\n
+		%c[d_blue] ・ %c[ui_gray_2] 覚醒作用\n
+		%c[d_blue] ・ %c[ui_gray_2] ゾーン製\n
+		%c[d_blue] ・ %c[ui_gray_2] 軽度の酔い覚まし効果\n
 		</text>
 	</string>
 	
@@ -553,9 +553,9 @@
 	<string id="st_rebirth_descr">
 		<text>軍用問題薬。プロフィビノリジンの活性化因子を阻害し、フィブリノリジンへの変換を遅らせる。一時的に血液を止め、血液喪失に対する抵抗力を高める。副作用あり。重度の脱水症状を引き起こす。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 薬品\n
-		%c[d_blue] • %c[ui_gray_2] 最も速い止血効果\n
-		%c[d_blue] • %c[ui_gray_2] 即効性 (注射器)\n
+		%c[d_blue] ・ %c[ui_gray_2] 薬品\n
+		%c[d_blue] ・ %c[ui_gray_2] 最も速い止血効果\n
+		%c[d_blue] ・ %c[ui_gray_2] 即効性 (注射器)\n
 		</text>
 	</string>
 	
@@ -565,10 +565,10 @@
 	<string id="st_tetanus_descr">
 		<text>蒼朮甘湯。保水性・潤滑性を必要とする様々な用途に使用される軟膏。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 外用薬\n
-		%c[d_blue] • %c[ui_gray_2] 補修剤、潤滑油\n
-		%c[d_blue] • %c[ui_gray_2] 耐火作用\n
-		%c[d_blue] • %c[ui_gray_2] 輸入品\n</text>
+		%c[d_blue] ・ %c[ui_gray_2] 外用薬\n
+		%c[d_blue] ・ %c[ui_gray_2] 補修剤、潤滑油\n
+		%c[d_blue] ・ %c[ui_gray_2] 耐火作用\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n</text>
 	</string>
 	
 	<string id="st_antirad_kalium">
@@ -577,10 +577,10 @@
 	<string id="st_antirad_kalium_descr">
 		<text>アルミ製の添木。骨折した際に患部を固定するために使用する。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[0,255,255,255] 一時的な部位の回復 %c[ui_gray_2]脚%c[0,255,255,255] 40% \n
-		%c[d_blue] • %c[ui_gray_2] 脚部固定器具\n
-		%c[d_blue] • %c[ui_gray_2] 輸入品\n
-		%c[d_blue] • %c[ui_gray_2] 迅速かつ永続的\n
+		%c[d_blue] ・ %c[0,255,255,255] 一時的な部位の回復 %c[ui_gray_2]脚%c[0,255,255,255] 40% \n
+		%c[d_blue] ・ %c[ui_gray_2] 脚部固定器具\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・ %c[ui_gray_2] 迅速かつ永続的\n
 		</text>
 	</string>
 	
@@ -590,9 +590,9 @@
 	<string id="st_marijuana_descr">
 		<text>自家栽培の大麻。大麻吸入は人気のある娯楽で、特に「防衛線」での防衛に当たるFreedomの間では人気がある。マリファナのバッグはゾーンのあちこちで買える。この薬は心のバランスを保つのに役立つと考える者もいる。\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 覚醒作用\n
-		%c[d_red] • %c[ui_gray_2] 遅効性 (長い吸引時間)\n
-		%c[d_blue] • %c[ui_gray_2] 強い酔い覚まし効果\n
+		%c[d_blue] ・ %c[ui_gray_2] 覚醒作用\n
+		%c[d_red] ・ %c[ui_gray_2] 遅効性 (長い吸引時間)\n
+		%c[d_blue] ・ %c[ui_gray_2] 強い酔い覚まし効果\n
 		</text>
 	</string>
 	

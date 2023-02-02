@@ -268,7 +268,7 @@
 	<string id="st_wpn_ks23_descr">
 		<text>23mm特殊カービン - ソ連の多機能な警察のポンプアクション式散弾銃で、暴動の鎮圧、武力行使、犯罪者への精神的、身体的影響を目的として設計されている。興味深いことに、口径が20mm以上でライフリング銃身を持つKS-23は、小銃としてではなく、小口径砲として分類されるべきものである。\n \n
 		%c[ui_gray_2]アタッチメント: \n
-		%c[0,250,250,0] • %c[ui_gray_2]700mmのロングバレルを510mmのショートバレルに交換することで、重量を軽減することができる。\n \n</text>
+		%c[0,250,250,0] ・ %c[ui_gray_2]700mmのロングバレルを510mmのショートバレルに交換することで、重量を軽減することができる。\n \n</text>
 	</string>
 
 
@@ -727,8 +727,8 @@
 	<string id="st_wpn_ks23_kaban_kab_up_descr">
 		<text>Trijicon RMRリフレックスサイトを装着した短尺モデル。23 mm - ソビエトの多機能警察用ポンプアクション式散弾銃で、暴動の鎮圧、武力行使、犯罪者への精神的・身体的影響を目的として設計されている。口径が20mm以上あり、ライフリング銃身を持つため、小銃ではなく小口径砲に分類されることもある。また、このバージョンには、ゾーン南部のどこかにあるサウンドサプレッサー用のネジがあります。\n \n
 		%c[ui_gray_3]アタッチメント:\n
-		%c[d_purple] • %c[ui_gray_2] Trijicon RMR reflex sight (integrated)\n 
-		%c[d_purple] • %c[ui_gray_2] Swine-23 サウンドサプレッサー \n \n</text>
+		%c[d_purple] ・ %c[ui_gray_2] Trijicon RMR reflex sight (integrated)\n 
+		%c[d_purple] ・ %c[ui_gray_2] Swine-23 サウンドサプレッサー \n \n</text>
 	</string>
 
 	<string id="st_wpn_ks23_23_up">
@@ -948,7 +948,7 @@
 	<string id="st_wpn_umirotvoritel_bas_descr">
 		<text>発射機構が確立されていない未知の武器。トリガーを握っても何もしない、欠陥品のようだ。非常に重く、ハイテクであることは間違いない。注目すべきは、発火による弾丸の発射ではないようだ。おそらく、電磁気的な力で弾丸を発射しているのだろう。どんな破壊力を秘めているのだろうか。\n \n
 		%c[ui_gray_3]アタッチメント:\n
-		%c[d_purple] • %c[ui_gray_2] Unknown\n \n</text>
+		%c[d_purple] ・ %c[ui_gray_2] Unknown\n \n</text>
 	</string>
 
 	<string id="st_wpn_pb_bas">

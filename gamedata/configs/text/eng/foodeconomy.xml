@@ -5,8 +5,8 @@
 	<string id="st_flaskrad_descr">
 		<text>ゾーンの水（テスト）\n \n
 		%c[ui_gray_3]特性:\n
-		%c[d_blue] • %c[ui_gray_2] 飲み物\n
-		%c[d_blue] • %c[ui_gray_2] 清浄な栄養源\n
+		%c[d_blue] ・ %c[ui_gray_2] 飲み物\n
+		%c[d_blue] ・ %c[ui_gray_2] 清浄な栄養源\n
 		</text>
 	</string>
 </string_table>
