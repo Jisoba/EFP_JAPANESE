@@ -12,7 +12,7 @@
 	<string id="st_addon_scope_descr">
 		<text>PSO（「プリッツェル スナイパースキー オプティチェスキー」すなわちロシア語で「狙撃用光学照準器」を意味する略称）は、ノヴォシビルスク光学機器工場（NPZ）で製造されたソ連製の光学照準器である。1964年にSVD狙撃銃用の標準照準器として導入されて以来、一般的に使用されている。その後、AK-74やAN-94などのアサルトライフルにも採用され、その耐久性、汎用性、そして便利な距離計を特徴とするデザイン性の高い照準線パターンが評価されている。このスコープの倍率は4.0倍で、主に遠距離での戦闘に使用できる。ワルシャワ条約機構諸国の標準的なドーヴテールマウントによって銃に取り付けられる。\n \n
 
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ すべてのワルシャワ条約機構ライフル\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 倍率 : 4.0x\n
@@ -26,7 +26,7 @@
 	<string id="st_addon_scope_1p29_descr">
 		<text>USP-1サイト(インデックス1P29)は、プリズム・エレクティング・システムを採用した光学系を搭載しています。照準角は、サイト本体をウェポンマウントブラケットに対して回転させることで機械的に設定します。トリチウム照明のため、電池は不要です。視界の端にある測距スケールは、高さ1.5mの標的の1200mまでの距離を目視で確認するためのものです。\n \n
 
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ すべてのワルシャワ条約機構ライフル\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 倍率 : 4.0x\n
@@ -40,7 +40,7 @@
 	<string id="st_addon_scope_ac10632_descr">
 		<text>Barska Electro Sight マルチレティクル レッドドットサイト AC10632は、高品質なサイトを必要とする人のために開発された。NATO軍やAK-12に搭載可能。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ すべてのNATOライフル\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 倍率 : なし (視準器)\n
@@ -53,7 +53,7 @@
 	<string id="st_addon_scope_acog_descr">
 		<text>ACOGはAdvanced Combat Optical Gunsightsの略で、Trijicon社が製造する銃器用スコープの一群を指す。このタイプのスコープは通常、高品質で、内部にトリチウムベースのレティクル照明を備えている。このタイプはUSMCスタイルのレティクルを持ち、倍率を調整できるのが特徴だ。\n \n
 
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ すべてのNATOライフル\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 倍率 : 4x\n
@@ -67,7 +67,7 @@
 	<string id="st_addon_scope_eotech_descr">
 		<text>NATOアサルトライフル、サブマシンガン向けホログラフィックサイト。\n \n
 
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ すべてのNATOライフル\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 倍率 : なし (視準器)\n
@@ -80,7 +80,7 @@
 	<string id="st_addon_scope_kobra_descr">
 		<text>コブラサイトは、レーザーで生成したHUDを使い、フィルター付きレンズにレティクルパターンを重ね合わせるオープン・コリメーター方式の光学サイト。近接戦闘や市街地戦闘において、高速で移動するターゲットや短時間に出現するターゲットと、さまざまな光条件下で交戦するために設計されている。104 lxから10-2 lx（昼光、薄明、月光）、1眼または2眼のターゲティングを明確に提供する。移動中の車両から射撃する場合に効果的。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ すべてのワルシャワ条約機構ライフル\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 倍率 :  なし ()\n
@@ -93,7 +93,7 @@
 	<string id="st_addon_scope_pso-1m2-01_descr">
 		<text>PSO-1M2-O1は、非常に効果的で便利なハイトベースレンジファインダーを搭載し、スタンディングとプローンの両方の姿見に目盛りが付いているデュアル仕様になっている。400mシモノフハイトベースグラディエント（チョークスタイル）レンジファインダーには、9x39口径ライフル用のシェブロンが装備されている。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ すべてのワルシャワ条約機構ライフル\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 倍率 : 4.0x\n
@@ -118,8 +118,8 @@
 	<string id="st_addon_sil_57_descr">
 		<text>FN-P90 PDW、FN Five-seveN ピストル用のサプレッサー。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
-		%c[d_cyan] ・ 5.7x28mm銃器\n
+		%c[ui_gray_3]対応銃器 : \n
+		%c[d_cyan] ・ 5.7x28mm口径の銃器\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 消音性能 : 高い\n \n</text>
 	</string>
@@ -130,8 +130,8 @@
 	<string id="st_addon_sil_9mm_descr">
 		<text>9mmピストル、サブマシンガン用サプレッサー。口径9x18の武器に有効なサウンドサプレッサー。非常に古風でありながら、かなり効果的である。本体には細かい真鍮のメッシュがぎっしり詰まっている。前面には弾丸が通過するための穴が開いたゴム製のワイプがセットされている。通常、軽装備の敵との近接戦闘や暗殺に使用される。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
-		%c[d_cyan] ・ 9mm銃器\n
+		%c[ui_gray_3]対応銃器 : \n
+		%c[d_cyan] ・ 9x18mm口径の銃器\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 消音性能 : とても 高い\n \n</text>
 	</string>
@@ -141,8 +141,8 @@
 	<string id="st_addon_sil_atg_descr">
 		<text>5.45mmカラシニコフ銃アサルトライフルAK74、AKS74、AK74M、AK105、5.56mmカラシニコフ銃アサルトライフルAK101、AK102、7.62mmカラシニコフ銃アサルトライフルAK103、AK104からの発砲時に音と激しさを軽減する戦術用自動消音装置（ATG)である。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
-		%c[d_cyan] ・ 5.45、5.56、7.62mm銃器\n
+		%c[ui_gray_3]対応銃器 : \n
+		%c[d_cyan] ・ 5.45mm、5.56mm、7.62mm口径の銃器\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 消音性能 : 中\n \n</text>
 	</string>
@@ -153,8 +153,8 @@
 	<string id="st_addon_sil_gemtech_descr">
 		<text>グロック、FN-FNP、ワルサーなどに対応するサプレッサー。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
-		%c[d_cyan] ・ .45口径、9mm銃器\n
+		%c[ui_gray_3]対応銃器 : \n
+		%c[d_cyan] ・ .45口径、9mm口径の銃器\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 消音性能 : 高い\n \n</text>
 	</string>
@@ -165,8 +165,8 @@
 	<string id="st_addon_sil_kzrzp_descr">
 		<text>スナイパーライフルSVD用のサプレッサー。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
-		%c[d_cyan] ・ 7.62mm銃器\n
+		%c[ui_gray_3]対応銃器 : \n
+		%c[d_cyan] ・ 7.62mm口径の銃器\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 消音性能 : 中\n \n</text>
 	</string>
@@ -177,8 +177,8 @@
 	<string id="st_addon_sil_nato_descr">
 		<text>NATO標準の5.56x45mm口径のライフル用サプレッサー。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
-		%c[d_cyan] ・ .45口径、5.56mm、7.62mm銃器\n
+		%c[ui_gray_3]対応銃器 : \n
+		%c[d_cyan] ・ .45口径、5.56mm、7.62mm口径の銃器\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 消音性能 : 高い\n \n</text>
 	</string>
@@ -189,8 +189,8 @@
 	<string id="st_addon_sil_pbs1_descr">
 		<text>カラシニコフ7.62mmを静かにそして目立たず発射するためのサプレッサー。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
-		%c[d_cyan] ・ 7.62mm銃器\n
+		%c[ui_gray_3]対応銃器 : \n
+		%c[d_cyan] ・ 7.62mm口径の銃器\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 消音性能 : 中\n \n</text>
 	</string>
@@ -201,8 +201,8 @@
 	<string id="st_addon_sil_pbs4_descr">
 		<text>AKS-74Uライフル用サプレッサー。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
-		%c[d_cyan] ・ 5.45mm銃器\n
+		%c[ui_gray_3]対応銃器 : \n
+		%c[d_cyan] ・ 5.45mm口径の銃器\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 消音性能 : 中\n \n</text>
 	</string>
@@ -213,8 +213,8 @@
 	<string id="st_addon_sil_tgp-a_descr">
 		<text>AKライフルシリーズ、RPK-74機関銃用サプレッサー。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
-		%c[d_cyan] ・ 5.45mm銃器\n
+		%c[ui_gray_3]対応銃器 : \n
+		%c[d_cyan] ・ 5.45mm口径の銃器\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 消音性能 : 中\n \n</text>
 	</string>
@@ -225,8 +225,8 @@
 	<string id="st_addon_silencer_descr">
 		<text>米国で設計・製造された先進的なライフル用サプレッサーで、米軍の補給コンテナの一つから「消えた」らしい。ハイグレード・スチール製の本体に4つの拡張チャンバーを設け、さらにZタイプのチタン製バッファーを連続的に配置した構造となっている。マズルフラッシュをほぼ完全に抑え、発射時の音もかなり抑えられる。また、メンテナンスも最小限で済む。このサプレッサーは、欧米製の小口径ライフルでよく使用されており、現在も欧米軍で現役で活躍している。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
-		%c[d_cyan] ・ 5.56x45mm銃器 \n
+		%c[ui_gray_3]対応銃器 : \n
+		%c[d_cyan] ・ 5.56x45mm口径の銃器 \n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 消音性能 : 中\n \n</text>
 	</string>
@@ -237,7 +237,7 @@
 	<string id="st_addon_trijicon_acog_descr">
 		<text>NATOライフル専用に作られた着脱式光学スコープ。ACOGはAdvanced Combat Optical Gunsightsの略で、Trijicon社が製造する銃器用スコープの一群を指す。このタイプのスコープは通常、高品質で、内部にトリチウムベースのレティクル照明を備えています。このタイプは、モダンな「トリジコン」レティクルのパターンを持ち、倍率は2.0xに固定されています。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ 特定のNATOライフル\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 倍率 : 2.0x\n
@@ -299,7 +299,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_pso2_descr">
 		<text>PSO（「プリッツェル スナイパースキー オプティチェスキー」すなわちロシア語で「狙撃用光学照準器」を意味する略称）は、ノヴォシビルスク光学機器工場（NPZ）で製造されたソ連製の光学照準器である。1964年にSVD狙撃銃用の標準照準器として導入されて以来、一般的に使用されている。その後、AK-74やAN-94などのアサルトライフルにも採用され、その耐久性、汎用性、そして便利な距離計を特徴とするデザイン性の高い照準線パターンが評価されている。このスコープの倍率は4.0倍で、主に遠距離での戦闘に使用できる。ワルシャワ条約機構諸国の標準的なドーヴテールマウントによって銃に取り付けられる。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ すべてのワルシャワ条約機構ライフル\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 倍率 : 4.0x\n
@@ -400,8 +400,8 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_osprey_descr">
 		<text>SilencerCo Ospreyサイレンサーを5.56mmと5.45mmライフルで使用できるように改造したもの。ゾーンでは通常、モノリスのベテランが使用している。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
-		%c[d_cyan] ・ 5.56、5.45mm銃器\n
+		%c[ui_gray_3]対応銃器 : \n
+		%c[d_cyan] ・ 5.56mm、5.45mm口径の銃器\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 消音性能 : 高い\n\n</text>
 	</string>
@@ -413,7 +413,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 		<text>SilencerCo社製12インチ散弾銃用サイレンサーSalvo 12。ほとんどのポンプアクションと半自動散弾銃とほぼすべての市販の弾薬で動作するように設計され、12 "の全長でSalvo 12は＃7ショットで銃口の音を136.8 dBに低下させる。6インチ、8インチ、10インチ、12インチの構成により、エンドユーザーはSalvo 12をスポーツクレー、水鳥、七面鳥狩り、護身用、その他多くの用途にカスタマイズし、サイズと消音のバランスを適切に取ることができる。\n \n
 		
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ 12ゲージショットガン\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 消音性能 : 高い\n \n</text>
@@ -453,8 +453,8 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_hexagon_descr">
 		<text>ヘキサゴン社製SKS用サプレッサー。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
-		%c[d_cyan] ・ 7.62mm銃器\n
+		%c[ui_gray_3]対応銃器 : \n
+		%c[d_cyan] ・ 7.62mm口径の銃器\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 消音性能 : 低い\n \n</text>
 	</string>
@@ -522,7 +522,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_usp1_descr">
 		<text>USP-1サイト(インデックス1P29)は、光学照準角は、サイト本体をウェポンマウントブラケットに対して回転させることで機械的に設定します。トリチウムライトのため、電池は不要です。視界の端にある測距スケールは、高さ1.5mの標的の1200mまでの距離を目視で確認するためのものです。\n \n
 
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ すべてのワルシャワ条約機構ライフル\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 倍率 : 4.0x\n
@@ -536,8 +536,8 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_rotor_descr">
 		<text>Rotor 43マズルブレーキは、SVDS 7.62x54に装着するために設計されたマズルブレーキです。マズルブレーキとしての位置づけですが、サウンドサプレッサーとしても機能します。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
-		%c[d_cyan] ・ 7.62mm銃器\n
+		%c[ui_gray_3]対応銃器 : \n
+		%c[d_cyan] ・ 7.62mm口径の銃器\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 消音性能 : 低い\n \n</text>
 	</string>
@@ -584,7 +584,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_hex23_descr">
 		<text>KS-23 ボア用の発射音を遮断するための "自作 "デバイス。ゾーンの一部のガンスミスが作ったもの。この装置の目的は、ボアの射撃音を少しでも小さくし、注目を集めすぎないようにすることである。轟音と重量のある設計になったので、サイレンサーを使うときに不便が加わった。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ KS-23M ボア\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 消音性能 : 低い\n \n</text>
@@ -596,7 +596,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_mono_kit_descr">
 		<text>30mmアンダーバレルグレネードランチャーを装着できるエルゴノミックフォアエンドと、短・中・長距離用サイトがセットになっています。Trijicon AcogとAN/PEQ-16 LAMが付属します。また、大容量の60連マガジンセットも付属します。このアップグレードは元に戻すことができません。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ AK-12 Monolith\n \n
 		</text>
 	</string>
@@ -607,8 +607,8 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_aac762_descr">
 		<text>AAC 7.62 SDN-6 サウンドサプレッサー 7.62x51mm NATO弾での使用のために設計されているが、7.62mm NATO、.300 AAC、6.8mm SPC、6.5mm、および5.56mm NATO弾においても優れた性能を発揮し、複数の銃器用の優れた多口径サプレッサーとしても機能する。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
-		%c[d_cyan] ・ 300 AAC、5.56、6.8 SPC, 6.5、7.62mm銃器\n\n
+		%c[ui_gray_3]対応銃器 : \n
+		%c[d_cyan] ・ 300 AAC、5.56mm、6.8 mmSP、 6.5mm、7.62mm口径の銃器\n\n
 		</text>
 	</string>
 	
@@ -618,8 +618,8 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_tgpv_descr">
 		<text>SVDSライフル専用に設計されたタクティカルサプレッサー/フラッシュハイダー。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
-		%c[d_cyan] ・ 7.62x54mmR銃器\n \n
+		%c[ui_gray_3]対応銃器 : \n
+		%c[d_cyan] ・ 7.62x54mmR口径の銃器\n \n
 		</text>
 	</string>		
 	
@@ -629,8 +629,8 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_osp9_descr">
 		<text>SilencerCo製の9mmピストル用軽音サプレッサー。\n\n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
-		%c[d_cyan] ・ 9mm銃器\n \n
+		%c[ui_gray_3]対応銃器 : \n
+		%c[d_cyan] ・ 9mm口径の銃器\n \n
 		</text>
 	</string>
 
@@ -640,8 +640,8 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_pmm_descr">
 		<text>PMMピストル用のサウンドサプレッサー。9x18ピストルにも使用可能。\n\n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
-		%c[d_cyan] ・ 9mm銃器\n \n
+		%c[ui_gray_3]対応銃器 : \n
+		%c[d_cyan] ・ 9mm口径の銃器\n \n
 		</text>
 	</string>
 
@@ -652,7 +652,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 		<text>
 		このキットを使って、偉大な銃に仕上げることができる。キットの内容は以下の通り：Fab AG FALピストルグリップ、ダストカバー DS Arms Extreme Dutyピカティニーレール付き、Vltor CASV FAL用フォアグリップ、SA-58 7.62x51用21インチバレル、DSA BRSストック。また、スコープも2本ある。NcStar 45にAimpoint T1、Trijicon Acog。このアップグレードは元に戻すことができません。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ DS Arms SA-58 AUS "オーストリア・スタイル"\n \n</text>
 	</string>
 	
@@ -662,7 +662,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_kit_fal_leup_descr">
 		<text>このキットを使って、偉大な銃に仕上げることができる。キットの内容は以下の通り： Fab AG FAL用ピストルグリップ、ダストカバー DS Arms Extreme Dutyピカティニーレール付き、Vltor CASV FAL用フォアグリップ、SA-58 7.62x51用21インチバレル、DSA BRSストックなどです。また、スコープも2本あります。NcStar 45にAimpoint T1、Leupold Mark 8 CQBSS。このアップグレードは元に戻せません。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ DS Arms SA-58 AUS "オーストリア・スタイル"\n \n
 		</text>
 	</string>	
@@ -673,7 +673,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_kit_sa5x_spec_descr">
 		<text>このキットを使って、偉大な銃に仕上げることができる。キットの内容は以下の通り： Fab AG FAL用ピストルグリップ、ダストカバー DS Arms Extreme Dutyピカティニーレール付き、Vltor CASV FAL用フォアグリップ、SA-58 7.62x51用21インチバレル、DSA BRSストックなどです。また、スコープも2本あります。NcStar 45にAimpoint T1、ELCAN SpecterDR。このアップグレードは元に戻すことができません。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ DS Arms SA-58 AUS "オーストリア・スタイル"\n \n
 		</text>
 	</string>
@@ -684,8 +684,8 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_geks545_descr">
 		<text>Hexagon社製の5.45x39および7.62x39口径用のサウンドサプレッサーです。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
-		%c[d_cyan] ・ 5.45、 7.62x39mm銃器\n \n
+		%c[ui_gray_3]対応銃器 : \n
+		%c[d_cyan] ・ 5.45、 7.62x39mm口径の銃器\n \n
 		</text>
 	</string>
 
@@ -695,7 +695,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_kek12_descr">
 		<text>Hexagon社製12ゲージショットガン、カービン銃用サウンドモデレーター。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ 12ゲージ銃器\n \n
 		</text>
 	</string>
@@ -706,8 +706,8 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_black_box_descr">
 		<text>Advanced Armament Corp.製のBLACK BOX .45サウンドサプレッサー。9mmと45ACPの銃身がねじ切り式のほとんどの銃で使用可能です。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
-		%c[d_cyan] ・ .45口径、9mm\n \n
+		%c[ui_gray_3]対応銃器 : \n
+		%c[d_cyan] ・ .45口径、9mm口径の銃器\n \n
 		</text>
 	</string>
 
@@ -717,7 +717,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_226sig_kit_descr">
 		<text> キットの内容は以下の通りです。サプレッサー用ネジ付きバレル、エルゴノミックグリッププレート、Trijicon RMR レッドドットサイト（マウントプレート付き）。このアップグレードは元に戻せません。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ シグ Sauer P226R ピストル \n \n
 		</text>
 	</string>
@@ -728,7 +728,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_mod9_descr">
 		<text>キットには以下が含まれます: サプレッサー、トリチウム サイト、Viridian X5L レーザーサイトで使用するためのネジ付きバレル。 このアップグレードは元に戻せません。\n \n 
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ ワルサーP99 \n \n
  </text>
 	</string>
@@ -739,7 +739,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_upg220_descr">
 		<text>キットの内容は以下の通りです。サプレッサー用ネジ付きバレル、トリチウムサイト、Viridian X5Lレーザーサイト、12発入り大容量マガジンが含まれます。このアップグレードは元に戻せません。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ シグ Sauer P220 ピストル\n \n
 		</text>
 	</string>
@@ -750,7 +750,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_23_up_descr">
 		<text>KS-23カラビナ用のショート＆ライトバレルです。このアップグレードは元に戻すことができません。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ KS-23 カラビナ\n \n
 		</text>
 	</string>
@@ -761,7 +761,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_kab_up_descr">
 		<text>キットの内容は以下の通りです。サプレッサー用ネジ付きバレル、Trijicon RMRサイト（マウントモジュール付き）。このアップグレードは元に戻せません。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ カラビナ KS-23M ドロズド\n \n
 		</text>
 	</string>
@@ -771,7 +771,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_daniel_descr">
 		<text>Daniel Defence Wave QD sound suppressor、Remingtonモデル700の上に装着可能。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ Remington モデル 700\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 消音性能 : 高い\n \n</text>
@@ -783,7 +783,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_archangel_descr">
 		<text>レミントンモデル700ライフル用のアーケンジェル・ポリマーストック。20連マガジンのセットが含まれます。このアップグレードは元に戻せません。 \n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ Remington M700\n \n
 		</text>
 	</string>
@@ -794,7 +794,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_magpul_pro_descr">
 		<text>PRO 700は、Magpul社製のレミントンモデル700のために設計された軽量で人間工学に基づいたシャーシです。12連マガジンとTrijicon RMR レッドドットサイトを45度アングルマウントに装着したセットが付属します。このアップグレードは元に戻すことができません。 \n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ Remington M700\n \n
 		</text>
 	</string>
@@ -805,7 +805,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_mod_x_gen3_descr">
 		<text>A*B Arms MOD X GEN III Modular Rifle Systemは、レミントンモデル700用に設計された、軽量で人間工学に基づいたドロップインシャーシです。12連マガジン一式と、45度アングルマウントに装着されたLeupold DeltaPoint PRO レッドドットサイトが付属しています。このアップグレードは元に戻すことができません。 \n \n
 
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ Remington M700\n \n
 		</text>
 	</string>
@@ -816,7 +816,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_sr1m_descr">
 		<text>SR-1MPピストル用の標準装備サイレンサー。装着にはロングバレル付きのタクティカルセットが必要です。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ SR1MP 9x21 ピストル\n
 		%c[d_purple] ・ 消音性能 : 高い</text>
 	</string>
@@ -827,7 +827,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_sr1upgr1_descr">
 		<text>トリチウムアイアンサイト、レーザー照準モジュール、サプレッサーを装着できるロングバレルがセットになっています。このアップグレードは元に戻すことができません。 \n \n
 
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ SR1MP 9x21 ピストル\n \n
 		</text>
 	</string>
@@ -838,7 +838,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_silen98_descr">
 		<text>Mauser 98k Foresterスナイパーライフルにサウンドサプレッサーを使用できるようにするアダプターまたはマズルデバイスです。このアップグレードは元に戻せません。 \n \n
 
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ モーゼル98kフォレスター\n \n
 		</text>
 	</string>
@@ -849,7 +849,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_forester_descr">
 		<text>フォレスターがモーゼル98kスナイパーライフルを自作改造するために作った自作サウンドサプレッサー。ライフル銃身への取り付けには、専用のアダプターを装着する必要がある。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ モーゼル98kフォレスター\n
 		%c[d_purple] ・ 消音性能 : 高い\n\n</text>
 	</string>
@@ -860,7 +860,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_swamp_descr">
 		<text>価格的にあまり人気がない、AK-105用のレアなボディキット。Dutyが使用しているキットに酷似している。主にクリアスカイグループのベテランの間で見かける。セット内容：延長されたフォアエンド、エルゴノミックストック、より快適なピストルグリップ。さらに、改良されたトリガーと3つの照準器も含まれており、近距離から中長距離まで「理想的な仲間」に仕上げてくれるキットです。スコープ（付属品）。Elcan SpecterDR、Trijicon RMR calimator sightを45度にマウントしたもの、AN/PEQ-15 LAM。また、このキットには45発の弾倉がセットで含まれています。このアップグレードは元に戻せません。 \n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ AK-105\n \n
 		</text>
 	</string>
@@ -871,7 +871,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_lapua700_descr">
 		<text>.308レミントンモデル700を.338ラプアマグナムに変更し、超長距離のターゲットと交戦するためのセットです。.338サイレンサー用スレッド付き338バレル、バレルロックシステムを含むMagpulプロストック、338LM用マガジンセット、改良型Leupoldサイトが付属します。このアップグレードは元に戻すことができません。 \n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ Remington M700\n
 		</text>
 	</string>
@@ -882,7 +882,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_gurza_up_descr">
 		<text>LAM、Trijicon RMR、クアドレールマウントがセットになったキットです。このアップグレードは元に戻せません。\n \n
 
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ SR1MP 9x21 Gyurza\n \n
 		</text>
 	</string>
@@ -893,7 +893,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_lazup_pl15_descr">
 		<text>レーザー照準モジュールのアップグレードにより、あらゆる位置から照準を合わせることができます。\n\n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
  		%c[d_cyan] ・ Lebedev PL-15\n \n
  </text>
 	</string>
@@ -904,7 +904,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_pl15_scolaz_descr">
 		<text>キットには、LAM、Aimpoint T1スコープ、マウントが含まれます。このアップグレードは元に戻せません。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ Lebedev PL-15\n \n
 		</text>
 	</string>
@@ -915,7 +915,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_lapu7_descr">
 		<text>レミントンM700 .338 ラプアマグナム用防熱ケーシング付きサウンドサプレッサー\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ Remington M700 .338 Lapua Magnum.\n		
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 消音性能 : 中\n \n</text>
@@ -927,7 +927,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_pl15_descr">
 		<text>Lebedev PL-15 Pistol用防熱ケーシング付きサウンドサプレッサー。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ Lebedev PL-15\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 消音性能 : 高い\n \n</text>
@@ -939,7 +939,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_shakal_descr">
 		<text>入手困難なAK-105用ボディキット。ClearSkyが使用しているキットに非常によく似ている。主にDutyグループのベテランの間で見かけることが多い。フォアエンドの延長、人間工学に基づいたストック、より快適なピストルグリップがセットになっています。さらに、改良されたトリガーと3つの照準器も含まれており、近距離から中長距離まで、この武器を「理想的な仲間」に変えてくれます。スコープ（付属品）。Trijicon Acog、Trijicon RMR calimator sightを45度にマウントしたもの、AN/PEQ-15 LAM。また、このキットには45発のマグが含まれています。このアップグレードは元に戻せません。 \n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ AK-105\n \n
 		</text>
 	</string>
@@ -950,7 +950,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_spec_isg_descr">
 		<text>ISG部隊がゾーンで使用しているサウンドサプレッサー。米国Rifle Dynamics社製。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ ISG Fire Arms: 5.45/7.62mm\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 消音性能 : 高い\n \n</text>
@@ -962,7 +962,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_u2p2g0r_descr">
 		<text>キットの内容は以下の通りです。9x19cal用スレッド付きバレル、トリチウムサイト、Viridian X5Lレーザーサイト、大容量19連マガジン、ピリマーブディをタンワンに交換。このアップグレードは元に戻すことができません。\n \n
 
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ シグ Sauer P220 ピストル\n \n</text>
 	</string>
 
@@ -972,7 +972,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_apb_descr">
 		<text>APSピストルのアップグレード用サプレッサー。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ APSピストル\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 消音性能 : 中</text>
@@ -984,7 +984,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_apsabigo_descr">
 		<text>キットの内容は以下の通りです。APBサウンドサプレッサー用スレッド付きバレル、トリチウムサイト、人間工学に基づいたピストルグリップラバー。このアップグレードは元に戻せません。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ APS ピストル\n\n
 		</text>
 	</string>
@@ -995,7 +995,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_kp_sr2_descr">
 		<text>KP SR-2 Reflex Sightは、あらゆる天候や視界の状況下で、9x21mmサブマシンガンSR-2Mからの射撃効率を高めるために設計されています。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ SR-2M SMG \n \n
 		</text>
 	</string>
@@ -1006,7 +1006,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_veresk_descr">
 		<text>SR-2M SMGと組み合わせて使用するサウンドサプレッサーです。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ SR-2M SMG\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 消音性能 : 中</text>
@@ -1018,7 +1018,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_scope_sr2_upkit_descr">
 		<text>キット内容：ピカティニーレール付きタクティカルフォアエンド、LAM、KP SR-2 リフレックスサイト。このアップグレードは元に戻せません。\n \n
 		
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ SR-2M SMG\n \n
 		</text>
 	</string>	
@@ -1029,7 +1029,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_grenade_launcher_monolit_descr">
 		<text>Monolithの設計者が、特殊静音型グレネードランチャー「6G17カナリカ」をベースに開発した30mmライトグレネードランチャー。\n \n
 
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ AK-12 Monolithにタクティカルキットを装着した状態。\n
 		%c[ui_gray_3]特徴 :\n
 		%c[d_purple] ・ 弾薬 : VOG-30 30mm グレネード\n\n</text>
@@ -1041,7 +1041,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_auga_descr">
 		<text>Steyr UMS (Universal Military Suppressor) - 5.56 NATO Aug Steyr用サウンド サプレッサー。\n \n
 			
-			%c[ui_gray_3]装着可能銃器 : \n
+			%c[ui_gray_3]対応銃器 : \n
 			%c[d_cyan] ・ Aug Steyr\n
 			%c[ui_gray_3]特徴 :\n
 			%c[d_purple] ・ 消音性能 : 中\n\n</text>
@@ -1054,7 +1054,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 		<text>AK 5C用のパーツセット。標準装備のAK 5Cを、あらゆるシーンで活躍するスタッフ付きのショートバージョンに変換する。ISGの登場直後にゾーンに登場したセット。\n \n%c[d_purple] ・ キット内容：ロープロファイルフォアグリップ、LA5 LAM、Leupold LCOおよびD'evo x6スコープ、ショートバレルとその取り付けに必要なすべての部品。 また、発射速度が上がる改造ガスモジュールもセットになっています。このアップグレードは元に戻せません。\n \n
 
 
-		%c[ui_gray_3]装着可能銃器 : \n
+		%c[ui_gray_3]対応銃器 : \n
 		%c[d_cyan] ・ AK 5C カラビナ\n \n
 		</text>
 	</string>
@@ -1065,7 +1065,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_m42k_descr">
 		<text>AR-15カービン用として信頼性の高いAdvanced Armament Corp.のユニバーサルサイレンサー。\n \n
 			
-			%c[ui_gray_3]装着可能銃器 : \n
+			%c[ui_gray_3]対応銃器 : \n
 			%c[d_cyan] ・ M4A1 RAS, L85\n
 			%c[ui_gray_3]特徴 :\n
 			%c[d_purple] ・ 消音性能 : 中\n \n</text>
@@ -1084,7 +1084,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_surfire_descr">
 		<text>Surefire SOCOM556-MONSTER 5.56x45と.223 用サイレンサー。\n \n
 			
-			%c[ui_gray_3]装着可能銃器 : \n
+			%c[ui_gray_3]対応銃器 : \n
 			%c[d_cyan] ・ M4 Tactical\n
 			%c[ui_gray_3]特徴 :\n
 			%c[d_purple] ・ 消音性能 : 中\n\n</text>
@@ -1096,7 +1096,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_grenade_launcher_scar_descr">
 		<text>ベルギーのFN Herstal社がFN SCARアサルトライフルのために開発した40mmグレネードランチャー\n\n
 
-			%c[ui_gray_3]装着可能銃器 : \n
+			%c[ui_gray_3]対応銃器 : \n
 			%c[d_cyan] ・ FN SCAR\n
 			%c[ui_gray_3]特徴 :\n
 			%c[d_purple] ・ 弾薬: M203 40mm グレネード\n\n</text>
@@ -1108,7 +1108,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_grenade_launcher_l85_descr">
 		<text>M203グレネードランチャーの後継として、2008年にヘッケラー＆コッホ社が開発したM320アンダーバレルグレネードランチャー。\n\n
 
-			%c[ui_gray_3]装着可能銃器 : \n
+			%c[ui_gray_3]対応銃器 : \n
 			%c[d_cyan] ・ L85\n
 			%c[ui_gray_3]特徴 :\n
 			%c[d_purple] ・ 弾薬: %c[ui_gray_1]M203 40mm グレネード\n\n</text>
@@ -1120,7 +1120,7 @@ SpecterDR 4x/1xは、中距離とCQBの両方に最適な選択を提供し、�
 	<string id="st_addon_sil_kac4_descr">
 		<text>Knights Armament QDSS NT-4 5.56x45と.223用サイレンサー。\n \n
 			
-			%c[ui_gray_3]装着可能銃器 : \n
+			%c[ui_gray_3]対応銃器 : \n
 			%c[d_cyan] ・ Howa Type 20\n
 			%c[ui_gray_3]特徴 :\n
 			%c[d_purple] ・ 消音性能 : 中\n \n</text>
