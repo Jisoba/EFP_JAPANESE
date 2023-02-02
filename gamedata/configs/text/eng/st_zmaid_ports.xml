@@ -513,7 +513,7 @@
 		<text>
 			ハイカーボン鋼から作られたサバイバルマチェット。\n \n
 			%c[ui_gray_3]特性: \n
-			%c[d_blue] ・%c[ui_gray_2]狩猟品\n
+			%c[d_blue] ・%c[ui_gray_2] 狩猟品\n
 			%c[d_blue] ・%c[ui_gray_2] 近接武器\n
 			%c[pda_green] ・%c[ui_gray_2] 厚い皮を持つミュータントを剥ぐことができる\n \n
 		</text>
@@ -552,9 +552,9 @@
 		<text>
 			ハンマーの頭にウレタンコーティングを施すことでスチールボールによる「ドスン」という衝撃を緩和し、柄への振動反動を軽減したハンマー。\n \n
 			%c[ui_gray_3]特性: \n
-			%c[d_blue] ・%c[ui_gray_2] everyday item\n
+			%c[d_blue] ・%c[ui_gray_2] 日用品\n
 			%c[d_blue] ・%c[ui_gray_2] 近接武器\n
-			%c[pda_green] ・%c[ui_gray_2] greater reach compared to knives\n \n
+			%c[pda_green] ・%c[ui_gray_2] ナイフよりリーチが長い\n \n
 		</text>
 	</string>
 
