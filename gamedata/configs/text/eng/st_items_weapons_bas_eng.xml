@@ -18,10 +18,10 @@
     </string>
     <string id="st_knifebf4_descr">
         <text> OTs-04ナイフは、80年代後半から90年代前半にかけて、トゥーラ中央デザイン研究局（TsKIB）で開発された、内務省部隊の特殊部隊向けのナイフである。\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] military item\n
-		%c[d_blue] • %c[ui_gray_2] melee weapon\n
-		%c[pda_green] • %c[ui_gray_2] suitable for cutting thick-skinned mutants\n \n</text>
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] ・ %c[ui_gray_2] 軍用品\n
+		%c[d_blue] ・ %c[ui_gray_2] 近接武器\n
+		%c[pda_green] ・ %c[ui_gray_2] 厚い皮を持つミュータントを剥ぐことができる\n \n</text>
     </string>
 	
 	<string id="st_kukri">
@@ -29,10 +29,10 @@
     </string>
     <string id="st_kukri_descr">
         <text>高炭素鋼を使用した特殊なブレードであるため、切断・解体性に優れている。あらゆる種類のミュータントを切断し、それらから身を守るために最適だ。\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] zone-produced item\n
-		%c[d_blue] • %c[ui_gray_2] melee weapon\n
-		%c[pda_green] • %c[ui_gray_2] suitable for cutting thick-skinned mutants\n \n</text>
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] ・ %c[ui_gray_2] ゾーン製\n
+		%c[d_blue] ・ %c[ui_gray_2] 近接武器\n
+		%c[pda_green] ・ %c[ui_gray_2] 厚い皮を持つミュータントを剥ぐことができる\n \n</text>
 		</string>
 		
 	<string id="st_wpn_ak12_custom">
@@ -112,10 +112,10 @@
 	<string id="st_tactical_knife_descr">
 		<text>[ ロシア語アクセント "ON"] この刃はMonolithの技術屋によってごくわずかしか作られないという噂がある。合金の組成は不明であり、石棺の中心部でのみ抽出が可能であると言われている［ロシア語アクセント "オフ"］。\n \n
 
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] zone-produced item\n
-		%c[d_blue] • %c[ui_gray_2] melee weapon\n
-		%c[pda_green] • %c[ui_gray_2] suitable for cutting thick-skinned mutants\n \n</text>
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] ・ %c[ui_gray_2] ゾーン製\n
+		%c[d_blue] ・ %c[ui_gray_2] 近接武器\n
+		%c[pda_green] ・ %c[ui_gray_2] 厚い皮を持つミュータントを剥ぐことができる\n \n</text>
 	</string>
 	
 	<string id="st_wpn_saiga12s_m1">
@@ -287,10 +287,10 @@
 	</string>
 	<string id="st_tomahawk_descr">
 		<text>タクティカルトマホーク、多機能で、これ一つであらゆることをこなせる。\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] military item\n
-		%c[d_blue] • %c[ui_gray_2] melee weapon\n
-		%c[pda_green] • %c[ui_gray_2] suitable for cutting thick-skinned mutants\n \n</text>
+		%c[ui_gray_3]特性:\n
+		%c[d_blue] ・ %c[ui_gray_2] 軍用品\n
+		%c[d_blue] ・ %c[ui_gray_2] 近接武器\n
+		%c[pda_green] ・ %c[ui_gray_2] 厚い皮を持つミュータントを剥ぐことができる\n \n</text>
 	</string>
 	
 	
