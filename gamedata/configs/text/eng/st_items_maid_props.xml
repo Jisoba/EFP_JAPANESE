@@ -100,4 +100,143 @@
 		</text>
 	</string>
 
+	<string id="st_prop_bong">
+		<text>即興水煙管</text>
+	</string>
+	<string id="st_prop_bong_descr">
+		<text>
+			他の奴より「ハイ」なりたいというストーカー達の欲望から生まれた即興水煙管。
+		</text>
+	</string>
+
+	<string id="st_prop_case">
+		<text>PCケース</text>
+	</string>
+	<string id="st_prop_case_descr">
+		<text>
+			機能しないが、おそらく修理可能な古いPCケース。
+		</text>
+	</string>
+
+	<string id="st_prop_chair_descr">
+		<text>木製の椅子</text>
+	</string>
+	<string id="st_prop_chair_descr">
+		<text>
+			シンプルで丈夫な木製の椅子。座面は柔らかく、座り心地も良い。
+		</text>
+	</string>
+
+	<string id="st_prop_dish1">
+		<text>プラスチック皿</text>
+	</string>
+	<string id="st_prop_dish1_descr">
+		<text>
+			プラスチック皿は、ミュータントを食する冒険に役立つ。
+		</text>
+	</string>
+
+	<string id="st_prop_dish2">
+		<text>プラスチックボウル</text>
+	</string>
+	<string id="st_prop_dish2_descr">
+		<text>
+			プラスチックボウル、ミュータントを食する冒険に役立つ。
+		</text>
+	</string>
+
+	<string id="st_prop_fan">
+		<text>小さな扇風機</text>
+	</string>
+	<string id="st_prop_fan_descr">
+		<text>
+			ゾーン内の晴れた日に役立つ小さな扇風機。機能しないが、おそらく修理可能。
+		</text>
+	</string>
+
+	<string id="st_prop_fridge">
+		<text>古い冷蔵庫</text>
+	</string>
+	<string id="st_prop_fridge_descr">
+		<text>
+			大きくて重い冷蔵庫。機能しないが、おそらく修理可能。
+		</text>
+	</string>
+
+	<string id="st_prop_keyboard">
+		<text>キーボード</text>
+	</string>
+	<string id="st_prop_keyboard_descr">
+		<text>
+			古いメカニカルキーボードは、経年劣化により淡い黄色く変色している。
+		</text>
+	</string>
+
+	<string id="st_prop_mice">
+		<text>マウス</text>
+	</string>
+	<string id="st_prop_mice_descr">
+		<text>
+			ベーシックなPCマウス。手に馴染まないが、まだ使えるかもしれない。
+		</text>
+	</string>
+
+	<string id="st_prop_mice_pad">
+		<text>マウスとマウスパッド</text>
+	</string>
+	<string id="st_prop_mice_pad_descr">
+		<text>
+			マウスのすべりをより良くするための縫製された生地は、市販されている物ほど効果的ではないかもしれない.
+		</text>
+	</string>
+
+	<string id="st_prop_monitor">
+		<text>モニター</text>
+	</string>
+	<string id="st_prop_monitor_descr">
+		<text>
+			古いモニターだが、画面は無傷のようなので、使える可能性がある。\n
+			%c[ui_gray_3]メモ:\n
+			%c[d_blue] ・ %c[ui_gray_2] モニターに表示される画像をカスタマイズすることができる。
+		</text>
+	</string>
+
+	<string id="st_prop_mug">
+		<text>マグカップ</text>
+	</string>
+	<string id="st_prop_mug_descr">
+		<text>
+			スクラップで作られたマグカップは十分にきれいで、飲み物に別の風味を与えるかもしれない。
+		</text>
+	</string>
+
+	<string id="st_prop_stove1">
+		<text>小さなストーブ</text>
+	</string>
+	<string id="st_prop_stove1_descr">
+		<text>
+			小さなストーブ。機能しないが、おそらく修理可能。
+		</text>
+	</string>
+
+	<string id="st_prop_stove2">
+		<text>大きなストープ</text>
+	</string>
+	<string id="st_prop_stove2_descr">
+		<text>
+			大きなストーブ。機能しないが、おそらく修理可能。
+		</text>
+	</string>
+
+	<string id="st_prop_tv">
+		<text>テレビ</text>
+	</string>
+	<string id="st_prop_tv_descr">
+		<text>
+			古いテレビ。単一チャンネルで調整されており、電源を必要としないようだ。\n
+			%c[ui_gray_3]メモ:\n
+			%c[d_blue] ・ %c[ui_gray_2] モニターに表示される画像をカスタマイズできる。\n
+		</text>
+	</string>
+
 </string_table>
