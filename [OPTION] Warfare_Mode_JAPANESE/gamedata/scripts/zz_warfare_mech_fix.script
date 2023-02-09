@@ -1,0 +1,137 @@
+local angles_t = {}
+
+-- HACK: Anomaly 1.5.1 has incorrect story mode IDs for characters
+local corrected_ids = {}
+corrected_ids["red_awr_tiski_01"] ="red_forester_tech"
+
+
+function physic_object_on_use_callback(_obj, who)
+    if not _G.WARFARE then
+        printf("[warfaremech] Warfare OFF, falling back to vanilla...")
+        return bind_awr.physic_object_on_use_callback(_obj, who)
+    end
+
+    if not (_obj) or not (string.match(_obj:name(), "awr")) then
+        return
+    end
+
+    local name = _obj:name()
+    
+    --// The condition for the "parent" vise, spawn through all.spawn
+    if string.match(name, "awr_tiski") and _obj:position():distance_to(db.actor:position()) < 1.5 then
+        local mechanic = ""
+        local flag_1,flag_2,flag_3,flag_4 = false,false,false,false
+        
+        --// Is the current story owner alive? If so, use the vanilla implementation.
+        local vanillaMechanic = name and angles_t[name] and angles_t[name][1]
+        
+        if (vanillaMechanic) and (get_story_object(vanillaMechanic)) and (get_story_object(vanillaMechanic):alive()) then
+            printf(string.format("[warfaremech] Vanilla mechanic %s is alive, using vanilla callback", vanillaMechanic))
+            return bind_awr.physic_object_on_use_callback(_obj, who)
+        end
+        
+        -- HACK: Anomaly 1.5.1 has incorrect story mode IDs for characters
+        if not get_story_object(vanillaMechanic) then
+            corrected = corrected_ids[name]
+            if (corrected) then
+                printf(string.format("[warfaremech] Incorrect mechanic %s @ %s detected, correcting to %s...", vanillaMechanic, name, corrected))
+                vanillaMechanic = corrected
+            else
+                printf(string.format("[warfaremech] Incorrect mechanic %s @ %s detected, correction needs to be added", vanillaMechanic, name))
+            end
+        end
+
+        --// If not, try and use the smart terrain's faction (or the player's faction if unowned)
+        local faction = warfare.actor_faction
+        if (smart_terrain.nearest_to_actor_smart.id) then
+            local smart = alife_object(smart_terrain.nearest_to_actor_smart.id)
+            faction = smart.owning_faction or warfare.actor_faction
+        end
+
+        --// Use the faction mechanic's tools
+        mechanic = "sim_default_" .. faction .. "_mechanic"
+        flag_1 = db.actor:has_info(mechanic .. "_upgrade_tier_1")
+        flag_2 = db.actor:has_info(mechanic .. "_upgrade_tier_2")
+        flag_3 = db.actor:has_info(mechanic .. "_upgrade_tier_3")
+        printf(string.format("[warfaremech] Faction mechanic %s has tier1: %s, tier2: %s, tier3: %s", mechanic, flag_1, flag_2, flag_3))
+
+        --// If the dead vanilla owner (who is also the player's faction) has better, then use that too
+        if (vanillaMechanic) and (get_story_object(vanillaMechanic)) and (get_story_object(vanillaMechanic):character_community() == warfare.actor_faction) then
+            local flag_1_v = db.actor:has_info(vanillaMechanic .. "_upgrade_tier_1")
+            local flag_2_v = db.actor:has_info(vanillaMechanic .. "_upgrade_tier_2")
+            local flag_3_v = db.actor:has_info(vanillaMechanic .. "_upgrade_tier_3")
+            printf(string.format("[warfaremech] Vanilla mechanic %s has tier1: %s, tier2: %s, tier3: %s", vanillaMechanic, flag_1_v, flag_2_v, flag_3_v))
+
+            --// Take the greater of them
+            flag_1 = flag_1 or flag_1_v
+            flag_2 = flag_2 or flag_2_v
+            flag_3 = flag_3 or flag_3_v
+        end
+
+        --// Try and get the Warfare mechanic name -- they don't have a story ID so won't show up if we pass them in directly
+        local mechanicName = game.translate_string("st_ui_workshop_owner_nobody")
+
+        --// This is so Forester's actually has his own name
+        if (get_story_object(vanillaMechanic)) and (get_story_object(vanillaMechanic):alive()) then
+            mechanicName = get_story_object(vanillaMechanic):character_name()
+        end
+
+        if (smart_terrain.nearest_to_actor_smart.id) then
+            local squads = SIMBOARD.smarts[smart_terrain.nearest_to_actor_smart.id].squads
+            for sid,_ in pairs(squads) do
+                local s = sid and alife_object(sid)
+                if (s) then
+                    local sq_name = s:name()
+                    if string.find(sq_name, mechanic) or string.find(sq_name, "tech") or string.find(sq_name, "mechanic") or string.find(sq_name, "mechan") or string.find(sq_name, "yar") or string.find(sq_name, "m_lesnik")  then
+                        local commanderID = s:commander_id()
+                        local commander = commanderID and alife_object(commanderID)
+                        local commanderName = commander and commander.character_name and commander:character_name()
+                        if (commanderName) then
+                            mechanicName = commanderName
+                            printf(string.format("[warfaremech] Found local mechanic %s", mechanicName))
+                        end
+                    end
+                end
+            end
+        end
+
+        --// Spawn the UI
+        local function start_ui()
+            local hud = get_hud()
+            ui = ui_workshop and ui_workshop.get_workshop_ui(hud, mechanic, {flag_1,flag_2,flag_3,flag_4,false})
+            if (ui) then
+                ui:ShowDialog(true)
+
+                -- Mechanic availability
+                local str_intro = game.translate_string("st_ui_workshop_info_state_intro")
+                local str_owner = game.translate_string("st_ui_workshop_owner")
+                -- ui.dlg_state.info_text:SetText( str_intro .. utils_xml.get_color("orange") .. " \\n � " .. strformat(str_owner, mechanicName) )
+                ui.dlg_state.info_text:SetText( str_intro .. utils_xml.get_color("orange") .. " \\n ・ " .. strformat(str_owner, mechanicName) ) --japan
+            end
+            return true
+        end
+        
+        local delay = actor_effects.is_animations_on() and 2 or 0
+        CreateTimeEvent(0,"delay_workshop",delay,start_ui)
+    end
+end
+
+
+function on_game_start()
+    ini_manager = itms_manager.ini_manager
+    mesh_list = utils_data.collect_section(ini_manager,"workshop_angles")
+    
+    for _, k in ipairs(mesh_list) do
+        local t = parse_list(ini_manager, "workshop_angles", k)
+        angles_t[k] = {}
+        for _, v in ipairs(t) do
+            table.insert(angles_t[k], v)
+        end
+    end
+
+    printf(string.format("[warfaremech] Unregistering vanilla workshop callback..."))
+    UnregisterScriptCallback("physic_object_on_use_callback", bind_awr.physic_object_on_use_callback)
+
+    printf(string.format("[warfaremech] Registering our own workshop callback..."))
+    RegisterScriptCallback("physic_object_on_use_callback", physic_object_on_use_callback)
+end
